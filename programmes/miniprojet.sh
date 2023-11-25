@@ -54,6 +54,8 @@ lineno=0
 
 while read -r URL;
 do
+	((lineno++)); # ou lineno=$(($lineno + 1))
+	
 	echo -e "\tURL : $URL";
 	# Réponse HTTP
 	code=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
@@ -112,7 +114,7 @@ do
 	# Les tabulations dans le echo sont là pour respecter l'indentation dans le fichier HTML qui stocke les URLs sous forme de tableau : pas obligatoires mais plus lisible avec
 	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$occurences</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> "../tableaux/$fic_tab"
 
-	((lineno++)); # ou lineno=$(($lineno + 1))
+
 done < "$chemin_urls"
 # done < $chemin_urls
 
