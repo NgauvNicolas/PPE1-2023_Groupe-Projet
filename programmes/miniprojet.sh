@@ -42,12 +42,12 @@ echo 	"<html>
 		<title>Tableau des URLs</title>
 	</head>
 	<body>
-	<section>
-		<div class="container">
-			<h1 class=\"title\" style=\"text-align: center;\">Tableau URLs $basename</h1>
-			<table class=\"table is-bordered is-striped is-narrow is-hoverable\" style=\"margin: auto\">
-				<thead style=\"background-color: #b888e1;\"><tr><th style=\"color: #ffffff\">Ligne</th><th style=\"color: #ffffff\">Code HTTP</th><th style=\"color: #ffffff\">URL</th><th style=\"color: #ffffff\">Encodage</th><th style=\"color: #ffffff\">HTML</th><th style=\"color: #ffffff\">Dump</th><th style=\"color: #ffffff\">Occurences</th><th style=\"color: #ffffff\">Contextes</th><th style=\"color: #ffffff\">Concordances</th></thead>" > "../tableaux/$fic_tab"
-# On pourra rajouter plus tard d'autres catégories au tableau, comme les aspirations, dumps, occurences, contextes, concordance, etc.S
+		<section>
+			<div class="container">
+				<h1 class=\"title\" style=\"text-align: center;\">Tableau URLs $basename</h1>
+				<table class=\"table is-bordered is-striped is-narrow is-hoverable\" style=\"margin: auto\">
+					<thead style=\"background-color: #b888e1;\"><tr><th style=\"color: #ffffff\">Ligne</th><th style=\"color: #ffffff\">Code HTTP</th><th style=\"color: #ffffff\">URL</th><th style=\"color: #ffffff\">Encodage</th><th style=\"color: #ffffff\">HTML</th><th style=\"color: #ffffff\">Dump</th><th style=\"color: #ffffff\">Compte</th><th style=\"color: #ffffff\">Contextes</th><th style=\"color: #ffffff\">Concordances</th></thead>" > "../tableaux/$fic_tab"
+	# On pourra rajouter plus tard d'autres catégories au tableau, comme les aspirations, dumps, occurences, contextes, concordance, etc.S
 
 
 lineno=0
@@ -55,13 +55,13 @@ lineno=0
 while read -r URL;
 do
 	((lineno++)); # ou lineno=$(($lineno + 1))
-	
+
 	echo -e "\tURL : $URL";
 	# Réponse HTTP
 	code=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
 		
 	# Récupération de l'encodage
-	charset=$(curl -s -I -L -w "%{content_type}" $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	charset=$(curl -s -I -L -w "%{content_type}" $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 
 	# Déterminer le résultat en fonction du code de réponse HTTP
 	if [ "$code" -eq 200 ]; then
@@ -110,7 +110,6 @@ do
 
 
 
-
 	# Les tabulations dans le echo sont là pour respecter l'indentation dans le fichier HTML qui stocke les URLs sous forme de tableau : pas obligatoires mais plus lisible avec
 	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$occurences</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> "../tableaux/$fic_tab"
 
@@ -118,6 +117,8 @@ do
 done < "$chemin_urls"
 # done < $chemin_urls
 
-echo "		</table>
+echo "			</table>
+			</div>
+		</section>
 	</body>
 </html>" >> "$fic_tab"
