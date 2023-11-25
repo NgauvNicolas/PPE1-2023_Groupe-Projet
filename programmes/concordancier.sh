@@ -4,27 +4,23 @@ langue=$1 # fr, en, es
 fic_text=$2
 motif=$3
 
-if [[ $# -ne 3 ]]
-then
+if [[ $# -ne 3 ]]; then
 	echo "Ce programme demande exactement trois arguments."
 	echo "Utilisation : $0 <langue> <fichier> <motif>"
 	exit
 fi
 
-if [[ ! -f $fic_text ]]
-then
+if [[ ! -f $fic_text ]]; then
   echo "Il n'y a pas de fichier $fic_text"
   exit
 fi
 
-if [[ -z $motif ]]
-then
+if [[ -z $motif ]]; then
   echo "Motif vide"
   exit
 fi
 
-if [[ $langue != 'fr' && $langue != "en" && $langue != "es" ]]
-then
+if [[ $langue != 'fr' && $langue != "en" && $langue != "es" ]]; then
     echo "Langue acceptée : fr (français), en (anglais) ou es (espagnol)"
     exit
 fi
