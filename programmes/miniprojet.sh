@@ -4,7 +4,7 @@
 # chemin=$1
 # chemin="../urls/fr.txt"
 
-# Le chemin vers le fichier source d'URLs : ex : ../urls/fr.txt
+# Le chemin vers le fichier source d'URLs : ex : ../URLs/es.txt
 chemin_urls=$1
 # Le fichier HTML qui va contenir le tableau des URLs : exemple, ici tab_fr.html
 fic_tab=$2
