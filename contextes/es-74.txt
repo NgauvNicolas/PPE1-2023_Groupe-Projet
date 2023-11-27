@@ -1,0 +1,19 @@
+   (BUTTON) Buscar
+     * Institucional
+          + Creación y Evolución histórica
+          + Cometidos
+          + Plan estratégico
+--
+     * Inicio
+     * Institucional
+     * Creación y Evolución histórica
+
+Creación y evolución histórica
+
+     *
+--
+   legalmente a la AGESIC
+
+Evolución Histórica
+
+   Su funcionamiento fue reglamentado en junio de 2006 por el Decreto N°

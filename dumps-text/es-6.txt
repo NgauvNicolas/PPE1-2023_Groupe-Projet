@@ -1,0 +1,266 @@
+   Para depositar documentos, por favor, inicia sesión e identifícate con
+   tu cuenta de correo institucional de la UCM con el botón MI CUENTA UCM.
+   No emplees la opción AUTENTICACIÓN CON CONTRASEÑA / Log to deposit
+   documents and identify yourself with your UCM institutional email
+   account using MY UCM ACCOUNT button. Do not use the PASSWORD LOGIN
+   option.
+   Repository logo [docta_logo.png]
+   ____________________ (BUTTON)
+     * Español
+     * English
+
+     * Log In
+       (BUTTON) My UCM account Password login
+       Email address ____________________Password ____________________
+       (BUTTON) Log in
+
+   (BUTTON)
+   Repository logo [docta_logo.png]
+   ____________________ (BUTTON)
+     * Español
+     * English
+
+     * Log In
+       (BUTTON) My UCM account Password login
+       Email address ____________________Password ____________________
+       (BUTTON) Log in
+
+     * Communities & Collections
+     * All of Docta Complutense
+     * Statistics
+     * Help
+     * About Docta Complutense
+
+    1. Home
+    2. Investigación
+    3. Tesis Doctorales
+    4. Apuntes sobre la estructura y la evolución de las sociedades
+
+
+   Publication:
+   Apuntes sobre la estructura y la evolución de las sociedades
+   Loading...
+   Thumbnail Image
+
+Files
+
+   Tesis.pdf (1.51 MB)
+
+Official URL
+
+Full text at PDC
+
+Publication Date
+
+   2011
+
+Authors
+
+   Muiños Pan, Manuel
+
+Advisors (or tutors)
+
+   Barceló Ventayol, Alfons
+
+Editors
+
+Journal Title
+
+Journal ISSN
+
+Volume Title
+
+Publisher
+
+Citations
+
+   Google Scholar
+
+Exportar
+
+   REFWORKS ENDNOTE ZOTERO MENDELEY
+   (BUTTON) Format
+   DC QDC MarcXML RDF MODS METS ORE-ATOM
+
+Research Projects
+
+Organizational Units
+
+Journal Issue
+
+Abstract
+
+   Planteamos dos modelos, el crecimiento proporcional máximo (VN) y el
+   estado estacionario con la mayor reducción de las jornadas (TE). VN lo
+   usamos como teoría de los capitalismos y de algunas sociedades
+   biológicas y, aunque sólo sirva como una primera aproximación grosera,
+   demostramos que en este modelo se cumplen muchas leyes matemáticas que
+   se observan en esos sistemas reales. TE lo usamos como una sociología
+   de la asignación. Analizamos también las economías óptimas, el papel
+   que juegan el valor y la contabilidad en los mecanismos económicos
+   necesarios para establecer una asignación, y contrastamos VN con otras
+   economías óptimas posibles. Señalamos que los procesos evolutivos que
+   han diseñado las sociedades permiten entender su parecido con VN, y más
+   en concreto la selección natural en el caso de las sociedades
+   biológicas, pero que la estructura de las sociedades humanas no puede
+   ser explicada sólo con una hipótesis darwiniana. Por último damos unas
+   breves notas sobre la historia del pensamiento económico. Primera
+   parte. Planteamiento de los modelos. Explicamos las condiciones de dos
+   comportamientos simples, los crecimientos proporcionales y los estados
+   estacionarios. Postulamos dos modelos, el crecimiento proporcional con
+   el mayor factor de expansión o modelo Von Neumann (VN), y el estado
+   estacionario con la mayor reducción de las jornadas o Teoría de la
+   explotación (TE). Ambos son problemas de maximización restringida y
+   para que tengan solución tienen que cumplirse unas condiciones de
+   máximo en las que intervienen unas variables auxiliares, los
+   multiplicadores de Lagrange. Estos multiplicadores y condiciones de
+   máximo pueden interpretarse en VN como los precios y la ley de la
+   rentabilidad, y en TE como los valores-trabajo y la ley ricardiana. Las
+   soluciones de los modelos nos informan de la estructura económica y de
+   los valores en cada caso, por lo que tenemos teorías precisas de dos
+   economías diferentes. VN lo usamos como una aproximación de los
+   sistemas que se comportan de acuerdo con la producción por la
+   producción misma, como los capitalismos y determinadas sociedades
+   biológicas, y TE como una sociología de la asignación, como un estudio
+   del control de la economía por los trabajadores. Segunda parte.
+   Desarrollo de los modelos. Analizamos los vínculos de nuestros modelos
+   con teorías de economistas del pasado y también algunas de sus
+   dificultades. Explicamos cómo tratar la posición espacial, las materias
+   duraderas, la estructura demográfica y laboral, los procesos duraderos,
+   las funciones de producción, los comportamientos cíclicos, los tipos de
+   procesos y materias, los intercambios o los flujos impuestos al
+   sistema. Deducimos de VN leyes cuantitativas precisas que se observan
+   empíricamente en los capitalismos, como: * las materias son más baratas
+   allí donde son producidas originariamente * los precios de las materias
+   duraderas obedecen las fórmulas de depreciación * el precio de la
+   tierra es su renta perpetua * el coste laboral es igual al ingreso que
+   se va a obtener con el trabajo * el precio de una empresa es su
+   valoración fundamental * para cada insumo se cumple la ley de la
+   rentabilidad marginal * la ley del interés compuesto se cumple en cada
+   fase de una economía cíclica * se cumplen las leyes de los signos según
+   el tipo de materia * los precios son proporcionales a las tasas de
+   intercambio de los mercados * el precio de una materia es su ingreso
+   más rentable y su coste mas barato También deducimos las leyes
+   correspondientes en TE, no siempre coincidentes con las que se observan
+   en los capitalismos y VN. Mostramos que si un mecanismo económico
+   cualquiera consiguiera coordinar unos subsistemas mediante intercambios
+   sólo podría hacerlo de acuerdo a la solución de VN si cada uno de los
+   subsistemas crece proporcionalmente lo máximo posible, o de acuerdo a
+   la solución de TE si los subsistemas reducen las jornadas lo máximo
+   posible manteniendo un estado estacionario. Estudiamos la relación que
+   hay entre una variación en los flujos de materias que se imponen al
+   sistema y el valor. Tercera parte. Análisis de los modelos. Demostramos
+   que bajo ciertos supuestos VN y TE tienen solución. También como cambia
+   ésta cuando modificamos los datos de los que partimos, y así
+   perturbándolos levemente el factor-VN aumenta en una tasa igual al
+   precio de la perturbación y el factor-TE en una tasa igual a su
+   valor-trabajo. Desarrollamos algunos algoritmos para resolver nuestros
+   modelos, que nos permiten encontrar todas las soluciones en los
+   problemas pequeños o atacar problemas muy grandes, y además entender el
+   vínculo de nuestros modelos con otros problemas como los de autovalores
+   o los programas lineales. Explicamos un algoritmo similar al simplex y
+   su parecido con determinados aspectos del mecanismo mercantil. Cuarta
+   parte. Asignación, valor y contabilidad. Las economías óptimas son
+   aquellas en las que la asignación maximiza una función objetivo
+   cumpliéndose los balances materiales, son problemas de maximización
+   restringida. Para que estos problemas tengan solución tienen que
+   cumplirse unas condiciones de máximo en donde intervienen unas
+   variables auxiliares, los multiplicadores de Lagrange. Muchos
+   algoritmos matemáticos buscan la solución de estos problemas
+   comprobando si se cumplen estas condiciones, y si no es así intentando
+   que se incumplan menos. Pero resolver las ecuaciones de una economía
+   óptima con un algoritmo matemático es muy difícil, y los es aun más
+   establecer la asignación en una economía real. Robinson puede
+   establecerla con su inteligencia e imaginación, pero esto no es viable
+   en una economía compleja con tecnología avanzada. Entonces los
+   mecanismos de asignación como el mercantil son imprescindibles ya que
+   actúan como algoritmos reales. Una vía para que el valor tome cuerpo en
+   la realidad es que un mecanismo establezca la asignación usando una
+   contabilidad, imitando la manera de operar de algunos algoritmos
+   matemáticos. Tenemos que en el cálculo económico las contabilidades y
+   los valores juegan el mismo papel que las condiciones de máximo y los
+   multiplicadores de Lagrange en el cálculo matemático. No obstante los
+   valores y las contabilidades dependen de la función objetivo que se
+   maximice. En una economía orientada a la satisfacción de las
+   necesidades los valores son la tasa a la que aumenta ésta con la
+   introducción de una pequeña cantidad de la materia, y el balance
+   contable toma en cuenta también ese objetivo. Pero en VN, como en los
+   capitalismos, la asignación no está orientada a la satisfacción de las
+   necesidades sino que maximiza la producción ponderada final, las
+   materias valen lo que van a rendir y los balances contables consideran
+   sólo los beneficios marginales; la función objetivo no depende de los
+   humanos y los trabajadores son insumos como otros, hasta el punto de
+   que VN tiene solución para una economía automática. Además podemos
+   intentar reconstruir la función objetivo que se maximiza en una
+   economía real si conocemos la contabilidad que opera en ella, y como en
+   el capitalismo ésta obedece la ley de la rentabilidad VN resulta su
+   contrapartida matemática. Detallamos también unas ecuaciones que pueden
+   entenderse como una generalización de VN para los comportamientos no
+   simples. Quinta parte. La evolución de las sociedades. Nos planteamos
+   por qué VN se parece a los capitalismos y a las colmenas, y por qué los
+   humanos y las abejas viven en unos sistemas así. Las colmenas funcionan
+   con una gran eficiencia reproductiva porque la selección natural diseña
+   sociedades que se reproducen lo mejor posible. Pero en VN escogemos
+   precisamente el crecimiento proporcional "más apto", actuamos imitando
+   a la selección natural. Por eso este modelo es un capítulo de la Teoría
+   de la evolución darwiniana, y las propiedades de VN (la ley de la
+   rentabilidad, la del interés compuesto, las fórmulas de depreciación,
+   etc.) son leyes que cumplen aproximadamente las sociedades biológicas
+   (si se maximiza el crecimiento del conjunto y si se comportan de forma
+   simple). Tenemos otra vía para que la categoría valor tome cuerpo en un
+   sistema real, si éste ha surgido como consecuencia de un proceso
+   darwiniano, y de hecho esta categoría ya ha sido usada por los biólogos
+   en relación con la selección natural. Pero no todas las sociedades
+   biológicas obedecen VN, y los sistemas que no tiendan al crecimiento
+   del conjunto, los que no se comportan de manera simple, o los que son
+   resultado de la selección artificial, pueden alejarse mucho del
+   crecimiento máximo. VN no es una ley física ineludible sino el
+   resultado de unos procesos de selección que pueden ser alterados. Por
+   otra parte observamos que las civilizaciones humanas operan de manera
+   muy diferente entre sí y con claras distancias con respecto a VN, en
+   contradicción con una hipótesis darwiniana. Además los humanos tienen
+   inteligencia y son capaces de escapar a procesos espontáneos como la
+   selección natural, lo que nos plantea la cuestión de por qué los
+   humanos no han seleccionado artificialmente sus propias sociedades. Por
+   lo tanto, aunque los capitalismos se parezcan a VN, una hipótesis
+   darwiniana no puede por si sola explicar la historia de la Humanidad.
+   Sexta parte. Notas históricas. Detallamos diferentes teorías sobre la
+   relación entre valores-trabajo y precios y las analizamos críticamente.
+   Describimos también la historia de los modelos económicos y como éstos
+   han sido el resultado de muchas mejoras progresivas. Una de las tareas
+   de nuestro tiempo es desarrollar la modelización de economías reales,
+   pero también la de economías alternativas para que la Humanidad pueda
+   escoger la sociedad que prefiera con conocimiento de causa.
+
+Description
+
+   Tesis de la Universidad Complutense de Madrid, Facultad de Ciencias
+   Políticas y Sociología, Departamento de Economía Aplicada V, leída el
+   22-06-2011. Puede consultarse más información sobre la tesis en:
+   http://sites.google.com/site/manuelmuinhospan/
+
+UCM subjects
+
+   Teorías económicas
+
+Unesco subjects
+
+   5307 Teoría Económica
+
+Keywords
+
+Citation
+
+URI
+
+   https://hdl.handle.net/20.500.14352/47818
+
+Collections
+
+   Tesis Doctorales
+   Full item page
+   Logo de Universidad Complutense
+     * Contact and feedback
+     * Cookie settings
+     * Legal Notice
+     * Open science

@@ -1,0 +1,229 @@
+   #alternate alternate alternate Boletín BIREME/OPS/OMS » Feed Boletín
+   BIREME/OPS/OMS » Comments Feed Boletín BIREME/OPS/OMS » La evolución
+   tecnológica Comments Feed alternate alternate alternate
+
+   Ir al contenido
+
+     * Português
+     * English
+
+   Boletín BIREME/OPS/OMS
+
+   MENUMENU
+     * Acerca del Boletín BIREME
+     * Todas las ediciones
+     * Inscribir
+
+   Buscar:
+   ____________________
+   (BUTTON) Búsqueda
+
+   HOME > Sin categoría > La evolución tecnológica
+
+   Boletín BIREME n°6: Número especial 50° aniversario
+
+La evolución tecnológica
+
+   Publicado en 25 March, 2017
+
+   La cooperación técnica de BIREME sigue evolucionando con sucesivos
+   modelos de gestión de información y comunicación científica y con el
+   uso intensivo de las tecnologías de información (TI), a través del
+   desarrollo de productos y servicios innovadores alineados a los avances
+   y estándares internacionales y atenta a su misión de democratizar el
+   acceso, la publicación y el uso de la información, del conocimiento y
+   de la evidencia científica.
+
+   El primer periodo correspondiente a su creación, en 1967, hasta el
+   final de la década de 1970,estuvo basado en las funciones esenciales de
+   las bibliotecas médicas. El segundo periodo, que se extiende  hasta
+   mediados de la década de los 80, expande la cooperación para el control
+   bibliográfico y la indización de la literatura científica y técnica en
+   ciencias de la salud de América Latina y el Caribe (AL&C),
+   transformándose de Biblioteca Regional de Medicina en Centro
+   Latinoamericano y del Caribe de Información en Ciencias de la Salud. El
+   tercer periodo, que comprende fines de los años 80 e inicio de los 90,
+   representa la descentralización del control bibliográfico por medio del
+   desarrollo del Sistema Latinoamericano y del Caribe de Información en
+   Ciencias de la Salud, formado por una institución coordinadora nacional
+   en cada país de AL&C, fortaleciendo la base de datos bibliográficos
+   LILACS. El cuarto periodo empezó a fines de los años 90 con la adopción
+   de la Internet como plataforma de producción de las fuentes de
+   información científica y técnica en salud, cuyo marco principal fue el
+   lanzamiento de la Biblioteca Virtual en Salud (BVS) en 1998, con la
+   Declaración de San José, Costa Rica, Rumbo a la Biblioteca Virtual en
+   Salud, aprobada durante el 4º Congreso Regional de Información en
+   Ciencias de la Salud (CRICS4)[1].
+
+   Estos periodos también son marcados por la evolución de la TI y la
+   forma como BIREME la adoptó para perfeccionar su trabajo y ampliar sus
+   funciones.
+
+   Algunos marcos históricos se presentan abajo, demostrando el empleo de
+   la tecnología por BIREME en el ejercicio de su cooperación técnica en
+   estos 50 años:
+     * En 1972, BIREME ingresa al mundo de la información electrónica con
+       el uso de una terminal Olivetti, operando a través del Satélite
+       Intelsat con la NLM por el sistema MEDLINE (antiguo MEDLARS). Este
+       sistema actuaba con un acervo de 2.300 revistas, localizadas en 180
+       bibliotecas médicas que operaban en Estados Unidos, nueve en Canadá
+       y en Inglaterra y una en Francia;
+     * En 1974, el sistema comenzó a funcionar on-line, con un banco de
+       datos del sistema MEDLINE instalado en una computadora IBM en el
+       denominado en la época IEA (Instituto de Energía Atómica de la
+       Universidad de São Paulo) y terminales adquiridas por el PNUD
+       (Programa de las Naciones Unidas para el Desarrollo). El sistema
+       pasa a ser operado también en Minas Gerais, Bahía, Espírito Santo y
+       Pernambuco en agosto de 1975, conectados a la misma computadora;
+     * En 1977, con la llegada de una minicomputadora, BIREME empieza a
+       desarrollar sistemas de automatización de biblioteca, del IMLA
+       (Index Medicus Latinoamericano) – precursor de LILACS (Literatura
+       Latinoamericana y del Caribe en Ciencias de la Salud), y del RNPT
+       (Registro Nacional de Patología Tumoral) – sistema de registro de
+       diagnósticos de cáncer realizados por laboratorios de todo el
+       territorio nacional;
+     * A mediados de la década de los 80, como menciona el ex-director de
+       BIREME, Adalberto O. Tardelli, “BIREME se benefició con el avance
+       de las tecnologías de información, adoptando la plataforma MINISIS
+       del IDRC (International Development and Research Centre, Canadá)
+       para diseminar centralizadamente la información de LILACS y
+       MEDLINE. El empleo de microcomputadoras y de la plataforma CDS/ISIS
+       de la UNESCO permitió tanto la entrada de datos bibliográficos
+       descentralizada de la base de datos regional LILACS y del catálogo
+       colectivo SeCS, como también la diseminación de información por
+       medio de LILACS CD-ROM. Con el proyecto y el desarrollo propio de
+       la Interfaz CISIS, también logró diseminar la base de datos
+       internacional MEDLINE en CD-ROM”;
+     * En 1990, como escribió el ex-director de BIREME, Abel L. Packer, en
+       la publicación CRB8 Boletin, Ene-Mar de 1990, “… el CD-ROM es el
+       medio ideal y revolucionario para diseminar informaciones. Ello se
+       demuestra por el éxito del proyecto LILACS/CD-ROM. Con cerca de 160
+       lectores instalados en centros de la red, la Organización
+       Panamericana de la Salud rompió las barreras económicas y
+       tecnológicas que impedían que la comunidad de profesionales tuviera
+       acceso rápido, eficiente y barato a la literatura generada en la
+       región y fuera de la misma. LILACS/CD-ROM es la más completa y
+       actualizada base de datos en el área de la salud gestionada por
+       BIREME…”.
+
+   evolucao-tecnologica
+
+   Con el surgimiento y consolidación de la Internet como medio
+   predominante de información y comunicación a partir de mediados de los
+   años 90, BIREME sigue perfeccionando el desarrollo de los sistemas de
+   información con el uso de estándares internacionales y de software
+   libre y abierto, que pasó a ser considerado una directiva fundamental
+   para expandir las capacidades de gestión, búsqueda, recuperación y uso
+   de información en salud en los países de AL&C, reduciendo barreras
+   económicas, tecnológicas y de capacidades humanas y ampliando las
+   posibilidades de reutilización, colaboración e innovación. En 2005,
+   durante la 4ª Reunión de Coordinación Regional de la BVS, en las
+   discusiones del grupo de trabajo “Tecnologías de Información para el
+   Acceso Equitativo a la Información”[2], se recomendó que BIREME
+   promoviera una Red de Desarrolladores (RedDes) de tecnologías de
+   información, con el objetivo de apoyar los proyectos regionales
+   coordinados por ella, la interoperabilidad entre sus fuentes y flujos
+   de información y la accesibilidad de sus interfaces. En 2017, la RedDes
+   cuenta con más de 400 miembros registrados en su mailing list y ya
+   realizó 3 encuentros regionales (Cuba 2007[3], Brasil 2008 [4] y EE.UU.
+   2012[5]), con una amplia presentación, discusión, desarrollo y adopción
+   de metodologías y tecnologías alineadas al estado del arte
+   internacional.
+
+   Los últimos quatro años, BIREME realizó esfuerzos para actualizar las
+   soluciones tecnológicas utilizadas en su cooperación técnica, adoptando
+   tecnologías abiertas, modernas y de relevancia mundial en
+   almacenamiento y recuperación de datos, sistemas de gestión de
+   contenidos, desarrollo web y calidad y visualización de datos. Con su
+   red de centros cooperantes viene promoviendo un cambio de paradigma,
+   que sigue la tendencia de software como servicio (SaS). Por ejemplo,
+   para cooperar con LILACS, ya no es necesario instalar y configurar una
+   aplicación y mantenerla localmente para catalogación e indización.
+   Ahora este trabajo puede hacerse directamente por un servicio online,
+   disponible en Internet y hospedado en BIREME.
+
+   Con las nuevas tendencias y expresivos avances relacionados al big
+   data, Internet de las cosas, ciencia de datos, computación cognitiva,
+   inteligencia artificial, aprendizaje de máquina, realidad virtual y
+   aumentada, entre otros, nuevos caminos de oportunidades y desafíos se
+   abren a BIREME, tal vez señalando su próximo periodo.
+
+
+   Referencias
+
+   [1]http://www.paho.org/bireme/index.php?option=com_content&view=article
+   &id=33:historia&Itemid=153
+
+   [2]http://bvs4.icml9.org/gt/ti/presentation.php
+
+   [3]http://www.eventos.bvsalud.org/EDRedes1/
+
+   [4]http://bvs5.crics8.org/agendas/bvs5_desenvolvedores/presentation.php
+   ?lang=pt
+
+   [5]http://reddes.bvsalud.org/reddes3/
+
+Noticias relacionadas
+
+    1. Contribuciones de los conferencistas en los ejes temáticos del
+       CRICS10 y la Agenda 2030
+    2. LILACS: trayectoria de compromiso e innovación para el acceso a la
+       información científica y técnica en salud de América Latina y el
+       Caribe
+    3. LEGISALUD: lanzada una nueva versión de la plataforma en acceso
+       abierto a la legislación en salud y Covid-19 de Argentina
+
+2 Comentarios para "La evolución tecnológica"
+
+     *
+
+Jorge Santana Álvarez en 14 April, 2017 a 2:24 am
+       Pienso que se debe continuar progresando para que la divulgación
+       científica se mantenga al mismo nivel de las nuevas tecnologías..
+       Respuesta
+     *
+
+Odalys Esteban Quevedo en 29 April, 2017 a 4:32 pm
+       FELICIDADES EN EL ANIVERSARIO 50 DE BIREME DESDE LA BIBLIOTECA
+       VIRTUAL EN SALUD (BVS) LA HABANA, FACULTAD DE MEDICINA ENRIQUE
+       CABRERA.
+       La gestión de información y la divulgación científica tiene el reto
+       de seguir buscando usar las nuevas tecnologías en beneficio de la
+       comunidad de profesionales.
+       Respuesta
+
+Leave a Reply Cancel reply
+
+   Your email address will not be published. Required fields are marked *
+   Comentario *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   Nombre * ______________________________
+   E-mail * ______________________________
+
+   [ ] Save my name, email, and website in this browser for the next time
+   I comment.
+
+   Post Comment
+
+
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   logo BIREME
+
+     * Facebook
+     * Twitter
+     * Youtube

@@ -1,0 +1,255 @@
+     * El método de proyectos en tecnología.
+     * 1.- La tecnología
+          + 1.1.- Los productos tecnológicos.
+          + 1.2.- La historia de la tecnología.
+          + 1.3.- La tecnología y el medio ambiente.
+          + 1.4.- El futuro de la tecnología.
+     * 2.- El aula-taller de tecnología
+          + 2.1.- Seguridad y salud
+          + 2.2.- La normalización
+     * 3.- Análisis de objetos.
+     * 4.- El método de proyectos.
+          + 1ª fase: Definición y análisis del problema.
+          + 2ª fase: Búsqueda de información.
+          + 3ª fase. Diseño.
+          + 4º fase. Planificación.
+          + 5ª fase. Construcción.
+          + 6ª fase. Evaluación.
+          + 7ª fase. Divulgación.
+     * Créditos.
+
+   « Anterior | Siguiente »
+
+1.2.- La historia de la tecnología.
+
+   Hace algunos años, no muchos, digamos unos 5 millones de años, el
+   hombre tenía todo su cuerpo cubierto de pelo. Luego lo perdió (aunque
+   no en todos los casos...) pero de todas formas, el hombre encontró la
+   forma de cubrir sus necesidades y para evitar el frío se cubría con
+   pieles de los animales que cazaba para comer.
+
+   Después, descubrió que las fibras vegetales le podían dar abrigo e
+   inventó la ropa. Se cansó de andar descalzo e inventó los zapatos, se
+   cansó de gritar e inventó el teléfono, se cansó de quemarse los dedos
+   (y las pestañas) con velas e inventó la luz eléctrica, se cansó de
+   contar a mano e invento la calculadora, y el ordenador...
+
+   Como sabemos, la tecnología fabrica objetos para mejorar nuestra
+   calidad de vida en todos los aspectos. Y es más, estas innovaciones
+   tecnológicas parecen surgir a un ritmo muy alto, piensa si no en que
+   rápido se quedará tu ordenador obsoleto cuando sólo pasen meses.
+
+   La Evolución Tecnológica va mano a mano con la Ciencia, aunque ambas
+   cosas son distintas:
+     * Los descubrimientos científicos engloban el conocimiento en sí
+       mismo.
+     * La Tecnología aplica esos conocimientos para resolver una necesidad
+       humana.
+
+   Se suele asociar tecnología con modernidad, pero realmente la actividad
+   tecnológica, la curiosidad por modificar nuestro entorno para mejorar
+   nuestras condiciones de vida, es algo tan viejo como la humanidad.
+
+   La Prehistoria.
+
+   Es el periodo de tiempo transcurrido desde la aparición del primer ser
+   humano hasta la invención de la escritura, hace más de 5 000 años.
+
+   Los primeros hombres prehistóricos eran nómadas que se dedicaban a la
+   caza y a la recolección de frutos. Sus avances tecnológicos estaban
+   orientados a su supervivencia.
+   La prehistoria se divide en tres etapas; Paleolítico, Mesolítico
+   yNeolítico.
+
+   La primera revolución tecnológica se produjo hace unos 10.000 años, en
+   el Neolítico, cuando los seres humanos pasaron de ser nómadas a
+   sedentarios desarrollando las primeras técnicas agrícolas.
+
+   Descubrimiento clave: La agricultura
+
+   Llamamos prehistoria al periodo transcurrido desde la aparición de los
+   primeros homínidos hasta la aparición de los primeros documentos
+   escritos
+
+   La Edad Antigua (3 000 a.C.  - siglo V d.C.).
+
+   En Mesopotamia, los sumerios inventaron la escritura cuneiforme
+   (aproximadamente en el año 3 000 a.C.) y en Egipto, Imhotep introduce
+   la piedra natural en las construcciones.
+
+   En esta época aparecen las ciudades-estados en Grecia y los imperios
+   territoriales (Roma).
+
+   Las aportaciones griegas fueron más científicas y filosóficas, mientras
+   que los romanos se dedicaron más a la ingeniería tanto civil como
+   militar.
+
+   Al final de este periodo, el desarrollo tecnológico decae, los
+   historiadores lo atribuyen al esclavismo. Los esclavos son mano de obra
+   barata por lo que no es necesario producir innovaciones que faciliten
+   las tareas manuales y repetitivas.
+
+   Descubrimiento clave: la rueda
+
+   La Edad Media  (siglo V d.C.-1492).
+
+   El Imperio Romano de Occidente cae definitivamente en el siglo V a
+   causa de las invasiones bárbaras. Se pierde así gran parte del legado
+   intelectual de la Antigüedad.
+
+   En Oriente, los árabes son los herederos de la cultura clásica, que se
+   encargarán de reintroducir en Europa. Paralelamente, desde el 2 000
+   a.C.,  hasta el siglo XV en China construyeron una sociedad floreciente
+   que produjo un sin fin de éxitos tecnológicos.
+
+   De esta época destacan los alquimistas San Alberto Magno, Ramón Llul,
+   Roger Bacon y Yabir ibn Hayyan (Geber), los médicos Avicena y Averroes
+   y el matemático Al-Karayi.
+
+   En Europa a partir del siglo XI, se produce un resurgimiento
+   intelectual al crearse las universidades y las escuelas catedralicias.
+
+   En esta época aparecen muchos inventos. Tres innovaciones tecnológicas
+   destacan sobre las demás: el papel,  la imprenta y la pólvora.
+
+   Descubrimiento clave: La imprenta
+
+   La Edad Moderna (1492 - 1789).
+
+   Es el periodo comprendido entre el Descubrimiento de América y la
+   Revolución Francesa.
+
+   En este periodo destacan los grandes descubrimientos geográficos como
+   el descubrimiento de América, el Renacimiento, la Reforma Protestante y
+   la Contrarreforma.
+
+   Con el crecimiento de las ciudades se produjo un cambio en el sistema
+   económico: la economía feudal dio paso a los primeros indicios del
+   sistema capitalista.
+
+   Toda esta actividad condujo a la necesidad de buscar nuevas tierras
+   donde conseguir las materias primas, necesarias para fabricar los
+   productos. Además, significó la apertura de nuevos mercados donde
+   venderlos.
+
+   En esta época aparecen muchos inventos. Tres  innovaciones tecnológicas
+   destacan sobre las demás: la brújula, la cartografía y las armas de
+   fuego.
+
+   Descubrimiento clave: El galeón
+
+   La Revolución Industrial (1760 - 1840).
+
+   La primera revolución industrial nace en Inglaterra a finales del siglo
+   XVIII con el invento de la máquina de vapor. Por primera vez, la
+   Humanidad podía realizar tareas agrícolas o industriales prescindiendo
+   del esfuerzo de las personas o animales.
+
+   Este invento propició la agricultura a gran escala y el desarrollo de
+   las industrias.
+
+   Al mejorar los medios de producción se produjo una migración masiva del
+   campo a las ciudades, donde estaban las fábricas, cambiando la sociedad
+   pues aparece la clase obrera. Los primeros trabajadores estaban
+   obligados a cumplir largas jornadas de trabajo con apenas descansos y
+   vacaciones. Esto da lugar a la aparición de los movimientos obreros que
+   empiezan a luchar por los derechos de los trabajadores.
+
+   En esta época aparecen muchos inventos e   innovaciones tecnológicas
+   como el teléfono, la bombilla, la siderurgia, el pararrayos, el
+   telégrafo, la máquina de coser y los vehículos a motor.
+
+   Descubrimiento: La máquina de vapor
+
+   El siglo XX y XXI hasta hoy.
+
+   En el siglo XX se produce un desarrollo tecnológico extraordinario.
+   Aparecen los primeros aviones, la electricidad llega a las ciudades y a
+   las fábricas, nace la electrónica que propicia el surgimiento de los
+   primeros ordenadores personales hacia 1980,  nace y se desarrolla la
+   tecnología nuclear, la medicina experimenta grandes avances que
+   prolongan la calidad de vida y la edad del ser humano,   nace y se
+   desarrolla la tecnología espacial que coloca satélites artificiales en
+   órbita (1957), el Hombre llega a la Luna (1969) y se lanzan sondas
+   interplanetarias, se desarrollan las grandes redes de comunicación
+   telefónicas fijas y móviles, aparece Internet (1967) y el correo
+   electrónico (1971) y las www.
+
+   En esta época aparecen muchos inventos e   innovaciones tecnológicas
+   como por ejemplo, la radio, la televisión, el teléfono móvil,  las
+   centrales nucleares, los robots, los CDs y DVDs, el cine, los
+   microprocesadores, los ordenadores personales, los
+   electro-domésticos...
+
+   Descubrimiento clave: El PC e Internet
+
+   Descubrimiento clave: El GPS
+   Lectura
+
+   Las distintas innovaciones tecnológicas que se han sucedido a lo largo
+   de la historia han ido modificando la vida de las personas.
+   La tecnología nos ha permitido tener un lugar de residencia fijo en
+   lugar de llevar un estilo de vida nómada que en el pasado nos obligaba
+   a desplazarnos.
+
+   Los transportes y las comunicaciones han desarrollado el comercio y nos
+   han permitido disfrutar de materiales, comida, objetos, etc. que no
+   están disponibles ni son propios de la región donde habitamos.
+
+   Además la escritura, la imprenta o Internet nos han posibilitado
+   adquirir cada vez ma-yores conocimientos, mayor información acerca del
+   mundo en el que vivimos, movernos cada vez más rápido por todo el
+   planeta y comunicarnos con personas que están lejos de nosotros.
+
+   Si la tecnología nos ha hecho independientes de los cambios en el medio
+   natural (salvo casos extremos) hoy en día podemos seguir haciendo
+   nuestra vida con frío, calor, lluvia o nieve. No obstante, nos ha hecho
+   dependientes de máquinas cada vez más complejas y de alto consumo
+   energético.
+
+   La actividad tecnológica tiene una repercusión en nuestro entorno muy
+   difícil de prever y puede tener consecuencias negativas para nuestro
+   entorno.
+
+   El desarrollo sostenible pretende  hacer compatible la calidad de vida
+   que nos propor-cionan los avances tecnológicos con el respeto al medio
+   ambiente buscando maneras de minimizar el impacto ambiental de la
+   tecnología.
+
+   Las claves para lograr el desarrollo sostenible son: La eficiencia
+   energética, es decir, el ahorro de energía, que impida el despilfarro
+   de los recursos naturales, el re-ciclaje de los residuos e investigar y
+   potenciar las energías renovables.
+
+   Línea del tiempo:
+
+   Recuerda lo más importante de la Historia de la Tecnología explorando
+   esta "Línea del Tiempo"
+
+   Línea del tiempo: resumen historia de la tecnología. En Tecnología 4º
+   ESO de Cidead, Intef, Ministerio de Educación y cultura, 2011. Licencia
+   CC-BT-NC-SA.
+
+
+   Para saber más
+
+   Puiedes consultar este artículo de Wikipedia en el siguiente enlace
+   sobre la "Historia de la ciencia y de la tecnología en España"
+
+   http://es.wikipedia.org/wiki/Historia_de_la_ciencia_y_la_tecnolog%C3%AD
+   a_en_Espa%C3%B1a
+   Ejercicio
+
+   Puedes comprobar lo que sabes realizando los siguientes ejercicios.
+   Pinchando en el nombre te llevará a la página donde debes responder
+   "verdadero" o "falso" a las preguntas que se te plantean. Si obtienes
+   una puntuación inferior a siete deberías leer de nuevo el apartado
+   correspondiente..
+   Suerte!!!
+
+   De la Prehistoria a la Edad Media.
+
+   De la Edad Moderna a la Revolución industrial.
+
+   El siglo XX.
+   « Anterior | Siguiente »

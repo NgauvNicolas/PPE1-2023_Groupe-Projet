@@ -1,0 +1,830 @@
+                SciELO - Scientific Electronic Library Online
+   [grp1c.gif]   [artsrc.gif]
+    número505 Realismo e indeterminación (Aproximación teórico-crítica):
+   El caso de La Regenta de Leopoldo Alas, &quot;Clarín&quot; Discursos
+   sobre la discriminación de género en los trabajadores mineros del norte
+   de Chile   índice de autores índice de materia búsqueda de artículos
+   Home Page lista alfabética de revistas
+
+Servicios Personalizados
+
+Revista
+
+     * [iconStatistics.gif] SciELO Analytics
+     * [iconStatistics.gif] Google Scholar H5M5 ()
+
+Articulo
+
+     * [iconPDFDocument.gif] Español (pdf)
+     * [iconXMLDocument.gif] Articulo en XML
+     * [fulltxt.gif] Como citar este artículo
+     * [iconStatistics.gif] SciELO Analytics
+
+     [iconTranslation.gif] Traducción automática
+
+Indicadores
+
+     * No hay articulos citados Citado por SciELO
+     * [iconStatistics.gif] Accesos
+
+Links relacionados
+
+     * En proceso de indezación Citado por Google
+     * 30 Articulo(s) Similares en SciELO
+     * En proceso de indezación Similares en Google
+
+Compartir
+
+     * [mendeley.png] Otros
+     * Otros
+     __________________________________________________________________
+
+     * [iconPermalink.gif] Permalink
+
+   [icon-close.png]
+   ____________________
+
+Atenea (Concepción)
+
+versión On-line ISSN 0718-0462
+
+  Atenea (Concepc.)  no.505 Concepción  2012
+
+    http://dx.doi.org/10.4067/S0718-04622012000100006
+
+   Atenea N° 505- I Sem. 2012: 121-138
+
+
+                                                                 ARTICULOS
+
+
+   Tiempo y evolución*
+
+   Time and evolution
+
+
+   Esteban Vargas
+
+   Profesor de Filosofía, Pontificia Universidad Católica de Valparaíso.
+   Valparaíso, Chile, E-mail: esteban.vargas@ucv.cl
+   _______________________________________________________________________
+
+   RESUMEN
+
+   En este trabajo se intenta mostrar el problema del tiempo evolutivo en
+   dos posibles concepciones. Por una parte, ya sea que la evolución se
+   entienda como microevolución (cambio de frecuencias génicas) o
+   macroevolución (especiación), el concepto de tiempo usado, en general,
+   es el cronométrico, es decir, el tiempo que mide el reloj (meses, años,
+   miles de años, etc.). Esto quiere decir que el tiempo es considerado
+   como una variable independiente de los procesos biológicos. Sus fases
+   temporales simplemente se suceden las unas a las otras. Pero, por otra
+   parte, hay otra manera de entender el tiempo. Si la evolución es un
+   proceso de una unidad evolutiva, entonces el cambio evolutivo consiste
+   en la modulación de una serie de fases de una unidad que perdura. Es el
+   tiempo cualitativo. Cada unidad evolutiva poseería su propio tiempo. Se
+   revisa en el escrito algunas unidades evolutivas posibles (genes,
+   poblaciones, especies, etc.) y cómo son concebidas temporalmente.
+
+   Palabras clave: tiempo, evolución, unidad evolutiva, tiempo
+   cronométrico, tiempo cualitativo.
+   _______________________________________________________________________
+
+   ABSTRACT
+
+   In this paper we attempt to show the problem of evolutionary time in
+   two possible conceptions. On the one hand, either evolution is
+   understood as microevolution (change of gene frequencies) or as
+   macroevolution (speciation), the concept of time used, generally, is
+   chronometric, i.e. Time measured by a clock (months, years, thousands
+   of years, etc.). This means that time is considered as an independent
+   variable of the biological processes and their temporal phases simply
+   succeed each other. But on the other hand, there is another way to
+   understand time. If evolution is an evolutionary unit process, then
+   evolutionary change is the modulation of a series of phases of a unit
+   that endures. It’s a qualitative time. Each evolutionary unit would
+   have its own time. We review in the paper some possible evolutionary
+   units (genes, populations, species, etc.) and how they are conceived
+   temporally. Finally, we analyze more precisely the problem of
+   evolutionary time in a species as an evolutionary unit.
+
+   Keywords: time, evolution, evolutionary unit, chronometric time,
+   qualitative time.
+   _______________________________________________________________________
+
+
+   SE PODRíA DECIR, sin ánimo de ser preciso, que la evolución es el
+   cambio de los seres vivos en el tiempo. Desde luego, habría que
+   precisar dos problemas en esta definición. Por una parte, habría que
+   atender a qué nivel o niveles de organización de los seres vivos hay
+   que mirar para entender aquello que evoluciona. éste es un problema
+   que, en líneas generales, ha sido estudiado por biólogos y filósofos,
+   aunque ya veremos hasta qué punto. Por otra parte, hay que meditar cuál
+   es la concepción de "tiempo" que se tiene del proceso evolutivo. El
+   tiempo en evolución es algo en que no se suele meditar. En este escrito
+   pretendo mostrar el "problema" de la concepción del tiempo en
+   evolución, su carácter problemático más que su posible solución. Para
+   ello, en primer lugar, hay que atender brevemente a cómo se ha
+   entendido el fenómeno evolutivo. Sin esto, cualquier especulación
+   caería en el vacío. En segundo lugar, como el tiempo está relacionado
+   con aquello que evoluciona, hay que meditar qué es lo que evoluciona.
+   En tercer lugar, hay que revisar cuál o cuáles podrían ser las posibles
+   unidades evolutivas. Sólo entonces, en cuarto lugar, podremos intentar
+   comprender de mejor manera el problema del tiempo evolutivo.
+
+   1. EL PROBLEMA DEL FENÓMENO EVOLUTIVO
+
+   Los organismos cambian en el tiempo. Esto es lo que, en general, se
+   llama desarrollo u ontogenia. Es algo fácil de notar. El problema se
+   nos presenta cuando queremos pensar el cambio en términos evolutivos.
+   ¿Hacia dónde tenemos que mirar para notar el cambio evolutivo? Veamos
+   brevemente dos de las respuestas que se han dado sobre este problema:
+
+   a) Ante todo, podría decirse que evolución es esencialmente
+   especiación, es macroevolución. Así parecen entenderla Mahner y Bunge
+   cuando nos dicen: "Para que un cambio cualitativo se
+   considere evolutivo, debemos asumir finalmente que consiste en
+   la emergencia de cosas de un nuevo tipo o especie (ontológica)" (2000:
+   348). Para que exista un cambio evolutivo deben emerger, entonces,
+   propiedades nuevas que constituyan una nueva especie. Esto nos lleva a
+   entender la evolución como un proceso de cambios a nivel de especie,
+   distintos de los que ocurren en cada organismo individual (ontogenia).
+   Esta conceptuación nos lleva a pensar que la biología evolutiva debe
+   estudiar "el origen de las especies", es decir, qué es lo que ha
+   ocurrido en la filogenia. una definición semejante nos da Maynard
+   Smith. "El estudio de la evolución se ocupa de cómo, a lo largo de la
+   dilatada historia de vida en este planeta, se han adaptado los
+   diferentes animales y plantas a diferentes condiciones, y a diferentes
+   formas de vida en esas condiciones" (1984: 15). Pero esta concepción
+   nos plantea el problema de si tenemos acceso perceptivo "inmediato" a
+   la filogenia. ¿Hacia dónde tenemos que mirar para notar el cambio
+   macroevolutivo? El cambio macroevolutivo, así entendido, no parece
+   fruto de una inmediata descripción, nadie estuvo allí, por ejemplo,
+   para ver cambiar los reptiles en aves. La macroevolución es, así, no un
+   hecho, sino una teoría que debe explicar ciertos hechos. una ciencia,
+   que se precie de tal, no puede hacer de su "inmediato" objeto de
+   estudio una teoría, por muy robusta que sea. No hay ciencia, por
+   ejemplo, de las partículas elementales, sino, en rigor, de los hechos
+   que "podrían" ser explicados con esa teoría de partículas. Es lo que
+   ocurre también en la ma-croevolución. Por ello, tal estudio no pretende
+   partir de la nada, sino de al menos dos hechos: el hallazgo de fósiles,
+   y la unidad y diferencia de los seres vivos actuales, lo que llamo
+   biodiversidad. Hay que tener en cuenta que, en rigor, no son "hechos"
+   evolutivos, sino más bien "pistas" que nos llevan, con buena
+   probabilidad, a una teoría macroevolutiva.
+
+   b) Por otra parte, podríamos considerar los cambios que ocurren entre
+   generaciones de organismos y llamar a eso evolución (Futuyma, 2005: 2).
+   Aquí, los cambios se miden en la variación de las frecuencias génicas,
+   geno-típicas o fenotípicas en una población. Es lo que constituye la
+   microevolu-ción. Estos cambios pueden observarse ya de una generación a
+   otra y hacen de esta definición de evolución algo más fenoménico que la
+   macroevolu-ción. Aquí hay, entonces, dos posibilidades de mirar el
+   fenómeno evolutivo que no son necesariamente excluyentes.
+
+   2. EL PROBLEMA DE LA UNIDAD EVOLUTIVA
+
+   Entiendo por unidad evolutiva la entidad que notamos o, al menos,
+   postulamos que cambia. Antes de desarrollar esto convendría hacer una
+   pequeña aclaración. Tanto biólogos como filósofos han discutido
+   largamente sobre cuál es la entidad que se selecciona. Es la llamada
+   "unidad de selección". Convendría desarrollar esto brevemente para
+   diferenciarlo de la unidad evolutiva. Ya desde Darwin se había
+   sostenido que lo que se selecciona es el organismo como individuo. Si
+   el individuo presenta un rasgo que le da una mayor ventaja en su
+   supervivencia y reproducción dejará más descendientes que los otros
+   individuos que no la presentan. Pero existen algunos rasgos que son
+   difíciles de explicar por selección natural individual. Es el caso del
+   altruismo, donde el individuo muere por los demás sin dejar
+   descendencia. Si este rasgo es heredable, entonces los individuos
+   altruistas tenderán a dejar menos descendencia que los egoístas. Así,
+   en una población de altruistas bastarían unos cuantos egoístas para que
+   con el tiempo aumenten su frecuencia poblacional por sobre la de los
+   altruistas. ¿Cómo se conserva y selecciona, entonces, el altruismo? una
+   posible solución es que aquí la unidad de selección es el "grupo" y no
+   el organismo. Sober, por ejemplo, intentó demostrar que lo que aumenta
+   no es la eficacia individual altruista, sino la "eficacia promedio" de
+   un grupo con predominio altruista en relación a otro con predominio
+   egoísta. Así, nos dice: "Si los grupos compiten con otros grupos y si
+   los grupos de altruistas lo hacen mejor que los grupos de individuos
+   egoístas, entonces el altruismo puede evolucionar y mantenerse" (1996:
+   155). Pero existe otra solución. Podría interpretarse el altruismo como
+   una selección de parentesco. Como se piensa que el altruismo es
+   heredable y, por ello, determinable por genes, entonces, si un
+   individuo es altruista, disminuirá su "eficacia individual" (pues, no
+   deja descendientes), pero aumentará la "eficacia del gen" de la
+   conducta altruista, ya que el individuo salvará a sus parientes que
+   portan muy probablemente su mismo gen altruista. El resultado es que la
+   frecuencia del gen del altruismo (y no los individuos) es el que
+   aumenta su frecuencia y se selecciona. De éste y otros ejemplos surge
+   el pensamiento de Dawkins. Para él, la unidad de selección es el gen
+   (no el individuo), ya que éste es el que se beneficia y hereda en la
+   evolución. El individuo no es más que el "vehículo" donde se
+   transportan los genes. Así, Dawkins nos dice: "La unidad fundamental de
+   selección, y por tanto del egoísmo, no es la especie ni el grupo, ni
+   siquiera, estrictamente hablando, el individuo. Es el gen, la unidad de
+   la herencia" (1985: 16). Posteriormente, para aclarar la relación entre
+   individuo y gen en la selección natural, Hull (1980: 318) ha
+   distinguido entre replicadores (la entidad que se replica) e
+   interactores (la entidad que interactúa con el ambiente). Replicador
+   sería, así, el gen y el interactor el individuo. Pero esta distinción
+   funcional, como el mismo Hull y otros sostienen, puede extenderse a
+   otras entidades. Replicador es el gen, pero también pueden ser
+   considerados los cromosomas, el genoma entero en el caso de la
+   reproducción asexual, etc. Interactores, por su parte, pueden
+   considerarse los espermatozoides, los organismos, etc. Se establece,
+   así, toda una jerarquía de interactores y replicadores, en el fondo, de
+   unidades de selección, donde la evolución puede darse a distintos
+   niveles.
+
+   He contado toda esta pequeña historia para mostrar que se ha discutido
+   mucho el problema de la unidad de selección. Pero aquí nuestra meta no
+   es definir cuál es la unidad que se selecciona, sino cuál es la "unidad
+   evolutiva". La unidad de selección surge, en el fondo, por la
+   competencia ya sea entre genes, individuos, grupos, etc. La unidad
+   evolutiva, en cambio, es aquella unidad o entidad que "percibimos o
+   postulamos" como cambiando en el tiempo. Ahora bien, aquí hay, en
+   teoría, muchos candidatos a unidad evolutiva, los mismos que se
+   consideraban para unidad de selección. Propongo, a modo de tesis, que
+   para que una unidad sea evolutiva, es decir, cambie, debe presentar, al
+   menos, tres caracteres:
+
+   1) Debe poseer cierta "unidad o entidad física" y no ser meramente
+   conceptiva. La unidad debe imponerse perceptivamente y no ser
+   construida lógicamente. Por ejemplo, la unidad "invertebrado" no es una
+   propiedad positiva en una mariposa como sus alas. En el mismo caso
+   están los grupos o poblaciones entendidos como meros "conjuntos", cuya
+   unidad es más bien lógica que física. Si yo designo el conjunto "todos
+   los libros amarillos que están en mi biblioteca", tal unidad es
+   extrínseca a tales libros. Cuando este conjunto cambia, por ejemplo,
+   cambiando algunos libros en mi biblioteca, tal conjunto no cambia por
+   sí mismo, sino, en rigor, sólo por sus componentes individuales.
+
+   2) Ser heredable celularmente, es decir, pasar de padres a hijos por
+   los procesos celulares (no, por ejemplo, por herencia cultural).
+   Decíamos que la microevolución es un cambio entre generaciones. una
+   unidad que no pasara más allá de una generación sería un cambio
+   ontogenético, pero no evolutivo. Pero entendamos aquí qué significa ser
+   heredable. Siguiendo a Maynard Smith (1984: 47-48), hay que distinguir
+   aquí dos sentidos de herencia. Por una parte, herencia es aquello
+   "físico o material" que pasa de una generación a otra, es decir, de una
+   célula a otra. No es claro cómo hay que pensar este pasar ni qué es lo
+   que se pasa. Se dice que los genes pasan a la generación siguiente,
+   pero no como estructuras materiales (ya que las moléculas se reemplazan
+   tarde o temprano), sino como "información" contenida en la "secuencia"
+   de nucleótidos. Además, habría que meditar también qué papel juega la
+   herencia citoplasmática. No podemos entrar aquí en estos problemas. Lo
+   que sí es claro es que, en este sentido, una mano, el altruismo, etc.,
+   no se heredan "materialmente" a la descendencia. Por otra parte, pueden
+   tomarse rasgos de los padres e hijos y establecerse correlaciones
+   estadísticas. Por ejemplo, se mide la altura de los padres y de los
+   hijos y se ve qué correlación hay. éste es básicamente el concepto de
+   "heredabilidad" en el que se funda la genética. La altura, el color de
+   ojos, etc., no son heredables materialmente, pero lo son como
+   correlación estadística, aunque en diferentes grados. Ahora bien, una
+   unidad evolutiva debe ser heredable en alguno de estos dos aspectos.
+   Desde luego, ambos aspectos de la herencia se encuentran entrelazados,
+   pues, el concepto de heredabilidad se basa en que tal correlación (lo
+   único observable en este caso) se funde razonablemente en una herencia
+   material. La heredabilidad, la correlación, se funda en la herencia
+   material.
+
+   3) La unidad evolutiva debe "cambiar". Inspirándome en Aristóteles
+   (1982) (phys. 225 a20-b9), hay que distinguir aquí dos grandes tipos de
+   cambio. Primero, la "transformación", el cambio sustancial (ser y dejar
+   de ser). Segundo, el "despliegue procesual" en fases, un cambio que se
+   mani-festa dentro de una misma unidad. Hay que averiguar qué tipo de
+   cambio es la evolución. Ahora bien, como la unidad evolutiva cambia,
+   este cambio lleva implícito un carácter temporal. Se trata de
+   averiguar, entonces, en este escrito, qué tipo de tiempo está implícito
+   en tal unidad que cambia. Para ello es necesario distinguir claramente
+   dos tipos de tiempo.
+
+   a) Por una parte, hay que atender al tiempo "cronométrico" que es el
+   tiempo entendido como "medida" del reloj. Como ya lo anunció Einstein
+   (1984: 24-26), en este caso se trata de poner en relación de
+   simultaneidad dos procesos físicos en tanto sucesivos. El primer
+   proceso es el del reloj mismo. un "buen" reloj debe poseer diversas
+   fases sucesivas, pero éstas deben ser "equidistantes", es decir, que la
+   "distancia temporal" entre sus fases debe ser la misma. El segundo
+   proceso es el ente físico a medir. Lo que hacemos es poner en relación
+   de simultaneidad las fases del proceso del reloj con las que así se
+   establecen en el ente físico en cuestión. El ente físico posee ahora
+   fases, pero en tanto establecidas extrínsecamente en su funcionalidad
+   con el reloj. Lo medido entre fases es justamente el "tiempo
+   cronométrico" (una hora, veinte minutos, etc.). Todo esto puede usarse
+   para medir el tiempo de los procesos biológicos. Así, por ejemplo,
+   podemos medir la llamada "edad cronológica" (cronométrica) de una
+   persona en años, el tiempo de un lago como ecosistema, etc. Desde este
+   concepto podemos pensar el tiempo de una unidad evolutiva. Así, podemos
+   medir el tiempo cronométrico de una frecuencia génica de una población,
+   el tiempo de una especie en millones de años, etc. El tiempo
+   cronométrico evolutivo es, así, un tiempo que corre independiente de
+   los procesos biológicos. Nos recuerda, un poco, al tiempo absoluto que
+   concebía Newton.
+
+   b) Pero, por otra parte, es posible pensar el tiempo de otra manera. En
+   un organismo, por ejemplo, las fases de su desarrollo están
+   determinadas por el "proceso mismo" y no sólo en función de las fases
+   de un reloj. Así, por ejemplo, si tenemos varias fases en el organismo
+   (a una fase "A" le sigue una "B", a ésta una "C", etc.), la
+   determinación de cada fase no se establece por su "distancia
+   cronométrica" (horas, días, meses, etc.), sino por las determinadas
+   "cualidades" que presenta la dinámica del sistema, por ejemplo, las
+   fases del desarrollo de la vida humana como la infancia, adultez,
+   vejez, etc. Estas fases constituyen la "edad biológica". La edad como
+   fase temporal "cualitativa" merece un puesto en la concepción del
+   tiempo^1. Constituye un tiempo biológico "cualitativo" (en este caso,
+   la edad biológica) que es "dependiente" del proceso de desarrollo del
+   organismo. Ser joven o viejo no es una cualidad temporal que queda
+   expresada por el tiempo del reloj. Ahora bien, esto mismo podría
+   pensarse si ocurre en la unidad evolutiva. De ocurrir, constituiría un
+   genuino tiempo evolutivo diferente al tiempo cronométrico. Así
+   entonces, si la unidad evolutiva de cambio es de pura transformación
+   (una cosa y después otra), su tiempo será puramente cronométrico. Pero
+   si la unidad evolutiva es procesual con diversas fases, ésta poseería
+   un tiempo cualitativo propio, distinto del tiempo del reloj. Convendría
+   aclarar en este punto que ambos tipos de tiempo no son excluyen-tes. El
+   tiempo cronométrico se puede aplicar a cualquier realidad física. Y los
+   seres vivos son, ante todo, realidades físicas. El problema es que el
+   número que expresa la medida temporal de la unidad biológica no expresa
+   nada sobre la dinámica intrínseca del proceso biológico. Por ello, si
+   una unidad evolutiva puede expresar su cambio "sólo" en el tiempo
+   cronométrico (meses, años, etc.), esto quiere decir que sus fases en
+   tanto funcionales a las fases de un reloj son meramente extrínsecas,
+   están desconectadas las unas de las otras. La unidad de una fase con
+   otra es de mera yuxtaposición, sólo viene una "después de otra", que es
+   el caso de un cambio puramente transformativo. Esto no quiere decir,
+   repito, que el tiempo evolutivo por excelencia sea el tiempo
+   cualitativo. Perfectamente la evolución podría ser un mero cambio
+   extrínseco. Es justo lo que hay que averiguar. Para meditar esto,
+   tenemos que empezar a pensar el tiempo evolutivo en algunas posibles
+   unidades evolutivas. No está de más decir que no pretendo resolver este
+   problema, sino más bien orientar su discusión.
+
+   3. POSIBLES UNIDADES EVOLUTIVAS
+
+   Existen muchos candidatos posibles a unidades evolutivas que no
+   necesariamente deben ser excluyentes. Para meditar su carácter temporal
+   habría que atender también a su posible unidad física y herencia, dado
+   que su carácter temporal depende de estas características. Veamos
+   ahora, brevemente, algunas posibles unidades evolutivas. Si existen
+   otras el lector podrá sacar sus propias conclusiones sobre ellas.
+
+   1. Dawkins, como hemos visto, nos ha señalado que el "gen" es la unidad
+   de selección. Pero habría que pensar aquí si es una unidad evolutiva.
+   El gen es, ante todo, una unidad "funcional", es decir, es el
+   "determinante" del fenotipo. Esto se sabía "antes" que se identificara
+   el gen como un trozo de ADN, lo que demuestra que tal función, al menos
+   como idea, posee una mayor inmediatez. Pero podemos considerarlo, en
+   cierta forma, como una unidad física. Es, además, algo heredable, en
+   sentido material. No entremos en estos problemas que no nos incumben.
+   El problema es la concepción latente de tiempo que subyace aquí. El gen
+   como unidad física no es una unidad procesual, no nos ofrece diversas
+   fases de cambio ("A", "B", "C", etc.). El gen, o es el mismo o es otro.
+   Su cambio es sólo transformación por mutación. Como hemos visto, la
+   transformación es un tipo de cambio, pero uno muy extrínseco. También
+   un perro, por ejemplo, cuando muere se transforma, pero ¿es esto
+   evolución? Habría que meditarlo. Ahora bien, hay otra posibilidad de
+   pensar esto: tomar el cambio en términos de "frecuencia poblacional" de
+   genes. Lo que cambia no es el gen, sino su frecuencia. Aquí hay que
+   destacar que el tiempo de los cambios de frecuencia sólo es expresable
+   como tiempo cronométrico. Volveremos sobre esto más abajo.
+
+   2. Otra unidad posible son las partes o momentos individuales del
+   organismo, ya sean sus fenotipos o funciones. Así, se habla de la
+   evolución del cerebro, del sistema digestivo, del sistema respiratorio,
+   etc. Pero estas partes o momentos, "individualmente considerados",
+   claramente no evolucionan en y por sí mismos. No existe un cerebro
+   individual, por ejemplo, que "por sí solo" vaya pasando de generación
+   en generación. Sin embargo, podrían considerarse tales partes como
+   frecuencias fenotípicas. Así, por ejemplo, puede medirse las
+   variaciones de frecuencia del color de ojos azules. A este cambio en
+   las frecuencias se le aplica lo que ya vimos en el caso de las
+   frecuencias génicas, es decir, que se trata de un tiempo cronométrico
+   como tendremos que ver.
+
+   3. Una tercera unidad posible es el organismo entero. Pero, los cambios
+   en el organismo, decíamos, constituyen el desarrollo y no la evolución.
+   Los organismos "enteros" no pasan a la descendencia. un caso
+   problemático son los organismos unicelulares. Cuando la célula madre se
+   divide, las dos células hijas, ¿son organismos individuales distintos
+   de la madre? ¿Dónde termina el desarrollo de un organismo unicelular?
+   No es claro esto en los organismos unicelulares. Lo que sí es claro,
+   por definición, es que evolución no es el cambio de los organismos
+   pluricelulares enteros.
+
+   4. Una cuarta posibilidad es la especie. ¿Qué tipo de realidad posee?
+   ¿Es heredable? Para responder estas preguntas habría que ver cómo se ha
+   entendido una especie. Veamos algunos conceptos. Especie podría
+   significar lo "común" a muchos individuos. Es el concepto "tipológico"
+   de especie. El problema de este concepto es que lo expresado en él "no
+   puede evolucionar". Bajo el influjo de Darwin, Ernst Mayr propuso un
+   nuevo concepto de especie a partir del aislamiento reproductivo de los
+   organismos. Así, nos dice que "según este concepto [biológico], una
+   especie es un conjunto de poblaciones naturales capaces de cruzarse
+   unas con otras, y [que está] aislado reproductivamente (genéticamente)
+   de otros grupos similares por barreras fsiológicas o de comportamiento"
+   (1998: 147). Este concepto "biológico" de especie intenta expresar algo
+   real y no meramente lógico. Es el cruce con descendencia de los
+   organismos (y no los aspectos que se consideren más importantes entre
+   las propiedades comunes) lo que decide si dos organismos pertenecen a
+   una misma especie. Ahora bien, de este concepto de Mayr se han
+   desprendido dos interesantes interpretaciones de lo que es especie que
+   me gustaría destacar. Por una parte, Zubiri define la especie como "el
+   grupo de notas genéticamente transmisibles y perdurables por
+   in-terfecundidad" (2008b: 243). Para él, la especie es un sistema de
+   genes que constituyen algunas notas o momentos del organismo
+   individual. La especie es, así, un momento del organismo que es común y
+   heredable. Aunque sólo existiera un organismo, éste sería "especial" en
+   el sentido de poseer un momento de especie. Pero hay, por otra parte,
+   una segunda opción. Como la especie es concebida como un "conjunto de
+   poblaciones" ligadas por fu-jo génico (concepto de "población
+   reproductora"), tal conjunto es considerado, por ejemplo, por Sober
+   (1996) como un "individuo", al modo como lo es un organismo. Ello
+   ocurre porque, para él, un individuo se define como una entidad que
+   posee partes que interaccionan "causalmente". Esto es precisamente lo
+   que él cree que ocurre en una especie como población reproductora.
+   Sober agrega además que hay que entender el individuo no sólo
+   sincrónicamente, sino diacrónicamente. Así como el organismo varía en
+   el tiempo y sigue siendo el mismo individuo, así también varía la
+   especie sin perder su individualidad. Por ello, define a las especies
+   como "entidades históricas" (1996: 243).
+
+   Debemos estudiar ahora estos conceptos de especie como unidad
+   evolutiva, según las características que hemos dado antes. Ante todo,
+   es claro que el concepto "tipológico" de especie no es una unidad
+   física y, por ello, es atemporal. Es este concepto el que impidió
+   pensar en términos evolutivos. Los otros dos conceptos de especie son
+   más interesantes para pensarlos como unidad evolutiva. Zubiri, veíamos,
+   entiende la especie como un momento genético del organismo que es
+   heredable. Este concepto posee también sus problemas. Ante todo, ¿cuál
+   es su realidad física? ¿Cómo se distingue la secuencia genética que
+   forma la especie de la que no la es? El gen del color de ojos azules,
+   por ejemplo, es heredable, pero no forma parte de la especie humana,
+   pues no todos poseen los ojos azules. Aquí hay que apelar a los genes
+   "comunes" o esquema común de los organismos. Pero esto "común" es algo
+   extrínseco a cada organismo y no es algo que cumpla una función física
+   dentro de él. No obstante ello, pienso que éste es uno de los buenos
+   candidatos para ser unidad evolutiva. Volveré sobre ello más abajo. El
+   otro concepto entiende la especie como "individuo". Aquí es dudoso si
+   un "conjunto" de poblaciones entendidas sincrónica y diacrónicamen-te
+   puedan constituir un "individuo". La especie entendida como conjunto,
+   más que un individuo, parece una unidad "aditiva" de poblaciones,
+   aunque estén interrelacionadas. Ante todo, no parece que
+   sincrónicamente el flujo génico constituya una relación causal que
+   constituya un individuo. Tal flujo no es constante ni está
+   constituyendo operativamente ni a la población ni a la especie como un
+   "todo". Esto es muy distinto, por ejemplo, a lo que ocurre en un
+   organismo pluricelular donde sus células están relacionadas
+   "operativamente" a través de linfocitos, hormonas, etc. Lo mismo se
+   podría decir de su aspecto diacrónico. La especie como unidad aditiva
+   de poblaciones reproductoras no cambia en el tiempo en tanto "unidad",
+   ni siquiera considerado esto como tiempo cronométrico. Los que cambian,
+   en rigor, son sus componentes, los organismos.
+
+   5. Finalmente, podríamos pensar en la población. Según Mahner y Bunge
+   hay que distinguir tres sentidos del término población: "Puede
+   significar (a) una población estadística, es decir, una mera colección
+   de individuos […] o (b) un agregado (o montón) de individuos […] o (c)
+   un sistema de individuos, como en el caso de las comunidades
+   reproductivas o las sociedades animales" (2000: 180). El sentido de
+   "población estadística" es interesante, sobre todo cuando los
+   organismos que constituyen una población poseen características
+   similares. Así, es muy común pensar que la evolución, como ya vimos, es
+   un cambio en la frecuencia de genes o fenotipos poblacionales. Pero
+   entendido así sin más, un cambio de frecuencia es un cambio donde la
+   población es entendida aquí como un mero "conjunto lógico". Esto es lo
+   mismo que sucedía con el concepto "tipológico" de especie. Los
+   organismos en este concepto tipológico forman una especie por sus meros
+   caracteres comunes. El mismo error se comete con la idea de población
+   estadística o, dicho sea de paso, con cualquier grupo superior a la
+   población que se entienda como mero "conjunto". ¿Qué concepción de
+   tiempo hay en la población estadística? Como no posee una unidad física
+   propia, la población estadística no cambia en tanto "población". La
+   población cambia sólo en tanto que sus individuos cambian en sus
+   relaciones o frecuencias. Por ello, no posee un tiempo cualitativo
+   propio. Su único tipo de tiempo, visto desde los individuos, es el
+   cronométrico. El tiempo de la frecuencia de genes o fenotipos son las
+   horas, minutos, etc., en que unos individuos están relacionados con
+   otros. La frecuencia génica o fenotípica no es, por ello, "de" la
+   población, sino "en" la población. En un segundo sentido, la población
+   como "agregado" es una cierta unidad física, pero en rigor no lo es, no
+   actúa como unidad, como "población sistémica". Es una unidad aditiva
+   resultado de la mera sumatoria de los individuos, algo así como una
+   mezcla en física. No posee, por ello, un tiempo cualitativo propio,
+   sino el de sus individuos. En un tercer sentido, la población podría
+   entenderse como un "sistema". Esto haría de él una entidad física y una
+   posible unidad evolutiva. Ahora bien, aquí hay, a su vez, dos sentidos
+   que hay que diferenciar. Por una parte, la población puede ser un
+   sistema como un conjunto de organismos que intercambian flujo génico
+   como en la llamada "población o comunidad reproductiva" que hemos visto
+   antes. Así, se suele definir la población como "un grupo de organismos
+   de una especie que ocupan un espacio dado en un momento específico"
+   (Krebs, 1985: 147). Aquí hay que entender la especie no como un
+   concepto tipológico, sino biológico, al modo de Mayr. Es lo que
+   distingue precisamente la población reproductora de la estadística.
+
+   Sin embargo, el hecho de que los organismos de la población estén
+   relacionados por un flujo génico, ya sea en el pasado, como
+   potencialmente en el futuro, no hace de esa población un "sistema", tal
+   como ocurre en el caso de la especie como individuo. Para que sea un
+   sistema, la población debe mostrar propiedades emergentes distintas de
+   las propiedades de cada uno de sus organismos. El flujo génico, veíamos
+   antes, no es causal, no hace surgir propiedades poblacionales, sino
+   individuales. Pero hay un segundo sentido de población como sistema. Es
+   el caso, por ejemplo, de las sociedades animales. Se podría llamar a
+   esto la población como "sistema social". En este caso, los organismos
+   están relacionados no por un mero flujo génico, sino, a mi juicio, por
+   "comunicación". Esta comunicación puede ser, ante todo, química, por
+   las llamadas feromonas. Esto origina un "esbozo" de población social.
+   Pero la comunicación se produce principalmente por comunicación visual
+   y auditiva en las sociedades animales. Si esto es cierto, habría que
+   repensar la clásica definición de población dada más arriba. La
+   población, en primer lugar, no es un "grupo" de organismos, sino un
+   "sistema"; en segundo lugar, no es necesario que sean de la misma
+   especie. Lo que sucede es que al ser de la misma especie (por flujo
+   génico) hay más posibilidades de comunicación. Lo mismo sucede con la
+   exigencia de ocupar un mismo espacio y tiempo (sincrónico). Si los
+   organismos cohabitan en un mismo "espacio-tiempo", tendrán más
+   posibilidades de comunicación. Ser de la misma especie y cohabitar en
+   un mismo espacio-tiempo son condiciones para poder ser población
+   social. Pero no son lo que la define. No está de más decir que
+   introduzco esta idea a modo de tesis. Ahora bien, ¿qué concepción de
+   tiempo hay en la población como sistema? En el caso de la población
+   reproductora, como ella no es un sistema, no posee un proceso propio y
+   su tiempo es el de sus individuos y sus relaciones. Pero sería digno de
+   pensarse el tiempo en la población como sistema social. El caso más
+   importante es la historia humana. En el proceso histórico encontramos
+   fases que llamamos, al igual que en el organismo, edades^2. Así, se
+   habla de la Edad Media, la Edad de Piedra, etc. Habría que pensar si se
+   da esto, de algún modo, en las llamadas sociedades animales. Ahora
+   bien, sea esto o no verdad, hay que señalar que la población como
+   sistema social no es la unidad evolutiva que buscamos. Este tipo de
+   población tendría, tal vez, una unidad física y una unidad procesual
+   con un tiempo cualitativo. Pero su herencia no es celular, sino
+   cultural, en un amplio sentido de la palabra. No podemos desarrollar
+   este tema aquí.
+
+   4. EL PROBLEMA DEL TIEMPO EVOLUTIVO
+
+   Veíamos antes los principales candidatos a unidades evolutivas
+   analizando tres propiedades: su unidad física, su carácter heredable de
+   una célula a otra y su carácter cambiante. Convendría repensar todo
+   esto en función del problema del tiempo evolutivo que intentamos
+   comprender. Recordemos que hemos visto dos tipos de tiempo: un tiempo
+   cronométrico donde las fases son puramente sucesivas y un tiempo
+   cualitativo biológico donde las fases están determinadas por la
+   dinámica del proceso. Ahora bien, de entre las posibles unidades
+   evolutivas que hemos visto, algunas son meramente lógicas o aditivas y
+   no cambian en tanto tales. Es el caso de la población entendida como
+   mero "conjunto o agregado". Hay otros casos que son unidades que no se
+   heredan celularmente como los organismos pluricelulares como un todo y
+   las poblaciones como sistema social. Veíamos también que hay unidades
+   cuyas frecuencias génicas y fenotípicas (que estudia la
+   mi-croevolución) deben ser consideradas sólo en el tiempo cronométrico.
+   De ningún modo hay que descartar que el tiempo evolutivo sea por ello
+   puramente cronométrico. Finalmente, vimos el caso de las especies. La
+   especia-ción (el cambio a nivel de especies) es lo que ha estudiado la
+   macroevolu-ción. Recordemos que hay dos tipos de especie que podrían
+   ser unidades físicas evolutivas; la especie como individuo y la especie
+   como momento del organismo. He señalado que la especie como "conjunto
+   de poblaciones reproductoras" no es un individuo. He visto también los
+   inconvenientes de la especie como momento del organismo. Pero,
+   independiente de estas dos concepciones, parece que la especie podría
+   ser un buen candidato a unidad evolutiva. Por ello tenemos que
+   preguntarnos con más detalle ahora, ¿cómo se concibe el tiempo en las
+   especies?
+
+   De toda especie podemos decir que posee una cierta antigüedad en años.
+   Es la especie en el tiempo cronométrico. Pero intentemos meditarla, si
+   es posible, desde un concepto de tiempo cualitativo biológico.
+   Normalmente, se habla, por ejemplo, de especies que son más "antiguas"
+   que otras, de organismos que son una especie de fósiles vivientes, etc.
+   Aquí tenemos que preguntarnos: ¿hay especies jóvenes o adultas como una
+   cualidad temporal de ellas mismas, sin apelar a su antigüedad en
+   función del reloj? ¿Existe un tipo de "edad" en las especies? ¿Es
+   posible pensar la especiación como un proceso que posee diversas fases?
+   En general, se suele pensar la antigüedad de las especies sólo en
+   términos del "tiempo cronométrico". Sin embargo, esto no es tan claro.
+   Los paleontólogos, como Eldredge y Gould, nos hablan de diversos ritmos
+   evolutivos de las especies. Nos dicen que, en general, las especies
+   poseen una fase de cambios bruscos al comienzo y luego una fase de
+   estabilidad. ¿Podría interpretarse esto como una dinámica temporal
+   propia de las especies? ¿Podría haber, al menos, dos fases o edades en
+   las especies, una fase juvenil y luego una de madurez? Para entender
+   esto, convendría revisar brevemente la teoría del "equilibrio puntuado"
+   de Gould y Eldredge. Gould nos la explica así: "El equilibrio
+   ‘puntuado’ es una teoría sobre el proceso de formación de especies a
+   partir de otras ya existentes (o especiación) en el tiempo geológico.
+   Como tal, trata del ritmo y del modo de la evolución" (1982: 121). Esta
+   teoría, entonces, pretende explicar la es-peciación en el tiempo
+   geológico repensando su ritmo y modo en cierta oposición a como habían
+   sido pensados en la teoría sintética de la evolución. Concentrémonos en
+   el ritmo de especiación, que es el tema donde comparece mejor el
+   problema del tiempo. La teoría sintética de la evolución sostenía,
+   fundada en Darwin, un "gradualismo filogenético", es decir, que la
+   especiación es gradual, a diferencia de lo que propone el "equilibrio
+   puntuado". Estos dos modelos los podemos apreciar en la Fig. 1.
+
+                               [art06_f01.jpg]
+   Figura 1. una tendencia evolutiva según el equilibrio "puntuado" (A) y
+        según el gradualismo filogenético (B) (según Gould, 1982).
+
+   Este gráfico nos muestra los tres aspectos que postulábamos de la
+   unidad evolutiva. En primer lugar, la "línea" representa la unidad
+   física que evoluciona. En este caso parece ser la especie. Las unidades
+   de selección pueden ser muchas, pero, en este gráfico, se nos muestra
+   una sola unidad física. En segundo lugar, la línea "continua"
+   representa la herencia de la unidad evolutiva de padres a hijos. Habría
+   que meditar si, en rigor, debería ser "discreta". En tercer lugar, hay
+   que notar que el tiempo geológico, para ambos modelos, corre
+   "independientemente" de los cambios morfológicos de las especies. Este
+   tiempo geológico no es otra cosa que un tiempo cronométrico. Habría que
+   pensar si estos dos modelos pueden expresarse temporalmente de otra
+   manera. Meditemos ahora algunas diferencias entre ambos modelos. En la
+   Figura 1 B, como el cambio morfológico es gradual, no hay forma de
+   diferenciar exactamente una especie de otra más que cuando los cambios
+   se hacen evidentes luego de un largo tiempo geológico. Así, nos dice
+   Eldredge:
+
+  La evolución produce un cambio continuo, una transformación continua de
+      las poblaciones, y los taxonomistas no hacen más que subdividir
+       abstractamente este flujo continuo de manera arbitraria y hasta
+      caprichosa. En teoría, para el taxonomista neodarwinista, si una
+      estirpe cambia de un estadio A hacia un estadio B de tal modo que
+        muestras de A y de B parecen tan diferentes como dos especies
+  contemporáneas, pongamos el león y el tigre por ejemplo, entonces tiene
+    derecho a delimitar en la estirpe evolutiva dos especies A y B (1983:
+                                    798).
+
+   En este modelo (Fig. 1 B), la unidad evolutiva, se nos dice, posee una
+   serie de estadios o fases, pero, por lo que se muestra en el gráfico,
+   tales estadios sólo parecen establecerse en función de ciertas
+   diferencias morfológicas establecidas en un tiempo cronométrico y no
+   por modulaciones intrínsecas. Por contrapartida, en la Fig. 1 A, se nos
+   muestra un período geológico corto de cambios morfológicos bruscos
+   (línea horizontal) seguido de una gran estabilidad morfológica en el
+   tiempo geológico (línea vertical). El mismo Eldredge nos lo explica
+   así: "Esta evolución por equilibrios intermitentes [puntuados] sostiene
+   convincentemente la idea de que cada especie es una entidad individual,
+   delimitada en el tiempo por un origen, una historia y un final" (1983:
+   799). En este concepto (Fig. 1 A) se nos dice que la especie es una
+   "entidad individual" que tiene un origen, una historia y un final, tal
+   como ocurre con los organismos. Dicho así sin más, pareciera que hemos
+   encontrado aquí una concepción de especie como si fuera un proceso
+   biológico con diversas fases y, por ello, con un tiempo cualitativo.
+   Pero no es esto lo que muestra el gráfico ni lo que parecen pensar, en
+   el fondo, esos autores. La especie se concibe como siendo la "misma"
+   (línea vertical) o como siendo abruptamente "otra" (línea horizontal).
+   Aquí, el cambio evolutivo no es la modulación de fases de un proceso
+   (un cambio cualitativo "A", "B", "C", etc.), sino de "transformación"
+   en otra especie. O se es un tipo de especie o se es otro. Esto es lo
+   que no ocurre en un organismo individual. Por ello, en los períodos de
+   estabilidad (los más largos), lo único que cambia es el tiempo
+   cronométrico. La especie en tanto especie es aquí extrañamente un
+   individuo sin cambio, es una unidad evolutiva sin cambio. Algo
+   semejante es lo que sucede con el gen de Dawkins. Pero hay otras
+   alternativas a lo que plantean, de algún modo, Gould y Eldredge.
+   Margalef (1998: 173), pensando en estas mismas características de la
+   especiación, sostenía que la evolución consiste en una acumulación de
+   "información", tal como ocurre en un organismo individual y en un
+   ecosistema. Esto permitiría establecer diversas fases cualitativas.
+   Pero la especie es entendida aquí, no por su mera estructura, sino por
+   su información desde un punto de vista termodinámi-co. Es la especie
+   como entidad física, justo el punto de vista de un ecólogo de
+   ecosistemas. Pero, sea esto como fuere, para pensar el tiempo evolutivo
+   tenemos que meditar, ante todo, cómo se perciben las especies. Voy a
+   intentar esbozar aquí la dirección donde, tal vez, habría que dirigir
+   la mirada en un enfoque fenomenológico del problema.
+
+   Para "ver" la especie hay que tener presente a los organismos actuales
+   o fósiles y mirarlos por el lado en que sus "estructuras" son
+   heredables. Cuando decimos, por ejemplo, que el cerebro evoluciona o
+   que varía la frecuencia de un color de ojos, se trata de mirar estos
+   cambios por el lado en que son precisamente un momento (no una parte
+   aislada) de una "estructura heredable". El cerebro o el ojo, como
+   órganos "individuales", son un momento del organismo individual que
+   nacen y mueren con él. Sólo mirado como momento estructural heredable
+   constituyen un momento de la especie. una estructura en el organismo
+   que no fuera heredable (una verruga, un moretón, etc.) no formaría
+   parte de su momento "especial". Especie es, así, un momento estructural
+   del organismo, sin ser todo el organismo. En esto Zubiri tenía cierta
+   razón. El problema es definir la especie por su carácter común, darle
+   una "clausura" rigurosa al momento estructural heredable frente a otros
+   taxones como familia, clase, etc. El carácter común no es algo
+   puramente convencional, pero tampoco es algo meramente intrínseco. El
+   ser común no es una propiedad que cumple una función dentro del
+   organismo como el tener alas. Más bien, es una "consecuencia" de la
+   heredabilidad de los caracteres que permite, con cierta
+   convencionalidad, formar todos los conceptos taxonómicos. Los cambios
+   morfológicos (macroevolución) y de frecuencia (microevolución) se
+   refieren, ambos, al momento "especial" del organismo. Es un problema
+   que hay que seguir meditando.
+
+   Pensemos ahora el carácter temporal de la especie. Cuando decimos, por
+   ejemplo, que el erizo de mar es más "antiguo" que el hombre, no estamos
+   suponiendo esa antigüedad considerando al erizo de mar y al hombre como
+   "organismos individuales". Ambos son organismos actuales, ninguno de
+   ellos, individualmente considerado, es más antiguo que el otro. Lo que
+   queremos decir es que la "estructura especial" del erizo de mar es más
+   antigua que la del hombre. Desde luego, se piensa, ante todo, tal
+   antigüedad en años. Pero cabría pensar en la posibilidad de que las
+   especies tengan "edad". Esto no significa que una especie sea una
+   suerte de gigantesco "organismo individual" ni que sea un "sujeto" bajo
+   los cambios, sino de que la especie sea un "proceso", un sistema que
+   "perdure cambiando", con diversas fases que determinen un "tiempo
+   propio para cada especie". Creo que la especie, tal como la hemos
+   entendido, es la mejor apuesta para un tiempo evolutivo cualitativo.
+   Sin embargo, ni aun pensado así, parece que la especiación sea un
+   proceso de modulación de fases. Si ello no ocurre, la evolución sólo
+   estudiaría cambios "especiales" puramente sucesivos en el tiempo
+   cronométrico, como la medición de las frecuencias en microevolución y
+   de los cambios morfológicos en macroevolución. Si es así, la evolución,
+   tal vez, no tiene mucho sentido como proceso "propiamente biológico" y
+   no meramente físico (sucesivo). Ha sostenido Dobzhansky, en el título
+   de un artículo (1973), que "nada en biología tiene sentido sino a la
+   luz de la evolución" Pero, quizá, la misma evolución, "como teoría del
+   cambio", posea poco sentido biológico y no sea otra cosa que el cambio
+   de los seres vivos, pero considerados sólo por el momento en que son
+   "una mera sucesión física", es decir, una cosa después de otra. Es algo
+   que habría que seguir meditando.
+
+   NOTAS
+
+   ^1 La edad como estructura temporal propiamente biológica ya ha sido
+   levemente expresada por el filósofo español Zubiri (2008a: 254). Su
+   trabajo ha sido profundamente inspirador para desarrollar una
+   concepción del tiempo biológico distinta del tiempo cronométrico. He
+   expresado esa concepción en Vargas (2009).
+
+   ^2 Zubiri ha intentado pensar la edad como fase de un proceso histórico
+   (2006: 161). Es lo que llama "edad histórica". Tales edades no son
+   determinadas por el reloj, sino por criterios históricos que buscan
+   determinar las cualidades o fases intrínsecas del proceso.
+
+
+   REFERENCIAS
+
+   Aristóteles (1982). Física. Madrid: Gredos.
+
+   Dawkins, R. (1985). El gen egoísta. Barcelona: Salvat.
+
+   Dobzhansky, T. (1973). "Nothing in Biology Makes Sense Except in the
+   Light of Evolution". American Biology Teacher 35, 125-129.
+
+   Einstein, A. (1984). Sobre la teoría de la relatividad especial y
+   general. Madrid: Alianza.
+
+   Eldredge, N. (1983). "La macroevolución". Mundo Científico, Nº 16,
+   792-803. Futuyma, D. (2005). Evolution. Sunderland, MA: Sinauer
+   Associates, Inc.
+
+   Gould, S. (1982). "El equilibrio puntuado y el enfoque jerárquico de la
+   macroevolución". Revista de Occidente 18-19, 121-48.
+
+   Hull, D. (1980). "Individuality and Selection". Annual Review of
+   Ecology and Systematics Vol. 11, 311-332.
+
+   Krebs, Ch. (1985). Ecología. México: Harla.
+
+   Mahner, M., Bunge, M. (2000). Fundamentos de biofilosofía. México:
+   Siglo XXI.
+
+   Margalef, R. (1998). "Progreso: una valoración subjetiva entusiasta de
+   casi la mitad de los cambios en los sistemas vivos", en J. Wagensberg y
+   J. Agusti (eds.), El progreso. Barcelona: Tusquets.
+
+   Maynard Smith, J. (1984). La teoría de la evolución. Madrid: Blume.
+
+   Mayr, E. (1998). Así es la biología. Madrid: Debate.
+
+   Sober, E. (1996). Filosofía de la biología. Madrid: Alianza.
+
+   Vargas, E. (2009). "El problema del tiempo biológico en
+   Zubiri". Philosophica, Vol. 35, 229-258.
+
+   Zubiri, X. (2006). Tres dimensiones del ser humano: Individual, social,
+   histórica. Madrid: Alianza.
+
+   ______ (2008a). Espacio, tiempo, materia (2a ed.), Madrid: Alianza.
+
+   ______ (2008b) [1962]. Sobre la esencia (2a ed.). Madrid: Alianza.
+
+   _____________________
+
+   Recibido: 27.12.10. Aceptado: 20.07.11.
+
+   ^* Este trabajo fue posible gracias a un proyecto FONDECYT de
+   Postdoctorado Nº 3085042 llamado "El problema del tiempo biológico
+   desde el horizonte de la filosofía de Zubiri".
+
+   Creative Commons License  Todo el contenido de esta revista, excepto
+   dónde está identificado, está bajo una Licencia Creative Commons
+
+   Casilla 1807, Concepción-3
+   Biblioteca Central, Of. 11
+   Concepción - Chile
+   Tel.: (56-41) 2204652
+   [e-mailt.gif]
+   revista_atenea@udec.cl

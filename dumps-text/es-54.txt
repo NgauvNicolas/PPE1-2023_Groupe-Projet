@@ -1,0 +1,62 @@
+                                   EVOLUCIÓN
+
+Bienvenid@s
+
+   Te encuentras en la página web “Evolución”, un sitio que pretende ser
+   una breve introducción a la teoría evolutiva contemporánea, abarcando,
+   entre otras cosas, las pruebas que la respaldan, los distintos
+   mecanismos que postula o sus implicaciones para el conjunto de la
+   biología y la sociedad.
+
+   La página web está orientada principalmente a docentes y estudiantes de
+   niveles de enseñanza medios. Sin embargo, esperamos que también pueda
+   resultar útil a cualquier ciudadano interesado en conocer algo más
+   acerca de una de las teorías fundamentales de la ciencia moderna.
+   Existen multitud de recursos divulgativos acerca de la biología
+   evolutiva en inglés; no obstante, no sucede lo mismo en idioma español.
+   Este sitio pretende contribuir a la tarea de la divulgación de la
+   teoría evolutiva en habla hispana.
+
+   El sitio web está organizado en secciones, en las cuales se presentan
+   los distintos aspectos que abarca la teoría evolutiva. Las secciones
+   están ordenadas para facilitar su comprensión. Sin embargo, se puede
+   consultar cada una de ellas libremente, sin seguir necesariamente el
+   orden establecido en la página.
+
+   Conceptos básicos
+   Evidencias
+   La teoría
+   Selección natural
+   Medidas de selección
+   Cooperación y conflicto
+   Especiación
+   Coevolución
+   Evo-devo
+   Origen de la vida
+   El árbol de la vida
+   Linajes celulares
+   Multicelularidad
+   Macroevolución
+   Novedades
+
+   Autores:
+   Juan Gefaell Borrás ^1
+   Manuel Megías Pacheco ^2
+   Emilio Rolan Álvarez ^1 @
+   José Gijón Puerta ^3 (Mapas conceptuales)
+   Localización:
+   1. Bioquímica, Genética e Inmunología
+   2. Biología Funcional y Ciencias de la Salud
+   Universidad de Vigo
+   3. Didáctica y Organización Escolar
+   Universidad de Granada
+   España
+
+   Snail Rain
+   Un juego mendeliano
+   Descarga la App para Android
+
+   1LocusSim
+   Simulador de la evolución de un gen
+   Haz una simulación
+   Creative Commons License

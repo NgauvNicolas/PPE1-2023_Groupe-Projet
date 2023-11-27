@@ -1,0 +1,522 @@
+   #alternate Editar Wikipedia (es) Canal Atom de Wikipedia
+
+   Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * Portada
+     * Portal de la comunidad
+     * Actualidad
+     * Cambios recientes
+     * Páginas nuevas
+     * Página aleatoria
+     * Ayuda
+     * Donaciones
+     * Notificar un error
+
+   Idiomas
+   Los enlaces de idiomas se encuentran en la parte superior de la página,
+   frente al título.
+   Wikipedia La enciclopedia libre
+   Buscar
+   ____________________
+   (BUTTON) Buscar
+
+     * Crear una cuenta
+     * Acceder
+
+   [ ] Herramientas personales
+     * Crear una cuenta
+     * Acceder
+
+   Páginas para editores desconectados más información
+     * Contribuciones
+     * Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * Inicio
+     * 1Antecedentes
+     * 2Proceso de adaptación cultural
+     * 3Teorías del cambio cultural
+       (BUTTON) Alternar subsección Teorías del cambio cultural
+          + 3.1Cambios en la infraestructura
+          + 3.2Cambios en la estructura
+          + 3.3Cambios en la supraestructura
+     * 4Ejemplos de cambios culturales
+     * 5Evolución cultural a partir de la biología
+     * 6Véase también
+     * 7Referencias
+       (BUTTON) Alternar subsección Referencias
+          + 7.1Bibliografía
+
+   [ ] Cambiar a la tabla de contenidos
+
+Evolución cultural
+
+   [ ] 28 idiomas
+     * العربية
+     * Български
+     * Català
+     * Dansk
+     * Deutsch
+     * Zazaki
+     * English
+     * Esperanto
+     * فارسی
+     * Suomi
+     * Français
+     * עברית
+     * Bahasa Indonesia
+     * Italiano
+     * 日本語
+     * 한국어
+     * Lietuvių
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Русский
+     * Svenska
+     * தமிழ்
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 中文
+
+   Editar enlaces
+
+     * Artículo
+     * Discusión
+
+   [ ] español
+
+     * Leer
+     * Editar
+     * Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * Leer
+     * Editar
+     * Ver historial
+
+   General
+     * Lo que enlaza aquí
+     * Cambios en enlazadas
+     * Subir archivo
+     * Páginas especiales
+     * Enlace permanente
+     * Información de la página
+     * Citar esta página
+     * Obtener URL acortado
+     * Elemento de Wikidata
+
+   Imprimir/exportar
+     * Crear un libro
+     * Descargar como PDF
+     * Versión para imprimir
+
+   En otros proyectos
+     * Wikimedia Commons
+
+   De Wikipedia, la enciclopedia libre
+   [220px-Auguste_Comte.jpg] Auguste Comte.
+
+   Se entiende por la evolución cultural la transformación a lo largo del
+   tiempo de elementos culturales de una sociedad (o una parte de esa). La
+   cultura (que se puede definir como el desarrollo de los usos,
+   costumbres, religiones, valores, organización social, tecnología,
+   leyes, lenguajes, artefactos, herramientas, transportes) se desarrolla
+   por la acumulación y transmisión de conocimientos para la mejor
+   adaptación al medio ambiente. Está basado en teorías antropológicas de
+   desarrollo social que se acreditan a sociedades con términos de estado
+   primitivo que gradualmente se tornan más civilizadas con el pasar del
+   tiempo.
+
+   Las tesis evolucionistas aplicadas a las ciencias sociales fueron una
+   consecuencia de dos grandes aportaciones científicas de mediados del
+   siglo XIX: el evolucionismo, que Darwin planteó para la biología, y la
+   filosofía positivista de Auguste Comte. En ese contexto se formularon
+   los estadios evolutivos de autores como el estadounidense Lewis Morgan
+   (1818-1881) y el británico Edward Burnett Tylor (1834-1917), quienes,
+   con algunos matices diferenciales, plantearon la existencia de tres
+   estadios principales en el desarrollo cultural de los grupos humanos,
+   denominados de menor a mayor nivel de desarrollo: salvajismo, barbarie
+   y civilización.^[1]​ La aplicación de este esquema se popularizó por
+   otros teóricos, como Friedrich Engels en su obra El origen de la
+   familia, la propiedad privada y el Estado.
+
+   La consideración de la desigualdad de las culturas tuvo en gran medida
+   éxito gracias a su adaptación como ideología justificadora propia de un
+   momento en el que los europeos -los de Europa y las clases dominantes
+   de origen europeo de las nuevas naciones de América- estaban
+   extendiendo su dominio colonial por el resto del mundo. A finales del
+   siglo XIX era un tema cultural muy extendido el de la supuesta
+   existencia de razas inferiores y superiores, junto con otras teorías
+   sociales hoy desacreditadas como la eugenesia y el darwinismo social.
+   No obstante, a partir de la primera mitad del siglo XX se fueron
+   abriendo camino planteamientos antropológicos innovadores,
+   destacadamente el relativismo cultural de Bronisław Malinowski y otros
+   autores de la moderna antropología cultural (como Marvin Harris].
+
+Antecedentes[editar]
+
+   Al evolucionismo social está formado por ideas como las de Charles
+   Darwin, Herbert Spencer y Lewis Henry Morgan entre otros. Estos dos
+   últimos basan sus pensamientos en la teoría evolutiva de Darwin, por la
+   cual Spencer acuñara, más adelante, el término de darwinismo social y
+   que Morgan utilizara para analizar a las tribus norteamericanas con el
+   estudio de los iroqueses. El objetivo de sus estudios no es la
+   evolución de las instituciones individuales aisladas dentro de contexto
+   social, sino principalmente la evolución de la sociedad como un todo.
+
+   Todas estas ideas han sido compuestas por las denominadas principales
+   civilizaciones y principales movimientos en la historia del mundo
+   antiguo y medieval en Occidente y que hoy en día siguen teniendo
+   vigencia. Estos cuatro principales focos que más han influido han sido
+   lo fenicio (comercio), lo griego (todo lo que tienen las demás
+   civilizaciones pero se le añade el juego de azar, el arte, ideas
+   liberales, etc.), lo romano (el poder y la superioridad) y lo
+   judeocristiano (Dios y orígenes de la naturaleza).
+
+   El mestizaje social lleva a cabo la relación y la mejoría de la
+   civilización que según en la Eneida, Virgilio define otros pueblos como
+   los que cultivaran mejor la tierra.^[2]​ Max Weber definió estos cuatro
+   elementos como la jaula de hierro (El caballo de Troya). El mestizaje
+   social es lo que se diría la denominada faceta principal de los rasgos
+   que definieran una situación. En esto Bernat Muniesa nos dice:
+
+   “Cierto que siguen existiendo grupos de gentes pensadores de grandes
+   fortunas y otros verdaderos indigentes y entre ellos lo que es el
+   cuerpo central de la mezcla, las clases medias, pero todos unos y otros
+   están muy próximos entre sí mucho más de los que creen y esa ha sido y
+   es la gran tragedia de la burguesía^[3]​
+
+   A todo esto la evolución social ha sido tomada por quienes estudian a
+   la ciencia del hombre como una fuerza que realiza el trabajo de los
+   factores individuales concretos, determinantes del curso de la
+   historia. En 1859, Darwin avanzó con el transformismo o evolucionismo
+   ofreciendo sus propias observaciones para demostrar las diferencias
+   recurriendo a la paleontología para de esa forma probar el carácter
+   histórico del proceso.
+
+   Mientras para el mundo contemporáneo según Vere Gordon Childe, los
+   órdenes y géneros un nivel más alto en la jerarquía evolutiva aparecen
+   por primera vez después de los de más bajo nivel. Por lo tanto los
+   términos de “superior” e “inferior” adquirieron poder para llevar a
+   cabo una clasificación y división. Durante los siglos XVIII, los
+   científicos empezaron a adquirir mejores conocimientos sobre las
+   sociedades humanas fundamentalmente diferentes de las europeas
+   admitiendo que entre los “salvajes” existían una variedad insospechada
+   de estructuras sociales de economías y de tecnologías.^[4]​
+
+   En 1850 Herbet Spencer en su Social Statics, desarrolló una asociación
+   entre la sociedad y el organismo. Su concepto de la evolución supra
+   orgánica se basa en esa analogía.^[4]​ Spencer claramente considera
+   este crecimiento como un proceso temporal. Admite que la evolución es
+   inevitable en el conjunto de las sociedades, puede no serlo en una
+   sociedad particular e incluso ni siquiera puede ser probable.^[5]​ La
+   idea del carácter inferior que tenían los griegos de las mujeres es
+   retomada por Spencer y Darwin, -Darwin siendo más recatado que Spencer
+   con respecto a esto- que utilizan la teoría de la evolución para
+   defender su postura. Spencer dice ver a la mujer como inferior de
+   acuerdo a su estructura corporal y a la cual George Eliot refuta
+   utilizando la teoría de diversificación de Darwin, para el problema de
+   la diferencia sexual.^[6]​
+
+   Las instituciones domésticas de los bárbaros y aun de los salvajes,
+   antepasados del hombre actual, se siguen manifestando y son
+   preservadas. Esto podría ser que la adopción de criterios tecnológicos
+   para definir las etapas de la evolución determina el rango de una
+   sociedad en la escala evolutiva. A esto lo que llama los hombres
+   primitivos, actuando racionalmente estos se unieron para crear la ley y
+   el gobierno. Estos dieron paso a que los grupos humanos crearan las
+   clases sociales, sistema económico etc. Los teóricos del contrato
+   social de la ilustración europea también daban por hecho que los
+   individuos deben llevar a cabo decisiones racionales para crear su
+   propia sociedad.^[7]​
+
+   La importancia intrínseca de Morgan en la historia de la antropología
+   fue realzada por el hecho de Karl Marx y Friedrich Engels pues
+   adoptaron su esquema. Marx había anunciado la concepción materialista
+   de la historia 1859; el mismo año en que tuvo lugar la publicación del
+   Origin of Species y la vindicación del hombre Pleistoceno por John
+   Evans, Falconer y Prestwich. Dicha concepción afirma que toda la
+   estructura social está determinada en último término por el “modo de
+   producción” que a su vez depende del “medio de producción” es decir de
+   las fuerzas técnicas que tienen a su disposición la sociedad para
+   satisfacer las necesidades socialmente reconocidas.^[8]​ Marx llegó a
+   esta conclusión tomando como base las sociedades civilizadas, o sea la
+   clásica, la medieval y la moderna. En general la experiencia de la
+   humanidad da paso a una evolución social que se mueve por funciones y
+   necesidades que se dan en el momento que van cambiando y a las que se
+   han estado expuestas y que pueden llegar a manos de la persona ese
+   conocimiento por otros por medio de un aprendizaje o una necesidad
+   puesta como prioridad. Sus resultados son uniformes, coherentes y
+   repetibles en todo su desarrollo.
+
+Proceso de adaptación cultural[editar]
+
+   La cultura aceleró el proceso evolutivo aproximadamente 60.000 años
+   atrás cuando los humanos modernos salieron de África en pequeños grupos
+   sociales que involuntariamente reconfiguraron el mundo en tan solo unas
+   decenas de miles de años. La cultura se convirtió en una estrategia de
+   supervivencia pues se adaptaron aptitudes de transmitir y desarrollar
+   conocimientos, habilidades y tecnología; características que hicieron
+   más humanas las nuevas tierras y recursos. En definitiva, el ser humano
+   se ha acondicionado a casi todos los medios de la tierra.
+
+   La identidad cultural reside sobre dos pilares fundamentales que
+   separan cualitativamente a los humanos del resto de las especies
+   respecto al potencial evolutivo: el aprendizaje social y la teoría de
+   la mente.^[9]​
+
+   A pesar de que algunos animales parecen disponer de tradiciones
+   culturales, como los chimpancés que cascan las nueces con piedras o los
+   pájaros que picotean las tapas de leche para beberla, esta pericia no
+   evoluciona o mejora con el transcurrir del tiempo, y esto no sucederá a
+   menos que adquirieran la teoría de la mente verdadera y aprendizaje
+   social. Sin embargo, las sociedades humanas, por medio de la adaptación
+   cultural acumulativa, se desarrollan y evolucionan gradualmente. A
+   medida que las personas se imitan unas a otras y eligen y modifican las
+   tecnologías existentes, van almacenando conocimientos y habilidades. El
+   resultado de todos estos procesos es una cultura variada y compleja.
+
+   La historia de la especie humana consiste en el triunfo progresivo de
+   distintas formas de cooperación. Las sociedades actuales se diferencian
+   de aquellas tribus que lucharon entre sí para conquistar tierras, en la
+   medida en que los individuos reconocieron que la cooperación mutua
+   favorecía la obtención de recursos.^[10]​
+
+Teorías del cambio cultural[editar]
+
+   Una terminología común para clasificar los diferentes aspectos de la
+   cultura, introducida inicialmente por Karl Marx y usada de modo
+   ligeramente diferente por otras escuelas y autores, es la que divide la
+   cultura en sí, en tres partes:
+     * Aspectos infraestructurales. Que serían los aspectos más materiales
+       o relacionados con la tecnología, los medios de producción
+       disponibles, el tipo de recursos naturales o humanos manejados por
+       una sociedad para su actividad económica y social.
+     * Aspectos estructurales. Que serían aquellos relacionados con como
+       se organizan las tareas y las funciones sociales, el sistema
+       jerárquico y de poder y las reglas que en efecto rigen las
+       relaciones entre individuos.
+     * Aspectos supraestructurales. Que englobarían los aspectos más
+       inmateriales e ideales, como las creencias religiosas, los valores
+       morales y también los aspectos tradicionalmente considerados "alta
+       cultura" en occidente como: la pintura, la arquitectura, la música,
+       la literatura o el cine (a pesar de que la realización de estos
+       aspectos también se halla restringida por los aspectos tecnológicos
+       o infraestructurales). También todo un conjunto de idealizaciones,
+       como las utopías o principios deseables del ordenamiento jurídico,
+       formarían la supraestructura.
+
+   Según un cierto número de teorías del cambio sociocultural, como el
+   marxismo o el materialismo cultural, las culturas son, en gran parte,
+   adaptativas (en el sentido que tratan de adaptarse al medio ambiente,
+   la tecnología disponible y demás restricciones materiales que
+   condicionan la vida humana). Para el marxismo, y otras versiones del
+   materialismo histórico, es el cambio en la infraestructura, más
+   concretamente en el modo de producción o la tecnología, lo que hace que
+   aparezcan nuevos factores culturales, que provocan reestructuraciones
+   importantes en el modo de organizar la sociedad: quién produce, qué se
+   produce, cómo se produce y para quién se produce.
+
+Cambios en la infraestructura[editar]
+
+   Los cambios infraestructurales son complicados de prever ya que
+   dependen de avances tecnológicos, desarrollos económicos no buscados y
+   la creación de economías de escala. Sin embargo, resultan en general
+   más sencillos de describir en términos objetivos una vez producidos.
+   Para algunos autores, como Marvin Harris, estos cambios son
+   importantes, porque detrás de un buen número de cambios culturales en
+   otros niveles pueden rastrearse hasta cambios en la infraestructura.
+
+Cambios en la estructura[editar]
+
+   Los cambios en la estructura normalmente se corresponden a
+   reorganizaciones sociales asociadas al modo de producción. Así un nuevo
+   cambio tecnológico o infraestructural puede comportar una forma
+   diferente de distribuir el trabajo o el número de horas trabajadas. Un
+   ejemplo de esto fue la incorporación masiva de las mujeres occidentales
+   al mercado laboral al aparecer un buen número de puestos de trabajo en
+   el sector servicios (empleos de cuello blanco o rosa) donde la fuerza
+   física no presenta ventaja comparativa al estar basados exclusivamente
+   en la capacidad intelectual.
+
+Cambios en la supraestructura[editar]
+
+   Los cambios supraestructurales casi siempre surgen como valores y
+   reacomodos de los valores y las creencias que tienden a justificar el
+   orden social imperante. Así la incorporación de las mujeres al mercado
+   laboral conllevó una mejora y emprestigiamiento de la mujer asalariada
+   que trabaja fuera de casa y aporta ingresos económicos al hogar (frente
+   a actitudes anteriores que defendían que las mujeres se encargaran de
+   sus hijos y su hogar el mayor tiempo posible).
+
+Ejemplos de cambios culturales[editar]
+
+   Este artículo o sección necesita referencias que aparezcan en una
+   publicación acreditada.
+   Este aviso fue puesto el 25 de noviembre de 2021.
+
+   Un exitoso caso de evolución y difusión cultural es la institución
+   universitaria que empezó en el Mediterráneo y en Oriente (Asia) y en la
+   Alta Edad Media europea: Egipto (África); después en la Baja Edad
+   Media: Europa (Italia, Inglaterra, Francia, España y Portugal) y
+   posteriormente se extendió al mundo hispánico en el XVI y en el XVII al
+   anglosajón americano, este último con conceptos nuevos de populismo y
+   excelencia en investigación.
+
+   La evolución cultural y la difusión cultural son temas básicos para el
+   desarrollo de artículos como prioridades sociales y de áreas
+   metropolitanas, para ejemplos de valores o de tecnologías (espirituales
+   y materiales).
+
+   El concepto está en la antropología cultural y fue desarrollado por
+   Tylor, Leslie White, Kroeber, Kluckhohn, tiene muchas connotaciones
+   como puede verse aquí por las disciplinas citadas y los enlaces y para
+   el estudioso puede leer más en los clásicos, por ejemplo: Bronislaw
+   Malinowski en 'Los argonautas del Pacífico Occidental'.
+
+   Cuando en los países árabes le dan más participación a las mujeres.
+   Cuando América fue colonizada por los europeos hubo cambios culturales.
+   Cuando la sociedad se adapta y elimina culturas anticuadas, por
+   ejemplo: el machismo. Podemos decir que las tradiciones y las formas de
+   expresar la cultura nos recuerdan nuestras raíces, identidad cultural y
+   comienzos.
+
+   Las características principales de una identidad cultural en particular
+   son las siguientes: creencias, dioses, símbolos, ubicación geográfica,
+   historia, miembros, tradiciones y costumbres.
+
+Evolución cultural a partir de la biología[editar]
+
+   La evolución biológica, mediante la selección natural, apunta hacia el
+   logro de mayores niveles de adaptación de los seres vivientes. En el
+   caso del hombre, en una determinada época, aparece el cerebro, como un
+   órgano apto para el proceso de información. A partir de ahí comienza el
+   proceso de adaptación cultural al orden natural.
+
+   Puede decirse que el principio de complejidad creciente es el que reúne
+   tanto a la evolución biológica como a la evolución cultural. También ha
+   sido denominado como ley de complejidad-conciencia. Esta tendencia
+   implica la existencia de un sentido de la evolución, de una finalidad
+   objetiva e implícita del universo. También puede establecerse el
+   sentido de la historia de la humanidad como una serie de intentos por
+   lograr mayores niveles de adaptación al orden natural.
+
+   Julian Huxley describe la situación del hombre "como si hubiese sido
+   designado, de repente, director general de la más grande de todas las
+   empresas, la empresa de la evolución". Así como el medio ambiente
+   presiona a la vida hacia una mayor adaptación, el propio orden natural
+   presiona a la humanidad, a través del sufrimiento, a una mayor
+   adaptación cultural al mismo.
+
+Véase también[editar]
+
+     * Cultura
+     * Difusión cultural
+     * Sociología
+     * Antropología cultural
+     * Ecología Humana
+     * Etnología
+     * Evolucionismo (arqueología)
+     * Meme
+     * Ley de complejidad-conciencia
+     * Teoría de la herencia dual
+     * Selección cultural de grupo
+
+Referencias[editar]
+
+    1. ↑ Evolucionismo
+    2. ↑ Bernat Muniesa,(1995), articulo Capa. El mestizaje occidental,
+       Nudos Gordianos Barcelona. pág. 50
+    3. ↑ Bernat Muniesa,(1995), articulo Cap. El mestizaje occidental,
+       Nudos Gordianos, Barcelona. pág. 50
+    4. ↑ ^a ^b • Childe V. Gordon ,(traducción directa Daisy Learn y Eli
+       de Gortari )( 1951) Ingles, ( 1964) español, evolución social-
+       Social Evolution, Mexico. Universidad general de publicaciones.
+       Ediciones de la coordinación de investigación científica.pág.8
+    5. ↑ • Childe V. Gordon ,(traducción directa Daisy Learn y Eli de
+       Gortari )( 1951) Ingles, ( 1964) español, evolución social- Social
+       Evolution, Mexico. Universidad general de publicaciones. Ediciones
+       de la coordinación de investigación científica.pág.9
+    6. ↑ •• Eliot George and Herbert Spencer ,(1991), (Nancy L. Paxton),
+       Feminism, evolutionism and the reconstruction of gender, New
+       Jersey, Published by Princeton University Press. pág.173
+    7. ↑ •Service R. Elman, (1975), (versión española de Mari- Carmen
+       Ruiz), Los orígenes del estado y de la civilización; El proceso de
+       la evolución cultural. Spain , Alianza editorial S.A Madrid ,(
+       1984),pág.290
+    8. ↑ • Childe V. Gordon ,(traducción directa Daisy Learn y Eli de
+       Gortari )( 1951) Ingles, ( 1964) español, evolución social- Social
+       Evolution, Mexico. Universidad general de publicaciones. Ediciones
+       de la coordinación de investigación científica.pág.16
+    9. ↑ Heyes, Cecilia (1998). «Theory of mind in nonhuman primates».
+       Behavioral and brain sciences 21 (1): 101-114. Archivado desde el
+       original el 10 de marzo de 2020. Consultado el 7 de julio de 2020.
+   10. ↑ Pagel, M. (2012). Wired for culture. The natural history of human
+       cooperation. Penguin press.
+
+Bibliografía[editar]
+
+     * Luigi Luca Cavalli-Sforza (2007). La evolución de la cultura.
+       Barcelona: Anagrama.
+     * Julian Huxley (1957). Nuevos odres para el vino nuevo. México:
+       Editorial Hermes.
+
+   Control de autoridades
+     * Proyectos Wikimedia
+     * Wd Datos: Q1050187
+     * Commonscat Multimedia: Sociocultural evolution / Q1050187
+     __________________________________________________________________
+
+     * Identificadores médicos
+     * MeSH: D000083645
+     * UMLS: C3825667
+
+     * Wd Datos: Q1050187
+     * Commonscat Multimedia: Sociocultural evolution / Q1050187
+
+   Obtenido de
+   «https://es.wikipedia.org/w/index.php?title=Evolución_cultural&oldid=15
+   5605728»
+   Categorías:
+     * Sociología de la cultura
+     * Antropología
+     * Teoría de la Historia
+     * Cambio
+
+   Categorías ocultas:
+     * Wikipedia:Artículos que necesitan referencias
+     * Wikipedia:Referenciar (aún sin clasificar)
+
+     * Esta página se editó por última vez el 25 nov 2023 a las 06:40.
+     * El texto está disponible bajo la Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros términos de uso y
+       nuestra política de privacidad.
+       Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+       organización sin ánimo de lucro.
+
+     * Política de privacidad
+     * Acerca de Wikipedia
+     * Limitación de responsabilidad
+     * Código de conducta
+     * Desarrolladores
+     * Estadísticas
+     * Declaración de cookies
+     * Versión para móviles
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Activar o desactivar el límite de anchura del contenido

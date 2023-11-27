@@ -1,0 +1,326 @@
+   #alternate alternate alternate alternate Cirion Technologies » Feed
+   Cirion Technologies » Feed de los comentarios Cirion Technologies »
+   Comentario La Inteligencia Artificial y su rol en la evolución de la
+   sociedad  del feed alternate alternate alternate
+
+   Cirion Technologies
+     * Conectividad
+     * Seguridad
+     * UC&C
+     * Datacenter & Hybrid Cloud
+     * Tendencias de TI
+     * Español
+          + Português
+          + English
+
+   Seleccionar página
+
+La Inteligencia Artificial y su rol en la evolución de la sociedad
+
+   Publicado por Yuri Menck | Sep 28, 2023 | Tendencias de TI |
+   La Inteligencia Artificial y su rol en la evolución de la sociedad
+
+   La IA «democratizada», como la que estamos viviendo actualmente, posee
+   un enorme potencial disruptivo en nuestra sociedad y en los procesos
+   productivos. ¿Podemos estar ante la presencia de una nueva Revolución
+   Industrial? Para un mejor entendimiento de este dilema, resulta
+   interesante retomar algunos conceptos sobre la evolución de la sociedad
+   y las revoluciones industriales.
+
+Sociedad 1.0, la caza
+
+   Margaret Mead fue una antropóloga que, a partir de la pregunta de un
+   alumno, definió que el primer indicio de vida social lo dio un fémur
+   cicatrizado. Se necesitan 6 semanas para curar una fractura de fémur.
+   Sin el mínimo apoyo, un animal en esa situación no logrará huir de sus
+   depredadores, o buscar alimento y agua para sustentarse durante el
+   proceso de sanación.  Para sobrevivir, hace falta el apoyo de un grupo
+   que te proteja, alimente y espere hasta la recuperación.  De esta
+   manera, el fémur cicatrizado más antiguo nos da una idea de cuándo
+   comienza la sociedad humana.
+
+   En aquel entonces, las tecnologías disponibles eran mínimas; el fuego y
+   las herramientas más rudimentarias. El poder económico radicaba en la
+   habilidad y en el coraje del cazador.
+
+Sociedad 2.0, la agrícola
+
+   El primer gran salto evolutivo llegó con el desarrollo de la
+   agricultura, que posibilitó mayor productividad en la producción
+   alimentos y en la fijación de grupos sociales más grandes.
+
+   Los grupos humanos fueron creciendo en magnitud, surgieron los primeros
+   imperios, se fueron desarrollando las habilidades técnicas, pero los
+   medios de producción siguieron dependiendo de la fuerza humana o de la
+   tracción animal. Si bien existían ciudades y funciones burocráticas y
+   administrativas, la gran masa de la población vivía en el campo y
+   dependía de la producción para su subsistencia. El poder económico
+   estaba en manos de quienes dominaran la tierra. Y esto cambió
+   únicamente a partir de una innovación disruptiva que trajo aparejada
+   una enorme transformación social.
+
+La Revolución Industrial y la Sociedad 3.0, la industrial
+
+   En el Siglo XVIII, el desarrollo de la tecnología trajo la máquina de
+   vapor, capaz de superar a la fuerza animal. Eso posibilitó dos grandes
+   movimientos.
+
+   La creación de las industrias, y a partir de ello se generó un gran
+   éxodo del campo a las ciudades, y la sociedad pasó de ser agraria a
+   urbana, centrada en la producción masiva de bienes.
+
+   La creación de los ferrocarriles, reduciendo drásticamente los tiempos
+   de traslado y la velocidad con la que la información llegaba de un
+   punto a otro.
+
+   El poder económico migró de la posesión de tierras hacia el dominio de
+   la industrialización.
+
+Electricidad, la Segunda Revolución Industrial
+
+   Con el vapor, era necesario transferir la energía de manera mecánica,
+   obligando a la producción a estar cerca de su fuente de energía. Este
+   modelo perduró durante casi dos siglos hasta el desarrollo de la
+   electricidad.
+
+   Las hidroeléctricas constituyeron un gran avance en dirección a la
+   sustentabilidad, sustituyendo al carbón. Con la electricidad, se
+   podrían producir y transmitir cantidades aún mayores de energía a
+   largas distancias, lo que permitiría una aceleración cada vez mayor de
+   la capacidad industrial y su descentralización.
+
+   La energía eléctrica también se podría utilizar para la iluminación y
+   los turnos de producción se extenderían hasta bien entrada la noche. En
+   cuanto a las comunicaciones también llegó el telégrafo, mediante el
+   cual la información viajaría incluso más rápido que a través del tren.
+
+   La electricidad trajo una mejor calidad de vida y productividad, aunque
+   el poder económico seguía en manos de las industrias.
+
+Electrónica, la Tercera Revolución Industrial
+
+   El electrón se descubrió en 1897. El siglo XX se desarrolló junto con
+   la mejora de los circuitos electrónicos, que llegaron a las
+   telecomunicaciones y a las computadoras.
+
+   Juntas, las telecomunicaciones y la informática aceleraron el
+   desarrollo de nuevas tecnologías en diferentes áreas. La computación
+   gráfica simplificó los procesos y dio origen a nuevas posibilidades
+   para las artes, la arquitectura y la ingeniería. La medicina avanzó en
+   el desarrollo de fármacos y en el control estadístico de los test de
+   medicamentos. Las telecomunicaciones, junto con la radio y la
+   televisión, crearon un nuevo mercado de entretenimiento.
+
+   Si bien contribuyó a producir más ciencia, la tecnología desarrolló una
+   sociedad cada vez más voraz y dependiente de los datos.
+
+   Después de un largo ciclo, la sociedad estaba consolidando un cambio y
+   trasladando el poder económico del dominio de la industria al dominio
+   de la información.
+
+La Cuarta Revolución Industrial y la Sociedad 4.0, la de la Información.
+
+   La digitalización de productos y procesos abrió el espacio para los
+   medios de producción donde la información es más importante que el
+   activo de producción en sí, definiendo la Cuarta Revolución Industrial.
+   Surgieron empresas, entre otras, como: Uber, un gigante del transporte
+   sin vehículos; Airbnb, un gigante hotelero sin habitaciones; Amazon, el
+   gigante de los libros sin libros que luego también se apoderó del
+   comercio y de las tecnologías de la información.
+
+   El desarrollo de la Internet, en tres grandes fases, es un factor clave
+   para este período.
+
+   WEB 1.0: Una réplica del mundo físico con la información monopolizada,
+   tanto por su control como por su creación, por unos pocos grupos
+   mediáticos. Era el comienzo de la herramienta y aún había mucha
+   incertidumbre sobre sus aplicaciones y modelos de monetización.
+
+   WEB 2.0: Surgieron las redes sociales y se difundió la creación de
+   contenidos entre los usuarios. El control de la distribución quedó en
+   manos de unos pocos administradores de redes sociales, que también
+   monopolizaron la monetización de la información disponible sobre los
+   hábitos de sus usuarios. La introducción de los smartphones creó las
+   condiciones para el consumo de contenido web 24/7. Se desarrolló el
+   comercio electrónico y la vida, la atención y el consumo de las
+   personas pasaron a estar centralizados en sus pantallas.
+
+   WEB 3.0: Un movimiento que todavía estamos viviendo en su etapa
+   incipiente. Con blockchain y NFT, los usuarios no solo se convierten en
+   creadores de contenido en la web, sino que ahora pueden controlar
+   directamente la posesión y distribución de ese contenido, cambiando el
+   equilibrio de fuerzas que coloca a las grandes redes sociales en la
+   cima de la cadena WEB 2.0.
+
+   La web se ha consolidado como la base de la Sociedad 4.0, caracterizada
+   por la convergencia de tecnologías digitales, físicas y biológicas.
+   Tecnologías como Internet de las cosas (IoT), inteligencia artificial
+   (IA), robótica avanzada y realidad virtual/aumentada desempeñan un
+   papel central. La adquisición, el transporte y el procesamiento de
+   datos son elementos clave para una economía centrada en la innovación
+   digital donde la personalización y la customización son comunes.
+
+   Para aprovechar las oportunidades de este mercado, las empresas
+   necesitaron transitar por los caminos de la Transformación Digital,
+   adaptando sus estructuras y procesos para satisfacer las demandas del
+   nuevo consumidor. La demanda de infraestructura digital capaz de
+   conformar las nuevas necesidades de esta sociedad apenas comienza.
+
+IA, ¿la Quinta Revolución Industrial?
+
+   Objeto de estudio desde el inicio de la computación electrónica, la
+   Inteligencia Artificial tuvo durante mucho tiempo su acceso restringido
+   a pocos, exigiendo grandes volúmenes de un poder computacional muy
+   oneroso. La reducción de costos y el aumento del poder computacional de
+   los smartphones, así como el desarrollo de la infraestructura de la
+   nube posibilitaron democratizar el acceso a la IA.
+
+   Hoy en día están surgiendo servicios gratuitos de IA que cualquier
+   persona puede utilizar para escribir textos, generar diseños, audio e
+   incluso imágenes fotográficas. Aplicaciones, como Adobe Photoshop y el
+   paquete de Office, ya hacen uso y abuso de funciones basadas en IA. Los
+   asistentes personales, como Alexa, que alguna vez fueron meras
+   interfaces de voz para comandos simples, en breve incluyeron la
+   capacidad de dialogar de manera muy natural con sus propietarios.
+
+   Es cierto que el uso masivo de la IA debería producir un nuevo salto
+   productivo. Combinada con modelos de trabajo híbridos, Cobots (robots
+   cooperativos) y otras tecnologías, deberían producir fuertes cambios en
+   el proceso productivo, reemplazando funciones y creando nuevas
+   profesiones. En este sentido, podríamos decir que la IA representa una
+   quinta revolución industrial. Otros, sin embargo, todavía sostienen que
+   este no es el caso y que sólo estamos viendo la mejora de las
+   tecnologías de la cuarta revolución.
+
+   En el futuro, la distancia histórica permitirá decir quién tiene razón.
+   Todavía no somos capaces de comprender hasta qué punto se desarrollarán
+   estas tecnologías. Los escenarios que creamos en nuestras mentes para
+   el futuro de la tecnología deben ser tan precisos como lo fueron las
+   descripciones que hiciera Julio Verne sobre la tecnología del siglo XX.
+
+La Sociedad 5.0
+
+   Volviendo a Margaret Mead, la sociedad surgió como un medio para
+   mejorar nuestra existencia como especie. Como una red de apoyo para
+   ayudar a que más personas tengan mejores condiciones de vida. A lo
+   largo de los milenios que separan al primer fémur cicatrizado del
+   ChatGPT y de Bard, la humanidad y la tecnología han evolucionado
+   juntas. Los seres humanos moldean la tecnología para su beneficio, y la
+   tecnología moldea a los humanos y su estilo de vida. Durante un largo
+   período, los beneficios económicos derivados de los avances
+   tecnológicos se produjeron a costa de fuertes impactos ambientales y
+   grandes desequilibrios sociales.
+
+   El concepto de Sociedad 5.0 surgió en 2016, cuando el gobierno japonés
+   lanzó un proyecto para utilizar la tecnología en favor de la humanidad.
+   En la Sociedad 5.0, el foco del desarrollo tecnológico no consiste
+   simplemente en aumentar la capacidad productiva, sino en mejorar el
+   bienestar de las personas y su calidad de vida mediante la resolución
+   de problemas complejos. Los problemas a abordar incluyen la reducción
+   de las emisiones contaminantes, el aumento de la capacidad de
+   producción de alimentos y la disminución del desperdicio, la producción
+   sostenible y la reducción de la desigualdad de ingresos.
+
+   El mayor desafío no es técnico, sino que está en nuestra capacidad para
+   movilizar a autoridades, corporaciones y ciudadanos en torno de este
+   tema. Las principales tecnologías que posibilitan la sociedad 5.0 ya
+   existen. Inteligencia Artificial, Drones, Smart Home, Vehículos
+   autónomos, computación en nube. Nuestro mayor desafío sigue siendo
+   revertir una mentalidad individualista hacia una visión de creación
+   conjunta y colaboración, sin caer en los errores de los sistemas
+   políticos y económicos actuales y del pasado.
+
+   Las empresas y sus líderes tienen un poder y una responsabilidad en
+   este escenario. Sin duda es una disrupción y debemos repensar la manera
+   de obtener resultados con las nuevas reglas de juego. La única certeza,
+   por el momento, es que este juego se disputará sobre la infraestructura
+   digital.
+
+   Autor:
+   Yuri Menck
+   Marketing Manager
+   Cirion, Brasil
+
+   Graduado en Ingeniería Industrial Eléctrica (UTFPR), con posgrado en
+   Gestión de TI (Unicenp) y MBA en Gestión Ejecutiva (Insper/SP). Siempre
+   se desempeñó en el mercado de la tecnología de la información y de las
+   telecomunicaciones. En la empresa desde el 2000, ocupó posiciones en
+   áreas técnicas y de productos, y desde 2008, lidera el equipo de
+   Marketing Estratégico y Comunicaciones en Brasil.
+
+   Disponible en Português (Portugués, Brasil) English (Inglés)
+
+   Compartir:
+
+   Tasa:
+
+   CDN, clave para el crecimiento del streaming en Venezuela y
+   LatinoaméricaAnterior
+   PróximoLa importancia de la Experiencia del Cliente en la construcción
+   de un modelo de negocio sostenible
+
+Artículos Relacionados
+
+   Vida a Distancia – La Tecnología que nos Conecta
+
+Vida a Distancia – La Tecnología que nos Conecta
+
+   23/06/2020
+   La tendencia del streaming se toma el mundial Qatar 2022
+
+La tendencia del streaming se toma el mundial Qatar 2022
+
+   18/11/2022
+   ¿Serán las Empresas Biónicas el futuro de las compañías?
+
+¿Serán las Empresas Biónicas el futuro de las compañías?
+
+   07/07/2021
+   Impulsamos el progreso de las empresas en Argentina
+
+Impulsamos el progreso de las empresas en Argentina
+
+   18/01/2023
+
+Buscar
+
+   Buscar: ____________________ Buscar
+
+Contacte un experto
+
+RECURSOS
+
+SIGANOS EN NUESTRAS REDES
+
+   Youtu
+
+SALA DE PRENSA
+
+Artículos más recientes
+
+     * Tendencias de Ciberseguridad
+     * ¿Qué son las redes cuánticas y qué tan cerca están de transformar
+       los negocios?
+     * Preparación tecnológica para el Buen Fin 2023: Conoce las
+       estrategias esenciales para el éxito comercial
+
+Categorías
+
+     * Casos de Éxito
+     * Conectividad
+     * Datacenter & Hybrid Cloud
+     * Forum
+     * Podcast
+     * Seguridad
+     * Tendencias de TI
+     * UC&C
+     * Webinar
+
+   © Cirion Technologies. Todos los derechos reservados.
+     *
+     *
+     *
+     *
+     *
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-52GH5WB

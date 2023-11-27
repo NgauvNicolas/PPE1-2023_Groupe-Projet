@@ -1,0 +1,34 @@
+    3. Educational Resources
+    4. Glosario parlante de términos genómicos y genéticos
+    5. Evolución
+
+   Home
+--
+   Evolution_hero
+
+​Evolución
+
+   updated: November 22, 2023
+--
+Definición
+
+   La evolución, en relación con la genómica, se refiere al proceso por el
+   cual los organismos vivos cambian con el tiempo a través de cambios en
+   el genoma. Esos cambios evolutivos ocurren por mutaciones que producen
+--
+Narración
+
+   La evolución, como Darwin la describió en "El Origen de las Especies"
+   en 1859, tiene varios componentes, tres para ser exactos. En primer
+   lugar, la evolución propone que todos los organismos descienden de un
+   ancestro común, o por lo menos de un conjunto muy pequeño de ancestros
+   comunes - todavía se debate sobre esto, pero probablemente fuera un
+   antepasado único común. En segundo lugar la evolución dice que hay
+   cambios graduales en el tiempo, que sabemos que se deben a mutaciones
+   en el ADN. Y en tercer lugar, pero muy importante, la selección natural
+--
+   producen, dan lugar a especies que tienen habilidades particulares para
+   sobrevivir en el nicho concreto que el entorno les ha proporcionado.
+   Así que poniendo esas tres cosas juntas... tenemos la evolución.
+
+Search

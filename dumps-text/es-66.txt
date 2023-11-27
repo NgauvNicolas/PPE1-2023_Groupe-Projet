@@ -1,0 +1,724 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WSX5PBP
+
+   If you're seeing this message, it means we're having trouble loading
+   external resources on our website.
+
+   Si estás detrás de un filtro de páginas web, por favor asegúrate de que
+   los dominios *.kastatic.org y *.kasandbox.org estén desbloqueados.
+
+   Para iniciar sesión y utilizar todas las funciones de Khan Academy
+   tienes que habilitar JavaScript en tu navegador.
+   (BUTTON) Cursos
+   Buscar
+   Haz una donaciónInicia sesiónRegístrate
+   Busca cursos, habilidades y videos
+   (BUTTON)
+   Contenido principal
+
+Biología avanzada (AP Biology)
+
+   (BUTTON)
+
+Curso: Biología avanzada (AP Biology) > Unidad 7
+
+   Lección 1: Selección natural
+   (BUTTON)
+     * Introducción a la evolución y la selección natural
+     * La selección natural y la mariposa búho
+     * Variación en una especie
+     * Darwin, evolución y selección natural
+     * Selección natural
+
+   Ciencia>
+   Biología avanzada (AP Biology)>
+   Selección natural>
+   Selección natural
+   © 2023 Khan Academy
+   Términos de usoPolítica de privacidadAviso de cookies
+   (BUTTON)
+
+Darwin, evolución y selección natural
+
+   Google Classroom
+   El viaje de Darwin en el HMS Beagle y sus ideas sobre la evolución y la
+   selección natural.
+
+Puntos más importantes:
+
+     * Charles Darwin era un naturalista británico que propuso la teoría
+       de la evolución biológica por selección natural.
+     * Darwin definió la evolución como "descendencia con modificación",
+       la idea de que las especies cambian a lo largo del tiempo, dan
+       origen a nuevas especies y comparten un ancestro común.
+     * El mecanismo que Darwin propuso para la evolución es la selección
+       natural. Debido a que los recursos son limitados en la naturaleza,
+       los organismos con rasgos heredables que favorezcan la
+       supervivencia y la reproducción tenderán a dejar una mayor
+       descendencia que sus pares, lo que hace que la frecuencia de esas
+       características aumente a lo largo de varias generaciones.
+     * La selección natural hace que las poblaciones se adapten o se
+       vuelvan cada vez más adecuadas a su entorno con el paso del tiempo.
+       La selección natural depende del medio ambiente y requiere que
+       existan variaciones heredables en un grupo.
+
+¿Qué es la evolución?
+
+   La idea básica de la evolución biológica es que las poblaciones y las
+   especies de organismos cambian con el tiempo. Hoy en día, cuando
+   pensamos en evolución, tendemos a relacionar esta idea con una persona:
+   el naturalista británico Charles Darwin.
+   En la década de 1850, Darwin escribió un libro controversial e
+   influyente llamado El origen de las especies. En él, propuso que las
+   especies evolucionan (o, como lo dijo él, tienen "descendencia con
+   modificaciones") y que todos los seres vivos pueden rastrear su
+   ascendencia a un antepasado común.
+   [¿Exactamente qué es una especie?]
+   Darwin también sugirió un mecanismo para la evolución: la selección
+   natural, en la que los rasgos heredables que le ayudan a un organismo a
+   sobrevivir y reproducirse, se vuelven más comunes en una población a lo
+   largo del tiempo.
+   [¿Qué significa "heredable"?]
+   En este artículo, examinaremos más de cerca las ideas de Darwin.
+   Veremos cómo surgieron a partir de sus viajes alrededor del mundo en el
+   barco HMS Beagle y también analizaremos un ejemplo de cómo funciona la
+   evolución mediante selección natural.
+   [Primeras ideas sobre la evolución]
+   [Las influencias sobre Darwin]
+
+Darwin y el viaje del Beagle
+
+   El libro seminal de Darwin, El origen de las especies, expone sus ideas
+   acerca de la evolución y la selección natural. Estas ideas se basaron
+   en gran medida en las observaciones directas que Darwin realizó en sus
+   viajes alrededor del mundo. De 1831 a 1836 fue parte de una expedición
+   de investigación realizada a bordo del barco HMS Beagle, la cual hizo
+   paradas en Sudamérica, Australia y la punta sur de África. En cada
+   parada, Darwin tuvo la oportunidad de estudiar y catalogar las plantas
+   y los animales de la localidad.
+   En el transcurso de sus viajes, Darwin empezó a observar patrones
+   interesantes en la distribución y las características de los
+   organismos. Podemos ver algunos de los patrones más importantes que
+   descubrió en la distribución de los organismos estudiando las
+   observaciones que realizó sobre las islas Galápagos en la costa de
+   Ecuador.
+   _Crédito de imagen: "Los pinzones de Darwin," de John Gould (dominio
+   público)_
+   Darwin encontró que las islas cercanas en las Galápagos tenían especies
+   similares, pero no idénticas, de pinzones. Más aún, notó que cada
+   especie de pinzón era adecuada a su entorno y su función en este. Por
+   ejemplo, las especies que comían semillas grandes tenían picos grandes
+   y duros, mientras que las que consumían insectos presentaban picos
+   delgados y puntiagudos. Finalmente, observó que los pinzones (y otros
+   animales) de las islas Galápagos eran parecidos a las especies que se
+   encontraban en la parte continental de Ecuador, pero distintas de las
+   del resto del mundo
+   [MATH: <msup><mi></mi><mn>2</mn></msup> :MATH]
+   ‍ .
+   Darwin no dedujo todo esto durante su viaje. De hecho, ¡ni siquiera se
+   dio cuenta de que los pinzones eran especies emparentadas pero
+   diferentes hasta que le mostró sus especímenes a un ornitólogo (biólogo
+   de aves) experto varios años después!
+   [MATH: <msup><mi></mi><mn>3</mn></msup> :MATH]
+   ‍  Sin embargo, elaboró gradualmente una idea que pudiera explicar el
+   patrón de los pinzones emparentados pero diferentes.
+   De acuerdo con la idea de Darwin, este patrón tendría sentido si las
+   islas Galápagos hubieran estado habitadas desde hace mucho tiempo por
+   aves provenientes del continente vecino. En cada isla, los pinzones se
+   adaptarían gradualmente a las condiciones locales (a lo largo de muhcas
+   generaciones y durante largos periodos de tiempo). Este proceso pudo
+   haber llevado a la formación de una o más especies distintas en cada
+   isla.
+   Pero, si esta idea era correcta, ¿por qué lo era? ¿Qué mecanismo podía
+   explicar de qué manera cada población de pinzones había adquirido
+   adaptaciones o características que la hacían más adecuada para vivir en
+   su entorno inmediato? Durante su viaje, y en los años que le siguieron,
+   Darwin desarrolló y refinó un conjunto de ideas que podrían explicar
+   los patrones que observó durante su viaje. En su libro, El origen de
+   las especies, Darwin explicó sus dos ideas fundamentales: la evolución
+   y la selección natural.
+   [¿No llegó a estas mismas conclusiones Alfred Russel Wallace?]
+
+Evolución
+
+   Las especies modernas aparecen en la parte superior de la ilustración
+   mientras que los ancestros de las que se originaron se muestran en la
+   parte inferior. Crédito de imagen: "El árbol de la vida de Darwin," de
+   Charles Darwin. Fotografía de A. Kouprianov, dominio público
+   Darwin propuso que las especies cambian con el tiempo, que las especies
+   nuevas provienen de especies preexistentes y que todas las especies
+   comparten un ancestro común. En este modelo, cada especie tiene su
+   propio conjunto de diferencias heredables (genéticas) en relación con
+   su ancestro común, las cuales se han acumulado gradualmente durante
+   periodos de tiempo muy largos. Eventos de ramificación repetidos, en
+   los que las nuevas especies se desprenden de un ancestro común,
+   producen un "árbol" de muchos niveles que une a todos los seres vivos.
+   Darwin se refirió a este proceso, en el que los grupos de organismos
+   cambian en sus características heredables a lo largo de generaciones,
+   como "descendencia con modificaciones". Hoy en día, lo llamamos
+   evolución. El boceto de Darwin que se ve arriba ilustra esta idea y
+   muestra cómo una especie puede ramificarse en dos a lo largo del
+   tiempo, y cómo este proceso puede repetirse muchas veces en el "árbol
+   genealógico" de un grupo de especies emparentadas.
+
+Selección natural
+
+   Es importante destacar que Darwin no solo propuso que los organismos
+   evolucionaban. Si ese hubiera sido el inicio y el fin de su teoría, ¡no
+   estaría en tantos libros de texto hoy en día! Además, Darwin también
+   propuso un mecanismo para la evolución: la selección natural. Este
+   mecanismo era elegante y lógico, y explicaba cómo podían evolucionar
+   las poblaciones (tener descendencia modificada) de tal manera que se
+   hacían más adecuadas para vivir en sus entornos con el paso del tiempo.
+   El concepto de selección natural de Darwin está basado en varias
+   observaciones fundamentales:
+     * Los rasgos a menudo son heredables. En los seres vivos, muchas
+       características son hereditarias o pasan de padres a hijos. (Darwin
+       sabía que esto sucedía, si bien no sabía que los rasgos se
+       heredaban mediante genes).
+     * Se produce más descendencia de la que puede sobrevivir. Los
+       organismos son capaces de generar más descendientes de los que su
+       medio ambiente puede soportar, por lo que existe una competencia
+       por los recursos limitados en cada generación.
+     * La descendencia varía en sus rasgos heredables. La descendencia en
+       cualquier generación tendrá rasgos ligeramente distintos entre sí
+       (color, tamaño, forma, etcétera), y muchas de estas características
+       serán heredables.
+
+   Basado en estas sencillas observaciones, Darwin concluyó lo siguiente:
+     * En una población, algunos individuos tendrán rasgos heredables que
+       les ayudarán a sobrevivir y reproducirse (dadas las condiciones del
+       entorno, como los depredadores y las fuentes de alimentos
+       existentes). Los individuos con los rasgos ventajosos dejarán más
+       descendencia en la siguiente generación que sus pares, dado que sus
+       rasgos los hacen más efectivos para la supervivencia y la
+       reproducción.
+     * Debido a que los rasgos ventajosos son heredables y a que los
+       organismos que los portan dejan más descendientes, los rasgos
+       tenderán a volverse más comunes (presentarse en una mayor parte de
+       la población) en la siguiente generación.
+     * En el transcurso de varias generaciones, la población se adaptará a
+       su entorno (ya que los individuos con rasgos ventajosos en ese
+       ambiente tendrán consistentemente un mayor éxito reproductivo que
+       sus pares).
+
+   El modelo de Darwin de evolución mediante selección natural le permitió
+   explicar los patrones que vio durante sus viajes. Por ejemplo, si las
+   especies de pinzones de las Galápagos compartían un ancestro común,
+   tenía lógica que tuvieran mucho parecido entre ellas (y con los
+   pinzones continentales, con quienes probablemente compartían un
+   ancestro común). Si los grupos de pinzones habían estado aislados en
+   islas separadas durante muchas generaciones, cada grupo se habría visto
+   expuesto a un ambiente diferente en que el que se habrían favorecido
+   distintos rasgos heredables, como los diferentes tamaños y formas de
+   los picos para aprovechar distintas fuentes de alimento. Estos factores
+   pudieron conducir a la formación de especies distintivas de cada isla.
+   [Espera ¿cómo funciona eso?]
+
+Ejemplo: cómo puede actuar la selección natural
+
+   Para hacer más concreta la idea de la selección natural, veamos un
+   ejemplo hipotético simplificado. En este ejemplo, un grupo de ratones
+   con una variación heredable en el color del pelo (negro contra café
+   claro) se acaba de mudar a un área nueva donde las rocas son negras. En
+   este ambiente hay halcones a los que les gusta comer ratones y, contra
+   el fondo de rocas negras, verán con más facilidad a los cafés claro que
+   a los negros.
+   Debido a que los halcones verán y atraparán a los ratones café claro
+   con más facilidad, una parte relativamente grande de estos será
+   devorada, en comparación con una fracción mucho más pequeña de ratones
+   negros. Si nos fijamos en la proporción de ratones negros contra café
+   claro en el grupo sobreviviente (que no fue devorado), será mayor que
+   en la población inicial.
+   _Esquema basado en uno parecido en Reece et al.
+   [MATH: <msup><mi></mi><mn>4</mn></msup> :MATH]
+   ‍ . La silueta del halcón se trazó a partir de "Dibujo en líneas a
+   blanco y negro de un halcón de Swainson al vuelo," de Kerris Paul
+   (dominio público)_
+   El color del pelo es un carácter heredable (que puede pasar de padres a
+   hijos), por lo que una mayor proporción de ratones negros en el grupo
+   sobreviviente significa que habrá más ratones negros en la siguiente
+   generación. Después de varias generaciones de selección, la población
+   estará compuesta casi en su totalidad por ratones negros. Este cambio
+   en las características heredables de una población es un ejemplo de
+   evolución.
+   [¿Qué genes y alelos estamos suponiendo que hay aquí?]
+
+Puntos clave sobre la selección natural
+
+   Cuando comencé a aprender acerca de la selección natural, tenía algunas
+   dudas (¡e ideas equivocadas!) sobre cómo funciona. Aquí tenemos algunas
+   explicaciones sobre puntos potencialmente confusos que pueden ayudarte
+   a tener una mejor idea de cómo, cuándo y por qué se lleva a cabo la
+   selección natural.
+
+La selección natural depende del ambiente
+
+   La selección natural no favorece rasgos que sean intrínsecamente
+   superiores de alguna manera, sino los que sean beneficiosos (esto es,
+   que le ayuden a un organismo a sobrevivir y reproducirse de forma más
+   efectiva que sus pares) en un ambiente específico. Los rasgos que son
+   útiles en un entorno pueden incluso ser perjudiciales en otro.
+   [Ejemplo]
+
+La selección natural actúa sobre la variación heredable existente
+
+   La selección natural necesita tener algún material inicial y este es la
+   variación heredable. Para que la selección natural actúe sobre una
+   característica, ya debe haber variedad (diferencias entre los
+   individuos) en ese rasgo. Adicionalmente, las diferencias deben ser
+   heredables, tienen que estar determinadas por los genes del organismo.
+   [Ejemplo]
+
+La variación heredable proviene de mutaciones al azar
+
+   La fuente original de las nuevas variantes de genes que producen rasgos
+   heredables nuevos, como los colores del pelaje, es la mutación
+   aleatoria (cambios en la secuencia del ADN). Las mutaciones aleatorias
+   que pasan a la descendencia por lo general se producen en la línea
+   germinal, o los óvulos y espermatozoides de los organismos. La
+   reproducción sexual "mezcla y combina" las variantes génicas para
+   producir más variedad.
+   [¿Los organismos mutan a propósito?]
+
+La selección natural y la evolución de las especies
+
+   Demos un paso atrás y consideremos cómo encaja la selección natural en
+   la visión de Darwin sobre la evolución, en la que todos los seres vivos
+   comparten un ancestro común y descienden de él en un enorme árbol
+   ramificado. ¿Qué sucede en cada uno de esos puntos de ramificación?
+   En el ejemplo de los pinzones de Darwin, vimos que los grupos en una
+   sola población pueden aislarse unos de otros por barreras geográficas,
+   como un océano que rodea a unas islas o algún otro mecanismo. Una vez
+   aislados, los grupos ya no pueden aparearse entre ellos y están
+   expuestos a entornos distintos. En cada ambiente, la selección natural
+   probablemente favorecerá diferentes rasgos (y otras fuerzas evolutivas,
+   como la deriva génica, también pueden operar separadamente sobre los
+   grupos). Las diferencias en los rasgos heredables se acumulan en los
+   grupos a lo largo de muchas generaciones, al grado de ser considerados
+   como especies separadas.
+   Con base en varias pruebas, los científicos creen que este tipo de
+   proceso se ha repetido muchísimas veces a lo largo de la historia de la
+   tierra. La evolución por selección natural y otros mecanismos es la
+   base de la increíble diversidad de formas de vida actuales, y la acción
+   de la selección natural puede explicar la adaptación que existe entre
+   los organismos modernos y su medio ambiente.
+   [Créditos y referencias]
+   (BUTTON) Preguntas (BUTTON) Sugerencias y agradecimientos
+
+¿Quieres unirte a la conversación?
+
+   Inicia sesión
+   Ordenar por:
+   (BUTTON) Más votados
+     * Avatar hopper jumping style para el usuario JUAREZ VASQUEZ JULIO
+       GABRIEL
+       JUAREZ VASQUEZ JULIO GABRIEL
+       hace 5 años
+       Publicado hace hace 5 años. Enlace directo a la publicación “me
+       sirvio de mucho pero n...” de JUAREZ VASQUEZ JULIO GABRIEL
+       (BUTTON)
+       mayor
+       me sirvio de mucho pero necesito mas ejemplos
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) 2 comentariosComentar en la publicación “me sirvio de
+       mucho pero n...” de JUAREZ VASQUEZ JULIO GABRIEL
+       (17 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+          + Avatar starky sapling style para el usuario NUÑEZ MELGAR
+            CASTILLO ANA SOFIA
+            NUÑEZ MELGAR CASTILLO ANA SOFIA
+            hace 5 años
+            Publicado hace hace 5 años. Enlace directo a la publicación
+            “jajjajaj amigo es la tare...” de NUÑEZ MELGAR CASTILLO ANA
+            SOFIA
+            Buena respuesta
+            (BUTTON)
+            mayor
+            jajjajaj amigo es la tarea de ciencia y te doy un like
+            milagros y depende de que sede
+            (BUTTON) 1 comentarioComentar en la publicación “jajjajaj
+            amigo es la tare...” de NUÑEZ MELGAR CASTILLO ANA SOFIA
+            (15 votos)
+               o (BUTTON)
+                 Votar a favor
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Dar voto negativo
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Marca
+                 Botón que navega a la página de registro
+            (BUTTON)
+            mayor
+       (BUTTON) Mostrar más...
+     * Avatar duskpin ultimate style para el usuario MATHIAS SEDANO
+       MATHIAS SEDANO
+       hace 4 años
+       Publicado hace hace 4 años. Enlace directo a la publicación “Muy
+       buen articulo me ayud...” de MATHIAS SEDANO
+       (BUTTON)
+       mayor
+       Muy buen articulo me ayudo a mi tarea de ciencia.
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (12 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+     * Avatar mr pants teal style para el usuario #wory yolo \_(-_o)_/ ( D
+       7 w 7 D) ( ͡ʘ ͜ʖ ͡ʘ )
+       #wory yolo \_(-_o)_/ ( D 7 w 7 D) ( ͡ʘ ͜ʖ ͡ʘ )
+       hace 4 años
+       Publicado hace hace 4 años. Enlace directo a la publicación “¿que
+       paso con la jirafa :...” de #wory yolo \_(-_o)_/ ( D 7 w 7 D) ( ͡ʘ
+       ͜ʖ ͡ʘ )
+       (BUTTON)
+       mayor
+       ¿que paso con la jirafa :v?
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (6 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+          + Avatar marcimus purple style para el usuario paulette
+            paulette
+            hace 8 meses
+            Publicado hace hace 8 meses. Enlace directo a la publicación
+            “lo mismno me pregunto yo....” de paulette
+            (BUTTON)
+            mayor
+            lo mismno me pregunto yo..
+            (BUTTON) 1 comentarioComentar en la publicación “lo mismno me
+            pregunto yo....” de paulette
+            (1 voto)
+               o (BUTTON)
+                 Votar a favor
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Dar voto negativo
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Marca
+                 Botón que navega a la página de registro
+            (BUTTON)
+            mayor
+     * Avatar winston baby style para el usuario Mariafé Figueroa :'v
+       Mariafé Figueroa :'v
+       hace 4 años
+       Publicado hace hace 4 años. Enlace directo a la publicación “like
+       vienes por la tarea ...” de Mariafé Figueroa :'v
+       (BUTTON)
+       mayor
+       like vienes por la tarea de ciencias XD
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (5 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+     * Avatar starky seedling style para el usuario Miguel Maurischat
+       Miguel Maurischat
+       hace 4 años
+       Publicado hace hace 4 años. Enlace directo a la publicación “Por
+       favor ayudadme con es...” de Miguel Maurischat
+       (BUTTON)
+       mayor
+       Por favor ayudadme con esto, ¿es la capacidad reproductiva un
+       requisito indispensable para considerar algo un ser vivo? porque
+       las especies cruzadas son estériles...
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (3 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+          + Avatar winston baby style para el usuario i.dorantest
+            i.dorantest
+            hace 3 años
+            Publicado hace hace 3 años. Enlace directo a la publicación
+            “Las especies cruzadas tie...” de i.dorantest
+            (BUTTON)
+            mayor
+            Las especies cruzadas tienen aparato reproductor pero no los
+            gametos para poder tener descendencia. La esterilidad es una
+            anomalía que impide la reproducción de un organismo vivo,
+            debido a alteraciones de la estructura o del funcionamiento de
+            sus órganos sexuales o a que sus gametos son defectuosos. Por
+            lo que la esterilidad no es única de los híbridos.
+            (BUTTON) ComentarBotón que navega a la página de registro
+            (4 votos)
+               o (BUTTON)
+                 Votar a favor
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Dar voto negativo
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Marca
+                 Botón que navega a la página de registro
+            (BUTTON)
+            mayor
+     * Avatar marcimus purple style para el usuario Montse Galaviz
+       Montse Galaviz
+       hace 6 años
+       Publicado hace hace 6 años. Enlace directo a la publicación “¿Que
+       explicacion dio Char...” de Montse Galaviz
+       (BUTTON)
+       mayor
+       ¿Que explicacion dio Charlies Darwin al hecho de que todos los
+       seres extintos que dejaron evidencia fosil puedan ser clasificados
+       con todos los seres vivientes?
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (4 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+     * Avatar aqualine seed style para el usuario M S
+       M S
+       hace 6 años
+       Publicado hace hace 6 años. Enlace directo a la publicación “¿Es
+       posible mezclar el da...” de M S
+       (BUTTON)
+       mayor
+       ¿Es posible mezclar el darwinismo con el creacionismo de manera
+       científica?
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) 1 comentarioComentar en la publicación “¿Es posible
+       mezclar el da...” de M S
+       (4 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+          + Avatar starky ultimate style para el usuario EstebanV
+            EstebanV
+            hace 4 años
+            Publicado hace hace 4 años. Enlace directo a la publicación
+            “Existe algo llamado neocr...” de EstebanV
+            (BUTTON)
+            mayor
+            Existe algo llamado neocreacionismo que se relaciona con eso
+            (BUTTON) ComentarBotón que navega a la página de registro
+            (1 voto)
+               o (BUTTON)
+                 Votar a favor
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Dar voto negativo
+                 Botón que navega a la página de registro
+               o (BUTTON)
+                 Marca
+                 Botón que navega a la página de registro
+            (BUTTON)
+            mayor
+       (BUTTON) Mostrar más...
+     * Avatar blobby green style para el usuario Uriel Rivera
+       Uriel Rivera
+       hace 6 años
+       Publicado hace hace 6 años. Enlace directo a la publicación “Es muy
+       importante pues en...” de Uriel Rivera
+       (BUTTON)
+       mayor
+       Es muy importante pues en ella nos menciona el como cada persona
+       tiene un rasgo similar al de otro
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (3 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+     * Avatar blobby green style para el usuario nydialisfigueroa
+       nydialisfigueroa
+       hace 7 años
+       Publicado hace hace 7 años. Enlace directo a la publicación “Como
+       el compara el ADN ? ...” de nydialisfigueroa
+       (BUTTON)
+       mayor
+       Como el compara el ADN ? Como com para los esqueletos ?
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (2 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+     * Avatar male robot donald style para el usuario Johannes Marquina
+       Johannes Marquina
+       hace 4 años
+       Publicado hace hace 4 años. Enlace directo a la publicación “Like
+       si alguien es de la ...” de Johannes Marquina
+       (BUTTON)
+       mayor
+       Like si alguien es de la UNAM y ENP
+       (BUTTON) RespuestaBotón que navega a la página de registro•
+       (BUTTON) ComentarBotón que navega a la página de registro
+       (2 votos)
+          + (BUTTON)
+            Votar a favor
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Dar voto negativo
+            Botón que navega a la página de registro
+          + (BUTTON)
+            Marca
+            Botón que navega a la página de registro
+       (BUTTON)
+       mayor
+       Respuesta
+       Avatar Default Khan Academy avatar para el usuario
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       (BUTTON) Mostrar vista previa (BUTTON) Mostrar opciones de formato
+       (BUTTON) Publicar respuesta
+
+   ¿Sabes inglés? Haz clic aquí para ver más discusiones en el sitio en
+   inglés de Khan Academy.
+   (BUTTON) Cargando...
