@@ -1,5 +1,5 @@
 JOURNAL DE BORD
-(Ne pas oublier d'indiquer qui écrit l'entrée du journal pour plus de clarté, comme stipuler dans les slides)
+(Ne pas oublier d'indiquer qui écrit l'entrée du journal pour plus de clarté, comme stipulé dans les slides)
 
 
 
@@ -28,5 +28,10 @@ Le but étant d'avoir les corpus assez bien constitués pour pouvoir tester corr
 
 Il faut également enrichir le fichier index.html qui est la page web principal du site web qui servivra à présenter notre projet : y ajouter une barre de navigation (menu), travailler le style (CSS et CSS bulma), etc.
 
+27/11/2023 : [NGAUV Nicolas]
+
+Le corpus en français a été constitué, mais certains liens seront à changer ultérieurement... Cependant, pour le moment cela suffit à tester les différents scripts.
+Tests des scripts effectués pour l'espagnol (et donc création des fichiers qui en résultent). 
+Modification du site web de présentation du projet (meilleur présentation, travail sur le style, et ajout du tableau de résultats pour la langue espagnol).
 
 
