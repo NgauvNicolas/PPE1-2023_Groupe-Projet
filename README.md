@@ -3,6 +3,8 @@
 Lien de la page du projet de groupe :
 https://github.com/NgauvNicolas/PPE1-2023_Groupe-Projet
 
+Mot : évolution / evolution / evolución
+
 NGAUV Nicolas (INaLCO)
 https://github.com/NgauvNicolas/PPE1-2023
 Langue : espagnol
