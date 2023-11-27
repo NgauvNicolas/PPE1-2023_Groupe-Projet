@@ -9,8 +9,11 @@ JOURNAL DE BORD
 22/11/2023 : [NGAUV Nicolas]
 
 Création de l'arborescence du dépôt du projet de groupe.
+
 Nous avons nos langues : français, anglais et espagnol.
+
 Nous avons choisi le mot : évolution, evolution, evolución.
+
 Il faut maintenant que nous recherchions nos textes.
 
 25/11/2023 : [NGAUV Nicolas]
@@ -31,7 +34,9 @@ Il faut également enrichir le fichier index.html qui est la page web principal 
 27/11/2023 : [NGAUV Nicolas]
 
 Le corpus en français a été constitué, mais certains liens seront à changer ultérieurement... Cependant, pour le moment cela suffit à tester les différents scripts.
+
 Tests des scripts effectués pour l'espagnol (et donc création des fichiers qui en résultent). 
-Modification du site web de présentation du projet (meilleur présentation, travail sur le style, et ajout du tableau de résultats pour la langue espagnol).
+
+Modification du site web de présentation du projet (meilleur présentation, travail sur le style, et ajout du tableau de résultats pour la langue espagnol), et déploiement de la page sur le web.
 
 
