@@ -26,6 +26,14 @@ fi
 
 basename=$(basename -s .txt $chemin_urls)
 
+# Faut-il prendre en compte le pluriel du mot ?
+# if [[ $langue == 'fr' ]]; then
+# 	  mot="([ÉEé]volutions?)"
+# elif [[ $langue == 'en' ]]; then
+# 	  mot="([Ee]volutions?)"
+# elif [[ $langue == 'es' ]]; then
+#	  mot="([Ee]voluci[óo]ne?s?)"
+# fi
 if [[ $langue == 'fr' ]]; then
 	mot="([ÉEé]volution)"
 elif [[ $langue == 'en' ]]; then
@@ -101,6 +109,7 @@ do
 
 	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
 
+	# L'option -o va afficher une occurence par ligne de résultat : il suffit juste de prendre la sortie et de compter le nombre de ligne
 	occurences=$(grep -E -i -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
 
 	grep -E -i -A 2 -B 2 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
