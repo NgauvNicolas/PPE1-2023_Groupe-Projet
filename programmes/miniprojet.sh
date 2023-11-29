@@ -26,21 +26,21 @@ fi
 
 basename=$(basename -s .txt $chemin_urls)
 
-# Faut-il prendre en compte le pluriel du mot ?
-# if [[ $langue == 'fr' ]]; then
-# 	  mot="([ÉEé]volutions?)"
-# elif [[ $langue == 'en' ]]; then
-# 	  mot="([Ee]volutions?)"
-# elif [[ $langue == 'es' ]]; then
-#	  mot="([Ee]voluci[óo]ne?s?)"
-# fi
+# Faut-il prendre en compte le pluriel du mot ? Oui
 if [[ $langue == 'fr' ]]; then
-	mot="([ÉEé]volution)"
+	mot="([ÉEé]volutions?)"
 elif [[ $langue == 'en' ]]; then
- 	mot="([Ee]volution)"
+	mot="([Ee]volutions?)"
 elif [[ $langue == 'es' ]]; then
-	mot="([Ee]volución)"
+	mot="([Ee]voluci[óo]ne?s?)"
 fi
+# if [[ $langue == 'fr' ]]; then
+# 	  mot="([ÉEé]volution)"
+# elif [[ $langue == 'en' ]]; then
+# 	  mot="([Ee]volution)"
+# elif [[ $langue == 'es' ]]; then
+#	  mot="([Ee]volución)"
+# fi
 
 echo 	"<html>
 	<head>
@@ -72,7 +72,7 @@ do
 	charset=$(curl -s -I -L -w "%{content_type}" $URL | grep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 
 	# Déterminer le résultat en fonction du code de réponse HTTP
-	if [ "$code" -eq 200 ]; then
+	if [ $code -eq 200 ]; then
 		result="Valide"
 	else
 		result="Erreur"
@@ -112,6 +112,7 @@ do
 	# L'option -o va afficher une occurence par ligne de résultat : il suffit juste de prendre la sortie et de compter le nombre de ligne
 	occurences=$(grep -E -i -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
 
+	# grep -C aussi pour le contexte (contexte : les lignes qui entourent le motif, le mot)
 	grep -E -i -A 2 -B 2 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
 
 	sh ./concordancier.sh $langue "../dumps-text/$basename-$lineno.txt" $mot > "../concordances/$basename-$lineno.html"
