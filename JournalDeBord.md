@@ -40,3 +40,13 @@ Tests des scripts effectués pour l'espagnol (et donc création des fichiers qui
 Modification du site web de présentation du projet (meilleur présentation, travail sur le style, et ajout du tableau de résultats pour la langue espagnol), et déploiement de la page sur le web.
 
 
+
+# Séance 10
+
+29/11/2023 : [NGAUV Nicolas]
+
+Correction des exercices de la séance dernière (contexte, concordancier, etc.).
+
+Modification du script, notamment pour gérer les différentes formes du mot (par exemple le pluriel).
+
+Rapide présentation de iTrameur, de ses fonctionnalités et de ce qu'on peut faire avec.
