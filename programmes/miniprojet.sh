@@ -12,7 +12,7 @@ fic_tab=$2
 langue=$3
 
 if [ $# -ne 3 ]; then
-	echo "On attend 3 arguments exactement : veuillez donner un chemin valide vers le fichier texte source d'URLs, celui du fichier HTML dans lequel stocker le tableau d'URLs, et la langue choisie"
+	echo "On attend 3 arguments exactement : veuillez donner un chemin valide vers le fichier texte source d'URLs, le nom du fichier HTML dans lequel stocker le tableau d'URLs, et la langue choisie"
 	exit
 # Vérifie si c'est un fichier, et pas un dossier par exemple
 # $1 ou $chemin_urls	
@@ -22,7 +22,7 @@ else
 	echo "on attend un fichier source d'URLs qui existe"
 	exit
 fi	
-# Il faut que le dossier '../tableaux/' existe au préalable, car c'est dans ce dossier qu'on va créer et/ou modifier le fichier HTML
+# Il faut que le dossier '../tableaux/' existe au préalable, car c'est dans ce dossier qu'on va modifier le fichier HTML
 
 basename=$(basename -s .txt $chemin_urls)
 
@@ -121,7 +121,7 @@ do
 
 
 	# Les tabulations dans le echo sont là pour respecter l'indentation dans le fichier HTML qui stocke les URLs sous forme de tableau : pas obligatoires mais plus lisible avec
-	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$occurences</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> "../tableaux/$fic_tab"
+	echo "					<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$occurences</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> "../tableaux/$fic_tab"
 
 
 done < "$chemin_urls"
@@ -131,4 +131,4 @@ echo "			</table>
 			</div>
 		</section>
 	</body>
-</html>" >> "$fic_tab"
+</html>" >> "../tableaux/$fic_tab"
