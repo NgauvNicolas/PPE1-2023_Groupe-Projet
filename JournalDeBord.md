@@ -50,3 +50,7 @@ Correction des exercices de la séance dernière (contexte, concordancier, etc.)
 Modification du script, notamment pour gérer les différentes formes du mot (par exemple le pluriel).
 
 Rapide présentation de iTrameur, de ses fonctionnalités et de ce qu'on peut faire avec.
+
+03/12/2023 : [NGAUV Nicolas]
+
+Exercices sur iTrameur à faire pour la prochaine séance finis : cependant, il n'y a que le corpus en langue espagnol qui a été constitué, donc la préparation des données et l'utilisation de iTrameur concerne uniquement ce corpus pour l'instant.
