@@ -1,20 +1,80 @@
-       producir un determinado producto.
 
-Origen y evolución de la tecnología
+   Bizitzaren sorrera. Eboluzioaren teoriaEl origen de la vida. Teoría de
+   la evolución
 
-   tecnologia fuego historia prehistoria tecnologia fuego historia
+     * Temas de estudio/
 --
-     * Edad Media. La aparición de la imprenta moderna fue uno de los
-       hitos más importantes dentro de este período.
-     * Revolución Industrial. Fue un período de transformaciones sociales,
-       económicas, tecnológicas y culturales caracterizado por el
-       desarrollo de una economía urbana e industrializada. Uno de los
+     * Biología/
+     * Biología: fundamentos/
+     * El origen de la vida. Teoría de la evolución/
+
+   Icon aside
 --
-       importantes progresos en la tecnología nuclear, tecnología aplicada
-       a la medicina y la tecnología espacial. Dentro de este siglo se dio
-       la Revolución de la información y telecomunicación o la Era de la
-       información (1985-2000).
-     * Siglo XXI. El progreso tecnológico (también llamado revolución
-       científico-tecnológica o revolución de la inteligencia) evolucionó
-       rápidamente. La tecnología y las comunicaciones transforman la
-       industria. Las nuevas tecnologías son aquellas que surgen después
+          + Biología
+               o Biología: fundamentos
+                    # El origen de la vida. Teoría de la evolución
+                    # Clasificación y filogenia de los seres vivos
+                    # Los niveles de organización de la vida
+--
+          + Biología
+               o Biología: fundamentos
+                    # El origen de la vida. Teoría de la evolución
+                    # Clasificación y filogenia de los seres vivos
+                    # Los niveles de organización de la vida
+--
+   Hechos que sostienen la teoría de Darwin
+   Cuvier
+   Jirafa y evolución
+
+El origen de la vida. Teoría de la evolución
+
+   La vida se caracteriza por su diversidad, que se pone de manifiesto en
+--
+   como son las reacciones químicas, los sistemas de reproducción, la
+   organización celular o los mecanismos genéticos. La teoría de la
+   evolución permite aunar estas dos características, mostrando a los
+   seres vivos como descendientes de una forma fundamental de vida.
+
+El fijismo y el evolucionismo
+
+     * El fijismo considera que las especies han permanecido invariables
+--
+       científicos más destacados que apoyaron esta imagen inmovilista de
+       la naturaleza fueron Linneo y Cuvier.
+     * El evolucionismo considera la existencia de un proceso de evolución
+       mediante el cual los seres vivos se han ido diversificando a partir
+       de un antepasado. La teoría de la evolución constata el hecho de la
+       evolución, relata su historia e intenta explicar sus causas,
+       descifrando los mecanismos biológicos que actúan en la misma. Todos
+       los científicos aceptan hoy en día la teoría de la evolución; la
+       discusión, por tanto, no reside en si hay o no evolución, sino en
+       cómo se produce.
+
+El evolucionismo según Lamarck
+
+   La primera teoría evolucionista suficientemente elaborada fue
+   presentada por el francés Jean-Baptiste de Monet, caballero de Lamarck,
+   en 1809. Las principales ideas lamarquistas pueden resumirse en:
+--
+   individual pueda alterar el ADN y hacerse hereditario.
+
+Evolucionismo según Darwin
+
+   En 1859, el inglés Charles Darwin propuso una nueva teoría de la
+   evolución, recogida en su libro El origen de las especies. Un año antes
+   había publicado una serie de artículos junto a Alfred Wallace,
+   investigador que había llegado independientemente a las mismas
+--
+   darwinista sufrió ciertas modificaciones, fundamentadas en la
+   comprensión de la genética, dando lugar al neodarwinismo o teoría
+   sintética de la evolución.
+
+   La teoría sintética de la evolución integra la genética mendeliana y la
+   selección natural de Darwin, proponiendo además los siguientes
+   mecanismos:
+--
+   cerrar ventana
+     * Biología: fundamentos
+          + El origen de la vida. Teoría de la evolución
+          + Clasificación y filogenia de los seres vivos
+          + Bizitzaren antolamendu-mailak

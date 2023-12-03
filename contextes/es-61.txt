@@ -1,65 +1,107 @@
-     * BBC Extra
-
-Teoría de la evolución de Darwin: por qué es incorrecto decir que
-"descendemos de los monos" y otras 4 cosas que quizás no sabías sobre nuestro
-origen
+   ryLevel1]=ACTUALIDAD&pageData[categoryLevel2]=Ciencia y
+   Ecolog%C3%ADa&pageData[contentTitle]=Cient%C3%ADficos descubren una
+   nueva "ley de la naturaleza" que describe c%C3%B3mo evolucionan todas
+   las
+   cosas&pageData[contentLanguage]=28&pageData[pageOID]=67143083&pageData[
 --
-   Este 24 de noviembre se cumple un nuevo aniversario de la publicación
-   de "El origen de las especies", el libro en el que Charles Darwin
-   estableció las bases de la teoría de la evolución por selección
-   natural.
-
---
-
-   En BBC Mundo recordamos cinco datos que tal vez puedan resultarte
-   sorprendentes sobre la evolución humana.
-
-   línea
---
-
-   "Un error muy común es pensar que 'descendemos de los monos'. Ese error
-   hace que mucha gente niegue la teoría de la evolución", explicó a BBC
-   Mundo el paleoantropólogo español José María Bermúdez de Castro.
-     * El intrigante hallazgo de un cráneo que cuestiona las ideas que
---
-   "Para empezar, es mejor afirmar que somos una especie más del orden
-   primates", dijo el coordinador del Programa de Paleobiología del Centro
-   Nacional de Investigación sobre Evolución Humana de Burgos y codirector
-   del proyecto de investigación y excavaciones en los yacimientos de la
-   sierra de Atapuerca.
---
-   troglodytes, se quedó en el oeste de África. El linaje que a la postre
-   dio lugar a la humanidad actual evolucionó en el sur y este de África".
-   Ilustración de la evolución
-
-   Fuente de la imagen, Getty Images
---
-3. Estamos llenos de vestigios evolutivos
-
-   La evolución es un proceso que puede ser muy lento y algunos de sus
-   vestigios pueden permanecer mucho tiempo después de que dejan de
-   cumplir una función.
---
-
-   "La propia cultura está influyendo de manera decisiva en nuestra
-   evolución. Y cada vez será más importante esa influencia, en el momento
-   en el que la tecnología permita manipular sin riesgos el genoma
-   humano".
---
-Temas relacionados
-
-     * Evolución
-     * Ciencia
+   a[level1ID]=615873&pageData[environment]=WEBAPP_LIVE&pageData[pageUrl]=
+   https://www.dw.com/es/cient%C3%ADficos-descubren-una-nueva-ley-de-la-na
+   turaleza-que-describe-c%C3%B3mo-evolucionan-todas-las-cosas/a-67143083&
+   pageData[metaRegions]=Global&pageData[metaTopics]=Wissenschaft
 
 --
-     * Rálido de garganta blanca
+   CienciaGlobal
 
-Qué es la evolución iterativa por la que "volvió a la vida" un ave que se
-extinguió hace 136.000 años
-       24 mayo 2019
+Hallan ley perdida de la naturaleza que amplía la evolución
+
+   18/10/202318 de octubre de 2023
+
+   Un nuevo estudio revela la existencia de una "ley perdida" que podría
+   explicar la evolución de sistemas en todo el universo, desde estrellas
+   hasta sustancias químicas y vida.
+   https://p.dw.com/p/4Xiyx
 --
-     * Anamensis
 
-Evolución humana: el intrigante hallazgo de un cráneo que cuestiona las ideas
-sobre nuestros ancestros
-       29 agosto 2019
+   En 1859, el naturalista británico Charles Darwin sacudió el mundo
+   científico con su teoría revolucionaria de la evolución, presentada en
+   su influyente obra "El origen de las especies". Darwin propuso que las
+   especies biológicas cambian con el tiempo a través de la adquisición de
+   rasgos que mejoran la supervivencia y la reproducción. Este concepto
+   transformador desencadenó una revolución en el pensamiento científico.
+
+   Hoy, 164 años después, un grupo de nueve eminentes científicos y
+   filósofos ha propuesto una nueva ley de la naturaleza. Esta ley,
+   descrita en un artículo publicado en la revista Proceedings of the
+   National Academy of Sciences (PNAS), va más allá de la evolución
+   biológica descrita por Darwin y abarca un fenómeno mucho más amplio que
+   se manifiesta a nivel de átomos, minerales, atmósferas planetarias,
+   planetas, estrellas y más. Según esta nueva perspectiva, los sistemas
+   naturales complejos evolucionan hacia estados de mayor patrón,
+   diversidad y complejidad.
+
+--
+"Selección para la función" guía tanto a lo vivo como a lo inerte
+
+   El nuevo trabajo explica que la evolución es un rasgo común de todos
+   los sistemas complejos del mundo natural, es decir, los que están
+   formados por muchos componentes diferentes, como átomos, moléculas o
+--
+   en un proceso llamado "selección para la función". E,
+   independientemente de que el sistema esté vivo o no, cuando una
+   configuración novedosa funciona bien y mejora la función, evoluciona.
+
+   Esta es la "Ley de la información funcional creciente", como la han
+   bautizado sus autores, que establece que el sistema evolucionará "si
+   muchas configuraciones diferentes del sistema se someten a selección
+   para una o más funciones".
+--
+   descendencia fértil pero el nuevo estudio amplía esa perspectiva y
+   señala que en la naturaleza se dan más tipos de función.
+   Ciertamente, la evolución no es exclusiva de la biosfera terrestre;
+   tiene lugar en otros sistemas extremadamente complejos, como nuestro
+   Sistema Solar, las estrellas, los átomos y los minerales. Ciertamente,
+   la evolución no es exclusiva de la biosfera terrestre; tiene lugar en
+   otros sistemas extremadamente complejos, como nuestro Sistema Solar,
+   las estrellas, los átomos y los minerales.Imagen: NASA, ESA, CSA,
+--
+
+   Para los autores, la más interesante es la de la "novedad", la
+   tendencia de los sistemas en evolución a explorar nuevas
+   configuraciones que a veces dan lugar a comportamientos o
+   características sorprendentes. La historia evolutiva de la vida es muy
+   rica en novedades –recuerdan–.
+
+   La fotosíntesis, por ejemplo, evolucionó cuando las células
+   individuales aprendieron a aprovechar la energía de la luz, la vida
+   multicelular evolucionó cuando las células aprendieron a cooperar, y
+   las especies evolucionaron gracias a nuevos comportamientos ventajosos
+   como nadar, caminar, volar y pensar.
+
+   Ese mismo tipo de evolución se da en el reino mineral. Los primeros
+   minerales eran disposiciones de átomos especialmente estables, pero
+   esos minerales primigenios sentaron las bases de las siguientes
+--
+   vida.
+
+   De hecho, la evolución de la vida y la de los minerales están
+   entrelazadas, no solo porque la vida utiliza los minerales para sus
+   caparazones, dientes y huesos, sino porque los sistemas biológico y
+--
+
+   "Charles Darwin articuló elocuentemente el modo en que plantas y
+   animales evolucionan por selección natural", afirma el coautor Robert
+   M. Hazen, de Carnegie Science, líder de la investigación, pero "su
+   teoría es solo un caso muy especial y muy importante dentro de un
+--
+   "El universo genera combinaciones novedosas de átomos, moléculas,
+   células, etc. Las combinaciones que sean estables y puedan seguir
+   engendrando aún más novedades seguirán evolucionando. Esto es lo que
+   hace de la vida el ejemplo más llamativo de evolución, pero la
+   evolución está en todas partes", resume Wong.
+
+   Entre otras muchas, los autores señalan que su trabajo tendrá
+   implicaciones en áreas de estudio como la comprensión de la vida en
+   otros sistemas complejos en evolución, la búsqueda de vida en otros
+   lugares, la evolución de los sistemas de Inteligencia Artificial, o las
+   leyes de la naturaleza a través del espacio y el tiempo.
+

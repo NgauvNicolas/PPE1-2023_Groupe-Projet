@@ -1,46 +1,106 @@
-   Biodiversidad COBCM Divulgación
+     Biología
 
-La evolución de la Evolución
+                                   Evolución
 
-   28 febrero 201814 agosto 2018Darwin, evolución, selección natural
+   Revisión científica por Ana Zita Fernandes
+   Escrito por Lana Magalhães
 
+   La evolución biológica corresponde a los procesos de modificación y
+   adaptación de las especies a lo largo del tiempo.
+
+   La actual diversidad de los seres vivos es el resultado de procesos de
+   transformación y adaptación de las especies a varios ambientes,
+   constituyendo la evolución biológica.
+
+   La idea principal de la evolución biológica es que todos los seres
+   vivos comparten un mismo ancestro. A partir de allí, surgió la enorme
+   variedad de especies que encontramos hoy. Puede decirse que la
+   evolución es el proceso por el cual los organismos modernos se
+   desarrollaron a partir de ancestros antiguos.
 
 --
-   que cambiaría el curso de la Biología para siempre. Y es que si Darwin
-   es importante por algo, no es tanto por enunciar su Teoría de la
-   Evolución a través de la Selección Natural, sino porque esta es el gran
-   principio unificador de la Biología a través del cual se puede dar
-   respuesta a multitud de preguntas. Por y para este proceso, confluyen
+
+   A partir de mediados del siglo XIX, comienza a ganar fuerza la teoría
+   evolucionista. En este contexto, las ideas de Charles Darwin y Alfred
+   Russel Wallace son las más consistentes en explicar la evolución de los
+   seres vivos. Darwin afirmó que los seres vivos, incluyendo el hombre,
+   descienden de ancestros comunes, que se modificaron a lo largo del
+   tiempo.
+
+   Actualmente, la teoría del neodarwinismo explica la evolución de los
+   seres vivos. Ella surgió en el siglo XX y representa la unión de los
+   estudios de Darwin, principalmente la selección natural, com los
 --
-   a intentar explicarlo de manera concisa.
+   las mutaciones.
 
-La evolución a. D. (antes de Darwin)
+Evidencias de la evolución biológica
 
-   Ya los griegos hablaban de la evolución de los organismos. Los primeros
-   escritos de los que se tienen constancia provienen de una escuela de
-   filosofía fundada por Anaximandro en el siglo VI a. C. Sin embargo,
---
-
-   Sin embargo, el primer científico moderno que elaboró un concepto
-   sistemático de la evolución fue Jean Baptiste Lamarck a comienzos del
-   siglo XIX. Propone que todas las especies, incluido el Homo sapiens,
-   descienden de otras especies. Según su hipótesis, la evolución depende
-   de dos fuerzas principales:
-    1. La herencia de las características adquiridas: los órganos de los
+   Entre las principales evidencias de la evolución están el registro
+   fósil, la adaptación de los seres vivos a sus ambientes y las
+   semejanzas entre las especies.
 --
 
-
-La evolución d. D. (Después de Darwin)
-
-   Sin embargo, la teoría de Darwin tenía tres grandes problemas que no
+   El estudio de los fósiles permite reconstruir la imagen de una especie
+   ya desaparecida y contribuye al estudio de la evolución de los seres
+   vivos. A partir del análisis de las semejanzas y las diferencias entre
+   especies, podemos deducir el momento de su aparición y extinción.
 --
-       selección natural?
+   Vea también Charles Darwin.
 
-   Para dar respuesta a esto, se combinó la teoría de la evolución de
-   Darwin con los principios de genética que Gregor Mendel publicaría en
-   1865 dando lugar a la Teoría Sintética de la evolución.
+Mecanismos de la evolución biológica
 
-   Desde hace unas décadas, se está poniendo en juicio esta Teoría
-   Sintética de la evolución, por los nuevos avances en el conocimiento de
-   los mecanismos genéticos y por las nueva evaluaciones del registro
-   fósil.
+   La teoría del neodarwinismo considera los siguientes mecanismos como
+--
+
+   La selección natural es uno de los mecanismos fundamentales de la
+   evolución. A través de ella, los individuos más adaptados a una
+   determinada condición prevalecen. Así, ellos tienen mayor probabilidad
+   de sobrevivir, reproducirse y transmitir sus características a sus
+--
+   Vea también Selección natural.
+
+Ideas equivocadas acerca de la evolución
+
+   Aunque la teoría de la evolución generó controversia cuando fue
+   propuesta por primera vez, hoy en día es ampliamente aceptada en la
+   comunidad científica. Sin embargo, la teoría de la evolución es un
+   concepto difícil y se han generado ideas erróneas a su alrededor.
+
+"La evolución es solo una teoría"
+
+   Los críticos a la teoría de la evolución desacreditan su importancia al
+   decir que es una teoría, en el sentido vulgar de la palabra. En
+   ciencia, una teoría es un cuerpo de explicaciones ampliamente probadas
+   y verificadas para un conjunto de observaciones de la naturaleza.
+
+"Los individuos evolucionan"
+
+   La evolución es el cambio en la composición genética de una población a
+   lo largo del tiempo, no el cambio individual durante su ciclo de vida.
+
+"La evolución explica el origen de la vida"
+
+   La teoría de la evolución explica cómo las poblaciones cambian con el
+   tiempo, no explica cómo se originó la vida en el universo.
+
+"Los organismos evolucionan con un propósito"
+
+   El hecho de que “los organismos evolucionan en respuesta a un cambio en
+   su ambiente” puede conducir a la idea errónea de que la evolución es de
+   alguna forma intencional.
+
+"Evolución es igual a selección natural"
+
+   Los términos “evolución” y “selección natural” a veces son usados como
+   sinónimos, pero no lo son. La selección natural se refiere al proceso
+   por el cual los organismos mejor adaptados a su ambiente tienen mayor
+   probabilidad de sobrevivir y producir descendencia, favoreciendo
+   determinado rasgo genético en la población. Evolución es un término más
+   amplio y se refiere a cualquier cambio en la genética de una población
+   a lo largo del tiempo.
+--
+     * Fósiles
+     * Biodiversidad.
+     * Evolución humana
+
+   (BUTTON) Compartir

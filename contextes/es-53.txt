@@ -1,104 +1,73 @@
-     Biología
+   ____________________ [BUTTON Input] (not implemented)_____
 
-                                   Evolución
+Charles Darwin, el padre de la evolución
 
-   Revisión científica por Ana Zita Fernandes
-   Escrito por Lana Magalhães
-
-   La evolución biológica corresponde a los procesos de modificación y
-   adaptación de las especies a lo largo del tiempo.
-
-   La actual diversidad de los seres vivos es el resultado de procesos de
-   transformación y adaptación de las especies a varios ambientes,
-   constituyendo la evolución biológica.
-
-   La idea principal de la evolución biológica es que todos los seres
-   vivos comparten un mismo ancestro. A partir de allí, surgió la enorme
-   variedad de especies que encontramos hoy. Puede decirse que la
-   evolución es el proceso por el cual los organismos modernos se
-   desarrollaron a partir de ancestros antiguos.
+   Charles Darwin (1809 –1882) revolucionó la biología y sus estudios e
+   investigaciones han supuesto grandes avances para la ciencia. Fue el
+   padre de la Teoría de la Evolución en la que explica gran parte de lo
+   que actualmente sabemos sobre la vida en la Tierra.
 
 --
-   A partir de mediados del siglo XIX, comienza a ganar fuerza la teoría
-   evolucionista. En este contexto, las ideas de Charles Darwin y Alfred
-   Russel Wallace son las más consistentes en explicar la evolución de los
-   seres vivos. Darwin afirmó que los seres vivos, incluyendo el hombre,
-   descienden de ancestros comunes, que se modificaron a lo largo del
-   tiempo.
-
-   Actualmente, la teoría del neodarwinismo explica la evolución de los
-   seres vivos. Ella surgió en el siglo XX y representa la unión de los
-   estudios de Darwin, principalmente la selección natural, com los
---
-   las mutaciones.
-
-Evidencias de la evolución biológica
-
-   Entre las principales evidencias de la evolución están el registro
-   fósil, la adaptación de los seres vivos a sus ambientes y las
-   semejanzas entre las especies.
---
-
-   El estudio de los fósiles permite reconstruir la imagen de una especie
-   ya desaparecida y contribuye al estudio de la evolución de los seres
-   vivos. A partir del análisis de las semejanzas y las diferencias entre
-   especies, podemos deducir el momento de su aparición y extinción.
---
-   Vea también Charles Darwin.
-
-Mecanismos de la evolución biológica
-
-   La teoría del neodarwinismo considera los siguientes mecanismos como
---
-
-   La selección natural es uno de los mecanismos fundamentales de la
-   evolución. A través de ella, los individuos más adaptados a una
-   determinada condición prevalecen. Así, ellos tienen mayor probabilidad
-   de sobrevivir, reproducirse y transmitir sus características a sus
---
-   Vea también Selección natural.
-
-Ideas equivocadas acerca de la evolución
-
-   Aunque la teoría de la evolución generó controversia cuando fue
-   propuesta por primera vez, hoy en día es ampliamente aceptada en la
-   comunidad científica. Sin embargo, la teoría de la evolución es un
-   concepto difícil y se han generado ideas erróneas a su alrededor.
-
-"La evolución es solo una teoría"
-
-   Los críticos a la teoría de la evolución desacreditan su importancia al
-   decir que es una teoría, en el sentido vulgar de la palabra. En
-   ciencia, una teoría es un cuerpo de explicaciones ampliamente probadas
---
-"Los individuos evolucionan"
-
-   La evolución es el cambio en la composición genética de una población a
-   lo largo del tiempo, no el cambio individual durante su ciclo de vida.
-
-"La evolución explica el origen de la vida"
-
-   La teoría de la evolución explica cómo las poblaciones cambian con el
-   tiempo, no explica cómo se originó la vida en el universo.
+   conocer la vida y comportamiento de los animales. Lo que no sabía
+   entonces es que, esta curiosidad, le haría convertirse en uno de los
+   padres de la evolución descubriendo que todas las especies, incluyendo
+   el ser humano, tienen un mismo origen.
 
 --
 
-   El hecho de que “los organismos evolucionan en respuesta a un cambio en
-   su ambiente” puede conducir a la idea errónea de que la evolución es de
-   alguna forma intencional.
-
-"Evolución es igual a selección natural"
-
-   Los términos “evolución” y “selección natural” a veces son usados como
-   sinónimos, pero no lo son. La selección natural se refiere al proceso
-   por el cual los organismos mejor adaptados a su ambiente tienen mayor
-   probabilidad de sobrevivir y producir descendencia, favoreciendo
-   determinado rasgo genético en la población. Evolución es un término más
-   amplio y se refiere a cualquier cambio en la genética de una población
-   a lo largo del tiempo.
+   La obra Ensayo sobre el principio de población de Thomas Robert Malthus
+   fue clave para el desarrollo de su famosa Teoría de la Evolución de
+   Especies. En un primer momento, y una vez Darwin finalizó su teoría,
+   tuvo miedo de hacerla pública por las posibles repercusiones que
 --
-     * Fósiles
-     * Biodiversidad.
-     * Evolución humana
 
-   (BUTTON) Compartir
+   A lo largo de esta obra, Darwin explicó la teoría científica que
+   avalaba que todas las especies animales evolucionan durante el
+   transcurso de las generaciones mediante un proceso denominado,
+   selección natural.
+--
+   gran valor sobre el origen de los atolones.
+
+   Charles Darwin está considerado el Padre de la Evolución y es uno de
+   los científicos más relevantes de la historia Charles Darwin está
+   considerado el Padre de la Evolución y es uno de los científicos más
+   relevantes de la historia
+
+--
+
+     * Su obra El origen de las especies, publicada hace ya 160 años,
+       revolucionó la biología, al ser el primer científico que ofrecía
+       evidencias que explicaban la evolución del ser humano.
+     * Darwin estuvo matriculado en la Universidad de Edimburgo para
+       convertirse en médico, uno de los deseos de su padre. Sin embargo,
+--
+       para formular su teoría.
+     * Darwin explicó que la selección natural era el único mecanismo
+       responsable de la evolución valiéndose, para demostrarlo, de
+       evidencias científicas.
+     * Las frase «la supervivencia del más fuerte» no es de Darwin como
+--
+       juego de mesa.
+     * Su nieto, Erasmus Darwin fue quien esbozó, por primera vez, una
+       teoría de la evolución basada en la idea de que los seres vivos
+       descienden en última estancia de un único organismo microscopio que
+       tiene su origen en el mar.
+--
+     __________________________________________________________________
+
+Ideas principales de la Teoría de la Evolución:
+
+     * La Teoría de la Evolución, también conocida como Teoría de Darwin,
+       recoge los descubrimientos y evidencias científicas que el
+       científico inglés recogió para explicar la evolución biológica.
+     * En esta teoría se explica que los seres vivos tienen un origen y
+       que, a lo largo de su vida, van cambiando poco a poco. A estos
+       cambios paulatinos se les conoce como evolución. Y todos estos
+       cambios vienen determinados por la selección natural como parte del
+       proceso evolutivo. Esta implica que, cada especie se adapta a su
+--
+     * Hasta la publicación de esta obra de referencia, Dios era el
+       responsable de haber concebido a todas las criaturas del planeta.
+       La publicación de esta obra supone una auténtica revolución para la
+       ideología del momento pero también para la ciencia. Este último
+       ámbito acogió con cierto escepticismo los descubrimientos de

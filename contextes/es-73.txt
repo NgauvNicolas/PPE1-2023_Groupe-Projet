@@ -30,8 +30,16 @@ Evolución
    tiempo. Que las especies nuevas provienen de especies preexistentes. Y
    que todas las especies comparten un ancestro común.
 --
+   Eso significa que cada especie tiene su propio conjunto de diferencias
+   heredables, es decir, genéticas. Por lo tanto, considera que las
+   especies que han poblado y pueblan el plantea Tierra han evolucionado a
+   través del tiempo. Y así, es cómo han transmitido a sus descendientes
+   diversas variaciones genéticas. Y, además, en caso de que estas sean
+--
+Selección natural
 
    Darwin, además de proponer que los organismos evolucionaban, también
    ofreció un mecanismo para dicha evolución, la selección natural. Esta
    teoría explicaba cómo podían evolucionar las poblaciones. Es decir,
    cómo estas se adecuaban para vivir en sus entornos con el paso del
+   tiempo. Pues para ello, Darwin se basó en varias observaciones:

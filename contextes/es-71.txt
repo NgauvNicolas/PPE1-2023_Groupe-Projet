@@ -1,70 +1,31 @@
-   CienciaGlobal
+   Variantes y la salud →
 
-Hallan ley perdida de la naturaleza que amplía la evolución
+   ¿Cómo se involucran las variantes genéticas en la evolución?
 
-   18/10/202318 de octubre de 2023
+   Usted esta aquí:
+   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
+   evolucion/
 
-   Un nuevo estudio revela la existencia de una "ley perdida" que podría
-   explicar la evolución de sistemas en todo el universo, desde estrellas
-   hasta sustancias químicas y vida.
-   https://p.dw.com/p/4Xiyx
+¿Cómo se involucran las variantes genéticas en la evolución?
+
+   Para usar las funciones de compartir de esta páginas, por favor,
+   habilite JavaScript.
+
+   La evolución es el proceso por el cual las poblaciones de organismos
+   cambian a través de las generaciones. Las variaciones genéticas son las
+   causas de estos cambios. Estas variantes pueden surgir de variaciones
 --
+   vuelve tan diferente que se considera una nueva especie.
 
-   En 1859, el naturalista británico Charles Darwin sacudió el mundo
-   científico con su teoría revolucionaria de la evolución, presentada en
-   su influyente obra "El origen de las especies". Darwin propuso que las
-   especies biológicas cambian con el tiempo a través de la adquisición de
-   rasgos que mejoran la supervivencia y la reproducción. Este concepto
-   transformador desencadenó una revolución en el pensamiento científico.
-
-   Hoy, 164 años después, un grupo de nueve eminentes científicos y
-   filósofos ha propuesto una nueva ley de la naturaleza. Esta ley,
-   descrita en un artículo publicado en la revista Proceedings of the
-   National Academy of Sciences (PNAS), va más allá de la evolución
-   biológica descrita por Darwin y abarca un fenómeno mucho más amplio que
-   se manifiesta a nivel de átomos, minerales, atmósferas planetarias,
+   No todas las variaciones influyen en la evolución. Solo las variantes
+   hereditarias, que ocurren en los óvulos o en los espermatozoides,
+   pueden transmitirse a las generaciones futuras y contribuir
+   potencialmente a la evolución. Algunas variaciones ocurren durante la
+   vida de una persona en solo algunas de las células del cuerpo y no son
+   hereditarias, por lo que la selección natural no puede influir. Además,
 --
-"Selección para la función" guía tanto a lo vivo como a lo inerte
-
-   El nuevo trabajo explica que la evolución es un rasgo común de todos
-   los sistemas complejos del mundo natural, es decir, los que están
-   formados por muchos componentes diferentes, como átomos, moléculas o
---
-   descendencia fértil pero el nuevo estudio amplía esa perspectiva y
-   señala que en la naturaleza se dan más tipos de función.
-   Ciertamente, la evolución no es exclusiva de la biosfera terrestre;
-   tiene lugar en otros sistemas extremadamente complejos, como nuestro
-   Sistema Solar, las estrellas, los átomos y los minerales. Ciertamente,
-   la evolución no es exclusiva de la biosfera terrestre; tiene lugar en
-   otros sistemas extremadamente complejos, como nuestro Sistema Solar,
-   las estrellas, los átomos y los minerales.Imagen: NASA, ESA, CSA,
---
-
-   Para los autores, la más interesante es la de la "novedad", la
-   tendencia de los sistemas en evolución a explorar nuevas
-   configuraciones que a veces dan lugar a comportamientos o
-   características sorprendentes. La historia evolutiva de la vida es muy
---
-   como nadar, caminar, volar y pensar.
-
-   Ese mismo tipo de evolución se da en el reino mineral. Los primeros
-   minerales eran disposiciones de átomos especialmente estables, pero
-   esos minerales primigenios sentaron las bases de las siguientes
---
-   vida.
-
-   De hecho, la evolución de la vida y la de los minerales están
-   entrelazadas, no solo porque la vida utiliza los minerales para sus
-   caparazones, dientes y huesos, sino porque los sistemas biológico y
---
-   células, etc. Las combinaciones que sean estables y puedan seguir
-   engendrando aún más novedades seguirán evolucionando. Esto es lo que
-   hace de la vida el ejemplo más llamativo de evolución, pero la
-   evolución está en todas partes", resume Wong.
-
-   Entre otras muchas, los autores señalan que su trabajo tendrá
-   implicaciones en áreas de estudio como la comprensión de la vida en
-   otros sistemas complejos en evolución, la búsqueda de vida en otros
-   lugares, la evolución de los sistemas de Inteligencia Artificial, o las
-   leyes de la naturaleza a través del espacio y el tiempo.
-
+     * ¿Qué son las enfermedad complejas o multifactoriales?
+     * ¿Qué significa tener una predisposición genética a una enfermedad?
+     * ¿Cómo se involucran las variantes genéticas en la evolución?
+     * ¿Qué información pueden entregar las estadísticas sobre una
+       afección genética?

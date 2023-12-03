@@ -8,7 +8,7 @@
 
 ​Evolución
 
-   updated: November 22, 2023
+   updated: November 30, 2023
 --
 Definición
 
@@ -16,6 +16,12 @@ Definición
    cual los organismos vivos cambian con el tiempo a través de cambios en
    el genoma. Esos cambios evolutivos ocurren por mutaciones que producen
 --
+   los individuos menos adaptados. Por lo tanto, con sucesivas
+   generaciones (que en algunos casos abarcan millones de años), una
+   especie puede evolucionar para asumir funciones o características
+   físicas divergentes o, incluso, puede evolucionar en una especie
+   diferente.
+
 Narración
 
    La evolución, como Darwin la describió en "El Origen de las Especies"

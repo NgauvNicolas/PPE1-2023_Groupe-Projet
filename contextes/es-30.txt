@@ -1,17 +1,25 @@
-   Título:
+Blog Información
 
-La evolución tecnológica del disco artificial según la teoría del ciclo de
-vida del producto
+¿Nos atropella la velocidad de la evolución tecnológica? Los riesgos en la
+capacidad de aprendizaje que influyen en los profesionales del futuro.
 
 --
-   sea capaz de incluir la inherente historicidad de la aparición de
-   nuevas tecnologías. Para ello, compararemos los patrones evolutivos que
-   se derivan de nuestro marco teórico con la evolución tecnológica de una
-   prótesis quirúrgica, el disco artificial para la columna vertebral. En
-   nuestro caso, el diferente ritmo de aparición en el mercado de las dos
+
+   2. El daño de la tecnología por el uso diario. Quienes nacimos antes de
+   la era de internet y hemos visto su veloz evolución, lo sospechábamos:
+   internet daña nuestras mentes. Sin embargo, hemos olvidado este riesgo
+   ante la falta de evidencia y estudios concretos que nos permitan
 --
-   servicio a lo largo del ciclo de vida. De esta manera pretendemos
-   identificar el eslabón concreto de la secuencia donde se sitúa la
-   resistencia tecnológica que estanca la evolución de una de las
-   soluciones tecnológicas rivales. En concreto, hemos localizado la razón
-   de la menor resistencia tecnológica de los discos artificiales
+
+   En la película de Stanley Kubrick: 2001 Odisea del Espacio, el
+   ordenador de la nave espacial ha evolucionado tanto que ahora tiene
+   sentimientos y…comienza a tener miedo. Ya nos acercamos a estos
+   extremos en la evolución de la robótica. La evolución nos da, pero
+   también nos quita y no son pocas las consecuencias sobre la salud de
+   las personas. La dependencia tecnológica, que ya se considera en si
+--
+     __________________________________________________________________
+
+   3. Los riesgos en la capacidad de aprendizaje. La evolución de la
+   técnica ha ido modificando nuestro cerebro sin apenas darnos cuenta.
+   Los sistemas de posicionamiento global (GPS) nos limitan la capacidad

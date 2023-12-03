@@ -1,77 +1,31 @@
-     * Learn Evolution
+   Variantes y la salud →
 
-Evolución 101
+   ¿Cómo se involucran las variantes genéticas en la evolución?
 
-   Home → Evolución 101! → Introducción a la evolución
-     * EN in English
+   Usted esta aquí:
+   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
+   evolucion/
 
-Introducción a la evolución
+¿Cómo se involucran las variantes genéticas en la evolución?
 
-La definición
+   Para usar las funciones de compartir de esta páginas, por favor,
+   habilite JavaScript.
 
-   La evolución biológica, para hacerlo fácil, es la descendencia con las
-   modificaciones heredadas. Esta definición lo engloba todo, desde la
-   evolución a pequeña escala (por ejemplo, los cambios en la frecuencia
-   de diferentes versiones de los genes de una generación a otra en la
-   misma población) a la evolución a gran escala (por ejemplo, la
-   descendencia de diferentes especies que comparten un ancestro común).
-   La evolución nos ayuda a entender tanto el mundo vivo que nos rodea
-   como su historia.
-
-La explicación
-
-   La evolución biológica no es simplemente una cuestión de cambios con el
-   paso del tiempo. Muchas cosas cambian con el tiempo: las orugas se
-   transforman en mariposas, los árboles pierden y reponen sus hojas, las
-   cadenas montañosas se alzan y erosionan, pero ninguno de ellos son
-   ejemplos de evolución biológica porque no implican descendencia con
-   modificaciones heredadas.
-
+   La evolución es el proceso por el cual las poblaciones de organismos
+   cambian a través de las generaciones. Las variaciones genéticas son las
+   causas de estos cambios. Estas variantes pueden surgir de variaciones
 --
-   descendencia con modificaciones, este antepasado común da lugar a
-   diferentes especies que vemos documentadas en el registro fósil y a
-   nuestro alrededor hoy en día. La evolución significa que todos los
-   seres vivos somos primos, aunque unos más distantes que otros: los
-   humanos y los robles, las ballenas y los colibríes.
---
-   Previous
+   vuelve tan diferente que se considera una nueva especie.
 
-   Evolución 101!
-   Next
-
+   No todas las variaciones influyen en la evolución. Solo las variantes
+   hereditarias, que ocurren en los óvulos o en los espermatozoides,
+   pueden transmitirse a las generaciones futuras y contribuir
+   potencialmente a la evolución. Algunas variaciones ocurren durante la
+   vida de una persona en solo algunas de las células del cuerpo y no son
+   hereditarias, por lo que la selección natural no puede influir. Además,
 --
-   Next
-
-Evolución 101!
-
-     * Introducción a la evolución
-     * La historia de la vida: La observación de los patrones
-          + El árbol genealógico
---
-          + Cómo sabemos lo que pasó y cuándo pasó
-          + Acontecimientos importantes en la historia de la vida
-     * Mecanismos: Los procesos de la evolución
-          + Descendencia con modificación
-          + Los mecanismos del cambio
---
-          + La adaptación
-          + Ideas equivocadas sobre la selección natural
-          + La coevolución
-          + Estudio de un caso de coevolución: las ardillas, las aves y
-            las piñas objeto de su deseo
-     * La microevolución
-          + Definición de microevolución
-          + Detección de los cambios microevolutivos
-          + Los mecanismos de la microevolución
-     * La especiación
-          + Definición de especie
---
-          + Pruebas de la especiación
-          + Coespeciación
-     * La macroevolución
-          + ¿Qué es la macroevolución?
-          + Patrones de macroevolución
-     * Las cuestiones fundamentales
-          + La velocidad de la evolución
-          + La diversidad en los clados
-          + Examinando la complejidad
+     * ¿Qué son las enfermedad complejas o multifactoriales?
+     * ¿Qué significa tener una predisposición genética a una enfermedad?
+     * ¿Cómo se involucran las variantes genéticas en la evolución?
+     * ¿Qué información pueden entregar las estadísticas sobre una
+       afección genética?

@@ -16,6 +16,20 @@ Evolución cultural
    tiempo de elementos culturales de una sociedad (o una parte de esa). La
    cultura (que se puede definir como el desarrollo de los usos,
 --
+   tiempo.
+
+   Las tesis evolucionistas aplicadas a las ciencias sociales fueron una
+   consecuencia de dos grandes aportaciones científicas de mediados del
+   siglo XIX: el evolucionismo, que Darwin planteó para la biología, y la
+   filosofía positivista de Auguste Comte. En ese contexto se formularon
+   los estadios evolutivos de autores como el estadounidense Lewis Morgan
+--
+Antecedentes[editar]
+
+   Al evolucionismo social está formado por ideas como las de Charles
+   Darwin, Herbert Spencer y Lewis Henry Morgan entre otros. Estos dos
+   últimos basan sus pensamientos en la teoría evolutiva de Darwin, por la
+--
    que Morgan utilizara para analizar a las tribus norteamericanas con el
    estudio de los iroqueses. El objetivo de sus estudios no es la
    evolución de las instituciones individuales aisladas dentro de contexto
@@ -28,6 +42,9 @@ Evolución cultural
    A todo esto la evolución social ha sido tomada por quienes estudian a
    la ciencia del hombre como una fuerza que realiza el trabajo de los
    factores individuales concretos, determinantes del curso de la
+   historia. En 1859, Darwin avanzó con el transformismo o evolucionismo
+   ofreciendo sus propias observaciones para demostrar las diferencias
+   recurriendo a la paleontología para de esa forma probar el carácter
 --
 
    En 1850 Herbet Spencer en su Social Statics, desarrolló una asociación
@@ -53,6 +70,15 @@ Evolución cultural
    humanidad da paso a una evolución social que se mueve por funciones y
    necesidades que se dan en el momento que van cambiando y a las que se
    han estado expuestas y que pueden llegar a manos de la persona ese
+--
+   culturales, como los chimpancés que cascan las nueces con piedras o los
+   pájaros que picotean las tapas de leche para beberla, esta pericia no
+   evoluciona o mejora con el transcurrir del tiempo, y esto no sucederá a
+   menos que adquirieran la teoría de la mente verdadera y aprendizaje
+   social. Sin embargo, las sociedades humanas, por medio de la adaptación
+   cultural acumulativa, se desarrollan y evolucionan gradualmente. A
+   medida que las personas se imitan unas a otras y eligen y modifican las
+   tecnologías existentes, van almacenando conocimientos y habilidades. El
 --
    Este aviso fue puesto el 25 de noviembre de 2021.
 
@@ -87,6 +113,18 @@ Evolución cultural a partir de la biología[editar]
    empresas, la empresa de la evolución". Así como el medio ambiente
    presiona a la vida hacia una mayor adaptación, el propio orden natural
    presiona a la humanidad, a través del sufrimiento, a una mayor
+--
+     * Ecología Humana
+     * Etnología
+     * Evolucionismo (arqueología)
+     * Meme
+     * Ley de complejidad-conciencia
+--
+Referencias[editar]
+
+    1. ↑ Evolucionismo
+    2. ↑ Bernat Muniesa,(1995), articulo Capa. El mestizaje occidental,
+       Nudos Gordianos Barcelona. pág. 50
 --
        Nudos Gordianos, Barcelona. pág. 50
     4. ↑ ^a ^b • Childe V. Gordon ,(traducción directa Daisy Learn y Eli

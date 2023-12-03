@@ -1,136 +1,309 @@
-     * Historia de la tecnología
-
-Evolución tecnológica
-
-Espacios de nombres
+   lógica del desarrollo tecnológico en la historia de Occidente. La
+   cuestión central que el texto aborda es esta: ¿La técnica se desarrolla
+   por vía revolucionaria o por vía evolutiva? ¿Progresa mediante saltos
+   bruscos súbitos o mediante cambios paulatinos lentos? El artículo
+   consta de tres partes. En la primera, reseñamos las interpretaciones
+   revolucionaria y evolutiva de la historia de la técnica; enseguida,
+   reconstruimos la tipología que propone Serres para caracterizar el
+   desarrollo tecnológico mediante un modelo que supera la dicotomía
+   revolución/ evolución; al final, mostramos cómo estas aproximaciones a
+   la historia de la técnica inciden en la formulación de las teorías del
+   cambio tecnológico.
 --
-   [facebook_logo.png] [twitter_logo.png]
-
-   Evolución tecnológica
-   Información sobre la plantilla
-   Concepto: Evolución tecnológica es el nombre de una teoría de los
-   estudios de ciencia, tecnología y sociedad para describir el desarrollo
-   histórico de la tecnología, desarrollada por el filósofo checo Radovan
-   Richta
-
-   Evolución tecnológica es el nombre de una teoría de los estudios de
-   ciencia, tecnología y sociedad para describir el desarrollo histórico
-   de la tecnología , desarrollada por el filósofo checo Radovan Richta El
-   concepto es confluente con el de Revolución tecnológica, puesto que
-   sólo durante los períodos de mayor innovación técnica se marca la
-   diferencia del ritmo de desarrollo entre ambos y de trascendencia que
-   existe entre los conceptos genéricos de evolución y revolución .
-   Durante la mayor parte de la historia de la humanidad, el ritmo de
-   dichas innovaciones fue lento, sin embargo, a partir de la segunda
+   lentamente, sobre una base que parece haber sido esencialmente
+   práctica, en tanto que lo típico del desarrollo tecnológico moderno es
+   que su evolución es cada vez más rápida, cada vez más sistemática, cada
+   vez más consciente, debido a la relación estrecha que se ha
+   establecido, en los dos últimos siglos, entre la ciencia y la
 --
-   en el uso y desarrollo de la tecnología.
-
-   La expresión revolución tecnológica o científico-técnica se refiere a
-   las transformaciones técnicas y sus implicaciones económicas y sociales
-   de la tercera revolución industrial (desde la segunda mitad del siglo
-   XX), aunque también se utiliza frecuentemente la expresión para
-   referirse a las dos primeras grandes transformaciones que han merecido
-   el nombre de Revolución económica,la Revolución Neolítica y la
-   Revolución industrial de los siglos XVIII y XIX.
-
-Sumario
-
-     * 1 Revolución científico técnica
-     * 2 Globalización financiera
-     * 3 El poder económico
---
-     * 5 El desarrollo del capitalismo
-     * 6 La idea del progreso
-     * 7 La Segunda Revolución Industrial
-     * 8 El desigual desarrollo económico
-     * 9 Monopolios y sociedades anónimas
---
-     * 12 Fuente
-
-Revolución científico técnica
-
-   A medida que el tiempo pasa, el mundo cambia cada vez con mayor
-   celeridad. Una generación altera los esquemas de un siglo, una década
-   los de una generación; bastan pocos años para trastocar una década. La
-   revolución Científico-Técnica imprime a los hechos una velocidad que no
-   hubiéramos podido imaginar en el pasado, cuando el tiempo meramente
-   transcurría y en algunos sitios parecía detenerse inexorablemente. Este
---
-   tecnológicas que han cambiado y cambian la vida del ser humano. La
-   primera aplicación del conocimiento que marcó una nueva etapa en el
-   desarrollo de la humanidad se dio en la Revolución Agrícola, cuando el
-   conocimiento humano se aplicó a la tierra. El resultado fue la
-   estabilización de la agricultura como actividad alrededor de la cual se
-   organizó la sociedad. En la Revolución Industrial el conocimiento no
-   sólo se destinó a la tierra, sino a crear utensilios , herramientas,
-   máquinas y productos, permitiendo al hombre transformar su medio,
-   incrementar sus niveles de conocimiento y satisfacer mejor sus
-   necesidades. Las características distintivas de la Revolución de la
-   Productividad, fueron: el petróleo , la electricidad , el motor de
-   combustión interna y la producción en línea de ensamblaje. En esta
-   revolución el conocimiento se aplicó a los métodos y procesos aplicados
-   en el trabajo. La Revolución Científica-Técnica , que comenzó unos
-   pocos años después y es aquella que estamos viviendo, tiene como
-   elementos distintivos a: la exploración y manipulación de la estructura
---
-   la robótica, el desarrollo de nuevos materiales, y el cambio en el
-   lugar y papel del hombre en la producción. En esta cuarta gran
-   revolución tecnológica, el conocimiento es aplicado para desarrollar el
-   conocimiento mismo, y facilitar la vida cotidiana. En esta nueva
-   Revolución, la riqueza no es el dinero, sino algo más bien espiritual e
-   inherente al ser humano: el intelecto, y quien mejor lo maneje y
-   desarrolle estará a la vanguardia. El impacto de esta Revolución en la
-   religión será fuerte, ya que al poder el hombre en cierto modo dominar
-   y crear a la naturaleza y a sí mismo, el concepto de un ser superior
---
-   de descubrimientos científicos e innovaciones tecnológicas. En esta
-   época, la idea de que la humanidad avanzaba hacia el progreso se
-   consolidó y frecuentemente se unió a la idea de la evolución. Se creyó
-   que los seres humanos se habían acercado a la verdad y que sus
-   posibilidades para resolver problemas, ser felices y dominar su entorno
---
-   las creencias admitidas se crearan falsas esperanzas sobre el futuro.
-
-La Segunda Revolución Industrial
-
-   A lo largo del siglo XIX la población europea se cuadruplicó. A partir
-   de 1860, en Europa y Estados Unidos de América se registró una nueva
-   ola de grandes descubrimientos científicos y adelantos técnicos. A este
-   fenómeno se le conoció como la Segunda Revolución Industrial. Entre
-   1870 y 1900 se inauguraron áreas agrícolas de explotación en regiones
-   subdesarrolladas y se descubrió la mayor parte de las riquezas
---
-   ferrocarriles, estas provocaron gran euforia entre los usuarios. El
-   ferrocarril disciplinó a su clientela horarios precisos de llegada y
-   salida. A la Segunda Revolución Industrial se le conoce también como la
-   “era del ferrocarril” y la “era del acero”. A partir de 1875 se empezó
-   a usar el acero para la construcción de máquinas, herramientas y
-   armamento y se descubrió el acero inoxidable. El automóvil también se
-   desarrolló gracias al uso del acero. Parte importante de la segunda
-   revolución industrial fue el descubrimiento de los átomos en una
-   molécula y el descubrimiento de yacimientos petrolíferos subterráneos.
+   en una dinámica parecida a la confluencia de corrientes tributarias
+   para formar un río. Por otra parte, están las teorías del progreso
+   como cambio revolucionario. Estas teorías trazan modelos de desarrollo
+   discontinuo según los cuales la ciencia se desarrolla gracias a
+   sucesivos episodios de ruptura que introducen nuevas formas
+   paradigmáticas de ver el mundo, o, dicho en otros términos, gracias a
+   sucesivas revoluciones capaces de provocar cambios que tienen un
+   impacto en la subsecuente práctica científica2.
 
 --
-Implicaciones teóricas
+   súbitas y turbulentas que solo tienen lugar ocasionalmente (como la
+   erupción de un volcán o la devastación de un litoral a causa de un
+   tsunami). Los conceptos de evolución y revolución están así disponibles
+   como herramientas útiles a la hora de explicar procesos históricos de
+   amplio alcance. Cuando aplicamos estos conceptos a la pregunta por la
+   naturaleza del desarrollo tecnológico, la cuestión queda planteada en
+   los siguientes términos: ¿La técnica se desarrolla por vía
+   revolucionaria o por vía evolutiva? ¿Progresa mediante súbitos saltos
+   discontinuos o mediante modificaciones graduales lentas?
 
-   El proceso de evolución tecnológica culmina con la capacidad de
-   alcanzar todos los valores materiales tecnológicamente posibles y
-   deseables por el esfuerzo mental. Una implicación económica de lo
---
-   con información como, por ejemplo, universidades , bibliotecas,
-   patentes de empresas comerciales, etc. se consideran indicativas del
-   grado de evolución tecnológica alcanzado por una civilización .
-   Curiosamente, esto pone de relieve la importancia de la propiedad
-   intelectual en relación con los sistemas de distribución
---
-   preocupación por la protección de los derechos de propiedad intelectual
-   no deja claro qué forma tendrán los mercados de la información con la
-   evolución de la era de la información.
+   Para explorar esta cuestión, en la sección siguiente reseñaremos de
+   manera sucinta las interpretaciones revolucionaria y evolutiva de la
+   historia de la técnica y veremos en qué sentido estas posturas no son
+   mutuamente incompatibles; en la segunda parte, reconstruiremos la
+   tipología que propone Serres en su esfuerzo por caracterizar el
+   desarrollo tecnológico mediante un modelo que supera la dicotomía
+   revolución/evolución; para finalizar, mostraremos cómo estas distintas
+   aproximaciones a la historia de la técnica pueden incidir en la
+   formulación de las teorías del cambio tecnológico.
 
-Fuente
+   1. Revolución y evolución en la historia de la técnica
+
+   Los orígenes de la historia de la técnica como una subárea de la
+--
+   ampliamente a través de enciclopedias y manuales, suele articular su
+   relato del desarrollo tecnológico alrededor de tres o cuatro fases
+   revolucionarias separadas entre sí por períodos más o menos prolongados
+   de estabilidad. A este respecto, la expresión revoluciones tecnológicas
+   se emplea para aludir a momentos privilegiados de la historia, en los
+   cuales la capacidad técnica de la humanidad experimenta saltos
+   cualitativos cruciales, que a su vez desencadenan alteraciones
+   significativas en el curso de la civilización. De acuerdo con esta
+   aproximación, los cambios generados por una revolución tecnológica
+   conducen a la humanidad a un nuevo nivel de progreso asociado con un
+   mejoramiento general de la calidad de vida de las personas.
+--
+   Una versión clásica de este modelo la encontramos en la obra de V.
+   Gordon Childe4. En su reconstrucción de los orígenes de la
+   civilización, este autor identifica dos grandes revoluciones
+   tecnológicas situadas en la frontera entre la prehistoria y la historia
+   escrita: la revolución neolítica y la revolución urbana. En la primera,
+   y como consecuencia del desarrollo de la producción de alimentos, el
+   ser humano se emancipa de la condición de cazador-recolector y da el
+--
+   Gordon Childe, en su búsqueda de un procedimiento objetivo para medir
+   el progreso, propone un criterio cuantitativo según el cual una
+   revolución tecnológica es sinónimo de desarrollo progresivo siempre y
+   cuando su efecto neto se traduzca en un incremento significativo del
+   tamaño de la población. El tránsito del paleolítico al neolítico
+--
+   los grupos nómadas de cazadores-recolectores. Afirmaciones análogas,
+   aunque basadas en cifras y en proporciones muy distintas, caben para
+   los casos de la revolución urbana y, más recientemente, la revolución
+   industrial, las cuales pueden considerarse exitosas en la medida en que
+   facilitaron la supervivencia y la multiplicación de la especie. Este
+   criterio de progreso funciona, según Gordon Childe, como un indicador
+   verificable de que una revolución tecnológica ha tenido lugar. Para
+   este autor, una revolución tecnológica se pone de manifiesto de una
+   manera semejante a la de la Revolución Industrial: por un cambio de
+   dirección, hacia arriba, de la curva de población5.
+
+--
+   Malthus ni Gordon Childe podían prever, en su momento, la invención de
+   métodos anticonceptivos de amplio uso hoy, como la píldora o el condón,
+   y menos la evolución cultural que modificaría en la segunda mitad del
+   siglo XX las tendencias demográficas de muchos países. Por tal razón,
+   un criterio basado en consideraciones sobre el aumento del tamaño de la
+   población nos pone en aprietos a la hora de definir si la reciente
+   revolución informática califica como una revolución tecnológica, dado
+   que su desarrollo ha sido impulsado por países en los que el tamaño de
+   la población ya entró o está próximo a entrar en una fase estacionaria,
+   cuando no decreciente. Además, los métodos anticonceptivos modernos
+   pueden ser vistos como un efecto indirecto de la propia revolución
+   industrial, cuya onda expansiva continúa gravitando poderosamente en
+   las dinámicas del mundo contemporáneo. Por otra parte, como ya lo
+   intuía Huxley en su novela Brave New World, el desarrollo de la
+   biotecnología abre las puertas de una revolución tecnológica que puede
+   conducir a la difusión de técnicas aún más eficaces en materia de
+   control de la población.
+
+   Existen variantes del modelo revolucionario que establecen un criterio
+   diferente para periodizar la historia de la técnica. Una de las más
+   conocidas es la de Mumford, quien fija su atención en los recursos, los
+--
+   independientemente de si se considera que las alteraciones obedecen a
+   inventos específicos, a pasos de un material a otro o a cambios en las
+   formas de obtención y uso de energía. La idea de revolución tecnológica
+   es usada a menudo para referirse no solo a transformaciones masivas
+   como las asociadas a la revolución neolítica o la revolución
+   industrial, sino también para describir cambios suscitados por
+   invenciones tecnológicas concretas en áreas específicas de la actividad
+   humana. Se habla, así, de la revolución desatada por el barco de vapor
+   en las técnicas de navegación, de la conmoción que implicó la
+   introducción de la rueda en las técnicas de guerra, transporte y
+--
+   métodos de registro, reproducción cultural y transmisión de
+   información. De hecho, la mayor parte de las obras combina la
+   periodización basada en fases de cambio revolucionario con la
+   descripción más o menos minuciosa de las conmociones o, si se
+   prefiere, las revoluciones en pequeña escala desatadas por desarrollos
+   técnicos específicos7. De este modo, la historia de la tecnología
+   adopta usualmente la forma de un relato ordenado cronológicamente, en
+--
+   explicativo. George Basalla, por ejemplo, plantea que, para efectos de
+   escribir la historia de la técnica, resulta más pertinente apelar al
+   concepto de evolución que al de revolución. Según Basalla, las ideas de
+   revolución y evolución son metáforas (una procedente del ámbito de
+   la política y la otra del de la biología) mediante las cuales se puede
+   interpretar la historia de la tecnología8. Basalla reconoce el
+   predominio tradicional de la metáfora revolucionaria; empero, a su
+   juicio, la metáfora evolutiva resulta más útil y conveniente como
+   herramienta descriptiva. El modelo evolutivo resultante de este cambio
+--
+   combustión por medio del aire, como el hombre mantiene la suya; tiene,
+   al igual que el hombre, pulso y circulación11. Los autores posteriores
+   que, siguiendo a Butler, aplicaron la teoría evolucionista a la
+   historia de la técnica, afinaron el uso de estas metáforas, a fin de no
+   forzar la analogía entre el mundo orgánico y el mundo artificial. Así,
+   por ejemplo, es obvio que los artefactos técnicos no se perfeccionan a
+   través de procesos de selección natural, como ocurre en la evolución
+   biológica. Según los primeros defensores del evolucionismo tecnológico
+   (autores como Pitt-Rivers, Gilfillan, Ogburn y otros), el
+   perfeccionamiento de las máquinas obedece a un proceso de selección
 --
 
-   Obtenido de
-   «https://www.ecured.cu/index.php?title=Evolución_tecnológica&oldid=2321
-   000»
-   Categoría:
+   Basalla retoma estas ideas y las desarrolla en forma detallada. Su
+   teoría de la evolución tecnológica se articula alrededor de cuatro
+   conceptos clave: diversidad, continuidad, novedad y selección. Según
+   Basalla, el mundo artificial contiene mucha más diversidad de la
+   estrictamente requerida para satisfacer las necesidades humanas
+   básicas; esto es un resultado de la continuidad de la evolución
+   tecnológica; sin embargo, la novedad es parte integrante del mundo
+   artificial, en la medida en que es necesario un proceso de selección en
+--
+   preparación previa y, en muchos casos, una lista de antecedentes
+   documentables y una historia evolutiva prolongada. Cuando un invento
+   tiene éxito y se difunde, no por ello su evolución se detiene; más bien
+   da paso a un proceso ulterior de perfeccionamientos y mejoras, e
+   incluso puede promover la aparición de nuevas ramificaciones en la
+   historia de la evolución del acervo tecnológico.
+
+   Según Basalla, existen tres fuentes que nutren la tesis de la
+--
+   antecedentes cruciales; la presentación del inventor como héroe; y la
+   confusión entre cambio tecnológico y cambio socioeconómico13. Un
+   desarrollo tecnológico puede parecer revolucionario, o bien porque su
+   génesis evolutiva previa no es visible en ausencia de una
+   reconstrucción histórica cuidadosa, o bien porque los intereses
+--
+   considerados en sí mismos con los efectos sociales que posteriormente
+   suscitan. De acuerdo con esta perspectiva, el desarrollo tecnológico es
+   gradual y evoluciona siempre de forma lenta y paulatina, aunque sus
+   consecuencias sociales bien pueden ser revolucionarias: Los cambios
+   industriales de finales del siglo XVIII y comienzos del XIX fueron
+   realmente revolucionarios en la forma en que afectaron a la vida y
+   fortuna de la gente en Inglaterra. Con todo, las máquinas, y los
+   motores de vapor que las movían, eran el resultado de cambios
+   evolutivos en la tecnología... Los cataclismos en el ámbito social y
+   económico se han interpretado con demasiada frecuencia erróneamente
+   como cambios revolucionarios de la tecnología. La implantación de la
+   primera sociedad industrial en Inglaterra fue un cambio de tal magnitud
+   que desbordó la continuidad tecnológica en la que se basaba y ayudó a
+--
+   invento a otro14.
+
+   Los efectos revolucionarios del desarrollo tecnológico no dependen por
+   consiguiente de los inventos en sí mismos (situados siempre en mitad de
+   una cadena evolutiva en la que las diferencias con sus antepasados y
+--
+   una conmoción generalizada de las formas de vida tradicionales). Por
+   eso, en lo que a la técnica en sí misma se refiere, no conviene hablar
+   de revoluciones tecnológicas sino de evolución de la tecnología. Esa
+   evolución, empero, a veces provoca transformaciones sociales súbitas e
+   imprevistas. Desde este punto de vista, el empleo de expresiones como
+   revolución industrial o revolución informática parece estar
+   plenamente justificado.
+
+   Estas aclaraciones nos conducen a una imagen del desarrollo tecnológico
+   que dista de ser incompatible con la imagen que se deriva del modelo
+   revolucionario. Incluso puede decirse que, en cierto sentido, las dos
+   imágenes se necesitan mutuamente. De un lado, en ambas el orden
+   cronológico de aparición de los desarrollos técnicos juega un papel
+--
+   estructuralmente como miembro de una especie, por así decirlo, y ya no
+   simplemente como un hito en la historia de la civilización. De otro
+   lado, el modelo revolucionario ya implicaba en sí mismo un elemento
+   evolutivo, en la medida en que las revoluciones eran hitos de un
+   proceso civilizatorio de largo plazo que las rebasaba, las convertía en
+   eslabones de una misma cadena y les daba sentido. De ahí que la
+--
+   justicia tanto a la gradualidad de la generación de artefactos y
+   máquinas como a las discontinuidades que estas pueden generar en la
+   esfera de las dinámicas sociales. Los modelos revolucionario y
+   evolutivo, lejos de ser excluyentes, son complementarios. Enseguida
+   examinaremos una propuesta teórica reciente que resulta pertinente para
+--
+   discurren en paralelo a lo largo de la historia, aunque sus caminos se
+   traslapan y entrecruzan una y otra vez. En cada una de estas
+   corrientes, el desarrollo tecnológico evoluciona con lentitud, si bien
+   sus resultados generan transformaciones sociales revolucionarias en
+   períodos muy precisos. Cada una de las corrientes es caracterizada por
+   Serres16 de acuerdo con un abanico de variables que incluye el tipo de
+--
+   civilización. Si bien este tipo de trabajos existe desde tiempos
+   remotos y perdura hasta hoy, su época de predominio corresponde al
+   apogeo de los imperios, posterior a la revolución neolítica,
+   contemporánea a la revolución urbana y que perdura después, llegando
+   hasta el Medioevo y el Renacimiento.
+
+--
+   analogía orgánica empleada por Serres, el sistema metabólico de la
+   sociedad; ellos marcan el tipo de actividad técnica dominante a partir
+   de la revolución industrial. Si bien la conquista del fuego puede
+   datarse a más de un millón de años atrás, su época de predominio
+   corresponde al apogeo de la civilización industrial, que comienza a
+--
+   procesamos informaciones, datos y símbolos desde tiempos inmemoriales;
+   empero, solo hasta nuestra propia época, con la globalización, las
+   revoluciones informática y biotecnológica y la conformación de la
+   sociedad del conocimiento, este tipo de actividad pasa a ocupar el
+   primer plano, desplazando otras actividades tradicionales.
+--
+   florecimiento al mismo tiempo; de ahí que la historia de la tecnología
+   pueda adoptar, según el punto de vista que se elija, o bien el aspecto
+   de una línea quebrada por fases de progreso revolucionario, o bien el
+   aspecto de una pendiente acumulativa suavemente progresiva. El modelo
+   de Serres ofrece un marco integrativo en el que estas dos perspectivas
+--
+   desarrollo, como lo prueban la invención de los hornos de alfarería y
+   metalurgia (tipo termodinámico) y la invención de los primeros sistemas
+   de escritura (tipo informático). Con la revolución industrial, la
+   máquina de vapor (tipo termodinámico) desplazó viejos procedimientos de
+   uso de la energía, como la navegación a vela. Empero, muchos aspectos
+--
+   de los barcos dependían del procesamiento de datos suministrados por la
+   brújula y el cronómetro (tipo informático). Hoy mismo asistimos a una
+   revolución informática en la que las comunicaciones y los servicios
+   están pasando a primer plano sin que por ello franjas amplias de la
+   actividad económica hayan dejado de tener una base termodinámica o
+--
+   ejemplo. Durante la mayor parte de la historia la agricultura de base
+   mecánica fue la actividad económica dominante (y sigue siéndolo en
+   numerosas regiones del Tercer Mundo). A partir de la revolución
+   industrial, los métodos agrícolas sufrieron transformaciones drásticas.
+   Con la aparición de los tractores y los fertilizantes químicos, llegó
+--
+   hemos pasado de la primacía del sector primario a la del sector
+   terciario de la economía en solo doscientos años. En el nivel
+   ambiental, el proceso de contaminación desatado por la revolución
+   industrial ha comenzado a hacer sentir sus efectos a escala global. Si
+   bien las cifras y los ritmos de estos y otros cambios pueden variar
+--
+   artefactos y su inserción en los sistemas sociales y naturales, el
+   dilema planteado al comienzo del artículo (¿la técnica se desarrolla
+   por vía revolucionaria o por vía evolutiva?) se revela a la postre como
+   un falso dilema: revolución y evolución son elementos constitutivos de
+   la historia de la técnica, y su conjunción en un modelo unificado
+   fortalece nuestra capacidad para comprender su desarrollo. La cambiante
+   tecnósfera contemporánea es el fruto de una historia prolongada en la
+   que han participado tanto los cambios evolutivos de la tecnología como
+   los cambios revolucionarios en la sociedad y, por lo tanto, en el
+   desarrollo tecnológico mismo, en la medida en que este es a su vez un
+   proceso social. Por eso, no es de extrañar que la formulación de
+--
+   historia, traza un cuadro, esboza un mapa gracias al cual podemos
+   orientarnos. Este cambio de perspectiva tiene especial relevancia en el
+   momento de calcular la evolución probable de los sistemas tecnológicos
+   y las máquinas sociales a las cuales están acoplados. En relación con
+   este punto, resulta instructiva la propuesta en la cual Scherer
+--
+   del predominio de la civilización industrial al de la civilización
+   informatizada. Como muestra el modelo de Serres, uno de los principales
+   efectos de la revolución industrial consiste en la multiplicación de la
+   capacidad de los seres humanos para contaminar su entorno a través del
+   empleo de tecnologías de base termodinámica. Las tecnologías basadas en
+--
+          Short History of Technology, de T.K. Derry y T. Williams.
+
+          8 Cf. Basalla, George, La evolución de la tecnología, Barcelona:
+          Crítica, 1991, pp. 14ss.
+

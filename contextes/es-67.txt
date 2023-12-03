@@ -1,153 +1,194 @@
-   marzo - abril 2011
+   (BUTTON)
 
-La evolución del evolucionismo
+De la evolución
 
-   Texto José Ramón Ayllón Ilustraciones Pedro Marrodán
---
-   novedosa sobre la ascendencia de los seres vivos y abrió un debate que
-   se ha ido extendiendo desde la biología a todas las ramas del saber.
-   Hoy la evolución sigue siendo un fenómeno complejísimo del que se
-   ignora y se supone mucho más de lo que se sabe.
-   org-1baja.jpg
+Experientia docet
 --
 
-
-¿Qué es la evolución?
-
-   Desde mediados del siglo XIX, gracias a Charles Darwin, la teoría de la
-   evolución representa el más persistente intento de explicación de la
-   pluralidad aparentemente heterogénea de los organismos vivientes. Por
-   evolución se entiende la descendencia y progresiva complejidad de las
-   especies a lo largo del tiempo. Esa descendencia ininterrumpida empieza
-   con la bacteria que surge misteriosamente hace casi 4.000 millones de
-   años y da comienzo a la increíble aventura de multiplicarse y
-   diversificarse en miles de millones de especies. La evolución es
-   atestiguada por el registro fósil y el parentesco genético, pero se
-   escapa el cómo de dicho proceso, su mecanismo. Lejos de constituir un
+   Si bien se pueden buscar antecedentes en la antigua Grecia, el hecho
+   cierto es que lo que hoy llamamos evolución en biología, la idea de que
+   todos los seres vivos provienen de un antepasado común y que la
+   diversidad de especies se debe a cambios heredados en las poblaciones
 --
-   ignora y se supone mucho más de lo que se sabe.
+   XVIII.
 
-¿Se puede negar la evolución?
-
-   Quienes niegan la evolución alegan que la ciencia se basa en la
-   observación, la reproducción de los fenómenos y la experimentación.
-   Añaden que nadie ha visto los pasos de unas especies a otras, y que es
+   La palabra “evolución”, sin embargo, ya se venía empleando desde el
+   siglo XVII para referirse al desarrollo embrionario del individuo, sin
+   referencia alguna a la herencia. En este sentido “evolución”
+   significaba habitualmente el desarrollo de partes preexistentes en el
+   embrión, tal y como lo concebían los seguidores del preformismo.
 --
-¿Qué es el árbol de la vida?
-
-   En el caso de la teoría de la evolución, se afirma que todos los
-   organismos vivos están relacionados con un ancestro común, del que
-   descienden. Ese parentesco universal de las especies se puede dibujar
+   Entre 1802 y 1820 Jean-Baptiste Lamarck combinó varios de estos temas
+   para producir la primera hipótesis sistemática, si bien no siempre
+   clara, del cambio orgánico (en esos años la palabra “evolución” en su
+   significado actual sólo está documentada en los trabajos de
+   Julien-Joseph Virey). Alrededor de 1830 Étienne e Isidore Geoffroy
 --
-   demostrado, hay buenos argumentos para suponer los pasos desde la
-   célula originaria hasta el tiburón, la liebre o el ruiseñor. Se llama
-   evolución a todo ese proceso de transformación, aunque se debe
-   reconocer que es poner una etiqueta a un proceso sumamente oscuro, cuyo
-   primer capítulo es precisamente la misteriosa aparición de la vida.
-
-¿Qué pruebas avalan la evolución?
-
-   La teoría evolutiva se apoya en cuatro pruebas de diferente valor
+   Charles Lyell discutió las ideas de Lamarck desde un punto de vista
+   crítico en sus textos geológicos de comienzos de los años treinta del
+   XIX, donde usaba evolución en su sentido actual por primera vez en
+   lengua inglesa. Estos libros de Lyell fueron estudiados en profundidad
+   por Charles Darwin. Las ideas lamarckianas, combinadas con
 --
-   reptiles, pájaros y mamíferos– que evolucionaron a partir de un grupo
-   particular de peces de aletas lobuladas. Es uno de los muchos ejemplos
-   que muestran la evolución a partir de la comparación anatómica de las
-   especies. En los tetrápodos se observa que los esqueletos de las
-   tortugas, los caballos, los humanos, los pájaros, las ballenas y los
+   especies derivasen de una (o unas pocas) forma de vida. Tanto en los
+   círculos científicos, como en los periodísticos y a nivel popular la
+   cuestión a debatir era la “evolución”. Darwin evitaba esta palabra,
+   optando por “descendencia con modificación”. Tanto el filósosfo Herbert
+   Spencer como otros tantos seguidores de Darwin se decantaban claramente
+   por “evolución”, y no ocultaban que su preferencia se basaba en sus
+   profundas implicaciones para una visión de la naturaleza que ponía el
+   énfasis en el cambio gradual y progresivo como resultado de la
 --
-   Existen fósiles catalogados de 250.000 especies, y en dicho catálogo
-   rara vez se reflejan las innumerables formas de transición que Darwin
-   supuso. Más bien parece que la evolución da grandes saltos, como ha
-   puesto de manifiesto Stephen Jay Gould. Desde el punto de vista
-   paleontológico, el estado habitual de las especies es la estasis y la
-   súbita aparición y desaparición, no el cambio gradual. Hay, por tanto,
-   más revolución que evolución. Darwin pensaba que no encontraba formas
-   intermedias porque el registro fósil era muy incompleto, pero hoy se
-   conocen archivos completos, que documentan millones de años de forma
+   perdidos” (olvidando en cierto modo lo que significan gradual y
+   progresivo) en el registro fósil que un consenso respecto a las causas
+   de la evolución. Alrededor de 1900, entre otras hipótesis, el
+   darwinismo, el neolamarckismo y la ortogénesis competían como
+   explicaciones del cambio evolutivo.
 --
-   del 60% respecto a la mosca de la fruta.
+   concepto de Darwin de selección natural con la genética. Desde los años
+   cuarenta del siglo XX la inmensa mayoría de los científicos cuando
+   hablan de evolución se refieren a la evolución neodarwinista.
 
-¿Significan lo mismo evolución y evolucionismo?
-
-   Si la evolución es un hecho, el evolucionismo es su interpretación. Por
-   tanto, no significan lo mismo. Entre todas las interpretaciones de la
-   evolución, la darwinista es —con mucho— la más aceptada, hasta el punto
-   de que evolucionismo y darwinismo suelen confundirse en el lenguaje
-   corriente. Pero no debería ser así. Como atestigua la Historia Natural,
-   de Buffon, el hecho de la evolución era conocido y debatido en el
-   ámbito científico desde finales del siglo XVIII, con un importante
-   núcleo en la Academia de las Ciencias de París. Sin embargo, todavía a
---
-   independiente.
-
-¿Hay azar en la evolución?
-
-   Al lanzar una moneda al aire, no sale cara o cruz por azar, sino por el
---
-   procesos bioquímicos abrumadoramente complejos. Por eso, mientras se
-   desconozcan las leyes de los programas moleculares de los seres vivos,
-   hablar de evolución y selección es emplear metáforas con el mismo valor
-   explicativo que denominar “toldo de estrellas” al firmamento.
-
+   Sin embargo, desde mediados de los años sesenta empezaron a
+   incorporarse nuevas aproximaciones al estudio de la evolución
+   biológica, incorporando herramientas y conceptos provenientes de la
+   ecología evolutiva, la paleontología y, muy especialmente, de la
 --
 
-   Por la superación de la generación espontánea y de la creación directa
-   de cada especie, Darwin protagoniza en la Biología una revolución
-   equivalente a la de Copérnico en Astronomía. Desde él se da por sentado
-   que todas las especies son ramas de un mismo árbol de la vida y forman
+   Así, el hecho de que la variación genética, algunas veces, no esté
+   correlacionada con el éxito reproductivo y la evolución adaptativa (y,
+   por tanto, parezca “neutral” con respecto a la selección natural) llevó
+   a algunos biólogos, como Motō Kimura, a desarrollar a comienzos de 1964
+   la teoría neutralista de la evolución molecular. La teoría afirma que
+   buena parte del cambio evolutivo observado a nivel molecular ocurre por
+   una deriva genética aleatoria, independiente de la selección natural.
 --
 
-   En la introducción a El origen de las especies, libro canónico sobre la
-   evolución, Charles Darwin reconoce que estuvo equivocado durante años,
-   cuando pensaba que cada especie había sido creada por separado:
-   “Después del estudio más detenido y del juicio más desapasionado de que
+   Desde los años sesenta del siglo XX, el interés en la cuestión de la
+   evolución de la especie humana tomó nuevo impulso. El hallazgo de
+   nuevos especímenes fósiles, al comienzo en África, pero después en Asia
+   (Flores, Denisova) o Europa (Atapuerca); el estudio del ADN
 --
-   y desaparición súbita de especies bien definidas.
+     * Experientia docet
 
-¿Qué papel juega la selección natural en la evolución?
+   De la evolución
 
-   Darwin pensó que, en esencia, el mecanismo de la evolución se podía
-   resumir en dos conceptos: variación con selección. Como se sabe, aportó
-   pruebas de embriología, anatomía comparada y paleontología. Pero
+Suscribirme
 --
+     *
 
-   Hoy, la molécula de ADN proporciona la prueba más convincente de la
-   evolución biológica. El ADN de todos los seres vivos está formado por
-   el mismo alfabeto químico: secuencias de los nucleótidos adenina,
-   citosina, guanina y timina. El hecho de que todas las reacciones
---
-   imaginarlo”.
+La evolución de la vida inteligente: ¿Azar o necesidad?
+       ¿Es inevitable la evolución de la vida inteligente? ¿O es
+       improbable? Hoy los biólogos tienen claro que la concepción popular
+       […]
+     *
 
- ¿La evolución excluye a Dios?
+Dani y Fiti sobre la teoría de la evolución
+       Hasta en las situaciones más insospechadas pueden surgir dudas
+       científicas, y si no, que se lo pregunten a Dani y […]
+     *
 
-   Un ejemplo cervantino: si yo pregunto en clase por qué se vuelve loco
---
-   origen de esas leyes.
-
-¿Evolución y creación son compatibles?
-
-   Si el Universo es un conjunto de seres contingentes –que no tienen en
-   sí mismos su razón de ser–, necesariamente ha tenido que ser creado.
-   Crear no es transformar algo, sino producir radicalmente ese algo. La
-   evolución, en cambio, se ocupa del cambio de ciertos seres que
-   previamente existen. De esta forma se ve claro que la creación y la
-   evolución no pueden entrar en con¬flicto, porque se mueven en dos
-   planos y en dos cronologías diferentes.Una certera comparación de Ernst
-   Jünger aclara esta cuestión: “La teoría de Darwin no plantea ningún
-   problema teológico. La evolución transcurre en el tiempo; la creación,
-   por el contrario, es su presupuesto. Por tanto, si se crea un mundo,
-   con él se proporciona también la evolución: se extiende la alfombra y
-   ésta echa a rodar con sus dibujos.
+Activa Tu Neurona – Evolución Humana
+       El director del Centro Nacional de Investigación sobre Evolución
+       Humana (CENIEH ) nos recibió en su despacho para hablar con […]
 
 --
-   el cerebro”. Algo muy parecido sostiene Richard Dawkins, zoólogo de
-   Oxford, uno de los evolucionistas más mediáticos. Ninguno repara en que
-   hablar de evolución creadora es una contradicción en los términos, y
-   que la realidad nos muestra lo contrario: una creación evolutiva.
+       4. Hace tiempo (2009) publicaste un artículo* en el que, según unas
+       investigaciones, parecían ponerse en cuestión las bases de la
+       psicología evolucionista. ¿Cuál es tu intuición acerca de esta
+       «disciplina»?
+       Salud y gracias de antemano.
+       * «Las estrategias de emparejamiento de los hadza, ¿un nuevo
+       hachazo a la psicología evolucionista?»:
+       http://www.experientiadocet.com/2009/11/las-estrategias-de-empareja
+       miento-de.html
+--
+            en una serie de ensayos que se publicaron en una revista
+            literaria, corresponde a una posición política que emplea
+            elementos de la teoría de la evolución distintos a los del
+            darwinismo social. Ni uno ni otra son, como ya he dicho,
+            ciencia.
+--
+                 Kropotkin.
+                 Escribió un libro, «El apoyo mutuo: un factor en la
+                 evolución», basado en investigaciones en Siberia (él era
+                 geografo y fue a cartografiar varias zonas).
+                 Después, es cierto, se utiliza de una forma política el
+--
+                 además se usa con tintes políticos, en respuesta al
+                 darwinismo social, el propio concepto tiene un carácter
+                 científico, es una extensión de la «teoría» la evolución
+                 de Darwin.
+                 Como dije en el anterior comentario, con este concepto,
+--
+       Avatar de jose
+       Ameno resumen.
+       Yo le añadiría un párrafo sobre la evolución por simbiosis, creo
+       que es ampliamente aceptado sobre cómo se formaron las células
+       eucariotas.
+--
+       Avatar de César Tomé
+       Simbiogénesis, epigenética, Margulis y demás.
+       Cualquiera que lea el texto y entienda de evolución y su historia,
+       echará en falta estas y otras muchísimas cosas (por citar sólo una,
+       a Wallace). Esta presentación histórica del concepto de evolución
+       es muy lineal y no pretende, ni mucho menos, agotar el tema del que
+       se pueden escribir libros no precisamente pequeños. La idea, dentro
+--
+       tomo la libertad de escribir al entender que esto es un cuaderno de
+       divulgación.
+       Vaya por delante que me asumo y acepto la evolución como teoría que
+       explica cómo han evolucionado las especies; en todo caso quiero
+       utilizar el ejemplo de la girafa del compañero (entiendo que
+       nagacionista de la evolución) SÓCRATES; solo lo utilizo como
+       ejemplo, no porque comparta la negación.
+       ¿Hay una explicación para torpes de cómo la siguiente girafa
+       consigue aumentar su cuello? es decir, me parece obvio que a la
+       girafa le viene bien pero no sé cómo consigue ordenar a sus células
+       que evolucionen, es decir, no entiendo esa relación. Si lo
+       reducimos a nivel celular las células del cuello de la girafa no
+       deberían tener como objetivo reproducirse más o alinearse de tal
+--
+       ver como esas células sin conciencia se disponen de ese modo. Hasta
+       me parecería razonable que fuera un tema de ensayo y error
+       (evolución del más fuerte); las células mutan aleatoriamente y las
+       girafas con cuellos gordos o barrigas grandes mueren y se quedan
+       las de cuello largo. Pero si esto es así, habría restos de millones
+       de girafas distintas (que igual es así) hasta que se hubiera dado
+       la buena tal cual la vemos ahora. De todos modos si fuera esto
+       último más que evolución (en la que yo entiendo cierta
+       intencionalidad por sobrevivir) sería pura casualidad, es decir, no
+       sería el más fuerte quien sobrevive, sino quien ha tenido más
+--
+            largos, los que tengan descendencia, que hereda esas
+            características.
+            Este efecto a lo largo de muuuuuuchos años -> Evolución lenta
+            y gradual hacia una especie con el cuello muy largo.
+            Por cierto, hay que tener mucho cuidado cuando se habla de
+            evolución, no es correcto decir cosas como «¿Hay una
+            explicación para torpes de cómo la siguiente girafa consigue
+            aumentar su cuello?». La Jirafa no quiere aumentar su cuello,
+            ella no sabe que está evolucionando ni tiene capacidad para
+            hacerlo. Un individuo no evoluciona, lo hace la especie, o si
+            nos ponemos estupendos, las poblaciones.
+            Espero haberte ayudado, que alguien me corrija si me confundo
+--
+     *
+
+Dani y Fiti sobre la teoría de la evolución | Dani y Fiti | Cuaderno de
+Cultura Científica 28 de febrero, 2014
+       […] Para saber más, puedes leer en el Cuaderno De la evolución […]
+     *
+
+Para entender la paleoantropología. 2ª parte: La evolución | Afán por saber 6
+de marzo, 2014
+       […] Anotación de César Tomé para el Cuaderno de Cultura Científica
+       sobre la evolución. […]
+     *
 
 --
-   persona sea una criatura divina no es incompatible con el hecho de
-   haber sido concebida en el seno de su madre y mantenerse y crecer por
-   medio de alimentos. La evolución también puede ser considerada como un
-   proceso natural a través del cual Dios trae las especies vivientes a la
-   existencia de acuerdo con su plan”.
+Lo Mejor de la Semana (9-15 de febrero) | Hablando de Ciencia | Artículos 12
+de octubre, 2014
+       […] nuevo en el CCC. la entrada relativa a la evolución de la mano
+       de Experientia […]
+

@@ -1,0 +1,77 @@
+     * Learn Evolution
+
+Evolución 101
+
+   Home → Evolución 101! → Introducción a la evolución
+     * EN in English
+
+Introducción a la evolución
+
+La definición
+
+   La evolución biológica, para hacerlo fácil, es la descendencia con las
+   modificaciones heredadas. Esta definición lo engloba todo, desde la
+   evolución a pequeña escala (por ejemplo, los cambios en la frecuencia
+   de diferentes versiones de los genes de una generación a otra en la
+   misma población) a la evolución a gran escala (por ejemplo, la
+   descendencia de diferentes especies que comparten un ancestro común).
+   La evolución nos ayuda a entender tanto el mundo vivo que nos rodea
+   como su historia.
+
+La explicación
+
+   La evolución biológica no es simplemente una cuestión de cambios con el
+   paso del tiempo. Muchas cosas cambian con el tiempo: las orugas se
+   transforman en mariposas, los árboles pierden y reponen sus hojas, las
+   cadenas montañosas se alzan y erosionan, pero ninguno de ellos son
+   ejemplos de evolución biológica porque no implican descendencia con
+   modificaciones heredadas.
+
+--
+   descendencia con modificaciones, este antepasado común da lugar a
+   diferentes especies que vemos documentadas en el registro fósil y a
+   nuestro alrededor hoy en día. La evolución significa que todos los
+   seres vivos somos primos, aunque unos más distantes que otros: los
+   humanos y los robles, las ballenas y los colibríes.
+--
+   Previous
+
+   Evolución 101!
+   Next
+
+--
+   Next
+
+Evolución 101!
+
+     * Introducción a la evolución
+     * La historia de la vida: La observación de los patrones
+          + El árbol genealógico
+--
+          + Cómo sabemos lo que pasó y cuándo pasó
+          + Acontecimientos importantes en la historia de la vida
+     * Mecanismos: Los procesos de la evolución
+          + Descendencia con modificación
+          + Los mecanismos del cambio
+--
+          + La adaptación
+          + Ideas equivocadas sobre la selección natural
+          + La coevolución
+          + Estudio de un caso de coevolución: las ardillas, las aves y
+            las piñas objeto de su deseo
+     * La microevolución
+          + Definición de microevolución
+          + Detección de los cambios microevolutivos
+          + Los mecanismos de la microevolución
+     * La especiación
+          + Definición de especie
+--
+          + Pruebas de la especiación
+          + Coespeciación
+     * La macroevolución
+          + ¿Qué es la macroevolución?
+          + Patrones de macroevolución
+     * Las cuestiones fundamentales
+          + La velocidad de la evolución
+          + La diversidad en los clados
+          + Examinando la complejidad

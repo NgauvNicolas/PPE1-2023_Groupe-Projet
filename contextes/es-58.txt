@@ -1,85 +1,198 @@
-   ____________________ (BUTTON)
+   #Dciencia » Feed Dciencia » Feed de los comentarios Dciencia »
+   Comentario La evolución, conceptos básicos del feed alternate alternate
+   alternate
 
-Qué es la Evolución
-
-   Equipo Editorial
 --
-   Creado y revisado por nuestros expertos
+       
 
-   La evolución es el cambio que se produce de un estado a otro en un
-   objeto o sujeto, como producto de un proceso de transformación
-   progresiva. Puede referirse a cambios genéticos en una especie, al
+La evolución, conceptos básicos
+
+La evolución, conceptos básicos
+
+   Seguro que todos habéis oído hablar de la evolución. Y seguro que
+   cuando escucháis la palabra «evolución», se os vienen a la cabeza cosas
+   como «monos», «fósiles», «Darwin», o incluso «pulgar oponible». Pero,
+   ¿sabemos qué es exactamente la evolución?
+
+   La evolución es un proceso universal que consiste en el cambio gradual
+   de los seres vivos y del resto de objetos del mundo natural. En efecto,
+   la evolución es algo general que afecta a los animales y a las plantas,
+   pero también a las rocas, los planetas, las estrellas, y todo cuanto
+   existe en la Naturaleza. Así pues, se podría hablar de una evolución
+   biológica, una evolución geológica e incluso una evolución astronómica.
+   [INS: :INS]
+
+   Todos estos procesos requieren normalmente tiempo, mucho tiempo, y por
+   tanto, normalmente no somos capaces de percibirlos. Aunque hay algunos
+   casos de evolución «en tiempo real», de los que hablaré más abajo.
+   Incluso hay una disciplina de la Biología que se llama Evolución
+   Experimental.
+
+   Hay muchos ejemplos de evolución geológica; pensemos por ejemplo en las
+   piedras del fondo de los ríos (los cantos rodados), que originalmente
+   no son más que trozos de roca que se desprenden de la montaña, y que al
 --
-   de un objeto y de la naturaleza en general.
+   se vayan redondeado en su cima y disminuyendo de altura.
 
-   Etimológicamente, la palabra evolución proviene de la expresión latina
-   evolutio, conformada por la contracción del vocablo ex, que quiere
-   decir 'hacia fuera', con la conjugación del verbo volvere, que quiere
-   decir 'dar vueltas'.
-
-   Algunos sinónimos o términos relacionados con evolución son:
-   transformación, desarrollo, variación, alteración, cambio, crecimiento,
-   avance, mejoría, movimiento o progreso.
+   La evolución biológica (o evolución orgánica como algunos la llaman) es
+   en la que normalmente uno piensa cuando habla de evolución. Es el
+   proceso por el cual se originó la vida en la Tierra, y que ha dado
+   lugar a la enorme diversidad de seres vivos que pueblan nuestro
+   planeta. La Teoría de la Evolución, tal como hoy se conoce fue
+   desarrollada por Charles Darwin. Aunque algunos científicos de su época
+   ya aceptaban la idea de que los seres vivos cambian con el tiempo, y
 --
-   La palabra se usa frecuentemente para aludir al perfeccionamiento
-   cualitativo de una persona, situación, contexto histórico, objeto, etc.
-   Por lo tanto, son comunes expresiones como evolución personal,
-   evolución tecnológica, evolución científica, evolución económica, etc.
-
-Evolución en biología
-
-   En la biología, la evolución se relaciona concretamente con el estudio
-   de los procesos de transformación de las especies, esto es, los
-   procesos de adaptación y mutación genética que generan cambios
-   estructurales en los seres vivos. Es decir, el concepto de evolución en
-   la naturaleza se define como los cambios en los registros genéticos de
-   una población biológica (animal o vegetal) a través de las
-   generaciones.
-
-Teoría de la evolución de las especies
-
-   La teoría de la evolución de las especies fue presentada por Charles R.
-   Darwin y Alfred Wallace en el año 1859, en un libro titulado El origen
-   de las especies. Fue precedido por las investigaciones y teorías de
+   embargo, no había un claro consenso sobre por qué ocurría esto. La
+   mayoría creía en el designio divino, es decir, que todo, incluso el
+   proceso de evolución, seguía un plan establecido por Dios. Darwin
+   recopiló durante años una enorme cantidad de ejemplos y datos apoyando
+   la evolución, y su principal aportación fue proponer la selección
+   natural como motor del cambio evolutivo. Es decir, las especies cambian
+   con el tiempo porque sólo los individuos más aptos logran dejar
 --
-
-   Según los autores, el ser humano (homo sapiens) es el resultado de la
-   evolución de otras especies como el homo erectus y el homo habilis,
-   afirmación que desafiaba la teoría creacionista imperante en el siglo
-   XIX. Darwin postulaba también que la evolución de las especies era
-   resultado de la selección natural y la adaptación.
-
-   Hoy en día, existen sobre la mesa diferentes hipótesis sobre las causas
-   de la evolución. Estas son:
-    1. La selección natural: teoría de la evolución por selección natural
-       y adaptación (tesis de Darwin).
-    2. La reducción de la población: menor variedad de genes.
+   más aptos que otros son diferentes según el ambiente en el que se
+   desarrollan, y así, generación tras generación, las especies
+   evolucionan para adaptarse al medio. Hoy en día mucha gente acepta la
+   evolución por selección natural, e incluso a muchos nos parece algo
+   obvio. Sin embargo, en los tiempos de Darwin (siglo XIX) esta teoría
+   supuso una revolución total contra el pensamiento religioso
+   predominante en aquella época, puesto que al explicar la evolución
+   mediante la selección natural, ya no hacía falta la intervención de
+   Dios. Para muchos, esto suponía aceptar el libre albedrío de las
 --
-    5. El flujo genético: migración de genes a otros lugares.
+   oposición a su teoría, incluso entre la comunidad científica.
 
-   Vea más detalles sobre la Teoría de la evolución.
+   El estudio de la evolución ha estado tradicionalmente dividido en dos
+   grandes campos, la macroevolución y la microevolución. La primera, la
+   macroevolución, estudia las relaciones entre especies, géneros,
+   familias, y otros grupos taxonómicos superiores, y se nutre de
+   disciplinas como la paleontología, la geología, la biogeografía, etc.
+   Por el contrario, la microevolución estudia los cambios evolutivos que
+   ocurren entre las distintas poblaciones de una especie, o entre
+   especies emparentadas, y engloba disciplinas como la genética de
+   poblaciones o la ecología. La principal diferencia entre ambas es la
+   escala temporal que abarcan; así pues, mientras que la macroevolución
+   estudia cambios evolutivos que ocurren durante millones de años, la
+   microevolución abarca, por lo general, cambios que se miden en cientos
+   o miles de años.
 
-Evolución convergente y divergente
-
-   En el estudio de la evolución de las especies se habla de evolución
-   convergente y divergente. La evolución convergente se produce cuando
-   dos especies de diferente origen filogenético, evolucionan hasta
-   generar estructuras o elementos semejantes. Por ejemplo: tanto
+   Pero, ¿cómo funciona la evolución? ¿Qué significa eso de que las
+   especies se adaptan y cambian con el tiempo? Como casi todo en
+   Biología, la respuesta está en el ADN. Veréis, cuando un macho y una
 --
-   extraer néctar de las flores.
+   sociedad
+   Next
+   Evolución La evolución (II): Especiación y evolución en tiempo real
 
-   La evolución divergente es aquella en la cual las especies con un
-   origen común pero que han sido separadas, evolucionan de forma desigual
-   para adaptarse rápidamente a las condiciones ambientales, sea a través
+About the Author: Daniel Campo
 --
-     * Darwinismo
+41 Comments
 
-   Cómo citar: Editorial, Equipo (24/08/2022). "Qué es la Evolución". En:
-   Significados.com. Disponible en:
-   https://www.significados.com/evolucion/ Consultado:
+    1. Especiación y evolución en tiempo real 2014/04/02 at 9:01 pm -
+       Reply
+       […] con el tema de la Evolución (ver Conceptos generales), ya hemos
+       visto cómo una población de individuos de una especie se puede
+       adaptar a un ambiente […]
 --
-     * Desarrollo
-     * Significado de Adaptación
-     * Teoría de la evolución
-     * Crecimiento
-     * Qué es la Psicologia
+       Grasias
+    6. Anónimo 2016/11/13 at 12:41 am - Reply
+       Desarrollo es lo mismo que evolucion
+    7. camto 2017/05/25 at 9:42 pm - Reply
+       nunca se han encontrado fosiles de especien intermedias entre los
+       humanos y monos
+       ademas tendrian que haber evolucionado todas las especies del
+       mundo.
+       eso significa que los monos no existirian
+--
+            https://es.wikipedia.org/wiki/Anexo:F%C3%B3siles_de_la_evoluci
+            %C3%B3n_humana
+            Por otro lado, todas las especies evolucionan, claro que sí.
+            Hace 10 millones de años, por ejemplo, no había chimpancés.
+            Los chimpancés evolucionaron mucho más recientemente a partir
+            de los mismos ancestros que dieron lugar a los homínidos.
+            Quizás la frase esa de «el hombre viene del mono» habría que
+            matizarla; los seres humanos no hemos evolucionado a partir de
+            los monos actuales, sino que los monos y los humanos comparten
+            un ancestro común en el pasado, a partir del cual surgieron
+--
+       at 8:51 pm - Reply
+       […] hace algunos años me llama mucho la atención el concepto de
+       evolución. No solo por ser una teoría científica bella, y con
+       evidencia sólida, sino por las implicaciones […]
+   11. Argón 2017/11/08 at 8:14 pm - Reply
+       A mi…que me expliquen como un ratoncito logró evolucionar y volar
+       nocturno con alas membranosas y deditos finos/largos y emitir
+       ultrasonidos para capturar insectos sin verlos ; tal como son los
+--
+       del ejemplo eran víctimas alimentarias de otros animales . Ya no me
+       preocupa después , las diversas especies de murciélagos o de zorros
+       voladores , ni Delfines (que también es admirable su evolución de
+       mamífero , que sigue siendo ) a su ambiente marino y aspecto
+       hidrodinámico adaptativo . Comento estas cosas de modo coloquial ,
+--
+       mucho mejor ? Gracias previas a quien nos diga .
+   12. Argón 2017/11/08 at 10:51 pm - Reply
+       A mí , lo que más me sorprende de la evolución de las especies ,
+       Darwin publico «El Origen de las Especies» en 1879 , creo recordar
+       ; me sorprende mucho más , repito , como surgió progresiva y
+--
+       miembros anteriores en alas membranosas estructuradas con huesos
+       ligeros y finos dedos alargados y diseño perfecto para actividades
+       del vuelo ,en que además , todo ello como exige la evolución , con
+       intenciones nutricionales sobre insectos voladores , que con
+       nocturnidad y audición finísima no solo del zumbidillo del insecto
+--
+       casi no sirven para ver . Parece entenderse de todo esto , que lo
+       que es necesario para la supervivencia…la Naturaleza mediante la
+       evolución (genes por medio) te lo consigue , y lo que ya no es
+       necesario (vista/ojos) se degrada . Ejemplo similar , aunque menos
+       sofisticado , es el Zorro volador , que se alimenta de frutas y
+--
+       de la gallina ; pero como ese «milagro» ocurre ante nuestros ojos ,
+       hay/había que admitirlo , de modo empírico y
+   14. Mitos sobre la teoría de la evolución: ¿una realidad? 2018/03/01 at
+       11:15 am - Reply
+       […] hace unas décadas para definir al hombre primitivo. Sin
+--
+            capacidad de razonar se adormece.
+            La mente al igual que la vida es una condición emergente que
+            nacen de la interacción de sus constituyentes.Evolución es
+            solo cambio adaptativo, en respuesta a las condiciones
+            ambientales, y es un plus si estos cambios representan un
+            desarrollo más alto de lo que anterior tenían o eran( no
+            siempre es así), en ese sentido la evolución de las especies
+            principalmente del ser humano tiene ese plus de ir más y más
+            arriba.
+--
+            neuronas interactuando entre sí pueden dar cabida a lo que
+            llamamos mente, la cual es emergente. El problema de la fe es
+            que es simplista y no quiere entender que la evolución no se
+            hace de la noche a la mañana y le es incómodo aceptar que hace
+            40 0 50 millones de años había 5 ramas de monos, 4
+            evolucionaron hacia los monos actuales y un hacia el hombre.
+   17. uriel 2019/01/31 at 5:18 pm - Reply
+       me sirvió para mi tarea
+--
+       Todos viene de un huevo .Nace de una semilla. de un óvulo . El
+       Universo , los animales , las plantas y todo va cambiando, va
+       evolucionando, se va desarrollando Estamos bajo un plan diseñado
+       por DIos, le guste o no a Darwin. El no creó la evolución sólo la
+       entendió y lo hizo bajo el método científico.
+   23. mario salas 2019/04/06 at 4:12 am - Reply
+       hay que tener mucho mas fe para creer en la teoria de la evolucion
+       que para creer en Dios
+   24. Roberto 2019/04/27 at 7:21 pm - Reply
+       Creo que el artículo contiene un error cuando define lo que es la
+       evolución biológica: «Es el proceso por el cual se originó la vida
+       en la Tierra». Que yo sepa, la evolución no se ocupa de explicar el
+       origen de la vida. Sólo su evolución una vez que la vida ya existe.
+   25. JOSE JULIAN ORTIZ 2019/09/21 at 3:22 pm - Reply
+       La teoria de la evolucion por mediacion de la seleccion natural, no
+       es algo en lo que se cree, a diferencia de los dioses de las
+       respectivas mitologias
+   26. EVOLUCIÓN – ConCiencia 2019/12/09 at 8:25 pm - Reply
+       […] EVOLUCIÓN […]
+   27. Evolución – Peripatéticos de Ciencia 2019/12/09 at 9:25 pm - Reply
+       […] https://www.dciencia.es/que-es-la-evolucion-conceptos/ […]
+   28. yilmari 2020/03/04 at 1:33 am - Reply
+       bueno.. me encanta .

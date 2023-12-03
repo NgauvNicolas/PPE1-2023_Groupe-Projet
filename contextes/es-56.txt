@@ -1,102 +1,110 @@
-   Definición de
+   Lección 1: Selección natural
+   (BUTTON)
+     * Introducción a la evolución y la selección natural
+     * La selección natural y la mariposa búho
+     * Variación en una especie
+     * Darwin, evolución y selección natural
+     * Selección natural
+
+--
+   (BUTTON)
+
+Darwin, evolución y selección natural
+
+   Google Classroom
+   El viaje de Darwin en el HMS Beagle y sus ideas sobre la evolución y la
+   selección natural.
+
+--
+
+     * Charles Darwin era un naturalista británico que propuso la teoría
+       de la evolución biológica por selección natural.
+     * Darwin definió la evolución como "descendencia con modificación",
+       la idea de que las especies cambian a lo largo del tiempo, dan
+       origen a nuevas especies y comparten un ancestro común.
+     * El mecanismo que Darwin propuso para la evolución es la selección
+       natural. Debido a que los recursos son limitados en la naturaleza,
+       los organismos con rasgos heredables que favorezcan la
+--
+       existan variaciones heredables en un grupo.
+
+¿Qué es la evolución?
+
+   La idea básica de la evolución biológica es que las poblaciones y las
+   especies de organismos cambian con el tiempo. Hoy en día, cuando
+   pensamos en evolución, tendemos a relacionar esta idea con una persona:
+   el naturalista británico Charles Darwin.
+   En la década de 1850, Darwin escribió un libro controversial e
+   influyente llamado El origen de las especies. En él, propuso que las
+   especies evolucionan (o, como lo dijo él, tienen "descendencia con
+   modificaciones") y que todos los seres vivos pueden rastrear su
+   ascendencia a un antepasado común.
+   [¿Exactamente qué es una especie?]
+   Darwin también sugirió un mecanismo para la evolución: la selección
+   natural, en la que los rasgos heredables que le ayudan a un organismo a
+   sobrevivir y reproducirse, se vuelven más comunes en una población a lo
+--
+   Veremos cómo surgieron a partir de sus viajes alrededor del mundo en el
+   barco HMS Beagle y también analizaremos un ejemplo de cómo funciona la
+   evolución mediante selección natural.
+   [Primeras ideas sobre la evolución]
+   [Las influencias sobre Darwin]
+
+--
+
+   El libro seminal de Darwin, El origen de las especies, expone sus ideas
+   acerca de la evolución y la selección natural. Estas ideas se basaron
+   en gran medida en las observaciones directas que Darwin realizó en sus
+   viajes alrededor del mundo. De 1831 a 1836 fue parte de una expedición
+--
+   Darwin desarrolló y refinó un conjunto de ideas que podrían explicar
+   los patrones que observó durante su viaje. En su libro, El origen de
+   las especies, Darwin explicó sus dos ideas fundamentales: la evolución
+   y la selección natural.
+   [¿No llegó a estas mismas conclusiones Alfred Russel Wallace?]
 
 Evolución
 
-   El concepto de evolución proviene del término latino evolutio y hace
-   referencia al verbo evolucionar y a sus efectos. Esta acción está
-   vinculada con un cambio de estado o a un despliegue o desenvolvimiento
+   Las especies modernas aparecen en la parte superior de la ilustración
+--
+   cambian en sus características heredables a lo largo de generaciones,
+   como "descendencia con modificaciones". Hoy en día, lo llamamos
+   evolución. El boceto de Darwin que se ve arriba ilustra esta idea y
+   muestra cómo una especie puede ramificarse en dos a lo largo del
+   tiempo, y cómo este proceso puede repetirse muchas veces en el "árbol
 --
 
-   Podemos encontrar el término en frases como: «Tenemos que esperar por
-   la evolución del paciente en la etapa post-quirúrgica antes de
-   determinar los pasos a seguir», «El joven tenista colombiano ha
-   mostrado una gran evolución en su juego», «La evolución del negocio no
-   fue la que esperábamos y tuvimos que abandonar el proyecto».
-   Ser humano
-
-   La evolución biológica permite la subsistencia de los organismos más
-   aptos.
-
-   Temas del artículo
-     * Un proceso y un movimiento
-     * La evolución biológica
-     * La teoría de Darwin
-     * Evolución y creacionismo
-     * Recursos para la superviviencia
-     * El trabajo de Mendel para entender la evolución
-     * Árbol de temas relacionados
-
-Un proceso y un movimiento
-
-   Puede entenderse la evolución como un proceso que deben atravesar
-   algunas cosas y que consiste en el abandono de una etapa para pasar a
-   otra, ya sea de manera gradual o progresiva. Podemos ejemplificar esto
+   Es importante destacar que Darwin no solo propuso que los organismos
+   evolucionaban. Si ese hubiera sido el inicio y el fin de su teoría, ¡no
+   estaría en tantos libros de texto hoy en día! Además, Darwin también
+   propuso un mecanismo para la evolución: la selección natural. Este
+   mecanismo era elegante y lógico, y explicaba cómo podían evolucionar
+   las poblaciones (tener descendencia modificada) de tal manera que se
+   hacían más adecuadas para vivir en sus entornos con el paso del tiempo.
 --
-   humanos, los animales o algunos objetos. Es decir que analizando cada
-   una de las etapas de la vida de un individuo podría conocerse o
-   comprenderse la evolución por él alcanzada.
+       sus pares).
 
-La evolución biológica
-
-   Podemos hablar también de evolución biológica. Éste es un proceso a
-   través del cual las especies van modificándose a lo largo del tiempo
-   (modificaciones a medida que pasan las generaciones).
-
-   Esta evolución genera una alteración en la genética de una población
-   que podría derivar en la adaptación de la especie a un nuevo hábitat o
-   el surgimiento de una especie diferente.
-   Darwinismo
-
-   Charles Darwin es señalado como el padre de la teoría de la evolución.
-
-La teoría de Darwin
-
-   Al pensar en el término evolución el primer nombre que nos surge es
-   Charles Darwin, sin embargo es importante aclarar que no fue él el
-   primero en hablar de la cuestión evolutiva de las especies, ni siquiera
+   El modelo de Darwin de evolución mediante selección natural le permitió
+   explicar los patrones que vio durante sus viajes. Por ejemplo, si las
+   especies de pinzones de las Galápagos compartían un ancestro común,
 --
-   quien en sus libros «Zoonomia» y «Las leyes de la Vida Orgánica» hacía
-   un extensivo análisis sobre el tema. De todas formas, es necesario
-   señalar que el gran salto hacia la concepción de evolución en la que
-   hoy se basa la ciencia la dio Charles, con su teoría sobre la Selección
-   Natural.
---
-   Sigue en: Decena
+   estará compuesta casi en su totalidad por ratones negros. Este cambio
+   en las características heredables de una población es un ejemplo de
+   evolución.
+   [¿Qué genes y alelos estamos suponiendo que hay aquí?]
 
-Evolución y creacionismo
-
-   Dentro de la teoría de la evolución existen dos líneas de pensamiento
-   bien marcadas. Una de ellas es la teoría creacionista, que se encuentra
-   basada en las directrices que la religión impuso a través de su
 --
-Recursos para la superviviencia
+   [¿Los organismos mutan a propósito?]
 
-   La teoría de la evolución de Darwin se caracterizó por imponer nuevos
-   patrones para analizar a la línea evolutiva de las especies. La suya
-   fue la primera explicación que pudo considerarse creíble donde los
---
-   extensión de su cuello, característica que se transmitiría a los
-   descendientes (esta teoría no pudo ser probada y se descartó). Darwin,
-   en cambio, decía que la evolución tenía que ver con la adaptación a la
-   nueva realidad; en el caso de las jirafas, decía que eran las que tenía
-   el cuello ligeramente más largo las que tuvieron acceso al alimento, y
---
-   Más en: Copa
+La selección natural y la evolución de las especies
 
-El trabajo de Mendel para entender la evolución
-
-   Es necesario aclarar que cuando Darwin mostró su teoría todavía no se
+   Demos un paso atrás y consideremos cómo encaja la selección natural en
+   la visión de Darwin sobre la evolución, en la que todos los seres vivos
+   comparten un ancestro común y descienden de él en un enorme árbol
+   ramificado. ¿Qué sucede en cada uno de esos puntos de ramificación?
 --
-   gracias a la genética podemos saber por ejemplo que el uso o desuso de
-   un miembro o la utilidad del mismo puede marcar importantes pautas en
-   la evolución genética de una especie.
-
-   Pese a ello, su teoría sobre la evolución se considera la forma más
-   clara y evidente para entender las etapas evolutivas de la vida sobre
-   nuestro planeta.
---
-   (BUTTON) Cerrar
-   Cómo citar este artículo Publicado por Julián Pérez Porto y Ana Gardey.
-   Actualizado el 12 de septiembre de 2021. Evolución - Qué es, teoría,
-   definición y concepto. Disponible en https://definicion.de/evolucion/
-   Definiciones Relacionadas
+   Con base en varias pruebas, los científicos creen que este tipo de
+   proceso se ha repetido muchísimas veces a lo largo de la historia de la
+   tierra. La evolución por selección natural y otros mecanismos es la
+   base de la increíble diversidad de formas de vida actuales, y la acción
+   de la selección natural puede explicar la adaptación que existe entre

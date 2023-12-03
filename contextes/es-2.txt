@@ -7,7 +7,8 @@
           + 1.3La evolución de la vida en la Tierra
      * 2Historia del pensamiento evolucionista
        (BUTTON) Alternar subsección Historia del pensamiento evolucionista
---
+          + 2.1Darwinismo
+          + 2.2Neodarwinismo
           + 2.3Síntesis evolutiva moderna
      * 3Equilibrio puntuado
      * 4Teoría neutralista de la evolución molecular
@@ -97,6 +98,7 @@ Evolución biológica
 
      * Estética evolutiva
 --
+     * Neurociencia evolutiva
      * Fisiología evolutiva
      * Psicología evolucionista
      * Evolución experimental
@@ -116,6 +118,10 @@ Evolución biológica
    La palabra «evolución» se utiliza para describir los cambios y fue
    aplicada por primera vez en el siglo XVIII por un biólogo suizo,
    Charles Bonnet, en su obra Consideration sur les corps
+   organisés.^[11]​^[12]​ No obstante, el concepto de que la vida en la
+   Tierra evolucionó a partir de un ancestro común ya había sido formulado
+   por varios filósofos griegos,^[13]​ y la hipótesis de que las especies
+   se transforman continuamente fue postulada por numerosos científicos de
 --
    propio Darwin en El origen de las especies,^[17]​ quien sintetizó un
    cuerpo coherente de observaciones y profundizó el mecanismo de cambio
@@ -132,6 +138,8 @@ Evolución biológica
    un cambio en la frecuencia de los alelos de una población a lo largo de
    las generaciones. Este cambio puede ser causado por diferentes
 --
+   sintética desde su formulación, en torno a 1940.^[20]​
+
    En el siglo XIX, la idea de que la vida había evolucionado fue un tema
    de intenso debate académico centrado en las implicaciones filosóficas,
    sociales y religiosas de la evolución. La evolución como propiedad
@@ -192,11 +200,50 @@ La evolución de la vida en la Tierra[editar]
    por el cual las bacterias originaron las mitocondrias o hidrogenosomas
    en los eucariotas.^[60]​ También se postula que un virus gigante de ADN
 --
+   partir de una cianobacteria y un protozoo los cuales darían origen a
+   las algas rojas y algas verdes, posteriormente de algas verdes que
+   lograron salir del medio acuático evolucionaron las plantas durante el
+   Cámbrico. Por otra parte, las otras algas como las diatomeas o las
+   algas pardas obtuvieron sus cloroplastos por endosimbiosis secundarias
+--
+   espermatozoides animales y a las células de tipo coanocito que
+   presentan algunos animales que genéticamente son los protistas más
+   cercanos a los animales. Los hongos evolucionaron de protozoos
+   parasitarios ameboides que por causa de su parasitismo perdieron la
+   fagocitosis, reemplazandola por la osmosis y que tuvieron la tendencia
+--
+   agrupa en el clado Opisthokonta junto con los protozoos más cercanos a
+   ellos. Además sus células son uniflageladas y opistocontas similar a
+   los espermatozoides. Aunque los hongos más evolucionados como las setas
+   o los mohos carecen de flagelos en sus células, este se conserva en los
+   hongos más primitivos como los quitridios o los microsporidios, por lo
+   que los hongos evolucionaron de ancestros similares a los de los
+   animales.^[66]​^[67]​^[68]​ Los mohos mucilaginosos podrían ser un
+   mejor modelo de como se puede transitar de la vida unicelular a la
+--
+   algunos paleontólogos han sugerido que la biota de Ediacara representa
+   una rama completamente extinta, un «experimento fallido» de la vida
    multicelular, y que la vida multicelular posterior volvió a evolucionar
    más tarde a partir de organismos unicelulares no relacionados.^[74]​ En
    cualquier caso, la evolución de los organismos pluricelulares ocurrió
    en múltiples eventos independientes, en organismos tan diversos como
    las esponjas, algas pardas, cianobacterias, hongos mucosos y
+--
+   los mamíferos, hace unos 200 millones de años, y las aves, hace
+   150 millones de años. Sin embargo, los organismos microscópicos,
+   similares a aquellos que evolucionaron tempranamente, continúan siendo
+   la forma de vida predominante en la Tierra, ya que la mayor parte de
+   las especies y la biomasa terrestre está constituida por
+   procariotas.^[81]​
+
+Historia del pensamiento evolucionista[editar]
+
+   Artículo principal: Historia del pensamiento evolucionista
+   [220px-Infograf%C3%ADa_Evoluci%C3%B3n_Francisca_Veas_y_Fernando_Baptist
+   a_UPV_EHU_Wikilariak.png] Infografía que resume la historia del
+   pensamiento evolucionista.[175px-Anaximander.jpg] Anaximandro, filósofo
+   griego, ofreció una idea más elaborada y mantuvo que «la base de toda
+   materia es una sustancia eterna que se transforma en todas las formas
 --
    integraron al cristianismo.^[98]​ San Agustín toma una visión evolutiva
    como base para su filosofía de la historia.^[99]​ Erigena y algunos de
@@ -276,6 +323,20 @@ La evolución de la vida en la Tierra[editar]
    una verdadera teoría científica ―es decir, en un sistema de
    hipótesis―.^[129]​
 --
+   hechos empíricos de la naturaleza.
+
+   2. Toda la vida evolucionó a partir de una o de pocas formas simples de
+   organismos.
+
+   3. Las especies evolucionan a partir de variedades preexistentes por
+   medio de la selección natural.
+
+   4. El nacimiento de una especie es gradual y de larga duración.
+
+   5. Los taxones superiores (géneros, familias, etc.) evolucionan a
+   través de los mismos mecanismos que los responsables del origen de las
+   especies.
+--
    Artículo principal: Síntesis evolutiva moderna
    [220px-Julian_Huxley_1964.jpg] Julian Huxley dio su nombre en 1942 a la
    teoría sintética de la evolución, que hoy es ampliamente aceptada en la
@@ -322,6 +383,10 @@ La evolución de la vida en la Tierra[editar]
        divergente de poblaciones que están geográficamente aisladas unas
        de otras― sea el mecanismo de especiación predominante en el origen
 --
+
+     * Las transiciones evolutivas en estas poblaciones suelen ser
+       graduales, es decir, las nuevas especies evolucionan a partir de
+       las variedades preexistentes por medio de procesos lentos y en cada
        etapa se mantiene su adaptación específica.^[cita requerida]
 
      * La macroevolución ―la evolución filogenética por encima del nivel
@@ -378,6 +443,18 @@ Teoría neutralista de la evolución molecular[editar]
    genética a través del tiempo. La frecuencia de cada alelo fluctúa,
    siendo más o menos prevalente en relación con otras formas alternativas
 --
+   los retos impuestos por el ambiente.^[168]​ Los virus, por ejemplo,
+   presentan una alta tasa de mutación,^[170]​ lo que supone una ventaja
+   adaptativa ya que deben evolucionar rápida y constantemente para
+   sortear a los sistemas inmunes de los organismos que afectan.^[171]​
+
+--
+   construir las estructuras necesarias para detectar la luz: tres para la
+   visión de los colores y uno para la visión nocturna. Los cuatro genes
+   han evolucionado a partir de un solo gen ancestral por duplicación y
+   posterior divergencia.^[177]​ Otros tipos de mutación pueden
+   ocasionalmente crear nuevos genes a partir del denominado ADN no
+--
    tales como los transposones, constituyen una importante fracción del
    material genético de plantas y animales y pueden haber desempeñado un
    papel destacado en su evolución.^[185]​ Al insertarse en o escindirse
@@ -413,6 +490,19 @@ Teoría neutralista de la evolución molecular[editar]
    para color negro. La evolución tiene lugar cuando hay cambios en la
    frecuencia alélica en una población de organismos que se reproducen
    entre ellos, por ejemplo, si el alelo para color negro se hace más
+   común en una población de polillas.^[204]​
+
+   Para comprender los mecanismos que hacen que evolucione una población,
+   es útil conocer las condiciones necesarias para que la población no
+   evolucione. El principio de Hardy-Weinberg determina que la frecuencia
+   de los alelos de una población suficientemente grande permanecerá
+   constante solo si la única fuerza que actúa es la recombinación
+--
+   combinación de los mismos durante la fertilización.^[205]​ En ese caso,
+   la población se encuentra en equilibrio de Hardy-Weinberg y, por lo
+   tanto, no evoluciona.^[204]​
+
+Flujo genético[editar]
 --
    fijación de mutaciones ligeramente deletéreas.^[221]​ Como resultado de
    ello, los cambios en el tamaño de una población pueden influir
@@ -500,6 +590,17 @@ Coevolución[editar]
    ejemplo de coevolución que no involucra competencia (Hipótesis del Rey
    Rojo) son las interacciones simbióticas y mutualistas entre las
    micorrizas y las raíces de las plantas o las abejas y las plantas que
+   polinizan. Otro ejemplo de entidad que coevoluciona con su huésped son
+   los virus con las células. Las células suelen desarrollar defensas en
+   su sistema inmune para evitar infecciones virales, sin embargo los
+   virus deben mutar rápidamente para poder evitar dichas defensas
+   celulares o el sistema inmune del huésped. Por tanto, los virus son las
+   únicas entidades que evolucionan más rápidamente que cualquier otra
+   para su existencia. Los virus son entidades que solamente pueden
+   evolucionar y sobrevivir en las células. Según estudios recientes han
+   venido coevolucionando con las células desde sus orígenes (protobionte)
+   y por ello su origen es anterior al del último antepasado común
+   universal. Los virus pudieron en surgir en esos protobiontes o antes,
 --
    (elemento genético móvil) y regular la población de determinados
    organismos celulares. De hecho nuevos tipos de virus también pudieron
@@ -507,11 +608,23 @@ Coevolución[editar]
    diversos mecanismos moleculares como recombinaciones entre elementos
    genéticos móviles con otros virus. Incluso pueden saltar entre diversos
 --
+   características comunes a dicha especie. En su lugar, una especie se
+   concibe ahora como un linaje que comparte un único acervo genético y
+   evoluciona independientemente. Según esta descripción, los límites
+   entre especies son difusos, a pesar de que se utilizan propiedades
+   tanto genéticas como morfológicas para ayudar a diferenciar entre
+--
    coloniza un nuevo hábitat, pero se diferencia en que no hay ninguna
    separación física entre las dos poblaciones. En cambio, la especiación
    es el resultado de la evolución de mecanismos que reducen el flujo
    génico entre ambas poblaciones.^[293]​ Generalmente, esto ocurre cuando
    ha habido un cambio drástico en el medio dentro del hábitat de la
+--
+   sufrir una especiación parapátrica en respuesta a contaminación
+   metálica localizada proveniente de minas.^[302]​ En este caso,
+   evolucionan plantas con una resistencia a niveles altos de metales en
+   el suelo; el aislamiento reproductivo ocurre porque la selección
+   favorece una época de floración distinta a la de las especie madre para
 --
    las diferencias genéticas entre partes de una población.^[304]​ En
    general, en los animales, la especiación simpátrica requiere la
@@ -638,6 +751,7 @@ Selección sexual y altruismo[editar]
    discontinuidades morfológicas importantes entre grupos de especies,
    razón por la cual se las clasifica como grupos marcadamente
 --
+   con relación a la divergencia morfológica a través del tiempo.
 
    El gradualismo es el modelo macroevolucionista ortodoxo. Explica la
    macroevolución como el producto de un cambio lento, de la acumulación
@@ -686,6 +800,12 @@ Selección sexual y altruismo[editar]
 
    [220px-Mousehoxgenes.png] Genes HOX en ratones
 --
+   la biología evolutiva se han unido para formar una nueva rama de la
+   investigación biológica llamada Biología evolutiva del desarrollo o,
+   coloquialmente, «Evo-devo», que explora cómo han evolucionado los
+   procesos del desarrollo y cómo ha surgido la organización de las
+   diversas partes del cuerpo de los organismos antiguos y
+--
 
    El principal descubrimiento responsable de la integración de la
    biología del desarrollo con la teoría de la evolución fue el de un
@@ -703,6 +823,12 @@ Selección sexual y altruismo[editar]
    que tiene profundas implicaciones para la evolución de los patrones y
    procesos de desarrollo.^[381]​^[376]​^[378]​
 
+--
+   Artículo principal: Transferencia horizontal de genes
+
+   Las primeras teorías evolucionistas prácticamente ignoraron la
+   microbiología, debido a la escasez de rasgos morfológicos y la falta de
+   un concepto de especie particularmente entre los procariotas.^[382]​
 --
    contribuido a comprender mejor la fisiología y ecología de estos
    organismos y a facilitar la investigación de su la taxonomía y
@@ -733,12 +859,32 @@ Selección sexual y altruismo[editar]
    la endosimbiosis postula que la evolución de las primeras células
    eucariotas es el resultado de la incorporación permanente en una célula
    hospedadora arqueana de lo que fueron células procariotas
+   fisiológicamente diferentes y autónomas. De acuerdo con este concepto,
+   las mitocondrias han evolucionado a partir de una antigua
+   alfaproteobacteria aerobia, mientras que los cloroplastos provienen de
+   células procariotas del tipo de las cianobacterias. También es probable
 --
    Según la hipótesis fagotrófica, la pérdida de la pared celular que
    permitió la fagocitosis también podría haber permitido la reproducción
    sexual muy tempranamente en la historia de la evolución biológica, ya
    que no se tienen registros de que haya existido eucariontes primitivos
    asexuales. El citoesqueleto, los motores moleculares y el sistema de
+   endomembranas también facilitan la reproducción sexual. Es así como la
+   reproducción sexual evolucionó hasta el proceso que es hoy, esto es,
+   meiosis seguida de fertilización; y se producen gametos (el producto de
+   la meiosis) en las eucariontes más primitivos que existen en la
+--
+   "genes móviles", el plásmido F.^[400]​ Por otra parte se ha planteado
+   que el ciclo celular moderno, por el cual la mitosis, la meiosis y el
+   sexo ocurren en todos los eucariotas, evolucionó debido al equilibrio
+   alcanzado por los virus, que característicamente siguen un patrón de
+   compensación entre infectar a tantos huéspedes como sea posible y matar
+--
+
+   Una tercera teoría menos aceptada, dice que el sexo podría haber
+   evolucionado como una forma de canibalismo. Un organismo primitivo se
+   comió a otro pero, en lugar de digerirlo completamente, parte del ADN
+   del organismo 'comido' se habría incorporado al organismo
 --
    más las características ambientales generadas por las acciones
    ecológicas de los antepasados.^[406]​ Otros ejemplos de heredabilidad
@@ -790,6 +936,15 @@ Experimentos y estudios sobre el proceso evolutivo[editar]
    propiciado por la rápida reproducción de estos microorganismos. Lenski
    estableció varios subcultivos a partir de una cepa de Escherichia coli,
 --
+   comenzaron a consumir el citrato presente en el medio DM y que E. coli
+   no es normalmente capaz de metabolizar. Por lo tanto, las bacterias en
+   ese subcultivo evolucionaron para adaptarse y crecer mejor en las
+   condiciones de su ambiente.Otro cambio evolutivo importante se produjo
+   pasadas veinte mil generaciones: las bacterias de un segundo subcultivo
+--
+   investigaron diferentes microorganismos: Pseudomonas fluorescens,
+   Myxococcus xanthus, e incluso levaduras. En todos ellos se encontraron
+   resultados parecidos: los microorganismos cambiaban, evolucionaban y se
    adaptaban a las condiciones del cultivo.^[cita requerida]
 
   Simulación computarizada del proceso de evolución biológica[editar]
@@ -964,12 +1119,25 @@ Reacciones sociales y culturales[editar]
    cristianos contemporáneos que aceptan la evolución se encuentran el
    biólogo Kenneth Miller y el genetista Francis Collins.^[25]​ El propio
    Darwin usó de ejemplo al botánico Asa Gray y afirmó:
---
+
+   Me parece absurdo dudar de que un hombre pueda ser un ardiente teísta y
+   un evolucionista... Nunca he sido ateo en el sentido de negar la
+   existencia de un Dios.^[476]​
 
    A partir de 1950 la Iglesia católica tomó una posición neutral con
    respecto a la evolución con la encíclica Humani generis del papa Pío
    XII.^[477]​ En ella se distingue entre el alma, tal como fue creada por
    Dios, y el cuerpo físico, cuyo desarrollo puede ser objeto de un
+--
+   actual de las ciencias y la teología― en las investigaciones y
+   disputas, entre los hombres más competentes de entrambos campos, sea
+   objeto de estudio la doctrina del evolucionismo, en cuanto busca el
+   origen del cuerpo humano en una materia viva preexistente ―pero la fe
+   católica manda defender que las almas son creadas inmediatamente por
+   Dios―. Mas todo ello ha de hacerse de manera que las razones de una y
+   otra opinión ―es decir la defensora y la contraria al evolucionismo―
+   sean examinadas y juzgadas seria, moderada y templadamente; y con tal
+   que todos se muestren dispuestos a someterse al juicio de la Iglesia, a
 --
 
    Por otro lado, la encíclica no respalda ni rechaza la creencia general
@@ -1060,6 +1228,7 @@ Véase también[editar]
        evolutiva?». En Amparo Latorre, Andrés Moya, ed. La evolución de un
        evolucionista: escritos seleccionados (Edición digital edición).
        Universitat de València. ISBN 9788437086828. OCLC 992115199.
+   324. ↑ López Martínez, N. y Truyols Santonja, J. (1994). Paleontología.
 --
    376. ↑ ^a ^b Hall, B. K. (1999) Evolutionary developmental biology.
        Kluwer Academic, Dordrecht. ISBN 0-412-27550-3
@@ -1106,6 +1275,12 @@ Véase también[editar]
    447. ↑ Para la historia de la eugenesia y la evolución, ver Kevles,
        Daniel (1998). In the Name of Eugenics: Genetics and the Uses of
        Human Heredity. Harvard University Press. ISBN 978-0-674-44557-4.
+--
+       www.marxists.org. Consultado el 12 de septiembre de 2022.
+   463. ↑ Mocek, Reinhard (12 de septiembre de 2014). Socialismo
+       revolucionario y darwinismo. Ediciones AKAL. p. 73.
+       ISBN 978-84-460-4065-1. Consultado el 31 de diciembre de 2020.
+   464. ↑ «Soviet Biology». www.marxists.org. Consultado el 31 de
 --
        Darwin de los colegios italianos». Archivado desde el original el
        29 de agosto de 2011. Consultado el 2 de mayo de 2009.
@@ -1163,7 +1338,7 @@ Véase también[editar]
      * Moya, A. (1989): Sobre la estructura de la teoría de la evolución.
        Editorial Anthropos, S.A. - Servicio Editorial de la Univ. del País
        Vasco. Nueva ciencia, 5. 174 págs. ISBN 84-7658-154-8
---
+     * Templado, J. (1974): Historia de las teorías evolucionistas.
        Editorial Alhambra, S.A. Exedra, 100. 170 págs. Madrid ISBN
        84-205-0900-0
      * VV. AA. (1978 [1979]): Evolución. Barcelona: Labor (Libros de
@@ -1207,7 +1382,7 @@ Enlaces externos[editar]
 
    Obtenido de
    «https://es.wikipedia.org/w/index.php?title=Evolución_biológica&oldid=1
-   55294722»
+   55684422»
 
 --
      * Paleontología

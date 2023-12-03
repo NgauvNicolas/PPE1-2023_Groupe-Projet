@@ -1,56 +1,241 @@
-   #Sosteniblepedia (es) Canal Atom de Sosteniblepedia
 
-Evolución
 
-   De Sosteniblepedia
-   Ir a la navegación Ir a la búsqueda
+   Tiempo y evolución*
 
-   Según el diccionario de la Real Academia Española, evolución es la
-   acción y efecto de desarrollarse o de transformarse las cosas pasando
-   gradualmente de un estado a otro. Cualquier movimiento, cambio o
-   transformación, mudanza de conducta, de propósito o de actitud se
-   considera “evolución”. Las diversas disciplinas le han dado al concepto
-   diferentes acepciones.
-
-   Para la antropología, evolución cultural son las modificaciones
-   culturales en una dirección dada a través de un cambio social
-   persistente. Se refiere asimismo a la evolución específica como el
-   conjunto de cambios característicos de culturas específicas; a la
-   evolución multilineal como el conjunto de modificaciones
-   características solo de culturas parecidas; y a la evolución unilineal
-   como la evolución de las formas sociales en una secuencia universal y
-   ordenada.
-
-   Para la biología, la evolución divergente o radiante es el proceso de
-   desarrollo evolutivo según el cual se originan varias líneas de
-   modificación progresiva a partir de una forma originaria común.
-
-   En el marco de esta disciplina se inscribe la “Teoría de la evolución
-   humana” (u hominización), que se refiere al proceso de evolución de la
-   especie humana, desde sus ancestros hasta el estado actual, y la
-   considera como un conjunto de transformaciones o cambios a través del
+   Time and evolution
 --
-   excepción del Homo sapiens.
 
-   La palabra evolución para describir tales cambios fue aplicada por
-   primera vez en el siglo XVIII por el biólogo suizo Charles Bonnet [1]
-   en su obra Consideration sur les corps organisés. No obstante, el
+   En este trabajo se intenta mostrar el problema del tiempo evolutivo en
+   dos posibles concepciones. Por una parte, ya sea que la evolución se
+   entienda como microevolución (cambio de frecuencias génicas) o
+   macroevolución (especiación), el concepto de tiempo usado, en general,
+   es el cronométrico, es decir, el tiempo que mide el reloj (meses, años,
+   miles de años, etc.). Esto quiere decir que el tiempo es considerado
+   como una variable independiente de los procesos biológicos. Sus fases
+   temporales simplemente se suceden las unas a las otras. Pero, por otra
+   parte, hay otra manera de entender el tiempo. Si la evolución es un
+   proceso de una unidad evolutiva, entonces el cambio evolutivo consiste
+   en la modulación de una serie de fases de una unidad que perdura. Es el
 --
-   origen de las especies. Sin embargo, fue el propio Darwin, en 1859,
-   quien sintetizó un cuerpo coherente de observaciones que consolidaron
-   el concepto de la evolución biológica en una verdadera teoría
-   científica.
+   poblaciones, especies, etc.) y cómo son concebidas temporalmente.
 
-   La evolución como una propiedad inherente a los seres vivos,
-   actualmente no es materia de debate entre la comunidad científica
-   relacionada con su estudio.
+   Palabras clave: tiempo, evolución, unidad evolutiva, tiempo
+   cronométrico, tiempo cualitativo.
+   _______________________________________________________________________
 --
-   y, en última instancia, de nuevas especies.
 
-   Actualmente, la teoría de la evolución combina las propuestas de Darwin
-   y Wallace con las leyes de Mendel y otros avances posteriores en la
-   genética, por eso se la denomina síntesis moderna o “teoría sintética”.
-   Obtenido de
-   «https://www.sosteniblepedia.org/index.php?title=Evolución&oldid=1952»
 
-Menú de navegación
+   SE PODRíA DECIR, sin ánimo de ser preciso, que la evolución es el
+   cambio de los seres vivos en el tiempo. Desde luego, habría que
+   precisar dos problemas en esta definición. Por una parte, habría que
+   atender a qué nivel o niveles de organización de los seres vivos hay
+   que mirar para entender aquello que evoluciona. éste es un problema
+   que, en líneas generales, ha sido estudiado por biólogos y filósofos,
+   aunque ya veremos hasta qué punto. Por otra parte, hay que meditar cuál
+   es la concepción de "tiempo" que se tiene del proceso evolutivo. El
+   tiempo en evolución es algo en que no se suele meditar. En este escrito
+   pretendo mostrar el "problema" de la concepción del tiempo en
+   evolución, su carácter problemático más que su posible solución. Para
+   ello, en primer lugar, hay que atender brevemente a cómo se ha
+   entendido el fenómeno evolutivo. Sin esto, cualquier especulación
+   caería en el vacío. En segundo lugar, como el tiempo está relacionado
+   con aquello que evoluciona, hay que meditar qué es lo que evoluciona.
+   En tercer lugar, hay que revisar cuál o cuáles podrían ser las posibles
+   unidades evolutivas. Sólo entonces, en cuarto lugar, podremos intentar
+--
+   brevemente dos de las respuestas que se han dado sobre este problema:
+
+   a) Ante todo, podría decirse que evolución es esencialmente
+   especiación, es macroevolución. Así parecen entenderla Mahner y Bunge
+   cuando nos dicen: "Para que un cambio cualitativo se
+   considere evolutivo, debemos asumir finalmente que consiste en
+--
+   348). Para que exista un cambio evolutivo deben emerger, entonces,
+   propiedades nuevas que constituyan una nueva especie. Esto nos lleva a
+   entender la evolución como un proceso de cambios a nivel de especie,
+   distintos de los que ocurren en cada organismo individual (ontogenia).
+   Esta conceptuación nos lleva a pensar que la biología evolutiva debe
+   estudiar "el origen de las especies", es decir, qué es lo que ha
+   ocurrido en la filogenia. una definición semejante nos da Maynard
+   Smith. "El estudio de la evolución se ocupa de cómo, a lo largo de la
+   dilatada historia de vida en este planeta, se han adaptado los
+   diferentes animales y plantas a diferentes condiciones, y a diferentes
+--
+   macroevolutivo? El cambio macroevolutivo, así entendido, no parece
+   fruto de una inmediata descripción, nadie estuvo allí, por ejemplo,
+   para ver cambiar los reptiles en aves. La macroevolución es, así, no un
+   hecho, sino una teoría que debe explicar ciertos hechos. una ciencia,
+   que se precie de tal, no puede hacer de su "inmediato" objeto de
+--
+   ejemplo, de las partículas elementales, sino, en rigor, de los hechos
+   que "podrían" ser explicados con esa teoría de partículas. Es lo que
+   ocurre también en la ma-croevolución. Por ello, tal estudio no pretende
+   partir de la nada, sino de al menos dos hechos: el hallazgo de fósiles,
+   y la unidad y diferencia de los seres vivos actuales, lo que llamo
+--
+
+   b) Por otra parte, podríamos considerar los cambios que ocurren entre
+   generaciones de organismos y llamar a eso evolución (Futuyma, 2005: 2).
+   Aquí, los cambios se miden en la variación de las frecuencias génicas,
+   geno-típicas o fenotípicas en una población. Es lo que constituye la
+   microevolu-ción. Estos cambios pueden observarse ya de una generación a
+   otra y hacen de esta definición de evolución algo más fenoménico que la
+   macroevolu-ción. Aquí hay, entonces, dos posibilidades de mirar el
+   fenómeno evolutivo que no son necesariamente excluyentes.
+--
+   egoísta. Así, nos dice: "Si los grupos compiten con otros grupos y si
+   los grupos de altruistas lo hacen mejor que los grupos de individuos
+   egoístas, entonces el altruismo puede evolucionar y mantenerse" (1996:
+   155). Pero existe otra solución. Podría interpretarse el altruismo como
+   una selección de parentesco. Como se piensa que el altruismo es
+--
+   el pensamiento de Dawkins. Para él, la unidad de selección es el gen
+   (no el individuo), ya que éste es el que se beneficia y hereda en la
+   evolución. El individuo no es más que el "vehículo" donde se
+   transportan los genes. Así, Dawkins nos dice: "La unidad fundamental de
+   selección, y por tanto del egoísmo, no es la especie ni el grupo, ni
+--
+   considerarse los espermatozoides, los organismos, etc. Se establece,
+   así, toda una jerarquía de interactores y replicadores, en el fondo, de
+   unidades de selección, donde la evolución puede darse a distintos
+   niveles.
+
+--
+   2) Ser heredable celularmente, es decir, pasar de padres a hijos por
+   los procesos celulares (no, por ejemplo, por herencia cultural).
+   Decíamos que la microevolución es un cambio entre generaciones. una
+   unidad que no pasara más allá de una generación sería un cambio
+   ontogenético, pero no evolutivo. Pero entendamos aquí qué significa ser
+--
+   de ser). Segundo, el "despliegue procesual" en fases, un cambio que se
+   mani-festa dentro de una misma unidad. Hay que averiguar qué tipo de
+   cambio es la evolución. Ahora bien, como la unidad evolutiva cambia,
+   este cambio lleva implícito un carácter temporal. Se trata de
+   averiguar, entonces, en este escrito, qué tipo de tiempo está implícito
+--
+   el caso de un cambio puramente transformativo. Esto no quiere decir,
+   repito, que el tiempo evolutivo por excelencia sea el tiempo
+   cualitativo. Perfectamente la evolución podría ser un mero cambio
+   extrínseco. Es justo lo que hay que averiguar. Para meditar esto,
+   tenemos que empezar a pensar el tiempo evolutivo en algunas posibles
+--
+   transformación es un tipo de cambio, pero uno muy extrínseco. También
+   un perro, por ejemplo, cuando muere se transforma, pero ¿es esto
+   evolución? Habría que meditarlo. Ahora bien, hay otra posibilidad de
+   pensar esto: tomar el cambio en términos de "frecuencia poblacional" de
+   genes. Lo que cambia no es el gen, sino su frecuencia. Aquí hay que
+--
+   2. Otra unidad posible son las partes o momentos individuales del
+   organismo, ya sean sus fenotipos o funciones. Así, se habla de la
+   evolución del cerebro, del sistema digestivo, del sistema respiratorio,
+   etc. Pero estas partes o momentos, "individualmente considerados",
+   claramente no evolucionan en y por sí mismos. No existe un cerebro
+   individual, por ejemplo, que "por sí solo" vaya pasando de generación
+   en generación. Sin embargo, podrían considerarse tales partes como
+--
+
+   3. Una tercera unidad posible es el organismo entero. Pero, los cambios
+   en el organismo, decíamos, constituyen el desarrollo y no la evolución.
+   Los organismos "enteros" no pasan a la descendencia. un caso
+   problemático son los organismos unicelulares. Cuando la célula madre se
+--
+   de la madre? ¿Dónde termina el desarrollo de un organismo unicelular?
+   No es claro esto en los organismos unicelulares. Lo que sí es claro,
+   por definición, es que evolución no es el cambio de los organismos
+   pluricelulares enteros.
+
+--
+   significar lo "común" a muchos individuos. Es el concepto "tipológico"
+   de especie. El problema de este concepto es que lo expresado en él "no
+   puede evolucionar". Bajo el influjo de Darwin, Ernst Mayr propuso un
+   nuevo concepto de especie a partir del aislamiento reproductivo de los
+   organismos. Así, nos dice que "según este concepto [biológico], una
+--
+   "población estadística" es interesante, sobre todo cuando los
+   organismos que constituyen una población poseen características
+   similares. Así, es muy común pensar que la evolución, como ya vimos, es
+   un cambio en la frecuencia de genes o fenotipos poblacionales. Pero
+   entendido así sin más, un cambio de frecuencia es un cambio donde la
+--
+   las poblaciones como sistema social. Veíamos también que hay unidades
+   cuyas frecuencias génicas y fenotípicas (que estudia la
+   mi-croevolución) deben ser consideradas sólo en el tiempo cronométrico.
+   De ningún modo hay que descartar que el tiempo evolutivo sea por ello
+   puramente cronométrico. Finalmente, vimos el caso de las especies. La
+--
+   ‘puntuado’ es una teoría sobre el proceso de formación de especies a
+   partir de otras ya existentes (o especiación) en el tiempo geológico.
+   Como tal, trata del ritmo y del modo de la evolución" (1982: 121). Esta
+   teoría, entonces, pretende explicar la es-peciación en el tiempo
+   geológico repensando su ritmo y modo en cierta oposición a como habían
+   sido pensados en la teoría sintética de la evolución. Concentrémonos en
+   el ritmo de especiación, que es el tema donde comparece mejor el
+   problema del tiempo. La teoría sintética de la evolución sostenía,
+   fundada en Darwin, un "gradualismo filogenético", es decir, que la
+   especiación es gradual, a diferencia de lo que propone el "equilibrio
+--
+   Este gráfico nos muestra los tres aspectos que postulábamos de la
+   unidad evolutiva. En primer lugar, la "línea" representa la unidad
+   física que evoluciona. En este caso parece ser la especie. Las unidades
+   de selección pueden ser muchas, pero, en este gráfico, se nos muestra
+   una sola unidad física. En segundo lugar, la línea "continua"
+--
+   Eldredge:
+
+  La evolución produce un cambio continuo, una transformación continua de
+      las poblaciones, y los taxonomistas no hacen más que subdividir
+       abstractamente este flujo continuo de manera arbitraria y hasta
+--
+   (línea horizontal) seguido de una gran estabilidad morfológica en el
+   tiempo geológico (línea vertical). El mismo Eldredge nos lo explica
+   así: "Esta evolución por equilibrios intermitentes [puntuados] sostiene
+   convincentemente la idea de que cada especie es una entidad individual,
+   delimitada en el tiempo por un origen, una historia y un final" (1983:
+--
+   alternativas a lo que plantean, de algún modo, Gould y Eldredge.
+   Margalef (1998: 173), pensando en estas mismas características de la
+   especiación, sostenía que la evolución consiste en una acumulación de
+   "información", tal como ocurre en un organismo individual y en un
+   ecosistema. Esto permitiría establecer diversas fases cualitativas.
+--
+   Para "ver" la especie hay que tener presente a los organismos actuales
+   o fósiles y mirarlos por el lado en que sus "estructuras" son
+   heredables. Cuando decimos, por ejemplo, que el cerebro evoluciona o
+   que varía la frecuencia de un color de ojos, se trata de mirar estos
+   cambios por el lado en que son precisamente un momento (no una parte
+--
+   heredabilidad de los caracteres que permite, con cierta
+   convencionalidad, formar todos los conceptos taxonómicos. Los cambios
+   morfológicos (macroevolución) y de frecuencia (microevolución) se
+   refieren, ambos, al momento "especial" del organismo. Es un problema
+   que hay que seguir meditando.
+--
+   entendido, es la mejor apuesta para un tiempo evolutivo cualitativo.
+   Sin embargo, ni aun pensado así, parece que la especiación sea un
+   proceso de modulación de fases. Si ello no ocurre, la evolución sólo
+   estudiaría cambios "especiales" puramente sucesivos en el tiempo
+   cronométrico, como la medición de las frecuencias en microevolución y
+   de los cambios morfológicos en macroevolución. Si es así, la evolución,
+   tal vez, no tiene mucho sentido como proceso "propiamente biológico" y
+   no meramente físico (sucesivo). Ha sostenido Dobzhansky, en el título
+   de un artículo (1973), que "nada en biología tiene sentido sino a la
+   luz de la evolución" Pero, quizá, la misma evolución, "como teoría del
+   cambio", posea poco sentido biológico y no sea otra cosa que el cambio
+   de los seres vivos, pero considerados sólo por el momento en que son
+--
+   general. Madrid: Alianza.
+
+   Eldredge, N. (1983). "La macroevolución". Mundo Científico, Nº 16,
+   792-803. Futuyma, D. (2005). Evolution. Sunderland, MA: Sinauer
+   Associates, Inc.
+
+   Gould, S. (1982). "El equilibrio puntuado y el enfoque jerárquico de la
+   macroevolución". Revista de Occidente 18-19, 121-48.
+
+   Hull, D. (1980). "Individuality and Selection". Annual Review of
+--
+   J. Agusti (eds.), El progreso. Barcelona: Tusquets.
+
+   Maynard Smith, J. (1984). La teoría de la evolución. Madrid: Blume.
+
+   Mayr, E. (1998). Así es la biología. Madrid: Debate.
