@@ -1,403 +1,386 @@
-   #alternate alternate alternate
+    #alternate alternate alternate
 
-   Skip to content
+   Saltar al contenido
 
-   Concepto
+   ______________________________
+   [Este sitio web]
+   Buscar
 
-   Concepto
+   (BUTTON) Toggle navigation [logoSec.png]
+   (BUTTON) ES
+     * ES
+     * EU
 
-   © 2013-2023 Enciclopedia Concepto. Todos los derechos reservados.
-
-     * Índice
-          + a
-          + b
-          + c
-          + d
-          + e
-          + f
-          + g
-          + h
-          + i
-          + j
-          + k
-          + l
-          + m
-          + n
-          + o
-          + p
-          + q
-          + r
-          + s
-          + t
-          + u
-          + v
-          + w
-          + x
-          + y
-          + z
-
-   (BUTTON) Índice
-   ____________________ (BUTTON) Buscar
-   (BUTTON)
-   (BUTTON) Primary Menu
-
-     * Ciencias naturales
-          + Animales
-          + Astronomía
-          + Biología
-          + Ecología
-          + Física
-          + Matemática
-          + Química
-     * Cultura y sociedad
+   [logo_hiru.png]
+     * Temas de estudio
+          + Áreas de estudio
           + Arte
-          + Conocimiento
-          + Cultura
-          + Economía y finanzas
-          + Empresas y negocios
-          + Sociedad
-          + Tecnología
-     * Castellano
-          + Lengua
-          + Literatura
-          + Textos
-     * Ser humano
-          + Anatomía
-          + Psicología
-          + Salud
-          + Valores
-     * Ciencias sociales
-          + Derecho
-          + Filosofía
-          + Geografía
-          + Historia
-     * Random
-
-   InicioTecnología
-
-Tecnología
-
-   Te explicamos qué es la tecnología, sus tipos, origen, historia y otras
-   características. Además, su importancia y diversos ejemplos.
-   Tecnología Con la tecnología se inventaron herramientas para mejorar la
-   calidad de vida.
-
-¿Qué es la tecnología?
-
-   La tecnología es el conjunto de nociones y conocimientos científicos
-   que el ser humano utiliza para lograr un objetivo preciso, que puede
-   ser la solución de un problema especifico del individuo o la
-   satisfacción de alguna de sus necesidades.
-
-   Es un concepto amplio que abarca una gran variedad de aspectos y
-   disciplinas dentro de la electrónica, el arte o la medicina. Por
-   ejemplo: La creación de robots para la automatización de tareas
-   repetitivas o la clonación animal.
-
-   Puede servirte: Nanotecnología
-
-Tipos de tecnologías
-
-   La tecnología se puede clasificar de diferentes maneras según las
-   características que se tomen en cuenta.
-
-   Según el tipo de producto:
-     * Tecnologías duras. Utilizan elementos de las ciencias duras como
-       la ingeniería, la mecánica, la matemática, la física, la química.
-       El producto que se obtiene es visible y tangible, es decir, se
-       trata de la producción de bienes materiales. Por ejemplo: la
-       elaboración de un dispositivo móvil.
-     * Tecnologías blandas. Se apoyan sobre las ciencias humanísticas o
-       blandas, como la sociología, la psicología, la economía. Por lo
-       general, se las utiliza para mejorar procesos y lograr mayor
-       eficiencia en instituciones o empresas. El producto que se obtiene
-       no es visible ni tangible, dado que consiste en la elaboración de
-       servicios, estrategias, teorías. Por ejemplo: la elaboración de un
-       software.
-
-   Según el sociólogo estadounidense James David Thompson:
-     * Tecnologías flexibles. Son utilizadas en distintas áreas, es decir,
-       poseen varios usos. Por ejemplo: el microchip que se utiliza en
-       teléfonos y computadoras.
-     * Tecnologías fijas. Se utilizan para la producción de un determinado
-       producto, o en un área determinada. Son tecnologías diseñadas y
-       producidas con un solo fin. Por ejemplo: el veneno para ratas se
-       utiliza solo para la eliminación de dicho animal.
-
-   Según el nivel de innovación:
-     * Tecnologías de punta. También llamadas “altas tecnologías” o
-       “últimas tecnología”, son tecnologías más avanzadas, disponibles en
-       un determinado lugar y momento.
-     * Tecnologías adecuadas. Son tecnologías que se diseñan teniendo en
-       cuenta el impacto ambiental, social y económico en una determinada
-       sociedad.
-
-   Según su aplicación:
-     * Tecnologías de operación. Se obtienen después de un largo período
-       de tiempo de estudio, observación y experiencia.
-     * Tecnologías de equipo. Son desarrolladas por los fabricantes de un
-       determinado producto.
-     * Tecnologías de producto. Combinan herramientas y conocimientos para
-       producir un determinado producto.
-
-Origen y evolución de la tecnología
-
-   tecnologia fuego historia prehistoria tecnologia fuego historia
-   prehistoria El descubrimiento del uso del fuego fue uno de los primeros
-   avances tecnológicos.
-
-   Instintivamente, desde el inicio de la historia, las personas buscaron
-   desarrollar tecnología (técnicas para mejorar su calidad de vida). Los
-   descubrimientos que ha hecho el hombre a lo largo de los años han ido
-   conformando el mundo tal como se lo conoce hoy en día, por lo tanto, la
-   tecnología existe desde el inicio de la especie, aunque no ha sido
-   llamada como tal sino hasta el siglo XVIII.
-
-   Formalmente hablando, la tecnología tiene su origen cuando la técnica
-   (inicialmente empírica) se empezó a vincular con la ciencia y de esta
-   forma se estructuran los métodos de producción.
-
-   A lo largo de los diferentes períodos de la humanidad ha habido
-   descubrimientos que modificaron la manera en la que el ser humano se
-   relaciona con él mismo y con el medio que lo rodea:
-     * Edad de Piedra (paleolítico, mesolítico y neolítico). Se
-       caracterizó por el uso de la piedra para la fabricación de
-       utensilios y el desarrollo de la agricultura con rudimentarias
-       herramientas para el manejo de la tierra. El descubrimiento del
-       fuego fue una de las primeras tecnologías que brindó beneficios
-       notorios al ser humano.
-     * Edad de los Metales. Se caracterizó por el desarrollo de la
-       agricultura, la domesticación animal y el paso del nomadismo al
-       sedentarismo. Se desarrolló la fundición del cobre, el bronce y el
-       hierro. A la civilización egipcia se le atribuye el descubrimiento
-       del papiro y la alfarería; los romanos desarrollaron una
-       agricultura sofisticada, mejoraron la tecnología del trabajo con
-       hierro y desarrollaron la ingeniería civil y militar; a la
-       civilización china se le atribuye el descubrimiento del papel, el
-       arado de hierro, la brújula, la hélice, la ballesta y la pólvora.
-     * Edad Media. La aparición de la imprenta moderna fue uno de los
-       hitos más importantes dentro de este período.
-     * Revolución Industrial. Fue un período de transformaciones sociales,
-       económicas, tecnológicas y culturales caracterizado por el
-       desarrollo de una economía urbana e industrializada. Uno de los
-       inventos más destacados de esta época fue la máquina de vapor.
-       Durante el siglo XIX surgieron el telégrafo, la bombilla, el
-       teléfono, el automóvil.
-     * Siglo XX. Se dio un gran desarrollo tecnológico con descubrimientos
-       como el avión, la radio, la televisión, el computador, además de
-       importantes progresos en la tecnología nuclear, tecnología aplicada
-       a la medicina y la tecnología espacial. Dentro de este siglo se dio
-       la Revolución de la información y telecomunicación o la Era de la
-       información (1985-2000).
-     * Siglo XXI. El progreso tecnológico (también llamado revolución
-       científico-tecnológica o revolución de la inteligencia) evolucionó
-       rápidamente. La tecnología y las comunicaciones transforman la
-       industria. Las nuevas tecnologías son aquellas que surgen después
-       de la Segunda Guerra Mundial. Su rápido crecimiento e inserción en
-       la sociedad, trajeron importantes consecuencias. El riesgo
-       fundamentalmente está dado en que el ser humano sea capaz de
-       controlarlas y dominarlas.
-
-Importancia de la tecnología
-
-   tecnologia caracteristicas tecnologia caracteristicas La tecnología nos
-   ha permitido acceder a mayores territorios del mundo.
-
-   Los descubrimientos y la aparición de nuevas herramientas producidas a
-   través de la tecnología fueron clave para el desarrollo humano y de las
-   sociedades. La tecnología aporta grandes descubrimientos que permiten
-   mejorar la producción, ahorrar tiempo, aumentar la calidad de vida,
-   facilitar la vida en sociedad, acortar distancias, conocer el planeta.
-
-   La tecnología surgió como una necesidad del hombre de suplir deseos
-   individuales y colectivos utilizando conocimientos científico y
-   técnicas para resolver problemas y satisfacer sus necesidades. Ha
-   permitido al ser humano conocer a fondo el medio que lo rodea y
-   modificarlo para lograr sus fines; a través de los siglos el hombre
-   inventó y modificó herramientas para mejorar su estilo de vida.
-
-   La tecnología ha traído consigo descubrimientos en el plano de la
-   medicina, avances en el acceso a la información, en la comunicación y
-   el transporte, en la simplificación de tareas.
-
-Características de la tecnología
-
-     * Está presente en todos los ámbitos de la vida personal y en
-       sociedad, como el trabajo, la educación, la medicina, la
-       comunicación.
-     * Permite fabricar nuevos objetos: a través de ella, el ser humano
-       modifica el medio que lo rodea.
-     * Es responsable de la mayoría de los descubrimientos del hombre.
-     * Si está bien utilizada mejora la calidad de vida del ser humano, si
-       está mal utilizada puede causar graves daños a los individuos y a
-       la sociedad.
-     * Está sujeta al cambio (los cambios tecnológicos se dan de manera
-       discontinua).
-     * Sus desarrollos implican cambios culturales, laborales y sociales.
-     * El desarrollo tecnológico dispar puede generar brechas sociales y
-       económicas dentro de una comunidad o entre regiones o naciones.
-
-Ejemplos de tecnologías
-
-   tecnologia ejemplo impresora 3d tecnologia ejemplo impresora 3d Las
-   impresoras 3D crean objetos tridimensionales superponiendo capas de
-   materiales.
-     * Robótica. Utiliza herramientas y conocimientos de diversas
-       disciplinas (ingeniería electrónica, ingeniería eléctrica,
-       informática) para el diseño y fabricación de robots. Se espera que
-       estos robots puedan realizar tareas automatizadas y trabajos que
-       resultan rutinarios y tediosos para el ser humano o abaratar costos
-       de producción en las industrias.
-     * Criptomonedas. Son un tipo de divisa digital que utiliza una
-       tecnología de registro distribuido (permite registrar y sincronizar
-       transacciones entre múltiples usuarios en distintas ubicaciones).
-     * Impresión 3D. Es un tipo de impresión por adición que crea de forma
-       eficiente piezas únicas y geometrías complejas en una gran variedad
-       de materiales. A través de la impresión 3D se crea un objeto
-       tridimensional mediante la superposición de las capas de
-       materiales, y se utiliza en gran cantidad de industrias para
-       diferentes usos.
-     * Inteligencia artificial. Implica la creación de máquinas que imitan
-       las funciones cognitivas de los seres humanos. Esta tecnología es
-       utilizada en varias disciplinas como economía, medicina,
-       transporte, software de videojuegos, control de sistemas,
-       reconocimiento de escritura, reconocimiento del habla y
-       reconocimiento de patrones en los asistentes en línea.
-     * Vehículos autónomos. Se utiliza la tecnología para la creación de
-       automóviles sin conductor que están programados para imitar las
-       capacidades humanas de manejo y control. Este tipo de vehículos
-       percibe el entorno mediante sistemas de láser, radares, visión
-       computarizada. Existen varios programas que están poniendo a prueba
-       esta nueva tecnología para ver si puede darse un uso extensivo.
-     * Biotecnología. Es la disciplina que utiliza la tecnología para
-       crear productos a partir de sistemas biológicos y organismos vivos.
-       La biotecnología ha sido la responsable de la creación de vacunas y
-       anticuerpos y se utiliza en medicina, agricultura, industria y
-       cuidado del medio ambiente.
-
-   Puede servirte: Tecnología de la información
-
-Relación entre ciencia y tecnología
-
-   tecnologia ciencia tecnologia ciencia La tecnología utiliza los
-   conocimientos de las ciencias para desarrollar bienes o servicios.
-
-   Con frecuencia se suele confundir el concepto de tecnología con el de
-   ciencia. Por un lado, la ciencia es un conjunto ordenado de
-   conocimientos que se obtienen a través de la observación y la
-   experimentación.
-
-   Por el contrario, la tecnología toma los conocimientos y técnicas
-   provenientes de las diferentes ciencias y los utiliza para desarrollar
-   bienes o servicios tangibles e intangibles que contribuyan al
-   desarrollo humano.
-
-   Mientras la ciencia permite conocer determinados fenómenos, la
-   tecnología se ocupa de combinarlos y modificarlos de manera eficiente
-   para solucionar un problema o satisfacer una necesidad. Por lo cual, la
-   tecnología depende enteramente de la existencia de la ciencia. Los
-   avances científicos también implican nuevas oportunidades de desarrollo
-   tecnológico.
-
-   En las últimas décadas, tomó notoriedad el concepto I+D+I
-   (Investigación, desarrollo e innovación), que combina el estudio
-   científico con el tecnológico.
-
-   Sigue con: Ciencias exactas
-
-Referencias
-
-     * “History of technology” en Science Direct.
-     * “Los tipos de tecnología” en Universidad Internacional de Valencia.
-     * “Technology in the Ancient World” en Encyclopedia Britannica.
-     * “The 50 greatest breathroughs since the wheel” en The Atlantic.
-     * “Tecnologías de registro distribuido” en Fundación Innovación
-       Bankinter.
-
-¿Cómo citar?
-
-   "Tecnología". Autor: Equipo editorial, Etecé. De: Argentina. Para:
-   Concepto.de. Disponible en: https://concepto.de/tecnologia/. Última
-   edición: 12 de agosto de 2022. Consultado: 26 de noviembre de 2023
-
-Sobre el autor
-
-   Editorial Etecé
-   Última edición: 12 agosto, 2022
-   Revisado por Equipo editorial, Etecé
-
-Compartir
-
-     *
-     *
-     *
-     *
-     *
-     *
-
-¿Te fue útil esta información?
-
-   Sí No
-
-   ¿Encontraste algún error?
-   Envíanos tus comentarios y sugerencias.
-
-   ________________________________________
-   ________________________________________
-   ________________________________________
-   Enviar
-
-   ¡Genial! Gracias por visitarnos :)
-
-Índice temático
-
-Sobre el autor
-
-   Editorial Etecé
-   Última edición: 12 agosto, 2022
-   Revisado por Equipo editorial, Etecé
-
-Compartir
-
-     *
-     *
-     *
-     *
-     *
-     *
-
-También te puede interesar
-
-   Campo tecnológico
-
-   Importancia de la tecnología en la vida cotidiana
-
-   Conocimiento técnico
-
-   Tecnología de la información
-
-   Recursos tecnológicos
-
-   Técnica
-
-   Ramas de la ciencia
-
-   Robótica
-
-   ISP
-
-   Ciencias básicas y aplicadas
-
-   Gestión empresarial
-
-   Nanotecnología
-   (BUTTON) Cargar más
-
-   Concepto © 2013-2023 Enciclopedia Concepto. Todos los derechos
-   reservados.
-
-     * Quiénes somos
-     * Política de privacidad
+          + Humanidades y ciencias sociales
+          + Lengua y literatura
+          + Ciencias y tecnología
+          + Vivir mejor
+     * Formación
+          + Recursos de formación
+          + Hirubila: BUSCADOR de formación
+          + Cursos de Idiomas
+          + Cursos abiertos (MOOC)
+     * Hemeroteca
+          + Noticias
+          + Reportajes culturales
+          + Suscripción a noticias
+     * Recursos didácticos
+          + Centro de descargas
+          + Buscador de contenidos educativos
+          + Diccionarios
+          + Mediateca
      * Contacto
+          + Contacte con nosotros
+     * Identifícate
 
-   Una publicación de Editorial Etecé
+   Bizitzaren sorrera. Eboluzioaren teoriaEl origen de la vida. Teoría de
+   la evolución
+
+     * Temas de estudio/
+     * Ciencias y tecnología/
+     * Biología/
+     * Biología: fundamentos/
+     * El origen de la vida. Teoría de la evolución/
+
+   Icon aside
+
+     * Áreas de estudio
+     * Arte
+     * Humanidades y ciencias sociales
+     * Lengua y literatura
+     * Ciencias y tecnología
+          + Biología
+               o Biología: fundamentos
+                    # El origen de la vida. Teoría de la evolución
+                    # Clasificación y filogenia de los seres vivos
+                    # Los niveles de organización de la vida
+               o Bioquímica
+               o La célula
+               o Reproducción y desarrollo
+               o Metabolismo
+               o Zoología
+               o Ecología
+          + Geología
+          + Física
+          + Matemáticas
+          + Química
+          + Tecnologías para la información y la comunicación
+          + Medios de comunicacion
+     * Vivir mejor
+
+     * Áreas de estudio
+     * Arte
+     * Humanidades y ciencias sociales
+     * Lengua y literatura
+     * Ciencias y tecnología
+          + Biología
+               o Biología: fundamentos
+                    # El origen de la vida. Teoría de la evolución
+                    # Clasificación y filogenia de los seres vivos
+                    # Los niveles de organización de la vida
+               o Bioquímica
+               o La célula
+               o Reproducción y desarrollo
+               o Metabolismo
+               o Zoología
+               o Ecología
+          + Geología
+          + Física
+          + Matemáticas
+          + Química
+          + Tecnologías para la información y la comunicación
+          + Medios de comunicacion
+     * Vivir mejor
+
+Más información
+
+   ¿Sabías que...?
+   Linneo
+   Extra
+   Hechos que sostienen la teoría de Darwin
+   Cuvier
+   Jirafa y evolución
+
+El origen de la vida. Teoría de la evolución
+
+   La vida se caracteriza por su diversidad, que se pone de manifiesto en
+   la multitud de formas, estructuras, tipos y funciones presentes en los
+   seres vivos. Al mismo tiempo, frente a esa enorme diversidad se aprecia
+   un criterio de uniformidad en los aspectos más fundamentales y básicos,
+   como son las reacciones químicas, los sistemas de reproducción, la
+   organización celular o los mecanismos genéticos. La teoría de la
+   evolución permite aunar estas dos características, mostrando a los
+   seres vivos como descendientes de una forma fundamental de vida.
+
+El fijismo y el evolucionismo
+
+     * El fijismo considera que las especies han permanecido invariables
+       desde la creación, negando un parentesco entre ellas. Los
+       científicos más destacados que apoyaron esta imagen inmovilista de
+       la naturaleza fueron Linneo y Cuvier.
+     * El evolucionismo considera la existencia de un proceso de evolución
+       mediante el cual los seres vivos se han ido diversificando a partir
+       de un antepasado. La teoría de la evolución constata el hecho de la
+       evolución, relata su historia e intenta explicar sus causas,
+       descifrando los mecanismos biológicos que actúan en la misma. Todos
+       los científicos aceptan hoy en día la teoría de la evolución; la
+       discusión, por tanto, no reside en si hay o no evolución, sino en
+       cómo se produce.
+
+El evolucionismo según Lamarck
+
+   La primera teoría evolucionista suficientemente elaborada fue
+   presentada por el francés Jean-Baptiste de Monet, caballero de Lamarck,
+   en 1809. Las principales ideas lamarquistas pueden resumirse en:
+     * El ambiente produce modificaciones de los caracteres: las
+       condiciones ambientales varían a lo largo del tiempo.
+     * La función crea el órgano: los nuevos hábitos permiten el
+       desarrollo de determinados órganos.
+     * Herencia de los caracteres adquiridos: estas modificaciones,
+       inducidas por el ambiente, son transferidas a la descendencia.
+
+   Lamarck, por tanto, creía que era la necesidad la que producía los
+   cambios evolutivos. Una vez que tenían lugar, dichos cambios serían
+   heredables.
+
+   La corriente lamarquista del siglo XX (neolamarquismo), intenta
+   conciliar los principios de la herencia de los caracteres adquiridos
+   con la genética: las mutaciones no se producen al azar, sino que están
+   relacionadas con los cambios producidos por el esfuerzo para adaptarse
+   al ambiente. Sin embargo, la mayoría de los científicos actuales
+   considera inviable que un carácter adquirido mediante el esfuerzo
+   individual pueda alterar el ADN y hacerse hereditario.
+
+Evolucionismo según Darwin
+
+   En 1859, el inglés Charles Darwin propuso una nueva teoría de la
+   evolución, recogida en su libro El origen de las especies. Un año antes
+   había publicado una serie de artículos junto a Alfred Wallace,
+   investigador que había llegado independientemente a las mismas
+   conclusiones que Darwin.
+
+   Los mecanismos evolutivos propuestos por Darwin se resumen en las
+   siguientes ideas:
+     * No todos los individuos de una especie son idénticos. Existe una
+       variabilidad de la descendencia que se transmite genéticamente.
+     * Entre los individuos hay una lucha por la existencia, y sólo
+       sobreviven aquellos cuyas variaciones los hacen más aptos
+       (supervivencia del más apto). De esta manera, las variaciones
+       favorables se preservan. Esta idea fue denominada selección
+       natural.
+     * La acumulación de diferencias adaptativas va produciendo el cambio
+       de unas especies a otras.
+
+   Esta teoría se formuló sin fundamentos genéticos que explicaran el
+   origen de la variabilidad y los mecanismos de transmisión hereditaria
+   de la misma. Los trabajos realizados por Mendel años antes sobre la
+   herencia habían pasado desapercibidos para la comunidad científica. Fue
+   a raíz del redescubrimiento de dichos trabajos cuando la teoría
+   darwinista sufrió ciertas modificaciones, fundamentadas en la
+   comprensión de la genética, dando lugar al neodarwinismo o teoría
+   sintética de la evolución.
+
+   La teoría sintética de la evolución integra la genética mendeliana y la
+   selección natural de Darwin, proponiendo además los siguientes
+   mecanismos:
+     * En las poblaciones existe una variabilidad genética, originada por
+       mutación y por los procesos de recombinación genética.
+     * La selección natural elimina a aquellos individuos que por su
+       información genética son menos aptos. Las características,
+       determinadas genéticamente, que tienen valor adaptativo son
+       seleccionadas y se transmiten a la generación siguiente.
+     * Las especies son conjuntos de poblaciones que poseen un fondo
+       genético común y que son capaces de reproducirse entre sí. El
+       conjunto de genes, con las nuevas combinaciones que pueden
+       producirse por mutación o recombinación, se ve sometido a la
+       selección natural y determina las características de las
+       poblaciones en cada momento, según las condiciones ambientales.
+
+   Enviar
+   Corregir
+   Derechos
+
+   Enviar la página por correo a
+   Nombre*: ____________________ Correo electrónico*: ____________________
+   Tu nombre*: ____________________ Tu correo*: ____________________
+   Código de seguridad*: ____________________ Texto de verificación*:
+   ____________________ Tu Comentario*: <
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   Enviar * Campos obligatorios
+
+   Revise los campos del formulario
+
+   Muchas gracias.
+   El artículo ha sido enviado correctamente. [BUTTON Input] (not
+   implemented)_______
+   cerrar ventana
+   ¡Ayúdanos a mejorar! Tu opinión es importante, por lo que agradecemos
+   que nos envíes tus opiniones y sugerencias a info@hiru.eus
+   Nombre: ____________________ Correo electrónico: ____________________
+   Código de seguridad*: ____________________ Texto de verificación*:
+   ____________________ Sugerencia:
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   Enviar * Campos obligatorios
+
+   Revise los campos del formulario
+   cerrar ventana
+
+
+   ¿Qué son los iconos de "Compartir"?
+
+   Todos los iconos apuntan a servicios web externos y ajenos a HIRU.com
+   que facilitan la gestión personal o comunitaria de la información.
+   Estos servicios permiten al usuario, por ejemplo, clasificar ,
+   compartir, valorar, comentar o conservar los contenidos que encuentra
+   en Internet.
+
+   ¿Para qué sirve cada uno?
+     * facebook
+       Facebook
+       Comparte con amigos y otros usuarios fotos, vídeos, noticias y
+       comentarios personales, controlando la privacidad de los mismos.
+
+     * eskup
+       Eskup
+       Conversa sobre los temas que te interesan y que proponen los
+       expertos. Todo ello en 280 caracteres con fotos y vídeos. Lee,
+       pregunta e infórmate.
+
+     * delicious
+       Twitter
+       Contacta y comparte con amigos, familiares y compañeros de trabajo
+       mensajes cortos (tweets) de no más de 140 caracteres.
+
+     * tuenti
+       Tuenti
+       Conéctate, comparte y comunícate con tus amigos, compañeros de
+       trabajo y familia.
+
+     * technorati
+       Google Buzz
+       Comparte tus novedades, fotos y vídeos con tus amigos e inicia
+       conversaciones sobre los temas que te interesan.
+
+     * meneame
+       Meneame
+       Sitio web que se sirve de la inteligencia colectiva para dar a
+       conocer noticias. Los usuarios registrados envían historias que los
+       demás usuarios del sitio pueden votar.
+
+
+
+   cerrar ventana
+
+   Derechos de reproducción de la obra
+
+          Los derechos de propiedad intelectual de la web hiru.eus y de
+          los distintos elementos en ella contenidos son titularidad del
+          Departamento de Educación, Universidades e Investigación del
+          Gobierno Vasco.
+
+          No obstante, se permite el uso de los contenidos de hiru.eus en
+          el ámbito educativo, siempre que se haga referencia y bajo las
+          condiciones de licencia Creative Commons CC-BY-NC-SA.
+          Para más información: descarga el PDF (969,4k) .
+
+          El Departamento de Educación, Universidades e Investigación del
+          Gobierno Vasco se reserva la facultad de efectuar, en cualquier
+          momento y sin necesidad de previo aviso, modificaciones y
+          actualizaciones sobre la información contenida en su web o en su
+          configuración o presentación.
+
+          El Departamento de Educación, Universidades e Investigación del
+          Gobierno Vasco no garantiza la inexistencia de errores en el
+          acceso a la web, en su contenido, ni que éste se encuentre
+          oportunamente actualizado, aunque desarrollará los esfuerzos
+          precisos para evitarlos y, en su caso, subsanarlos o
+          actualizarlos a la mayor brevedad posible.
+
+          Tanto el acceso a la web, como el uso que pueda hacerse de la
+          información contenida en el mismo son de la exclusiva
+          responsabilidad de quien lo realiza. El Departamento de
+          Educación, Universidades e Investigación del Gobierno Vasco no
+          responderá de ninguna consecuencia, daño o perjuicio que
+          pudieran derivarse de dicho acceso o uso de información, con
+          excepción de todas aquellas actuaciones que resulten de la
+          aplicación de las disposiciones legales a las que deba someterse
+          en el estricto ejercicio de sus competencias.
+
+          El Departamento de Educación, Universidades e Investigación del
+          Gobierno Vasco no asume responsabilidad alguna derivada de la
+          conexión o contenidos de los enlaces de terceros a los que se
+          hace referencia en la web.
+
+          La utilización no autorizada de la información contenida en esta
+          web, el uso indebido de la misma, así como los perjuicios y
+          quebrantos ocasionados en los derechos de propiedad intelectual
+          e industrial del Departamento de Educación, Universidades e
+          Investigación del Gobierno Vasco dará lugar al ejercicio de las
+          acciones que legalmente le correspondan a dicha Administración
+          y, en su caso, a las responsabilidades que de dicho ejercicio se
+          deriven.
+
+            Privacidad
+
+          Los datos aportados por la persona interesada se utilizarán, con
+          carácter único y exclusivo, para los fines previstos en el
+          procedimiento o actuación que se trate.
+
+          El órgano responsable del fichero donde se recogen dichos datos
+          es la Dirección de Aprendizaje Permanente del Departamento de
+          Educación, Universidades e Investigación del Gobierno Vasco,
+          ante quién podrán ejercerse los derechos de acceso,
+          rectificación, cancelación y oposición. Para tal fin contacta
+          con info@hiru.eus.
+
+   cerrar ventana
+     * Biología: fundamentos
+          + El origen de la vida. Teoría de la evolución
+          + Clasificación y filogenia de los seres vivos
+          + Bizitzaren antolamendu-mailak
+
+   Aviso legal - 2016 ©
+   Logo gobierno Pais Vasco
+   Logo gobierno Pais Vasco
+
+   Temas de estudio
+     * Áreas de estudio
+     * Arte
+     * Humanidades y ciencias sociales
+     * Lengua y literatura
+     * Ciencias y tecnología
+     * Vivir mejor
+
+   Formación
+     * Recursos de formación
+     * Hirubila: BUSCADOR de formación
+     * Cursos de Idiomas
+     * Cursos abiertos (MOOC)
+
+   Hemeroteca
+     * Noticias
+     * Reportajes culturales
+     * Suscripción a noticias
+
+   Recursos didácticos
+     * Centro de descargas
+     * Buscador de contenidos educativos
+     * Diccionarios
+     * Mediateca
+
+   Contacto
+     * Contacte con nosotros
+
+   Logo gobierno Pais Vasco

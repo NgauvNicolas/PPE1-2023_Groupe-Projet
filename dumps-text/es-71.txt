@@ -1,230 +1,169 @@
-   You need to enable JavaScript to run this app.
+   #alternate alternate
 
-   IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PZGTJJ2&pageData[catego
-   ryLevel1]=ACTUALIDAD&pageData[categoryLevel2]=Ciencia y
-   Ecolog%C3%ADa&pageData[contentTitle]=Cient%C3%ADficos descubren una
-   nueva "ley de la naturaleza" que describe c%C3%B3mo evolucionan todas
-   las
-   cosas&pageData[contentLanguage]=28&pageData[pageOID]=67143083&pageData[
-   contentType]=1&pageData[date]=20231018&pageData[regions][0]=global::&pa
-   geData[topicIds][0]=19990033&pageData[pageSID]=7577&pageData[department
-   Name]=Spanisch&pageData[categoryType]=1&pageData[displayForm]=5&pageDat
-   a[level1ID]=615873&pageData[environment]=WEBAPP_LIVE&pageData[pageUrl]=
-   https://www.dw.com/es/cient%C3%ADficos-descubren-una-nueva-ley-de-la-na
-   turaleza-que-describe-c%C3%B3mo-evolucionan-todas-las-cosas/a-67143083&
-   pageData[metaRegions]=Global&pageData[metaTopics]=Wissenschaft
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MMVM77
 
-    1. Ir al contenido
-    2. Ir al menú principal
-    3. Ir a más sitios de DW
+   Omita y vaya al Contenido
 
-     * Últimos videos
-     * Últimos audios
+   Un sitio oficial del Gobierno de Estados Unidos
 
-Regiones
+   Así es como usted puede verificarlo
+   (BUTTON) Así es como usted puede verificarlo
 
-     * América Latina
-     * Norteamérica
-     * Europa
-     * Alemania
+   Los sitios web oficiales usan .gov
+   Un sitio web .gov pertenece a una organización oficial del Gobierno de
+   Estados Unidos.
 
-Temas
+   Los sitios web seguros .gov usan HTTPS
+   Un candado ( Locked padlock icon
+   ) o https:// significa que usted se conectó de forma segura a un sitio
+   web .gov. Comparta información sensible sólo en sitios web oficiales y
+   seguros.
 
-     * Salud
-     * Migración
-     * Derechos Humanos
-     * Ecología
+   Institutos Nacionales de la Salud Biblioteca Nacional de Medicina
+   MedlinePlus Información de salud para usted
+   (BUTTON) Menú
+     * Temas de salud
+     * Medicinas y suplementos
+     * Genética
+     * Pruebas médicas
+     * Enciclopedia médica
+     * Acerca de MedlinePlus
 
-Secciones
+   (BUTTON) Búsqueda
+   Busque en MedlinePlus ________________________________________
+   (BUTTON) BUSCAR
+     * Acerca de MedlinePlus
+     * Qué hay de nuevo
+     * Índice
+     * Contáctenos
 
-     * Política
-     * Economía
-     * Cultura
-     * Historia
-     * Ciencia y Ecología
-     * Deportes
-     * Panorama
+     * Temas de salud
+     * Medicinas y suplementos
+     * Genética
+     * Pruebas médicas
+     * Enciclopedia médica
 
-   TV en vivo
-   Últimos audiosÚltimos videos
-   Destacados
-   Cambio de gobierno en Argentina
-   Conflicto Israel - Hamás
-   CienciaGlobal
+   English
+   Usted está aquí:
+   Página Principal →
+   Genética →
+   Cómo entender la genética →
+   Variantes y la salud →
 
-Hallan ley perdida de la naturaleza que amplía la evolución
+   ¿Cómo se involucran las variantes genéticas en la evolución?
 
-   18/10/202318 de octubre de 2023
+   Usted esta aquí:
+   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
+   evolucion/
 
-   Un nuevo estudio revela la existencia de una "ley perdida" que podría
-   explicar la evolución de sistemas en todo el universo, desde estrellas
-   hasta sustancias químicas y vida.
-   https://p.dw.com/p/4Xiyx
-   Destacados científicos y filósofos identifican la ley evolutiva que
-   falta en la naturaleza. Destacados científicos y filósofos identifican
-   la ley evolutiva que falta en la naturaleza.Imagen: Filip Fuxa/Design
-   Pics/IMAGO
-   Publicidad
+¿Cómo se involucran las variantes genéticas en la evolución?
 
-   En 1859, el naturalista británico Charles Darwin sacudió el mundo
-   científico con su teoría revolucionaria de la evolución, presentada en
-   su influyente obra "El origen de las especies". Darwin propuso que las
-   especies biológicas cambian con el tiempo a través de la adquisición de
-   rasgos que mejoran la supervivencia y la reproducción. Este concepto
-   transformador desencadenó una revolución en el pensamiento científico.
+   Para usar las funciones de compartir de esta páginas, por favor,
+   habilite JavaScript.
 
-   Hoy, 164 años después, un grupo de nueve eminentes científicos y
-   filósofos ha propuesto una nueva ley de la naturaleza. Esta ley,
-   descrita en un artículo publicado en la revista Proceedings of the
-   National Academy of Sciences (PNAS), va más allá de la evolución
-   biológica descrita por Darwin y abarca un fenómeno mucho más amplio que
-   se manifiesta a nivel de átomos, minerales, atmósferas planetarias,
-   planetas, estrellas y más. Según esta nueva perspectiva, los sistemas
-   naturales complejos evolucionan hacia estados de mayor patrón,
-   diversidad y complejidad.
+   La evolución es el proceso por el cual las poblaciones de organismos
+   cambian a través de las generaciones. Las variaciones genéticas son las
+   causas de estos cambios. Estas variantes pueden surgir de variaciones
+   genéticas (también llamadas mutaciones) o de un proceso normal en el
+   que el material genético se reordena a medida que una célula se prepara
+   para dividirse (conocido como recombinación genética). Las variaciones
+   genéticas que alteran la actividad genética o la función de las
+   proteínas pueden hacer aparecer diferentes rasgos en un organismo. Si
+   un rasgo es ventajoso y ayuda al individuo a sobrevivir y reproducirse,
+   es más probable que la variación genética se transmita a la siguiente
+   generación (lo que se conoce como selección natural). Con el tiempo, a
+   medida que continúan reproduciéndose generaciones de individuos con
+   este rasgo, se vuelve cada vez más común en una población, lo que la
+   hace diferente de la población anterior. En ocasiones, la población se
+   vuelve tan diferente que se considera una nueva especie.
 
-   Financiado por la Fundación John Templeton, el artículo está firmado
-   por científicos destacados del Instituto Carnegie para la Ciencia, el
-   Instituto Tecnológico de California (Caltech) y la Universidad de
-   Cornell, junto a filósofos de la Universidad de Colorado.
+   No todas las variaciones influyen en la evolución. Solo las variantes
+   hereditarias, que ocurren en los óvulos o en los espermatozoides,
+   pueden transmitirse a las generaciones futuras y contribuir
+   potencialmente a la evolución. Algunas variaciones ocurren durante la
+   vida de una persona en solo algunas de las células del cuerpo y no son
+   hereditarias, por lo que la selección natural no puede influir. Además,
+   muchos cambios genéticos no tienen impacto en la función de un gen o
+   proteína y no son útiles ni dañinos. Asimismo, el ambiente en el que
+   vive una población de organismos es parte integral de la selección de
+   rasgos. Algunas diferencias introducidas por variantes pueden ayudar a
+   un organismo a sobrevivir en un entorno, pero no en otro; por ejemplo,
+   la resistencia a una determinada bacteria solo es ventajosa si esa
+   bacteria se encuentra en un lugar en particular y es perjudicial para
+   quienes viven allí.
+   Entonces, ¿por qué algunos rasgos dañinos, como las enfermedades
+   genéticas, persisten en las poblaciones en lugar de ser eliminados por
+   selección natural? Hay varias explicaciones posibles, pero en muchos
+   casos la respuesta no es clara. Para algunas afecciones, como el
+   trastorno neurológico conocido como enfermedad de Huntington, los
+   signos y síntomas ocurren más tarde en la vida, usualmente después de
+   que una persona tiene hijos, por lo que la variante genética puede
+   heredarse a pesar de ser dañina. Para otros rasgos dañinos, la
+   penetrancia reducida, un fenómeno en el que algunos individuos con una
+   variante asociada a la enfermedad no muestran signos y síntomas de la
+   afección, también puede permitir la transmisión de variaciones
+   genéticas dañinas a las generaciones futuras. Para algunas afecciones,
+   tener una copia alterada de un gen en cada célula es ventajoso,
+   mientras que tener dos copias alteradas causa enfermedad. El ejemplo
+   mejor estudiado de este fenómeno es la anemia de células falciformes.
+   Tener dos copias alteradas del gen HBB en cada célula da como resultado
+   la enfermedad, pero tener solo una copia entrega cierta resistencia a
+   la malaria. Esta resistencia a la enfermedad ayuda a explicar por qué
+   las variantes que causan la anemia de células falciformes todavía se
+   encuentran en muchas poblaciones, especialmente en áreas donde es común
+   la malaria.
 
-"Selección para la función" guía tanto a lo vivo como a lo inerte
+Temas del capítulo de variantes y la salud
 
-   El nuevo trabajo explica que la evolución es un rasgo común de todos
-   los sistemas complejos del mundo natural, es decir, los que están
-   formados por muchos componentes diferentes, como átomos, moléculas o
-   células, que pueden disponerse y reordenarse repetidamente, y están
-   sujetos a procesos naturales que hacen que se formen innumerables
-   disposiciones diferentes.
+     * ¿Qué es una variante genética y cómo ocurren las variantes?
+     * ¿Cómo las variantes genéticas pueden afectar la salud y el
+       desarrollo?
+     * ¿Todas las variantes genéticas afectan la salud y el desarrollo?
+     * ¿Qué tipos de variantes de genes son posibles?
+     * ¿Puede un cambio en el número de genes afectar la salud y el
+       desarrollo?
+     * ¿Pueden los cambios en el número de cromosomas afectar la salud y
+       el desarrollo?
+     * ¿Pueden cambios en la estructura de los cromosomas afectar la salud
+       y el desarrollo?
+     * ¿Pueden cambios en el ADN no codificante afectar la salud y el
+       desarrollo?
+     * ¿Pueden cambios en el ADN mitocondrial afectar la salud y el
+       desarrollo?
+     * ¿Qué son las enfermedad complejas o multifactoriales?
+     * ¿Qué significa tener una predisposición genética a una enfermedad?
+     * ¿Cómo se involucran las variantes genéticas en la evolución?
+     * ¿Qué información pueden entregar las estadísticas sobre una
+       afección genética?
+     * ¿Cómo se nombran las afecciones genéticas y los genes?
 
-   Pero solo una pequeña fracción de todas estas configuraciones sobrevive
-   en un proceso llamado "selección para la función". E,
-   independientemente de que el sistema esté vivo o no, cuando una
-   configuración novedosa funciona bien y mejora la función, evoluciona.
+   Otros capítulos en Cómo entender la genética
 
-   Esta es la "Ley de la información funcional creciente", como la han
-   bautizado sus autores, que establece que el sistema evolucionará "si
-   muchas configuraciones diferentes del sistema se someten a selección
-   para una o más funciones".
+   La información disponible en este sitio no debe utilizarse como
+   sustituto de atención médica o de la asesoría de un profesional médico.
+   Hable con un profesional de la salud si tiene preguntas sobre su salud.
 
-   Pero un componente importante de esta nueva ley natural propuesta es la
-   idea de 'selección por función', apunta el astrobiólogo del Carnegie y
-   primer autor del estudio, Michael L. Wong.
+   (BUTTON) Conozca cómo citar esta página
 
-   En el caso de la biología, Darwin equiparaba la función principalmente
-   con la supervivencia: la capacidad de vivir lo suficiente para producir
-   descendencia fértil pero el nuevo estudio amplía esa perspectiva y
-   señala que en la naturaleza se dan más tipos de función.
-   Ciertamente, la evolución no es exclusiva de la biosfera terrestre;
-   tiene lugar en otros sistemas extremadamente complejos, como nuestro
-   Sistema Solar, las estrellas, los átomos y los minerales. Ciertamente,
-   la evolución no es exclusiva de la biosfera terrestre; tiene lugar en
-   otros sistemas extremadamente complejos, como nuestro Sistema Solar,
-   las estrellas, los átomos y los minerales.Imagen: NASA, ESA, CSA,
-   STScI, Webb ERO Production Team
+     * Acerca de MedlinePlus
+     * Qué hay de nuevo
+     * Índice
+     * Contáctenos
 
-"Novedad": tendencia a explorar nuevas configuraciones
+     * RSS RSS
+     * Síganos en Twitter Facebook Instagram
+     * Kit para redes sociales Kit para redes sociales
 
-   Para los autores, la más interesante es la de la "novedad", la
-   tendencia de los sistemas en evolución a explorar nuevas
-   configuraciones que a veces dan lugar a comportamientos o
-   características sorprendentes. La historia evolutiva de la vida es muy
-   rica en novedades –recuerdan–.
+     * Exenciones
+     * Derechos de autor
+     * Política de privacidad
+     * Accesibilidad
+     * Pautas para enlaces
+     * Visores y reproductores
+     * HHS Divulgación de Vulnerabilidad
 
-   La fotosíntesis, por ejemplo, evolucionó cuando las células
-   individuales aprendieron a aprovechar la energía de la luz, la vida
-   multicelular evolucionó cuando las células aprendieron a cooperar, y
-   las especies evolucionaron gracias a nuevos comportamientos ventajosos
-   como nadar, caminar, volar y pensar.
-
-   Ese mismo tipo de evolución se da en el reino mineral. Los primeros
-   minerales eran disposiciones de átomos especialmente estables, pero
-   esos minerales primigenios sentaron las bases de las siguientes
-   generaciones de minerales, que participaron en los orígenes de la
-   vida.
-
-   De hecho, la evolución de la vida y la de los minerales están
-   entrelazadas, no solo porque la vida utiliza los minerales para sus
-   caparazones, dientes y huesos, sino porque los sistemas biológico y
-   mineral interactuaron hace millones de años para crear la vida tal y
-   como la conocemos hoy.
-
-"Un fenómeno natural mucho más amplio"
-
-   Y el caso de las estrellas no es muy distinto. El artículo señala que
-   solo dos elementos principales –hidrógeno y helio– formaron las
-   primeras estrellas poco después del Big Bang. Después, esas estrellas
-   usaron el hidrógeno y el helio para producir unos 20 elementos químicos
-   más pesados, y la siguiente generación de estrellas se basó en esa
-   diversidad para producir casi 100 elementos más.
-
-   "Charles Darwin articuló elocuentemente el modo en que plantas y
-   animales evolucionan por selección natural", afirma el coautor Robert
-   M. Hazen, de Carnegie Science, líder de la investigación, pero "su
-   teoría es solo un caso muy especial y muy importante dentro de un
-   fenómeno natural mucho más amplio" que sucede en estrellas, átomos,
-   minerales y muchas otras situaciones conceptualmente equivalentes que
-   también están "sometidas a presión selectiva".
-
-   "El universo genera combinaciones novedosas de átomos, moléculas,
-   células, etc. Las combinaciones que sean estables y puedan seguir
-   engendrando aún más novedades seguirán evolucionando. Esto es lo que
-   hace de la vida el ejemplo más llamativo de evolución, pero la
-   evolución está en todas partes", resume Wong.
-
-   Entre otras muchas, los autores señalan que su trabajo tendrá
-   implicaciones en áreas de estudio como la comprensión de la vida en
-   otros sistemas complejos en evolución, la búsqueda de vida en otros
-   lugares, la evolución de los sistemas de Inteligencia Artificial, o las
-   leyes de la naturaleza a través del espacio y el tiempo.
-
-   FEW (EFE, Reuters)
-
-
-   Consultas y observaciones
-   Comentarios y sugerencias
-   Publicidad
-   Ir a la siguiente sección Descubra más
-
-Descubra más
-
-   www.pnas.org
-   www.eurekalert.org
-   Ir a la siguiente sección Temas relacionados
-
-Temas relacionados
-
-   Ciencia: la vida y el universoCiencia y ecología
-
-Acerca de DW
-
-     * Quiénes somos
-     * Prensaen inglés
-     * DW Global Media Forumen inglés
-
-Más de DW
-
-     * Aprender alemán
-     * DW Akademie
-
-Servicio
-
-     * Boletines
-     * Recepción
-     * FAQ
-     * Contacto
-     * Temas de la A a la Z
-     * Titulares
-
-B2B
-
-     * Distribución
-     * Para viajerosen inglés
-     * Publicidaden inglés
-     * German News Service
-
-Síganos en
-
-   © 2023 Deutsche WellePolíticas de privacidadAviso legalAccesibilidad
-   digital
+   National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894
+   U.S. Department of Health and Human Services National Institutes of
+   Health
+   Última actualización 13 julio 2021
+   Volver al comienzo

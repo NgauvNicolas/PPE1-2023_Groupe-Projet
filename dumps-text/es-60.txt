@@ -1,485 +1,257 @@
-   #alternate
-
-   BBC News, MundoIr al contenido
-
-   (BUTTON) Secciones
-     * Noticias
-     * América Latina
-     * Internacional
-     * Hay Festival
-     * Economía
-     * Ciencia
-     * Salud
-     * Cultura
-     * Tecnología
-     * Centroamérica Cuenta
-     * BBC Extra
-
-     * Noticias
-     * América Latina
-     * Internacional
-     * Hay Festival
-     * Economía
-     * Ciencia
-     * Salud
-     * Cultura
-     * Tecnología
-     * Centroamérica Cuenta
-     * BBC Extra
-
-Cómo Darwin y la teoría de la evolución están cambiando la medicina
-
-   Científica mira por el microscopio.
-
-   Fuente de la imagen, Getty Images
-   Pie de foto,
-
-   La biología evolutiva está avanzando para entender cómo funciona el
-   pricipio de evolución en nuestro organismo.
-
-   Article information
-     * Author, Sofia Quaglia
-     * Role, BBC Future
-     * 24 septiembre 2023
-
-   Cuando tenía 20 años, Randolph Nesse se preguntó por qué envejecemos.
-   No podía entender por qué la selección natural no había eliminado el
-   envejecimiento por completo. Esto sentó las bases de una forma
-   completamente nueva de pensar la medicina.
-
-   Años más tarde, amigos de un museo de historia natural local señalaron
-   a Nesse la teoría de que el envejecimiento es simplemente un efecto
-   secundario de la presión evolutiva que selecciona unos genes sobre
-   otros. Si una afección sólo se manifiesta después de que un organismo
-   supera su pico reproductivo, entonces no habrá presión selectiva para
-   evitar que se transmita.
-
-   Como médico, Nesse se dio cuenta de que, si bien entendía cómo estas
-   fuerzas podían dar forma a las especies, no tenía ni idea de cómo
-   funcionaba la selección natural dentro del cuerpo humano.
-
-   "Nadie había hablado nunca de la importancia de la biología evolutiva
-   (en la medicina). Inmediatamente comencé a preguntarme si había
-   explicaciones similares para los genes que causan las enfermedades".
-
-   A Nesse se le atribuye ahora el mérito de ser el padre fundador de la
-   medicina evolutiva, a veces también conocida como medicina darwiniana,
-   una disciplina relativamente nueva y en crecimiento que aplica la
-   teoría de la evolución a cuestiones sobre la salud y las enfermedades
-   humanas.
-
-   Saltar Recomendamos y continuar leyendo
-   Recomendamos
-     * 4 buenas noticias en el tratamiento del cáncer que traen esperanza
-       a los pacientes
-     * Sam Neill: qué tipo de cáncer es el que padece el actor de “Parque
-       Jurásico”
-     * 3 causas de la sangre en las heces (que no son cáncer de colon)
-     * Por qué las pruebas para detectar enfermedades no son tan
-       confiables como se piensa
-
-   Final de Recomendamos
-
-   Si bien la mayoría de las investigaciones médicas modernas se centran
-   en las causas físicas y moleculares de las enfermedades, la medicina
-   evolutiva intenta comprender por qué podríamos haber evolucionado para
-   ser susceptibles a las enfermedades en primer lugar, y cómo podemos
-   utilizar la evolución para combatirlas.
-   Doctora atiende a una paciente durante una quimioterapia.
-
-   Fuente de la imagen, Getty Images
-   Pie de foto,
-
-   La medicina evolutiva puede ayudar en el futuro a mejorar los
-   tratamientos de cáncer.
-
-   "Lo que estamos tratando aquí es una ciencia básica completamente nueva
-   que no se ha aplicado a la medicina", dice Nesse.
-
-   Es una empresa muy grande cambiar completamente lo que pensamos sobre
-   qué es el cuerpo humano y cómo funciona. Su trabajo ya está empezando a
-   cambiar nuestra comprensión de cómo se desarrollan los cánceres y las
-   enfermedades autoinmunes.
-
-   También está revelando nuevas estrategias para abordar problemas
-   perniciosos relacionados con la atención sanitaria, como la resistencia
-   a los antimicrobianos.
-
-   "Me ha sorprendido que haya habido tantas implicaciones prácticas en
-   tan poco tiempo", dice Nesse.
-
-Un nuevo modo de entender el cáncer
-
-   Los cánceres son en sí mismos una demostración del proceso evolutivo en
-   un microcosmos. Son grupos de células que compiten y cooperan
-   continuamente entre sí de manera que ayudan al tumor a crecer y
-   florecer.
-
-   Un estudio reciente destacó la capacidad casi "infinita" de las células
-   cancerosas para evolucionar y sobrevivir.
-
-   Cuando un paciente recibe terapia farmacológica, por ejemplo, se
-   introduce una nueva presión selectiva que elimina las células que son
-   más vulnerables al tratamiento. Aquellas que son menos vulnerables, o
-   incluso inmunes a los efectos del tratamiento, sobreviven para
-   transmitir sus rasgos genéticos a las células que las siguen.
-
-   Es por eso que incluso las terapias contra el cáncer que han tenido
-   éxito con el tiempo dejarán de funcionar en muchos pacientes: las
-   células cancerosas desarrollan resistencia al tratamiento y luego
-   aumentan incontrolablemente.
-
-   "Podríamos justificar que esta sea la causa inmediata de muerte en la
-   mayoría de los pacientes", afirma Robert Gatenby, codirector del Centro
-   de Excelencia para la Terapia Evolutiva del Moffitt Cancer Center, en
-   Florida, EE.UU.
-
-   A través de la lente del pensamiento evolutivo, el laboratorio de
-   Gatenby está desarrollando dos estrategias diferentes para abordar el
-   cáncer: terapia adaptativa y terapia de extinción.
-
-   La terapia adaptativa tiene como objetivo controlar la propagación del
-   cáncer en lugar de intentar eliminarlo por completo.
-
-   El dogma durante los últimos 50 años en el tratamiento del cáncer ha
-   sido que se aplica el mismo medicamento, o combinación de medicamentos,
-   en ciclos, hasta que haya evidencia clara de progresión del tumor
-   (donde el tumor comienza a crecer sin control) o exceso de toxicidad,
-   dice Gatenby, lo cual suele ocurrir mucho después de que se haya
-   obtenido la máxima respuesta.
-   Doctora mira una pantalla con imágenes del cerebro.
-
-   Fuente de la imagen, Getty Images
-   Pie de foto,
-
-   La terapia adaptativa tiene como objetivo controlar la propagación del
-   cáncer en lugar de intentar eliminarlo por completo.
-
-   Esto es "inútil", afirma, ya que la mayoría de las células que quedan
-   son resistentes al fármaco y al continuar con la misma terapia, el
-   oncólogo les da la oportunidad de proliferar para que su población sea
-   mayor y más diversa.
-
-   Su teoría de la terapia adaptativa, por el contrario, apunta a ajustar
-   la dosis de los medicamentos para lograr un enfoque personalizado,
-   dando suficiente tratamiento para mantener el tumor lo más pequeño
-   posible, sin eliminar por completo a la población sensible.
-
-   Luego se retira la terapia. Esto permite que las células sensibles al
-   tratamiento sigan luchando por espacio dentro del tumor, evitando que
-   otras células resistentes a los medicamentos dominen debido a una
-   ventaja adaptativa.
-
-   "Dado que no podemos controlar las células tumorales que son
-   resistentes a la terapia, necesitamos reclutar células sensibles al
-   tratamiento para que lo hagan por nosotros", dice Gatenby, quien ha
-   estado desarrollando la idea desde que la publicó por primera vez en
-   1991 .
-
-   La esperanza, dice, es que los médicos puedan mantener a los pacientes
-   con vida durante un largo período de tiempo.
-
-   Su grupo de investigación, que es posiblemente el más avanzado en este
-   campo, ya ha demostrado que esta técnica funciona en un pequeño ensayo
-   piloto en el que participaron pacientes con cáncer de próstata. Los
-   pacientes que recibieron terapia adaptativa también tuvieron una
-   supervivencia general 2,26 años mayor que aquellos que recibieron el
-   tratamiento estándar.
-
-   Con la otra terapia, la de extinción, Gatenby quiere ir un paso más
-   allá y utilizar lo que sabemos sobre cómo se extinguen las especies
-   animales para diseñar terapias curativas que provoquen la extinción de
-   las poblaciones de cáncer.
-
-   La idea sería no esperar a que el tumor vuelva a crecer después de que
-   los médicos apliquen la terapia inicial, sino más bien aplicar al tumor
-   una terapia completamente diferente antes de que pueda recuperarse:
-   tomar por sorpresa a las células tumorales con un ciclo rápido de un
-   medicamento diferente.
-
-   Aunque, hasta ahora, solo hay un modelo matemático de esta terapia, el
-   equipo de Gatenby ha propuesto ensayos clínicos contra el cáncer de
-   páncreas y el cáncer de mama.
-   Mano llena de medicamentos al lado de unas muestras de bacterias en un
-   laboratorio.
-
-   Fuente de la imagen, Getty Images
-   Pie de foto,
-
-   La medicina evolutiva también busca solución a un problema creciente:
-   la resistencia de las bacterias a los medicamentos.
-
-   El elefante en la habitación sigue siendo cómo una investigación como
-   esta pasará de los ensayos clínicos, si tiene éxito, a la aceptación en
-   el mundo real, según Michael E Hochberg, distinguido director de
-   investigación del Centro Nacional de la Recherche Scientifique de la
-   Universidad de Montpellier, en Francia.
-
-   "¿Cuál es su uso realista, en términos de utilidad?", se pregunta.
-
-   Tal vez la medicina evolutiva sea realmente la perspectiva científica
-   más probable para abordar grandes cuestiones como estas, según
-   Hochberg, pero los médicos todavía tienen que tratar a los pacientes
-   todos los días trabajando con soluciones que conocen, mejores prácticas
-   probadas y poco espacio para hipótesis:
-
-   "Tienen el deber de 'primero no hacer daño'", afirma, y en este momento
-   estos hallazgos son todavía demasiado preliminares.
-
-Una solución a las bacterias resistentes
-
-   La medicina evolutiva también se aplica en la búsqueda de una solución
-   a uno de los problemas de más rápido crecimiento en el mundo moderno:
-   la resistencia a los antibacterianos.
-
-   El uso generalizado de antibióticos ha llevado inadvertidamente a las
-   bacterias a evolucionar y crear resistencia. Además, las bacterias
-   también desarrollan resistencia de otros modos, desde el intercambio de
-   material genético hasta acumulando mutaciones aleatorias.
-
-   Como resultado, los científicos evolutivos están probando varios
-   enfoques diferentes para descomponer estas vías.
-
-   "Si queremos resolver este problema, necesitamos entender la evolución
-   y luego ir tras los puntos débiles", dice Andrew Read, director de los
-   Institutos Huck de Ciencias de la Vida de la Universidad Penn State.
-
-   El equipo de Read está desarrollando "fármacos antibióticos" para
-   ayudar a controlar la propagación de la resistencia a los
-   antimicrobianos en lugares donde los fármacos pueden hacer más mal que
-   bien.
-
-   Por ejemplo, la resistencia a los antimicrobianos suele ocurrir porque
-   algunos de los antibióticos potentes que los pacientes reciben por vía
-   intravenosa llegan al sistema digestivo del paciente, allí cambian el
-   equilibrio de la microbiota y, como resultado, se crea resistencia a
-   los medicamentos.
-
-   Los medicamentos de inactivación, en sí mismos, no hacen nada
-   clínicamente, pero impiden que el medicamento actúe en el intestino y
-   podrían reducir este efecto pernicioso.
-
-   Su laboratorio ya ha demostrado que este mecanismo funciona bien en
-   ratones para prevenir la propagación de la superbacteria Enterococcus
-   faecium después del tratamiento con antibióticos.
-
-   Pero esta es una solución general que no inhibe la resistencia en caso
-   de que se encuentren bacterias y medicamentos.
-   Ilustración en 3D de bacterias resistentes a los medicamentos.
-
-   Fuente de la imagen, Getty Images
-   Pie de foto,
-
-   Ver en qué condiciones mutan o no las bacterias puede ser clave para
-   frenar su resistencia.
-
-   Una de las razones por las que la resistencia bacteriana es tan difícil
-   de abordar es que no ocurre simplemente a través de la típica ruta
-   evolutiva impulsada por el azar: cuando una mutación aleatoria hace que
-   algunas bacterias sean más fuertes y capaces de resistir los
-   medicamentos.
-
-   También ocurre gracias a la transferencia horizontal de genes, algo que
-   sucede tanto dentro de la misma especie de bacteria como entre
-   especies. Este proceso permite que las mutaciones que transmiten
-   resistencia a los medicamentos se propaguen mucho más rápidamente.
-
-   El grupo de investigación de Anne Farewell de la Universidad de
-   Gotemburgo, Suecia, está intentando frenar uno de los mecanismos que
-   utilizan las bacterias para compartir el ADN de forma horizontal,
-   conocido como "conjugación”, donde las células entran en contacto
-   directo, a menudo a través de un tubo que corre entre ellas.
-
-   En su investigación, los científicos observan qué pares de especies
-   bacterianas se mezclan y si hay condiciones ambientales específicas,
-   como pesticidas o contaminación por metales pesados, que faciliten o
-   dificulten esto.
-
-   Ya han demostrado que la Escherichia coli, una bacteria común que puede
-   causar intoxicación alimentaria y una amplia gama de otras infecciones,
-   podría frenar la conjugación al entrar en contacto con el cobre, lo que
-   reduce su capacidad de conjugación casi 100 veces.
-
-   "Comprender qué moléculas arruinan la conjugación podría ayudar a
-   desarrollar 'fármacos anti-conjugación' efectivos, pero la
-   investigación aquí aún es preliminar, y todavía hay muchas otras formas
-   en que se puede compartir el ADN entre bacterias a las que este enfoque
-   no afectará", admite Farewell.
-
-   Las bacterias son increíblemente inteligentes, dice. "No creo que vaya
-   a haber una solución. Habrá muchos enfoques".
-
-Un dilema entre académicos y médicos
-
-   Si bien los campos de la investigación del cáncer y la resistencia
-   bacteriana son los más avanzados en el campo de la medicina evolutiva,
-   todavía queda un largo camino por recorrer.
-
-   Los críticos argumentan que a pesar de comprender más sobre la teoría
-   de la medicina evolutiva, no está claro hasta qué punto este nuevo
-   conocimiento se puede utilizar en la práctica.
-
-   "Rara vez he visto conversaciones que realmente se centren en el
-   problema de la logística y los beneficios del traslado del banco a la
-   clínica", afirma Hochberg.
-
-   También hay fricciones entre intelectuales y entre lo que piensan los
-   académicos darwinianos y los médicos.
-
-   "El principal desafío es cerrar la brecha entre los académicos que
-   trabajan en biología evolutiva, la formación de los médicos y la
-   mentalidad del médico en el contexto de todo el establishment de las
-   grandes compañías farmacéuticas”, apunta dice Bernard Crespi , biólogo
-   evolutivo de la Universidad Simon Fraser.
-
-   También sigue siendo un gran interrogante cómo la medicina evolutiva
-   encontrará una manera de colaborar con la industria farmacéutica.
-
-   Pero Nesse –el hombre que inició todo– dice que la medicina evolutiva
-   todavía tiene el poder de proporcionar nuevas preguntas y nuevas
-   respuestas sobre las enfermedades:
-
-   "Existe un abismo entre la biología evolutiva y la medicina y en
-   realidad está dañando la salud humana", dice Nesse. "Es un proceso
-   lento, pero la ciencia siempre gana".
-   Línea gris
-
-   Recuerda que puedes recibir notificaciones de BBC News Mundo. Descarga
-   la última versión de nuestra app y actívalas para no perderte nuestro
-   mejor contenido.
-
-   ¿Ya conoces nuestro canal de YouTube?
-
-Temas relacionados
-
-     * Ciencia
-     * Medicina
-     * Salud
-     * Cáncer
-
-Contenido relacionado
-
-     * Un grupo multiétnico de jóvenes médicos
-
-Por qué tantos jóvenes de América Latina van a Argentina a estudiar Medicina
-(y la paradoja del éxodo de médicos en el país)
-       17 agosto 2023
-     * Un ratón transparente
-
-Los ratones transparentes que podrían mejorar los medicamentos contra el
-cáncer
-       11 julio 2023
-     * Modelo de embrión humano
-
-El modelo de embrión que los científicos lograron crear sin óvulos, esperma o
-útero
-       6 septiembre 2023
-
-Principales noticias
+   #alternate alternate alternate
+
+   Skip to content
+
+   Concepto
+
+   Concepto
+
+   © 2013-2023 Enciclopedia Concepto. Todos los derechos reservados.
+
+     * Índice
+          + a
+          + b
+          + c
+          + d
+          + e
+          + f
+          + g
+          + h
+          + i
+          + j
+          + k
+          + l
+          + m
+          + n
+          + o
+          + p
+          + q
+          + r
+          + s
+          + t
+          + u
+          + v
+          + w
+          + x
+          + y
+          + z
+
+   (BUTTON) Índice
+   ____________________ (BUTTON) Buscar
+   (BUTTON)
+   (BUTTON) Primary Menu
+
+     * Ciencias naturales
+          + Animales
+          + Astronomía
+          + Biología
+          + Ecología
+          + Física
+          + Matemática
+          + Química
+     * Cultura y sociedad
+          + Arte
+          + Conocimiento
+          + Cultura
+          + Economía y finanzas
+          + Empresas y negocios
+          + Sociedad
+          + Tecnología
+     * Castellano
+          + Lengua
+          + Literatura
+          + Textos
+     * Ser humano
+          + Anatomía
+          + Psicología
+          + Salud
+          + Valores
+     * Ciencias sociales
+          + Derecho
+          + Filosofía
+          + Geografía
+          + Historia
+     * Random
+
+   InicioBiología
+
+Evolución
+
+   Te explicamos qué es la evolución y en qué consisten las teorías sobre
+   la evolución de las especies según Darwin y la religión, entre otras.
+   Evolución - Tierra primitiva El proceso evolutivo se inició en el mar
+   primitivo donde se generó la vida primera.
+
+¿Qué es Evolución?
+
+   El concepto de evolución refiere al cambio de condición que da origen a
+   una nueva forma de determinado objeto de estudio o análisis. Es
+   importante marcar que las evoluciones son procesos graduales, cambios
+   que se dan paulatinamente y que se pueden observar solo a través del
+   paso del tiempo.
+
+   El término evolución tiene su uso más básico en el campo de la
+   biología, en particular para referirse al surgimiento de las especies
+   que habitan el mundo, pero también tiene usos correspondientes a otras
+   ciencias.
+
+   La evolución biológica se produce por la modificación de la composición
+   genética, derivada de la necesidad de adaptación al medio donde viven
+   los seres vivos. Todas las especies naturales han tenido evoluciones, y
+   las que no han sido capaces de llevar a cabo estos procesos se han
+   extinguido.
+
+   Este proceso evolutivo se inició en el mar primitivo, donde se generó
+   la vida primera, y a partir de eso las composiciones moleculares se
+   fueron alterando, conservando ciertas similitudes que permiten dar
+   cuenta de la cadena evolutiva completa.
+
+   Ver además: Adaptación de los seres vivos
+
+¿Cuáles son las teorías que explican la evolución?
+
+   Evolución del hombre Evolución del hombre Se dice que la evolución del
+   hombre comenzó hace más de 5 millones de años.
+
+   El hombre ha encarado de distintos modos esta evolución para explicarla
+   de un modo que se encuadre en su interpretación del mundo. Veamos
+   algunas teorías que han tenido mayor o menor aceptación dentro de las
+   sociedades:
+     * Teoría de las características adquiridas. Jean-Baptiste Lamarck
+       supuso que las características adquiridas a lo largo de la
+       existencia de un individuo serían también caracteres de su
+       descendencia, otorgándole un rol muy importante a lo que conocemos
+       como herencia. El hábito, como el caso de las primeras jirafas
+       estirando su cuello para conseguir el alimento, termina
+       predominando en la especie toda.
+     * Teoría de las mutaciones. Gregor Mendel propuso una teoría muy
+       fuerte respecto a esa herencia, diferenciando los genes recesivos
+       de los dominantes. De este modo es como comenzó a tomar fuerza la
+       teoría de las mutaciones. Con este término se habla de los cambios
+       permanentes en el material genético de una célula, que pueden
+       ocurrir por acción de agentes mutagénicos o bien  por errores en la
+       copia del material genético durante los procesos de división
+       celular. Se creyó que las mutaciones introducen nuevas especies,
+       siendo la fuente por excelencia de la evolución.
+     * Religión. La religión ha tenido durante siglos una posición en
+       contra de todas las teorías evolutivas. La primera respuesta ha
+       sido siempre el creacionismo, la interpretación directa de la
+       Biblia que explica el origen de las especies a través de Dios o una
+       figura similar que los crea. Con el correr del tiempo y la
+       evidencia cada vez más fuerte de la evolución, los científicos
+       religiosos se fueron alejando de esa doctrina categóricamente
+       creacionista.
+     * Teoría de la Evolución de Darwin. La teoría que obtuvo más consenso
+       dentro de la comunidad científica fue la de Charles Darwin, que
+       habla de la selección natural entre los organismos vivos, ya que la
+       mayoría no logra sobrevivir. Las consecuencias de esta selección
+       son de adaptación y diversificación, y una lucha constante de las
+       especies en las que solo sobrevivirá el más fuerte. Esta posición
+       luego fue complementada por Wallace, quien aportó la cuestión de la
+       dinámica de esos cambios y del antepasado común a todas las
+       especies. La combinación de estas dos posiciones es, sin duda, la
+       consensuada por la mayoría de la comunidad científica hoy en día,
+       por lo completa que resulta en la explicación de los procesos que
+       atravesaron todas las especies.
+
+   En el caso del género humano, hay una cadena evolutiva que comienza, se
+   cree, hace más de 5 millones de años con el Australopithecus, y una
+   serie de homínidos que van abandonando poco a poco las características
+   del mono y tomando las del ser humano (especie conocida como Homo
+   Sapiens Sapiens).
+
+   El término fue extrapolado y se habla de evolución para referirse a
+   otras cosas que no se limitan a lo biológico, entre lo que se encuentra
+   la física (que describe el movimiento de un objeto como la evolución en
+   el tiempo de su lugar en el espacio), la psicología (que cree que la
+   evolución es el cambio de una conducta o actitud) o la epistemología
+   (que atribuye el concepto a las transformaciones en las teorías o en
+   las ideas).
+
+¿Cómo citar?
+
+   "Evolución". Autor: Equipo editorial, Etecé. De: Argentina. Para:
+   Concepto.de. Disponible en: https://concepto.de/evolucion/. Última
+   edición: 5 de agosto de 2021. Consultado: 03 de diciembre de 2023
+
+Sobre el autor
+
+   Editorial Etecé
+   Última edición: 5 agosto, 2021
+   Revisado por Equipo editorial, Etecé
+
+Compartir
 
      *
-
-Silvina Moschini, la primera mujer de América Latina que convirtió a su
-empresa en un millonario "unicornio"
-       2 horas
+     *
+     *
+     *
+     *
      *
 
-Los rusos que sueñan con conseguir un pasaporte ucraniano
-       9 horas
+¿Te fue útil esta información?
+
+   Sí No
+
+   ¿Encontraste algún error?
+   Envíanos tus comentarios y sugerencias.
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   Enviar
+
+   ¡Genial! Gracias por visitarnos :)
+
+Índice temático
+
+Sobre el autor
+
+   Editorial Etecé
+   Última edición: 5 agosto, 2021
+   Revisado por Equipo editorial, Etecé
+
+Compartir
+
+     *
+     *
+     *
+     *
+     *
      *
 
-El insondable enigma del tiempo: lo que sabemos sobre su inicio y cómo podría
-ser su final
-       26 noviembre 2023
+También te puede interesar
 
-No te lo pierdas
+   Teoría de Darwin
 
-     * El puerto de Monte Carlo, la capital de Mónaco.
+   Evolución biológica
 
-Qué países no tienen banco central como propone Milei en Argentina (y cómo
-afecta a sus economías)
-       23 noviembre 2023
-     * Karina Milei
+   Teoría de Lamarck
 
-3 datos sobre Karina Milei, la hermana del presidente electo de Argentina a
-quien él mismo llama "El Jefe"
-       20 noviembre 2023
-     * Wilders
+   Ser humano
 
-Quién es Geert Wilders, el político antiislámico que arrasó en las elecciones
-en los Países Bajos
-       23 noviembre 2023
-     * Miguel Hurtado en Roma en Febrero de 2019
+   Sistemática
 
-“Ahora que somos adultos empoderados podemos contar la historia de los abusos
-sexuales a menores que sufrimos en la Iglesia católica española”
-       23 noviembre 2023
-     * Ballena azul
+   Biología
 
-El regreso de las ballenas azules al océano Índico, donde fueron cazadas casi
-hasta la extinción
-       24 noviembre 2023
-     * Maria Corina Machado
+   Geografía física
 
-María Corina Machado: "No podemos caer en ese chantaje del chavismo de que si
-tú eres firme es porque eres violento"
-       22 noviembre 2023
-     * Sam Altman
+   Individuo en Biología
 
-Quién es Sam Altman, la superestrella de la inteligencia artificial que
-regresa a OpenAI tras ser despedido
-       22 noviembre 2023
-     * Imágenes de algunas de las 100 mujeres participantes de la
-       temporada 2023 del Servicio Mundial de la BBC.
+   Adaptación
 
-Quiénes son las 100 Mujeres influyentes e inspiradoras elegidas por la BBC en
-2023
-       21 noviembre 2023
-     * Jair Bolsonaro, Javier Milei y Donald Trump
+   Holística
 
-En qué se parecen y en qué se diferencian Milei, Trump y Bolsonaro
-       21 noviembre 2023
+   Humano
 
-Más leídas
+   Selección natural
+   (BUTTON) Cargar más
 
-    1. 1
-       Kowloon, la ciudad amurallada que llegó a ser el lugar más poblado
-       del mundo a finales del siglo XX
-    2. 2
-       "Fui a la policía para que dejaran de usar la foto de mi hija como
-       un meme"
-    3. 3
-       Silvina Moschini, la primera mujer de América Latina que convirtió
-       a su empresa en un millonario "unicornio"
-    4. 4
-       Defensor de la poligamia y enemigo del vino y del café: quién fue
-       Joseph Smith, fundador de la iglesia de los mormones
-    5. 5
-       Qué países no tienen banco central como propone Milei en Argentina
-       (y cómo afecta a sus economías)
-    6. 6
-       Los rusos que sueñan con conseguir un pasaporte ucraniano
-    7. 7
-       La sorprendente decisión de Nueva Zelanda de revocar su
-       revolucionario veto total a la venta de cigarrillos
-    8. 8
-       El insondable enigma del tiempo: lo que sabemos sobre su inicio y
-       cómo podría ser su final
-    9. 9
-       Qué riquezas hay en el Esequibo, el territorio que se disputan
-       Guyana y Venezuela desde hace casi dos siglos
-   10. 10
-       Qué es la ley del esfuerzo inverso y cómo explica que fracasemos
-       por esforzarnos demasiado
+   Concepto © 2013-2023 Enciclopedia Concepto. Todos los derechos
+   reservados.
 
-   BBC News, Mundo
-     * Por qué puedes confiar en la BBC
-     * Términos de uso
-     * Sobre la BBC
+     * Quiénes somos
      * Política de privacidad
-     * Cookies
-     * Escribe a BBC Mundo
-     * Do not share or sell my info
+     * Contacto
 
-   © 2023 BBC. La BBC no se hace responsable del contenido de sitios
-   externos. Lee sobre nuestra postura acerca de enlaces externos.
+   Una publicación de Editorial Etecé

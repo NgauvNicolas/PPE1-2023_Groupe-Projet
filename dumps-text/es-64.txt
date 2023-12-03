@@ -1,283 +1,180 @@
-     * Revista Nat Geo
-     * Registrarse
-     * Programación TV
-     * Disney+
+    Pasar al contenido principal
 
-   National Geographic
-     * Ciencia
-     * Animales
-     * Historia
-     * Medio Ambiente
-     * Viajes
+   gub.uy
+   (BUTTON) Sitio oficial de la República Oriental del Uruguay
+   Presidencia de la República
+   Perfil gub.uy Ingresar a Perfil gub.uy
+   (BUTTON) Menú
 
-   (BUTTON)
-   (BUTTON)
-     * Ciencia
-     * Animales
-     * Historia
-     * Medio Ambiente
-     * Viajes
+Agencia de Gobierno Electrónico y Sociedad de la Información y del
+Conocimiento
 
-   Historia
+   Buscar: ______________________________ [X] Agesic
+   (BUTTON) Buscar
+     * Institucional
+          + Creación y Evolución histórica
+          + Cometidos
+          + Plan estratégico
+          + Estructura del organismo
+          + Información de gestión
+          + Recursos Humanos
+          + Concursos
+          + Adquisiciones
+          + Normativa
+          + Transparencia
+          + Contacto
+     * Políticas y Gestión
+          + Política Digital del Uruguay
+          + Planes
+          + Proyectos prioritarios
+          + Soluciones
+          + Espacios de Conocimiento
+          + Convenios
+     * Trámites y Servicios
+          + Servicios
+          + Trámites
+     * Datos y Estadísticas
+          + Estadísticas
+          + Encuestas
+          + Observatorio de la Sociedad de la Información
+          + Datos Abiertos
+     * Comunicación
+          + Noticias
+          + Calendario de actividades
+          + Eventos
+          + Publicaciones
+          + Boletines
+          + Campañas
 
-Los conceptos básicos de la evolución humana
+   Ruta de navegación
+     * Inicio
+     * Institucional
+     * Creación y Evolución histórica
 
-Con el reciente descubrimiento del 'Homo Naledi', posiblemente venga bien
-recapitular acerca de los conceptos básicos de antropología.
+Creación y evolución histórica
 
-   Por Nadia Drake
-   Modelo evolutivo Modelo evolutivo
-   Un modelo de Australopithecus afarensis (Lucy) aparece a la sombra de
-   un humano moderno y un chimpancé.
-   Fotografía de Kenneth Garrett, National Geographic Creative
+     *
+     * Compartir
+       Facebook Twitter Copiar enlace Whatsapp Linkedin
 
-Índice
+Creación
 
-     * ¿Por qué los científicos están seguros de la teoría de la
-       evolución?
-     * ¿Está la evolución reñida con la Biblia?
-     * ¿Cómo funciona la evolución?
-     * ¿Cuáles son los principales hitos en la evolución humana?
-     * ¿Donde sucedió todo esto?
-     * ¿Por qué no se ha encontrado el eslabón perdido entre los monos y
-       nosotros?
-     * ¿Ha terminado la evolución para nosotros?
+   La Agencia de Gobierno Electrónico y Sociedad de la Información y del
+   Conocimiento (Agesic) es una unidad ejecutora con autonomía técnica
+   dependiente de Presidencia de la República Oriental del Uruguay.
 
-   El descubrimiento del Homo Naledi  en 2014 ha hecho a mucha gente
-   replantearse cuál es el origen de la humanidad y cómo se estructura el
-   árbol genealógico de nuestra especie y, por ello, muchos están buscando
-   respuestas a las cuestiones más básicas dentro del tema evolutivo.
+   Fue creada por el art. 72 de la Ley N° 17.930 de diciembre de 2005 con
+   la denominación "Agencia para el Desarrollo del Gobierno de Gestión
+   Electrónica y la Sociedad de la Información y del Conocimiento". Esta
+   misma norma establece la creación de un Consejo Directivo Honorario
+   (CDH), encargado de diseñar sus líneas generales de acción y evaluar su
+   desempeño y los resultados obtenidos, y que estará asistido por otros
+   tres consejos honorarios: Consejo para la Sociedad de la Información,
+   Consejo Asesor de Empresas y Consejo Asesor de Informática Pública.
+   Decreto 184/015 Fijación de la misión, objetivos y cometidos atribuidos
+   legalmente a la AGESIC
 
-   Buscando los orígenes de la humanidad, un estudio de 2021 publicado en
-   la revista científica eLife, con participación de investigadores del
-   Museo Nacional de Ciencias Naturales (MNCN-CSIC), descubrió vértebras
-   fósiles de dos millones de años de Australopithecus sediba, una especie
-   extinta del pariente humano más antiguo.
+Evolución Histórica
 
-   “Los fósiles iniciales se descubrieron en 2008, pero el resto se
-   descubrieron en 2015, y con una cronología de dos millones de años,
-   están en la base de lo que sería el origen del género homo”, explica a
-   National Geographic Daniel García Martínez, de la Unidad de
-   Antropología de la Universidad Complutense de Madrid y miembro afiliado
-   del Centro Nacional de Investigación de La Evolución Humana.
+   Su funcionamiento fue reglamentado en junio de 2006 por el Decreto N°
+   205/006, que establece en su Artículo 2 los objetivos generales de la
+   agencia :
+   “La Agencia para el Desarrollo del Gobierno Electrónico tiene como
+   objetivo procurar la mejora de los servicios al ciudadano, utilizando
+   las posibilidades que brindan las tecnologías de la información y las
+   comunicaciones (TIC). Asimismo, impulsará el desarrollo de la Sociedad
+   de la Información en el Uruguay con énfasis en la inclusión de la
+   práctica digital de sus habitantes y el fortalecimiento de las
+   habilidades de la sociedad en la utilización de las tecnologías”.
+   Posteriormente, la Ley de Rendición de Cuentas N° 18.046, de octubre de
+   2006, complementa en su artículo 55 la nómina de objetivos, agregando a
+   los antes mencionados planificar y coordinar proyectos relacionados con
+   el Gobierno Electrónico como base para la transformación y una mayor
+   transparencia del Estado y concebir y desarrollar una política nacional
+   en temas de Seguridad de la Información que permitan la prevención,
+   detección y respuesta frente a incidentes que puedan afectar los
+   activos críticos del país. De igual forma, esta norma crea la función
+   de "Director Ejecutivo de la Agencia para el Desarrollo del Gobierno de
+   Gestión Electrónica y la Sociedad de la Información", considerado de
+   alta prioridad y a cuyo cargo estará la estructura operativa de la
+   agencia.
+   Los cometidos esenciales de Agesic surgen del Decreto N° 184/015 ]
+   de 14 de julio de 2015, que recopila las competencias de la institución
+   que se encuentran dispersas en múltiples disposiciones normativas, así
+   como las que originalmente fueron atribuidas a otras entidades.
 
-¿Por qué los científicos están seguros de la teoría de la evolución?
-
-   Por diversas razones. La primera es que compartimos casi el 99 por
-   ciento de nuestra secuencia genética con los chimpancés y los bonobos,
-   lo que indica que compartimos un ancestro común. Hay miles de fósiles
-   que documentan esta evolución de nuestro linaje después de que nuestros
-   ancestros se separasen de los otros grandes simios.
-
-   Los biólogos han observado la evolución en otras especies, tanto en el
-   campo como en el laboratorio, y la reciente aparición de microbios
-   resistentes a los antibióticos es un ejemplo de esto. Por eso no hay
-   duda de que el origen de la humanidad está en la evolución de un
-   ancestro común al de los simios. Otro claro ejemplo de esto serían las
-   razas de perros que proceden de un ancestro común.
-
-   (Relacionado: Estos podrían ser los restos de Homo sapiens más antiguos
-   fuera de África, pero abundan las incógnitas)
-
-¿Está la evolución reñida con la Biblia?
-
-   Por supuesto, si crees que la Biblia debe interpretarse literalmente.
-   La evolución y el origen de la humanidad partiendo del registro fósil
-   contradice la historia del Génesis según la cual Dios creó a todos los
-   organismos en su forma presente. Pero se puede creer en Dios
-   perfectamente sin creer que todo lo que pone la Biblia es literalmente
-   cierto.
-
-¿Cómo funciona la evolución?
-
-   El ADN que conforma nuestros genes, al igual que el de todos los
-   organismos vivos de la Tierra (a excepción de algunos virus), está
-   sujeto a las “normas” de la mutación aleatoria. De vez en cuando, estas
-   mutaciones afectan a un rasgo importante, como el color del pelaje de
-   un animal. Esto hace que existan dos formas de selección: la primera
-   sería la natural, por la cual un miembro de una especie elige a su
-   pareja, y con ella, los rasgos que busca en su descendencia. Por otro
-   lado estaría la selección humana, basada en el cruce de especímenes
-   buscando un fin.
-
-   Si un animal nace por ejemplo con una coloración gracias a la cual
-   obtiene una mayor protección contra los depredadores, podrá sobrevivir
-   más tiempo y tener más descendencia. Con el tiempo, el código genético
-   de estos supervivientes hará que estén presentes en un mayor número de
-   especímenes, con lo que mejorarán la raza, llegando en ocasiones a
-   cambiarla por completo respecto al individuo original.
-
-   (Relacionado: ¿Qué homínidos han poblado España a lo largo de la
-   historia?)
-   (BUTTON) Los orígenes de la humanidad 101
-   Los orígenes de la humanidad 101
-   La historia de la evolución humana comenzó hace unos 7 millones de
-   años, cuando los linajes que condujeron al Homo sapiens y a los
-   chimpancés se separaron. Conoce a las 20 especies de humanos primitivos
-   de nuestro árbol genealógico y descubre cómo la selección natural de
-   determinados rasgos físicos y conductuales definió el significado de
-   ser humano.
-
-¿Cuáles son los principales hitos en la evolución humana?
-
-   El linaje humano se separó de la de los simios entre 7 y 13 millones de
-   años atrás. Los primeros antecesores que caminaban en posición erecta
-   serían los Australopitecus, de los cuales el ejemplo más conocido es
-   Lucy, una Australopithecus afarensis. El fósil más antiguo conocido
-   atribuido a nuestro género data de hace 2,8 millones de años. Durante
-   mucho tiempo se pensó que el origen de la humanidad vendría marcada por
-   el uso de las primeras herramientas de piedra, pero esto es un error,
-   pues se han encontrado algunas de hace 3,3 millones de años, siendo
-   anteriores a los primeros restos de homos que se conocen.
-
-   Por otro lado, existe un debate sobre cuándo comenzaron a utilizar el
-   fuego nuestros antepasados, estimando la fecha oficial entre 1,8
-   millones y 800 000 años atrás. Se supone que gracias a el fuego, se
-   consiguió cocinar, y gracias a la alimentación más completa, hemos
-   podido desarrollar nuestro cerebro y unas manos más precisas, requisito
-   previo para los desarrollos que caracterizaron a los seres humanos,
-   incluyendo el lenguaje complejo, el arte y la agricultura, los cuales
-   han surgido en los últimos 100 000 años.
-
-   Durante mucho tiempo se dio por sentado que el arte y las
-   representaciones simbólicas eran exclusivas del Homo sapiens, especie a
-   la que pertenecemos los seres humanos actuales, pero un estudio
-   publicado la revista Nature Human Behaviour en el que han participado
-   investigadores del CSIC en el Museo de Ciencias Naturales de Madrid
-   (MNCN), la Universidad Complutense de Madrid y el Museo Arqueológico y
-   Paleontológico de la Comunidad de Madrid, entre otras instituciones,
-   demostó que los neandertales ya usaban el simbolismo.
-
-    “Un dato importante es que hemos podido constatar que la actividad se
-   mantuvo a lo largo de, al menos, varias generaciones, lo que introduce
-   el concepto de tradición cultural que habría pasado de generación en
-   generación”, explica Enrique Baquedano, director del Museo Arqueológico
-   y Paleontológico de la Comunidad de Madrid, en un comunicado publicado
-   por el CSIC.
+   A través de todo este trabajo, Agesic busca innovar y hacer más
+   eficientes las formas en que las personas se relacionan con la
+   administración pública, incorporando tecnologías digitales y mejores
+   formas de trabajar, poniendo el foco en las personas.
+   ¿Hay algún error en el sitio? Enviar reporte
+   Agencia de Gobierno Electrónico y Sociedad de la Información y del
+   Conocimiento
 
 
+    Dirección: Liniers 1324 piso 4 (Montevideo, Uruguay)
+    Teléfono: (+598) 2901 2929
+    Contacto
+    Horario de atención: lunes a viernes de 9:30 a 17:30 h.
 
+   Suscribirse al boletín:
+   Correo electrónico ____________________ (BUTTON) Suscribirse
 
-   Bustos de homínidos
-   Trío de homínidos, desde los fósiles de hace dos millones de años a
-   nuestra progresión lineal.
-   Fotografía de John Gurche reconstrucciones
+Referentes Nacionales
 
-¿Donde sucedió todo esto?
+     * ARCE
+     * IDEuy
+     * UAIP
+     * UCE
+     * URCDP
+     * Uruguay Digital
 
-   Tanto las pruebas genéticas como las fósiles muestran que hasta hace
-   relativamente poco, el origen de la raza humana estaba en el sur o el
-   este de África. La evolución posterior y las migraciones vendrían dadas
-   por las circunstancias climáticas y la consecuente adaptación al medio.
-   Hace 60 000 años comenzarían estos desplazamientos, cruzándose con los
-   Neandertales y los Denisovanos en Asia. En los últimos 30 000 años, los
-   únicos humanos que quedan sobre la faz de la Tierra son los Homo
-   sapiens.
+Referentes Internacionales
 
-   Un polémico estudio publicado en 2019 en la revista Nature sostiene que
-   un oasis en Botsuana, denominado humedal Makgadikgadi-Okavango, no fue
-   la «tierra natal» de todos los humanos modernos. Los investigadores
-   estudiaron el ADN mitocondrial —el material genético almacenado en el
-   motor de nuestras células que se transmite de madres a hijos— de los
-   residentes actuales del África meridional. A continuación,
-   superpusieron los datos genéticos con un análisis del clima pasado y la
-   lingüística moderna, así como las distribuciones geográficas y
-   culturales de las poblaciones locales.
+     * eLAC
+     * RedGealc
+     * OGP
+     * UN DESA
+     * Digital Nations
+     * WSIS
 
-   Los resultados del estudio sugieren que los cambios del clima
-   permitieron que las ramas de esta antigua población se expandieran
-   desde el humedal a nuevas zonas verdes. Miles de años después, una
-   pequeña población de parientes de estos trotamundos saldría de África y
-   acabaría habitando todos los rincones del planeta.
+   Logo Uruguay.uy
+   gub.uy
+     * Facebook
+     * Twitter
+     * YouTube
+     * LinkedIn
 
-¿Por qué no se ha encontrado el eslabón perdido entre los monos y nosotros?
+     * Sitio oficial de la República Oriental del Uruguay
+     * Mapa del sitio
+     * Declaración de accesibilidad
+     * Términos de uso
+     * Política de Privacidad
 
-   Porque no existe. Los chimpancés y otros monos, no seguirían la línea
-   evolutiva humana, a pesar de que partimos de un ancestro común, hemos
-   evolucionado en direcciones diferentes. La cuestión que surge aquí es:
-   ¿cuál es ese "padre" común? Y esa respuesta aún no la tenemos.
+   gub.uy
+   (BUTTON) Close Menu
+   Buscar en gub.uy: ____________________ (BUTTON) Buscar en gub.uy
+   Organismos
+     * Presidencia
+     * Ministerios
+     * Gobiernos Departamentales
+     * Otros Organismos
+     * Iniciativas Interinstitucionales
 
-¿Ha terminado la evolución para nosotros?
+   Servicios
+     * Trámites y Servicios
+     * Atención a la Ciudadanía
+     * Información por temas
 
-   Realmente no, los humanos seguiremos evolucionando, aunque de una
-   manera más cultural y tecnológica que biológica. El resto de animales,
-   lo harán condicionados por los cambios que el ser humano está
-   ocasionando en el medio ambiente.
-   (BUTTON) Por qué la cocina fue esencial en nuestra evolución
-   Por qué la cocina fue esencial en nuestra evolución
-   El control del fuego y cocinar la comida dio una ventaja evolutiva
-   esencial a los 'Homo sapiens' no solo a nivel técnico sino también a
-   nivel comunitario. Imágenes de la serie 'Nuestros Orígenes'
+   Participación
+     * Participación Ciudadana
+     * Ciudadanía Digital
+     * Gobierno Abierto
 
-   Este artículo se publicó originalmente en inglés en
-   nationalgeographic.com y fue traducida en enero de 2017. La información
-   ha sido ampliada en septiembre de 2023.
-     * Ciencia
-     * Cultura Prehistórica
-     * Evolución Biológica
-     * Fósiles
-     * Gente y Cultura
-     * Historia
-     * Homo Naledi
-     * Lee Berger
-     * Migración Humana
-     * Nadia Drake
-     * Paleontología
-     * Paleontólogos
-     * Seres Humanos
-     * Ancestros
-     * Arqueología
-     * Biología
-     * Exploración Geográfica
-     * Exploradores
-     * Prehistoria
-     * (BUTTON)
-       Más
+   Datos y Estadísticas
+     * Datos Abiertos
+     * Observatorios
 
-   (BUTTON)
-   Seguir leyendo
-   loading
-
-Descubre Nat Geo
-
-     * Animales
-     * Medio ambiente
-     * Historia
-     * Ciencia
-     * Viajes y aventuras
-     * Fotografía
-     * Espacio
-     * Vídeo
-
-Sobre nosotros
-
-     * Temas, autores y fotógrafos
-     * National Geographic Partners
-     * National Geographic Society
-     * National Geographic Expeditions
-     * Dónde ver National Geographic
-     * Programación TV
-     * National Geographic Now
-
-Suscripción
-
-     * Revista NatGeo
-     * Revista NatGeo Kids
-     * Registrarse
-     * Disney+
-
-Síguenos
-
-   facebooktwitterinstagramflipboardyoutuberss
-     * Política de privacidad (actualizada)
-     * Términos y condiciones de uso
-     * Privacidad en R.U. y en la U.E.
-     * Publicidad relacionada
-     * Política de cookies
-     * (BUTTON) Gestión de cookies
-     * Gestión de consentimiento
-
-   Copyright © 1996-2015 National Geographic Society. Copyright ©
-   2015-2023 National Geographic Partners, LLC. All rights reserved
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W2Q42S
+   Comunicación
+     * Campañas
+     * Uruguay Presidencia

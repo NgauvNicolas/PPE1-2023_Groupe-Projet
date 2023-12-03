@@ -1,288 +1,322 @@
-    #alternate
+   #TecnoMagazine » Feed TecnoMagazine » RSS de los comentarios
+   TecnoMagazine » Historia de la Tecnología RSS de los comentarios
+   alternate alternate alternate
 
-   IFRAME: about:blank
+   Saltar al contenido
 
-   Acceso usuarios Asociación @aslan Asociación @aslan
-     * La Asociación
-          + Sobre nosotros
-          + Nuestros Asociados
-          + Junta Directiva y Comisiones
-          + Premios Transformación Digital
-          + Sala de prensa
-          + Contacto
-          + FAQs
-     * Eventos & Actividades
-     * Centro de Conocimiento
-          + Casos de Uso
-          + CyberSecurity
-          + Intelligent Networks
-          + DataManagement & AI
-          + Cloud & Data Center
-          + Digital WorkSpace
-          + Especiales y tendencias
-     * ÚneteASLAN
+   TecnoMagazine
 
-   |
-   (BUTTON)
-
-   Artículo
-   12
-   Mar
-   2018
-
-Transformación Digital y evolución tecnológica, una apuesta imprescindible
-
-   Hay que ser competitivo y aportar valor al mercado. Este se consigue de
-   diversas formas, y una de ellas es ofreciendo la capacidad de adaptar
-   los productos de nuestro portfolio a las necesidades concretas de cada
-   empresa o profesional
-
-   Valora esta entrada
-   | 0
-   [Lenovo-1.jpg]
-
-   La transformación digital de las empresas está jugando un papel crucial
-   en la evolución del mercado, y la tecnología ha comenzado a adaptarse a
-   los cambios. Necesitamos dispositivos potentes y preparados para acoger
-   nuevas funcionalidades y programas que vienen acompañando a esta
-   transformación digital de la que hablamos, para enormes ecosistemas de
-   aplicaciones y montones de datos. Como en cualquier transformación, lo
-   importante es saber adaptarse. Los hábitos de consumo han cambiado y lo
-   siguen haciendo cada vez con más rapidez. Lo digital ha multiplicado
-   exponencialmente la habilidad de conectarnos. Hay menos barreras pero
-   más competencia y aunque es tremendamente complicado, hay que intentar
-   estar siempre por delante de lo que el consumidor demanda para poder
-   satisfacer sus necesidades en el momento en el que las requieran.
-
-
-   Los usuarios demandan cada día más innovación y el máximo rendimiento
-   posible, y ese es precisamente nuestro reto. Hay que ser competitivo y
-   aportar novedades al mercado, ya que para mantenerse en él hay que
-   aportar valor. El valor se consigue de diversas formas, y una de ellas
-   es ofreciendo la capacidad de adaptar los productos de nuestro
-   portfolio a las necesidades concretas de cada empresa o profesional,
-   desde un emprendedor a una gran multinacional.
-
-
-   ¿Hacia dónde evolucionará este mercado en los próximos años?
-
-
-   La Inteligencia Artificial y los sistemas hiperconvergentes están
-   marcando la evolución del mercado. La IA aplicada al negocio del data
-   center está experimentando un verdadero boom con grandes oportunidades
-   para las empresas, y de hecho tiene todo el potencial para cambiar el
-   sector IT. Podemos simular el aprendizaje, sacar conclusiones y
-   reproducir la forma en la que se comunican los humanos con la ayuda de
-   un nuevo software. Los sistemas IA son capaces de responder preguntas
-   de manera natural, buscando en diferentes bases de datos y proporcionar
-   respuestas en el menor tiempo posible. Los resultados son
-   impresionantes y generan verdaderos beneficios empresariales.
-
-
-   Multitud de analistas confirman el gran potencial de la inteligencia
-   artificial cuando se trata de las aplicaciones empresariales y la
-   mejora de la posición competitiva de la empresa. Según un estudio
-   llevado a cabo por Crisp Research, empresa de investigación de
-   mercados, un 64% de los responsables de la toma de decisiones en
-   empresas de TI están abordando temas de aprendizaje automático y otras
-   tecnologías de inteligencia artificial, y alrededor del 20% están
-   utilizando el aprendizaje automático de forma productiva.
-
-
-   Además de los avances teóricos, tecnológicos y de software, los nuevos
-   ordenadores y el hardware moderno son actualmente capaces de procesar
-   rápidamente grandes cantidades de datos, haciendo que los sistemas de
-   IA sean útiles en muchas aplicaciones diferentes. Y lo primero que las
-   empresas deben hacer para prepararse para la IA es actualizar sus
-   centros de datos.
-
-
-   La hiperconvergencia es fundamental para este fin, porque hace posible
-   que los sistemas locales en las instalaciones, los centros de datos
-   externos y los servicios en la nube se integren perfectamente y de
-   forma segura. Estos sistemas hiperconvergentes permiten escalar el
-   almacenamiento y la potencia de cálculo de forma flexible para que
-   puedan adaptarse a las necesidades cambiantes de cada momento. También
-   proporcionan a las empresas la opción de mover grandes cantidades de
-   datos a la nube y, cuando es necesario, transferirlos de un lado a otro
-   entre sistemas locales y remotos.
-
-
-   En los próximos años, las aplicaciones de IA van a cambiar
-   significativamente las industrias de servicios, especialmente en temas
-   relacionados con atención al cliente, pero también los procesos
-   industriales. Para ello, sin embargo, necesitan tener arquitecturas de
-   IT que proporcionen el rendimiento necesario, la velocidad y los
-   recursos para procesar grandes cantidades de datos, y así seguir
-   formando parte de un mercado muy competitivo en el que ya estamos
-   inmersos.
-
-
-   LENOVO DATA CENTER GROUP participa como Event Sponsor del Congreso&EXPO
-   ASLAN2018. Realice su inscripción gratuita en: www.congreso.aslan.es
-
-
-
-   Más información en: http:///www3.lenovo.com/es/es/data-center/
-   Ángel Ruiz
-   Lenovo Data Center Group
-   Director
-     __________________________________________________________________
-
-Newsletter
-     __________________________________________________________________
-
-   ¿Quiere recibir información de la Asociación y actividades organizadas:
-   invitaciones, eventos, lanzamientos etc?
-   Email* ____________________
-   (BUTTON) Suscribirme
-
-   (BUTTON) ×
-
-¿Nos permites conectarte con ?
-
-   Te agradecemos que nos autorices a conectarte con , una de las empresas
-   asociadas que apoya a @aslan en la divulgación de nuevas tecnologías en
-   España.
-
-   Consulta aquí la Política de Privacidad.
-   Esta conexión te permitirá descargar Presentaciones y documentación de
-   valor
-   Desactívalo cuando quieras
-   Si, estoy de acuerdo
-
-Síguenos
-
-    Asociación @aslan
+   ____________________
+   (BUTTON) Menú
+     * Apps
+     * Móviles
+     * Software
+     * Hardware
      *
-          + Presentación
-          + Unete ASLAN
-          + Empresas Asociadas
-          + Junta Directiva
-          + Comisiones de trabajo
-          + Grupos de Expertos
-          + Fotos
-          + FAQs
-          + Contacto
-          + Aviso Legal
-          + Política de Privacidad
-          + Modificación perfil de usuario
-        Actividades
-          +
-          + TODAS - Plan Anual
-          + Congreso & EXPO
-          + Tour Tecnológico
-          + Foros Tendencias
-          + Coloquios
-          + Encuentros Anuales
-          + Premios Transformacion Digital
-          + Especiales y Newsletter
-          + Regata: TeamBuilding
-          + Golf: Networking
-        Centro de Conocimiento
-          +
-          + Noticias
-          + Sala de Prensa
-          + Casos de Uso
-          + CyberSecurity
-          + Intelligent Networks
-          + DataManagement & AI
-          + Cloud & Data Center
-          + Digital WorkSpace
 
-GALERÍA DE IMÁGENES
-       © Copyright Asociación @aslan | Todos los derechos reservados |
-       Política de Privacidad y términos | Aviso Legal
-       (BUTTON) cerrar
+Historia de la Tecnología
 
-Únete a nuestro ecosistema y participa activamente.
-       Elije una opción
-       Empresa Asociada Usuario Gratuito
+   Anteriormente hemos ya dejado en claro cuál es la definición de
+   tecnología, así como sus diferentes tipos y ejemplos cotidianos. Todos
+   conocemos la tecnología moderna… ¿pero qué sabemos de sus orígenes? Hoy
+   exploraremos la historia de la tecnología.
 
-   (BUTTON) ×
-   (BUTTON) (BUTTON)
+¿Cuál fue el inicio de la tecnología?
 
-eMail existente
+   El origen e inicio de la tecnología se remonta a casi 4.9 millones de
+   años atras cuando los seres vivos que vivían en aquel entonces se veían
+   envueltos en una feroz lucha por la supervivencia.
+   [INS: :INS]
 
-Anteriormente ya ha participado en nuestras actividades:
+   Entre ellos estaba el hombre primitivo, peludo, con poca razón y mucha
+   fuerza. Y si bien por aquel entonces el humano era más mono que hombre
+   en si, poco a poco fue desarrollando su inteligencia para lograr
+   alimentarse, cazar y hasta protegerse de las inclemencias del tiempo
+   (no mojarse cuando llovía o evitar el frío con pieles animales)
 
-   Iniciar sesión y precargar datos usuario
+   Con el correr del tiempo aprendió también sober que si plataba semillas
+   de las frutas que comía, crecían árboles, nació entonces la
+   agricultura. Y también así descubrió que habían otros materiales como
+   fibras que le permitían abrigarse mejor que con simples cueros de
+   animales, así nació lo que hoy conocemos como ropa.
 
-Le hemos enviado una clave al correo electrónico con el que se registró.
+   También se dió cuenta que al pisar suelos con piedras o espinas sus
+   pies se dañaban y sangraba, por lo que se las ingenió para recubrirlos
+   con lo que hoy llamamos zapatos.
+   [INS: :INS]
 
-   Clave* ____________________
+   Más adelante vió el potencial de la luz eléctrica con el fabuloso
+   Thomas Alba Edison e inventó la luz eléctrica para alumbrar el mundo y
+   las vidas de millones de personas.
 
-   La clave introducida es incorrecta.
-   Aceptar
+   Y llegó el día en que inventó la informática y computadoras para
+   procesar la información de manera rápida y eficaz para evitar hacerlo a
+   mano.
 
-Por favor, introduzca su contraseña.
+   Es decir, la tecnología es lo que ha ayudado al hombre a mejorar la
+   calidad de vida a través de la historia, lo ha ayudado a concretar cada
+   uno de sus deseos y necesidades, desde cocinar, hasta volar, o
+   comunicarse con otros seres alrededor del mundo.
 
-   Clave* ____________________
+Historia de la Tecnología Historia de la Tecnología
 
-   La contraseña introducida es incorrecta.
-   Aceptar
-   Identifícate
+Evolución de la Tecnología a través del tiempo
 
-   (BUTTON) ×
-   Correo electrónico ____________________
-   Contraseña ____________________
-   [X] No cerrar sesión
-   (BUTTON) Entrar
-   He olvidado mi contraseña
-   Si no está registrado puede hacerlo aquí
+   El avance y constante evolución de la tecnología siempre ha ido
+   acompañado de los grandes pasos y avances de la Ciencia, la cual ha
+   seguido de cerca la evolución tecnológica del hombre.
 
-Restablecer contraseña
+   Igualmente, no debemos confundir la ciencia con la tecnología, pues son
+   dos cosas diferentes. La ciencia son el conocimiento y técnicas como
+   tal, y la tecnología engloba el resultado de esos conocimientos y cómo
+   éstos ayudan al hombre a resolver cuestiones prácticas de las
+   necesidades del hombre.
 
-   (BUTTON) ×
-   Correo electrónico ____________________
-   (BUTTON) Aceptar
+   Cuando hablamos de tecnología siempre pensamos en Internet, las
+   supercomputadoras, realidad virtual, smartphones o coches autónomos. Y
+   es cierto que eso es parte de la tecnología moderna, pero en realidad
+   la palabra tecnología engloba mucho más de lo que vemos hoy en nuestras
+   vidas.
 
-   (BUTTON) ×
+   La actividad y creación de la tecnología es tan antigua como el ser
+   humano mismo, por eso a continuación veremos las diferentes etapas de
+   la evolución de la tecnología a lo largo del tiempo.
 
-   (BUTTON) ×
+Antes de la Historia
 
-   (BUTTON) ×
+   El período conocido como “Antes de la historia” se llama “Prehistoria“,
+   y engloba el período desde que el ser humano apareció en el mundo,
+   hasta que se inventó la agricultura en pleno Neolítico, allá por el año
+   3000 antes A.C.
 
-   (BUTTON) ×
+   El inicio de la agricultura marcó un antes y después en la historia del
+   ser humano pues lo hizo afianzarse a un lugar determinado y permitió
+   que dejara de ser un nómada, es decir, hizo posible el surgimiento de
+   los primeros poblados, esta se conoce como la primer revolución
+   tecnológica del hombre.
 
-   (BUTTON) ×
+   Los avances tecnológicos en la prehistoria no eran gran cosa si los
+   comparamos con los actuales, la tecnología por aquel entonces era
+   exclusivamente usada para sobrevivir, dedicada a mejorar la técnica de
+   caza y alimentación a través de árboles frutales.
 
-¿Nos permites conectarte con ?
+   La prehistoria terminó con otro gran avance del hombre, la invención de
+   la escritura, una de las primeras formas de comunicación.
 
-   Te agradecemos que nos autorices a conectarte con , una de las empresas
-   asociadas que apoya a @aslan en la divulgación de nuevas tecnologías en
-   España.
+Edad Antigua
 
-   Consulta aquí la Política de Privacidad.
-   Esta conexión te permitirá descargar Presentaciones y documentación de
-   valor
-   Desactívalo cuando quieras
-   Si, estoy de acuerdo
+   La llamada edad antigua abarca el período desde el 3000 A.C hasta el
+   año 500 D.C.
 
-   (BUTTON) ×
+   En este período fue clave el desarrollo de la escritura cuneiforme, que
+   sirvió como puntapié para que el hombre se pudiera comunicar de forma
+   alternativa, y que pudiera dejar mensajes a sus predecesores en siglos
+   posteriores.
 
-¿Nos permites conectarte con las empresa nos están apoyado?
+   Lugares y ejemplos de tecnología nueva que surgieron en esta época
+   fueron:
+     * Mesopotamia: inventan escritura cuneiforme.
+     * Medio oriente: se inventa la rueda, un avance tecnológico clave
+       para el desarrollo del humano.
+     * Egipto: aparecen las construcciones en piedra.
+     * Grecia: se conforma la polis griega y el concepto de ciudad, así
+       como avances matemáticos nunca antes vistos.
+     * Roma: se forma el concepto de imperios y territorios, así como
+       grandes avances en tecnología militar.
 
-   Te agradecemos que nos autorices a conectarte con , empresas asociadas
-   que apoya a @aslan en la divulgación de nuevas tecnologías en España
+Edad Media
 
-   Consulta aquí la Política de Privacidad.
-   Esta conexión te permitirá descargar Presentaciones y documentación de
-   valor
-   Desactívalo cuando quieras
-   Si, estoy de acuerdo
+   En esta etapa que transcurre desde el año 500 D.C hasta el
+   Descubrimiento de América por Colón en 1492 se vieron un sin fin de
+   invenciones que mejoraron la vida del hombre y le hicieron alcanzar
+   gran parte de sus grandes ambiciones y colmaron sus necesidades.
 
-   Icono calendario ^
-   ULTIMA HORA >>>
+   Con la caída de Roma muchos de los grandes inventos y avances que
+   tenían se perdieron en manos de sus conquistadores, sin embargo otros
+   si sobrevivieron hasta nuestros días.
 
-   DIRECTO 12:30h
+   Igualmente en Europa se produce uno de los grandes descubrimientos que
+   ayudarían a la humanidad a ver cada vez mejor: las gafas, también
+   conocidos como lentes, fueron creadas por Alessandro della Spina, en el
+   siglo XIII.
 
-   ENTRAR
+   También en Europa se inventa la imprenta de la mano de Johannes
+   Gutenberg en el siglo XV. Éste sería uno de los medios claves para
+   reproducir textos creados por el hombre de una forma más automática
+   respecto a la escritura manual.
 
-PROGRAMACIÓN
+   Aparte de Europa, en Asia se venían dando una serie de grandes
+   descubrimientos que fueron inmensamente útiles.  Particularmente en
+   China se produce el invento de la pólvora, que marcaría un antes y
+   después en la forma de enfrentarse en el campo de batalla ante sus
+   enemigos.
 
-   (BUTTON) ×
+   Y otro gran descubrimiento tecnológico proveniente de China es el
+   papel, que tanto usamos hoy en día para nuestras actividades diarias.
+   Este invento tecnológico fue posible gracias a  Cai Lun en el añ0 105
+   D.C.
 
-   Esta web utiliza cookies, puede ver nuestra la política de cookies
-   aquí. Si continuas navegando está aceptándola Aceptar.
-   []
+Edad Moderna
+
+   Cuando Colón llegó a América por primera vez seguramente desconocía que
+   su “descubrimiento” iba a marcar el fin de la edad media, y el comienzo
+   de la llamada Edad Moderna, que se extendió hasta el año 1789.
+
+   En la edad moderna ocurrieron muchos avances de tecnología que
+   marcarían las bases del mundo industrial que llegó más adelante, entre
+   ellos vale la pena destacar lugares y acontecimientos como:
+     * Microscopio compuesto (1595):  inventado por Zacharias Janssen en
+       Holanda.
+     * Termómetro de mercurio (1714): Daniel Gabriel Fahrenheit desarrolló
+       el termómetro en Holanda.
+     * Máquina de vapor (1769):  inventada por James Watt en Escocia.
+     * Pararrayos (1753): creado por Benjamin Franklin  en Estados Unidos.
+     * Galeón (Siglo XVI): desarrollado en Europa, permitió la navegación
+       de los mares.
+
+   Durante este período se vivió la época del descubrimiento de América,
+   así como la del Renacimiento, que fueron hitos que marcaron la sociedad
+   europea y afectaron el posterior desarrollo de las tecnologías.
+
+   Surgió también el sistema capitalista, se dejó atrás el feudalismo, y
+   con él vino una serie de invenciones que serían críticos para el
+   posterior desarrollo de la conocida Revolución Industrial, ya en la era
+   post moderna.
+
+Revolución Industrial
+
+   La máquina de vapor fue un invento de tecnología de la Edad Moderna que
+   marcó el final de la misma, y el comienzo de la Edad Industrial allá
+   por 1760.
+
+   Esta etapa de éxitos tecnológicos permitió al ser humano automatizar
+   una serie de tareas manuales como nunca antes, para aumentar la
+   producción de bienes y productos en los campos industriales, agrícolas,
+   ganaderos, entre otros.
+
+   En esta etapa de innovación, el hombre emigra desde el campo hacia las
+   ciudades en busca de mejoras económicas para poder sustentar a sus
+   familias. En las ciudades se instalan grandes fábricas, y allí es donde
+   aparecen los trabajadores que posteriormente se conocerían como
+   “obreros” o “clase obrera”.
+
+   En la época industrial si bien la tecnología ayudaba a los grandes
+   empresarios a automatizar tareas y aumentar la producción, en
+   contrapartida hacía que los seres humanos que operaban las máquinas
+   trabajaran largas jornadas de hasta 18 horas encerrados en las fábricas
+   industriales.
+
+   También es aquí donde comienza el gran problema de la contaminación
+   mundial, la afectación irreversible de la ecología por la relación de
+   la tecnología y medio ambiente, así como los ecosistemas a causa de los
+   desperdicios tóxicos de las industrias.
+
+   Los principales inventos de esta época incluyen:
+     * Teléfono: desarrollado por Alexander Graham Bell en 1876.
+     * Bombilla eléctrica: creada por Thomas Alba Edison en 1879.
+     * Automóvil de combustión interna: inventado por Karl Benz en 1885.
+     * Avión: inventado por los hermanos Wright en 1899 a 1903.
+
+Edad Post Industrial
+
+   La Era Post Industrial es la época que vivimos hoy en día, y que
+   comenzó en el Siglo XX y abarca el Siglo XXI que transcurre ahora
+   mismo. Es la etapa de mayor crecimiento tecnológico en la historia del
+   hombre.
+
+   La luz eléctrica se expande a todos los hogares del mundo, se
+   desarrollan aún más la agricultura y ganadería masiva, los inventos de
+   tecnología militar, así como el transporte, inventos de tecnología
+   médica (que logran mejorar la calidad y extender la cantidad de años
+   que vive el hombre) y tecnología nuclear.
+
+   El surgir primero de la electrónica luego posibilitó la aparición de la
+   primer computadora allá por 1942 gracias los estadounidenses John
+   Vincent Atanasoff y Clifford Berry en la Iowa State University.
+
+   La tecnología espacial también se desarrolla en este Siglo con los
+   primeros satélites en órbita allá por 1960, y 9 años más tarde cuando
+   el hombre llega a la Luna con la Apollo XI.
+
+   En 1969 se logra la primer conexión de ARPANET, estableciendo un enlace
+   estable entre la Universidad de California (UCLA) y Stanford, fue el
+   primer respiro del Internet moderno. A pocos años de la creación de
+   ARPANET, en 1971, nacería el tan conocido E-mail, es decir, el correo
+   electrónico.
+
+   Ya en 1980 surgieron las computadoras modernas, para posteriormente
+   generar un crecimiento exponencial de la informática, así como del
+   tendido de redes telefónicas, móviles, intranets y de Internet.
+
+   Otros inventos notables de esta época han sido:
+     * Radio.
+     * Televisión.
+     * Microprocesadores.
+     * CD-ROM
+     * DVD y Blu-Ray
+     * Electrodomésticos
+     * Robots y Androides
+     * Inteligencia Artificial
+     * GPS y localización satelital
+     * Redes inalámbricas
+
+Resumen sobre la Historia de la Tecnología
+
+   Como hemos visto a lo largo de este artículo, la tecnología ha ido
+   avanzando y transformándose desde el Neolítico hasta nuestra Sociedad
+   Post Industrial en el Siglo XXI. Las características de la tecnología
+   han ido cambiando radicalmente en cada época.
+
+   Durante todos estos miles de años los humanos nos hemos valido de
+   nuestras habilidades, de la evolución cognitiva, así como de las
+   diferentes técnicas aprendidas junto al uso de máquinas, herramientas y
+   artefactos para colmar nuestras necesidades, desde las más básicas como
+   calentarnos cuando hace frío, cocinar los alimentos, cultivar, hasta
+   navegar por universos de realidad virtual en la Internet moderna.
+
+   La historia de la humanidad ha cambiado gracias a la tecnología, una
+   gran prueba de ello han sido las tecnologías de exterminación que ha
+   usado el hombre contra sus pares de diferentes naciones, en las guerras
+   mundiales, o bien en los campos de concentración nazi.
+
+   En la siguiente línea de tiempo podrás ver un resumen sobre los
+   diferentes y principales avances en la tecnología:
+
+   evolucion de la tecnologia evolucion de la tecnologia
+
+   Aquí les presentamos un vídeo de la Televisión Española (TVE) que habla
+   sobre la evolución de la tecnología, no tiene desperdicio, así que
+   siéntate a mirarlo con tranquilidad:
+
+   IFRAME: https://www.youtube.com/embed/IeCAW5c-YaI?rel=0
+
+   Categorías Tecnologia
+
+Artículos relacionados:
+
+   [INS: :INS]
+
+Deja un comentario
+
+   Lo siento, debes estar conectado para publicar un comentario.
+
+Windows
+
+     * Limpiar PC
+     * Acelerar Windows 10
+     * Acelerar Internet
+     * Eliminar Malware
+     * Programas de diseño
+
+Internet
+
+     * Definición de Tecnología
+     * Ejemplos de Tecnología
+     * Historia de la Tecnología
+     * Avances Tecnológicos
+     * Tecnología Educativa
+     * Qué es Web Hosting
+
+     * Contacto
+
+   © 2023 TecnoMagazine

@@ -1,209 +1,281 @@
-   Pasar al contenido principal
+   #alternate alternate alternate
 
-   Inicio
-     * Estudiantes
-     * Académicos
-     * Egresados
-     * Funcionarios
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5GJV7TV
 
-Formulario de búsqueda
+     * Saltar a la navegación principal
+     * Saltar al contenido principal
+     * Saltar a la barra lateral principal
+     * Saltar a la barra lateral secundaria
+     * Saltar al pie de página
 
-   Buscar _______________
-   Buscar
+   Logo Economipedia Crema
 
-Menú principal
+   Economipedia
 
-     * Nuestra Universidad
-          + Misión y valores
-          + Acreditación
-          + Rectoría
-          + Prorrectoría
-          + Gobierno Central
-          + Asociaciones
-          + Documentos
-          + Empresas, Institutos y Fundaciones
-     * Admisión
-     * Programas de estudio
-          + Pregrado
-          + Postgrado
-          + Prosecución de estudios
-          + Educación Continua
-     * Facultades
-          + Facultad de Administración y Economía
-          + Facultad de Ciencia
-          + Facultad de Ciencias Médicas
-          + Facultad de Derecho
-          + Facultad de Humanidades
-          + Facultad de Ingeniería
-          + Facultad de Química y Biología
-          + Facultad Tecnológica
-          + Facultad de Arquitectura y Ambiente Construido
-          + Programa de Bachillerato
-     * Investigación
-          + Investigación de excelencia
-          + Desarrollo pertinente
-          + Innovación que impacta
-          + Repositorio institucional
-          + Comité de Ética Institucional
-          + Oficina de Transferencia Tecnológica
-     * Vida Universitaria
-          + Galería Fotográfica
-          + Temporada de Conciertos
-          + Orquesta y elencos musicales
-          + Cultura para estudiantes
-          + Deporte
-     * Cartas a la comunidad universitaria
+   Haciendo fácil la economía
 
-Noticias
+     * Suscríbete
+     * Cursos
+     * Diccionario
+     * Recursos
+          + Educación financiera
+          + Inversión en bolsa
+          + Eventos
+          + Guías
+          + Actualidad
+          + Rankings
+     * Acceso Campus
+     * ____________________ ____________________ Start search
+       (BUTTON)
+       Más resultados...
 
-   16 Marzo 2017
+       Generic selectors
 
-Experta analiza evolución de la sociedad chilena en las últimas cuatro
-décadas
+       [ ]
+       Exact matches only
+       [X]
+       Search in title
+       [ ]
+       Search in content
+       [ ]
 
-   Volver
-     * La socióloga Dra. Kathya Araujo participó en el segundo seminario
-       Anual del Área de Ciencias Sociales, organizado por el Instituto de
-       Estudios Avanzados (IDEA), donde analizó los cambios de la sociedad
-       chilena ocurridos en nuestro país en los últimos cuarenta años.
+       Post Type Selectors
+
+       [X]
+       Search in posts
+       [ ]
+       Search in pages
+       [X]
+       [X]
+       [X]
+       [X]
+       [X]
+
+Evolucionismo social
+
+   Redactado por: Rosario Peiró
+   Revisado por: Guillermo Westreicher
+   Actualizado el 1 septiembre 2021
+
+Tabla de contenidos
+
+     * Definición técnica
+     * ¿Cuáles son las características más destacadas del evolucionismo
+       social?
+     * ¿Para qué sirve el evolucionismo social?
+
+   El evolucionismo social hace referencia a los cambios que se producen
+   en una sociedad a lo largo de los años. La antropología indica que cada
+   sociedad pasa por un proceso similar a la hora de desarrollarse y
+   sentar las bases fundamentales de su civilización.
+
+   Es decir, gracias a esta teoría, se pretende investigar y estudiar los
+   aspectos que evolucionan en la sociedad.
+
+   Este concepto también se conoce como darwinismo social. Herbert
+   Spencer, psicólogo y antropólogo inglés, acuñó este término. A través
+   de esta teoría, aplicó las leyes formuladas por Darwin que le sirvieron
+   para sentar las bases del evolucionismo social en relación con la
+   psicología y la educación.
+
+   Por lo tanto, el evolucionismo social se estudia e investiga desde
+   diferentes perspectivas. En lo que se refiere a la biología, se pone el
+   foco en las relaciones interpersonales y cómo interaccionan las
+   personas que pertenecen a una misma sociedad y especie.
+
+   El evolucionismo social trata de responder a preguntas importantes que
+   expliquen cómo ha evolucionado la sociedad. Por ejemplo, ¿Cómo se ha
+   llevado a cabo el progreso? ¿Cuáles son sus características
+   principales? ¿Cómo se mide el progreso? ¿Es posible esto?
+
+   Existen muchas teorías al respecto, además de argumentos que se
+   contradicen. Sin embargo, todas tienen la intención de explicar y
+   desarrollar estas cuestiones tan importantes.
+
+¿Cuáles son las características más destacadas del evolucionismo social?
+
+   Estas son las principales:
+     * La primera premisa, y que es común a todas las sociedades, es el
+       hecho de que existe una evolución cultural. Esto significa que en
+       todas se producen una serie de etapas que abarcan desde la barbarie
+       hasta la civilización social. Esto es común en la mayoría de
+       sociedades. Además, se da la circunstancia que, a través de los
+       diversos estudios que se han llevado a cabo, se pasa de situaciones
+       más sencillas a más complejas en todos los aspectos sociales
+       existentes.
+     * También se señala el hecho de que la cultura occidental sea
+       superior, ya que ha evolucionado con una base tecnológica muy
+       potente, además de contar con el cristianismo como religión
+       mayoritaria y verdadera.
+
+¿Para qué sirve el evolucionismo social?
+
+   El evolucionismo social pretende estudiar e investigar cómo se ha
+   producido la evolución social. Para ello, realiza sus estudios a través
+   de diferentes campos. Por ejemplo, la biología, la cultura o la
+   psicología.
+
+   El evolucionismo señala que el ser humano actual es el resultado de
+   años de evolución. Estos cambios se han producido a través de una serie
+   de etapas que han conformado al ser humano de hoy. Así ocurre también
+   en el resto de aspectos de la sociedad.
+
+   Es muy útil poder conocer esta información, ya que sirve para obtener
+   datos valiosos sobre la historia, la evolución y establecer parámetros
+   para conocer cómo funcionan las sociedades.
+
+   Esta información sirve para continuar investigando y saber que las
+   sociedades se van transformando a través de pequeños pasos que van
+   desde la sencillez a mayor complejidad.
+     * Diccionario económico
+     * Economía
+
+¿Quieres referenciar este artículo?
+
+   Rosario Peiró, 08 de octubre, 2021
+   Evolucionismo social. Economipedia.com
+
+Artículos recomendados
+
+     Dance marketing
+
+     Teoría de cartera
+
+     Juan Ramón Rallo
+
+     Movilización
+
+     Perfil agresivo
+
+     Cheque alterado
+
+   guest
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   ____________________ Nombre*
+   ____________________ Email
+   [X] Enviar comentario
+   guest
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   ____________________ Nombre*
+   ____________________ Email
+   [X] Enviar comentario
+   0 Comentarios
+   Feedbacks
+   Ver comentarios
+   (BUTTON) Ver más comentarios
+
+Barra lateral principal
+
+Cursos más vistos
+
+   1
+   Curso de ahorro y finanzas personales
+   2
+   Curso básico de inversión en bolsa
+   3
+   Curso de política monetaria y fiscal: las claves de la economía
+   4
+   Curso de sistema financiero, mercados y operativa en bolsa
+   5
+   Curso básico de análisis fundamental. ¿Cuánto vale una empresa?
+
+   Broker de bolsa XTB
+
+Guías más leídas
+
+     Metaverso
+   Algo pasa con el Metaverso: Todo lo que quieres saber y no te atreves a
+   preguntar
+
+     IRPF
+   ¿Qué porcentaje de IRPF me corresponde en mi nómina de España?
+
+     Guia
+   Guía: ¿Cómo hacer un plan de marketing? Paso a paso
+
+Lo más leído del mes
+
+     Dollars. A Roll Of Dollars And Gold Coins On A Blue Background.
+   Ventajas y desventajas de la dolarización
+
+     Econ Y Renta4
+   Renta 4 Banco y Economipedia ofrecen un círculo de conferencias
+   gratuitas para impulsar la educación financiera
+
+     Importancia I+d+i
+   ¿Por qué es importante invertir en I+D+I?
+
+Barra lateral secundaria
+
+Índice
+
+     * Definición técnica
+     * ¿Cuáles son las características más destacadas del evolucionismo
+       social?
+     * ¿Para qué sirve el evolucionismo social?
+
+Footer
+
+Diccionario económico
+
+     * Diccionario económico
+
+Contenidos de economía
+
+     * Cursos
+     * El Diccionario económico
+     * Recursos gratuitos
+     * Guías
+     * Fuentes
+
+Sobre nosotros
+
+     * ¿Qué es economipedia?
+     * ¿Quiénes somos?
+     * El equipo
+     * Empleo
+     * Ayuda
+     * Contacto
+
+   Si quieres colaborar con nosotros o hacernos llegar cualquier
+   sugerencia, puedes contactar a través de nuestro formulario de
+   contacto.
+   Síguenos en redes sociales:
+
+   Logo Economipedia
+
+   Síguenos en redes sociales
+     * Icono Facebook
+     * Icono LinkedIn
+     * Icono Twitter
+     * Icono YouTube
+     * Icono Instagram
+
+     * Ayuda
+     * Aviso legal
+     * Cookies
+     * Privacidad
+     * Términos y condiciones
+
+   Copyright © 2023 Economipedia
+
+   wpDiscuz
 
 
-   La socióloga Dra. Kathya Araujo participó en el segundo seminario Anual
-   del Área de Ciencias Sociales, organizado por el Instituto de Estudios
-   Avanzados (IDEA), donde analizó los cambios de la sociedad chilena
-   ocurridos en nuestro país en los últimos cuarenta años.
-   El tema central fue la presentación de su estudio “Diez tesis sobre la
-   sociedad chilena hoy”, donde explicó las razones que -a su juico- han
-   provocado los cambios en nuestro país.
-   “Lo que ha cambiado en Chile es que se están recomponiendo los
-   principios de legitimidad, de la racionalidad social y aquellos que
-   ordenan las relaciones sociales, los que se han transformado como
-   resultado de dos grandes procesos: la instalación del modelo
-   neoliberal, como modelo económico y social, y los procesos de empuje a
-   la democratización”, precisó.
-   Agregó que los dos fenómenos han producido un nuevo escenario en la
-   vida social y que por tanto, los individuos “tienen que responder de
-   nuevas maneras”. Aclaró que este proceso en que la vida social “está
-   siendo recompuesta, renegociada y reconfigurada no es de ahora, es algo
-   que ocurrió lentamente, al menos en los últimos 40 años”.
-   Para la socióloga, de esta manera los procesos van cambiando y los
-   individuos deben enfrentar un mundo social distinto, que evoluciona.
-   “Se transforma lo que uno puede esperar, las formas de relación que uno
-   encuentra admisibles, desde el punto de vista de lo que cada quien cree
-   que se merece y lo que no. Todo eso se ha transformado de manera
-   significativa y tenemos que darnos las respuestas, y las 10 tesis se
-   refieren hacia dónde está yendo este proceso”, puntualizó.
-   Las tesis que explican nuestra sociedad actual
-   Expresó que, básicamente, las tesis apuntan a diagnosticar la actual
-   sociedad chilena, afirmando, por ejemplo, que los cambios y las
-   transformaciones en las últimas décadas “han llevado a una exigencia de
-   híper actuación para los individuos y por tanto a un fortalecimiento de
-   los actores sociales; a la convicción de tener que actuar sin las
-   instituciones, es decir, el sentimiento de dependencia de las
-   instituciones se ha atenuado. Además, hay una exigencia renovada en la
-   vida social de autocontrol y de auto orientación”.
-   Dentro de estas teorías, la Dra. Araujo expuso que también ha observado
-   en los actores de la sociedad nacional “la modificación del horizonte
-   de aquello a lo que legítimamente se puede aspirar, es decir, hay mucha
-   desigualdad en el país, pero las personas creen que su distancia con
-   los otros es menor; también ha habido una extensión de una promesa
-   igualitaria en el país, que se ha inscrito en las personas y ha
-   generado nuevas expectativas relacionales.
-   Por otra parte, la experta expresó que otro fenómeno destacado es que
-   se instaló “el mérito como un criterio privilegiado de justicia, porque
-   para las personas es un arma poderosa contra la vigencia de la lógica
-   de los privilegios de clase, naturalizados, que históricamente habían
-   estado presentes en el país; y de lo anterior se desprende que la
-   sociedad tiene una conciencia abusada del abuso, como un elemento
-   discursivo para enjuiciar la sociedad más recurrente que hay”.
-   Finalmente, la investigadora consideró dentro de sus tesis que la
-   sociedad chilena “es una cuyas relaciones sociales están altamente
-   irritadas, y eso está asociado a situaciones de descontento; asimismo,
-   los ejercicios del poder se están recomponiendo, y hay que agregar que
-   está la extensión de una clave narrativa sobre la vida social en
-   términos morales, que es una forma clasista adjetivada moralmente”.
-   Tags:
-   Actividades
-     *
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Insert
 
-Medios
-
-     * Diario Usach
-     * Radio Usach
-     * STGOTV
-     * Usach al Día
-
-   IFRAME:
-   //www.youtube.com/embed/6Ia-goX5wec?width%3D640%26amp%3Bheight%3D360%26
-   amp%3Bautoplay%3D0%26amp%3Bvq%3Dlarge%26amp%3Brel%3D0%26amp%3Bcontrols%
-   3D1%26amp%3Bautohide%3D2%26amp%3Bshowinfo%3D1%26amp%3Bmodestbranding%3D
-   0%26amp%3Btheme%3Ddark%26amp%3Biv_load_policy%3D1%26amp%3Bwmode%3Dopaqu
-   e
-
-   Ferial Laboral Usach 2023 ¡Somos tu Link al éxito!
-   Razones Editoriales
-   Estación Central
-   Escena Viva
-
-Redes Sociales
-
-
-
-
-
-Opciones de accesibilidad
-
-   Tamaño de texto
-   Pequeño Decrease text size
-   Grande Increase text size
-   Reiniciar Reset text size
-   [ ] Aumentar contraste
-   DESACTIVE AL FINAL DEL SITIO
-   [ ] Invertir colores
-   Ver textos en fondo negro
-   [ ] Detener animaciones
-   Ayuda a quienes no procesan movimientos
-   [ ] Optimizar para dislexia
-   Facilita la lectura a personas con dislexia.
-
-     * Inicio
-     * Noticias
-     * Mapa del Sitio
-     * Política de Privacidad App Soy Usach
-
-     * Postulación Empleos
-     * Procesos de Selección del Estamento Administrativo
-     * Concursos de contratación académica
-     * Guía Web
-     * Solicitud de Envíos de Correos Corporativos Masivos
-     * Campañas
-     * Portal de Empleos Usach
-
-
-
-
-
-   Universidad de Santiago de Chile.
-
-   Avenida Libertador Bernardo O'Higgins nº 3363.
-
-   Estación Central. Santiago. Chile.
-
-   Oficina de Informaciones, Reclamos y Sugerencias (OIRS)
-
-   Atención por Zoom
-
-   Lunes a jueves 10:00 a 13:00 hrs y de 15:00 a 18:00 hrs.
-
-   Viernes 10:00 a 13:00 hrs y de 15:00 a 17:00 hrs.
-
-
-
-
-
-
-
-CNA 7 años - Horizontal_CNA 7 años-3LG.svg
-
-   Media Folder:
-   Media Root
+   Etiquetas de Mautic

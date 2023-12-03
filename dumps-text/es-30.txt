@@ -1,169 +1,282 @@
-   #DSpace
+    #Blog TransformaW » Feed Blog TransformaW » Feed de los comentarios
+   alternate alternate alternate
 
-   Skip navigation
+   Skip to main content
 
-   (BUTTON) Logo pequeño DigitalCISC
+   Transforma Work
+   Transforma Work
+   Transforma Work
+     * Home
+     * Descargas
+     * Blog
 
-     * Producción CSIC
-          + Áreas e Institutos
-          +
-          + Navegar ítems por:
-          + Fecha Publicación
-          + Autor
-          + Título
-          + Palabras Clave
-          + Autor con perfil
-          + Proyecto de investigación
-          + Grupo de investigación
-          + Agencia Financiadora
-          + Fecha Envío
-     * Pasarela
-     * Estadísticas
-     * Contacto
+   Transforma W
+     * Home
+     * Descargas
+     * Blog
 
-     * Servicios
-          + Mi DIGITAL.CSIC
-          + Suscripciones
-          + Editar perfil
+Blog Información
 
-   ____________________
-   [DIGITAL.CSIC_______________]
-   (BUTTON)
+¿Nos atropella la velocidad de la evolución tecnológica? Los riesgos en la
+capacidad de aprendizaje que influyen en los profesionales del futuro.
 
-    1. DIGITAL.CSIC
-    2. Humanidades y Ciencias Sociales
-    3. Instituto de Gestión de la Innovación y del Conocimiento (INGENIO)
-    4. (INGENIO) Tesis
+   24 mayo 202124 mayo 2021 TransformaW
 
-   Por favor, use este identificador para citar o enlazar a este item:
-   http://hdl.handle.net/10261/32137
+   María Rosa Vallecillo Gámez.
+   Profesora Titular de Derecho del Trabajo y de la Seguridad Social.
+   Universidad de Jaén.
+     __________________________________________________________________
 
-   COMPARTIR / EXPORTAR:
-   logo share SHARE BASE
-   [formularioOA.png]
-   Comparte tu historia
-   de Acceso Abierto
-   Visualizar otros formatos: MARC | Dublin Core | RDF | ORE | MODS | METS
-   | DIDL | DATACITE
-   ( ) Refman ( ) EndNote (*) Bibtex ( ) RefWorks ( ) Excel ( ) CSV ( )
-   PDF ( ) DataCite [ ] Send via email Export
+   1. El vértigo de los cambios. Hace apenas 40 años las cintas de casete
+   y el walkman formaban parte de la tecnología puntera, aquella que la
+   televisión que nos acercaba a un futuro de coches voladores que ya
+   deberían estar, según estas previsiones, volando por nuestras calles,
+   nos las presentaba como una forma de acoso. Me refiero a su uso por
+   parte de la antifeminista protagonista de la serie Mrs. America, que
+   las enviaba por correo postal para difamar a sus oponentes. Mucho han
+   cambiado las tecnologías de la comunicación en este tiempo en el que
+   una sola generación ha asistido a los cambios veloces de las TIC. Ahora
+   las redes sociales se han convertido en el medio más veloz para la
+   crítica, constructiva o no, y ser TT (Trending Topic) en Twitter en
+   minutos ya no nos sorprende.
 
-   Título:
+   La capacidad de respuesta de los ordenadores es otro de los ejemplos de
+   la velocidad exponencial del cambio. En 1997, la computadora Deep Blue
+   de IBM derrotó en ajedrez al campeón del mundo, Gary Kaspárov; en 2016,
+   la AlphaGo de Google ganó al campeón de Go Lee Sedol. La complejidad
+   del ajedrez es de 10 elevado a 40 y la del Go – el juego japonés-, de
+   10 elevado a 360. Una diferencia de 320 en solamente dos décadas.
+   Tampoco está lejano el futuro en el que un ordenador portátil supere en
+   potencia de cálculo al cerebro humano utilizando la computación
+   cuántica.
 
-La evolución tecnológica del disco artificial según la teoría del ciclo de
-vida del producto
+   La tecnología está acelerando el mundo a una velocidad frenética y sin
+   precedentes. El problema es que nuestros cerebros, en cambio, no han
+   ganado en las últimas décadas mayor capacidad de procesamiento. De modo
+   que nuestro ritmo mental, aunque sea extraordinario, es cada vez más
+   lento en comparación con el de las redes y las máquinas, que en breve
+   superarán en potencia de procesamiento a nuestro cerebro.
 
-   Autor:  Barberá Tomás, David CSIC ORCID Director:  Reyes López, Ernesto
-   de los CSIC; Jiménez Sáez, Fernando CSIC ORCID Fecha de publicación:
-   ene-2010 Editor:  Universidad Politécnica de Valencia Resumen:  La
-   Teoría del Ciclo de Vida del Producto (en adelante, TCVP) caracteriza
-   el cambio tecnológico que experimenta un producto a lo largo de su
-   ciclo de vida como una secuencia de variación-selección. Las fases
-   iniciales del ciclo de vida de un producto están caracterizadas por una
-   gran variedad tecnológica, debido a que existe una alta incertidumbre
-   respecto a las prestaciones de las diferentes soluciones tecnológicas
-   propuestas. Sin embargo, esta incertidumbre se reduce con el tiempo, y
-   esta reducción provoca que, en fases más maduras del ciclo de vida, de
-   toda esta variedad tecnológica existente en el mercado emerja un único
-   diseño hegemónico, llamado diseño dominante. El ejemplo empleado por lo
-   común para ilustrar la TCVP es la historia temprana del automóvil:
-   mientras que en 1900, en los orígenes de su desarrollo, tres soluciones
-   distintas estaban presentes con cuotas similares en el mercado (el
-   automóvil con motor eléctrico, con motor de gasolina o con motor de
-   vapor), en la década de 1920 el automóvil con motor de gasolina se
-   impuso como diseño dominante.
-   Pero en la TCVP la secuencia de variedad-selección es concebida como
-   una secuencia ahistórica. Esto es, asume que todas las variantes
-   rivales aparecen en el mercado al mismo tiempo, y no tiene en cuenta la
-   influencia del diferente ritmo de aparición de estas variantes rivales
-   en los posteriores procesos de emergencia del diseño dominante. Esta
-   tesis doctoral pretende completar el marco teórico de la TCVP para que
-   sea capaz de incluir la inherente historicidad de la aparición de
-   nuevas tecnologías. Para ello, compararemos los patrones evolutivos que
-   se derivan de nuestro marco teórico con la evolución tecnológica de una
-   prótesis quirúrgica, el disco artificial para la columna vertebral. En
-   nuestro caso, el diferente ritmo de aparición en el mercado de las dos
-   principales soluciones tecnológicas propuestas se debe a la menor
-   "resistencia tecnológica" de una de ellas, cuyo funcionamiento se
-   inspiraba en otro implante traumatológico, la prótesis de cadera. Para
-   operacionalizar el concepto de "resistencia tecnológica" hemos
-   propuesto una secuencia tecnológica distinta a la de
-   variedad-selección. La secuencia variedad-selección es una secuencia
-   estrictamente "poblacional"Esto es, describe la distinta frecuencia de
-   las soluciones presentes a lo largo del ciclo de vida: en las fases
-   tempranas distintas soluciones tendrán diversas frecuencias de
-   aparición, sin que ninguna supere en mucho a las demás; pero en las
-   fases más maduras la frecuencia de una de ellas (el diseño dominante)
-   será mucho mayor que la del resto. Sin embargo, este tipo de medidas no
-   aluden a la naturaleza interna del diseño, ni explican las razones de
-   la distinta aparición histórica de la variedad tecnológica al principio
-   del ciclo; simplemente muestran la disminución de esta variedad a
-   medida que avanza el ciclo y emerge un diseño dominante. Nuestra
-   secuencia es más "internalista": describe el cambio tecnológico en
-   términos de su naturaleza. Por naturaleza del cambio tecnológico
-   entendemos los cambios en las características técnicas de un producto,
-   en los servicios que proporciona y/o en la complejidad de las
-   relaciones entre unos y otros. Nuestro marco teórico se sintetiza en
-   una secuencia que describe de manera general y cronológica los
-   diferentes cambios que experimentan estas características técnicas y de
-   servicio a lo largo del ciclo de vida. De esta manera pretendemos
-   identificar el eslabón concreto de la secuencia donde se sitúa la
-   resistencia tecnológica que estanca la evolución de una de las
-   soluciones tecnológicas rivales. En concreto, hemos localizado la razón
-   de la menor resistencia tecnológica de los discos artificiales
-   inspirados en la cadera en la menor complejidad de los rediseños que
-   siguieron a los primeros fracasos clínicos del diseño primitivo. Estos
-   fracasos implicaron la aparición de nuevos componentes que intentaban
-   mejorar las prestaciones del diseño primitivo, pero mientras que en el
-   disco inspirado en la cadera estos nuevos componentes no
-   "complejizaron" en exceso el producto, en el otro tipo de diseño la
-   resistencia tecnológica se localizó precisamente en el esfuerzo por
-   deshacer la complejidad que produjo la introducción de nuevos
-   componentes. Los discos inspirados en la prótesis de cadera se
-   ahorraron este esfuerzo "des-complejizador" gracias a que ya había sido
-   realizado con anterioridad, precisamente en el desarrollo tecnológico
-   previo de las prótesis de cadera. Descripción:  Tesis Doctoral
-   presentada por David Barberá Tomás en la Universitat Politècnica de
-   València, Departamento de Proyectos de Ingeniería. URI:
-   http://hdl.handle.net/10261/32137
-   Aparece en las colecciones: (INGENIO) Tesis
+   Pero lo que podía parecer un estímulo para la capacidad de respuesta de
+   nuestro órgano más preciado, está suponiendo una brecha entre el avance
+   de una realidad cada vez más compleja y la capacidad del ser humano de
+   comprenderla, lo que está provocando la configuración de dos categorías
+   de ciudadanos, los hiperconectados y los simplemente conectados que
+   están creando un nuevo mercado. Y ¿por qué? Las mismas corporaciones
+   que hicieron del ordenador personal, el teléfono móvil o internet, un
+   bien de primera necesidad, ahora experimentan con los nuevos avances,
+   los neuroimplantes por ejemplo, generando nuevas necesidades
+   tecnológicas a la persona que podrían ser comparables a las necesidades
+   provocadas por los sistemas de autoayuda o la estética cuya demanda ha
+   hecho crecer el mercado.
+     __________________________________________________________________
 
-   IFRAME:
-   https://docs.google.com/gview?url=https://digital.csic.es/bitstream/102
-   61/32137/1/portada%20tesis%20David%20Barber%c3%a1.pdf&embedded=true
+   2. El daño de la tecnología por el uso diario. Quienes nacimos antes de
+   la era de internet y hemos visto su veloz evolución, lo sospechábamos:
+   internet daña nuestras mentes. Sin embargo, hemos olvidado este riesgo
+   ante la falta de evidencia y estudios concretos que nos permitan
+   afirmar con certeza sobre el grado e impacto del daño que nos puede
+   causar el uso de esta tecnología. Los científicos nos advierten que la
+   aceleración del cambio tecnológico está dañando nuestra manera de
+   pensar, de aprender y de ser. Este es el argumento de Nicholas Carr en
+   sus obras. Este divulgador tecnológico, defiende que internet ha
+   convertido al ser humano en un animal superficial.
 
-Ficheros en este ítem:
+   Pero la tecnología por si sola no tiene la capacidad de daño que se le
+   supone, lo que ocurre es que cuando adoptamos una nueva herramienta,
+   también asumimos sus sesgos. Es el caso de internet que está sesgado
+   hacia la distribución de información de alta velocidad en diferentes
+   formatos, como audio, texto o imágenes. Esto favorece la distracción, y
+   esta socava el pensamiento profundo. Así que, cuando nos conectamos,
+   intercambiamos profundidad por amplitud, contemplación por
+   estimulación. El daño entonces se sitúa en la regresión del cerebro
+   frente al trabajo delegado en la tecnología.
 
-   Fichero Descripción Tamaño Formato
-   portada tesis David Barberá.pdf 72,63 kB Adobe PDF Vista previa
-   Visualizar/Abrir
-   tesisUPV3242.pdf 6,57 MB Adobe PDF Vista previa
-   Visualizar/Abrir
-   Indice.pdf 241,24 kB Adobe PDF Vista previa
-   Visualizar/Abrir
-   Mostrar el registro completo
-   Revisar este trabajo
-   CORE Recommender
+   En la película de Stanley Kubrick: 2001 Odisea del Espacio, el
+   ordenador de la nave espacial ha evolucionado tanto que ahora tiene
+   sentimientos y…comienza a tener miedo. Ya nos acercamos a estos
+   extremos en la evolución de la robótica. La evolución nos da, pero
+   también nos quita y no son pocas las consecuencias sobre la salud de
+   las personas. La dependencia tecnológica, que ya se considera en si
+   misma una enfermedad, también nos ha llevado a perder la calma, la
+   atención concentrada y la profundidad del razonamiento por una
+   sobreexposición y delegación en las herramientas que nos resuelven las
+   dudas sin más esfuerzo que teclear. Incluso hemos llegado a sentirnos
+   intoxicados y necesitamos de esa droga que se llama información, cuando
+   recibimos un WhatsApp o una notificación de Twitter o Instagram.
+   Algunas de estas cuestiones ya las hemos tratado en precedentes
+   entradas.
+     __________________________________________________________________
 
-Page view(s)
+   3. Los riesgos en la capacidad de aprendizaje. La evolución de la
+   técnica ha ido modificando nuestro cerebro sin apenas darnos cuenta.
+   Los sistemas de posicionamiento global (GPS) nos limitan la capacidad
+   de atención hacia la orientación que teníamos o debíamos desarrollar
+   sin ellos. Cuando el reloj no existía, las sociedades se orientaban
+   mediante el flujo de la climatología, de las cosechas, de las
+   estaciones, su presencia nos organiza la vida hasta el punto de influir
+   en nuestra salud al controlar nuestra actividad física. Más difícil
+   resulta medir el impacto de las tecnologías “intelectuales” que
+   influyen en nuestras herramientas de la mente: la búsqueda, la
+   clasificación de la información, la formulación y articulación de
+   ideas… Y si hacemos caso a Klingberg, un neurocientífico sueco, la
+   tendencia del ser humano es buscar cada vez más información, más datos
+   y más complejidad, generando situaciones con una sobrecarga de
+   información. Sin embargo, este afán de estar informado contrasta con el
+   desarrollo de habilidades que supone su uso frente a otros métodos
+   tradicionales.
 
-   483
-   checked on 26-nov-2023
+   Gary Small, profesor de Psiquiatría de la UCLA, afirma que Internet no
+   sólo está cambiando el modo en que las personas viven sino también cómo
+   funcionan sus cerebros. se trata de un cambio evolutivo que pondrá a
+   los expertos en tecnología al frente del nuevo orden social. Small
+   descubrió mediante estudios que navegar en internet y enviar mensajes
+   de texto ha hecho que los cerebros estén más acostumbrados a filtrar
+   información y tomar decisiones rápidas. Sin embargo, aunque la
+   tecnología puede acelerar el aprendizaje e impulsar la creatividad,
+   tendría desventajas, ya que puede crear adictos a internet cuyos únicos
+   amigos son virtuales y ha provocado un drástico aumento en el
+   diagnóstico de trastornos por déficit de atención.
 
-Download(s)
+   En 2008 reclutó 24 voluntarios. Doce de ellos expertos en internet y
+   doce novatos a quienes les escanearon sus cerebros al momento de
+   realizar búsquedas en Google. El escaneo reveló que los expertos
+   mostraban una mayor actividad en su cerebro, mientras que los novatos
+   una mínima. Sin embargo, la segunda parte del experimento que se llevó
+   a cabo seis días después reveló más datos; en el transcurso de estos
+   días, los investigadores les pidieron a los novatos que hicieran
+   búsquedas durante una hora diaria. Al llegar la nueva evaluación, los
+   escáneres cerebrales revelaron que tanto novatos como expertos tenían
+   la misma actividad cerebral. En tan sólo cinco días con una hora diaria
+   los cerebros de los novatos se habían modificado. Esto es resultado de
+   un proceso mental donde debe evaluar cada uno de los links de búsqueda
+   y decidir cuál de ellos abrir, lo que genera más actividad neuronal. En
+   este sentido, el internet le ofrece más distracciones al cerebro en
+   lugar de concentración.
+     __________________________________________________________________
 
-   16.053
-   checked on 26-nov-2023
-   [google-favicon-png.ico]
+   4. La afectación en el crecimiento intelectual. La lectura en línea y
+   la lectura tradicional también son objeto de estudio. Se puso a dos
+   grupos de estudiantes en una universidad a leer el mismo texto, pero en
+   estas dos versiones. Al final, se les hicieron preguntas de comprensión
+   de texto, aquellos que comprendieron más fueron los que leyeron el
+   texto en papel, pero no sólo eso, sino que lo hicieron más rápido que
+   los del texto digital. La razón es que los que tenían el texto en línea
+   podían visitar los vínculos externos (complementarios) y
+   consecuentemente distraerse; esto afectó su memoria, su velocidad y su
+   comprensión del texto. Para leer nuestra mente necesita estar calmada,
+   lejos de las distracciones constantes que nos ofrece el internet. Los
+   lectores con hipertexto siempre generan una gran confusión. De tal
+   forma que nuestro cerebro está haciendo malabares tratando
+   constantemente de repartir nuestra atención entre lo importante y lo
+   superficial. ¿Cuándo tiene tiempo para razonar?
 
-Google Scholar^TM
+   Si seguimos los argumentos de Carr, podíamos afirmar que se ha perdido
+   la esencia del libro al sólo tener pedazos de los textos en línea, que
+   es lo que nos arroja un buscador en internet, en lugar de tener el
+   razonamiento completo y la explicación amplia y profunda de las ideas
+   en la forma lineal tradicional que presentan los textos. Entiende que
+   «… la lenta excavación del significado ha sido reemplazada por la veloz
+   minería que desnuda el contenido relevante». Ahora, dice el autor, los
+   estudiantes dicen que es una pérdida de tiempo leer un libro completo
+   cuando pueden encontrar el resumen en internet. Pero el verdadero valor
+   de un libro no es su contenido literario, sino lo datos que pueden ser
+   extraídos de él, la capacidad de estímulo de la imaginación y de la
+   capacidad de comprensión que la lectura tiene y que, desgraciadamente,
+   se está perdiendo en nuestros estudiantes.
 
-   Check
+   En estricto sentido, esta forma de «programar» cerebros humanos,
+   cambiando el cerebro a partir de sus dosis diarias de internet, también
+   la comparten otros autores como Castells en Comunicación y
+   Poder (2009), cuando habla de esta forma de programación en las
+   sociedades.
 
-   NOTA: Los ítems de Digital.CSIC están protegidos por copyright, con
-   todos los derechos reservados, a menos que se indique lo contrario.
+   Por último, un argumento vital: la memoria. internet ha afectado a esta
+   herramienta mental vital en nuestros días. Su razonamiento parte del
+   uso que le damos a libros como una extensión de nuestra memoria, un
+   complemento que nos ayuda a entender mejor la realidad. Si bien es
+   cierto que están en nuestros libreros, podemos regresar a ellos, porque
+   nos acordamos de aquel autor, cita o idea que se encuentra dentro.
+   Humberto Eco, decía que los libros retan y mejoran la memoria, no la
+   narcotizan.
 
-      Logo Ministerio Logo CSIC RED Bibliotecas CSIC
+   El problema ahora es parte de la solución tecnológica. La generación de
+   memorias artificiales, desde las cintas de audio, pasando por los
+   discos flexibles de 5 ¼” o de 3,5”, hasta las memorias USB y los discos
+   duros de los ordenadores y los teléfonos móviles, ha ralentizado
+   nuestra capacidad porque hemos descansado en ellas una de las
+   capacidades para el aprendizaje, en mayor medida que en su uso como
+   soporte adicional de nuestro cerebro. Clive Thompson, director de Wired
+   afirma que «Internet es un cerebro exterior». Nuestra memoria funciona
+   como un índice, apuntando a donde tenemos guardada cierta idea o
+   conocimiento”. Este mismo argumento lo refuerza Don Tapscott —autor
+   de Wikinomics—, quien dice que la memorización es una pérdida de
+   tiempo. En cambio, William James señala que el «arte de recordar es el
+   arte de pensar».
 
-   OAI | Accesibilidad | Mapa Web | Quejas y Sugerencias
-   DSpace | Extension maintained and optimized by Logo 4SCIENCE
+   Las generaciones actuales y futuras, por tanto, están sometidas a un
+   importante riesgo en la medida en que vayamos perdiendo esa fuerte
+   conexión entre neuronas que favorece el crecimiento y enriquecimiento
+   de las memorias humanas. Mientras más usemos internet más entrenamos
+   nuestro cerebro a ser distraído. Procesamos la información rápida y
+   eficientemente pero perdemos el valor de la atención tan necesaria para
+   aprender.
+
+   Los riesgos, las limitaciones y los problemas, son evidentes con la
+   velocidad del cambio. Por ello, y como siempre y en todas las facetas
+   vitales, lo mejor es encontrar el equilibrio. Utilizar la herramienta
+   —como el reloj, el mapa, el coche, la escritura, el libro, el
+   ordenador— sin perder ese equilibrio, sin intoxicarnos ni olvidar que
+   existen otras herramientas para hacer lo mismo, y sin perder nuestra
+   esencia humana. Desde la universidad tenemos mucho que decir y aportar
+   para minimizar estas amenazas latentes.
+
+   Si no, corremos el riesgo de regresar a 2001: Odisea del Espacio y
+   gritarle a HAL: «Hal tengo miedo de estar sin internet», espero que
+   nunca lleguemos a eso.
+
+Navegación de entradas
+
+   La “Ley” de personas repartidoras en plataformas online (“riders”):
+   ¿pequeño paso legal, gran paso para humanizar el precariado digital?
+   ¿Qué sabe y qué puede saber mi empresa de mí?: La AEPD “guía” la
+   protección de datos en el trabajo
+
+   Buscar: ____________________ (Buscar)
+
+Entradas recientes
+
+     * La Zona Franca Industrial: Un ensayo económico disruptor del
+       sistema de fuentes[1]
+     * Hostelería sostenible y redes sociales como canal de denuncias de
+       trabajo indecente: No solo quitan, también devuelven (a veces)
+       dignidad profesional
+     * El impacto laboral de la inteligencia artificial. Una problemática
+       en ciernes.
+     * Nuevos avances en la regulación de la IA: NY a la cabeza
+     * Tecnoderecho, empleo y habilidades verdes. Un trinomio sostenible
+
+Archivos
+
+   Archivos [Elegir el mes_______]
+
+   TransformaW
+   Transformaciones del trabajo en la economía digital:
+   Condiciones económicas y sociales para una transición justa
+   Estructura de Investigación EI_SEJ13_2021
+   Dirección: María Rosa Vallecillo Gámez. Profesora Titular de Derecho
+   del Trabajo y de la Seguridad Social
+   Rueda
+   Facebook
+   Rueda
+   Twitter
+   Rueda
+   Blog
+   Rueda
+   Email
+   Universidad de Jaén
+   ©Universidad de Jaén
+   |
+   info@transformaw.com
+   |
+   Diseño web UrbeCOM

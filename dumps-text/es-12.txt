@@ -1,790 +1,289 @@
-   Gazeta de Antropologa
-   Gazeta de Antropologa, 1997, 13, artculo 03
-   http://hdl.handle.net/10481/13565
-   Versin HTML Versin PDF
-   Publicado: 1997-10
-   La bsqueda de los principios de organizacin de la sociedad
-   Searching principles of social organization
-   Mar Llinares Garca
-   Universidad de Santiago de Compostela.
-     __________________________________________________________________
-
-   RESUMEN
-   El presente artculo tiene como objetivo mostrar la forma en que cuatro
-   autores clsicos de los inicios de la antropologa y la sociologa han
-   propuesto la existencia de dos formas diferentes de organizacin de la
-   sociedad. Esta divisin de las sociedades en dos grandes tipos ha
-   seguido siendo utilizada por la antropologa y la sociologa modernas,
-   sin hacer normalmente referencia a sus orgenes, y sin que haya sido
-   sometida a revisin o crtica de ninguna especie. Esta divisin es a su
-   vez la base del reparto de trabajo entre la sociologa y la antropologa:
-   las sociedades ms sencillas, las comunidades corresponderan a la
-   antropologa, mientras que las sociedades ms complejas, las sociedades
-   seran el campo de estudio de la sociologa.
-   ABSTRACT
-   The purpose of this paper is to ilustrate the way in which four
-   classical authors from the beginnings of anthropology and sociology
-   propose two different ways of social organization. This division of
-   societies in two blocks has continued to be used by modern anthropology
-   and sociology, without making any reference to its origins and without
-   submiting it to any revision or criticism, as it warrants. This
-   division is the basis of the distribution of tasks between anthropology
-   and sociology: the simple societies, or communities, belong to
-   anthropology, whereas the most complex ones, or societies, pertain to
-   sociology.
-   PALABRAS CLAVE | KEYWORDS
-   organizacin social | sociedades simples | sociedades complejas |
-   antropologa y sociologa | social organization | simple society |
-   complex society | anthropology and sociology
-     __________________________________________________________________
-
-   Es un lugar comn en la antropologa y en la sociologa (e incluso la
-   historia) que existen dos tipos bsicos de organizacin social de la vida
-   humana, sostenidos por dos formas de entender el vnculo que une a los
-   seres humanos formando grupos y que dan origen a esos dos tipos de
-   organizacin social: segn los diferentes autores de los orgenes comunes
-   de ambas disciplinas, estos dos tipos de vnculo se han denominado
-   solidaridad mecnica o solidaridad orgnica (E. Durkheim), estatuto o
-   contrato (H. J. S. Maine), y los tipos de organizacin social a los que
-   dan origen comunidad o sociedad (F. Tnnies), societas/ sociedad
-   gentilicia o civitas/Estado (L. H. Morgan), sostenidas cada una de
-   estas formas por diferentes principios que marcan una diferencia de
-   esencia entre las formas de organizacin social.
-
-   La suerte que han corrido estos diferentes autores es diversa. Morgan
-   ha tenido gran influencia a travs de Engels, que elabor El origen de la
-   familia, la propiedad privada y el Estado a partir de las notas que
-   Marx tom de Ancient society (Lisn, en Morgan 1971; Engels 1975; Kader
-   1988) y otras obras de los iniciadores de la antropologa. La
-   influencia, generalmente ignorada, de Morgan sobre la bsqueda en los
-   autores marxistas de los orgenes del Estado, como hito que supone el
-   paso a la sociedad civilizada, capitalista, moderna, etc., fue enorme.
-   En cuanto a Durkheim, su figura aparece citada en cualquier historia de
-   la sociologa y de la antropologa que se quiera mencionar, aunque parece
-   que este aspecto concreto de su obra es el que recibe menos atencin,
-   sin duda eclipsado por su aportacin a la definicin de hecho social.
-   Tnnies, por su parte, resulta una figura borrosa. A pesar de que
-   algunos autores sealan que la ciencia social moderna no puede
-   explicarse sin su aportacin, mencionando explcitamente la escuela de
-   Chicago y a T. Parsons (Flaquer y Giner, en Tnnies 1979: 15-16; Freund,
-   en Bottomore y Nisbet 1988), apenas aparece citado en las historias de
-   la sociologa (como por ejemplo Ritzer 1993) y la antropologa, y
-   solamente algunos autores como R. Redfield (1960) reconocen
-   explcitamente la influencia de sus ideas. En cuanto a Maine, a pesar de
-   segn algunos autores puede ser considerado el iniciador de esta
-   oposicin tipolgica dentro de la antropologa moderna, escassimas veces
-   aparece citado por esta causa, excepto, una vez ms, en la obra de R.
-   Redfield (Calhoun 1980, n. 6).
-
-   Todas estas clasificaciones tienen algo en comn: dividir a los grupos
-   humanos en dos grandes clases, la primera de las cuales por lo general
-   carece de algo que s tiene la segunda, que es la de los autores (la
-   nuestra). Vamos a ver a continuacin, de forma resumida evidentemente,
-   las ideas que algunos de los fundadores de la antropologa y la
-   sociologa expusieron sobre las sociedades humanas y sus principios
-   bsicos de organizacin. No se trata de analizar pormenorizadamente la
-   obra completa de cada uno de ellos, tarea ingente por otra parte (Bonte
-   e Izard 1996; Gordon 1995; Aron 1992; Ritzer 1993; Bottomore y Nisbet
-   1988), sino de resumir brevemente sus ideas sobre la organizacin de la
-   sociedad, expuestas en una obra concreta, que es la que se recoge aqu
-   Por qu se escogen estos autores y estas obras? No hay ms que consultar
-   cualquier obra sobre el tema para observar que aparecen una y otra vez
-   como los iniciadores de este tema, aportando ideas que todava en la
-   actualidad se encuentran en la base de la antropologa y la sociologa:
-   qu es la sociedad, cmo se forma, cules son los principios que la
-   sostienen... La exposicin de sus teoras se har de forma cronolgica,
-   atendiendo a la fecha de publicacin de cada una de las obras en las que
-   exponen sus hallazgos.
-
-   Las obras que tratan el tema de los orgenes de la antropologa coinciden
-   en sealar los aos entre 1860 y 1880 aproximadamente como la poca del
-   nacimiento de la disciplina. En este momento se establecen sus
-   fundamentos y se definen sus mbitos y los problemas que va a tratar
-   (Bonte e Izard 1996: Orgenes de la antropologa). Tambin es en este
-   momento cuando aparece el tema a tratar, vinculado segn algunos autores
-   a los cambios drsticos asociados a la revolucin industrial (Calhoun
-   1980). En un momento inmediatamente anterior se haba producido un
-   cambio en las discusiones sobre la sociedad humana: de la oposicin
-   entre estado de naturaleza y estado de sociedad presente en los
-   filsofos de la Ilustracin, oscilacin que supona una ambivalente
-   consideracin del estado de naturaleza (el buen salvaje de Rousseau o
-   Montaigne, o el canbal sometido a sus pasiones de Hobbes, Kant o Hegel)
-   (Bonte e Izard 1996: Salvaje; Duchet 1975) se pasa a la oposicin entre
-   situacin primitiva de la humanidad y situacin moderna, dentro del
-   modelo evolucionista que articula el conocimiento de la poca. Los
-   pueblos no occidentales y los considerados marginales dentro del mundo
-   occidental (campesinos, montaeses, incluso enfermos mentales y nios)
-   conformaran un estadio anterior, tanto histrica como lgicamente, dentro
-   de la historia progresiva de la humanidad. A este perodo pertenecen los
-   dos primeros autores a considerar: Henry Maine y Lewis H. Morgan.
-
-   Henry James Sumner Maine (1822-1888)
-
-   La obra ms destacada de Maine y a la que vamos a hacer referencia en
-   este momento es Ancient law. Its connection with the early history of
-   society and its relation to modern ideas, Londres, 1939, publicada
-   originalmente en 1861, justo al comienzo del perodo sealado como de
-   formacin de la disciplina antropolgica.
-
-   La ley, las normas legales, son las bases sobre las que Maine asienta
-   su estudio del carcter del vnculo que une a los humanos en una
-   sociedad. La ley antigua es el recurso a la hora de comprobar los
-   rudimentos del estado social, junto con los relatos de observadores
-   contemporneos de civilizaciones menos avanzadas que la suya, [y] los
-   registros que razas concretas han conservado respecto de su historia
-   primitiva (Maine 1861: 99). Evidentemente, se trata de un
-   evolucionista, y no se va a insistir ms en ello. Cuando se estudian
-   estas evidencias, resulta que la condicin primitiva humana era un
-   rgimen patriarcal, en que los hombres estaban dispuestos en grupos
-   perfectamente aislados entre s, grupos que se mantenan unidos por la
-   obediencia al padre. La palabra del padre es la ley(1861: 103). Cuando
-   se va avanzando hacia el estado de sociedad, la obediencia a un
-   soberano todava tiene algo del carcter del poder paterno, pero la
-   propia existencia de un soberano presupone una unin de grupos
-   familiares en alguna organizacin ms amplia (p. 104). Ya desde muy
-   pronto en su obra, Maine expone con claridad las diferencias entre las
-   sociedades primitivas y las del presente: la sociedad en los tiempos
-   primitivos no era lo que se supone que es en el presente, una coleccin
-   de individuos. De hecho, y desde el punto de vista de los hombres que
-   la componan, era una agregacin de familias. El contraste puede ser ms
-   enrgicamente expresado diciendo que la unidad de una sociedad antigua
-   era la familia, y de una sociedad moderna el individuo (p. 104).
-
-   La ley antigua presenta ciertos aspectos que se derivan directamente de
-   esta diferencia. En primer lugar, est estructurada para ajustarse a un
-   esquema de pequeas corporaciones independientes. En segundo lugar,
-   resulta insuficiente porque an se mantiene la autoridad desptica de los
-   cabezas de familia. Y en tercer lugar es ceremoniosa porque regula algo
-   ms parecido a asuntos internacionales que a relaciones entre
-   individuos.
-
-   La secuencia por lo tanto es la siguiente: El grupo elemental es la
-   familia, conectada por la sujecin comn al ms alto ascendiente varn. La
-   agregacin de familias forma la gens o casa. La agregacin de casas forma
-   la tribu. La agregacin de tribus constituye la nacin (commonwealth)
-   (Maine 1861: 106). La nica base posible de las comunidades polticas es
-   entonces el parentesco de sangre, real o ficticio (ver 106 ss.). Llega
-   un momento en que este reclutamiento por parentesco, ya ficticio, se
-   convierte en una aristocracia, cuando una poblacin, que ya no puede
-   reclamar una comunidad de origen, se rene alrededor del ncleo
-   originario. Estos inferiores desarrollan entonces otro principio, que
-   demostrar ser ms til: Era el principio de la contigidad espacial, ahora
-   reconocido en todas partes como la condicin de la comunidad en
-   funciones polticas (p. 109).
-
-   Al mismo tiempo, se produce otro cambio en la forma del vnculo
-   personal. La reciprocidad de derechos y deberes que tienen origen en la
-   familia (p. 140) da lugar a un lazo entre hombre y hombre: es el
-   contrato. Se trata de la famosa expresin de Maine: Si empleamos estatus
-   (...) para expresar estas condiciones personales solamente [las que
-   tenan lugar dentro de la familia], y evitamos aplicar el trmino a
-   condiciones que sean el resultado inmediato o remoto de un acuerdo,
-   podemos decir que el movimiento de las sociedades progresistas ha sido
-   hasta ahora un movimiento del estatus al contrato (1861: 141).
-
-   Maine desarrolla entonces las caractersticas que presentan las
-   sociedades que entran en la primera categora. En ella, los hombres son
-   tratados no como individuos, sino como miembros de un grupo particular.
-   Segn esto, entonces, la ley antigua no se ocupa de individuos, sino de
-   familias. La propiedad es conjunta, de familias y grupos de parientes.
-   Y el vnculo mental que hace que estas comunidades arcaicas se mantengan
-   unidas es el sentimiento, o incluso el instinto (p. 304).
-
-   Lewis Henry Morgan (1818-1881)
-
-   La obra de Morgan es el ejemplo ms claro de cmo en los inicios de la
-   antropologa la aparicin de un concepto, el de evolucin, sirvi como
-   principio directivo para interpretar los hechos socioculturales,
-   conformando una serie de sistemas en los que se intentaba dar cuenta de
-   las diferencias entre las sociedades estableciendo series ordenadas de
-   etapas que los diferentes pueblos de la historia humana recorreran
-   hasta llegar al punto mximo de desarrollo.
-
-   La obra de Morgan que vamos a considerar es su famossima e influyente
-   (en su momento y con posterioridad, gracias al uso que hizo Engels de
-   sus teoras) Ancient society, or Researches in the lines of human
-   progress from savagery through barbarism to civilization, publicado en
-   Nueva York en 1877.
-
-   Morgan establece varias secuencias de evolucin de los diferentes
-   aspectos de la vida en sociedad: subsistencia, gobierno, lenguaje,
-   familia, religin, arquitectura, propiedad, y luego intenta casarlas
-   todas ellas, estableciendo sus famosos tres estadios de evolucin de las
-   sociedades humanas: salvajismo, barbarie y civilizacin. Vamos a ir
-   directamente al aspecto que nos interesa en este momento, que es el de
-   la evolucin del gobierno.
-
-   Las formas de gobierno que desarrollan los grupos humanos encajan en
-   uno de estos dos planes (=modelos). El primero, en el orden cronolgico,
-   se funda sobre personas y sobre relaciones puramente personales, y se
-   puede distinguir como una sociedad (societas). La gens es la unidad de
-   esta organizacin (Morgan 1877: 79).
-
-   En sucesivas etapas de integracin, en este perodo arcaico, la unin de
-   gentes dara lugar a la fratra, la unin de fratras a la tribu, y la unin
-   de estas ltimas a la confederacin de tribus, las que constituiran un
-   pueblo o nacin (populus). En un perodo posterior, la unin de tribus en
-   un mismo territorio, ya como nacin, reemplaz a la confederacin de
-   tribus que ocupaban reas independientes. Tal fue la organizacin
-   sustancialmente universal de la sociedad antigua (1877: 79).
-
-   El segundo [de los modelos de gobierno], se funda sobre el territorio y
-   la propiedad y puede ser considerado como un estado (civitas). La base
-   o unidad del estado es la villa o barrio circundante espacialmente
-   delimitado, con las propiedades que contiene, y la sociedad poltica es
-   el resultado (p. 80).
-
-   La sociedad poltica est organizada sobre reas territoriales, y se ocupa
-   tanto de la propiedad como de las personas, mediante relaciones
-   territoriales. Las etapas sucesivas de integracin son el departamento o
-   provincia, que es la reunin de villas o barrios, y el territorio
-   nacional, que es la reunin de departamentos o provincias. Morgan
-   ejemplifica estos procesos con los datos de su trabajo de campo entre
-   los iroqueses y con los ejemplos tomados de la historia griega y
-   romana, poniendo as claramente de manifiesto la vocacin histrica del
-   evolucionismo clsico.
-
-   Nos encontramos entonces con que Morgan establece dos criterios de base
-   que estn marcando el carcter de las sociedades humanas. Por una parte,
-   el parentesco, forma de organizacin que primara en los dos primeros
-   perodos de evolucin de la humanidad, el de salvajismo y el de barbarie.
-   Y por la otra el territorio, ejemplificado en el gobierno de la
-   propiedad (p. 79) logrado por griegos y romanos, que marcara el paso al
-   perodo de civilizacin.
-
-   El primer criterio, el del parentesco, sera la base organizativa de la
-   societas, en la cual la organizacin social est basada en gentes o
-   clanes y tribus, que son el medio a travs del cual se ejerce el
-   gobierno sobre la persona (en los estadios ms avanzados de la
-   barbarie). Las relaciones son puramente personales y no existe el
-   Estado.
-
-   El criterio del territorio y la propiedad es la base de la civitas. El
-   gobierno acta sobre las personas mediante el territorio (pueblo,
-   provincia) y existe el Estado. Con este tipo de gobierno, caracterstico
-   ya del perodo de civilizacin, se corresponderan la familia mongama, la
-   herencia por parte de los hijos del propietario (en la societas
-   heredaban los miembros del clan) y la aparicin de la escritura.
-
-   Los otros dos autores a considerar pertenecen a un perodo ligeramente
-   posterior, y su definicin es ms como socilogos que como antroplogos,
-   aunque intentar afinar de esta forma en estas pocas tempranas de
-   creacin de ambas disciplinas es sin duda excesivo. La formacin de todos
-   estos autores y sus ocupaciones profesionales son demasiado variopintas
-   como para encajar en el actual marco acadmico de las disciplinas
-   universitarias: Maine era jurista, catedrtico de derecho civil, y ocup
-   altos cargos en la administracin colonial britnica; Morgan era abogado;
-   Tnnies estudi filosofa, historia, lenguas clsicas, arqueologa, economa
-   y estadstica, siendo profesor de filosofa y de economa poltica (fue
-   adems fundador de la Asociacin Alemana de Sociologa, junto con Simmel,
-   Weber y otros); y Durkheim se form en la cole Normale Suprieure, fue
-   profesor de filosofa y pedagoga (ctedra convertida ms tarde en
-   sociologa) y fundador del Anne sociologique.
-
-   Ferdinand Tnnies (1855-1936)
-
-   En la introduccin de la traduccin espaola utilizada, L. Flaquer y S.
-   Giner se asombran de que, a pesar de que no existe practicante de las
-   ciencias humanas recin mentadas [antropologa, sociologa y teora social
-   en general] que, a sabiendas o inconscientemente, no haga uso de las
-   nociones y teoras que forman parte de ella (1979: 5), la obra de Tnnies
-   es muy poco leda, comparada con autores de esos mismos momentos
-   iniciales de las ciencias humanas como Weber o el propio Durkheim. Este
-   es el destino de muchos clsicos, condenados a ser resumidos,
-   compendiados y repetidos sin que nadie se tome la molestia de acudir al
-   original (con lo cual, por otra parte, se evitaran muchas
-   simplificaciones y errores). Y a pesar de ello, su influencia es
-   enorme, sobre todo entre los socilogos estadounidenses de la escuela de
-   Chicago, y en autores a su vez tan enormemente influyentes como Talcott
-   Parsons y Robert Redfield.
-
-   Tnnies parte de la idea de que lo esencial a la hora de elaborar la
-   ciencia social es la subjetividad. La conducta estrictamente humana (la
-   que no es simple reflejo biolgico) es fruto de unas tendencias que
-   orientan al ser humano hacia otros de su misma especie, tendencias que
-   Tnnies explica con el concepto de voluntad (Wille). Cuando predomina la
-   pasin y la fe, nos encontramos con la Wesenwille, voluntad esencial o
-   natural. Si predomina el clculo y la evaluacin crtica de las
-   situaciones, tenemos la Krwille, voluntad arbitraria, racional o
-   instrumental (ver libro II, seccin primera).
-
-   Los dos tipos de voluntades humanas mantienen entre s diferentes formas
-   de relaciones. Tnnies slo va a considerar las positivas, a las que da
-   el nombre de ligamen (Verbindung). Esta relacin se concibe aqu bien
-   como vida orgnica y real --caracterstica que es esencial en la
-   Gemeischaft (comunidad)--, bien como estructura imaginaria y mecnica
-   --es decir, concepto de Gesellschaft (asociacin)-- (Tnnies 1979: 27;
-   Gesellschaft suele traducirse por sociedad. Puesto que los autores de
-   la traduccin espaola optan por asociacin, as aparecer en las citas,
-   aunque utilizar ambas formas como equivalentes).
-
-   Tnnies expone a continuacin las caractersticas contrapuestas de ambas
-   formas de vnculo humano: la vida en comunidad es ntima y privada; la
-   vida en sociedad es pblica. La Gemeischaft es antigua; la Gesellschaft
-   moderna. La vida en comunidad es la forma genuina de la convivencia, es
-   ms fuerte; la sociedad es transitoria y superficial. A este tenor, la
-   Gemeinschaft (comunidad) debera ser entendida como organismo vivo y la
-   Gesellschaft (asociacin) como un artefacto, un aadido mecnico (1979:
-   29).
-
-   El germen de la idea de comunidad aparece en la relacin padre-hijo, de
-   donde surge la idea de autoridad, autoridad en el sentido de educacin e
-   instruccin como cumplido perfeccionamiento de la procreacin (p. 36). En
-   este sentido, el preferido es el primognito, puesto que est llamado a
-   ocupar el lugar del padre cuando ste lo abandone por razn de edad. La
-   autoridad del padre rene en s las tres clases de autoridad (que en
-   Tnnies equivale a un poder superior que se ejerce en beneficio del
-   subordinado y que, al hallarse en concordancia con su voluntad, es
-   aceptado (p. 38)): de la edad, de la fuerza y de la sabidura.
-
-   La comunidad se basa entonces en la sangre, en la relacin tierna,
-   benvola y respetuosa entre padres e hijos, y en la vecindad, que queda
-   establecida por la propiedad colectiva de la tierra, todo ello
-   reforzado por la comunidad de pensamiento, representada por los lugares
-   sagrados y las deidades a las que se rinde culto (p. 39). Los lugares
-   donde mejor se expresan estos tres tipos de relaciones son primero la
-   casa y luego la aldea: La proximidad de los habitculos, los campos
-   comunes y hasta la mera propincuidad de pertenencias exigen mltiples
-   contactos humanos y propician el conocimiento ntimo de los individuos.
-   Exigen tambin la cooperacin en el trabajo, en el orden y en la
-   administracin y conducen a la comn peticin de gracia y misericordia a
-   los dioses y espritus de la tierra y el agua... (p. 40). La base de la
-   comunidad son entonces la familia y el clan, que mantienen una relacin
-   especial con la tierra cultivada, que fija a la familia en un enclave.
-
-   Las figuras de autoridad que corresponden a la comunidad son primero el
-   padre, dentro de la casa, y luego el prncipe o seor feudal, cuando se
-   pasa a la agrupacin vecinal. La tercera autoridad, la sacerdotal,
-   sobrepasa a las otras dos, puesto que es la forma que la comunidad
-   tiene de mantener el contacto con la divinidad. El sentimiento que
-   mantiene unidos a los miembros de una comunidad debe ser el
-   consentimiento recproco, o consenso (Verstndnis), que a su vez da lugar
-   a un comn estado mental que, en sus formas ms elevadas --costumbres y
-   creencias comunes--, compenetra a los miembros de un pueblo (Volk)
-   (Tnnies 1979: 45).
-
-   En cuanto a la sociedad, se trata de una construccin artificial,
-   mecnica, que en la superficie se asemeja a la comunidad (individuos
-   relacionados entre s), pero que resulta ser esencialmente diferente.
-
-   Tnnies expone a continuacin algunos otros aspectos de ambos tipos de
-   voluntades, de forma que establece aqullos tipos de personas en los que
-   predomina cada una de ellas, hecho que tambin tiene consecuencias para
-   la caracterizacin psicolgica de los tipos de vnculo social.
-
-   La voluntad esencial o natural es el equivalente psicolgico del cuerpo
-   humano, o el principio de la unidad de la vida (1979: 115). La voluntad
-   racional o instrumental es un producto del pensamiento y por tanto
-   posee realidad slo con referencia a su artfice, el pensamiento
-   individual (p. 115). La voluntad natural deriva del pasado y la
-   voluntad racional slo se puede entender en relacin con el futuro. Ambas
-   voluntades se encuentran presentes en todo ser humano, en diferentes
-   proporciones. Si domina el sentimiento, el espritu y la conciencia, nos
-   encontramos con un dominio de la voluntad natural, que se encuentra ms
-   presente en las mujeres, los nios y el pueblo. Si predominan la
-   intencin (el clculo) y la conducta consciente, nos encontramos con un
-   dominio de la voluntad racional, que aparece sobre todo en los hombres
-   y en las clases cultas (ver libro II, seccin tercera).
-
-   Veamos en forma de cuadro la serie de oposiciones que Tnnies establece
-   entre ambos tipos de vnculo social:
-
-
-                                  COMUNIDAD
-
-   SOCIEDAD
-
-   voluntad natural
-
-   voluntad racional
-
-   vida orgnica y real
-                        vida mecnica e imaginaria
-
-   vida ntima y privada
-
-   vida pblica
-
-   antigua
-
-   moderna
-
-   genuina
-
-   transitoria
-
-   organismo vivo
-
-   artefacto mecnico
-
-   sangre-familia-clan
-
-   individuo
-
-   aldea
-
-   ciudad
-
-   agricultura
-
-   comercio-industria
-
-   consenso
-
-   contrato
-
-   religin
-
-   ciencia
-
-   Volk (pueblo)
-
-   Estado
-                        mujeres-nios-clases populares
-
-   hombres-clases cultas
-
-   Emile Durkheim (1858-1817)
-
-   Durkheim es frecuentemente considerado como el fundador de la sociologa
-   francesa, pero de una ciencia social que no se corresponde exactamente
-   con el campo actual de esta disciplina. El campo de conocimiento que
-   abarcaba el proyecto de Durkheim era amplsimo, y en l la antropologa
-   ocupaba un lugar importantsimo. Tampoco hay que olvidar su enorme
-   influencia en la antropologa moderna, tanto en Francia como sobre todo
-   en los funcionalistas britnicos. De ah que su figura aparezca en todas
-   las historias de la disciplina antropolgica y a la hora de tratar
-   ciertos aspectos de la vida social, sobre todo la religin.
-
-   Durkheim lee en 1893 su tesis de doctorado De la division du travail
-   social. Segn Durkheim, la funcin de la divisin del trabajo social es
-   crear entre dos o ms personas un sentimiento de solidaridad (1893: 65).
-   Esta divisin del trabajo social es inversamente proporcional a la
-   antigedad del ser humano en el mundo: cuanto ms nos remontamos en el
-   tiempo, ms se reduce la divisin social del trabajo. En una lejana poca
-   sin determinar claramente, hombres y mujeres no se diferenciaban
-   apenas: a medida que aumenta la civilizacin, el tamao del cerebro del
-   varn, y por lo tanto su inteligencia, aumenta. Cuando se va avanzando
-   hacia los tiempos modernos, se desarrolla el matrimonio, y aumenta la
-   divisin sexual del trabajo: la mujer se retira de la guerra y los
-   asuntos pblicos y su vida se concentra en el interior de la familia (p.
-   70). El efecto ms notable de la divisin del trabajo no es que aumente
-   el rendimiento de las funciones divididas, sino que las hace ms
-   solidarias (p. 71). Si esta hiptesis, formulada por Comte fuese
-   correcta, la divisin del trabajo sera una condicin de la existencia de
-   las sociedades. Gracias principalmente a ella la sociedad se asegurara
-   su cohesin; determinara los rasgos esenciales de su constitucin (p.
-   74). Durkheim prosigue su argumentacin sealando que el smbolo externo
-   de esta solidaridad social creada por la divisin del trabajo es el
-   derecho. Por lo tanto, no hay ms que clasificar las diferentes especies
-   de derecho para encontrar las diferentes especies de solidaridad
-   social. Una vez que rechaza las clasificacin entre derecho pblico y
-   derecho privado (pp. 80 ss.), establece las categoras que considera
-   pertinentes: Se deben, pues, agrupar en dos grandes especies las reglas
-   jurdicas, segn les correspondan sanciones represivas organizadas, o
-   solamente sanciones restitutivas. La primera comprende todo el derecho
-   penal; la segunda, el derecho civil, el derecho mercantil, el derecho
-   procesal, el derecho administrativo y constitucional, abstraccin hecha
-   de las reglas personales que en stos puedan encontrarse (p. 81).
-
-   Una vez sentada esta afirmacin, Durkheim procede a establecer qu forma
-   de solidaridad social corresponde a cada forma de derecho: el lazo de
-   solidaridad social a que corresponde el derecho represivo es aquel cuya
-   ruptura constituye el crimen (p. 83). La caracterstica general del
-   crimen es que constituye un acto reprobado por los miembros de cada
-   sociedad, en virtud de la ofensa que supone para la conciencia
-   colectiva, que a su vez Durkheim define como el conjunto de las
-   creencias y de los sentimientos comunes al trmino medio de los miembros
-   de una misma sociedad [que] constituye un sistema determinado que tiene
-   su vida propia (1893: 94). La conformidad de todas las conciencias
-   individuales al tipo psquico comn de la sociedad produce un tipo de
-   cohesin social que Durkheim denomina mecnica o por semejanzas: De ah
-   resulta una solidaridad sui generis que, nacida de semejanzas, liga
-   directamente al individuo a la sociedad (...). Esta solidaridad no
-   consiste slo en una unin general e indeterminada del individuo al
-   grupo, sino que hace que tambin sea armnico el detalle de los
-   movimientos (...). Por consiguiente, siempre que entran en juego, las
-   voluntades se mueven espontneamente y con unidad en el mismo sentido
-   (1893: 124-125). La pena, el castigo social del crimen, tiene como
-   funcin mantener intacta la cohesin social, conservando en toda su
-   vitalidad la conciencia comn (p. 127).
-
-   El otro tipo de solidaridad social es la denominada orgnica o debida a
-   la divisin social del trabajo. Se basa en la sancin de tipo
-   restitutivo, no penal, un simple volver las cosas a su estado (p. 131).
-   Las reglas de la sancin restitutiva son extraas a la conciencia comn, y
-   las relaciones que determinan se establecen no entre el individuo y la
-   sociedad, sino entre partes limitadas y especiales de la sociedad, a
-   las cuales relacionan entre s (p. 135). Estas relaciones y la
-   solidaridad que resulta de ellas proceden de la divisin social del
-   trabajo. Estas tareas y partes especiales de la sociedad escapan a la
-   conciencia colectiva, pues para que una cosa sea objeto de sentimientos
-   comunes, la primera condicin es que sea comn, es decir, que se halle
-   presente en todas las conciencias (p. 149).
-
-   En el caso de la solidaridad mecnica, la sociedad es un conjunto ms o
-   menos organizado de creencias y sentimientos comunes (p. 151) a todos
-   los miembros del grupo. Es de tipo colectivo. La solidaridad orgnica,
-   por su parte, crea un tipo de sociedad que consiste en un sistema de
-   funciones diferentes y especiales que unen relaciones definidas (p.
-   151). De todas maneras, ambos aspectos se encuentran presentes en todas
-   las sociedades, y el peso de cada una de las solidaridades se puede
-   medir cuantificando el peso de cada uno de los derechos que las
-   reflejan (p. 128).
-
-   En las sociedades en las que predomina la solidaridad mecnica (que
-   Durkheim denomina as por analoga con lo que une entre s a los elementos
-   de los cuerpos brutos), la conciencia individual depende directamente
-   de la conciencia colectiva. El individuo no se pertenece: es
-   literalmente una cosa de que dispone la sociedad (1893: 153). En
-   cambio, en las sociedades en las que predomina la solidaridad orgnica
-   [denominada as por semejanza con los organismos animales: cada rgano
-   tiene autonoma pero la unidad del organismo es tanto mayor cuanto que
-   esta individuacin de las partes es ms sealada (p. 154)], los individuos
-   difieren unos de otros. Cada individuo, o cada personalidad individual
-   debe tener una esfera de accin propia.
-
-   Durkheim pasa seguidamente a caracterizar los tipos ideales de
-   sociedades en las que estos dos tipos de solidaridad se den en estado
-   puro. De todos modos, seala que el tipo puro de sociedad de solidaridad
-   mecnica (para la que propone el nombre horda, que sera una masa
-   totalmente homognea en que las partes no se distinguiran entre s, p.
-   207), no existe. Las sociedades inferiores, que se encuentran ms
-   prximas a la situacin originaria, se hallan formadas por una simple
-   repeticin de grupos de este tipo. La horda que ha dejado de ser
-   independiente para convertirse en un elemento de un grupo ms extenso
-   recibe el nombre de clan, y los pueblos formados por una asociacin de
-   clanes seran sociedades segmentarias a base de clanes (p. 208-209). La
-   solidaridad del clan deriva simplemente de la semejanza. Las nicas
-   autoridades son los jefes de clan, en el que todos los miembros se
-   consideran, o son de hecho, parientes. Esta comunidad de sangre es la
-   que engendra las afinidades que los mantienen unidos. Las relaciones
-   que mantienen entre s los miembros del clan son calificadas por
-   Durkheim de domsticas: venganza colectiva, responsabilidad colectiva,
-   herencia mutua.
-
-   Las sociedades de solidaridad orgnica ya no estn formadas por segmentos
-   homogneos, similares entre s, sino que constan de rganos diferenciados
-   con funciones especiales, coordinados y subordinados alrededor de un
-   mismo rgano central que ejerce sobre el resto una accin moderatriz
-   (1893: 216). La funcin que desempea cada uno de estos rganos sustituye
-   a la consanguinidad, real o ficticia, como forma de situarlos dentro de
-   la sociedad. Estos rganos de la nueva organizacin provienen de los
-   segmentos de la anterior: de la mezcla entre la organizacin familiar y
-   la organizacin profesional, y del clan se pasa a la organizacin
-   territorial. Esta divisin social del trabajo, esta especializacin de
-   los rganos de la sociedad, surge de la necesidad de hacer frente al
-   aumento del volumen y la densidad de las sociedades.
-
-                                    * * *
-
-   Hasta aqu la somera exposicin de las teoras de los principales
-   creadores de las tipologas sociales. Evidentemente, podra echarse en
-   falta a algn autor clsico (como por ejemplo M. Weber), pero considero
-   que estos cuatro autores son los ms representativos en la historia de
-   la antropologa y la sociologa a la hora de tratar este aspecto
-   concreto. A pesar de las diferencias que se pueden observar entre ellos
-   (utilizacin de la oposicin mecnico/orgnico de forma exactamente opuesta
-   en Durkheim y Tnnies, diferente utilizacin del criterio territorial
-   como componente de cada uno de los tipos establecidos, bsqueda en
-   diferentes aspectos del criterio de percepcin del vnculo social, etc.),
-   existen una serie de semejanzas que permiten establecer caractersticas
-   comunes que se pueden agrupar en dos grandes bloques: el vnculo
-   familiar, la sangre, el sentimiento, en fin, lo no racional, como base
-   de la comunidad, la societas, la solidaridad mecnica y el estatus; y la
-   racionalidad, los vnculos profesionales y el inters como base de la
-   sociedad, la civitas, la solidaridad orgnica y el contrato. Los
-   intentos de diferenciacin entre tipos de sociedad, casi siempre
-   adoptando una forma dual, han buscado tambin otras formas de
-   expresarse, en muchos casos a partir de la tradicin marxista, que
-   establece dicotomas en forma de sociedades sin Estado y sociedades con
-   Estado, o sociedades precapitalistas y sociedades capitalistas,
-   conservando la idea originaria de que algunas sociedades carecen de
-   algo que s tienen otras (por lo general, la nuestra es el elemento
-   ltimo de comparacin). En este mismo sentido, aunque intentando no hacer
-   juicios de valor (sin conseguirlo del todo), se sita la distincin entre
-   sociedades fras (congeladas en una historia lenta) y sociedades
-   calientes (inscritas en una historia de ritmo rpido) de C. Lvi-Strauss
-   (1964).
-
-   De todos estos conceptos, la terminologa comunidad frente a sociedad ha
-   sido la que ha perdurado ms, tanto en el trabajo antropolgico como en
-   el histrico, introduciendo adems una nueva oposicin, o mejor, un matiz
-   en la ya existente. A la ya clsica, perfectamente asumida (y cuyas
-   bases nunca se explicitan del todo) divisin de las sociedades en
-   general entre primitivas, tribales, precapitalistas o sin Estado y
-   modernas, capitalistas o con Estado, se ha aadido una subdivisin en
-   estas ltimas: las sociedades tradicionales o comunitarias, donde este
-   trmino ha hecho fortuna, compartiendo caractersticas con las primitivas
-   (importancia de los vnculos de parentesco, relaciones cara a cara,
-   sentimiento de pertenencia y de inmutabilidad) pero teniendo en cuenta
-   un factor que ya estaba presente por ejemplo en Tnnies y Durkheim: su
-   inclusin dentro de una sociedad abarcante, que adems las va cercando y
-   eliminando poco a poco, aunque algunos autores matizan esta influencia
-   negativa de las sociedades industrializadas sobre la vida comunitaria
-   tradicional. Ambos autores (p. 234 y Prefacio respectivamente)
-   reflexionan en tono pesimista sobre la desaparicin de las formas de
-   vida comunitarias y las posibilidades de recuperacin de algunas de sus
-   caractersticas. Sobre este punto, Assier-Andreu (1986) menciona las
-   posibilidades de desarrollo econmico moderno, por medio del turismo en
-   este caso, dentro de marcos tradicionales.
-
-   La gran variedad de usos del trmino comunidad parece organizarse
-   alrededor de dos polos. El primero de ellos proviene de una aproximacin
-   culturalista al hecho de comunidad, destacando los aspectos que ms
-   tienen que ver con las relaciones personales entre los miembros. sta es
-   la orientacin que ha privilegiado la antropologa americana, siendo R.
-   Redfield el autor que ms se ha preocupado por definir qu cosa sea la
-   comunidad. El otro polo de significacin reside en una aproximacin de
-   tipo histrico a la comunidad, destacando sobre todo sus dimensiones
-   institucionales o econmicas.
-
-   Hemos mencionado en numerosas ocasiones a R. Redfield. En efecto, la
-   obra anteriormente citada supone el arranque de los estudios de
-   comunidad en antropologa. Refield cita expresamente a los autores
-   escogidos como conformadores de la dualidad en la que engloba a su
-   pequea comunidad, incluyendo adems a Fustel de Coulanges, incorporando
-   as la dimensin histrica a la que antes hacamos mencin, aunque l no la
-   desarrolla, centrndose ms en la dimensin culturalista (1960, cap. IX).
-   Las caractersticas de la pequea comunidad segn Redfield seran: es un
-   todo humano, un sistema ecolgico, una estructura social, una biografa
-   tpica, un punto de vista sobre la vida (ethos), una historia... En los
-   ejemplos de pequeas comunidades que aporta, se percibe claramente que
-   est incluyendo tanto sociedades primitivas como tradicionales: poblados
-   neolticos de los lagos suizos, bandas de cazadores de la selva
-   boliviana, aldea medieval, ganaderos del Alto Nilo, y pueblos o pequeas
-   ciudades actuales en Provenza o Missouri (Redfield 1960: 1). Es decir,
-   toda clase de colectividades humanas percibidas como discretas
-   diferentes de los Estados modernos o las grandes urbes.
-
-   En el trabajo antropolgico moderno, esta concepcin se mantiene en la
-   mayora de los casos de forma implcita, puesto que los diversos autores
-   que realizan estudios de comunidad (en antropologa a partir de los
-   trabajos de Redfield; en sociologa a partir de la escuela de Chicago; y
-   en historia a partir sobre todo de los trabajos de los historiadores
-   ingleses; ver Calhoun 1980 y MacFarlane 1977) no suelen exponer los
-   supuestos en los que se basan para caracterizar de esa forma al grupo
-   que estn estudiando. Y es que se trata de un proceso comn a la
-   generalidad de las ciencias sociales: cuando un concepto, un trmino o
-   una idea quedan consagrados por el uso, los diferentes autores no se
-   interrogan sobre el sentido originario que tenan y sobre su pertinencia
-   o no, sino que se limitan a repetir lo ya hecho por otros autores,
-   suponiendo que todo el mundo sabe qu se quiere decir cuando se habla de
-   comunidad, de sociedad, de civilizacin, o de cultura (MacFarlane 1977,
-   que de todos modos tampoco propone ninguna solucin).
-
-   Una vez desarrolladas la antropologa y la sociologa como disciplinas
-   acadmicamente establecidas, cada uno de estos dos tipos bsicos de
-   organizacin social quedan del lado de una de ellas. El primer tipo, que
-   incluye a las sociedades primitivas y tradicionales, caracterizado por
-   los factores irracionales y afectivos, queda del lado de la
-   antropologa, que desarrolla tcticas de investigacin de tipo cualitativo
-   (convivencia). El segundo tipo, que incluye a las sociedades
-   civilizadas y modernas, queda del lado de la sociologa, que adopta
-   tcticas de estudio de tipo cuantitativo. Las sociedades modernas, de
-   grandes dimensiones, producen datos numricos, que aparecen como
-   indispensables para la validacin de las hiptesis sociolgicas
-   (Laburthe-Tolra y Warnier 1993: 8 y 5-10), mientras que el estudio
-   prolongado, cara a cara, en situaciones en las que los datos
-   estadsticos pueden no significar gran cosa, queda del lado de la
-   antropologa. Esta divisin temtica de las disciplinas supone, como
-   sealaba antes, asumir que existen dos clases de sociedades, o dos
-   clases de formas de relacionarse en sociedad. Creo que es la
-   antropologa, y no la sociologa la disciplina que ms ha reflexionado
-   sobre este aspecto, sin llegar por otra parte, a pesar de su
-   insistencia, desde los orgenes, en la unidad de la especie humana, a
-   superar esa visin dualista de las colectividades humanas.
-
-   Para concluir, no se trata en este momento de proponer una solucin a un
-   dilema que parece formar parte desde los orgenes de las disciplinas
-   relacionadas con la sociedad. Lo que he intentado es exponer cules son
-   los inicios de esta forma de contemplar las sociedades humanas, que
-   proceden de los primeros contactos masivos de la cultura occidental con
-   el Nuevo Mundo y se refuerzan con un momento de cambio en la propia
-   Europa a raz de la revolucin industrial. Lo cierto es que se sigue
-   manteniendo esta dicotoma, y las dudas que se plantean algunos autores
-   respecto a su pertinencia se solventan en la mayora de los casos con un
-   simple entrecomillado que quiere dejar constancia de los problemas que
-   plantea esta divisin, pero que indudablemente supone tambin reconocer
-   la impotencia para buscar una terminologa que recoja todas las
-   posibilidades y que no suponga juicios de valor implcitos.
-   _______________________________________________________________________
-
-   Bibliografa
-
-   Aron, A.
-    1992 Las etapas del pensamiento sociolgico. Buenos Aires, Siglo
-   Veinte, t. II.
-
-   Assier-Andreu, L.
-    1986, La communaut villageoise. Objet historique. Enjeu thorique,
-   Ethnologie Franaise, 16 (4): 351-360.
-
-   Bonte, P. (y M. Izard)
-    1996 Diccionario de antropologa y etnologa. Madrid, Akal.
-
-   Bottomore, T. (y R. Nisbet)
-    1988 Historia del anlisis sociolgico. Buenos Aires, Amorrortu.
-
-   Calhoun, C. J.
-    1980 Community: toward a variable conceptualization for comparative
-   research, Social History, 5: 105-129.
-
-   Duchet, M.
-    1975 Antropologa e historia en el siglo de las Luces. Mxico, Siglo
-   XXI.
-
-   Durkheim, E.
-    1985 La divisin del trabajo social. Barcelona, Planeta-Agostini (segn
-   la 2 ed. francesa, 1902).
-
-   Engels, F.
-    1884 El origen de la familia, la propiedad privada y el Estado, en
-   Obras escogidas. Madrid, Akal, 1975, II: 177-345.
-
-   Flaquer, Ll. (y S. Giner)
-    1979 Prlogo: Ferdinand Tnnies y la ciencia social moderna, en F.
-   Tnnies, Comunidad y asociacin. Barcelona, Pennsula.
-
-   Freund, J.
-    1988 La sociologa alemana en la poca de Max Weber, en T. Bottomore y
-   R. Nisbet, Historia del anlisis sociolgico. Buenos Aires, Amorrortu.
-
-   Gordon, S.
-    1995 Historia y filosofa de las ciencias sociales. Barcelona, Ariel.
-
-   Kader, L.
-    1988 Los apuntes etnolgicos de Karl Marx. Madrid, Siglo XXI/Ed. Pablo
-   Iglesias.
-
-   Laburthe-Tolra, P. (y J.-P. Warnier)
-    1993 Ethnologie. Anthropologie. Pars, PUF.
-
-   Lvi-Strauss, C.
-    1964 El pensamiento salvaje. Mxico, F.C.E.
-
-   Lisn Tolosana, C.
-    1971 Prlogo, en L. H. Morgan, La sociedad primitiva. Madrid, Ayuso.
-
-   MacFarlane, A.
-    1977 History, anthropology and the study of communities, Social
-   History, 5: 631-652.
-
-   Maine, H. J. S.
-    1861 Ancient law. Its connection with the early history of society and
-   its relation to modern ideas. Londres, Oxford University Press, 1939.
-
-   Morgan, L. H.
-    1877 La sociedad primitiva. Madrid, Editorial Ayuso, 1971 2 ed. Prlogo
-   de C. Lisn Tolosana.
-
-   Redfield, R.
-    1960 The little community. Peasant society and culture. Chicago y
-   Londres, The University of Chicago Press.
-
-   Ritzer, G.
-    1993 La teora sociolgica clsica. Madrid, McGraw-Hill.
-
-   Tnnies, F.
-    1979 Comunidad y asociacin. Barcelona, Pennsula.
-    Gazeta de Antropologa
+   #Escuela Particular Arrayan » Feed Escuela Particular Arrayan » Feed de
+   los comentarios Escuela Particular Arrayan » Comentario Cómo los
+   Cambios en la Sociedad han Evolucionado a lo Largo del Tiempo del feed
+   alternate alternate alternate
+
+   Saltar al contenido
+
+   Escuela Particular Arrayan
+
+   (BUTTON) Menú
+
+   (BUTTON) Menú
+     * Política de privacidad
+     * Contacto
+     * Escuela Particular Arrayan
+
+Cómo los Cambios en la Sociedad han Evolucionado a lo Largo del Tiempo
+
+   por twpe1
+
+   A lo largo de la historia, la sociedad ha experimentado numerosos
+   cambios y transformaciones. Desde los primeros asentamientos humanos
+   hasta la actualidad, la evolución de la sociedad ha sido constante y ha
+   estado marcada por diversos factores, como la tecnología, la política,
+   la economía o la cultura. En este sentido, el estudio de la evolución
+   de la sociedad es fundamental para comprender el mundo en el que
+   vivimos y para reflexionar sobre el futuro que queremos construir como
+   sociedad. En este artículo, analizaremos algunos de los principales
+   cambios que ha experimentado la sociedad a lo largo del tiempo y cómo
+   estos han influenciado en nuestra forma de vida y en nuestras
+   relaciones sociales.
+
+   IFRAME: https://www.youtube.com/embed/54MvKLDZtHU?feature=oembed
+
+La evolución de la sociedad: cambios significativos a lo largo de la historia
+
+   La evolución de la sociedad es un tema que ha sido objeto de estudio y
+   análisis por parte de expertos en diferentes campos, desde la
+   sociología hasta la antropología. A lo largo de la historia, la
+   sociedad ha experimentado cambios significativos que han transformado
+   la forma en que las personas viven, trabajan y se relacionan entre sí.
+
+   Uno de los cambios más significativos en la evolución de la sociedad ha
+   sido el surgimiento de la agricultura y la domesticación de animales.
+   Esto permitió que las personas se establecieran en comunidades más
+   grandes y desarrollaran una economía basada en la producción de
+   alimentos. La agricultura también llevó al surgimiento de la propiedad
+   privada y la división del trabajo, lo que permitió el desarrollo de
+   oficios y la especialización.
+
+   Otro cambio importante en la evolución de la sociedad fue la Revolución
+   Industrial, que comenzó en Gran Bretaña en el siglo XVIII. La
+   Revolución Industrial trajo consigo la mecanización de la producción y
+   la creación de fábricas, lo que cambió radicalmente la forma en que las
+   personas trabajaban. La industrialización también llevó al surgimiento
+   de una clase trabajadora y a la creación de nuevas formas de
+   organización económica y política.
+
+   En el siglo XX, la tecnología y la globalización han sido los
+   principales impulsores de cambios significativos en la sociedad. La
+   tecnología ha permitido la creación de nuevas formas de comunicación y
+   transporte, lo que ha llevado a un mundo más interconectado. La
+   globalización ha llevado a la creación de una economía mundial y ha
+   cambiado la forma en que las empresas operan y compiten.
+
+   En la actualidad, la sociedad está experimentando cambios
+   significativos debido a la pandemia de COVID-19. La pandemia ha llevado
+   a la adopción de nuevas formas de trabajo y educación en línea, así
+   como a un aumento en la atención médica y la tecnología de la salud.
+   También ha llevado a cambios en la forma en que las personas se
+   relacionan entre sí y en cómo se llevan a cabo las compras y el
+   comercio.
+
+   La pandemia de COVID-19 es otro ejemplo de cómo los cambios en la
+   sociedad pueden ser impredecibles e impactantes, y es probable que
+   sigamos viendo cambios significativos en el futuro.
+
+Descubre la evolución de la sociedad a lo largo de los años
+
+   La sociedad es un concepto que ha ido evolucionando a lo largo de la
+   historia. Desde los primeros grupos humanos que se establecieron en
+   tribus hasta la compleja sociedad globalizada en la que vivimos hoy en
+   día, han ocurrido muchos cambios y transformaciones.
+
+   Uno de los aspectos más significativos de la evolución de la sociedad
+   ha sido el desarrollo de la tecnología. Con la invención de
+   herramientas y máquinas, la humanidad ha sido capaz de mejorar su
+   calidad de vida y aumentar la eficiencia en la producción y
+   distribución de bienes y servicios.
+
+   Otro factor importante en la evolución de la sociedad ha sido el cambio
+   en las estructuras familiares y la forma en que las personas se
+   relacionan entre sí. La familia nuclear tradicional ha dado paso a una
+   variedad de estructuras familiares, incluyendo familias monoparentales
+   y parejas del mismo sexo. Además, la comunicación y la interacción
+   entre las personas ha cambiado drásticamente con la llegada de las
+   redes sociales y las tecnologías de la comunicación.
+
+   La evolución de la sociedad también ha sido influenciada por factores
+   económicos y políticos. El capitalismo y el socialismo son dos sistemas
+   económicos que han tenido un impacto significativo en la organización
+   de la sociedad y en la distribución de la riqueza. Además, los sistemas
+   políticos, desde las monarquías hasta las democracias, han cambiado la
+   forma en que se toman las decisiones y se gobierna a las personas.
+
+   También es importante destacar la evolución de las actitudes y valores
+   culturales. Desde la tolerancia y el respeto por la diversidad hasta el
+   movimiento de derechos civiles y la lucha por la igualdad de género, la
+   sociedad ha experimentado cambios significativos en lo que se refiere a
+   la forma en que se ven y se tratan a las personas.
+
+   A medida que la sociedad continúa evolucionando, es importante
+   reflexionar sobre los cambios que han ocurrido y cómo podemos seguir
+   avanzando hacia un futuro más justo y equitativo para todas las
+   personas.
+
+La evolución del mundo: ¿Qué ha cambiado con el paso del tiempo? Descubre los
+avances más sorprendentes
+
+   Desde el inicio de la humanidad, el mundo ha experimentado una serie de
+   cambios y avances notables. Desde la aparición de las primeras
+   herramientas de piedra hasta la tecnología de última generación de hoy
+   en día, la sociedad ha evolucionado de muchas maneras.
+
+   Una de las principales áreas en las que han ocurrido cambios notables
+   es la tecnología. Desde la invención de la rueda hasta la era digital,
+   hemos visto cómo la tecnología ha cambiado el mundo en que vivimos. La
+   aparición de la electricidad, el teléfono, la radio, la televisión y,
+   más recientemente, Internet, han transformado la forma en que nos
+   comunicamos y nos relacionamos con los demás.
+
+   Otro cambio significativo ha sido la evolución de la medicina. Desde
+   las primeras técnicas de curación basadas en la herbolaria hasta los
+   avances en la cirugía y la medicina moderna, hemos visto cómo la
+   medicina ha evolucionado y mejorado la calidad de vida de las personas.
+
+   La educación también ha cambiado de manera significativa. Desde la
+   educación tradicional en el aula hasta la educación en línea y la
+   educación personalizada, hemos visto cómo la forma en que las personas
+   aprenden y obtienen conocimientos ha evolucionado a lo largo del
+   tiempo.
+
+   La igualdad de género y los derechos humanos son otro ejemplo de cómo
+   la sociedad ha evolucionado. Desde la lucha por el sufragio femenino
+   hasta la lucha por el matrimonio igualitario, hemos visto cómo las
+   personas han luchado por la igualdad y los derechos de todos los seres
+   humanos.
+
+   Estos cambios han transformado la forma en que vivimos y nos
+   relacionamos unos con otros, y seguirán teniendo un impacto en la
+   sociedad en el futuro.
+
+Descubre cómo los cambios sociales están transformando nuestra sociedad
+actual
+
+   La sociedad actual está en constante cambio y evolución. Desde los
+   tiempos más antiguos hasta la actualidad, ha habido distintos cambios
+   que han transformado nuestra sociedad. Es esencial comprender cómo
+   estos cambios han evolucionado con el tiempo para entender mejor
+   nuestro mundo actual.
+
+   Uno de los cambios más significativos ha sido el avance tecnológico.
+   Desde la invención de la rueda hasta la creación de Internet, la
+   tecnología ha tenido un impacto en todos los aspectos de nuestra vida.
+   La forma en que nos comunicamos, trabajamos y nos relacionamos ha sido
+   transformada por la tecnología.
+
+   Además, los cambios en la economía han tenido un gran impacto en
+   nuestra sociedad. Desde la economía agraria hasta la economía
+   globalizada actual, los cambios en la forma en que producimos y
+   consumimos bienes y servicios han afectado la forma en que vivimos y
+   trabajamos.
+
+   Otro cambio importante ha sido el surgimiento de nuevas formas de
+   organización social y política. Desde las tribus primitivas hasta los
+   sistemas democráticos actuales, la forma en que nos organizamos como
+   sociedad ha evolucionado y cambiado con el tiempo.
+
+   Finalmente, los cambios en la cultura y los valores han tenido un
+   impacto significativo en nuestra sociedad actual. Desde las creencias
+   religiosas hasta las actitudes hacia la diversidad y la igualdad, la
+   cultura y los valores son una parte esencial del tejido social y han
+   evolucionado con el tiempo.
+
+   Los cambios en la tecnología, la economía, la organización social y
+   política, y la cultura y los valores, han transformado nuestra sociedad
+   a lo largo del tiempo. Comprender estos cambios es esencial para
+   entender mejor nuestro mundo actual y prepararnos para el futuro.
+
+   En conclusión, los cambios en la sociedad han sido constantes a lo
+   largo del tiempo. Desde la prehistoria hasta la actualidad, la
+   humanidad ha experimentado cambios significativos en la forma en que
+   vive, trabaja, se relaciona y se comunica. Cada época ha tenido sus
+   propias características y desafíos, pero siempre ha habido una
+   constante búsqueda de mejora y progreso. Hoy en día, vivimos en una
+   sociedad globalizada y altamente tecnológica, donde la información y la
+   comunicación son más accesibles que nunca. Es importante comprender
+   cómo hemos llegado hasta aquí para poder entender mejor nuestro
+   presente y construir un futuro más justo y sostenible.
+
+   A lo largo de la historia, la sociedad ha experimentado cambios
+   significativos que han transformado la vida de las personas en todo el
+   mundo. Estos cambios han sido impulsados por diversos factores, como la
+   tecnología, la política, la economía, la cultura y las relaciones
+   interpersonales.
+
+   Desde la invención de la rueda hasta la llegada de la era digital, la
+   sociedad ha evolucionado en formas que nunca podríamos haber imaginado.
+   Los avances en la medicina, la ciencia y la tecnología han mejorado la
+   calidad de vida de las personas de maneras impresionantes.
+
+   También ha habido cambios en las actitudes y valores sociales, como la
+   igualdad de género, los derechos civiles y la aceptación de la
+   diversidad. Aunque estos cambios han sido lentos y a menudo enfrentan
+   resistencia, han creado un mundo más justo e inclusivo.
+
+   En resumen, los cambios en la sociedad han sido constantes y necesarios
+   para adaptarse a las condiciones cambiantes del mundo. A medida que
+   seguimos evolucionando, es importante recordar que los cambios son
+   inevitables y que debemos abrazarlos para seguir avanzando hacia un
+   futuro mejor.
+
+Más artículos relacionados:
+
+     * como-la-sociedad-ha-evolucionado-a-traves-de-los-cambios Cómo la
+       Sociedad ha Evolucionado a través de los Cambios
+     * como-la-escritura-fue-creada-una-mirada-historica-a-la-evolucion-de
+       -la-escritura Cómo la Escritura Fue Creada: Una Mirada Histórica a…
+     * ¿Que-es-y-que-estudia-la-historia ¿Qué es y que estudia la
+       historia?
+     * descubre-la-importancia-de-la-historia-por-que-es-importantes-nuest
+       ra-historia Descubre la Importancia de la Historia: Por qué es…
+     * ¿Cuales-son-las-5-etapas-de-la-historia-de-la-humanidad ¿Cuáles son
+       las 5 etapas de la historia de la humanidad?
+     * los-valores-en-la-sociedad-moderna-como-evolucionan-y-adaptarse-a-l
+       os-cambios-actuales Los Valores en la Sociedad Moderna: Cómo
+       Evolucionan…
+     * ¿Que-tiempo-puede-durar-un-periodo-historico ¿Qué tiempo puede
+       durar un periodo histórico?
+     * ¿Cuales-son-las-8-ramas-de-la-historia ¿Cuáles son las 8 ramas de
+       la historia?
+     * ¿Cual-es-la-diferencia-entre-la-prehistoria-y-la-historia ¿Cuál es
+       la diferencia entre la prehistoria y la historia?
+
+   Categorías Uncategorized
+
+   Explorando el Impacto Histórico de las Esclusas del Canal de Panamá
+   Descubre la Importancia de la Historia: Por qué es Importantes Nuestra
+   Historia
+
+Deja un comentario Cancelar la respuesta
+
+   Comentario
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   _
+   Nombre ______________________________ Correo electrónico
+   ______________________________ Web ______________________________
+
+   [ ] Guarda mi nombre, correo electrónico y web en este navegador para
+   la próxima vez que comente.
+
+   Publicar comentario
+
+   1701625345__________ 2f2de47bd540382a983b ____________________
+   2e664857a0342bf67c8f
+
+   Buscar
+   ____________________ (BUTTON) Buscar
+
+Últimas entradas
+
+     * ¿Cómo resolver ejercicios de matemáticas paso a paso?
+     * ¿Cuál es la escritura más antigua de la humanidad?
+     * ¿Qué actividades propone para un trabajo colaborativo con las
+       familias para el aprendizaje de los niños y niñas?
+     * ¿Cuáles son las 23 ciencias auxiliares de la historia?
+     * ¿Qué significa el punto en las operaciones combinadas?
+
+   Contacto | Política de Privacidad | Sitemap
+
+   © 2023 Escuela Particular Arrayan • Creado con GeneratePress

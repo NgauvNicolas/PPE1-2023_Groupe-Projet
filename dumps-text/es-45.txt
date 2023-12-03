@@ -1,231 +1,277 @@
-   #Blog del COBCM » Feed Blog del COBCM » Feed de los comentarios
-   alternate alternate alternate
+   #RSS
 
-   Blog del COBCM
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NT6WHX8
 
-Blog del COBCM
+   Toda Materia TodaMateria
+   Buscar ____________________ (Submit)
 
-   Blog Oficial del Colegio Oficial de Biólogos de la Comunidad de Madrid
-   Colegio Oficial de Biólogos de la Comunidad de Madrid
-   ACCESO VENTANILLA ÚNICA
+   Biología Filosofía Física Historia Matemáticas Química Metodología
+   Todas las materias
 
-     * Web COBCM
-     * El COBCM
-          + ¿Quiénes somos?
-          + Organización
-               o Junta de Gobierno
-               o Estatutos del COBCM
-               o El CGCOB y los COB’s
-               o Comisión de Recursos
-               o Directorio colegiados
-               o Registro de Actividades del Tratamiento (RAT)
-          + ¿Cómo colegiarse?
-          + Cuotas colegiales
-          + Obligatoriedad de la colegiación
-          + ¿Cómo precolegiarse?
-          + ¿Dónde estamos? – Contacto
-     * Profesión de Biólogo
-          + Actividades profesionales de los biólogos
-          + Correspondencia al nivel MECES del Título de Licenciado en
-            Biología.
-          + Recursos ante la Administración
-          + Defensa de la profesión
-     * Actividades
-          + Formación
-          + Biomicrocosmos
-          + Olimpiada de Biología
-          + Premio COBCM al Mejor Trabajo Fin de Grado
-          + El COBCM en la Universidad
-          + Proyecto YODA
-          + Proyecto Nuestro Medio – Aula Verde
-          + Publicaciones
-     * Comunicación
-          + Colegiados en los medios
-          + Apúntate al Newsletter del COBCM
-          + Envía tus contenidos
-          + Contacto
-     * Revista
-     * COBCM informa
-     * Acceso Colegiados
+    1. Toda Materia
 
-   Biodiversidad COBCM Divulgación
+     Ciencias
 
-La evolución de la Evolución
+     Biología
 
-   28 febrero 201814 agosto 2018Darwin, evolución, selección natural
+                                   Evolución
 
+   Revisión científica por Ana Zita Fernandes
+   Escrito por Lana Magalhães
 
-   Si hay un biólogo conocido, ese es Charles Darwin. Aunque él comenzó a
-   estudiar medicina, en cuanto pudo se escapó y se embarcó en un viaje
-   que cambiaría el curso de la Biología para siempre. Y es que si Darwin
-   es importante por algo, no es tanto por enunciar su Teoría de la
-   Evolución a través de la Selección Natural, sino porque esta es el gran
-   principio unificador de la Biología a través del cual se puede dar
-   respuesta a multitud de preguntas. Por y para este proceso, confluyen
-   todos los aspectos biológicos a todos los niveles: molecular, celular,
-   de individuos y poblaciones.
+   La evolución biológica corresponde a los procesos de modificación y
+   adaptación de las especies a lo largo del tiempo.
 
-   Sin embargo, no ha sido el único en intentar dar una explicación a la
-   gran variedad de organismos distintos sobre tierra. En este post vamos
-   a intentar explicarlo de manera concisa.
+   La actual diversidad de los seres vivos es el resultado de procesos de
+   transformación y adaptación de las especies a varios ambientes,
+   constituyendo la evolución biológica.
 
-La evolución a. D. (antes de Darwin)
+   La idea principal de la evolución biológica es que todos los seres
+   vivos comparten un mismo ancestro. A partir de allí, surgió la enorme
+   variedad de especies que encontramos hoy. Puede decirse que la
+   evolución es el proceso por el cual los organismos modernos se
+   desarrollaron a partir de ancestros antiguos.
 
-   Ya los griegos hablaban de la evolución de los organismos. Los primeros
-   escritos de los que se tienen constancia provienen de una escuela de
-   filosofía fundada por Anaximandro en el siglo VI a. C. Sin embargo,
-   Aristóteles, siglo IV a. C., el considerado como primer gran biólogo,
-   creía que todos los seres vivos podían ser ordenados en una jerarquía.
-   Esta jerarquía se conoció como Scala Naturae en la cual, las criaturas
-   más simples tenían una posición humilde en el peldaño más bajo, el
-   hombre ocupaba el peldaño más alto y todos los otros organismos
-   ocupaban lugares adecuados en el intervalo. Y esto estuvo vigente hasta
-   el siglo XIX.
+   Hasta mediados del siglo XIX, predominaba la idea del creacionismo. De
+   acuerdo con el creacionismo, las especies fueron creadas por un acto
+   divino manteniéndose inmutables hasta hoy.
 
-   Carl von Linné, siglo XVIII d. C., creador del sistema de nomenclatura
-   para la clasificación de los seres vivos, creía en la creación divina
-   de las especies, como muchos otros científicos desde que entraron en
-   Europa las enseñanzas del Viejo Testamento.
+   A partir de mediados del siglo XIX, comienza a ganar fuerza la teoría
+   evolucionista. En este contexto, las ideas de Charles Darwin y Alfred
+   Russel Wallace son las más consistentes en explicar la evolución de los
+   seres vivos. Darwin afirmó que los seres vivos, incluyendo el hombre,
+   descienden de ancestros comunes, que se modificaron a lo largo del
+   tiempo.
 
-   Sin embargo, el primer científico moderno que elaboró un concepto
-   sistemático de la evolución fue Jean Baptiste Lamarck a comienzos del
-   siglo XIX. Propone que todas las especies, incluido el Homo sapiens,
-   descienden de otras especies. Según su hipótesis, la evolución depende
-   de dos fuerzas principales:
-    1. La herencia de las características adquiridas: los órganos de los
-       individuos se van desarrollando o atrofiando en función de la
-       necesidad y esto se transmite a la descendencia.
-    2. Un principio creador universal que impulsa a cada criatura viva
-       hacia un grado de complejidad mayor del de la especie de la que
-       proviene.
+   Actualmente, la teoría del neodarwinismo explica la evolución de los
+   seres vivos. Ella surgió en el siglo XX y representa la unión de los
+   estudios de Darwin, principalmente la selección natural, com los
+   descubrimientos en el área de la genética, como las leyes de Mendel y
+   las mutaciones.
 
-Darwin
+Evidencias de la evolución biológica
 
-   La gran importancia de la Teoría de la Selección Natural es que explica
-   una gran cantidad de cosas con unos premisas muy sencillas:
-    1. Los organismos engendran organismos similares. Es decir, hay
-       estabilidad en el proceso de la reproducción.
-    2. En la mayoría de las especies, el número de individuos que
-       sobreviven y se reproducen en cada generación es pequeño en
-       comparación con el número producido inicialmente.
-    3. En cualquier población dada ocurren variaciones aleatorias entre
-       los organismos individuales, es decir, variaciones que no son
-       ocasionadas por el ambiente, y algunas de estas variaciones son
-       hereditarias.
-    4. La interacción entre estas variaciones al azar y el ambiente
-       determina en grado significativo cuáles individuos sobrevivirán y
-       se reproducirán y cuáles no. Algunas variaciones permiten que los
-       individuos produzcan más prole que otros. Darwin llamó a estas
-       variaciones “favorables” y argumentó que las variaciones favorables
-       heredadas tienden a hacerse cada vez más comunes de una generación
-       a otra. Este es el proceso que Darwin llamó selección natural.
-    5. Dado suficiente tiempo, la selección natural lleva a la acumulación
-       de los cambios que diferencian a grupos de organismos de otros.
+   Entre las principales evidencias de la evolución están el registro
+   fósil, la adaptación de los seres vivos a sus ambientes y las
+   semejanzas entre las especies.
 
+Registro fósil
 
-La evolución d. D. (Después de Darwin)
+   Un fósil es cualquier vestigio de un organismo muy antiguo que fue
+   preservado con el pasar de los años por medios naturales.
 
-   Sin embargo, la teoría de Darwin tenía tres grandes problemas que no
-   supo responder:
-    1. ¿De qué manera se transmiten las características  de una generación
-       a la siguiente?
-    2. ¿Por qué las características heredadas no se “mezclan”, sino que
-       pueden desaparecer y luego reaparecer en generaciones posteriores?
-    3. ¿De qué manera se originan la variaciones sobre las cuales actúa la
-       selección natural?
+   El estudio de los fósiles permite reconstruir la imagen de una especie
+   ya desaparecida y contribuye al estudio de la evolución de los seres
+   vivos. A partir del análisis de las semejanzas y las diferencias entre
+   especies, podemos deducir el momento de su aparición y extinción.
 
-   Para dar respuesta a esto, se combinó la teoría de la evolución de
-   Darwin con los principios de genética que Gregor Mendel publicaría en
-   1865 dando lugar a la Teoría Sintética de la evolución.
+Adaptación
 
-   Desde hace unas décadas, se está poniendo en juicio esta Teoría
-   Sintética de la evolución, por los nuevos avances en el conocimiento de
-   los mecanismos genéticos y por las nueva evaluaciones del registro
-   fósil.
+   La adaptación corresponde al ajuste que todos los organismos
+   experimentan con relación al ambiente en que viven.
 
-   Pero esto ya lo dejamos para otro post.
+   Las adaptaciones son características mantenidas en las poblaciones o en
+   las especies por selección natural; tienen una importancia relativa en
+   la supervivencia y reproducción de los organismos. Son ejemplos de
+   adaptación el camuflaje y el mimetismo.
 
+Semejanzas entre las especies
 
-   Fuente: Biología. Curtis & Barnes.
+   Las semejanzas entre diversos grupos de seres vivos refuerza la idea de
+   que ellos pueden tener un ancestro común durante su historia evolutiva.
+   Algunas evidencias son:
 
-   ____________________ (BUTTON)
+Órganos homólogos
 
-Entradas recientes
+   Son aquellos con el mismo origen embrionario y semejanzas anatómicas,
+   pero con funciones diferentes. El proceso que originó los órganos
+   homólogos se llama divergencia evolutiva. Un ejemplo son los miembros
+   superiores de gran parte de los vertebrados.
 
-     * Fotosistema I: El Corazón de la Fotosíntesis
-     * Funciones del organismo animal (y 2)
-     * Funciones del organismo animal (1)
-     * Haploide y Diploide
-     * Comportamiento animal (y 4)
+Órganos análogos
 
-Categorías
+   Son aquellos con origen embrionario y estructuras anatómicas diferentes
+   pero que ejercen una misma función. Los órganos análogos surgen por
+   convergencia evolutiva. Un ejemplo son las alas de las aves y los
+   insectos.
 
-     * Biodiversidad
-     * COBCM
-     * Colegiado
-     * Cursos
-     * Divulgación
-     * Formación
-     * General
-     * Información
-     * Investigación
-     * Nuevos hallazgos
-     * Recursos
-     * Revista Biólogos
+Órganos vestigiales
 
-   Aviso Legal – Política de privacidad – Información sobre cookies
-   Colegio Oficial de Biólogos de la Comunidad de Madrid.
-   C/ Santa Engracia 108, 2º int.izq. 28003 Madrid.
+   Son órganos atrofiados y sin función aparente. Un ejemplo es el
+   apéndice humano, que representa un vestigio de un compartimiento del
+   intestino que abrigaba microbios para la digestión de la celulosa en
+   nuestros ancestros herbívoros.
 
-   El presente sitio web pertenece al Colegio Oficial de Biólogos de la
-   Comunidad de Madrid (COBCM) utiliza cookies propias y de terceros para
-   mejorar analizar el tráfico web de la misma. Para continuar navegando
-   es necesario aceptar expresamente la Política de Cookies que puedes
-   consultar en ajustes
-   (BUTTON) Aceptar (BUTTON) Rechazar (BUTTON) Ajustes
+Semejanzas embriológicas
 
-   (BUTTON) Cambiar los ajustes de cookies
+   Embriones Ilustraciones de embriones de diferentes animales por
+   G.J.Romanes, 1892. Nótese la similitud del primer estadío embriológico
+   I
 
-   (BUTTON) Cerrar los ajustes de cookies RGPD
-   Blog del COBCM
-     * (BUTTON) Resumen de privacidad
-     * (BUTTON) Cookies estrictamente necesarias
-     * (BUTTON) Cookies de terceros
-     * (BUTTON) Política de cookies
+   Cuando se observa el desarrollo embrionario de algunas especies, se
+   nota que son muy semejantes en algunos aspectos. Esto muestra una
+   evidencia de ancestralidad común. Por ejemplo, peces, anfibios,
+   reptiles, aves y mamíferos son muy diferentes cuando adultos, pero sus
+   embriones son muy parecidos
 
-   Powered by  GDPR Cookie Compliance
-   Resumen de privacidad
+Semejanzas moleculares
 
-   El presente sitio web pertenece al Colegio Oficial de Biólogos de la
-   Comunidad de
-   Madrid (COBCM) utiliza cookies propias y de terceros para mejorar
-   analizar el tráfico
-   web de la misma. Para continuar navegando es necesario aceptar
-   expresamente la
-   Política de Cookies. Aviso Legal – Política de privacidad – Información
-   sobre cookies
-   Cookies estrictamente necesarias
+   Los avances de la biología molecular han permitido comparar la
+   estructura genética de diferentes especies. Esos estudios se
+   complementan con las semejanzas anatómicas y embrionarias y confirman
+   la relación de parentesco entre las especies.
 
-   Las cookies estrictamente necesarias tiene que activarse siempre para
-   que podamos guardar tus preferencias de ajustes de cookies.
-   Activar o desactivar las cookies [ ]
+   Vea también Charles Darwin.
 
-   Si desactivas esta cookie no podremos guardar tus preferencias. Esto
-   significa que cada vez que visites esta web tendrás que activar o
-   desactivar las cookies de nuevo.
-   Cookies de terceros
+Mecanismos de la evolución biológica
 
-   Esta web utiliza Google Analytics para recopilar información anónima
-   tal como el número de visitantes del sitio, o las páginas más
-   populares.
+   La teoría del neodarwinismo considera los siguientes mecanismos como
+   factores que contribuyen a las mudanzas evolutivas:
 
-   Dejar esta cookie activa nos permite mejorar nuestra web. Consulta toda
-   la información sobre estas cookies en este enlace.
-   Activar o desactivar las cookies [ ]
+Mutaciones
 
-   ¡Por favor, activa primero las cookies estrictamente necesarias para
-   que podamos guardar tus preferencias!
-   Política de cookies
+   mutacion hemoglobina La mutación en el gen de la hemoglobina resulta en
+   glóbulos rojos con una forma en hoz.
 
-   Más información sobre nuestra política de cookies
-   (BUTTON) Activar todo (BUTTON) Guardar ajustes
+   Una mutación corresponde a cualquier alteración en el material genético
+   de un organismo que puede originar una característica nueva. Si esta
+   nueva característica ofrece alguna ventaja al individuo, el alelo (la
+   mutación) tiende a ser preservado por selección natural.
+
+   Por ejemplo, la drepanocitosis es una enfermedad producida por una
+   mutación en la hemoglobina, la proteína que transporta el oxígeno en
+   los glóbulos rojos de los humanos. Esta mutación prevaleció en África
+   debido a que los glóbulos rojos anormales resisten la infección por el
+   parásito de la malaria, con mayor prevalencia en estos países.
+
+Deriva genética
+
+   deriva genetica En la deriva genética, la prevalencia de un carácter no
+   depende de la adaptación. En este caso, los patos blancos no
+   sobrevivieron para reproducirse, por eso el carácter blanco de los
+   patos se pierde con las generaciones sucesivas de patos.
+
+   La deriva genética corresponde a un proceso de alteración al azar de
+   las frecuencias alélicas de una población. Por ejemplo, en una
+   población de diez patos, ocho son marrones y dos son blancos. Cuando
+   volaban, unos cazadores apuntaron y mataron a los dos patos blancos,
+   dejando así solo los patos marrones para reproducirse entre sí.
+
+   La deriva genética no tiene predilección por una determinada
+   característica o adaptación, es decir, no depende de los efectos
+   beneficiosos o perjudiciales de un alelo. El efecto de la deriva
+   genética es más pronunciado en poblaciones pequeñas.
+
+Selección natural
+
+   Staphylococcus aureus methicilina resistance El aumento en la
+   resistencia a los antibióticos de bacterias como Staphylococcus aureus
+   es un ejemplo de selección natural
+
+   La selección natural es uno de los mecanismos fundamentales de la
+   evolución. A través de ella, los individuos más adaptados a una
+   determinada condición prevalecen. Así, ellos tienen mayor probabilidad
+   de sobrevivir, reproducirse y transmitir sus características a sus
+   descendientes.
+
+   La selección natural sólo puede tener lugar si hay diferencias en una
+   población. Estas diferencias deben tener una base genética, de otra
+   forma, la selección no se transfiere a la próxima generación.
+
+   Este aspecto es fundamental, pues existen diferencias entre individuos
+   que pueden ser causadas por razones no genéticas. Por ejemplo, que un
+   individuo sea más alto debido a una mejor nutrición en lugar de tener
+   un gen diferente.
+
+   Vea también Selección natural.
+
+Ideas equivocadas acerca de la evolución
+
+   Aunque la teoría de la evolución generó controversia cuando fue
+   propuesta por primera vez, hoy en día es ampliamente aceptada en la
+   comunidad científica. Sin embargo, la teoría de la evolución es un
+   concepto difícil y se han generado ideas erróneas a su alrededor.
+
+"La evolución es solo una teoría"
+
+   Los críticos a la teoría de la evolución desacreditan su importancia al
+   decir que es una teoría, en el sentido vulgar de la palabra. En
+   ciencia, una teoría es un cuerpo de explicaciones ampliamente probadas
+   y verificadas para un conjunto de observaciones de la naturaleza.
+
+"Los individuos evolucionan"
+
+   La evolución es el cambio en la composición genética de una población a
+   lo largo del tiempo, no el cambio individual durante su ciclo de vida.
+
+"La evolución explica el origen de la vida"
+
+   La teoría de la evolución explica cómo las poblaciones cambian con el
+   tiempo, no explica cómo se originó la vida en el universo.
+
+"Los organismos evolucionan con un propósito"
+
+   El hecho de que “los organismos evolucionan en respuesta a un cambio en
+   su ambiente” puede conducir a la idea errónea de que la evolución es de
+   alguna forma intencional.
+
+"Evolución es igual a selección natural"
+
+   Los términos “evolución” y “selección natural” a veces son usados como
+   sinónimos, pero no lo son. La selección natural se refiere al proceso
+   por el cual los organismos mejor adaptados a su ambiente tienen mayor
+   probabilidad de sobrevivir y producir descendencia, favoreciendo
+   determinado rasgo genético en la población. Evolución es un término más
+   amplio y se refiere a cualquier cambio en la genética de una población
+   a lo largo del tiempo.
+
+   Vea también:
+     * Fósiles
+     * Biodiversidad.
+     * Evolución humana
+
+   (BUTTON) Compartir
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   (BUTTON)
+   Ana Zita Fernandes
+   Revisión científica por Ana Zita Fernandes
+   Doctora en Bioquímica por el Instituto Venezolano de Investigaciones
+   Científicas (IVIC), con licenciatura en Bioanálisis de la Universidad
+   Central de Venezuela.
+   Lana Magalhães
+   Escrito por Lana Magalhães
+   Licenciada en Ciencias Biológicas (2010), magíster en Biotecnología y
+   Recursos Naturales (2015) y doctorando en Biodiversidad y Biotecnología
+   por la Universidad del Estado del Amazonas.
+
+Lectura Recomendada
+
+     * Célula
+     * Meiosis: qué es, fases y características
+     * Célula vegetal
+     * Célula animal: partes, organelos, características y funciones
+     * El cuerpo humano: partes, órganos y sistemas
+     * Niveles de organización de la materia
+
+Temas relacionados
+
+   Ciencias Biología
+
+Ver también
+
+     * Preguntas de cultura general (con respuestas)
+     * Selección natural
+     * Preguntas sobre la Grecia Antigua
+     * 15 tipos de texto (con ejemplos)
+     * Biósfera
+     * Importancia de la investigación
+     * 12 preguntas de filosofía (con respuestas)
+     * Características de los seres vivos
+
+   Artículo revisado en 18/02/22
+   Toda Materia: Contenidos escolares.
+   2018 - 2023 © 7Graus
+   Últimas novedades Populares Contacto Todas las materias Términos de uso
+   Privacidad Sobre nosotros ¿Cómo citar? RSS Feed

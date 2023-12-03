@@ -1,397 +1,230 @@
-   #alternate
+   You need to enable JavaScript to run this app.
 
-   BBC News, MundoIr al contenido
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-PZGTJJ2&pageData[catego
+   ryLevel1]=ACTUALIDAD&pageData[categoryLevel2]=Ciencia y
+   Ecolog%C3%ADa&pageData[contentTitle]=Cient%C3%ADficos descubren una
+   nueva "ley de la naturaleza" que describe c%C3%B3mo evolucionan todas
+   las
+   cosas&pageData[contentLanguage]=28&pageData[pageOID]=67143083&pageData[
+   contentType]=1&pageData[date]=20231018&pageData[regions][0]=global::&pa
+   geData[topicIds][0]=19990033&pageData[pageSID]=7577&pageData[department
+   Name]=Spanisch&pageData[categoryType]=1&pageData[displayForm]=5&pageDat
+   a[level1ID]=615873&pageData[environment]=WEBAPP_LIVE&pageData[pageUrl]=
+   https://www.dw.com/es/cient%C3%ADficos-descubren-una-nueva-ley-de-la-na
+   turaleza-que-describe-c%C3%B3mo-evolucionan-todas-las-cosas/a-67143083&
+   pageData[metaRegions]=Global&pageData[metaTopics]=Wissenschaft
 
-   (BUTTON) Secciones
-     * Noticias
+    1. Ir al contenido
+    2. Ir al menú principal
+    3. Ir a más sitios de DW
+
+     * Últimos videos
+     * Últimos audios
+
+Regiones
+
      * América Latina
-     * Internacional
-     * Hay Festival
-     * Economía
-     * Ciencia
+     * Norteamérica
+     * Europa
+     * Alemania
+
+Temas
+
      * Salud
-     * Cultura
-     * Tecnología
-     * Centroamérica Cuenta
-     * BBC Extra
+     * Migración
+     * Derechos Humanos
+     * Ecología
 
-     * Noticias
-     * América Latina
-     * Internacional
-     * Hay Festival
+Secciones
+
+     * Política
      * Economía
-     * Ciencia
-     * Salud
      * Cultura
-     * Tecnología
-     * Centroamérica Cuenta
-     * BBC Extra
+     * Historia
+     * Ciencia y Ecología
+     * Deportes
+     * Panorama
 
-Teoría de la evolución de Darwin: por qué es incorrecto decir que
-"descendemos de los monos" y otras 4 cosas que quizás no sabías sobre nuestro
-origen
+   TV en vivo
+   Últimos audiosÚltimos videos
+   Destacados
+   COP28
+   Conflicto Israel - Hamás
+   CienciaGlobal
 
-     * Redacción
-     * BBC News Mundo
+Hallan ley perdida de la naturaleza que amplía la evolución
 
-   22 noviembre 2019
-   Ilustración de un chimpancé frente a una mujer
+   18/10/202318 de octubre de 2023
 
-   Fuente de la imagen, Science Photo Library
-   Pie de foto,
+   Un nuevo estudio revela la existencia de una "ley perdida" que podría
+   explicar la evolución de sistemas en todo el universo, desde estrellas
+   hasta sustancias químicas y vida.
+   https://p.dw.com/p/4Xiyx
+   Destacados científicos y filósofos identifican la ley evolutiva que
+   falta en la naturaleza. Destacados científicos y filósofos identifican
+   la ley evolutiva que falta en la naturaleza.Imagen: Filip Fuxa/Design
+   Pics/IMAGO
+   Publicidad
 
-   "Un error muy común es pensar que 'descendemos de los monos'", señaló
-   el paleoantropólogo español José María Bermúdez de Castro.
+   En 1859, el naturalista británico Charles Darwin sacudió el mundo
+   científico con su teoría revolucionaria de la evolución, presentada en
+   su influyente obra "El origen de las especies". Darwin propuso que las
+   especies biológicas cambian con el tiempo a través de la adquisición de
+   rasgos que mejoran la supervivencia y la reproducción. Este concepto
+   transformador desencadenó una revolución en el pensamiento científico.
 
-   Este 24 de noviembre se cumple un nuevo aniversario de la publicación
-   de "El origen de las especies", el libro en el que Charles Darwin
-   estableció las bases de la teoría de la evolución por selección
-   natural.
+   Hoy, 164 años después, un grupo de nueve eminentes científicos y
+   filósofos ha propuesto una nueva ley de la naturaleza. Esta ley,
+   descrita en un artículo publicado en la revista Proceedings of the
+   National Academy of Sciences (PNAS), va más allá de la evolución
+   biológica descrita por Darwin y abarca un fenómeno mucho más amplio que
+   se manifiesta a nivel de átomos, minerales, atmósferas planetarias,
+   planetas, estrellas y más. Según esta nueva perspectiva, los sistemas
+   naturales complejos evolucionan hacia estados de mayor patrón,
+   diversidad y complejidad.
 
-   ¿Pero cuánto sabemos sobre la historia de nuestra especie?
+   Financiado por la Fundación John Templeton, el artículo está firmado
+   por científicos destacados del Instituto Carnegie para la Ciencia, el
+   Instituto Tecnológico de California (Caltech) y la Universidad de
+   Cornell, junto a filósofos de la Universidad de Colorado.
 
-   ¿Y por qué es un error decir que "descendemos de los monos"?
+"Selección para la función" guía tanto a lo vivo como a lo inerte
 
-   En BBC Mundo recordamos cinco datos que tal vez puedan resultarte
-   sorprendentes sobre la evolución humana.
+   El nuevo trabajo explica que la evolución es un rasgo común de todos
+   los sistemas complejos del mundo natural, es decir, los que están
+   formados por muchos componentes diferentes, como átomos, moléculas o
+   células, que pueden disponerse y reordenarse repetidamente, y están
+   sujetos a procesos naturales que hacen que se formen innumerables
+   disposiciones diferentes.
 
-   línea
+   Pero solo una pequeña fracción de todas estas configuraciones sobrevive
+   en un proceso llamado "selección para la función". E,
+   independientemente de que el sistema esté vivo o no, cuando una
+   configuración novedosa funciona bien y mejora la función, evoluciona.
 
-1. No descendemos de los monos
+   Esta es la "Ley de la información funcional creciente", como la han
+   bautizado sus autores, que establece que el sistema evolucionará "si
+   muchas configuraciones diferentes del sistema se someten a selección
+   para una o más funciones".
 
-   Los humanos modernos, la especie Homo sapiens sapiens, no evolucionó de
-   los monos, sino que comparte un ancestro común con ellos.
+   Pero un componente importante de esta nueva ley natural propuesta es la
+   idea de 'selección por función', apunta el astrobiólogo del Carnegie y
+   primer autor del estudio, Michael L. Wong.
 
-   "Un error muy común es pensar que 'descendemos de los monos'. Ese error
-   hace que mucha gente niegue la teoría de la evolución", explicó a BBC
-   Mundo el paleoantropólogo español José María Bermúdez de Castro.
-     * El intrigante hallazgo de un cráneo que cuestiona las ideas que
-       tenemos sobre los ancestros de los humanos
+   En el caso de la biología, Darwin equiparaba la función principalmente
+   con la supervivencia: la capacidad de vivir lo suficiente para producir
+   descendencia fértil pero el nuevo estudio amplía esa perspectiva y
+   señala que en la naturaleza se dan más tipos de función.
+   Ciertamente, la evolución no es exclusiva de la biosfera terrestre;
+   tiene lugar en otros sistemas extremadamente complejos, como nuestro
+   Sistema Solar, las estrellas, los átomos y los minerales. Ciertamente,
+   la evolución no es exclusiva de la biosfera terrestre; tiene lugar en
+   otros sistemas extremadamente complejos, como nuestro Sistema Solar,
+   las estrellas, los átomos y los minerales.Imagen: NASA, ESA, CSA,
+   STScI, Webb ERO Production Team
 
-   "Para empezar, es mejor afirmar que somos una especie más del orden
-   primates", dijo el coordinador del Programa de Paleobiología del Centro
-   Nacional de Investigación sobre Evolución Humana de Burgos y codirector
-   del proyecto de investigación y excavaciones en los yacimientos de la
-   sierra de Atapuerca.
+"Novedad": tendencia a explorar nuevas configuraciones
 
-   Este linaje de primates "comienza su historia evolutiva hace unos 7
-   millones de años. En ese tiempo, un ancestro común con los chimpancés
-   divergió en dos linajes diferentes, seguramente por cuestiones
-   climáticas".
+   Para los autores, la más interesante es la de la "novedad", la
+   tendencia de los sistemas en evolución a explorar nuevas
+   configuraciones que a veces dan lugar a comportamientos o
+   características sorprendentes. La historia evolutiva de la vida es muy
+   rica en novedades –recuerdan–.
 
-   "El linaje que dio lugar a los chimpancés, Pan paniscus y Pan
-   troglodytes, se quedó en el oeste de África. El linaje que a la postre
-   dio lugar a la humanidad actual evolucionó en el sur y este de África".
-   Ilustración de la evolución
+   La fotosíntesis, por ejemplo, evolucionó cuando las células
+   individuales aprendieron a aprovechar la energía de la luz, la vida
+   multicelular evolucionó cuando las células aprendieron a cooperar, y
+   las especies evolucionaron gracias a nuevos comportamientos ventajosos
+   como nadar, caminar, volar y pensar.
 
-   Fuente de la imagen, Getty Images
-   Pie de foto,
+   Ese mismo tipo de evolución se da en el reino mineral. Los primeros
+   minerales eran disposiciones de átomos especialmente estables, pero
+   esos minerales primigenios sentaron las bases de las siguientes
+   generaciones de minerales, que participaron en los orígenes de la
+   vida.
 
-   "Un ancestro común con los chimpancés divergió en dos linajes
-   diferentes, seguramente por cuestiones climáticas".
+   De hecho, la evolución de la vida y la de los minerales están
+   entrelazadas, no solo porque la vida utiliza los minerales para sus
+   caparazones, dientes y huesos, sino porque los sistemas biológico y
+   mineral interactuaron hace millones de años para crear la vida tal y
+   como la conocemos hoy.
 
-   Bermúdez de Castro agregó que compartimos cerca del 99% de nuestros
-   genes con los chimpancés, pero la diferencia (aproximadamente de 1,2%)
-   es importante, puesto que tenemos entre 20.000 y 25.000 genes
-   operativos.
+"Un fenómeno natural mucho más amplio"
 
-   "Deberíamos reflexionar sobre nuestra estrecha relación con estos
-   primates, nuestro primos hermanos", agregó el científico español.
+   Y el caso de las estrellas no es muy distinto. El artículo señala que
+   solo dos elementos principales –hidrógeno y helio– formaron las
+   primeras estrellas poco después del Big Bang. Después, esas estrellas
+   usaron el hidrógeno y el helio para producir unos 20 elementos químicos
+   más pesados, y la siguiente generación de estrellas se basó en esa
+   diversidad para producir casi 100 elementos más.
 
-2. Más de la mitad de tu cuerpo no es humano
+   "Charles Darwin articuló elocuentemente el modo en que plantas y
+   animales evolucionan por selección natural", afirma el coautor Robert
+   M. Hazen, de Carnegie Science, líder de la investigación, pero "su
+   teoría es solo un caso muy especial y muy importante dentro de un
+   fenómeno natural mucho más amplio" que sucede en estrellas, átomos,
+   minerales y muchas otras situaciones conceptualmente equivalentes que
+   también están "sometidas a presión selectiva".
 
-   Se estima que cerca de la mitad del cuerpo humano está compuesto por
-   células humanas, pero el resto es una mezcla de bacterias, virus y
-   hongos que componen lo que se conoce como el microbioma.
+   "El universo genera combinaciones novedosas de átomos, moléculas,
+   células, etc. Las combinaciones que sean estables y puedan seguir
+   engendrando aún más novedades seguirán evolucionando. Esto es lo que
+   hace de la vida el ejemplo más llamativo de evolución, pero la
+   evolución está en todas partes", resume Wong.
 
-   Ese microbioma, que es tan peculiar de cada persona como su huella
-   digital, influye en una gran variedad de funciones que van desde la
-   digestión al sistema inmunológico.
-   Ilustración de bacterias en el intestino
+   Entre otras muchas, los autores señalan que su trabajo tendrá
+   implicaciones en áreas de estudio como la comprensión de la vida en
+   otros sistemas complejos en evolución, la búsqueda de vida en otros
+   lugares, la evolución de los sistemas de Inteligencia Artificial, o las
+   leyes de la naturaleza a través del espacio y el tiempo.
 
-   Fuente de la imagen, Science Photo Library
-   Pie de foto,
+   FEW (EFE, Reuters)
 
-   Ilustración de bacterias en el colon. Las células humanas componen
-   solamente el 43% de nuestro cuerpo.
 
-   "Eres un 43% humano según las estimaciones más recientes, si cuentas
-   todas las células", señaló a la BBC en 2018 el profesor Rob Knight, de
-   la Universidad de California en San Diego.
+   Consultas y observaciones
+   Comentarios y sugerencias
+   Publicidad
+   Ir a la siguiente sección Descubra más
 
-   Si pensamos en términos genéticos, las cifras son aún más
-   sorprendentes. Microbiólogos de la Escuela de Medicina de Harvard y del
-   Centro Joslin de Diabetes analizaron el ADN de unas 3.500 muestras de
-   la boca e intestinos.
+Descubra más
 
-   Los resultados del trabajo, publicado este año en la revista Cell Host
-   & Microbe, indican que había cerca de 46 millones de genes bacterianos,
-   24 millones en el microbioma de la boca y 22 millones en los
-   intestinos.
-
-3. Estamos llenos de vestigios evolutivos
-
-   La evolución es un proceso que puede ser muy lento y algunos de sus
-   vestigios pueden permanecer mucho tiempo después de que dejan de
-   cumplir una función.
-     * El "abominable misterio" que desconcertó a Charles Darwin durante
-       sus últimos años de vida
-
-   Un ejemplo es el apéndice, que habría cumplido en nuestros antepasados
-   una función relacionada con la digestión de la celulosa de las plantas.
-   Ilustración de huesos de la columna y cadera
-
-   Fuente de la imagen, Science Photo Library
-   Pie de foto,
-
-   El coxis, la última pieza ósea de la columna vertebral, es uno de
-   nuestros vestigios evolutivos.
-
-   Otro ejemplo es el de las muelas de juicio, que eran útiles para moler
-   alimentos fibrosos.
-
-   El coxis es considerado también un vestigio evolutivo que en el pasado
-   contribuyó a mantener el equilibrio. El coxis es el vestigio de una
-   cola que en el caso de los embriones humanos aparece hacia el final de
-   la cuarta semana del desarrollo embrionario para desaparecer en el
-   inicio de la octava semana.
-
-   Y si te erizas cuando sientes frío o estrés, eso significa que tus
-   fibras musculares conocidas como arrector pili se están contrayendo en
-   forma involuntaria, lo que seguramente te dará escalofríos.
-
-   Si eres un animal en su medio silvestre, que se te pongan los pelos de
-   punta puede ser útil, ya que tus pelos pueden atrapar más aire para
-   retener calor. O puedes parecer más grande de lo que eres, lo que
-   podría desanimar a tus predadores.
-
-   Pero en el caso de los seres humanos nuestros arrector pili no proveen
-   ninguno de esos beneficios.
-
-4. Nuestra especie surgió hace unos 300.000 años
-
-   La historia de nuestros orígenes está cambiando constantemente a medida
-   que se descubren nuevos fósiles.
-
-   "Nuestra especie, Homo sapiens, surgió en África hace algo más de
-   200.000 años. Algunos investigadores piensan que ciertos fósiles de un
-   yacimiento de Marruecos (Jebel Irhoud) ya pertenecían a nuestra
-   especie. Esos fósiles tienen 315.000 años de antigüedad", explicó
-   Bermúdez de Castro.
-   Comparación del tamaño del cerebro de homo naledi (especie de hominino
-   extinta) y homo sapiens según fósiles hallados en Jebel Irhoud en
-   Marruecos
-
-   Fuente de la imagen, Science Photo Library
-   Pie de foto,
-
-   Comparación del tamaño del cerebro de Homo naledi (especie extinta) y
-   Homo sapiens según fósiles hallados en Jebel Irhoud en Marruecos.
-
-   "Con independencia de este debate en la cifras, no se conocen cambios
-   importantes en el medio ambiente de África en esta época del
-   Pleistoceno".
-
-   Las glaciaciones afectaron al hemisferio norte y tuvieron repercusión
-   en el debilitamiento de la especie Homo neanderthalensis.
-
-   "Pero en África subsahariana y en el norte de África el clima no
-   experimentó cambios notables. Así que se nos escapa saber qué
-   circunstancias favorecieron que surgieran los primeros homínidos
-   similares a nosotros en la mayor parte de su anatomía".
-
-   "Ciertos aspectos culturales como el arte o el simbolismo, aún
-   tardarían un cierto tiempo en consolidarse en Homo sapiens. Pero desde
-   el punto de vista de la anatomía, los humanos africanos de hace 200.000
-   años eran prácticamente indistinguibles de nosotros".
-
-   En la actualidad se discute mucho sobre la posibilidad de que la
-   expansiones fuera de África por parte de Homo sapiens fueran varias y
-   por dos lugares diferentes: el Corredor Levantino y el estrecho de Bab
-   El-Mandeb, en el cuerno de África.
-
-   "No sería extraño que esto fuera así. Los datos no son contradictorios
-   y no afectan al resultado final: ahora somos la única especie de
-   homínido del planeta".
-
-5. No hemos dejado de evolucionar
-
-   Vaso de leche
-
-   Fuente de la imagen, Getty Images
-   Pie de foto,
-
-   En regiones de larga tradición de producción de lácteos, como Europa,
-   la población es mucho más tolerante a la lactosa que en Asia.
-
-   Aún seguimos adaptándonos al mundo que nos rodea. Un ejemplo es la
-   rápida extensión en las últimas 100 generaciones en Reino Unido del gen
-   de tolerancia al azúcar en la leche, la lactosa.
-
-   Se estima que hace unos 11.000 años los humanos adultos no podían
-   digerir la lactosa.
-
-   A medida que los seres humanos en ciertas regiones comenzaron a
-   depender de la producción lechera para alimentarse, sus cuerpos se
-   adaptaron a digerir ese alimento que antes era tolerado solamente por
-   niños.
-
-   En regiones de larga tradición de producción de lácteos, como Europa,
-   la población es mucho más tolerante a la lactosa que en Asia.
-
-   "Por supuesto no hemos dejado de evolucionar y nunca lo haremos
-   mientras sigamos siendo una especie de la Tierra", señaló Bermúdez de
-   Castro.
-
-   "La propia cultura está influyendo de manera decisiva en nuestra
-   evolución. Y cada vez será más importante esa influencia, en el momento
-   en el que la tecnología permita manipular sin riesgos el genoma
-   humano".
-
-   "Los experimentos de los que tenemos noticia puede que no sean muy
-   éticos y que asuman riesgos. Pero con el paso de los años se podrán
-   realizar esas manipulaciones. Si llegamos a ese punto, el cambio
-   evolutivo sería extremadamente rápido".
-   línea
-
-   Recuerda que puedes recibir notificaciones de BBC News Mundo. Descarga
-   nuestra app y actívalas para no perderte nuestro mejor contenido.
-   línea
-     * ¿Ya conoces nuestro canal de YouTube? ¡Suscríbete!
+   www.pnas.org
+   www.eurekalert.org
+   Ir a la siguiente sección Temas relacionados
 
 Temas relacionados
 
-     * Evolución
-     * Ciencia
+   Ciencia: la vida y el universoCiencia y ecología
 
-Contenido relacionado
+Acerca de DW
 
-     * Rálido de garganta blanca
+     * Quiénes somos
+     * Prensaen inglés
+     * DW Global Media Forumen inglés
 
-Qué es la evolución iterativa por la que "volvió a la vida" un ave que se
-extinguió hace 136.000 años
-       24 mayo 2019
-     * Charles Darwin
+Más de DW
 
-El "abominable misterio" que desconcertó a Charles Darwin durante sus últimos
-años de vida
-       21 julio 2019
-     * Anamensis
+     * Aprender alemán
+     * DW Akademie
 
-Evolución humana: el intrigante hallazgo de un cráneo que cuestiona las ideas
-sobre nuestros ancestros
-       29 agosto 2019
-     * Charles Darwin
+Servicio
 
-Por qué es posible que Charles Darwin sea uno de los mejores economistas de
-la historia
-       8 diciembre 2018
+     * Boletines
+     * Recepción
+     * FAQ
+     * Contacto
+     * Temas de la A a la Z
+     * Titulares
 
-Principales noticias
+B2B
 
-     *
+     * Distribución
+     * Para viajerosen inglés
+     * Publicidaden inglés
+     * German News Service
 
-Silvina Moschini, la primera mujer de América Latina que convirtió a su
-empresa en un millonario "unicornio"
-       2 horas
-     *
+Síganos en
 
-Los rusos que sueñan con conseguir un pasaporte ucraniano
-       9 horas
-     *
-
-El insondable enigma del tiempo: lo que sabemos sobre su inicio y cómo podría
-ser su final
-       26 noviembre 2023
-
-No te lo pierdas
-
-     * El puerto de Monte Carlo, la capital de Mónaco.
-
-Qué países no tienen banco central como propone Milei en Argentina (y cómo
-afecta a sus economías)
-       23 noviembre 2023
-     * Karina Milei
-
-3 datos sobre Karina Milei, la hermana del presidente electo de Argentina a
-quien él mismo llama "El Jefe"
-       20 noviembre 2023
-     * Wilders
-
-Quién es Geert Wilders, el político antiislámico que arrasó en las elecciones
-en los Países Bajos
-       23 noviembre 2023
-     * Miguel Hurtado en Roma en Febrero de 2019
-
-“Ahora que somos adultos empoderados podemos contar la historia de los abusos
-sexuales a menores que sufrimos en la Iglesia católica española”
-       23 noviembre 2023
-     * Ballena azul
-
-El regreso de las ballenas azules al océano Índico, donde fueron cazadas casi
-hasta la extinción
-       24 noviembre 2023
-     * Maria Corina Machado
-
-María Corina Machado: "No podemos caer en ese chantaje del chavismo de que si
-tú eres firme es porque eres violento"
-       22 noviembre 2023
-     * Sam Altman
-
-Quién es Sam Altman, la superestrella de la inteligencia artificial que
-regresa a OpenAI tras ser despedido
-       22 noviembre 2023
-     * Imágenes de algunas de las 100 mujeres participantes de la
-       temporada 2023 del Servicio Mundial de la BBC.
-
-Quiénes son las 100 Mujeres influyentes e inspiradoras elegidas por la BBC en
-2023
-       21 noviembre 2023
-     * Jair Bolsonaro, Javier Milei y Donald Trump
-
-En qué se parecen y en qué se diferencian Milei, Trump y Bolsonaro
-       21 noviembre 2023
-
-Más leídas
-
-    1. 1
-       Kowloon, la ciudad amurallada que llegó a ser el lugar más poblado
-       del mundo a finales del siglo XX
-    2. 2
-       "Fui a la policía para que dejaran de usar la foto de mi hija como
-       un meme"
-    3. 3
-       Silvina Moschini, la primera mujer de América Latina que convirtió
-       a su empresa en un millonario "unicornio"
-    4. 4
-       Defensor de la poligamia y enemigo del vino y del café: quién fue
-       Joseph Smith, fundador de la iglesia de los mormones
-    5. 5
-       Qué países no tienen banco central como propone Milei en Argentina
-       (y cómo afecta a sus economías)
-    6. 6
-       Los rusos que sueñan con conseguir un pasaporte ucraniano
-    7. 7
-       La sorprendente decisión de Nueva Zelanda de revocar su
-       revolucionario veto total a la venta de cigarrillos
-    8. 8
-       El insondable enigma del tiempo: lo que sabemos sobre su inicio y
-       cómo podría ser su final
-    9. 9
-       Qué riquezas hay en el Esequibo, el territorio que se disputan
-       Guyana y Venezuela desde hace casi dos siglos
-   10. 10
-       Qué es la ley del esfuerzo inverso y cómo explica que fracasemos
-       por esforzarnos demasiado
-
-   BBC News, Mundo
-     * Por qué puedes confiar en la BBC
-     * Términos de uso
-     * Sobre la BBC
-     * Política de privacidad
-     * Cookies
-     * Escribe a BBC Mundo
-     * Do not share or sell my info
-
-   © 2023 BBC. La BBC no se hace responsable del contenido de sitios
-   externos. Lee sobre nuestra postura acerca de enlaces externos.
+   © 2023 Deutsche WellePolíticas de privacidadAviso legalAccesibilidad
+   digital

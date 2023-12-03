@@ -1,525 +1,241 @@
-   #Dciencia » Feed Dciencia » Feed de los comentarios Dciencia »
-   Comentario La evolución, conceptos básicos del feed alternate alternate
-   alternate
+   Descubre
+   Biología celular Biología humana Botánica Ecología y medio ambiente
+   Zoología
+   menu La Enciclopedia de la Vida
+   Compartir
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T5BTP4L
+   ____________________ (BUTTON) lupa Buscar
 
-   Saltar al contenido
+   Compartir en:
+     * BIOenciclopedia
+     * Ecología y medio ambiente
+     * Seres vivos
+     * La evolución
 
-   Suscríbete
-   Suscríbete
-   Suscríbete/Newsletter
-   Suscríbete/Newsletter
-   Suscríbete a nuestra newsletter
-   Suscríbete a nuestra newsletter
-   Quienes somos
+La evolución
 
-   Dciencia Logo Dciencia Logo Dciencia Logo
+   Por Equipo de redacción. 21 octubre 2022
+   La evolución
 
-   Buscar: ____________________
-   
-   (BUTTON) MENU
-     * Investigación
-     * Divulgación
-     * Temas (BUTTON)
-          + Bioquímica y Biología Molecular
-          + Ecología
-          + Física
-          + Matemáticas
-          + Medicina
-          + Química
-          + Ciencia Escrita
-          + Didáctica y Cultura Científica
-     * Opinión
-     * Colecciones
-     * Buscar: ____________________
-       
+   La evolución son una serie de cambios que se acumulan en una población
+   de organismos a través del tiempo, lo que da lugar a la descendencia
+   con modificaciones genéticas. Es un proceso biológico lento y
+   paulatino cuyos puntos cardinales son que todos los seres vivos
+   comparten un ancestro en común y que toda forma de vida ha cambiado
+   durante el transcurso de los años.
 
-La evolución, conceptos básicos
+   Un ejemplo sencillo y conocido es el de la evolución del ser humano.
+   Los científicos, con base en estudios de genética y morfología,
+   entre otros, creen que el actual Homo sapiens desciende de ancestros
+   simiescos y, por eso, comparte muchas características con los
+   chimpancés y otros primates. Si quieres saber más, no te pierdas este
+   artículo de BIOenciclopedia sobre la evolución.
+   También te puede interesar: Mecanismos de la Evolución
+   Índice
+    1. Qué es la evolución
+    2. Teoría de la evolución
+    3. Mecanismos de la evolución
+    4. Controversias sobre la evolución
 
-La evolución, conceptos básicos
+Qué es la evolución
 
-   Seguro que todos habéis oído hablar de la evolución. Y seguro que
-   cuando escucháis la palabra «evolución», se os vienen a la cabeza cosas
-   como «monos», «fósiles», «Darwin», o incluso «pulgar oponible». Pero,
-   ¿sabemos qué es exactamente la evolución?
+   La evolución es más compleja de lo que crees. No consiste simplemente
+   en las adaptaciones que un organismo experimenta según su entorno,
+   sino que conjunta varios mecanismos que hacen posibles las
+   características diferentes entre las millones de especies del planeta.
 
-   La evolución es un proceso universal que consiste en el cambio gradual
-   de los seres vivos y del resto de objetos del mundo natural. En efecto,
-   la evolución es algo general que afecta a los animales y a las plantas,
-   pero también a las rocas, los planetas, las estrellas, y todo cuanto
-   existe en la Naturaleza. Así pues, se podría hablar de una evolución
-   biológica, una evolución geológica e incluso una evolución astronómica.
-   [INS: :INS]
+   Todos los cambios se han producido por medio de la herencia genética,
+   lo que significa los individuos transmiten cambios genéticos
+   adaptativos a sus descendientes y, en algún punto, las modificaciones
+   se vuelven comunes en una población de seres vivos.
 
-   Todos estos procesos requieren normalmente tiempo, mucho tiempo, y por
-   tanto, normalmente no somos capaces de percibirlos. Aunque hay algunos
-   casos de evolución «en tiempo real», de los que hablaré más abajo.
-   Incluso hay una disciplina de la Biología que se llama Evolución
-   Experimental.
+   La ciencia moderna indica que un antepasado común dio origen a la
+   enorme diversidad de seres vivos que existen, por lo que, aunque
+   parezca poco creíble, todos los organismos están emparentados. Se
+   cree que hace unos 3,500 millones de años apareció la primera
+   bacteria procariota y hace unos 2,000 millones de años se crearon las
+   primeras células eucariotas con verdaderos orgánulos.
 
-   Hay muchos ejemplos de evolución geológica; pensemos por ejemplo en las
-   piedras del fondo de los ríos (los cantos rodados), que originalmente
-   no son más que trozos de roca que se desprenden de la montaña, y que al
-   ser arrastrados por la corriente se golpean unos con otros y así van
-   adquiriendo su característica forma redondeada. Otro ejemplo son las
-   montañas y los montes. Se forman por la deformación de la superficie de
-   la Tierra como consecuencia del choque de las placas tectónicas. Al
-   principio crecen y crecen, hasta que alcanzan su altura máxima, y a
-   partir de ahí la erosión y el mismo movimiento de las placas hacen que
-   se vayan redondeado en su cima y disminuyendo de altura.
+   Los primeros seres vivos compuestos por más de una célula pudieron
+   haberse originado hace unos 1,000 millones de años. La era
+   Proterozoica vio nacer a los primeros peces y la Paleozoica a las
+   plantas y los hongos. Los mamíferos existen desde la era Mesozoica.
+   Con el paso del tiempo los organismos fueron volviéndose más
+   complejos.
 
-   La evolución biológica (o evolución orgánica como algunos la llaman) es
-   en la que normalmente uno piensa cuando habla de evolución. Es el
-   proceso por el cual se originó la vida en la Tierra, y que ha dado
-   lugar a la enorme diversidad de seres vivos que pueblan nuestro
-   planeta. La Teoría de la Evolución, tal como hoy se conoce fue
-   desarrollada por Charles Darwin. Aunque algunos científicos de su época
-   ya aceptaban la idea de que los seres vivos cambian con el tiempo, y
-   que existen diferentes grados de parentesco entre las especies. Sin
-   embargo, no había un claro consenso sobre por qué ocurría esto. La
-   mayoría creía en el designio divino, es decir, que todo, incluso el
-   proceso de evolución, seguía un plan establecido por Dios. Darwin
-   recopiló durante años una enorme cantidad de ejemplos y datos apoyando
-   la evolución, y su principal aportación fue proponer la selección
-   natural como motor del cambio evolutivo. Es decir, las especies cambian
-   con el tiempo porque sólo los individuos más aptos logran dejar
-   descendencia. Las características que hacen que unos individuos sean
-   más aptos que otros son diferentes según el ambiente en el que se
-   desarrollan, y así, generación tras generación, las especies
-   evolucionan para adaptarse al medio. Hoy en día mucha gente acepta la
-   evolución por selección natural, e incluso a muchos nos parece algo
-   obvio. Sin embargo, en los tiempos de Darwin (siglo XIX) esta teoría
-   supuso una revolución total contra el pensamiento religioso
-   predominante en aquella época, puesto que al explicar la evolución
-   mediante la selección natural, ya no hacía falta la intervención de
-   Dios. Para muchos, esto suponía aceptar el libre albedrío de las
-   especies, incluyendo los seres humanos, y Darwin encontró cierta
-   oposición a su teoría, incluso entre la comunidad científica.
+Teoría de la evolución
 
-   El estudio de la evolución ha estado tradicionalmente dividido en dos
-   grandes campos, la macroevolución y la microevolución. La primera, la
-   macroevolución, estudia las relaciones entre especies, géneros,
-   familias, y otros grupos taxonómicos superiores, y se nutre de
-   disciplinas como la paleontología, la geología, la biogeografía, etc.
-   Por el contrario, la microevolución estudia los cambios evolutivos que
-   ocurren entre las distintas poblaciones de una especie, o entre
-   especies emparentadas, y engloba disciplinas como la genética de
-   poblaciones o la ecología. La principal diferencia entre ambas es la
-   escala temporal que abarcan; así pues, mientras que la macroevolución
-   estudia cambios evolutivos que ocurren durante millones de años, la
-   microevolución abarca, por lo general, cambios que se miden en cientos
-   o miles de años.
+   El naturalista inglés Charles Darwin es reconocido por haber enunciado
+   formalmente la teoría de la evolución. La evolución ya había sido
+   pensada y propuesta por filósofos como Anaximandro, Empédocles y
+   Aristóteles, pero no llamó especialmente la atención hasta que
+   Darwin publicó su libro "El origen de las especies" (1859), donde
+   introdujo su teoría evolucionista.
 
-   Pero, ¿cómo funciona la evolución? ¿Qué significa eso de que las
-   especies se adaptan y cambian con el tiempo? Como casi todo en
-   Biología, la respuesta está en el ADN. Veréis, cuando un macho y una
-   hembra de una especie cualquiera se aparean, la descendencia hereda la
-   información genética combinada de sus progenitores. Y esta información
-   genética está contenida en el ADN. Pero este ADN no es exactamente
-   idéntico al de sus padres, sino que contiene pequeñas variaciones,
-   llamadas mutaciones. Si estas mutaciones tienen algún efecto sobre el
-   individuo que las porta (no siempre es así), la selección natural se
-   encargará de seleccionarlo (valga la redundancia) a favor o en contra,
-   según el ambiente y el tipo de mutación. Y esto puede hacer que el
-   individuo se reproduzca con más o menos éxito, haciendo a su vez que la
-   mutación seleccionada se mantenga o se elimine de la población.
+   De acuerdo con esta teoría, todas las especies que existen han
+   evolucionado de formas de vida muy simples que se desarrollaron hace
+   más de 3,000 millones de años. Se cree que antes de que la vida
+   existiese, los elementos químicos se hallaban dispersos en la Tierra y
+   que, posteriormente, se unieron y formaron seres cada vez más
+   complejos.
 
-   Imaginemos, por ejemplo, una población de ratones de campo en Siberia.
-   Estos ratones tienen que estar continuamente buscando comida para
-   mantener su metabolismo elevado y, con ello, el calor corporal. Un buen
-   día nace un ratoncito que tiene una mutación que le hace tener más
-   pelo. Este ratoncito estará más protegido del frío, y por tanto no
-   necesitará pasar tanto tiempo como los demás buscando comida. Así,
-   nuestro afortunado amiguito puede aprovechar ese tiempo para cortejar
-   ratoncitas, y sus probabilidades de aparearse serán más altas que el
-   resto de machos. Si se aparea más, y deja más descendencia que el resto
-   de ratones, en la siguiente generación habrá más ratoncitos con la
-   mutación. Si el clima no cambia, al cabo de sucesivas generaciones,
-   todos los ratones de esa población tendrán la mutación que les hace
-   tener mas pelo. La población se ha adaptado.
+   Probablemente, los primeros organismos se desarrollaron en un medio
+   acuático. Entonces, la vida pudo haber comenzado a partir de
+   organismos unicelulares. Algunos de ellos se transformaron en
+   organismos pluricelulares y, mediante diversos mecanismos, las formas
+   de vida se diversificaron. Hoy en día la teoría de la evolución se
+   ha ampliado y estudiado hasta el punto de ser prácticamente aceptada
+   por la comunidad científica.
 
-   Este ejemplo puede parecer un poco tonto, lo admito. Qué queréis, se me
-   acaba de ocurrir sobre la marcha. Además, por lo general no es tan
-   sencilla la cosa. Puede que la mutación ventajosa no afecte
-   directamente a la cantidad de pelo que le crece al ratón, sino que
-   afecte a la expresión de un gen (es decir, la cantidad de proteína que
-   produce), que a su vez afecta a la expresión de uno o más genes, que al
-   final hacen que se fabrique mayor cantidad de no sé qué proteína que
-   hace el ratón de las narices sea más peludo y pase menos frío. De
-   hecho, hoy en día se cree que la mayoría de los procesos de adaptación
-   se producen de esta forma. Es por eso que es tan difícil encontrar
-   ejemplos de adaptación claros en poblaciones contemporáneas. Aún así,
-   podemos encontrar no pocos casos documentados en las páginas de
-   revistas científicas especializadas (por ejemplo Molecular Ecology).
-   [INS: :INS]
-   Previous
-   dciencia El inicio de los tumores…cuando una célula no sabe vivir en
-   sociedad
-   Next
-   Evolución La evolución (II): Especiación y evolución en tiempo real
+Teoría de la evaluación de Lamarck
 
-About the Author: Daniel Campo
+   Por otra parte, el naturalista francés Jean-Baptiste Lamarck también
+   desarrolló una teoría de la evolución con dos puntos principales:
+     * Una característica de un ser vivo que es mejorada, pasa esta
+       mejora a sus descendientes.
+     * Una característica muy usada por un organismo se desarrolla y
+       vuelve más grande y fuerte. Por el contrario, una característica
+       pobremente usada tiende a desaparecer.
 
-   Licenciado y Doctor en Biología por la Universidad de Oviedo. Realizó
-   su estancia postdoctoral en el Área de Biología Molecular y
-   Computacional de la University of Southern California (Los Ángeles,
-   EE.UU.). Actualmente es Profesor Adjunto de Investigación en la misma
-   universidad, y Director del USC Genome Core laboratory. Es especialista
-   en Genómica y Bioinformática, y trabaja en cosas tan diversas como la
-   genómica evolutiva en organismos marinos o el análisis de datos de
-   secuenciación de última generación (NGS) en cáncer de mama
+   Esta teoría fue formulada antes que la de Darwin, aunque actualmente
+   sus postulados carecen de aceptación científica, ya que los
+   caracteres adquiridos por influencia del medio ambiente no pueden
+   heredarse genéticamente.
 
-¡Compartir artículo!
+Mecanismos de la evolución
 
-   ¡Suscríbete!
+   Todos los seres vivos están en evolución constante y esto se debe a
+   mecanismos por medio de los cuales los individuos heredan ciertas
+   características. Los mecanismos básicos de la evolución son los
+   siguientes:
+     * Selección natural
+     * Deriva genérica
+     * Mutación
+     * Migración o flujo de genes.
 
-41 Comments
+   Dichos mecanismos no ocurren al mismo tiempo, sino que pueden
+   presentarse en casos específicos. No obstante, la selección natural
+   es el principal mecanismo por el cual evolucionan los seres vivos de
+   una población.
+   La evolución - Mecanismos de la evolución
 
-    1. Especiación y evolución en tiempo real 2014/04/02 at 9:01 pm -
-       Reply
-       […] con el tema de la Evolución (ver Conceptos generales), ya hemos
-       visto cómo una población de individuos de una especie se puede
-       adaptar a un ambiente […]
-    2. Anónimo 2016/09/19 at 4:27 am - Reply
-       Mmm ME gusta mucho
-    3. michael 2016/10/04 at 9:12 pm - Reply
-       mmm aun tengo dudas de esto ..
-    4. Anónimo 2016/10/12 at 4:37 pm - Reply
-       muy bien , gracias bendiciones
-    5. Anónimo 2016/10/31 at 4:15 pm - Reply
-       Grasias
-    6. Anónimo 2016/11/13 at 12:41 am - Reply
-       Desarrollo es lo mismo que evolucion
-    7. camto 2017/05/25 at 9:42 pm - Reply
-       nunca se han encontrado fosiles de especien intermedias entre los
-       humanos y monos
-       ademas tendrian que haber evolucionado todas las especies del
-       mundo.
-       eso significa que los monos no existirian
-          + Daniel Campo 2017/05/25 at 10:15 pm - Reply
-            Eso no es correcto. El registro fósil está lleno de ejemplares
-            de homínidos primitivos (por ejemplo Sahelanthropus, o
-            Ardipithecus, entre otros) que presentan características
-            anatómicas intermedias entre los homínidos modernos y los
-            grandes simios modernos. Si buscas en Google algo como
-            «registro fósil de homínidos» encontrarás mucha información al
-            respecto. Sugiero que empieces con algo general, como la
-            página de Wikipedia sobre fósiles humanos:
-            https://es.wikipedia.org/wiki/Anexo:F%C3%B3siles_de_la_evoluci
-            %C3%B3n_humana
-            Por otro lado, todas las especies evolucionan, claro que sí.
-            Hace 10 millones de años, por ejemplo, no había chimpancés.
-            Los chimpancés evolucionaron mucho más recientemente a partir
-            de los mismos ancestros que dieron lugar a los homínidos.
-            Quizás la frase esa de «el hombre viene del mono» habría que
-            matizarla; los seres humanos no hemos evolucionado a partir de
-            los monos actuales, sino que los monos y los humanos comparten
-            un ancestro común en el pasado, a partir del cual surgieron
-            diferentes líneas evolutivas (como las ramas de un árbol), una
-            de las cuales dió lugar a los humanos modernos (o sea,
-            nosotros).
-    8. orlando realpe 2017/06/02 at 2:20 pm - Reply
-       Me encanta el tema, es fascinante y le permite a la mente del
-       lector, dudar… que es una de las formas de hacer ciencia. Siento
-       entusiasmo por leer los temas propuestos por esta página, a su
-       creadores, les felicito.
-       gracias.
-    9. vanessa villareal 2017/06/29 at 8:51 pm - Reply
-       tengo demasiadas dudas y no las entiendo dependiendo alo q dice
-       aqui
-   10. De pequeños cambios a grandes transformaciones | copdeb 2017/10/28
-       at 8:51 pm - Reply
-       […] hace algunos años me llama mucho la atención el concepto de
-       evolución. No solo por ser una teoría científica bella, y con
-       evidencia sólida, sino por las implicaciones […]
-   11. Argón 2017/11/08 at 8:14 pm - Reply
-       A mi…que me expliquen como un ratoncito logró evolucionar y volar
-       nocturno con alas membranosas y deditos finos/largos y emitir
-       ultrasonidos para capturar insectos sin verlos ; tal como son los
-       murciélagos . Similar lograron los Zorros voladores , también
-       mamíferos previamente terrestres aunque se alimenten de frutas y no
-       tengan oído fino y conserven visión normal Es evidente , que si los
-       mamíferos lograron volar , lo hicieron por modificaciones
-       membranosas de sus extremidades anteriores , que no con plumas para
-       volar (aves) , como lograron cierto tipo de reptiles . . Ese
-       paso/transición evolutiva/adaptativa nos puede valer de referencia
-       o ejemplo . De ello parece apreciarse como si hubiera una
-       intencionalidad ,soportada por su base cromosómica/genética que
-       «ayudara» a conseguir lograr volar «para alimentarse» y
-       sobrevivir…..cuando previamente en el suelo , esos dos mamíferos
-       del ejemplo eran víctimas alimentarias de otros animales . Ya no me
-       preocupa después , las diversas especies de murciélagos o de zorros
-       voladores , ni Delfines (que también es admirable su evolución de
-       mamífero , que sigue siendo ) a su ambiente marino y aspecto
-       hidrodinámico adaptativo . Comento estas cosas de modo coloquial ,
-       sin pretensiones de entendimiento genético o epigenético . Pero si
-       se nos explica también en términos coloquiales , lo entenderemos
-       mucho mejor ? Gracias previas a quien nos diga .
-   12. Argón 2017/11/08 at 10:51 pm - Reply
-       A mí , lo que más me sorprende de la evolución de las especies ,
-       Darwin publico «El Origen de las Especies» en 1879 , creo recordar
-       ; me sorprende mucho más , repito , como surgió progresiva y
-       lentamente , partiendo de un presunto ratoncito mamífero de hace
-       millones de años , una especie voladora por la modificación de sus
-       miembros anteriores en alas membranosas estructuradas con huesos
-       ligeros y finos dedos alargados y diseño perfecto para actividades
-       del vuelo ,en que además , todo ello como exige la evolución , con
-       intenciones nutricionales sobre insectos voladores , que con
-       nocturnidad y audición finísima no solo del zumbidillo del insecto
-       , sino que también emitiendo un ultrasonido propio que rebota en el
-       insecto y el eco lo detecta el murciélago , a quien los ojos ya
-       casi no sirven para ver . Parece entenderse de todo esto , que lo
-       que es necesario para la supervivencia…la Naturaleza mediante la
-       evolución (genes por medio) te lo consigue , y lo que ya no es
-       necesario (vista/ojos) se degrada . Ejemplo similar , aunque menos
-       sofisticado , es el Zorro volador , que se alimenta de frutas y
-       conserva la visión por lo que el oído es también normal .Ambos
-       pongo como ejemplo de lograr el vuelo mediante modificaciones
-       membranosas ; que las aves lograron volar mediante plumas…partiendo
-       de cierto tipo de reptiles (arqheopteris litográfica fósil ,etc) .
-   13. Argon 2017/11/15 at 2:08 pm - Reply
-       Me hubiera gustado también, que Darwin , además de interpretar muy
-       bien lo de la Selección natural y el Origen de las especies…le
-       hubiera preocupado e intentase entender el desarrollo embrionario ,
-       por el que pasamos todos los seres vivos ; pues ante la vista tenía
-       como el huevo de gallina fecundado y con calor durante 18
-       días….daba lugar al nacimiento de un pollito espabilado , corretón
-       y ávido de picotear su alimento ; que también vería como unos
-       huevecillos puestos por la mariposa en el otoño anterior , dan
-       lugar en primavera al origen de unos gusanitos/orugas , que comen
-       hojas y engordan , sin saber que cuando llegan al modo adecuado ,
-       se paran , se retraen , se cuelgan o encapullan de seda….y esperan
-       días a que ocurra el «milagro» en que de esa forma rara intermedia
-       , salga como por arte de magia una hermosa y bonita Mariposa….que
-       previo entendimiento con otra similar macho , ponga
-       huevecillos….que permanecerán durante el invierno , como único
-       vestigio de la Especie….durante meses del año ..
-       Seguro que Darwin conocía estos fenómenos biológicos ambientales
-       ..pero que sepamos ?…no parece haber tenido intentos de
-       explicaciones para hablar de lo que se llama proceso de
-       «Metamorfosis» ; en que con esa palabra mágica científica ….ya se
-       comprende el milagro de lo ocurrido ?, No . Pero es que ese proceso
-       «milagroso» no podía entenderse en aquellos tiempos , porque la
-       Ciencia , aún no conocía el ADN y ahora sabemos . Tampoco
-       comprendería Darwin como hemos dicho lo del pollito desde el hubo
-       de la gallina ; pero como ese «milagro» ocurre ante nuestros ojos ,
-       hay/había que admitirlo , de modo empírico y
-   14. Mitos sobre la teoría de la evolución: ¿una realidad? 2018/03/01 at
-       11:15 am - Reply
-       […] hace unas décadas para definir al hombre primitivo. Sin
-       embargo, este nunca fue parte del proceso evolutivo. Pues, este es
-       el mismo homo sapiens pero […]
-   15. jose 2018/04/28 at 7:25 pm - Reply
-       mme gusto
-   16. Dianeth 2018/11/06 at 11:06 pm - Reply
-       Me identifico más con la teoría del diseño inteligente. Prefiero
-       creer que todas las cosas, que nosotros mismos, fuimos creados con
-       un propósito. En lugar de creer que a un poco de sustancias se
-       juntaron por casualidad y crearon coacervados, moléculas orgánicas,
-       células y todo lo demás. Todo eso también es fe, porque fe es
-       convicción en lo que no se ve.
-          + Walter 2020/02/10 at 4:00 pm - Reply
-            El diseño inteligente solo responde a meras especulaciones
-            ideativas del ser humano para explicarse y satisfacer
-            preguntas sobre el por qué de las cosas complejas, trasladando
-            de manera simple el problema a superioridades divinas, una
-            mala manera de resolver una cuestión. Con creer que todo lo
-            hizo la divinidad, se acaba cualquier problema, entonces la
-            capacidad de razonar se adormece.
-            La mente al igual que la vida es una condición emergente que
-            nacen de la interacción de sus constituyentes.Evolución es
-            solo cambio adaptativo, en respuesta a las condiciones
-            ambientales, y es un plus si estos cambios representan un
-            desarrollo más alto de lo que anterior tenían o eran( no
-            siempre es así), en ese sentido la evolución de las especies
-            principalmente del ser humano tiene ese plus de ir más y más
-            arriba.
-            Sorpréndete de saber que de la interacción( interrelación de
-            elementos sin vida surge o salen propiedades) de elementos
-            simples surgieron sistemas más complejos, así en un conjunto
-            de quarks, surgen propiedades, dando lugar a partículas
-            subatómicas, a átomos, moléculas, proteínas, todas sin vida y
-            el conjunto de proteínas dan lugar a células y éstas ya tienen
-            vida. Igual que una neurona no tiene inteligencia, billones de
-            neuronas interactuando entre sí pueden dar cabida a lo que
-            llamamos mente, la cual es emergente. El problema de la fe es
-            que es simplista y no quiere entender que la evolución no se
-            hace de la noche a la mañana y le es incómodo aceptar que hace
-            40 0 50 millones de años había 5 ramas de monos, 4
-            evolucionaron hacia los monos actuales y un hacia el hombre.
-   17. uriel 2019/01/31 at 5:18 pm - Reply
-       me sirvió para mi tarea
-   18. uriel 2019/01/31 at 5:22 pm - Reply
-       me sirvo para mi tarea
-       ?????
-   19. uriel 2019/02/12 at 4:04 pm - Reply
-       mesirvio para mi tarea
-       ??????
-   20. maki 2019/02/14 at 9:22 pm - Reply
-       Gracias
-   21. Anderson torres 2019/03/13 at 2:54 am - Reply
-       sirvió de algo este tema
-   22. naturista 2019/03/17 at 2:32 pm - Reply
-       Todos viene de un huevo .Nace de una semilla. de un óvulo . El
-       Universo , los animales , las plantas y todo va cambiando, va
-       evolucionando, se va desarrollando Estamos bajo un plan diseñado
-       por DIos, le guste o no a Darwin. El no creó la evolución sólo la
-       entendió y lo hizo bajo el método científico.
-   23. mario salas 2019/04/06 at 4:12 am - Reply
-       hay que tener mucho mas fe para creer en la teoria de la evolucion
-       que para creer en Dios
-   24. Roberto 2019/04/27 at 7:21 pm - Reply
-       Creo que el artículo contiene un error cuando define lo que es la
-       evolución biológica: «Es el proceso por el cual se originó la vida
-       en la Tierra». Que yo sepa, la evolución no se ocupa de explicar el
-       origen de la vida. Sólo su evolución una vez que la vida ya existe.
-   25. JOSE JULIAN ORTIZ 2019/09/21 at 3:22 pm - Reply
-       La teoria de la evolucion por mediacion de la seleccion natural, no
-       es algo en lo que se cree, a diferencia de los dioses de las
-       respectivas mitologias
-   26. EVOLUCIÓN – ConCiencia 2019/12/09 at 8:25 pm - Reply
-       […] EVOLUCIÓN […]
-   27. Evolución – Peripatéticos de Ciencia 2019/12/09 at 9:25 pm - Reply
-       […] https://www.dciencia.es/que-es-la-evolucion-conceptos/ […]
-   28. yilmari 2020/03/04 at 1:33 am - Reply
-       bueno.. me encanta .
-   29. eloisa 2020/05/20 at 9:30 pm - Reply
-       muy útil la información gracias
-   30. Anónima 2020/05/23 at 7:32 pm - Reply
-       Me siivio demaciado, fue también gracioso ? GRACIAS ???????^o^
-   31. KENNET LOPEZ 2020/06/09 at 8:27 pm - Reply
-       ME SIIRVIO PARA MI TAREA Y EL TEMA ES ASOMBROSO GRAN TRABAJO POR EL
-       LICENCIADO DANIEL PAMPOS
-   32. tumamaentanga 2020/08/28 at 12:10 am - Reply
-       esto tiene mas de 300 palabras no? xD
-   33. daniel´s 2020/08/31 at 8:10 pm - Reply
-       me sirvio mucho para mi tarea mil gracias por hacer este tipos de
-       paginas
-          + [Tx668cvi_400x400-66x66.jpg]
-            Alberto Morán 2020/09/07 at 9:30 am - Reply
-            Nos alegra mucho que te ayudara. Saludos
-   34. Juan Cortés 2020/10/06 at 6:43 pm - Reply
-       Dios les bendiga grandemente.
-       ¡El Señor Jesucristo te ama demasiado y te quiere salvar!
-       San Juan 3:16-21
-   35. Crinletsy 2020/10/16 at 11:59 pm - Reply
-       Bno Algunas cosas no van de acuerdo a mi creencia pero Xss
-       Tengo una dudaaa Super GRANDE:3
-       ¿En Realidad Existieron Los Dinosaurios??
-       Osea En La Biblia Nunca Son Mencionados Los Dinosaurios Y
-       Básicamente Son Ciencia Ficción (NUNCA Los Hemos Visto, Solamente
-       En Películas) Entoncess… Si Alguien Me Puede Sacar De Esa Duda
-       Seria Genial
-          + paco 2021/03/10 at 6:33 pm - Reply
-            Eso debería explicártelo Dios.
-   36. Gerardo 2020/11/25 at 5:11 am - Reply
-       Me gusto mucho, esta muy interesante y me ayudo mucho (:
-   37. Hipatia Smith 2021/01/19 at 2:19 am - Reply
-       muy bueno, gracias
+Controversias sobre la evolución
 
-Leave A Comment Cancelar la respuesta
+   Antes de la exposición de la teoría de la evolución de Darwin, la
+   creencia generalizada sobre la naturaleza de los seres vivos consistía
+   en lo que la Biblia y otros libros o doctrinas religiosas indicaban.
+   Sin embargo, la creencia fundamentada en investigación científica
+   acerca de la posibilidad del origen de la vida sin intervención divina
+   (de un dios o Creador) escandalizó a buena parte de la sociedad del
+   siglo XIX.
 
-   Comment
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   ______________________________ ______________________________
-   ______________________________
+   En ese entonces Darwin no pudo explicar las razones de las diferencias
+   entre individuos de una misma especie y, por ende, no tenía evidencias
+   que justificaran su teoría. Unos 50 años después de la publicación
+   de su obra, la ciencia ayudó a esclarecer el asunto, con ayuda de los
+   emergentes estudios sobre herencia y variabilidad. El siglo XX y el
+   desarrollo de la genética permitieron evidenciar con más exactitud
+   que las especies sí están en constante cambio.
 
-   [ ] Save my name, email, and website in this browser for the next time
-   I comment.
+   La comunidad científica y gran parte de la sociedad actual aceptan la
+   teoría de la evolución debido a múltiples evidencias que la
+   respaldan. Veamos algunas:
+     * Los registros fósiles de especies diferentes a las actuales que
+       están o no extintas.
+     * Los cambios innegables de las especies en relación con sus
+       hábitos alimenticios o reproductivos, entre otros, vinculados con
+       la adaptación a su entorno.
 
-   Post Comment
+   Claro está, los científicos están obligados a realizar los estudios
+   genéticos necesarios para probar los cambios evolutivos. Sin embargo,
+   incluso en la actualidad, los denominados creacionistas mantienen
+   válida únicamente la versión bíblica del origen de la vida y se
+   oponen a cualquier idea sobre la evolución.
 
-   Δ
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
+   Debe considerarse que la teoría de la evolución no consiste
+   simplemente en una teoría que indica el origen de la vida, sino que se
+   centra en los procesos de cambio que conducen a la evolución. La
+   teoría permite comprender la historia de la vida y la forma en que se
+   modifica de forma natural.
 
-   Este sitio usa Akismet para reducir el spam. Aprende cómo se procesan
-   los datos de tus comentarios.
+   Si deseas leer más artículos parecidos a La evolución, te recomendamos
+   que entres en nuestra categoría de Seres vivos.
+   Teoría de Lamarck: qué es, importancia y ejemplo
+   Teoría de Lamarck: qué es, importancia y ejemplo
+   Animales piscívoros: qué son y ejemplos
+   Animales piscívoros: qué son y ejemplos
+   Las 7 teorías del origen de la vida
+   Las 7 teorías del origen de la vida
+   Características de los seres vivos
+   Características de los seres vivos
+   Categorías relacionadas
+   Otros ecología y medio ambienteBiomas y ecosistemasRecursos
+   naturalesContaminación
+   Lo más visto
+   1.
+   Selva
+   2.
+   Desierto: características, clima, flora y fauna
+   3.
+   Contaminación por basura: causas, consecuencias y soluciones
+   4.
+   Tundra: características, clima, tipos, flora y fauna
+   5.
+   Mecanismos de la Evolución
+   6.
+   Bosques tropicales: características, flora y fauna
+   7.
+   Bosque
+   8.
+   Ciclo del oxígeno: qué es y etapas
+   Consecuencias de la Evolución
+   Consecuencias de la Evolución
+   Evolución de las plantas y su origen
+   Evolución de las plantas y su origen
+   Teoría celular: postulados, origen y evolución
+   Teoría celular: postulados, origen y evolución
+   Las 4 Teorías más Aceptadas del Origen del Hombre
+   Las 4 Teorías más Aceptadas del Origen del Hombre
+   Qué es la Biología
+   Qué es la Biología
+   Animales Terrestres y Acuáticos
+   Animales Terrestres y Acuáticos
+   Paleozoico: qué es, etapas y animales
+   Paleozoico: qué es, etapas y animales
+   La Teoría de la Panspermia
+   La Teoría de la Panspermia
 
-Related Posts
+   Escribir comentario
+   ____________________
+   ____________________
 
-3 Mitos de la célula: cuestionando la Metáfora Mecánica
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (*) ( ) ( ) ( ) ( ) ( )
+   Tu valoración: ¿Qué te ha parecido el artículo?
+   (BUTTON) Enviar comentario [ ] He leído y acepto la política de
+   privacidad Red Link To Media recopila los datos personales solo para
+   uso interno. En ningún caso, tus datos serán transferidos a terceros
+   sin tu autorización.
+   De acuerdo con la ley del 8 de diciembre de 1992, puedes acceder a la
+   base de datos que contiene tus datos personales y modificar esta
+   información en cualquier momento, poniéndote en contacto con Red Link
+   To Media SL (info@linktomedia.net)
+   La evolución
+   []
+   []
+   1 de 2
+   La evolución
+     __________________________________________________________________
 
-   16 noviembre, 2023|0 Comments
+     * BIOenciclopedia
+     * Ecología y medio ambiente
+     * Seres vivos
+     * La evolución
 
-Siguiendo la pista al Sistema Inmune ¿Capaz de predecir la gravedad de las
-enfermedades?
-
-   08 noviembre, 2023|0 Comments
-
-Premio Nobel de Química 2023
-
-   02 noviembre, 2023|2 Comments
-
-¿Qué es el braille?
-
-   26 octubre, 2023|9 Comments
-
-Premio Nobel de Física de 2023: pulsos de luz de attosegundos
-
-   19 octubre, 2023|6 Comments
-
-Divulgación científica para niños. Carlos Pazos
-
-   11 octubre, 2023|2 Comments
-
-Secciones
-
-     * Bioquímica y Biología Molecular
-     * Ciencia Escrita
-     * Colecciones
-     * Dciencia for Schools
-     * Didáctica y Cultura Científica
-     * Divulgación
-     * Ecología
-     * Física
-     * Investigación
-     * Matemáticas
-     * Medicina
-     * Opinión
-     * Química
-     * Temas
-
-ENLACES DE INTERÉS
-
-     * Agencia SINC
-     * Biblioteca Instituto Químico-Físicas
-     * Catástrofe Ultravioleta
-     * Cuaderno de Cultura Científica
-     * E-Ciencia
-     * Fogonazos
-     * Inmortales y perfectos
-     * La Ciencia de la Mula Francis
-     * Naukas
-     * Un Geólogo en Apuros
-
-WEBS DE AUTORES
-
-     * Healthsens
-     * Imperial College London
-     * Inistituto de Investigación Sanitaria La Princesa
-     * Instituto de Productos Lácteos de Asturias
-     * Microviable Therapeutics
-     * UCS Dornsife
-     * Web Personal David Palomas
-
-   Copyright © 2023 Dciencia │ Privacidad │ Política de cookies
-   Correo electrónicoFacebookTwitterLinkedInInstagram
-
-   Page load link
-
-   Ir a Arriba
+   Volver arriba
+   Redes sociales
+   Link To Media © bioenciclopedia.com 2023 Contacta con nosotros Términos
+   y Condiciones Política de privacidad Política de cookies

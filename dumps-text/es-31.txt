@@ -1,293 +1,369 @@
-   #alternate
+    #Opinión
 
-   Pasar al contenido principal
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KTMLWP
 
-   [logo.svg]
-     * CEOE News
-          + Empresa
-          + Economía
-          + Internacional
-          + Laboral
-          + Acción social
-          + Industria y Medio ambiente
-          + Formación
-          + Fiscalidad
-          + Tecnología
-          + Turismo, cultura y deporte
-          + Unión Europea
-          + Opinión
-          + Últimas las noticias
-          + CEOE TV
-               o Vídeos
-               o Podcasts
-               o Fotogalerías
-               o Especiales
-     * Agenda
-     * Publicaciones
-     * Sala de Prensa
-          + Notas de prensa
-          + Presentaciones corporativas
-          + Biblioteca multimedia
-          + Contactos de prensa
-          + Toda la Sala de Prensa
-     * Conócenos
-          + La Confederación
-          + Áreas de trabajo
-          + Organización
-          + Fundación CEOE
-          + El portal de transparencia
-          + Trabaja con nosotros
-          + Contacto
-          + Toda la CEOE
+Invertia
 
-   Select your language [es]
-   Ir
-     * Área de socios
-     * CEOE NET
-     * Asociados
-          + ¿Por qué asociarse?
-          + Miembros actuales
-          + Hazte miembro
-     * Iniciar sesión
+El Español
 
-   [ico-search.svg]
+   (BUTTON)
 
-   [logo.svg]
-     * CEOE News
-          + Empresa
-          + Economía
-          + Internacional
-          + Laboral
-          + Acción social
-          + Industria y Medio ambiente
-          + Formación
-          + Fiscalidad
-          + Tecnología
-          + Turismo, cultura y deporte
-          + Unión Europea
-          + Opinión
-          + Últimas las noticias
-          + CEOE TV
-               o Vídeos
-               o Podcasts
-               o Fotogalerías
-               o Especiales
-     * Agenda
-     * Publicaciones
-     * Sala de Prensa
-          + Notas de prensa
-          + Presentaciones corporativas
-          + Biblioteca multimedia
-          + Contactos de prensa
-          + Toda la Sala de Prensa
-     * Conócenos
-          + La Confederación
-          + Áreas de trabajo
-          + Organización
-          + Fundación CEOE
-          + El portal de transparencia
-          + Trabaja con nosotros
-          + Contacto
-          + Toda la CEOE
+   Editar perfil Cerrar sesión
+     * Zona Ñ
+     * La Edición
 
-   Asociados
-     * Área de socios
-     * CEOE NET
-     * Asociados
-          + ¿Por qué asociarse?
-          + Miembros actuales
-          + Hazte miembro
-     * Iniciar sesión
+   (BUTTON) (BUTTON)
 
-     * Contacto
+   Conoce nuestras newsletters
 
-     * [ico-twitter.svg]
-     * [ico-instagram.svg]
-     * [ico-linkedin.svg]
-     * [ico-youtube.svg]
-     * [ico-flickr.svg]
+   Cuenta de usuario
+   Iniciar sesión / Registro
 
-   ©2020 Confederación Española de Organizaciones Empresariales
-     * Aviso legal
-     * Política de privacidad y Cookies
+   Editar perfil Cerrar sesión
 
-     * Empresa
-     * Economía
-     * Internacional
-     * Laboral
-     * Acción social
-     * Industria y Medio ambiente
-     * Formación
-     * Fiscalidad
-     * Tecnología
-     * Turismo, cultura y deporte
-     * Unión Europea
+   Editar perfil Cerrar sesión
+     * Disruptores (BUTTON)
+          + Aceleradoras
+          + Inversores
+          + Startups
+     * Innovadores (BUTTON)
+          + Centros tecnológicos
+          + Gran Empresa
+          + Empresas
+          + Investigación
+          + Tecnológicas
+     * Política digital (BUTTON)
+          + España
+          + Agenda Europea
+     * Autonomías 4.0 (BUTTON)
+          + Andalucía
+          + Aragón
+          + Baleares
+          + Canarias
+          + Cantabria
+          + Castilla-La Mancha
+          + Castilla y León
+          + Cataluña
+          + Madrid
+          + Comunidad Valenciana
+          + Extremadura
+          + Galicia
+          + La Rioja
+          + Murcia
+          + Navarra
+          + País Vasco
+          + Principado de Asturias
+     * América Tech (BUTTON)
+          + Argentina
+          + Chile
+          + Colombia
+          + Estados Unidos
+          + México
      * Opinión
-     * Últimas las noticias
-     * CEOE TV
-          + Vídeos
-          + Podcasts
-          + Fotogalerías
-          + Especiales
+     * Newsletter
+     * Podcast
 
-   ______________________________
-   Buscar
+   Premium
+     * Suscríbete
+     * Zona Ñ
+     * La Edición
+     * Blog del suscriptor
+     * App iOS
+     * App android
 
-     * Inicio
-     * CEOE News
+   Servicios
+     * El Tiempo
+     * Hemeroteca
+     * Temas
+     * Newsletters
+     * Idealista
+     * Hathor Publicidad
+     * Finanzas y préstamos
+
+   ____________________ (Buscar)
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   © 2023 El León de El Español Publicaciones S.A.
+
+     * Disruptores
+     * Innovadores
+     * Política digital
+     * Autonomías 4.0
+     * América Tech
      * Opinión
-     * La evolución tecnológica
+     * Newsletter
+     * Podcast
 
-   Buscar
-   Buscar una noticia ______________________________
-   Tema [- Cualquiera -]
-   Fecha
-   Todo(s)
-   ______________________________
-   ______________________________
-   Etiquetas ____________________________________________________________
-   Buscar
-   Opinión
-   14 Ene 2020
+   (BUTTON)
 
-La evolución tecnológica
+   Tecnología empresarial: cerebro-computadora
 
-   Todos somos conscientes de que el mundo en el que vivimos hoy no se
-   parece en nada al de hace diez o quince años. Y podemos afirmar, sin
-   temor a equivocarnos, que la evolución tecnológica ha sido determinante
-   para activar esa profunda transformación.
-   Antonio Garamendi
+   Tecnología empresarial: cerebro-computadora
 
-   Antonio Garamendi
+La tribuna
 
-   Presidente de la CEOE
+Evolución tecnológica vs. involución del hombre
 
-   Actualmente, vivimos en un estado de disrupción tecnológica permanente
-   sin precedentes, donde las tecnologías digitales tienen un efecto
-   transversal, pues pueden afectar a toda la economía, como lo hicieron
-   en su día la máquina de vapor o la electricidad.
 
-   Pero, la evolución tecnológica no solo incide en la economía, sino que
-   afecta a casi cualquier actividad del ser humano, condicionando nuestra
-   manera de trabajar, de vivir el ocio, el deporte, las relaciones
-   sociales, las gestiones administrativas, el comercio, el transporte, el
-   turismo, etc. En definitiva, estamos presenciando una verdadera
-   revolución cuyo proceso es imparable, irreversible y que nos afecta a
-   todos: ciudadanos, empresas y Administraciones Públicas.
+    Cristina Saura
 
-   En este contexto, podemos afirmar que la transformación digital y la
-   innovación son dos factores determinantes para la competitividad de la
-   economía, e imprescindibles para los procesos de internacionalización
-   de las empresas.
+   8 octubre, 2022 02:34 (false) guardar
 
-   Por este motivo, es muy importante liderar el proceso de
-   digitalización, ya que, en caso contrario, no seremos competitivos.
-   España debe aspirar a situarse entre los países que lideran estos
-   procesos en Europa, sobre todo, si tenemos en consideración que el
-   Viejo Continente ha perdido protagonismo en este ámbito respecto a
-   Estados Unidos y el eje Asia- Pacífico, quedando como tercer actor en
-   el panorama internacional.
+   La tecnología juega actualmente un papel fundamental en nuestras vidas,
+   es un hito en constante evolución. La usamos en cada contexto de
+   nuestro día a día, y ha pasado de ser un lujo a convertirse en una
+   necesidad. Pero corremos el riesgo de olvidarnos de cuidar la mejor
+   tecnología de la que disponemos: nosotros, el ser humano, una 'máquina'
+   que también debemos ir mejorando y que debe seguir evolucionando, y no
+   involucionando como parece.
 
-   El indicador que mide el grado de digitalización de los diferentes
-   países europeos (DESI) nos sitúa en una posición intermedia, y lo mismo
-   ocurre a nivel mundial; algo a todas luces insuficiente si queremos
-   tener una economía sólida, competitiva y con vocación internacional.
+   Que las nuevas tecnologías simplifican y hacen las tareas más fáciles
+   es una realidad indiscutible. También mejoran nuestra calidad de vida:
+   algunos ejemplos son los ebooks o los auriculares que traducen en
+   tiempo real, así como ojos biónicos que permiten recuperar la vista o
+   mejorarla, prótesis u operaciones con brazos mecánicos, y otros tantos
+   usos en el campo de la medicina y la salud. También hoy día disponemos
+   de millones de aplicaciones en nuestros teléfonos inteligentes que
+   usamos continuamente, desde lo más banal hasta lo más complejo.
 
-   En lo que se refiere a la Investigación y el Desarrollo, tampoco
-   alcanzamos los niveles que por tamaño e importancia corresponderían a
-   nuestro país, con cifras de gasto en I+D como porcentaje del PIB muy
-   por debajo de la media europea (1,2% frente al 2%).  Lo mismo ocurre en
-   innovación, donde España se sitúa en el grupo de países que la Comisión
-   Europea define como innovadores moderados.
+   En la actualidad, existen innumerables avances tecnológicos que están
+   permitiendo un mejor desarrollo de nuestras vidas. La tecnología hoy en
+   día es beneficiosa y necesaria para la vida diaria de las personas, y
+   nos permite disfrutar de una vida llena de comodidad. Hemos tenido
+   tanto desarrollo tecnológico que tiempo atrás hubiera sido
+   inimaginable. Hoy, con una velocidad vertiginosa, hemos comprobado cómo
+   el ser humano es capaz de desarrollar tecnología muy avanzada que ha
+   sido de vital importancia y de gran ayuda para nosotros.
 
-   Sin embargo, la preocupación no debe ser dónde nos encontramos ahora,
-   sino dónde estaremos en el futuro.
+   Es evidente que toda esta tecnología está cambiando nuestra vida y que
+   impregna, además, todos y cada uno de los aspectos que la integran.
+   Además, constantemente hemos de adquirir nuevos conocimientos y
+   habilidades para seguir el ritmo impuesto por el desarrollo
+   tecnológico. Incluso los procesos más simples de la rutina diaria, como
+   ir de compras, cocinar, lavar, etcétera, se ven alterados como
+   consecuencia de dicho desarrollo.
 
-   Dada la situación actual, es imprescindible actuar en dos niveles. Por
-   un lado, creando las condiciones necesarias que permitan a nuestras
-   empresas realizar ese esfuerzo extra que nos sitúe en el grupo de
-   países que lidera este proceso.
+   Y mientras vamos adaptando nuestras vidas a esta vorágine de cambios
+   tecnológicos que parece que no tienen fin, estamos dejando de lado y
+   nos olvidamos de una máquina mucho más importante: nuestra propia
+   persona. Nosotros mismos, con nuestro cuerpo, mente y alma.
 
-   Por otra parte, sensibilizando a nuestro tejido productivo sobre cuánto
-   nos estamos jugando con la digitalización y la innovación (el “ser o no
-   ser” en el futuro), especialmente en el ámbito de las Pymes.
+   Merece la pena pararnos y hacernos algunas reflexiones: ¿Hasta qué
+   punto el vertiginoso avance y la imparable evolución que estamos
+   viviendo está afectando a la esencia de la vida humana? ¿No es la
+   tecnología, en muchas ocasiones, un arma de doble filo? ¿Y no es verdad
+   que nos separa de los que tenemos más cerca y nos malcría?
 
-   Para conseguir que España ocupe el lugar que queremos y entendemos le
-   corresponde, es fundamental que se ponga en marcha una Estrategia
-   Digital a nivel país, algo que no tenemos desde el año 2013.
+   No nos damos cuenta de que la falta de una fuerte moral y algunos
+   principios orientados hacia el bien común pueden ser destructivos y,
+   además, tenemos el riesgo de olvidar el curso de las relaciones
+   sociales, que nos provoque un aislamiento social y perdernos muchos
+   momentos de nuestra vida que ya no regresarán.
 
-   Conscientes de esta necesidad, en CEOE hemos elaborado el “Plan Digital
-   2025”, que pretende ser una hoja de ruta para la digitalización de la
-   sociedad española y que se asienta sobre tres pilares básicos:
-   formación, emprendimiento e innovación.
+   La sociedad en general se ha vuelto dependiente de la tecnología y
+   hemos caído en el conformismo al pensar que nos resolverá todos los
+   problemas, cuando en realidad solo es un medio en el cual nos podemos
+   apoyar.
 
-   En conclusión, la apuesta de los empresarios españoles por la
-   digitalización y por la innovación es firme y decidida, por entender
-   que es la manera de mejorar la competitividad de nuestra economía y de
-   impulsar los procesos de internacionalización de nuestras empresas. En
-   definitiva, la mejor manera de seguir generando progreso y bienestar
-   para la sociedad española.
+   Entonces, ¿por qué no hacemos un esfuerzo para conseguir lo que
+   realmente necesitamos? ¿Por qué tanto desarrollo tecnológico no es
+   capaz de solucionar los problemas más elementales que actualmente pegan
+   tan fuerte a la humanidad?
 
-Actualidad relacionada
+   No somos conscientes de que el mundo va hacia atrás en aspectos vitales
+   y fundamentales. El hambre, las guerras, la explotación, la miseria, la
+   desigualdad, la violencia, la agresividad, las enfermedades que están
+   sufriendo la mayoría de los seres humanos en todo el mundo… Son pruebas
+   evidentes de que no avanzamos en otros aspectos.
 
-   Opinión
-   El lince económico, el turismo
+   ¿De qué sirve entonces todo el progreso tecnológico si cada vez hay más
+   gente sufriendo? Todos sabemos que hay recursos suficientes para
+   resolver el 90 % de las causas de sufrimiento en el mundo, pero, sin
+   embargo, no lo hacemos.
 
-   Estamos cerrando el verano 2023: la temporada alta de la actividad
-   turística. Un año que, más allá de sus cifras, no ha estado exento de
-   sobresaltos sociales políticos, medio ambientales, y económicos a nivel
-   nacional e internacional y, siempre, con la industria del turismo en el
-   punto de mira en relación con todos ellos.
-   18 Sep 2023
-   Opinión
-   Gente normal: el artista y el empresario
+   Además de todo esto, tenemos que considerar el descuido ecológico y
+   maltrato que estamos causando a nuestro planeta, con lo que podemos
+   concluir que la evolución brilla por su ausencia. Sí es cierto que hay
+   muchas personas en el mundo que están siendo conscientes de ello y ya
+   están trabajando para romper esa tendencia materialista, suicida y
+   destructiva.
 
-   El presidente de CEOE-CEPYME Cantabria y la directora de Turismo,
-   Cultura y Deporte de CEOE reflexionaron en 'Tiempo de Arte' en
-   Santander sobre las similitudes entre la creación artística y el
-   desempeño empresarial.
-   07 Ago 2023
-   Opinión
-   La competitividad, eje de la acción empresarial
+   Es importante conectar con la esencia de nosotros mismos y buscar cómo
+   hacer que la humanidad avance hacia estilos de vida que estén en
+   armonía con la propia naturaleza. Tenemos que saborear nuestra vida,
+   minuto a minuto, y recuperar la conciencia, así como nuestra naturaleza
+   como seres humanos.
 
-   El secretario general de CEOE reflexiona sobre los desafíos de las
-   empresas de cara a la Presidencia española del Consejo de la UE
-   30 Mayo 2023
-   Opinión
-   Las empresas españolas, en un año crucial
+   Dejemos de ir por nuestras vidas con el piloto automático. De qué sirve
+   tener a nuestro alrededor tantos medios y tanta tecnología si no nos
+   hacen desarrollarnos y crecer como personas, además de disfrutar de los
+   pequeños y cotidianos detalles de nuestro día a día.
 
-   Este año 2023 se presenta como un ejercicio crucial para la economía
-   mundial, en general, y para la española y las empresas de nuestro país,
-   en particular.
-   03 Mar 2023
+   Pongamos atención en nuestro desarrollo como seres humanos y cultivemos
+   las potencialidades de nuestra mente. Porque, si tomamos conciencia y
+   comenzamos a observar, a convertirnos en testigos de nuestras acciones
+   y pensamientos, podemos trascender a una nueva dimensión existencial y
+   ser verdaderamente libres.
 
-Contacto
+   *** Cristina Saura es directora de Recursos Humanos de Plasbel
+   Plásticos y vocal de la Junta Directiva de la Asociación Española de
+   Directores de Recursos Humanos.
 
-   Diego de León, 50 28006 Madrid
-   Tel. 915 663 400
-   Email. ceoe@ceoe.es
-   CIF- G28496636
-     * Todas las sedes
-     * Contacto
 
-Explora CEOE
 
-     * CEOE News
-     * Agenda
-     * Publicaciones
-     * Sala de prensa
-     * Conócenos
+   Sigue los temas que te interesan
+   [ ] Columnas de Opinión
+   [ ] Opinión
+   [ ] Recursos humanos
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
+          + (BUTTON)
 
-Alertas CEOE
+     * (BUTTON)
 
-     * Suscríbete a la newsletter
+Tribunas anteriores
 
-     * [ico-twitter.svg]
-     * [ico-instagram.svg]
-     * [ico-linkedin.svg]
-     * [ico-youtube.svg]
-     * [ico-flickr.svg]
+     * El capital árabe profundiza en una tercera vía en las telecos
+       europeas
+       7 septiembre, 2023 03:01
+     * Gestión de precios ‘post vacaciones’
+       2 agosto, 2023 03:03
+     * Llegando a la cima (en tipos)
+       5 mayo, 2023 02:54
+     * Un buen trabajo que todavía no ha terminado
+       5 mayo, 2023 02:54
 
-   ©2020 Confederación Española de Organizaciones Empresariales
+Los últimos
+
+    1. Código Pin
+    ¿Por qué sube el Ibex 35?
+       José Ramón Pin Arboledas
+       José Ramón Pin Arboledas
+    2. LIBERALIA
+    El futuro de la Fundación "la Caixa"
+       Lorenzo Bernaldo de Quirós
+       Lorenzo Bernaldo de Quirós
+    3. GRÁFICOS PARA EL DEBATE
+    El mercado de la cocaína
+       Gustavo Rivero
+       Gustavo Rivero
+    4. LLENO DE ENERGÍA
+    Camino a la ruina: España aumenta la deuda pública en 164 millones
+       diarios
+       Daniel Lacalle
+       Daniel Lacalle
+
+Ahora en portada
+
+   [10-3_Lorenzo_Bernaldo_de_Quiros.png]
+
+   LIBERALIA
+
+El futuro de la Fundación "la Caixa"
+
+
+    Lorenzo Bernaldo de Quirós
+
+   [27-3_Jose_Ramon_Pin.png]
+
+   Código Pin
+
+¿Por qué sube el Ibex 35?
+
+
+    José Ramón Pin Arboledas
+
+   El exministro de Industria, Comercio y Turismo, Héctor Gómez, traspasa
+   sus carteras de Industria y Turismo al exalcalde de Barcelona Jordi
+   Hereu.
+
+   La tribuna
+
+La alarmante situación de la industria española
+
+
+    Santiago Sánchez López
+
+   Portada
+
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+
+   Siguiente
+
+   Melonee Wise, vicepresidenta de Robotics Automation en Zebra y
+   cofundadora y CEO de Fetch Robotics.
+
+   Melonee Wise, la ganadora del 'Nobel' de la robótica que sueña con
+   crear "archipiélagos de automatización"
+   Anterior
+
+   Melonee Wise, vicepresidenta de Robotics Automation en Zebra y
+   cofundadora y CEO de Fetch Robotics.
+
+   Melonee Wise, la ganadora del 'Nobel' de la robótica que sueña con
+   crear "archipiélagos de automatización"
+   Siguiente
+   (BUTTON)
+
+     * Publicidad
+     * Branded
+     * Eventos
+     * Quiénes somos
+     * Participación
+
      * Aviso legal
-     * Política de privacidad y Cookies
+     * Política de Privacidad
+     * Condiciones de Compra
+     * Política de Cookies
+     * Contactar
+
+   Operar con instrumentos financieros o criptomonedas conlleva altos
+   riesgos, incluyendo la pérdida de parte o la totalidad de la inversión,
+   y puede ser una actividad no recomendada para todos los inversores. Los
+   precios de las criptomonedas son extremadamente volátiles y pueden
+   verse afectadas por factores externos como el financiero, el legal o el
+   político. Operar con apalancamiento aumenta significativamente los
+   riesgos de la inversión. Antes de realizar cualquier inversión en
+   instrumentos financieros o criptomonedas debes estar informado de los
+   riesgos asociados de operar en los mercados financieros, considerando
+   tus objetivos de inversión, nivel de experiencia, riesgo y solicitar
+   asesoramiento profesional en el caso de necesitarlo.
+
+   Recuerda que los datos publicados en Invertia no son necesariamente
+   precisos ni emitidos en tiempo real. Los datos y precios contenidos en
+   Invertia no se proveen necesariamente por ningún mercado o bolsa de
+   valores, y pueden diferir del precio real de los mercados, por lo que
+   no son apropiados para tomar decisión de inversión basados en ellos.
+   Invertia no se responsabilizará en ningún caso de las pérdidas o daños
+   provocadas por la actividad inversora que relices basándote en datos de
+   este portal. Queda prohibido usar, guardar, reproducir, mostrar,
+   modificar, transmitir o distribuir los datos mostrados en Invertia sin
+   permiso explícito por parte de Invertia o del proveedor de datos. Todos
+   los derechos de propiedad intelectual están reservados a los
+   proveedores de datos contenidos en Invertia.
+   © 2023 El León de El Español Publicaciones S.A.
+   [p?c1=2&c2=19999699&cv=2.0&cj=1]
+   (BUTTON) cerrar

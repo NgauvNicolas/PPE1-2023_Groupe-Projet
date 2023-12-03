@@ -1,218 +1,169 @@
-   #Understanding Evolution » Feed Understanding Evolution » Comments Feed
-   alternate alternate alternate
+   #alternate alternate
 
-     * Skip to primary navigation
-     * Skip to main content
-     * Skip to primary sidebar
-     * Skip to footer
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MMVM77
 
-     * About
-     * Image & Use Policy
-     * Translations
-     * Glossary
+   Omita y vaya al Contenido
 
-   SUPPORT UE
+   Un sitio oficial del Gobierno de Estados Unidos
 
-     *
-     *
-     *
+   Así es como usted puede verificarlo
+   (BUTTON) Así es como usted puede verificarlo
 
-   UC MUSEUM OF PALEONTOLOGY
+   Los sitios web oficiales usan .gov
+   Un sitio web .gov pertenece a una organización oficial del Gobierno de
+   Estados Unidos.
 
-   UC Berkeley logo UC Berkeley
+   Los sitios web seguros .gov usan HTTPS
+   Un candado ( Locked padlock icon
+   ) o https:// significa que usted se conectó de forma segura a un sitio
+   web .gov. Comparta información sensible sólo en sitios web oficiales y
+   seguros.
 
-   Understanding Evolution
+   Institutos Nacionales de la Salud Biblioteca Nacional de Medicina
+   MedlinePlus Información de salud para usted
+   (BUTTON) Menú
+     * Temas de salud
+     * Medicinas y suplementos
+     * Genética
+     * Pruebas médicas
+     * Enciclopedia médica
+     * Acerca de MedlinePlus
 
-   Understanding Evolution
+   (BUTTON) Búsqueda
+   Busque en MedlinePlus ________________________________________
+   (BUTTON) BUSCAR
+     * Acerca de MedlinePlus
+     * Qué hay de nuevo
+     * Índice
+     * Contáctenos
 
-   Your one-stop source for information on evolution
+     * Temas de salud
+     * Medicinas y suplementos
+     * Genética
+     * Pruebas médicas
+     * Enciclopedia médica
 
-Understanding Evolution
+   English
+   Usted está aquí:
+   Página Principal →
+   Genética →
+   Cómo entender la genética →
+   Variantes y la salud →
 
-   Search UE website ____________________ 
+   ¿Cómo se involucran las variantes genéticas en la evolución?
 
-   (BUTTON) Menu
+   Usted esta aquí:
+   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
+   evolucion/
 
-     * Home
-     * Evolution 101
-          + An introduction to evolution: what is evolution and how does
-            it work?
-               o 1_historyoflife_menu_icon The history of life: looking at
-                 the patterns – Change over time and shared ancestors
-               o 2_mechanisms_menu_icon Mechanisms: the processes of
-                 evolution – Selection, mutation, migration, and more
-               o 3_microevo_menu_icon Microevolution – Evolution within a
-                 population
-               o 4_speciation_menu_icon Speciation – How new species arise
-               o 5_macroevo_menu_icon Macroevolution – Evolution above the
-                 species level
-               o 6_bigissues_menu_icon The big issues – Pacing, diversity,
-                 complexity, and trends
-     * Teach Evolution
-          + Lessons and teaching tools
-               o Teaching Resources
-               o Image Library
-               o Using research profiles with students
-               o Active-learning slides for instruction
-               o Using Evo in the News with students
-               o Guide to Evo 101 and Digging Data
-          + Conceptual framework
-               o Alignment with the Next Generation Science Standards
-               o teach-evo-menu-icon
-          + Teaching guides
-               o K-2 teaching guide
-               o 3-5 teaching guide
-               o 6-8 teaching guide
-               o 9-12 teaching guide
-               o Undergraduate teaching guide
-          +
-              _________________________________________________________
+¿Cómo se involucran las variantes genéticas en la evolución?
 
-          + Misconceptions about evolution
-          +
-              _________________________________________________________
+   Para usar las funciones de compartir de esta páginas, por favor,
+   habilite JavaScript.
 
-          + Dealing with objections to evolution
-               o Information on controversies in the public arena relating
-                 to evolution
-     * Learn Evolution
+   La evolución es el proceso por el cual las poblaciones de organismos
+   cambian a través de las generaciones. Las variaciones genéticas son las
+   causas de estos cambios. Estas variantes pueden surgir de variaciones
+   genéticas (también llamadas mutaciones) o de un proceso normal en el
+   que el material genético se reordena a medida que una célula se prepara
+   para dividirse (conocido como recombinación genética). Las variaciones
+   genéticas que alteran la actividad genética o la función de las
+   proteínas pueden hacer aparecer diferentes rasgos en un organismo. Si
+   un rasgo es ventajoso y ayuda al individuo a sobrevivir y reproducirse,
+   es más probable que la variación genética se transmita a la siguiente
+   generación (lo que se conoce como selección natural). Con el tiempo, a
+   medida que continúan reproduciéndose generaciones de individuos con
+   este rasgo, se vuelve cada vez más común en una población, lo que la
+   hace diferente de la población anterior. En ocasiones, la población se
+   vuelve tan diferente que se considera una nueva especie.
 
-Evolución 101
+   No todas las variaciones influyen en la evolución. Solo las variantes
+   hereditarias, que ocurren en los óvulos o en los espermatozoides,
+   pueden transmitirse a las generaciones futuras y contribuir
+   potencialmente a la evolución. Algunas variaciones ocurren durante la
+   vida de una persona en solo algunas de las células del cuerpo y no son
+   hereditarias, por lo que la selección natural no puede influir. Además,
+   muchos cambios genéticos no tienen impacto en la función de un gen o
+   proteína y no son útiles ni dañinos. Asimismo, el ambiente en el que
+   vive una población de organismos es parte integral de la selección de
+   rasgos. Algunas diferencias introducidas por variantes pueden ayudar a
+   un organismo a sobrevivir en un entorno, pero no en otro; por ejemplo,
+   la resistencia a una determinada bacteria solo es ventajosa si esa
+   bacteria se encuentra en un lugar en particular y es perjudicial para
+   quienes viven allí.
+   Entonces, ¿por qué algunos rasgos dañinos, como las enfermedades
+   genéticas, persisten en las poblaciones en lugar de ser eliminados por
+   selección natural? Hay varias explicaciones posibles, pero en muchos
+   casos la respuesta no es clara. Para algunas afecciones, como el
+   trastorno neurológico conocido como enfermedad de Huntington, los
+   signos y síntomas ocurren más tarde en la vida, usualmente después de
+   que una persona tiene hijos, por lo que la variante genética puede
+   heredarse a pesar de ser dañina. Para otros rasgos dañinos, la
+   penetrancia reducida, un fenómeno en el que algunos individuos con una
+   variante asociada a la enfermedad no muestran signos y síntomas de la
+   afección, también puede permitir la transmisión de variaciones
+   genéticas dañinas a las generaciones futuras. Para algunas afecciones,
+   tener una copia alterada de un gen en cada célula es ventajoso,
+   mientras que tener dos copias alteradas causa enfermedad. El ejemplo
+   mejor estudiado de este fenómeno es la anemia de células falciformes.
+   Tener dos copias alteradas del gen HBB en cada célula da como resultado
+   la enfermedad, pero tener solo una copia entrega cierta resistencia a
+   la malaria. Esta resistencia a la enfermedad ayuda a explicar por qué
+   las variantes que causan la anemia de células falciformes todavía se
+   encuentran en muchas poblaciones, especialmente en áreas donde es común
+   la malaria.
 
-   Home → Evolución 101! → Introducción a la evolución
-     * EN in English
+Temas del capítulo de variantes y la salud
 
-Introducción a la evolución
+     * ¿Qué es una variante genética y cómo ocurren las variantes?
+     * ¿Cómo las variantes genéticas pueden afectar la salud y el
+       desarrollo?
+     * ¿Todas las variantes genéticas afectan la salud y el desarrollo?
+     * ¿Qué tipos de variantes de genes son posibles?
+     * ¿Puede un cambio en el número de genes afectar la salud y el
+       desarrollo?
+     * ¿Pueden los cambios en el número de cromosomas afectar la salud y
+       el desarrollo?
+     * ¿Pueden cambios en la estructura de los cromosomas afectar la salud
+       y el desarrollo?
+     * ¿Pueden cambios en el ADN no codificante afectar la salud y el
+       desarrollo?
+     * ¿Pueden cambios en el ADN mitocondrial afectar la salud y el
+       desarrollo?
+     * ¿Qué son las enfermedad complejas o multifactoriales?
+     * ¿Qué significa tener una predisposición genética a una enfermedad?
+     * ¿Cómo se involucran las variantes genéticas en la evolución?
+     * ¿Qué información pueden entregar las estadísticas sobre una
+       afección genética?
+     * ¿Cómo se nombran las afecciones genéticas y los genes?
 
-La definición
+   Otros capítulos en Cómo entender la genética
 
-   La evolución biológica, para hacerlo fácil, es la descendencia con las
-   modificaciones heredadas. Esta definición lo engloba todo, desde la
-   evolución a pequeña escala (por ejemplo, los cambios en la frecuencia
-   de diferentes versiones de los genes de una generación a otra en la
-   misma población) a la evolución a gran escala (por ejemplo, la
-   descendencia de diferentes especies que comparten un ancestro común).
-   La evolución nos ayuda a entender tanto el mundo vivo que nos rodea
-   como su historia.
+   La información disponible en este sitio no debe utilizarse como
+   sustituto de atención médica o de la asesoría de un profesional médico.
+   Hable con un profesional de la salud si tiene preguntas sobre su salud.
 
-La explicación
+   (BUTTON) Conozca cómo citar esta página
 
-   La evolución biológica no es simplemente una cuestión de cambios con el
-   paso del tiempo. Muchas cosas cambian con el tiempo: las orugas se
-   transforman en mariposas, los árboles pierden y reponen sus hojas, las
-   cadenas montañosas se alzan y erosionan, pero ninguno de ellos son
-   ejemplos de evolución biológica porque no implican descendencia con
-   modificaciones heredadas.
+     * Acerca de MedlinePlus
+     * Qué hay de nuevo
+     * Índice
+     * Contáctenos
 
-   Toda la vida en la Tierra comparte un ancestro común, de la misma forma
-   que tú y tus primos compartís una abuela común. A través del proceso de
-   descendencia con modificaciones, este antepasado común da lugar a
-   diferentes especies que vemos documentadas en el registro fósil y a
-   nuestro alrededor hoy en día. La evolución significa que todos los
-   seres vivos somos primos, aunque unos más distantes que otros: los
-   humanos y los robles, las ballenas y los colibríes.
-   Above, a series of photos of the same tree throughout the four seasons,
-   showing change over time. The tree on the left is barren (winter),
-   left-middle is spring, right-middle is summer, and right is autumn.
-   Below is a phylogeny showing a whale, a human, a bird, and a lizard
-   with their common ancestor, the ancestral tetrapod. It is titled
-   biological evolution: descent with modification. Four seasons photo
-   credit Joisey Showaa, illustration UCMP.
-     * Teaching Resources
+     * RSS RSS
+     * Síganos en Twitter Facebook Instagram
+     * Kit para redes sociales Kit para redes sociales
 
-   Find additional lessons, activities, videos, and articles that focus on
-   common ancestry.
-   Previous
+     * Exenciones
+     * Derechos de autor
+     * Política de privacidad
+     * Accesibilidad
+     * Pautas para enlaces
+     * Visores y reproductores
+     * HHS Divulgación de Vulnerabilidad
 
-   Evolución 101!
-   Next
-
-   La historia de la vida: La observación de los patrones
-
-Primary Sidebar
-
-   Previous
-   Next
-
-Evolución 101!
-
-     * Introducción a la evolución
-     * La historia de la vida: La observación de los patrones
-          + El árbol genealógico
-          + Entendiendo filogenias
-          + Árboles, no escaleras
-          + La creación del árbol
-          + Homologías y analogías
-          + Cómo utilizar el árbol para clasificar
-          + La suma del tiempo
-          + Cómo sabemos lo que pasó y cuándo pasó
-          + Acontecimientos importantes en la historia de la vida
-     * Mecanismos: Los procesos de la evolución
-          + Descendencia con modificación
-          + Los mecanismos del cambio
-          + Variabilidad genética
-          + Las mutaciones
-          + Las consecuencias de las mutaciones
-          + Las causas de las mutaciones
-          + Flujo génico
-          + Sexualidad y recombinación genética
-          + El desarrollo
-          + Deriva genética
-          + Selección natural
-          + La selección natural en acción
-          + Eficacia biológica
-          + La selección sexual
-          + ¿Por qué la selección sexual es tan poderosa?
-          + La selección artificial
-          + La adaptación
-          + Ideas equivocadas sobre la selección natural
-          + La coevolución
-          + Estudio de un caso de coevolución: las ardillas, las aves y
-            las piñas objeto de su deseo
-     * La microevolución
-          + Definición de microevolución
-          + Detección de los cambios microevolutivos
-          + Los mecanismos de la microevolución
-     * La especiación
-          + Definición de especie
-          + Definición de especiación
-          + Causas de la especiación
-          + Aislamiento reproductivo
-          + Pruebas de la especiación
-          + Coespeciación
-     * La macroevolución
-          + ¿Qué es la macroevolución?
-          + Patrones de macroevolución
-     * Las cuestiones fundamentales
-          + La velocidad de la evolución
-          + La diversidad en los clados
-          + Examinando la complejidad
-          + Las tendencias evolutivas
-
-Footer
-
-Connect
-
-     *
-     *
-     *
-
-   Subscribe to our newsletter
-
-Teach
-
-     * Teaching resource database
-     * Correcting misconceptions
-     * Conceptual framework and NGSS alignment
-     * Image and use policy
-
-Learn
-
-     * Evo 101
-     * Evo in the News
-     * The Tree Room
-     * Browse learning resources
-     * Glossary
-
-   Copyright © 2023 · UC Museum of Paleontology Understanding Evolution ·
-   Privacy Policy
+   National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894
+   U.S. Department of Health and Human Services National Institutes of
+   Health
+   Última actualización 13 julio 2021
+   Volver al comienzo

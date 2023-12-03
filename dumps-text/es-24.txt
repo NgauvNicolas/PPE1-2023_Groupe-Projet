@@ -1,282 +1,288 @@
-   +54 11 7078-6869
-   ____________________ (BUTTON)
-   Contacto Garnet Academy
-     * Inicio
-     * Productos
+    #alternate
 
-Productos
-          + Paneles y Teclados
-            Paneles y Teclados Garnet Technology
-          + Comunicadores
-            Comunicadores Garnet Technology
-          + Control de Accesos
-            Control de Accesos Garnet Technology
-          + Sensores Cableados
-            Sensores Cableados Garnet Technology
-          + Dispositivos Inalámbricos
-            Dispositivos Inalámbricos Garnet Technology
-          + Sirenas
-            Sirenas Garnet Technology
-          + Accesorios
-            Accesorios Garnet Technology
-          + TITANIUM
-            Línea Titanium de Garnet Technology
-     * Capacitaciones
-     * Dónde Comprar
+   IFRAME: about:blank
 
-Dónde Comprar
-          + Distribuidores Autorizados
-            Distribuidores Autorizados
-          + Instaladores Certificados
-            Instaladores Certificados
-          + Servicio Técnico Autorizado
-            Servicio Técnico Autorizado
-          + Emp. de Monitoreo Certificadas
-            Empresas de Monitoreo Certificadas Garnet Technology
-     * Noticias
-     * Soporte Técnico
+   Acceso usuarios Asociación @aslan Asociación @aslan
+     * La Asociación
+          + Sobre nosotros
+          + Nuestros Asociados
+          + Junta Directiva y Comisiones
+          + Premios Transformación Digital
+          + Sala de prensa
+          + Contacto
+          + FAQs
+     * Eventos & Actividades
+     * Centro de Conocimiento
+          + Casos de Uso
+          + CyberSecurity
+          + Intelligent Networks
+          + DataManagement & AI
+          + Cloud & Data Center
+          + Digital WorkSpace
+          + Especiales y tendencias
+     * ÚneteASLAN
 
-Soporte Técnico
-          + Descargas
-            Descargas Garnet Technology
-          + Preguntas frecuentes
-            Preguntas Frecuentes Garnet Technology
-          + Reportes Técnicos
-            Reportes Técnicos Garnet Technology
-          + Política de Garantía
-            Politica de Garantía Garnet Technology
-          + RMA
-          + Aplicaciones móviles
-          + Consultas
-            Consultas Garnet Technology
-     * Nosotros
+   |
+   (BUTTON)
 
-   +54 11 7078-6869
+   Artículo
+   12
+   Mar
+   2018
 
-EL MUNDO EN APRIETOS
-ACELERA LA EVOLUCIÓN TECNOLÓGICA
+Transformación Digital y evolución tecnológica, una apuesta imprescindible
 
-   La pandemia, el aumento de la demanda de componentes electrónicos, la
-   falta de capacidad para abastecer materias primas, problemas y retrasos
-   en la logística mundial, la guerra entre Rusia y Ucrania y dificultades
-   económicas en todo el mundo, se suman y parecen sumergir a nuestro
-   planeta en una depresión e incertidumbre que en las últimas décadas no
-   se veía. Sin embargo, ninguno de estos factores estancará el
-   crecimiento mundial en el mediano y largo plazo; por el contrario, lo
-   acelerarán con el impulso del creciente compromiso mundial de seguir
-   invirtiendo en Investigación y Desarrollo tecnológico.
-   Desarrollo tecnológico
+   Hay que ser competitivo y aportar valor al mercado. Este se consigue de
+   diversas formas, y una de ellas es ofreciendo la capacidad de adaptar
+   los productos de nuestro portfolio a las necesidades concretas de cada
+   empresa o profesional
+
+   Valora esta entrada
+   | 0
+   [Lenovo-1.jpg]
+
+   La transformación digital de las empresas está jugando un papel crucial
+   en la evolución del mercado, y la tecnología ha comenzado a adaptarse a
+   los cambios. Necesitamos dispositivos potentes y preparados para acoger
+   nuevas funcionalidades y programas que vienen acompañando a esta
+   transformación digital de la que hablamos, para enormes ecosistemas de
+   aplicaciones y montones de datos. Como en cualquier transformación, lo
+   importante es saber adaptarse. Los hábitos de consumo han cambiado y lo
+   siguen haciendo cada vez con más rapidez. Lo digital ha multiplicado
+   exponencialmente la habilidad de conectarnos. Hay menos barreras pero
+   más competencia y aunque es tremendamente complicado, hay que intentar
+   estar siempre por delante de lo que el consumidor demanda para poder
+   satisfacer sus necesidades en el momento en el que las requieran.
 
 
-      Lic. Diego Madeo
-      Director Ejecutivo - Garnet Technology
-      https://linktr.ee/diegomadeo
+   Los usuarios demandan cada día más innovación y el máximo rendimiento
+   posible, y ese es precisamente nuestro reto. Hay que ser competitivo y
+   aportar novedades al mercado, ya que para mantenerse en él hay que
+   aportar valor. El valor se consigue de diversas formas, y una de ellas
+   es ofreciendo la capacidad de adaptar los productos de nuestro
+   portfolio a las necesidades concretas de cada empresa o profesional,
+   desde un emprendedor a una gran multinacional.
 
-   Hace unas semanas tomé un viejo libro de mi biblioteca, un pequeño
-   ejemplar llamado “Microelectrónica” escrito en la década del 80.
-   Recuerdo cuando lo compré: lo encontré de casualidad a muy bajo precio,
-   uno de esos pequeños libros perdidos que se pueden conseguir en las
-   viejas y tradicionales librerías de Buenos Aires. Por aquel momento
-   recién iniciaba mi carrera de ingeniería electrónica y el libro me
-   sirvió para armar un trabajo práctico en los primeros años. Al abrir el
-   libro nuevamente, en la parte central, me encontré con un título que me
-   llamó la atención: “Ordenadores, robots y nuevos medios conquistan el
-   mundo”. Para su época toda una novedad o simplemente una película de
-   ciencia ficción… pero casi 40 años después, poderosos microprocesadores
-   son responsables de los avances más impresionantes que hemos visto en
-   los últimos años en materia tecnológica. Muchos de nosotros vivimos el
-   inicio de una carrera tecnológica que fue desarrollándose año a año sin
-   detenerse. La llegada del transistor cambió para siempre la vida de una
-   sociedad muy distinta a la actual.
 
-¿Pero… qué factores impulsaron a lo largo de la historia los grandes avances
-tecnológicos?
+   ¿Hacia dónde evolucionará este mercado en los próximos años?
 
-   Casi toda la riqueza del mundo se ha creado desde el surgimiento de la
-   industrialización. Acentuando el crecimiento explosivo desde los
-   inicios del Siglo XX con las dos guerras mundiales, el desarrollo
-   tecnológico ha sido el gran impulsor desde la Revolución Industrial.
 
-   La tecnología destinada a la seguridad pública y la defensa de los
-   países dio lugar a Internet y la fibra óptica, ambas desarrolladas
-   accidentalmente pero esenciales para la innovación del siglo XXI. Sin
-   la carrera tecnológica que se llevó a cabo para ganar la Guerra Fría,
-   posiblemente el mundo no hubiera entrado en la Era de la Información
-   después de la caída del Muro de Berlín.
+   La Inteligencia Artificial y los sistemas hiperconvergentes están
+   marcando la evolución del mercado. La IA aplicada al negocio del data
+   center está experimentando un verdadero boom con grandes oportunidades
+   para las empresas, y de hecho tiene todo el potencial para cambiar el
+   sector IT. Podemos simular el aprendizaje, sacar conclusiones y
+   reproducir la forma en la que se comunican los humanos con la ayuda de
+   un nuevo software. Los sistemas IA son capaces de responder preguntas
+   de manera natural, buscando en diferentes bases de datos y proporcionar
+   respuestas en el menor tiempo posible. Los resultados son
+   impresionantes y generan verdaderos beneficios empresariales.
 
-   Hoy es de conocimiento público que Internet - o su predecesor, ARPANET
-   - nació en 1969, cuando en plena Guerra Fría el Departamento de Defensa
-   de EE.UU decidió crear un sistema de comunicaciones capaz de resistir
-   un ataque nuclear. Pero por aquella época todos hablaban de un futuro
-   idealizando basado en que el año 2000 tendría autos voladores y
-   autopistas aéreas, pocos hablaban de las comunicaciones en la nube y de
-   la red de redes, Internet, que sería la gran responsable de los avances
-   tecnológicos. Y volviendo al punto, la crisis entre Rusia y EE.UU, fue
-   la gran impulsora del desarrollo de nuevas tecnologías.
 
-   A partir de la revolución industrial se pueden distinguir claramente
-   cinco paradigmas tecno-económicos, donde cada uno de ellos representa
-   una evolución a raíz de una crisis.
-     * 1770-1840: Primera Revolución Industrial.
-     * 1880-1914: Segunda Revolución Industrial.
-     * 1930-1980: La época de oro del pleno crecimiento seguida de la
-       crisis de producción en masa.
-     * 1980-2014: Surge el nuevo paradigma de las tecnologías de la
-       información y comunicación.
-     * 2014 a la actualidad: Transitamos la cuarta revolución industrial o
-       la Industria 4.0, en la que sistemas inteligentes se integran con
-       las organizaciones y las personas.
+   Multitud de analistas confirman el gran potencial de la inteligencia
+   artificial cuando se trata de las aplicaciones empresariales y la
+   mejora de la posición competitiva de la empresa. Según un estudio
+   llevado a cabo por Crisp Research, empresa de investigación de
+   mercados, un 64% de los responsables de la toma de decisiones en
+   empresas de TI están abordando temas de aprendizaje automático y otras
+   tecnologías de inteligencia artificial, y alrededor del 20% están
+   utilizando el aprendizaje automático de forma productiva.
 
-Cada etapa, con su propia crisis, impulsa un crecimiento, un avance casi
-obligado de metodologías impulsadas por la tecnología.
 
-   Pero esta nueva crisis post pandemia nos está hablando, nos dice que
-   algo cambiará. La humanidad está actualmente bajo los efectos de la
-   fiebre del Chip… claramente sin chips este mundo ya no funciona. Está
-   claro que desde hace dos años venimos sobrellevando problemas de
-   desabastecimiento de semiconductores que hoy parecen tener su alivio
-   con el correr de los próximos meses. Asia continua su escalada para
-   mantenerse como líder en la fabricación de semiconductores, pero EEUU
-   no se queda atrás y hace unos meses anuncia la instalación de fábricas
-   de semiconductores más grande del mundo, Micron Technology revela
-   planes ambiciosos para desarrollar el complejo de fábrica de chips más
-   grande del mundo que permitirá crear casi 50.000 puestos de trabajo
-   solo en Nueva York.
+   Además de los avances teóricos, tecnológicos y de software, los nuevos
+   ordenadores y el hardware moderno son actualmente capaces de procesar
+   rápidamente grandes cantidades de datos, haciendo que los sistemas de
+   IA sean útiles en muchas aplicaciones diferentes. Y lo primero que las
+   empresas deben hacer para prepararse para la IA es actualizar sus
+   centros de datos.
 
-   Debemos pensar también que existe un gran factor motivador para lo que
-   vendrá en los próximos años y es esta profunda crisis mundial que
-   estamos viviendo, la que acelerará e impulsará a las grandes potencias
-   para invertir en tecnología e innovación. Hoy en día así se está
-   haciendo con grandes inversiones en las nuevas fábricas de
-   semiconductores, como mencionábamos anteriormente, que apuntan a
-   tecnologías muchos más potentes en materia de procesamiento de datos,
-   sin olvidar que los tamaños de los chips se reducen y los consumos
-   disminuyen. Pronto veremos nuevos productos, nuevas redes de
-   comunicación tan potentes como 5G que permitirán nuevos desafíos.
 
-En 2023 estamos más cerca de la próxima revolución tecnológica.
+   La hiperconvergencia es fundamental para este fin, porque hace posible
+   que los sistemas locales en las instalaciones, los centros de datos
+   externos y los servicios en la nube se integren perfectamente y de
+   forma segura. Estos sistemas hiperconvergentes permiten escalar el
+   almacenamiento y la potencia de cálculo de forma flexible para que
+   puedan adaptarse a las necesidades cambiantes de cada momento. También
+   proporcionan a las empresas la opción de mover grandes cantidades de
+   datos a la nube y, cuando es necesario, transferirlos de un lado a otro
+   entre sistemas locales y remotos.
 
-   Impulsados por la carrera tecnológica global, nuestros hijos heredarán
-   un futuro significativamente más digital, sostenible, con inteligencia
-   artificial y orientado al espacio. La tecnología cambiará la estructura
-   de la economía global, cuestión que ya estamos viendo con las cripto
-   monedas. Las nuevas generaciones vendrán con otra estructura de
-   pensamiento basada en el uso de la tecnología y la lógica. Pero debemos
-   ser conscientes de que el uso responsable de las nuevas tecnologías no
-   deben promover la deshumanización o fomentar el aislamiento social.
 
-Es momento de tomar decisiones enfocadas que promuevan una transformación
-positiva para el mundo que viene, un tema en el que no hay expertos: lo
-iremos construyendo entre todos. Esto debe motivarnos a un aprendizaje,
-adaptación y crecimiento constante porque los cambios serán cada vez más
-veloces.
+   En los próximos años, las aplicaciones de IA van a cambiar
+   significativamente las industrias de servicios, especialmente en temas
+   relacionados con atención al cliente, pero también los procesos
+   industriales. Para ello, sin embargo, necesitan tener arquitecturas de
+   IT que proporcionen el rendimiento necesario, la velocidad y los
+   recursos para procesar grandes cantidades de datos, y así seguir
+   formando parte de un mercado muy competitivo en el que ya estamos
+   inmersos.
 
-Las más leídas
 
-   App Garnet Control
-   1
-   GARNET CONTROL PRO,
-   CONTROL TOTAL DEL SISTEMAS A TRAVÉS DE LA APP
-   Sistema de alarmas para casa de verano
-   2
-   7 TIPS PARA PROTEGER CASAS DE VERANO
-   Tutoriales Garnet Technology
-   3
-   VIDEO TUTORIAL
-   FACILIDAD EXTREMA EN LA PROGRAMACIÓN DE DISPOSITIVOS INALÁMBRICOS
-   PC-900 Panel de Alarmas de Garnet Technology
-   4
-   PC-900, UNA ALARMA PREPARADA
-   PARA LA CONEXIÓN A INTERNET
-   SIN NECESIDAD DE COMUNICADORES EXTRAS
-   Sirenas Ventajas Competitivas
-   5
-   LA SIRENA COMO ELEMENTO DIFERENCIADOR
-   EN UNA INSTALACIÓN DE ALARMAS
+   LENOVO DATA CENTER GROUP participa como Event Sponsor del Congreso&EXPO
+   ASLAN2018. Realice su inscripción gratuita en: www.congreso.aslan.es
 
-Recibí todas las novedades
 
-   Suscribite al newsletter y mantenete informado
-   _________ Suscribirme
 
-Las más leídas
+   Más información en: http:///www3.lenovo.com/es/es/data-center/
+   Ángel Ruiz
+   Lenovo Data Center Group
+   Director
+     __________________________________________________________________
 
-   App Garnet Control
-   1
-   GARNET CONTROL PRO,
-   CONTROL TOTAL DEL SISTEMAS A TRAVÉS DE LA APP
-   Sistema de alarmas para casa de verano
-   2
-   7 TIPS PARA PROTEGER CASAS DE VERANO
-   Tutoriales Garnet Technology
-   3
-   VIDEO TUTORIAL
-   FACILIDAD EXTREMA EN LA PROGRAMACIÓN DE DISPOSITIVOS INALÁMBRICOS
-   PC-900 Panel de Alarmas de Garnet Technology
-   4
-   PC-900, UNA ALARMA PREPARADA
-   PARA LA CONEXIÓN A INTERNET
-   SIN NECESIDAD DE COMUNICADORES EXTRAS
-   Sirenas Ventajas Competitivas
-   5
-   LA SIRENA COMO ELEMENTO DIFERENCIADOR
-   EN UNA INSTALACIÓN DE ALARMAS
+Newsletter
+     __________________________________________________________________
 
-Recibí todas las novedades
+   ¿Quiere recibir información de la Asociación y actividades organizadas:
+   invitaciones, eventos, lanzamientos etc?
+   Email* ____________________
+   (BUTTON) Suscribirme
 
-   Suscribite al newsletter y mantenete informado
-   _________ Suscribirme
+   (BUTTON) ×
 
-Te puede interesar
+¿Nos permites conectarte con ?
 
-   PRODUCTOS DE SEGURIDAD ELECTRÓNICA A UNA MAYOR SIMPLICIDAD
-   (BUTTON) Leer más
+   Te agradecemos que nos autorices a conectarte con , una de las empresas
+   asociadas que apoya a @aslan en la divulgación de nuevas tecnologías en
+   España.
 
-TENDENCIA MUNDIAL:
-LLEVAR LOS PRODUCTOS DE SEGURIDAD ELECTRÓNICA A UNA MAYOR SIMPLICIDAD
+   Consulta aquí la Política de Privacidad.
+   Esta conexión te permitirá descargar Presentaciones y documentación de
+   valor
+   Desactívalo cuando quieras
+   Si, estoy de acuerdo
 
-   Garnet Technology Impulsando el negocio profesional de seguridad
-   (BUTTON) Leer más
+Síguenos
 
-GARNET TECHNOLOGY SOLUCIONES DE SEGURIDAD
-DESDE LA EXPERIENCIA Y LA INNOVACIÓN
+    Asociación @aslan
+     *
+          + Presentación
+          + Unete ASLAN
+          + Empresas Asociadas
+          + Junta Directiva
+          + Comisiones de trabajo
+          + Grupos de Expertos
+          + Fotos
+          + FAQs
+          + Contacto
+          + Aviso Legal
+          + Política de Privacidad
+          + Modificación perfil de usuario
+        Actividades
+          +
+          + TODAS - Plan Anual
+          + Congreso & EXPO
+          + Tour Tecnológico
+          + Foros Tendencias
+          + Coloquios
+          + Encuentros Anuales
+          + Premios Transformacion Digital
+          + Especiales y Newsletter
+          + Regata: TeamBuilding
+          + Golf: Networking
+        Centro de Conocimiento
+          +
+          + Noticias
+          + Sala de Prensa
+          + Casos de Uso
+          + CyberSecurity
+          + Intelligent Networks
+          + DataManagement & AI
+          + Cloud & Data Center
+          + Digital WorkSpace
 
-   Chip Garnet
-   (BUTTON) Leer más
+GALERÍA DE IMÁGENES
+       © Copyright Asociación @aslan | Todos los derechos reservados |
+       Política de Privacidad y términos | Aviso Legal
+       (BUTTON) cerrar
 
-UCRANIA Y RUSIA PROFUNDIZAN LA CRISIS DEL ABASTECIMIENTO DE LOS
-SEMICONDUCTORES
+Únete a nuestro ecosistema y participa activamente.
+       Elije una opción
+       Empresa Asociada Usuario Gratuito
 
-Contacto Fábrica
+   (BUTTON) ×
+   (BUTTON) (BUTTON)
 
-   GARNET TECHNOLOGY
-   San Lorenzo 1771 (B1824BWY)
-   Lanús Este, Buenos Aires - Argentina
-   TEL: +54 9 11 7078-6869
-   E-mail: ra.moc.tenrag@ofni
-   HORARIOS DE ATENCIÓN TELEFÓNICA
-   Lunes a viernes de 08:00hs a 13:00hs y de 14:00hs a 17:00hs.
+eMail existente
 
-Suscribite!
+Anteriormente ya ha participado en nuestras actividades:
 
-   Recibe las últimas novedades en tu correo electrónico
-   _________ ENVIAR
+   Iniciar sesión y precargar datos usuario
 
-Redes Sociales Profesionales
+Le hemos enviado una clave al correo electrónico con el que se registró.
 
-   2023 Garnet Technology
-   Todos los derechos reservados
+   Clave* ____________________
 
-   ____________________ (BUTTON)
-     * Inicio
-     * Productos
-     * Capacitaciones
-     * Dónde Comprar
-     * Noticias
-          + Eventos y clientes
-          + Negocios y Marketing
-          + Productos
-          + Usuario Final
-     * Soporte Técnico
-     * Nosotros
-     * Contacto
+   La clave introducida es incorrecta.
+   Aceptar
+
+Por favor, introduzca su contraseña.
+
+   Clave* ____________________
+
+   La contraseña introducida es incorrecta.
+   Aceptar
+   Identifícate
+
+   (BUTTON) ×
+   Correo electrónico ____________________
+   Contraseña ____________________
+   [X] No cerrar sesión
+   (BUTTON) Entrar
+   He olvidado mi contraseña
+   Si no está registrado puede hacerlo aquí
+
+Restablecer contraseña
+
+   (BUTTON) ×
+   Correo electrónico ____________________
+   (BUTTON) Aceptar
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+¿Nos permites conectarte con ?
+
+   Te agradecemos que nos autorices a conectarte con , una de las empresas
+   asociadas que apoya a @aslan en la divulgación de nuevas tecnologías en
+   España.
+
+   Consulta aquí la Política de Privacidad.
+   Esta conexión te permitirá descargar Presentaciones y documentación de
+   valor
+   Desactívalo cuando quieras
+   Si, estoy de acuerdo
+
+   (BUTTON) ×
+
+¿Nos permites conectarte con las empresa nos están apoyado?
+
+   Te agradecemos que nos autorices a conectarte con , empresas asociadas
+   que apoya a @aslan en la divulgación de nuevas tecnologías en España
+
+   Consulta aquí la Política de Privacidad.
+   Esta conexión te permitirá descargar Presentaciones y documentación de
+   valor
+   Desactívalo cuando quieras
+   Si, estoy de acuerdo
+
+   Icono calendario ^
+   ULTIMA HORA >>>
+
+   DIRECTO 12:30h
+
+   ENTRAR
+
+PROGRAMACIÓN
+
+   (BUTTON) ×
+
+   Esta web utiliza cookies, puede ver nuestra la política de cookies
+   aquí. Si continuas navegando está aceptándola Aceptar.
+   []

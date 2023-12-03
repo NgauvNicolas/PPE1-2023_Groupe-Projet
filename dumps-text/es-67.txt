@@ -1,557 +1,577 @@
-   Logo Universidad de Navarra
-     * Contacta con nosotros
+   #Cuaderno de Cultura Científica » Feed Suscríbete a los eventos —
+   iCalendar
 
-   ____________________ (BUTTON) Buscar
-   Revista cultural y de cuestiones actuales
-   Número 717
-     * Grandes temas
-     * Campus
-     * Alumni
-     * Cultura
-     * Colaboran
+                        Cuaderno de Cultura Científica
+
+   (BUTTON)
+
      * Archivo
-     * Newsletter
-     * Recibe la revista
-
-     * Grandes temas
-
-   org-portada-5.jpg
-
-   Número 667.
-
-   marzo - abril 2011
-
-La evolución del evolucionismo
-
-   Texto José Ramón Ayllón Ilustraciones Pedro Marrodán
-
-   Con El origen de las especies, Darwin brindó al mundo una teoría
-   novedosa sobre la ascendencia de los seres vivos y abrió un debate que
-   se ha ido extendiendo desde la biología a todas las ramas del saber.
-   Hoy la evolución sigue siendo un fenómeno complejísimo del que se
-   ignora y se supone mucho más de lo que se sabe.
-   org-1baja.jpg
-     __________________________________________________________________
-
-
-
-
-   Tómale el pulso a la vida
-
-   ¿Te gusta lo que lees? Puedes recibir un artículo parecido a este cada
-   lunes en tu bandeja de entrada. Solo tienes que suscribirte a la
-   newsletter de Nuestro Tiempo desde aquí y sumarte a los que ya escuchan
-   los latidos del mundo contemporáneo.
-
-
-
-¿Qué es la evolución?
-
-   Desde mediados del siglo XIX, gracias a Charles Darwin, la teoría de la
-   evolución representa el más persistente intento de explicación de la
-   pluralidad aparentemente heterogénea de los organismos vivientes. Por
-   evolución se entiende la descendencia y progresiva complejidad de las
-   especies a lo largo del tiempo. Esa descendencia ininterrumpida empieza
-   con la bacteria que surge misteriosamente hace casi 4.000 millones de
-   años y da comienzo a la increíble aventura de multiplicarse y
-   diversificarse en miles de millones de especies. La evolución es
-   atestiguada por el registro fósil y el parentesco genético, pero se
-   escapa el cómo de dicho proceso, su mecanismo. Lejos de constituir un
-   proceso sencillo, se trata de un complejísimo fenómeno, del que se
-   ignora y se supone mucho más de lo que se sabe.
-
-¿Se puede negar la evolución?
-
-   Quienes niegan la evolución alegan que la ciencia se basa en la
-   observación, la reproducción de los fenómenos y la experimentación.
-   Añaden que nadie ha visto los pasos de unas especies a otras, y que es
-   imposible recrear semejantes procesos en un laboratorio. Sin embargo,
-   la ciencia no es exactamente eso. Sus teorías sobre el mundo natural
-   son explicaciones apoyadas en observaciones, hechos, inducciones,
-   deducciones e hipótesis contrastadas. Nadie ha visto los átomos, ni el
-   recorrido de la Tierra alrededor del Sol, pero constantemente se
-   confirman las consecuencias previstas para ambas suposiciones.
-
-¿Qué es el árbol de la vida?
-
-   En el caso de la teoría de la evolución, se afirma que todos los
-   organismos vivos están relacionados con un ancestro común, del que
-   descienden. Ese parentesco universal de las especies se puede dibujar
-   en el árbol de la vida, cuya verdad es una conclusión científica que
-   supera cualquier duda razonable. Aunque jamás se haya visto o
-   demostrado, hay buenos argumentos para suponer los pasos desde la
-   célula originaria hasta el tiburón, la liebre o el ruiseñor. Se llama
-   evolución a todo ese proceso de transformación, aunque se debe
-   reconocer que es poner una etiqueta a un proceso sumamente oscuro, cuyo
-   primer capítulo es precisamente la misteriosa aparición de la vida.
-
-¿Qué pruebas avalan la evolución?
-
-   La teoría evolutiva se apoya en cuatro pruebas de diferente valor
-   demostrativo: la anatomía comparada, la embriología, el registro fósil
-   y el parentesco genético.
-
-¿Qué se deduce de la anatomía comparada?
-
-   Sin duda, es el argumento más visible. Los paleontólogos suelen
-   referirse a los tetrápodos –animales de cuatro extremidades: anfibios,
-   reptiles, pájaros y mamíferos– que evolucionaron a partir de un grupo
-   particular de peces de aletas lobuladas. Es uno de los muchos ejemplos
-   que muestran la evolución a partir de la comparación anatómica de las
-   especies. En los tetrápodos se observa que los esqueletos de las
-   tortugas, los caballos, los humanos, los pájaros, las ballenas y los
-   murciélagos son sorprendentemente similares, a pesar de la diversidad
-   de sus ambientes y modos de vida. En los casos mencionados, dos
-   miembros delanteros, armados sobre los mismos huesos, sirven a una
-   tortuga y a una ballena para nadar, a un caballo para correr, a un
-   pájaro para volar, y a una persona para escribir. Por lo que parece,
-   dichas especies heredaron sus estructuras óseas de un ancestro común,
-   antes de que sufrieran diversas adaptaciones.
-
-¿Qué aporta la embriología?
-
-   Se trata de otra prueba clásica. Todos los vertebrados se desarrollan a
-   partir de formas embrionarias notablemente similares en las primeras
-   fases de la gestación. En El origen de las especies, Darwin define esta
-   homología como “la relación entre las partes, resultante del desarrollo
-   de las partes embrionarias correspondientes”. A modo de ejemplo, los
-   embriones de los seres humanos y de otros vertebrados no acuáticos
-   muestran, en la piel de la garganta, pliegues en forma de hendiduras,
-   de agallas que nunca van a utilizar. Las tienen porque comparten una
-   antecesor común: el pez, en cuya cabeza evolucionaron por primera vez
-   las estructuras respiratorias. Esta argumentación se tambaleó cuando se
-   logró marcar con colorante las células de los embriones. Entonces, al
-   presenciar su desarrollo, se observó que un órgano concreto –el riñón,
-   por ejemplo– no se forma en todas las especies a partir de las mismas
-   células embrionarias. Esto se complica en el caso de los insectos y de
-   las plantas, cuyos órganos homólogos se han formado de muchas maneras
-   diferentes.
-
-¿Qué dice el registro fósil?
-
-   Existen fósiles catalogados de 250.000 especies, y en dicho catálogo
-   rara vez se reflejan las innumerables formas de transición que Darwin
-   supuso. Más bien parece que la evolución da grandes saltos, como ha
-   puesto de manifiesto Stephen Jay Gould. Desde el punto de vista
-   paleontológico, el estado habitual de las especies es la estasis y la
-   súbita aparición y desaparición, no el cambio gradual. Hay, por tanto,
-   más revolución que evolución. Darwin pensaba que no encontraba formas
-   intermedias porque el registro fósil era muy incompleto, pero hoy se
-   conocen archivos completos, que documentan millones de años de forma
-   ininterrumpida. Uno de ellos es el de los moluscos del lago Turkana, en
-   África oriental, donde Williamson, en 1987, identificó la aparición
-   repentina de nuevas especies (especiación).
-
-¿Qué prueba la genética?
-
-   Si los argumentos anteriores no son definitivos, se piensa que los
-   aportados por la biología molecular y la genética sí lo son. El hecho
-   de que las transformaciones químicas de las células sigan los mismos
-   mecanismos metabólicos habla claramente de un origen común: una
-   protocélula con el código genético que ha llegado hasta la actualidad,
-   integrado por las cuatro bases nitrogenadas que se combinan en la
-   molécula de ADN. Un estudio comparativo de los genomas muestra
-   concordancias sorprendentes entre las especies. El ejemplo que mejor se
-   conoce es el humano: la posibilidad de encontrar secuencias similares a
-   una secuencia del genoma humano es del 100% respecto a los chimpancés,
-   del 99% respecto a los perros y ratones, del 75% respecto al pollo, y
-   del 60% respecto a la mosca de la fruta.
-
-¿Significan lo mismo evolución y evolucionismo?
-
-   Si la evolución es un hecho, el evolucionismo es su interpretación. Por
-   tanto, no significan lo mismo. Entre todas las interpretaciones de la
-   evolución, la darwinista es —con mucho— la más aceptada, hasta el punto
-   de que evolucionismo y darwinismo suelen confundirse en el lenguaje
-   corriente. Pero no debería ser así. Como atestigua la Historia Natural,
-   de Buffon, el hecho de la evolución era conocido y debatido en el
-   ámbito científico desde finales del siglo XVIII, con un importante
-   núcleo en la Academia de las Ciencias de París. Sin embargo, todavía a
-   mediados del XIX, Darwin y la mayoría de los naturalistas europeos
-   pensaban que cada especie había sido creada por Dios de forma
-   independiente.
-
-¿Hay azar en la evolución?
-
-   Al lanzar una moneda al aire, no sale cara o cruz por azar, sino por el
-   movimiento que se le ha dado a la moneda, por la resistencia del aire y
-   el tipo de superficie sobre la que cae: factores que resultan
-   imposibles de medir con exactitud. Por eso se habla de juegos de azar.
-   Aristóteles lo expresó de forma insuperable cuando dijo que “el azar es
-   una etiqueta para nuestra ignorancia”. Se puede hablar del azar en el
-   lenguaje coloquial, pero no en el científico, porque la ciencia se
-   define precisamente como “conocimiento por causas”, y apelar al azar es
-   una forma acientífica de prescindir de las causas. Tal vez, por
-   excepción, podría surgir, al azar, un órgano de un ser vivo, pero no se
-   puede convertir la excepción en ley, como pretenden muchos darwinistas.
-   El azar, en realidad, tiene la misma capacidad explicativa que la
-   generación espontánea. Hoy resulta risible la ingenuidad que suponía
-   creer en la generación espontánea, pero es igualmente ingenuo creer en
-   el azar.
-
-¿Qué son los sistemas de complejidad irreductible?
-
-   Es otro de los obstáculos que el azar y el evolucionismo darwinista no
-   logran superar. Una duna puede perder arena y seguir siendo duna. Una
-   montaña excavada por una mina o mordida por una cantera sigue siendo
-   montaña. En cambio, en muchas operaciones de un ser vivo —regidas por
-   la sincronización, no por la acumulación— no se puede prescindir de un
-   solo elemento ni de un solo paso: se rigen por el “todo o nada”, y un
-   solo fallo anula el sistema. Por eso, por no admitir recortes ni
-   simplificación, esas operaciones constituyen sistemas de complejidad
-   irreductible.
-
-¿Se puede poner un ejemplo biológico?
-
-   Hay múltiples ejemplos en los seres vivos. Un niño pedalea en su bici,
-   derrapa y se cae. Al rasparse, sangra un poco por una rodilla y una
-   mano, pero se limpia las heridas y la cosa no tiene mayor importancia.
-   ¿Por qué no tiene mayor importancia? Porque la sangre de las heridas se
-   coagula. De lo contrario, el niño se desangraría. ¿Y qué pasaría si la
-   orden de coagulación se extendiera a toda la sangre del herido? Pues
-   que el pequeño ciclista quedaría coagulado de pies a cabeza. ¿Y si el
-   coágulo fuera pequeño e interno? Entonces produciría una hemiplejia o
-   un infarto. Por fortuna, el niño no se desangra ni se coagula, y
-   tampoco sufre un infarto, precisamente porque solo se coagula la sangre
-   expuesta al aire. ¿Es posible que este sistema haya evolucionado según
-   la teoría darwiniana? No, porque la simple ausencia del factor
-   antihemofílico, o la sola presencia de la trombina, sin su
-   correspondiente inhibidor, serían mortales. O concurren al mismo tiempo
-   las doce proteínas implicadas, o el sistema falla. Que se coagule la
-   sangre de una herida es algo normal y corriente, pero la bioquímica
-   lleva medio siglo estudiando este asombroso proceso y no es capaz de
-   identificar sus causas. Todo lo que dice el profesor Doolittle, primera
-   autoridad mundial, es que el factor tisural aparece, que el fibrinógeno
-   nace, que la antiplasmia surge, que el ATP se manifiesta, y así
-   sucesivamente.
-
-¿Una célula es un sistema de complejidad irreductible?
-
-   Cualquier bacteria, cualquiera de las células que integran —por
-   billones— el cuerpo de un mamífero, es un sistema de complejidad
-   irreductible. Se ha visto a la célula como una ciudad en miniatura, que
-   se levanta a velocidad de vértigo y necesita poseer, al mismo tiempo,
-   una membrana envolvente, generadores de energía, gradiente de iones,
-   macromoléculas encapsuladas, polimerización, replicación por genes y
-   enzimas, almacenamiento de información y capacidad de mutación.  Así,
-   la biología celular relativiza las tesis evolucionistas, pues cada uno
-   de los cambios anatómicos que Darwin consideraba muy simples, implica
-   procesos bioquímicos abrumadoramente complejos. Por eso, mientras se
-   desconozcan las leyes de los programas moleculares de los seres vivos,
-   hablar de evolución y selección es emplear metáforas con el mismo valor
-   explicativo que denominar “toldo de estrellas” al firmamento.
-
-
-   [2.jpg]
-
-
-¿Qué precursores tuvo Darwin?
-
-   El mismo año que nació Darwin (1809), Lamarck presentó en su Filosofía
-   zoológica la idea básica del transformismo: las especies han ido
-   apareciendo dentro de un proceso evolutivo en el que unas se
-   transforman en otras. Se suponía que el mecanismo de transformación era
-   la herencia de los caracteres adquiridos por los seres vivos en su
-   esfuerzo por adaptarse al medio. Es clásico el ejemplo de la jirafa,
-   que llegaría a tener un cuello tan largo a base de repetidos esfuerzos
-   por alcanzar el alimento en las ramas de los árboles. Mediante esos
-   esfuerzos, los vivientes desarrollarían los órganos más utilizados, y
-   la transmisión hereditaria de ese nivel de desarrollo daría lugar a
-   cambios que finalmente supondrían una nueva especie. Darwin se propuso
-   explicar la razón de las semejanzas entre especies apelando al
-   transformismo de Lamarck y a un proceso de selección natural, dentro de
-   una descendencia ininterrumpida a partir de antepasados comunes.
-
- ¿Qué representa Darwin para la biología?
-
-   Por la superación de la generación espontánea y de la creación directa
-   de cada especie, Darwin protagoniza en la Biología una revolución
-   equivalente a la de Copérnico en Astronomía. Desde él se da por sentado
-   que todas las especies son ramas de un mismo árbol de la vida y forman
-   parte de un mismo proceso evolutivo. Tras esa intución verdadera,
-   Darwin se equivocó al identificar los resortes del proceso evolutivo.
-
-¿Qué sostiene Darwin en El origen de las especies?
-
-   En la introducción a El origen de las especies, libro canónico sobre la
-   evolución, Charles Darwin reconoce que estuvo equivocado durante años,
-   cuando pensaba que cada especie había sido creada por separado:
-   “Después del estudio más detenido y del juicio más desapasionado de que
-   soy capaz, no puedo abrigar la menor duda de que la opinión que la
-   mayor parte de los naturalistas mantuvieron hasta hace poco, y que yo
-   mismo mantuve anteriormente, sobre que cada especie ha sido creada
-   independientemente, es errónea”.  A continuación, Darwin declara su
-   convencimiento de que las especies descienden unas de otras, y dedica
-   todo el libro a argumentar esa hipótesis. Al final retoma esta idea:
-   “Autores eminentísimos parecen estar completamente satisfechos con la
-   teoría de que cada especie ha sido creada de forma independiente. A mi
-   juicio, se aviene mejor con lo que conocemos de las leyes impresas en
-   la materia por el Creador, el que la producción y la extinción de los
-   habitantes pasados y presentes del mundo sean debidas a causas
-   secundarias, como las que determinan el nacimiento y la muerte de los
-   individuos”.
-
-¿Qué resortes, en concreto, propone Darwin?
-
-   Darwin intuyó la descendencia de todas las especies a partir de una
-   primera forma de vida, como ramas de un tronco común, y propuso cuatro
-   causas secundarias como resortes del cambio evolutivo:
-
-   1. Adaptación al medio ambiente: en tamaño, color, fuerza, velocidad,
-   morfología...
-
-   2. Transmisión, por herencia, de los caracteres adquiridos por
-   adaptación.
-
-   3. Selección natural de los cambios más favorables.
-
-   4. Gradualismo: la suma de muchos pequeños cambios produce una nueva
-   especie.
-
-¿Cómo valorar la adaptación al medio?
-
-   Tal y como observó Darwin en los pinzones de las islas Galápagos, la
-   adaptación provoca pequeños cambios de tamaño, forma o color. No pasa,
-   por tanto, de ser un maquillaje. Pero ningún maquillaje produce un
-   cambio de especie. Nietzsche expresó perfectamente esta objeción
-   cuaando escribió que “Darwin sobreestima de modo absurdo la influencia
-   del medio ambiente, porque el factor esencial del proceso vital es
-   precisamente el tremendo poder de crear y construir formas desde
-   dentro”. Esta certera intuición ha sido plenamente confirmada por la
-   genética y la biología molecular. Pero el evolucionismo fue formulado
-   en el siglo XIX, cuando no se había inventado el microscopio
-   electrónico y la célula se definía como un pequeño grumo de materia
-   orgánica con membrana y núcleo. Así, el primer evolucionismo solo tuvo
-   acceso a la morfología. Pero estudiar a un ser vivo por su forma
-   externa es como valorar un vino por su botella. De hecho, mientras el
-   primer evolucionismo lo sabía todo sobre la anatomía y la morfología,
-   se le escapaba el propio ser vivo.
-
-   [3.jpg]
-
-
-¿Qué es la herencia de caracteres?
-
-   La herencia de los caracteres adquiridos era la esencia del
-   transformismo,  postulado antes de Darwin por Lamarck. Hoy se sabe que
-   se trata de una hipótesis falsa, pues dichos caracteres no se
-   incorporan al patrimonio genético y, por tanto, no se transmiten de
-   padres a hijos. Se sabe desde que se conocen los genes, cuando se
-   difundieron los estudios de Mendel, hacia 1900. Pero Darwin había
-   muerto veinte años antes, sin sospechar que los caracteres adquiridos
-   no se heredan. Si hubiera vivido un poco más, Darwin no habría sido
-   darwinista.
-
-¿Y el gradualismo en el registro fósil?
-
-   Darwin estaba convencido de que “el número de eslabones intemedios
-   entre las especies actuales y las extinguidas tuvo que haber sido
-   inconcebiblemente grande”. En cuyo caso, por lógica, se estarían
-   descubriendo constantemente fósiles de formas de transición. Pero
-   sucede justamente lo contrario: todo lo que se descubre son especies
-   bien definidas, que han aparecido y desaparecido súbitamente, como por
-   arte de magia, no al final de una cadena de eslabones. La ausencia de
-   formas de transición entre las especies ya desconcertó a Darwin: “Si
-   las especies han descendido unas de otras mediante una fina gradación
-   de pasos imperceptibles, ¿por qué no vemos por todas partes un sinfín
-   de formas de transición? ¿Por qué no se encuentra toda la Naturaleza en
-   amontonada confusión, en lugar de presentar especies bien definidas? La
-   investigadora Lynn Margulis reconoce que nunca se ha visto un cambio de
-   especie; que nunca se ha podido provocar en el laboratorio; que apenas
-   se conocen formas intermedias entre dos especies; y que el registro
-   fósil, como se sabe, presenta con frecuencia lo contrario: la aparición
-   y desaparición súbita de especies bien definidas.
-
-¿Qué papel juega la selección natural en la evolución?
-
-   Darwin pensó que, en esencia, el mecanismo de la evolución se podía
-   resumir en dos conceptos: variación con selección. Como se sabe, aportó
-   pruebas de embriología, anatomía comparada y paleontología. Pero
-   siempre –por honestidad intelectual– dejó claro que sus pruebas no eran
-   concluyentes: “Yo creo en la selección natural no porque pueda probar
-   –en ningún caso particular– que haya convertido una especie en otra,
-   sino porque me permite explicar correctamente (al menos, eso creo)
-   muchos hechos de clasificación, embriología, morfología,
-   descendencia...”.
-
-¿Cómo valora Karl Popper la selección natural?
-
-   El problema de la selección natural es –como ya se ha dicho– que jamás
-   se ha  observado un salto de especie, ni tampoco se ha podido predecir.
-   Y la ciencia necesita que las demostraciones confirmen las
-   suposiciones. Por otra parte, la selección natural parece un proceso
-   evidente e irrefutable, porque establece que sobreviven los individuos
-   más aptos para sobrevivir. Pero semejante afirmación plantea un grave
-   problema, pues –como ha observado Karl Popper– se parece demasiado a
-   una tautología (a=a), y con tautologías no se hace ciencia. Además, la
-   selección natural no introduce novedades, pues opera sobre lo que
-   previamente ha sufrido una mutación. Es por tanto, un agente pasivo y
-   externo, como una red que atrapa unos peces y deja libres a otros, pero
-   no los engendra. La selección natural es responsable –si se me permite
-   la comparación– de lo que queda en pie en una ciudad que ha sufrido, a
-   lo largo de los siglos, guerras, inundaciones, terremotos e incendios.
-   En cierto sentido, lo que ha quedado en pie es una ciudad. Pero la
-   causa de sus edificios actuales no son esas desgracias, sino los
-   ingenieros y arquitectos que los levantaron. El acueducto de Segovia ha
-   pasado la prueba de la selección natural, pero no ha sido levantado por
-   la selección natural.
-
-¿Hacia dónde ha evolucionado el darwinismo?
-
-   Hoy, la molécula de ADN proporciona la prueba más convincente de la
-   evolución biológica. El ADN de todos los seres vivos está formado por
-   el mismo alfabeto químico: secuencias de los nucleótidos adenina,
-   citosina, guanina y timina. El hecho de que todas las reacciones
-   químicas de todas las células sigan los mismos mecanismos metabólicos
-   habla claramente de un origen común. En este sentido, la concordancia
-   entre las proteínas de especies muy diferentes, como las bacterias y
-   los seres humanos, es realmente asombrosa. Y el porcentaje de genoma
-   idéntico entre dos especies es mayor cuanto más cercanas están en la
-   escala evolutiva. Esa similitud también nos dice que esas especies han
-   evolucionado de un ancestro común.
-
-¿Hay alternativas al darwinismo?
-
-   Rémy Chauvin sugiere la hipótesis de dos programas evolutivos
-   coordinados. A corto plazo, el ADN. A largo plazo, el auténtico
-   programa evolutivo en sentido estricto, que no residiría en el genoma
-   sino en el citoplasma. Se puede observar este viejo programa en las
-   primeras fases del desarrollo embrionario, tan sorprendentemente
-   análogas en todos los animales. Pero “no seamos hipócritas: todo
-   programa supone la existencia de un programador, y ninguna acrobacia
-   dialéctica puede llevarnos a esquivar esta dificultad. ¿Quién es el
-   programador? No tengo respuesta para esta pregunta, aunque podemos
-   imaginarlo”.
-
- ¿La evolución excluye a Dios?
-
-   Un ejemplo cervantino: si yo pregunto en clase por qué se vuelve loco
-   don Quijote, todos mis alumnos responden lo mismo: por leer demasiados
-   libros de caballerías. La respuesta es correcta, por supuesto. Pero yo
-   podría preguntar, a continuación: ¿Don Quijote se vuelve loco por leer
-   libros de caballerías o porque quiere Cervantes? Está claro que el
-   Universo se explica gracias a las fuerzas nuclear, electromagnética y
-   gravitatoria. Pero también está claro que esa explicación no explica el
-   origen de esas leyes.
-
-¿Evolución y creación son compatibles?
-
-   Si el Universo es un conjunto de seres contingentes –que no tienen en
-   sí mismos su razón de ser–, necesariamente ha tenido que ser creado.
-   Crear no es transformar algo, sino producir radicalmente ese algo. La
-   evolución, en cambio, se ocupa del cambio de ciertos seres que
-   previamente existen. De esta forma se ve claro que la creación y la
-   evolución no pueden entrar en con¬flicto, porque se mueven en dos
-   planos y en dos cronologías diferentes.Una certera comparación de Ernst
-   Jünger aclara esta cuestión: “La teoría de Darwin no plantea ningún
-   problema teológico. La evolución transcurre en el tiempo; la creación,
-   por el contrario, es su presupuesto. Por tanto, si se crea un mundo,
-   con él se proporciona también la evolución: se extiende la alfombra y
-   ésta echa a rodar con sus dibujos.
-
-¿Cómo abordó este punto san Agustín?
-
-   San Agustín, hace 1.600 años, escribió lo que sigue: “Las simientes de
-   los vegetales y de los animales son visibles, pero hay otras simientes
-   invisibles y misteriosas mediante las cuales, por mandato del Creador,
-   el agua produjo los primeros peces y las primeras aves, y la tierra los
-   primeros brotes y animales, según su especie. Sin duda alguna, todas
-   las cosas que vemos ya estaban previstas originariamente, pero para
-   salir a la luz se tuvo que producir una ocasión favorable. Igual que
-   las madres embarazadas, el mundo está fecundado por las causas de los
-   seres. Pero estas causas no han sido creadas por el mundo sino por el
-   Ser Supremo, sin el cual nada nace y nada muere”.
-
-¿Qué propone el darwinismo oficial?
-
-   Los darwinistas suelen ser contrarios a Darwin en este punto, pues el
-   autor de El origen de las especies concluye su célebre libro afirmando
-   que “la vida, con sus diferentes facultades, fue originariamente
-   alentada por el Creador en unas cuantas formas o en una sola”.
-
-   Al darwinismo oficial, sin embargo, le faltó tiempo para convertir la
-   hipótesis evolucionista en la gran alternativa al origen creado del
-   Universo y de la vida. Como un nuevo giro copernicano, la exclusión de
-   la causalidad divina tuvo y tiene una inmensa importancia cultural, que
-   justifica el empeño de miles de investigadores especializados y de
-   profesionales capaces de conectar con el gran público: profesores y
-   maestros, autores de libros de texto y programas televisivos, artistas
-   de ilustraciones verosímiles y atractivas, reconstrucciones brillantes
-   en museos…
-
-   En 1959 se celebró en Chicago el centenario de El origen de las
-   especies. Julian Huxley, el orador más aplaudido, declaró que “la
-   Tierra no fue creada: evolucionó. Y lo mismo hicieron los animales y
-   las plantas, al igual que el cuerpo del ser humano, la mente, el alma y
-   el cerebro”. Algo muy parecido sostiene Richard Dawkins, zoólogo de
-   Oxford, uno de los evolucionistas más mediáticos. Ninguno repara en que
-   hablar de evolución creadora es una contradicción en los términos, y
-   que la realidad nos muestra lo contrario: una creación evolutiva.
-
-   Francisco Ayala, Premio Templeton 2010, lo explica así: “Que una
-   persona sea una criatura divina no es incompatible con el hecho de
-   haber sido concebida en el seno de su madre y mantenerse y crecer por
-   medio de alimentos. La evolución también puede ser considerada como un
-   proceso natural a través del cual Dios trae las especies vivientes a la
-   existencia de acuerdo con su plan”.
-
-
-   ARTÍCULOS RELACIONADOS
-
-
-   Francisco José Ayala: «Hay una correlación directa entre la inversión
-   en ciencia y la expansión económica de un país»
-
-
-   ¿Sabemos realmente cómo es el universo?
-
-
-   Karl Giberson: «Debería existir un equilibrio para que ciencia y
-   religión puedan dialogar en lugar de debatir»
-
-
-
-     __________________________________________________________________
-
-   4049-evolucion.pdf
-     __________________________________________________________________
-     __________________________________________________________________
-
-   Categorías: Ciencia, Ensayo
-     __________________________________________________________________
-
-     *
-     *
-     *
-     *
-
-   Accesos directos
-     * Escuela de periodistas
-     * Escribe en NT
-     * Tienda
-     * Hemeroteca
-     * Quiénes somos
-     * Envíanos tus sugerencias
-
-   © Universidad de Navarra
-   Suscríbete Anúnciate
-     * Aviso legal
-     * Protección de datos
+     * Categorías
+     * Eventos
+     * Cátedra de Cultura Científica
      * Contacto
 
-   Universidad de Navarra
-   Campus Universitario 31009
-   Pamplona España
-   T. +34 948 42 56 00 info@unav.es
-   Campus Donostia-San Sebastián
-   Pº de Manuel Lardizabal 13 20018
-   Donostia-San Sebastián España
-   T. +34 943 21 98 77
-   Campus Madrid
-   Camino del Cerro Águila 3 28023
-   Madrid España
-   T. +34 91 211 30 00
-   Campus Barcelona
-   Avenida Pearson 21 08034
-   Barcelona España
-   T. +34 93 253 42 00
+   Buscar en el sitio ____________________
+   (BUTTON)
+
+De la evolución
+
+Experientia docet
+
+   Orígenes humanos
+
+   Si bien se pueden buscar antecedentes en la antigua Grecia, el hecho
+   cierto es que lo que hoy llamamos evolución en biología, la idea de que
+   todos los seres vivos provienen de un antepasado común y que la
+   diversidad de especies se debe a cambios heredados en las poblaciones
+   en sucesivas generaciones, se debatió por primera vez, aunque no
+   exactamente en estos términos, durante la segunda mitad del siglo
+   XVIII.
+
+   La palabra “evolución”, sin embargo, ya se venía empleando desde el
+   siglo XVII para referirse al desarrollo embrionario del individuo, sin
+   referencia alguna a la herencia. En este sentido “evolución”
+   significaba habitualmente el desarrollo de partes preexistentes en el
+   embrión, tal y como lo concebían los seguidores del preformismo.
+   Ocasionalmente, los que apoyaban la teoría contraria, el epigenetismo,
+   usaban el término para referirse a lo que ellos concebían que era la
+   adición sucesiva de partes nuevas al desarrollo individual.
+
+   Es a partir de la mitad del siglo XVIII cuando, tanto conjuntamente con
+   las hipótesis embriológicas como independientemente de ellas, varios
+   filósofos naturales comienzan a formular hipótesis que tienen en común
+   una concepción dinámica de la historia del universo, de la Tierra y de
+   la vida, en oposición al concepto imperante de una naturaleza estática
+   y acabada (estasis). La estasis comenzó a partir de ese momento a ser
+   considerada cada vez más, y por esto mismo atacada de vez en cuando,
+   como la posición típica y definitoria de las religiones occidentales
+   principales.
+
+   La Ilustración produjo una renovación de estas concepciones dinámicas
+   de la naturaleza: en astronomía mediante intentos de usar las leyes
+   newtonianas para, además de describir su funcionamiento, explicar la
+   historia del sistema planetario (Georges-Louis de Buffon, Immanuel
+   Kant, Pierre-Simon de Laplace); en las geociencias por la aparición de
+   distintas pruebas de que la Tierra es mucho más antigua de lo que se
+   creía (Buffon, James Hutton); y en las ciencias de la vida por una
+   posible temporalización del sistema tradicionalmente estático de
+   clasificación de los seres vivos (Charles Bonnet, Jean-Baptiste
+   Robinet), por intentos de encontrar explicaciones materialistas al
+   origen de la vida, a la generación, a la herencia, al desarrollo y al
+   cambio de las estructuras orgánicas (Benoît de Maillet, Pierre de
+   Maupertuis, Erasmus Darwin), por la observación ocasional de
+   variabilidad en las especies (Carl Linæus) y por la transposición de la
+   noción de desarrollo embrionario a toda la historia de la vida en la
+   Tierra (Carl Friedrich Kielmeyer).
+
+   Entre 1802 y 1820 Jean-Baptiste Lamarck combinó varios de estos temas
+   para producir la primera hipótesis sistemática, si bien no siempre
+   clara, del cambio orgánico (en esos años la palabra “evolución” en su
+   significado actual sólo está documentada en los trabajos de
+   Julien-Joseph Virey). Alrededor de 1830 Étienne e Isidore Geoffroy
+   Saint-Hilaire desarrollaron y popularizaron las ideas de Lamarck.
+   Charles Lyell discutió las ideas de Lamarck desde un punto de vista
+   crítico en sus textos geológicos de comienzos de los años treinta del
+   XIX, donde usaba evolución en su sentido actual por primera vez en
+   lengua inglesa. Estos libros de Lyell fueron estudiados en profundidad
+   por Charles Darwin. Las ideas lamarckianas, combinadas con
+   especulaciones sobre el desarrollo embrionario y la hipótesis nebular
+   aparecieron recogidas en Vestiges of the natural history of creation
+   (1844) de Robert Chambers, un libro dirigido al público en general que
+   fue el primero en difundir las ideas evolutivas en los países de habla
+   inglesa, preparando el terreno para la recepción posterior de la obra
+   de Darwin.
+
+   Divergencia de Darwin
+
+   Desde 1859 On the Origin of Species by Means of Natural Selection, or
+   the Preservation of Favoured Races in the Struggle for Life de Charles
+   Darwin atrajo una atención enorme sobre la posibilidad de que todas las
+   especies derivasen de una (o unas pocas) forma de vida. Tanto en los
+   círculos científicos, como en los periodísticos y a nivel popular la
+   cuestión a debatir era la “evolución”. Darwin evitaba esta palabra,
+   optando por “descendencia con modificación”. Tanto el filósosfo Herbert
+   Spencer como otros tantos seguidores de Darwin se decantaban claramente
+   por “evolución”, y no ocultaban que su preferencia se basaba en sus
+   profundas implicaciones para una visión de la naturaleza que ponía el
+   énfasis en el cambio gradual y progresivo como resultado de la
+   competencia por la supervivencia y la reproducción. Visión que además
+   la mayor parte de las veces era secularizada y que englobaba tanto a la
+   humanos como a sus sociedades y al universo en su conjunto.
+
+   La explicación dada por Darwin al cambio evolutivo, la teoría de la
+   selección natural (darwinismo) se encontró con una fuerte oposición
+   incluso entre científicos con amplios conocimientos biológicos. Este
+   tipo de desacuerdos resultaron en un final de siglo XIX en el que los
+   investigadores estaban más preocupados por encontrar “eslabones
+   perdidos” (olvidando en cierto modo lo que significan gradual y
+   progresivo) en el registro fósil que un consenso respecto a las causas
+   de la evolución. Alrededor de 1900, entre otras hipótesis, el
+   darwinismo, el neolamarckismo y la ortogénesis competían como
+   explicaciones del cambio evolutivo.
+
+   Tras el redescubrimiento de las leyes de Mendel en 1900, se necesitaron
+   cuatro décadas para construir el consenso alrededor de lo que se
+   denomina síntesis evolutiva moderna o neodarwinismo, que combina el
+   concepto de Darwin de selección natural con la genética. Desde los años
+   cuarenta del siglo XX la inmensa mayoría de los científicos cuando
+   hablan de evolución se refieren a la evolución neodarwinista.
+
+   Sin embargo, desde mediados de los años sesenta empezaron a
+   incorporarse nuevas aproximaciones al estudio de la evolución
+   biológica, incorporando herramientas y conceptos provenientes de la
+   ecología evolutiva, la paleontología y, muy especialmente, de la
+   biología molecular. El estudio del cambio evolutivo a nivel molecular
+   se ha convertido en un importante campo de investigación, y los
+   resultados han llevado a veces a conclusiones que se apartan de los
+   conceptos evolutivos principales.
+
+   Así, el hecho de que la variación genética, algunas veces, no esté
+   correlacionada con el éxito reproductivo y la evolución adaptativa (y,
+   por tanto, parezca “neutral” con respecto a la selección natural) llevó
+   a algunos biólogos, como Motō Kimura, a desarrollar a comienzos de 1964
+   la teoría neutralista de la evolución molecular. La teoría afirma que
+   buena parte del cambio evolutivo observado a nivel molecular ocurre por
+   una deriva genética aleatoria, independiente de la selección natural.
+
+   Otro ejemplo lo constituyen Niles Eldredge y Stephen Jay Gould que se
+   centraron en el registro fósil y el proceso de especiación. Esto les
+   llevó a comenzar en 1972 el desarrollo de la hipótesis del equilibrio
+   puntuado, que se aparta del concepto neodarwiniano de que el cambio
+   evolutivo es gradual y continuo. La hipótesis afirma que la historia de
+   muchas estirpes de fósiles muestra largos períodos de poco cambio
+   morfológico (llamados estasis) alternados con periodos breves de
+   cambios rápidos asociados a fenómenos de especiación.
+
+   Desde los años sesenta del siglo XX, el interés en la cuestión de la
+   evolución de la especie humana tomó nuevo impulso. El hallazgo de
+   nuevos especímenes fósiles, al comienzo en África, pero después en Asia
+   (Flores, Denisova) o Europa (Atapuerca); el estudio del ADN
+   mitocondrial, lo que permite la datación de las ramas más recientes del
+   árbol familiar humano; y la valoración estadística de la variación
+   genética, que permite evaluar la interacción entre rasgos biológicos y
+   culturales en las poblaciones humanas debida a las migraciones, han
+   conseguido y consiguen portadas de prensa, popular y científica.
+
+   Sobre el autor: César Tomé López es divulgador científico y editor de
+   Mapping Ignorance
+
+Compartir
+
+     *
+     *
+     *
+     *
+
+   Por César Tomé
+
+   17 comentarios
+   Publicado el 11 de febrero, 2014 en
+     * Experientia docet
+
+   De la evolución
+
+Suscribirme
+
+   Suscríbete a nuestro boletín de noticias diario para recibir artículos
+   y otras actualizaciones.
+   ____________________ (BUTTON) Suscribirme (BUTTON) Cargando...
+
+¡Gracias!
+
+   Te has suscrito correctamente al boletín de noticias.
+
+Últimos artículos
+
+    1. Cómo decidir la mejor opción ante un dilema moral
+    2. STEAM e indagación en el aprendizaje de Ciencias Experimentales
+    3. Los robotaxis hacen trampas: la conducción autónoma podría no
+       serlo tanto
+    4. Al borde de la extinción en el Pleistoceno
+    5. El toro, la botella de Klein y el plano proyectivo real (III)
+
+Próximos eventos
+
+Alimentos sin gluten: toda la verdad y nada más que la verdad
+
+   La intolerancia al gluten es una afección que dura toda la vida y que,
+   a día de hoy, afecta al 1% de la población. Además, la mejora en los
+   protocolos de detección ha hecho que más personas sean conscientes de
+   su intolerancia a la proteína. Como consecuencia, el interés sobre…
+   13 de diciembre, 2023
+   Biblioteca Bidebarrieta
+   Calle Bidebarrieta, 4, Bilbao
+
+Artículos relacionados
+
+     *
+
+La evolución de la vida inteligente: ¿Azar o necesidad?
+       ¿Es inevitable la evolución de la vida inteligente? ¿O es
+       improbable? Hoy los biólogos tienen claro que la concepción popular
+       […]
+     *
+
+Dani y Fiti sobre la teoría de la evolución
+       Hasta en las situaciones más insospechadas pueden surgir dudas
+       científicas, y si no, que se lo pregunten a Dani y […]
+     *
+
+Activa Tu Neurona – Evolución Humana
+       El director del Centro Nacional de Investigación sobre Evolución
+       Humana (CENIEH ) nos recibió en su despacho para hablar con […]
+
+12 comentarios
+
+     *
+
+Joseba 11 de febrero, 2014
+       Avatar de Joseba
+       Hola, César.
+       Me gustaría plantearte varias cuestiones relacionadas con el tema
+       (espero no excederme):
+       1. ¿En qué estado se encuentran, actualmente, los debates puestos
+       sobre la mesa por Kimura, Eldredge o Gould (sobre todo éste último,
+       el más polémico, creo yo)? ¿Hay algo «concluyente»?
+       2. ¿Consideras el llamado «darwinismo social» algo más cercano a la
+       ciencia o a la pseudociencia?
+       3. ¿Qué hay de la teoría del «apoyo mutuo» de Kropotkin? ¿Por qué
+       no se conoce, en general al menos, entre los científicos/biólogos,
+       siendo pionera de la sociobiología?
+       4. Hace tiempo (2009) publicaste un artículo* en el que, según unas
+       investigaciones, parecían ponerse en cuestión las bases de la
+       psicología evolucionista. ¿Cuál es tu intuición acerca de esta
+       «disciplina»?
+       Salud y gracias de antemano.
+       * «Las estrategias de emparejamiento de los hadza, ¿un nuevo
+       hachazo a la psicología evolucionista?»:
+       http://www.experientiadocet.com/2009/11/las-estrategias-de-empareja
+       miento-de.html
+   Responder
+          +
+
+César Tomé 11 de febrero, 2014
+            Avatar de César Tomé
+            Permíteme que sea muy sucinto
+            1 Neutralista: discutiéndose; equilibrio puntuado: parece
+            describir algo que existe pero sería, según sus críticos, algo
+            sólo aparente y restringido a un entorno, estando el conjunto
+            de la observación dentro de la ortodoxia neodarwinista.
+            2 El darwinismo social es, básicamente, una posición política
+            y, como tal, acientífica. La ciencia puede a lo sumo describir
+            cómo son las sociedades y al ser humano y sus orígenes, pero
+            no cómo deben ser ni organizarse las sociedades.
+            3 La idea del apoyo mutuo, que apareció por primera vez en un
+            libro llamado «La conquista del pan» y de forma más elaborada
+            en una serie de ensayos que se publicaron en una revista
+            literaria, corresponde a una posición política que emplea
+            elementos de la teoría de la evolución distintos a los del
+            darwinismo social. Ni uno ni otra son, como ya he dicho,
+            ciencia.
+            4 Me da la impresión de que los cimientos no son
+            suficientemente sólidos.
+        Responder
+               o
+
+Joseba 12 de febrero, 2014
+                 Avatar de Joseba
+                 Hola.
+                 Solamente quería puntualizar ciertas cosas sobre
+                 Kropotkin.
+                 Escribió un libro, «El apoyo mutuo: un factor en la
+                 evolución», basado en investigaciones en Siberia (él era
+                 geografo y fue a cartografiar varias zonas).
+                 Después, es cierto, se utiliza de una forma política el
+                 concepto de apoyo mutuo, pero la idea científica está ahí
+                 y dice que además de la lucha por la supervivencia,
+                 también se da la cooperación (apoyo mutuo).
+                 Si bien no es equiparable a una gran teoría científica, y
+                 además se usa con tintes políticos, en respuesta al
+                 darwinismo social, el propio concepto tiene un carácter
+                 científico, es una extensión de la «teoría» la evolución
+                 de Darwin.
+                 Como dije en el anterior comentario, con este concepto,
+                 Kropotkin es un antecesor de la sociobiología, de la que
+                 se dice que el padre es E. O. Wilson. De aquí la
+                 «defensa» que hacen del ruso, por ejemplo, Chomsky o
+                 Gould.
+             Responder
+     *
+
+jose 12 de febrero, 2014
+       Avatar de jose
+       Ameno resumen.
+       Yo le añadiría un párrafo sobre la evolución por simbiosis, creo
+       que es ampliamente aceptado sobre cómo se formaron las células
+       eucariotas.
+       También me gustaría saber si el autor no considera necesario una
+       nueva síntesis evolutiva en base a la gran cantidad de
+       descubrimientos de los últimos años, especialmente por ese nuevo
+       lamarkismo que sugiere la epigenética.
+       Saludos
+   Responder
+     *
+
+SOCRATES 12 de febrero, 2014
+       Avatar de SOCRATES
+       Hay que ser caradura y es una vergüenza para la humanidad para
+       alguien con un mínimo raciocinio, que se considera por tantos
+       cientificos la teoría de los monos mágicos y en genral de las
+       especies mágicas que se transforman en otras especies o se
+       modifican partes de su cuerpo solo porque a la especie en cuestion
+       le da la gana…hola, soy una jirafa, pero yo antes era un caballo
+       pero como no llegaba a los árboles para comer decidí un dia estirar
+       mi cuello hasta el infinito y mas allá hasta llegar a las copas de
+       los arboles para comer, podía haber estirado mágicamente mis
+       piernas pero la idea de que mi cuello fuera tan grande como el
+       resto de mi cuerpo me pareció más normal….
+   Responder
+          +
+
+estein 16 de abril, 2014
+            Avatar de estein
+            Tu sabiduria socrates es impresinante ¿De casualidad no te han
+            dado un Novel?
+        Responder
+     *
+
+J. Sanchez Sanchez 12 de febrero, 2014
+       Avatar de J. Sanchez Sanchez
+       Interesante artículo.
+       Y sí, tal como comenta josé, yo también echo en falta una
+       referencia a la simbiogénesis:
+       https://es.wikipedia.org/wiki/Simbiog%C3%A9nesis
+       y alguna mención a la controvertidaLynn Margulis, cuyas críticas a
+       ciertas partes de la teoría neodarwinista me parecen muy
+       esclarecedoras.
+   Responder
+     *
+
+Emilio 12 de febrero, 2014
+       Avatar de Emilio
+       Lo de la simbiogénesis… lo de la mitocondria y el cloroplasto está
+       claro, pero de ahí a lo qued escribe Margulis en «captando genomas»
+       va un trecho.
+   Responder
+     *
+
+Laure 12 de febrero, 2014
+       Avatar de Laure
+       Hola.
+       Un artículo muy interesante, César.
+       Estoy de acuerdo con José y J.Sánchez en que tal vez le haya
+       faltado integrar los últimos avances sobre simbiogénesis y
+       epigenética.
+       No entiendo el comentario de Sócrates. Si no estás de acuerdo con
+       una teoría simplemente tienes que exponer los argumentos, pero no
+       debes desacreditar a nadie por sus opiniones ni ridiculizar con tus
+       comentarios una teoría que fue la primera que apareció y que aportó
+       mucho a los estudios de Darwin como él mismo reconoció.
+       Mi opinión es que la teoría de Darwin es eso, una sólo una teoría,
+       y que ha ido cambiando y que con los nuevos descubrimientos en
+       biología, tendrá que seguir cambiando. Y que, inevitablemente
+       surgirán nuevas tendencias y se revisarán nuevas teorías como la de
+       Lamarck. En eso consiste la ciencia y hay muchos ejemplos de eso.
+       Pienso que la epigenética devolverá a Lamarck la parte del
+       «pastel»que le corresponde .
+       Un saludo.
+   Responder
+     *
+
+César Tomé 13 de febrero, 2014
+       Avatar de César Tomé
+       Simbiogénesis, epigenética, Margulis y demás.
+       Cualquiera que lea el texto y entienda de evolución y su historia,
+       echará en falta estas y otras muchísimas cosas (por citar sólo una,
+       a Wallace). Esta presentación histórica del concepto de evolución
+       es muy lineal y no pretende, ni mucho menos, agotar el tema del que
+       se pueden escribir libros no precisamente pequeños. La idea, dentro
+       de la filosofía general de la serie #De, es alimentar el afan de
+       exploración y descubrimiento y para ello son fundamentales los
+       comentarios. Los vuestros contribuyen sobremanera al objetivo y por
+       ello os estoy muy agradecido.
+   Responder
+     *
+
+MAC 13 de febrero, 2014
+       Avatar de MAC
+       Primero perdón por ser tan burro en materia de ciencia, pero me
+       tomo la libertad de escribir al entender que esto es un cuaderno de
+       divulgación.
+       Vaya por delante que me asumo y acepto la evolución como teoría que
+       explica cómo han evolucionado las especies; en todo caso quiero
+       utilizar el ejemplo de la girafa del compañero (entiendo que
+       nagacionista de la evolución) SÓCRATES; solo lo utilizo como
+       ejemplo, no porque comparta la negación.
+       ¿Hay una explicación para torpes de cómo la siguiente girafa
+       consigue aumentar su cuello? es decir, me parece obvio que a la
+       girafa le viene bien pero no sé cómo consigue ordenar a sus células
+       que evolucionen, es decir, no entiendo esa relación. Si lo
+       reducimos a nivel celular las células del cuello de la girafa no
+       deberían tener como objetivo reproducirse más o alinearse de tal
+       modo que sea el cuello lo que crezca, o que lo haga a lo alto y no
+       a lo ancho, bastante tienen con reproducirse. ¿Cómo se explica que
+       esas células entiendan que deben disponerse de esa manera y no de
+       otra?
+       Entiendo que no habrá una explicación sencilla pero no alcanzo a
+       ver como esas células sin conciencia se disponen de ese modo. Hasta
+       me parecería razonable que fuera un tema de ensayo y error
+       (evolución del más fuerte); las células mutan aleatoriamente y las
+       girafas con cuellos gordos o barrigas grandes mueren y se quedan
+       las de cuello largo. Pero si esto es así, habría restos de millones
+       de girafas distintas (que igual es así) hasta que se hubiera dado
+       la buena tal cual la vemos ahora. De todos modos si fuera esto
+       último más que evolución (en la que yo entiendo cierta
+       intencionalidad por sobrevivir) sería pura casualidad, es decir, no
+       sería el más fuerte quien sobrevive, sino quien ha tenido más
+       suerte en la mutación de sus células.
+       En fin, que me lío un poco.
+       Gracias por adelantado si alguien me ayuda,
+   Responder
+          +
+
+Saúl 18 de febrero, 2014
+            Avatar de Saúl
+            Nunca me ha gustado el ejemplo de las jirafas porque siempre
+            se ha asociado al Lamarckismo. Pero bueno, ahí va mi
+            interpretación del Neodarwinismo a este caso:
+            Dentro de las poblaciones de jirafas, siempre existe una
+            cierta variabilidad genética entre individuos (causada por
+            ejemplo por mutaciones como consecuencia del azar) que darían
+            lugar a fenotipos distintos. Asumimos que esta variabilidad
+            afecta también a los genes que controlan el desarrollo y el
+            crecimiento de los animales.
+            Por lo tanto, los distintos individuos de dicha población
+            poseen cuellos ligeramente diferentes, como consecuencia de
+            cambios genéticos, que son heredables. La selección natural
+            actúa favoreciendo la reproducción de los individuos con el
+            cuello más alto, ya que se alimentan más fácilmente. Esto hace
+            que sean esos individuos, cuyos genes producen cuellos más
+            largos, los que tengan descendencia, que hereda esas
+            características.
+            Este efecto a lo largo de muuuuuuchos años -> Evolución lenta
+            y gradual hacia una especie con el cuello muy largo.
+            Por cierto, hay que tener mucho cuidado cuando se habla de
+            evolución, no es correcto decir cosas como «¿Hay una
+            explicación para torpes de cómo la siguiente girafa consigue
+            aumentar su cuello?». La Jirafa no quiere aumentar su cuello,
+            ella no sabe que está evolucionando ni tiene capacidad para
+            hacerlo. Un individuo no evoluciona, lo hace la especie, o si
+            nos ponemos estupendos, las poblaciones.
+            Espero haberte ayudado, que alguien me corrija si me confundo
+            en algo 🙂
+        Responder
+               o
+
+MAC 20 de febrero, 2014
+                 Avatar de MAC
+                 Muy claro, muchas gracias!! tristemente determinista, eso
+                 sí 🙂
+             Responder
+     *
+
+Dani y Fiti sobre la teoría de la evolución | Dani y Fiti | Cuaderno de
+Cultura Científica 28 de febrero, 2014
+       […] Para saber más, puedes leer en el Cuaderno De la evolución […]
+     *
+
+Para entender la paleoantropología. 2ª parte: La evolución | Afán por saber 6
+de marzo, 2014
+       […] Anotación de César Tomé para el Cuaderno de Cultura Científica
+       sobre la evolución. […]
+     *
+
+Dani y Fiti. Capítulo 1 | Ciencia y Escepticismo | Mi Mesa Cojea 13 de
+agosto, 2014
+       […] acompañada de un artículo divulgativo que podrá leerse en blog
+       Cuaderno de Cultura Científica. Aquí tienes el primero, sobre la
+       […]
+     *
+
+Lo Mejor de la Semana (9-15 de febrero) | Hablando de Ciencia | Artículos 12
+de octubre, 2014
+       […] nuevo en el CCC. la entrada relativa a la evolución de la mano
+       de Experientia […]
+
+Deja una respuesta (BUTTON) Cancelar la respuesta
+
+   Tu dirección de correo electrónico no será publicada.Los campos
+   obligatorios están marcados con *
+
+   Comentario *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nombre * ____________________
+
+   E-mail * ____________________
+
+   Web ____________________
+
+   Publicar el comentario
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+Otros proyectos
+
+     * Zientzia Kaiera
+
+Asteon zientzia begi-bistan #463
+       Irati Diez Virto Asteon zientzia begi-bistan igandeetako gehigarria
+       da. Astean zehar sarean zientzia euskaraz jorratu duten artikuluak
+       biltzen ditugu. Begi-bistan […]
+     * Mujeres con Ciencia
+
+Sobreviviendo al lugar más frío de la Tierra
+       Nadia Frontier es bióloga marina. Su carrera investigadora se
+       centra en la ecología de la zona béntica. En este corto […]
+     * Mapping Ignorance
+
+A giant optomechanical spring effect in plasmonic nanocavities
+       Molecular vibrations couple to visible light only weakly, have
+       small mutual interactions, and hence are often ignored for
+       non-linear optics […]
+
+Información
+
+Páginas del sitio:
+
+     * Archivo
+     * Categorías
+     * Eventos
+     * Cátedra de Cultura Científica
+     * Contacto
+
+Síguenos:
+
+     *
+     *
+     *
+
+Un proyecto de:
+
+   Cátedra de Cultura Científica de la UPV/EHU Cátedra de Cultura
+   Científica de la UPV/EHU Euskampus Fundazioa Euskampus Fundazioa
+
+Con el apoyo de:
+
+   Eusko Jaurlaritza - Hezkuntza Saila Eusko Jaurlaritza - Hezkuntza Saila
+   Eusko Jaurlaritza - Lehendakaritza Eusko Jaurlaritza - Lehendakaritza
+
+   Blog de la Cátedra de Cultura Científica de la UPV/EHU — ISSN 2529-8984
+   — Editado en Bilbao
+
+   2011-2023 Cuaderno de Cultura Científica está bajo una licencia
+   Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0

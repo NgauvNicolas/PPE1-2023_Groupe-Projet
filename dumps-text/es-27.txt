@@ -1,229 +1,293 @@
-   #alternate alternate alternate Boletín BIREME/OPS/OMS » Feed Boletín
-   BIREME/OPS/OMS » Comments Feed Boletín BIREME/OPS/OMS » La evolución
-   tecnológica Comments Feed alternate alternate alternate
+   #alternate
 
-   Ir al contenido
+   Pasar al contenido principal
 
-     * Português
-     * English
+   [logo.svg]
+     * CEOE News
+          + Empresa
+          + Economía
+          + Internacional
+          + Laboral
+          + Acción social
+          + Industria y Medio ambiente
+          + Formación
+          + Fiscalidad
+          + Tecnología
+          + Turismo, cultura y deporte
+          + Unión Europea
+          + Opinión
+          + Últimas las noticias
+          + CEOE TV
+               o Vídeos
+               o Podcasts
+               o Fotogalerías
+               o Especiales
+     * Agenda
+     * Publicaciones
+     * Sala de Prensa
+          + Notas de prensa
+          + Presentaciones corporativas
+          + Biblioteca multimedia
+          + Contactos de prensa
+          + Toda la Sala de Prensa
+     * Conócenos
+          + La Confederación
+          + Áreas de trabajo
+          + Organización
+          + Fundación CEOE
+          + El portal de transparencia
+          + Trabaja con nosotros
+          + Contacto
+          + Toda la CEOE
 
-   Boletín BIREME/OPS/OMS
+   Select your language [es]
+   Ir
+     * Área de socios
+     * CEOE NET
+     * Asociados
+          + ¿Por qué asociarse?
+          + Miembros actuales
+          + Hazte miembro
+     * Iniciar sesión
 
-   MENUMENU
-     * Acerca del Boletín BIREME
-     * Todas las ediciones
-     * Inscribir
+   [ico-search.svg]
+   [logo.svg]
+     * CEOE News
+          + Empresa
+          + Economía
+          + Internacional
+          + Laboral
+          + Acción social
+          + Industria y Medio ambiente
+          + Formación
+          + Fiscalidad
+          + Tecnología
+          + Turismo, cultura y deporte
+          + Unión Europea
+          + Opinión
+          + Últimas las noticias
+          + CEOE TV
+               o Vídeos
+               o Podcasts
+               o Fotogalerías
+               o Especiales
+     * Agenda
+     * Publicaciones
+     * Sala de Prensa
+          + Notas de prensa
+          + Presentaciones corporativas
+          + Biblioteca multimedia
+          + Contactos de prensa
+          + Toda la Sala de Prensa
+     * Conócenos
+          + La Confederación
+          + Áreas de trabajo
+          + Organización
+          + Fundación CEOE
+          + El portal de transparencia
+          + Trabaja con nosotros
+          + Contacto
+          + Toda la CEOE
 
-   Buscar:
-   ____________________
-   (BUTTON) Búsqueda
+   Asociados
+     * Área de socios
+     * CEOE NET
+     * Asociados
+          + ¿Por qué asociarse?
+          + Miembros actuales
+          + Hazte miembro
+     * Iniciar sesión
 
-   HOME > Sin categoría > La evolución tecnológica
+     * Contacto
 
-   Boletín BIREME n°6: Número especial 50° aniversario
+     * [ico-twitter.svg]
+     * [ico-instagram.svg]
+     * [ico-linkedin.svg]
+     * [ico-youtube.svg]
+     * [ico-flickr.svg]
+
+   ©2020 Confederación Española de Organizaciones Empresariales
+     * Aviso legal
+     * Política de privacidad y Cookies
+
+     * Empresa
+     * Economía
+     * Internacional
+     * Laboral
+     * Acción social
+     * Industria y Medio ambiente
+     * Formación
+     * Fiscalidad
+     * Tecnología
+     * Turismo, cultura y deporte
+     * Unión Europea
+     * Opinión
+     * Últimas las noticias
+     * CEOE TV
+          + Vídeos
+          + Podcasts
+          + Fotogalerías
+          + Especiales
+
+   ______________________________
+   Buscar
+
+     * Inicio
+     * CEOE News
+     * Opinión
+     * La evolución tecnológica
+
+   Buscar
+   Buscar una noticia ______________________________
+   Tema [- Cualquiera -]
+   Fecha
+   Todo(s)
+   ______________________________
+   ______________________________
+   Etiquetas ____________________________________________________________
+   Buscar
+   Opinión
+   14 Ene 2020
 
 La evolución tecnológica
 
-   Publicado en 25 March, 2017
+   Todos somos conscientes de que el mundo en el que vivimos hoy no se
+   parece en nada al de hace diez o quince años. Y podemos afirmar, sin
+   temor a equivocarnos, que la evolución tecnológica ha sido determinante
+   para activar esa profunda transformación.
+   Antonio Garamendi
 
-   La cooperación técnica de BIREME sigue evolucionando con sucesivos
-   modelos de gestión de información y comunicación científica y con el
-   uso intensivo de las tecnologías de información (TI), a través del
-   desarrollo de productos y servicios innovadores alineados a los avances
-   y estándares internacionales y atenta a su misión de democratizar el
-   acceso, la publicación y el uso de la información, del conocimiento y
-   de la evidencia científica.
+   Antonio Garamendi
 
-   El primer periodo correspondiente a su creación, en 1967, hasta el
-   final de la década de 1970,estuvo basado en las funciones esenciales de
-   las bibliotecas médicas. El segundo periodo, que se extiende  hasta
-   mediados de la década de los 80, expande la cooperación para el control
-   bibliográfico y la indización de la literatura científica y técnica en
-   ciencias de la salud de América Latina y el Caribe (AL&C),
-   transformándose de Biblioteca Regional de Medicina en Centro
-   Latinoamericano y del Caribe de Información en Ciencias de la Salud. El
-   tercer periodo, que comprende fines de los años 80 e inicio de los 90,
-   representa la descentralización del control bibliográfico por medio del
-   desarrollo del Sistema Latinoamericano y del Caribe de Información en
-   Ciencias de la Salud, formado por una institución coordinadora nacional
-   en cada país de AL&C, fortaleciendo la base de datos bibliográficos
-   LILACS. El cuarto periodo empezó a fines de los años 90 con la adopción
-   de la Internet como plataforma de producción de las fuentes de
-   información científica y técnica en salud, cuyo marco principal fue el
-   lanzamiento de la Biblioteca Virtual en Salud (BVS) en 1998, con la
-   Declaración de San José, Costa Rica, Rumbo a la Biblioteca Virtual en
-   Salud, aprobada durante el 4º Congreso Regional de Información en
-   Ciencias de la Salud (CRICS4)[1].
+   Presidente de la CEOE
 
-   Estos periodos también son marcados por la evolución de la TI y la
-   forma como BIREME la adoptó para perfeccionar su trabajo y ampliar sus
-   funciones.
+   Actualmente, vivimos en un estado de disrupción tecnológica permanente
+   sin precedentes, donde las tecnologías digitales tienen un efecto
+   transversal, pues pueden afectar a toda la economía, como lo hicieron
+   en su día la máquina de vapor o la electricidad.
 
-   Algunos marcos históricos se presentan abajo, demostrando el empleo de
-   la tecnología por BIREME en el ejercicio de su cooperación técnica en
-   estos 50 años:
-     * En 1972, BIREME ingresa al mundo de la información electrónica con
-       el uso de una terminal Olivetti, operando a través del Satélite
-       Intelsat con la NLM por el sistema MEDLINE (antiguo MEDLARS). Este
-       sistema actuaba con un acervo de 2.300 revistas, localizadas en 180
-       bibliotecas médicas que operaban en Estados Unidos, nueve en Canadá
-       y en Inglaterra y una en Francia;
-     * En 1974, el sistema comenzó a funcionar on-line, con un banco de
-       datos del sistema MEDLINE instalado en una computadora IBM en el
-       denominado en la época IEA (Instituto de Energía Atómica de la
-       Universidad de São Paulo) y terminales adquiridas por el PNUD
-       (Programa de las Naciones Unidas para el Desarrollo). El sistema
-       pasa a ser operado también en Minas Gerais, Bahía, Espírito Santo y
-       Pernambuco en agosto de 1975, conectados a la misma computadora;
-     * En 1977, con la llegada de una minicomputadora, BIREME empieza a
-       desarrollar sistemas de automatización de biblioteca, del IMLA
-       (Index Medicus Latinoamericano) – precursor de LILACS (Literatura
-       Latinoamericana y del Caribe en Ciencias de la Salud), y del RNPT
-       (Registro Nacional de Patología Tumoral) – sistema de registro de
-       diagnósticos de cáncer realizados por laboratorios de todo el
-       territorio nacional;
-     * A mediados de la década de los 80, como menciona el ex-director de
-       BIREME, Adalberto O. Tardelli, “BIREME se benefició con el avance
-       de las tecnologías de información, adoptando la plataforma MINISIS
-       del IDRC (International Development and Research Centre, Canadá)
-       para diseminar centralizadamente la información de LILACS y
-       MEDLINE. El empleo de microcomputadoras y de la plataforma CDS/ISIS
-       de la UNESCO permitió tanto la entrada de datos bibliográficos
-       descentralizada de la base de datos regional LILACS y del catálogo
-       colectivo SeCS, como también la diseminación de información por
-       medio de LILACS CD-ROM. Con el proyecto y el desarrollo propio de
-       la Interfaz CISIS, también logró diseminar la base de datos
-       internacional MEDLINE en CD-ROM”;
-     * En 1990, como escribió el ex-director de BIREME, Abel L. Packer, en
-       la publicación CRB8 Boletin, Ene-Mar de 1990, “… el CD-ROM es el
-       medio ideal y revolucionario para diseminar informaciones. Ello se
-       demuestra por el éxito del proyecto LILACS/CD-ROM. Con cerca de 160
-       lectores instalados en centros de la red, la Organización
-       Panamericana de la Salud rompió las barreras económicas y
-       tecnológicas que impedían que la comunidad de profesionales tuviera
-       acceso rápido, eficiente y barato a la literatura generada en la
-       región y fuera de la misma. LILACS/CD-ROM es la más completa y
-       actualizada base de datos en el área de la salud gestionada por
-       BIREME…”.
+   Pero, la evolución tecnológica no solo incide en la economía, sino que
+   afecta a casi cualquier actividad del ser humano, condicionando nuestra
+   manera de trabajar, de vivir el ocio, el deporte, las relaciones
+   sociales, las gestiones administrativas, el comercio, el transporte, el
+   turismo, etc. En definitiva, estamos presenciando una verdadera
+   revolución cuyo proceso es imparable, irreversible y que nos afecta a
+   todos: ciudadanos, empresas y Administraciones Públicas.
 
-   evolucao-tecnologica
+   En este contexto, podemos afirmar que la transformación digital y la
+   innovación son dos factores determinantes para la competitividad de la
+   economía, e imprescindibles para los procesos de internacionalización
+   de las empresas.
 
-   Con el surgimiento y consolidación de la Internet como medio
-   predominante de información y comunicación a partir de mediados de los
-   años 90, BIREME sigue perfeccionando el desarrollo de los sistemas de
-   información con el uso de estándares internacionales y de software
-   libre y abierto, que pasó a ser considerado una directiva fundamental
-   para expandir las capacidades de gestión, búsqueda, recuperación y uso
-   de información en salud en los países de AL&C, reduciendo barreras
-   económicas, tecnológicas y de capacidades humanas y ampliando las
-   posibilidades de reutilización, colaboración e innovación. En 2005,
-   durante la 4ª Reunión de Coordinación Regional de la BVS, en las
-   discusiones del grupo de trabajo “Tecnologías de Información para el
-   Acceso Equitativo a la Información”[2], se recomendó que BIREME
-   promoviera una Red de Desarrolladores (RedDes) de tecnologías de
-   información, con el objetivo de apoyar los proyectos regionales
-   coordinados por ella, la interoperabilidad entre sus fuentes y flujos
-   de información y la accesibilidad de sus interfaces. En 2017, la RedDes
-   cuenta con más de 400 miembros registrados en su mailing list y ya
-   realizó 3 encuentros regionales (Cuba 2007[3], Brasil 2008 [4] y EE.UU.
-   2012[5]), con una amplia presentación, discusión, desarrollo y adopción
-   de metodologías y tecnologías alineadas al estado del arte
-   internacional.
+   Por este motivo, es muy importante liderar el proceso de
+   digitalización, ya que, en caso contrario, no seremos competitivos.
+   España debe aspirar a situarse entre los países que lideran estos
+   procesos en Europa, sobre todo, si tenemos en consideración que el
+   Viejo Continente ha perdido protagonismo en este ámbito respecto a
+   Estados Unidos y el eje Asia- Pacífico, quedando como tercer actor en
+   el panorama internacional.
 
-   Los últimos quatro años, BIREME realizó esfuerzos para actualizar las
-   soluciones tecnológicas utilizadas en su cooperación técnica, adoptando
-   tecnologías abiertas, modernas y de relevancia mundial en
-   almacenamiento y recuperación de datos, sistemas de gestión de
-   contenidos, desarrollo web y calidad y visualización de datos. Con su
-   red de centros cooperantes viene promoviendo un cambio de paradigma,
-   que sigue la tendencia de software como servicio (SaS). Por ejemplo,
-   para cooperar con LILACS, ya no es necesario instalar y configurar una
-   aplicación y mantenerla localmente para catalogación e indización.
-   Ahora este trabajo puede hacerse directamente por un servicio online,
-   disponible en Internet y hospedado en BIREME.
+   El indicador que mide el grado de digitalización de los diferentes
+   países europeos (DESI) nos sitúa en una posición intermedia, y lo mismo
+   ocurre a nivel mundial; algo a todas luces insuficiente si queremos
+   tener una economía sólida, competitiva y con vocación internacional.
 
-   Con las nuevas tendencias y expresivos avances relacionados al big
-   data, Internet de las cosas, ciencia de datos, computación cognitiva,
-   inteligencia artificial, aprendizaje de máquina, realidad virtual y
-   aumentada, entre otros, nuevos caminos de oportunidades y desafíos se
-   abren a BIREME, tal vez señalando su próximo periodo.
+   En lo que se refiere a la Investigación y el Desarrollo, tampoco
+   alcanzamos los niveles que por tamaño e importancia corresponderían a
+   nuestro país, con cifras de gasto en I+D como porcentaje del PIB muy
+   por debajo de la media europea (1,2% frente al 2%).  Lo mismo ocurre en
+   innovación, donde España se sitúa en el grupo de países que la Comisión
+   Europea define como innovadores moderados.
 
+   Sin embargo, la preocupación no debe ser dónde nos encontramos ahora,
+   sino dónde estaremos en el futuro.
 
-   Referencias
+   Dada la situación actual, es imprescindible actuar en dos niveles. Por
+   un lado, creando las condiciones necesarias que permitan a nuestras
+   empresas realizar ese esfuerzo extra que nos sitúe en el grupo de
+   países que lidera este proceso.
 
-   [1]http://www.paho.org/bireme/index.php?option=com_content&view=article
-   &id=33:historia&Itemid=153
+   Por otra parte, sensibilizando a nuestro tejido productivo sobre cuánto
+   nos estamos jugando con la digitalización y la innovación (el “ser o no
+   ser” en el futuro), especialmente en el ámbito de las Pymes.
 
-   [2]http://bvs4.icml9.org/gt/ti/presentation.php
+   Para conseguir que España ocupe el lugar que queremos y entendemos le
+   corresponde, es fundamental que se ponga en marcha una Estrategia
+   Digital a nivel país, algo que no tenemos desde el año 2013.
 
-   [3]http://www.eventos.bvsalud.org/EDRedes1/
+   Conscientes de esta necesidad, en CEOE hemos elaborado el “Plan Digital
+   2025”, que pretende ser una hoja de ruta para la digitalización de la
+   sociedad española y que se asienta sobre tres pilares básicos:
+   formación, emprendimiento e innovación.
 
-   [4]http://bvs5.crics8.org/agendas/bvs5_desenvolvedores/presentation.php
-   ?lang=pt
+   En conclusión, la apuesta de los empresarios españoles por la
+   digitalización y por la innovación es firme y decidida, por entender
+   que es la manera de mejorar la competitividad de nuestra economía y de
+   impulsar los procesos de internacionalización de nuestras empresas. En
+   definitiva, la mejor manera de seguir generando progreso y bienestar
+   para la sociedad española.
 
-   [5]http://reddes.bvsalud.org/reddes3/
+Actualidad relacionada
 
-Noticias relacionadas
+   Opinión
+   El lince económico, el turismo
 
-    1. Contribuciones de los conferencistas en los ejes temáticos del
-       CRICS10 y la Agenda 2030
-    2. LILACS: trayectoria de compromiso e innovación para el acceso a la
-       información científica y técnica en salud de América Latina y el
-       Caribe
-    3. LEGISALUD: lanzada una nueva versión de la plataforma en acceso
-       abierto a la legislación en salud y Covid-19 de Argentina
+   Estamos cerrando el verano 2023: la temporada alta de la actividad
+   turística. Un año que, más allá de sus cifras, no ha estado exento de
+   sobresaltos sociales políticos, medio ambientales, y económicos a nivel
+   nacional e internacional y, siempre, con la industria del turismo en el
+   punto de mira en relación con todos ellos.
+   18 Sep 2023
+   Opinión
+   Gente normal: el artista y el empresario
 
-2 Comentarios para "La evolución tecnológica"
+   El presidente de CEOE-CEPYME Cantabria y la directora de Turismo,
+   Cultura y Deporte de CEOE reflexionaron en 'Tiempo de Arte' en
+   Santander sobre las similitudes entre la creación artística y el
+   desempeño empresarial.
+   07 Ago 2023
+   Opinión
+   La competitividad, eje de la acción empresarial
 
-     *
+   El secretario general de CEOE reflexiona sobre los desafíos de las
+   empresas de cara a la Presidencia española del Consejo de la UE
+   30 Mayo 2023
+   Opinión
+   Las empresas españolas, en un año crucial
 
-Jorge Santana Álvarez en 14 April, 2017 a 2:24 am
-       Pienso que se debe continuar progresando para que la divulgación
-       científica se mantenga al mismo nivel de las nuevas tecnologías..
-       Respuesta
-     *
+   Este año 2023 se presenta como un ejercicio crucial para la economía
+   mundial, en general, y para la española y las empresas de nuestro país,
+   en particular.
+   03 Mar 2023
 
-Odalys Esteban Quevedo en 29 April, 2017 a 4:32 pm
-       FELICIDADES EN EL ANIVERSARIO 50 DE BIREME DESDE LA BIBLIOTECA
-       VIRTUAL EN SALUD (BVS) LA HABANA, FACULTAD DE MEDICINA ENRIQUE
-       CABRERA.
-       La gestión de información y la divulgación científica tiene el reto
-       de seguir buscando usar las nuevas tecnologías en beneficio de la
-       comunidad de profesionales.
-       Respuesta
+Contacto
 
-Leave a Reply Cancel reply
+   Diego de León, 50 28006 Madrid
+   Tel. 915 663 400
+   Email. ceoe@ceoe.es
+   CIF- G28496636
+     * Todas las sedes
+     * Contacto
 
-   Your email address will not be published. Required fields are marked *
-   Comentario *
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   Nombre * ______________________________
-   E-mail * ______________________________
+Explora CEOE
 
-   [ ] Save my name, email, and website in this browser for the next time
-   I comment.
+     * CEOE News
+     * Agenda
+     * Publicaciones
+     * Sala de prensa
+     * Conócenos
+     * Canal Ético
 
-   Post Comment
+Alertas CEOE
 
+     * Suscríbete a la newsletter
 
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
+     * [ico-twitter.svg]
+     * [ico-instagram.svg]
+     * [ico-linkedin.svg]
+     * [ico-youtube.svg]
+     * [ico-flickr.svg]
 
-   logo BIREME
-
-     * Facebook
-     * Twitter
-     * Youtube
+   ©2020 Confederación Española de Organizaciones Empresariales
+     * Aviso legal
+     * Política de privacidad y Cookies

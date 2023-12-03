@@ -1,386 +1,240 @@
-    #alternate alternate alternate
+   #RSS 2.0
 
-   Saltar al contenido
+   Definición.de Buscar
 
-   ______________________________
-   [Este sitio web]
-   Buscar
+   En Antropología / Biología / Historia
 
-   (BUTTON) Toggle navigation [logoSec.png]
-   (BUTTON) ES
-     * ES
-     * EU
+   Escuchar
 
-   [logo_hiru.png]
-     * Temas de estudio
-          + Áreas de estudio
+   Definición de
+
+Evolución
+
+   El concepto de evolución proviene del término latino evolutio y hace
+   referencia al verbo evolucionar y a sus efectos. Esta acción está
+   vinculada con un cambio de estado o a un despliegue o desenvolvimiento
+   y su resultado es un nuevo aspecto o forma del elemento en cuestión.
+
+   Podemos encontrar el término en frases como: «Tenemos que esperar por
+   la evolución del paciente en la etapa post-quirúrgica antes de
+   determinar los pasos a seguir», «El joven tenista colombiano ha
+   mostrado una gran evolución en su juego», «La evolución del negocio no
+   fue la que esperábamos y tuvimos que abandonar el proyecto».
+   Ser humano
+
+   La evolución biológica permite la subsistencia de los organismos más
+   aptos.
+
+   Temas del artículo
+     * Un proceso y un movimiento
+     * La evolución biológica
+     * La teoría de Darwin
+     * Evolución y creacionismo
+     * Recursos para la superviviencia
+     * El trabajo de Mendel para entender la evolución
+     * Árbol de temas relacionados
+
+Un proceso y un movimiento
+
+   Puede entenderse la evolución como un proceso que deben atravesar
+   algunas cosas y que consiste en el abandono de una etapa para pasar a
+   otra, ya sea de manera gradual o progresiva. Podemos ejemplificar esto
+   en el proceso de publicación de un libro, por citar un caso, donde
+   aparecen etapas sucesivas: una idea surge en la cabeza de un escritor,
+   el mismo comienza a escribir unos borradores, después pasa el texto en
+   limpio y finalmente da por terminado el trabajo de escritura. Llega
+   entonces el momento de buscar un editor para la publicación y
+   comercialización de la obra. A esta altura lo que queda de esa idea
+   surgida en el autor es un recuerdo vago que poco se parece al resultado
+   final.
+
+   Otra forma en la que puede comprenderse el término es como sinónimo de
+   movimiento, en cuanto a esa trayectoria curva que realizan los seres
+   humanos, los animales o algunos objetos. Es decir que analizando cada
+   una de las etapas de la vida de un individuo podría conocerse o
+   comprenderse la evolución por él alcanzada.
+
+La evolución biológica
+
+   Podemos hablar también de evolución biológica. Éste es un proceso a
+   través del cual las especies van modificándose a lo largo del tiempo
+   (modificaciones a medida que pasan las generaciones).
+
+   Esta evolución genera una alteración en la genética de una población
+   que podría derivar en la adaptación de la especie a un nuevo hábitat o
+   el surgimiento de una especie diferente.
+   Darwinismo
+
+   Charles Darwin es señalado como el padre de la teoría de la evolución.
+
+La teoría de Darwin
+
+   Al pensar en el término evolución el primer nombre que nos surge es
+   Charles Darwin, sin embargo es importante aclarar que no fue él el
+   primero en hablar de la cuestión evolutiva de las especies, ni siquiera
+   quien acuñó el termino. El mismo Charles mencionó a una decena de
+   autores y científicos que le habían precedido cuyos estudios eran
+   fundamentales para la clara explicación de esta teoría.
+
+   Entre estos investigadores se encontraba su abuelo Erasmus Darwin,
+   quien en sus libros «Zoonomia» y «Las leyes de la Vida Orgánica» hacía
+   un extensivo análisis sobre el tema. De todas formas, es necesario
+   señalar que el gran salto hacia la concepción de evolución en la que
+   hoy se basa la ciencia la dio Charles, con su teoría sobre la Selección
+   Natural.
+
+   Sigue en: Decena
+
+Evolución y creacionismo
+
+   Dentro de la teoría de la evolución existen dos líneas de pensamiento
+   bien marcadas. Una de ellas es la teoría creacionista, que se encuentra
+   basada en las directrices que la religión impuso a través de su
+   Génesis, donde la vida es posible gracias a la existencia de un dios y
+   es él quien decide qué especies nacen y cómo lo hacen y cuáles deben
+   morir.
+
+   La otra línea es la evolucionista que se inclinaba por afirmar que las
+   especies cambiaban con el tiempo y que de cada una dependía su
+   supervivencia; y las variaciones a lo largo del tiempo y el grado de
+   adaptación que cada una presentaba (forma en la que evolucionaban),
+   eran los elementos decisivos para dicha supervivencia.
+
+Recursos para la superviviencia
+
+   La teoría de la evolución de Darwin se caracterizó por imponer nuevos
+   patrones para analizar a la línea evolutiva de las especies. La suya
+   fue la primera explicación que pudo considerarse creíble donde los
+   seres más aptos para enfrentarse a las variaciones en el tiempo
+   conseguían sobrevivir y quienes perecían eran los que no conseguían
+   hacerlo. Las que lograban aclimatarse a dichos cambios eran especies
+   que mostrarían modificaciones generación tras generación, a fin de que
+   las futuras generaciones nacieran con las características necesarias
+   para aprovechar eficientemente los nuevos recursos.
+
+   En este punto se plantea una diferencia importante entre el pensamiento
+   de algunos evolucionistas como Lamarck y el propio Darwin. Los primeros
+   evolucionistas afirmaban que el motor del cambio de las especies era el
+   deseo de cambio, denominado Besoin. Por ejemplo, que las jirafas
+   tuvieran un cuello largo se debía a que habían deseado alcanzar las
+   copas de los árboles y esa necesidad o deseo había generado la
+   extensión de su cuello, característica que se transmitiría a los
+   descendientes (esta teoría no pudo ser probada y se descartó). Darwin,
+   en cambio, decía que la evolución tenía que ver con la adaptación a la
+   nueva realidad; en el caso de las jirafas, decía que eran las que tenía
+   el cuello ligeramente más largo las que tuvieron acceso al alimento, y
+   por esa razón fueron las que pudieron sobrevivir, alimentándose y
+   reproduciéndose con normalidad.
+
+   Más en: Copa
+
+El trabajo de Mendel para entender la evolución
+
+   Es necesario aclarar que cuando Darwin mostró su teoría todavía no se
+   tenía conocimiento de las leyes de la genética y la variación
+   hereditaria (trabajo realizado por Gregor Mendel), teorías que podrían
+   haberlo ayudado significativamente a probar sus estudios. Porque,
+   gracias a la genética podemos saber por ejemplo que el uso o desuso de
+   un miembro o la utilidad del mismo puede marcar importantes pautas en
+   la evolución genética de una especie.
+
+   Pese a ello, su teoría sobre la evolución se considera la forma más
+   clara y evidente para entender las etapas evolutivas de la vida sobre
+   nuestro planeta.
+   Continúa con "Entrevista" →
+   Llevate gratis el libro digital "Cómo aprender a estudiar" y suscríbete
+   a Definicion.de ↓
+   [1699924025.png]
+   ✔ Recibe el ebook en segundos ✔ 90 páginas con consejos y técnicas de
+   estudio ✔ Novedades semanales ____________________
+   Recibir el libro
+   (BUTTON) Cerrar
+   Cómo citar este artículo Publicado por Julián Pérez Porto y Ana Gardey.
+   Actualizado el 12 de septiembre de 2021. Evolución - Qué es, teoría,
+   definición y concepto. Disponible en https://definicion.de/evolucion/
+   Definiciones Relacionadas
+     * Teoría
+     * Origen
+     * Selección natural
+     * Teoría científica
+     * Darwinismo
+     * Pangénesis
+
+   Buscar otra definición ____________________ buscar
+
+   x
+   ____________________ Submit
+     * [ ] Ciencias Naturales
+          + Anatomía
+          + Astronomía
+          + Biología
+          + Fauna
+          + Física
+          + Flora
+          + Geología
+          + Matemáticas
+          + Química
+     * [ ] Ciencias Sociales
+          + Antropología
+          + Derecho
+          + Educación
+          + Filosofía
+          + Geografía
+          + Historia
+          + Sociología
+     * [ ] Cultura
+          + Arquitectura
           + Arte
-          + Humanidades y ciencias sociales
-          + Lengua y literatura
-          + Ciencias y tecnología
-          + Vivir mejor
-     * Formación
-          + Recursos de formación
-          + Hirubila: BUSCADOR de formación
-          + Cursos de Idiomas
-          + Cursos abiertos (MOOC)
-     * Hemeroteca
-          + Noticias
-          + Reportajes culturales
-          + Suscripción a noticias
-     * Recursos didácticos
-          + Centro de descargas
-          + Buscador de contenidos educativos
-          + Diccionarios
-          + Mediateca
-     * Contacto
-          + Contacte con nosotros
-     * Identifícate
+          + Diseño
+          + Lengua
+          + Literatura
+          + Mitología
+          + Música
+     * [ ] Sociedad
+          + Alimentación
+          + Deporte
+          + Ecología
+          + Economía
+          + Entretenimiento
+          + Espiritualidad
+          + Laboral
+          + Política
+          + Psicología
+          + Salud
+          + Tecnología
+          + Valores
+     * [ ] A-Z
+          + A
+          + B
+          + C
+          + D
+          + E
+          + F
+          + G
+          + H
+          + I
+          + J
+          + K
+          + L
+          + M
+          + N
+          + O
+          + P
+          + Q
+          + R
+          + S
+          + T
+          + U
+          + V
+          + W
+          + X
+          + Y
+          + Z
 
-   Bizitzaren sorrera. Eboluzioaren teoriaEl origen de la vida. Teoría de
-   la evolución
-
-     * Temas de estudio/
-     * Ciencias y tecnología/
-     * Biología/
-     * Biología: fundamentos/
-     * El origen de la vida. Teoría de la evolución/
-
-   Icon aside
-
-     * Áreas de estudio
-     * Arte
-     * Humanidades y ciencias sociales
-     * Lengua y literatura
-     * Ciencias y tecnología
-          + Biología
-               o Biología: fundamentos
-                    # El origen de la vida. Teoría de la evolución
-                    # Clasificación y filogenia de los seres vivos
-                    # Los niveles de organización de la vida
-               o Bioquímica
-               o La célula
-               o Reproducción y desarrollo
-               o Metabolismo
-               o Zoología
-               o Ecología
-          + Geología
-          + Física
-          + Matemáticas
-          + Química
-          + Tecnologías para la información y la comunicación
-          + Medios de comunicacion
-     * Vivir mejor
-
-     * Áreas de estudio
-     * Arte
-     * Humanidades y ciencias sociales
-     * Lengua y literatura
-     * Ciencias y tecnología
-          + Biología
-               o Biología: fundamentos
-                    # El origen de la vida. Teoría de la evolución
-                    # Clasificación y filogenia de los seres vivos
-                    # Los niveles de organización de la vida
-               o Bioquímica
-               o La célula
-               o Reproducción y desarrollo
-               o Metabolismo
-               o Zoología
-               o Ecología
-          + Geología
-          + Física
-          + Matemáticas
-          + Química
-          + Tecnologías para la información y la comunicación
-          + Medios de comunicacion
-     * Vivir mejor
-
-Más información
-
-   ¿Sabías que...?
-   Linneo
-   Extra
-   Hechos que sostienen la teoría de Darwin
-   Cuvier
-   Jirafa y evolución
-
-El origen de la vida. Teoría de la evolución
-
-   La vida se caracteriza por su diversidad, que se pone de manifiesto en
-   la multitud de formas, estructuras, tipos y funciones presentes en los
-   seres vivos. Al mismo tiempo, frente a esa enorme diversidad se aprecia
-   un criterio de uniformidad en los aspectos más fundamentales y básicos,
-   como son las reacciones químicas, los sistemas de reproducción, la
-   organización celular o los mecanismos genéticos. La teoría de la
-   evolución permite aunar estas dos características, mostrando a los
-   seres vivos como descendientes de una forma fundamental de vida.
-
-El fijismo y el evolucionismo
-
-     * El fijismo considera que las especies han permanecido invariables
-       desde la creación, negando un parentesco entre ellas. Los
-       científicos más destacados que apoyaron esta imagen inmovilista de
-       la naturaleza fueron Linneo y Cuvier.
-     * El evolucionismo considera la existencia de un proceso de evolución
-       mediante el cual los seres vivos se han ido diversificando a partir
-       de un antepasado. La teoría de la evolución constata el hecho de la
-       evolución, relata su historia e intenta explicar sus causas,
-       descifrando los mecanismos biológicos que actúan en la misma. Todos
-       los científicos aceptan hoy en día la teoría de la evolución; la
-       discusión, por tanto, no reside en si hay o no evolución, sino en
-       cómo se produce.
-
-El evolucionismo según Lamarck
-
-   La primera teoría evolucionista suficientemente elaborada fue
-   presentada por el francés Jean-Baptiste de Monet, caballero de Lamarck,
-   en 1809. Las principales ideas lamarquistas pueden resumirse en:
-     * El ambiente produce modificaciones de los caracteres: las
-       condiciones ambientales varían a lo largo del tiempo.
-     * La función crea el órgano: los nuevos hábitos permiten el
-       desarrollo de determinados órganos.
-     * Herencia de los caracteres adquiridos: estas modificaciones,
-       inducidas por el ambiente, son transferidas a la descendencia.
-
-   Lamarck, por tanto, creía que era la necesidad la que producía los
-   cambios evolutivos. Una vez que tenían lugar, dichos cambios serían
-   heredables.
-
-   La corriente lamarquista del siglo XX (neolamarquismo), intenta
-   conciliar los principios de la herencia de los caracteres adquiridos
-   con la genética: las mutaciones no se producen al azar, sino que están
-   relacionadas con los cambios producidos por el esfuerzo para adaptarse
-   al ambiente. Sin embargo, la mayoría de los científicos actuales
-   considera inviable que un carácter adquirido mediante el esfuerzo
-   individual pueda alterar el ADN y hacerse hereditario.
-
-Evolucionismo según Darwin
-
-   En 1859, el inglés Charles Darwin propuso una nueva teoría de la
-   evolución, recogida en su libro El origen de las especies. Un año antes
-   había publicado una serie de artículos junto a Alfred Wallace,
-   investigador que había llegado independientemente a las mismas
-   conclusiones que Darwin.
-
-   Los mecanismos evolutivos propuestos por Darwin se resumen en las
-   siguientes ideas:
-     * No todos los individuos de una especie son idénticos. Existe una
-       variabilidad de la descendencia que se transmite genéticamente.
-     * Entre los individuos hay una lucha por la existencia, y sólo
-       sobreviven aquellos cuyas variaciones los hacen más aptos
-       (supervivencia del más apto). De esta manera, las variaciones
-       favorables se preservan. Esta idea fue denominada selección
-       natural.
-     * La acumulación de diferencias adaptativas va produciendo el cambio
-       de unas especies a otras.
-
-   Esta teoría se formuló sin fundamentos genéticos que explicaran el
-   origen de la variabilidad y los mecanismos de transmisión hereditaria
-   de la misma. Los trabajos realizados por Mendel años antes sobre la
-   herencia habían pasado desapercibidos para la comunidad científica. Fue
-   a raíz del redescubrimiento de dichos trabajos cuando la teoría
-   darwinista sufrió ciertas modificaciones, fundamentadas en la
-   comprensión de la genética, dando lugar al neodarwinismo o teoría
-   sintética de la evolución.
-
-   La teoría sintética de la evolución integra la genética mendeliana y la
-   selección natural de Darwin, proponiendo además los siguientes
-   mecanismos:
-     * En las poblaciones existe una variabilidad genética, originada por
-       mutación y por los procesos de recombinación genética.
-     * La selección natural elimina a aquellos individuos que por su
-       información genética son menos aptos. Las características,
-       determinadas genéticamente, que tienen valor adaptativo son
-       seleccionadas y se transmiten a la generación siguiente.
-     * Las especies son conjuntos de poblaciones que poseen un fondo
-       genético común y que son capaces de reproducirse entre sí. El
-       conjunto de genes, con las nuevas combinaciones que pueden
-       producirse por mutación o recombinación, se ve sometido a la
-       selección natural y determina las características de las
-       poblaciones en cada momento, según las condiciones ambientales.
-
-   Enviar
-   Corregir
-   Derechos
-
-   Enviar la página por correo a
-   Nombre*: ____________________ Correo electrónico*: ____________________
-   Tu nombre*: ____________________ Tu correo*: ____________________
-   Código de seguridad*: ____________________ Texto de verificación*:
-   ____________________ Tu Comentario*: <
-   __________________________________________________
-   __________________________________________________
-   __________________________________________________
-   __________________________________________________
-   __________________________________________________
-   Enviar * Campos obligatorios
-
-   Revise los campos del formulario
-
-   Muchas gracias.
-   El artículo ha sido enviado correctamente. [BUTTON Input] (not
-   implemented)_______
-   cerrar ventana
-   ¡Ayúdanos a mejorar! Tu opinión es importante, por lo que agradecemos
-   que nos envíes tus opiniones y sugerencias a info@hiru.eus
-   Nombre: ____________________ Correo electrónico: ____________________
-   Código de seguridad*: ____________________ Texto de verificación*:
-   ____________________ Sugerencia:
-   __________________________________________________
-   __________________________________________________
-   __________________________________________________
-   __________________________________________________
-   __________________________________________________
-   Enviar * Campos obligatorios
-
-   Revise los campos del formulario
-   cerrar ventana
-
-
-   ¿Qué son los iconos de "Compartir"?
-
-   Todos los iconos apuntan a servicios web externos y ajenos a HIRU.com
-   que facilitan la gestión personal o comunitaria de la información.
-   Estos servicios permiten al usuario, por ejemplo, clasificar ,
-   compartir, valorar, comentar o conservar los contenidos que encuentra
-   en Internet.
-
-   ¿Para qué sirve cada uno?
-     * facebook
-       Facebook
-       Comparte con amigos y otros usuarios fotos, vídeos, noticias y
-       comentarios personales, controlando la privacidad de los mismos.
-
-     * eskup
-       Eskup
-       Conversa sobre los temas que te interesan y que proponen los
-       expertos. Todo ello en 280 caracteres con fotos y vídeos. Lee,
-       pregunta e infórmate.
-
-     * delicious
-       Twitter
-       Contacta y comparte con amigos, familiares y compañeros de trabajo
-       mensajes cortos (tweets) de no más de 140 caracteres.
-
-     * tuenti
-       Tuenti
-       Conéctate, comparte y comunícate con tus amigos, compañeros de
-       trabajo y familia.
-
-     * technorati
-       Google Buzz
-       Comparte tus novedades, fotos y vídeos con tus amigos e inicia
-       conversaciones sobre los temas que te interesan.
-
-     * meneame
-       Meneame
-       Sitio web que se sirve de la inteligencia colectiva para dar a
-       conocer noticias. Los usuarios registrados envían historias que los
-       demás usuarios del sitio pueden votar.
-
-
-
-   cerrar ventana
-
-   Derechos de reproducción de la obra
-
-          Los derechos de propiedad intelectual de la web hiru.eus y de
-          los distintos elementos en ella contenidos son titularidad del
-          Departamento de Educación, Universidades e Investigación del
-          Gobierno Vasco.
-
-          No obstante, se permite el uso de los contenidos de hiru.eus en
-          el ámbito educativo, siempre que se haga referencia y bajo las
-          condiciones de licencia Creative Commons CC-BY-NC-SA.
-          Para más información: descarga el PDF (969,4k) .
-
-          El Departamento de Educación, Universidades e Investigación del
-          Gobierno Vasco se reserva la facultad de efectuar, en cualquier
-          momento y sin necesidad de previo aviso, modificaciones y
-          actualizaciones sobre la información contenida en su web o en su
-          configuración o presentación.
-
-          El Departamento de Educación, Universidades e Investigación del
-          Gobierno Vasco no garantiza la inexistencia de errores en el
-          acceso a la web, en su contenido, ni que éste se encuentre
-          oportunamente actualizado, aunque desarrollará los esfuerzos
-          precisos para evitarlos y, en su caso, subsanarlos o
-          actualizarlos a la mayor brevedad posible.
-
-          Tanto el acceso a la web, como el uso que pueda hacerse de la
-          información contenida en el mismo son de la exclusiva
-          responsabilidad de quien lo realiza. El Departamento de
-          Educación, Universidades e Investigación del Gobierno Vasco no
-          responderá de ninguna consecuencia, daño o perjuicio que
-          pudieran derivarse de dicho acceso o uso de información, con
-          excepción de todas aquellas actuaciones que resulten de la
-          aplicación de las disposiciones legales a las que deba someterse
-          en el estricto ejercicio de sus competencias.
-
-          El Departamento de Educación, Universidades e Investigación del
-          Gobierno Vasco no asume responsabilidad alguna derivada de la
-          conexión o contenidos de los enlaces de terceros a los que se
-          hace referencia en la web.
-
-          La utilización no autorizada de la información contenida en esta
-          web, el uso indebido de la misma, así como los perjuicios y
-          quebrantos ocasionados en los derechos de propiedad intelectual
-          e industrial del Departamento de Educación, Universidades e
-          Investigación del Gobierno Vasco dará lugar al ejercicio de las
-          acciones que legalmente le correspondan a dicha Administración
-          y, en su caso, a las responsabilidades que de dicho ejercicio se
-          deriven.
-
-            Privacidad
-
-          Los datos aportados por la persona interesada se utilizarán, con
-          carácter único y exclusivo, para los fines previstos en el
-          procedimiento o actuación que se trate.
-
-          El órgano responsable del fichero donde se recogen dichos datos
-          es la Dirección de Aprendizaje Permanente del Departamento de
-          Educación, Universidades e Investigación del Gobierno Vasco,
-          ante quién podrán ejercerse los derechos de acceso,
-          rectificación, cancelación y oposición. Para tal fin contacta
-          con info@hiru.eus.
-
-   cerrar ventana
-     * Biología: fundamentos
-          + El origen de la vida. Teoría de la evolución
-          + Clasificación y filogenia de los seres vivos
-          + Bizitzaren antolamendu-mailak
-
-   Aviso legal - 2016 ©
-   Logo gobierno Pais Vasco
-   Logo gobierno Pais Vasco
-
-   Temas de estudio
-     * Áreas de estudio
-     * Arte
-     * Humanidades y ciencias sociales
-     * Lengua y literatura
-     * Ciencias y tecnología
-     * Vivir mejor
-
-   Formación
-     * Recursos de formación
-     * Hirubila: BUSCADOR de formación
-     * Cursos de Idiomas
-     * Cursos abiertos (MOOC)
-
-   Hemeroteca
-     * Noticias
-     * Reportajes culturales
-     * Suscripción a noticias
-
-   Recursos didácticos
-     * Centro de descargas
-     * Buscador de contenidos educativos
-     * Diccionarios
-     * Mediateca
-
-   Contacto
-     * Contacte con nosotros
-
-   Logo gobierno Pais Vasco
+   Copyright © 2008-2023 - Definicion.de
+   Queda prohibida la reproducción total o parcial de los contenidos de
+   esta web
+   Quiénes somos - Privacidad - Contacto
+     * Definición.de
+     * Copyright © 2008-2023
+     * WordPress
