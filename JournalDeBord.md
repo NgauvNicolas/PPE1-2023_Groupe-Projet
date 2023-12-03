@@ -54,3 +54,5 @@ Rapide présentation de iTrameur, de ses fonctionnalités et de ce qu'on peut fa
 03/12/2023 : [NGAUV Nicolas]
 
 Exercices sur iTrameur à faire pour la prochaine séance finis : cependant, il n'y a que le corpus en langue espagnol qui a été constitué, donc la préparation des données et l'utilisation de iTrameur concerne uniquement ce corpus pour l'instant.
+
+Modifications des scripts pour y inclure toutes les formes du mots (singulier, pluriel, minuscule, majuscule) et ce, dans toutes les langues ; ainsi que l'harmonisation des motifs du mot pour utiliser les données dumps et contextes sur iTrameur.
