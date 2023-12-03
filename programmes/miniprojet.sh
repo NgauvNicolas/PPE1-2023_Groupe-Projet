@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-# $1 est le chemin donné en argumant à la commande en ligne de commande
-# chemin=$1
-# chemin="../urls/fr.txt"
-
 # Le chemin vers le fichier source d'URLs : ex : ../URLs/es.txt
 chemin_urls=$1
 # Le fichier HTML qui va contenir le tableau des URLs : exemple, ici tab_fr.html
@@ -26,13 +22,13 @@ fi
 
 basename=$(basename -s .txt $chemin_urls)
 
-# Faut-il prendre en compte le pluriel du mot ? Oui
+# Faut-il prendre en compte le pluriel du mot ? Les différentes façons d'écrire le mot ? Oui
 if [[ $langue == 'fr' ]]; then
-	mot="([ÉEé]volutions?)"
+	mot="([ÉEé][Vv][Oo][Ll][Uu][Tt][Ii][Oo][Nn][Ss]?)"
 elif [[ $langue == 'en' ]]; then
-	mot="([Ee]volutions?)"
+	mot="([Ee][Vv][Oo][Ll][Uu][Tt][Ii][Oo][Nn][Ss]?)"
 elif [[ $langue == 'es' ]]; then
-	mot="([Ee]voluci[óo]ne?s?)"
+	mot="([Ee][Vv][Oo][Ll][Uu][Cc][Ii][ÓOóo][Nn][Ee]?[Ss]?)"
 fi
 # if [[ $langue == 'fr' ]]; then
 # 	  mot="([ÉEé]volution)"

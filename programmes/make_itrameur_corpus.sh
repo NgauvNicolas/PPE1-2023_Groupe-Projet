@@ -4,7 +4,7 @@
 	# ./make_itrameur_corpus.sh contextes es
 	# ./make_itrameur_corpus.sh dumps-text es
 
-# Ajouter le contenu d'un fichier dans un autre : 
+# Ajouter le contenu de tous les dumps ou contextes de toutes les dans un fichier dump.txt ou contexte.txt, en écrasant son contenu ou en le créant s'il n'existe pas : 
 	# cat ../itrameur/dump-*.txt > ../itrameur/dump.txt OU 
 	# cat ../itrameur/contexte-*.txt > ../itrameur/contexte.txt
 # dump.txt et contexte.txt représentant respectivement tous les dumps et les contextes de tous les fichiers des 3 langues
@@ -49,6 +49,16 @@ do
 	contenu=$(echo "$contenu" | sed -E "s/&/&amp;/g")
 	contenu=$(echo "$contenu" | sed -E "s/</&lt;/g")
 	contenu=$(echo "$contenu" | sed -E "s/>/&gt;/g")
+
+	# Il faut gérer les différents motifs rencontrés pour le mot qui nous intéresse (par exemple les majusculesn le pluriel, etc.)
+	if [[ $langue == 'en' ]]; then
+		contenu=$(echo "$contenu" | sed -E "s/\"?[Ee][Vv][Oo][Ll][Uu][Tt][Ii][Oo][Nn][Ss]?\"?/evolution/gI")
+	elif [[ $langue == 'fr' ]]; then
+		contenu=$(echo "$contenu" | sed -E "s/\"?[ÉEé][Vv][Oo][Ll][Uu][Tt][Ii][Oo][Nn][Ss]?\"?/évolution/gI")
+	elif [[ $langue == 'es' ]]; then
+		contenu=$(echo "$contenu" | sed -E "s/\"?[Ee][Vv][Oo][Ll][Uu][Cc][Ii][ÓOóo][Nn][Ee]?[Ss]?\"?/evolución/gI")
+	fi
+
 
 	if [[ $dossier == 'contextes' ]]; then
 		echo "$contenu" >> "../itrameur/contexte-$langue.txt"
