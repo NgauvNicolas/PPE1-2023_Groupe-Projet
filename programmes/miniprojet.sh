@@ -2,10 +2,13 @@
 
 # Le chemin vers le fichier source d'URLs : ex : ../URLs/es.txt
 chemin_urls=$1
-# Le fichier HTML qui va contenir le tableau des URLs : exemple, ici tab_fr.html
+# Le fichier HTML qui va contenir le tableau des URLs : exemple, ici tab_es.html
 fic_tab=$2
 # La langue choisie : fr, en, es (français, anglais ou espagnol)
 langue=$3
+
+# Un exemple d'utilisation serait donc : ./miniprojet.sh ../URLs/es.txt tab_es.html es
+
 
 if [ $# -ne 3 ]; then
 	echo "On attend 3 arguments exactement : veuillez donner un chemin valide vers le fichier texte source d'URLs, le nom du fichier HTML dans lequel stocker le tableau d'URLs, et la langue choisie"
@@ -101,23 +104,23 @@ do
 		charset=""
 	fi
 
-	echo "$aspiration" > "../aspirations/$basename-$lineno.html"
+	echo "$aspiration" > "../aspirations/$langue/$basename-$lineno.html"
 
-	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
+	echo "$dump" > "../dumps-text/$langue/$basename-$lineno.txt"
 
 	# L'option -o va afficher une occurence par ligne de résultat : il suffit juste de prendre la sortie et de compter le nombre de ligne
-	occurences=$(grep -E -i -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
+	occurences=$(grep -E -i -o $mot "../dumps-text/$langue/$basename-$lineno.txt" | wc -l)
 
 	# grep -C aussi pour le contexte (contexte : les lignes qui entourent le motif, le mot)
-	grep -E -i -A 2 -B 2 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
+	grep -E -i -A 2 -B 2 $mot "../dumps-text/$langue/$basename-$lineno.txt" > "../contextes/$langue/$basename-$lineno.txt" 
 
-	sh ./concordancier.sh $langue "../dumps-text/$basename-$lineno.txt" $mot > "../concordances/$basename-$lineno.html"
+	sh ./concordancier.sh $langue "../dumps-text/$langue/$basename-$lineno.txt" $mot > "../concordances/$langue/$basename-$lineno.html"
 		
 
 
 
 	# Les tabulations dans le echo sont là pour respecter l'indentation dans le fichier HTML qui stocke les URLs sous forme de tableau : pas obligatoires mais plus lisible avec
-	echo "					<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$occurences</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordance</a></td></tr>" >> "../tableaux/$fic_tab"
+	echo "					<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$langue/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$langue/$basename-$lineno.txt">text</a></td><td>$occurences</td><td><a href="../contextes/$langue/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$langue/$basename-$lineno.html">concordance</a></td></tr>" >> "../tableaux/$fic_tab"
 
 
 done < "$chemin_urls"

@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # Exemple d'execution : 
-	# ./make_itrameur_corpus.sh contextes es
-	# ./make_itrameur_corpus.sh dumps-text es
+	# ./make_itrameur_corpus.sh contextes/es es
+	# ./make_itrameur_corpus.sh dumps-text/es es
 
-# Ajouter le contenu de tous les dumps ou contextes de toutes les dans un fichier dump.txt ou contexte.txt, en écrasant son contenu ou en le créant s'il n'existe pas : 
+# Ajouter le contenu de tous les dumps ou contextes de toutes les langues dans un fichier dump.txt ou contexte.txt, en écrasant son contenu ou en le créant s'il n'existe pas : 
 	# cat ../itrameur/dump-*.txt > ../itrameur/dump.txt OU 
 	# cat ../itrameur/contexte-*.txt > ../itrameur/contexte.txt
 # dump.txt et contexte.txt représentant respectivement tous les dumps et les contextes de tous les fichiers des 3 langues
