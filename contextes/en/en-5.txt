@@ -1,0 +1,47 @@
+   #Evolution Devlog
+
+     * View all by KeiwanKeiwan
+--
+     * Related gamesRelated
+
+   Evolution
+
+Evolution
+
+   IFRAME:
+   https://html-classic.itch.zone/html/438808-627293/Evolution/index.html
+
+   Download Now
+--
+
+   Created by @keiwando
+   Source Code: https://github.com/keiwando/evolution
+   If you are an animator or artist, check out my new 2D animation iPad
+   app: ToonSquid
+--
+   Genre Simulation
+   Made with Unity
+   Tags artificial-intelligence, building, creatures, evolution,
+   evolutionary-algorithm, genetic-algorithm, machine-learning,
+   neural-network, Unity
+   Links Creature Gif Collection
+--
+   the minimum price of $2 USD. You will get access to the following
+   files:
+   Evolution - macOS 22 MB
+   Version 18
+   Evolution - Windows 25 MB
+   Version 19
+
+--
+     * 3.1 Update - Wings
+       Sep 18, 2022
+     * Evolution 3.0 - This is a big update!
+       Sep 20, 2019
+
+--
+   by Keiwan · 251 posts
+   34d
+   StickyEvolution Gif Collection
+   by Keiwan · 139 posts
+   256d

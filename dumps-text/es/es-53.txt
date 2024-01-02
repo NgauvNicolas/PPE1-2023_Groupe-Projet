@@ -1,0 +1,1648 @@
+
+     Contenido principal Ir al contenido principal
+
+   Logotipo Universidad de Navarra Logotipo Universidad de Navarra
+
+GRUPO CIENCIA, RAZÓN Y FE
+
+     * (BUTTON)
+     *
+     * (BUTTON) [BUTTON Input] (not implemented)_____
+     * ____________________ (BUTTON) Cerrar
+
+     * Recursos
+          +
+          + Origen del Universo
+          + Naturaleza y persona
+          + Evolución
+          + Ciencia y verdad
+          + Ciencia y religión
+          + Orden, complejidad y finalidad
+          + Bibliografía
+               o Origen del Universo
+               o Naturaleza y persona
+               o Evolución
+               o Ciencia y verdad
+               o Ciencia y religión
+               o Orden, complejidad y finalidad
+          + Enlaces
+          + Libros
+     * Multimedia
+          +
+          + Origen del universo
+          + Naturaleza y persona
+          + Evolución
+          + Ciencia y verdad
+          + Ciencia y religión
+          + Orden, complejidad y finalidad
+     * Lecciones interactivas
+          +
+          + El caso Galileo
+          + The Galileo affair
+          + Origen de la vida
+          + Origin of life
+          + El origen del hombre
+          + El problema mente-cerebro
+     * Lección Mariano Artigas
+          +
+          + Acerca de
+          + Sobre Mariano Artigas
+          + Lección 2021
+          + Lección 2019
+          + Lección 2017
+          + Lección 2015
+          + Lección 2013
+          + Lección 2011
+     * Consultas
+     * El grupo
+          +
+          + Presentación
+          + Concurso
+          + Proyectos
+          + Objetivos
+          + Equipo
+     *
+
+Menú de navegación
+
+   ____________________
+   Inicio
+
+   [BUTTON Input] (not implemented)_____ (BUTTON) Cerrar
+
+   ____________________________________________________________
+   (BUTTON)
+   [BUTTON Input] (not implemented)_____
+
+Ruta de navegación
+
+       Estás en:
+    1. Ciencia, Razón y Fe
+
+     Recursos
+
+     Evolución
+
+     Teoría de la Evolución
+
+Menú de navegación
+
+     * Origen del Universo
+
+     * Naturaleza y persona
+
+     * Evolución
+
+     * Ciencia y verdad
+
+     * Ciencia y religión
+
+     * Orden, complejidad y finalidad
+
+Interes_teoria-de-la-evolucion
+
+   Te puede interesar:
+     * Evolución
+     * Historia de la ciencia
+     * Darwin
+     * Darwinismo
+     * Biología
+     * Filosofía
+     * Finalidad
+
+Teoría de la Evolución
+
+Teoría de la Evolución
+
+   Autor: Santiago Collado González
+   Publicado en: Philosophica: Enciclopedia filosófica on line
+   http://www.philosophica.info/voces/evolucion/Evolucion.html
+
+   Índice
+    1. El inicio de la teoría de la evolución
+    2. La teoría de la evolución de Darwin/Wallace
+    3. Debate en torno a la teoría de Darwin
+    4. Los principios de la genética
+    5. La teoría sintética
+    6. Biología molecular y genética
+    7. Algunas cuestiones científicas debatidas en torno a la teoría de la
+       evolución
+         1. Seleccionismo frente a neutralismo
+         2. Puntuacionismo frente a gradualismo
+         3. Noción de especie
+         4. Importancia de la selección natural en la evolución
+         5. Más sabemos, más debates
+    8. Reflexión filosófica y teoría de la evolución
+         1. Teoría de la evolución y evolucionismo
+         2. Evolución y finalidad
+    9. Bibliografía
+
+   Volver al índice 1. El inicio de la teoría de la evolución
+
+   Durante el siglo XVIII un grupo de investigadores, que fueron llamados
+   naturalistas, consiguieron reunir una gran cantidad de información
+   sobre la fauna y la flora en muy diversas zonas de nuestro planeta. Un
+   problema que planteó la acumulación de tan notable volumen de
+   información fue su organización. La clasificación de los seres vivos se
+   realizó, en un primer momento, mediante amplias descripciones de la
+   morfología y procedencia de los distintos individuos encontrados. Este
+   tipo de descripciones no constituían una verdadera ayuda para conseguir
+   clasificaciones que fueran suficientemente unívocas [Velázquez 2007:
+   131-142].
+
+   El sistema ideado y desarrollado por Linneo (1707-1778) supuso una
+   importante mejora en la organización de la información disponible.
+   Consistió en proponer una serie de reglas para asignar a todos los
+   seres vivos conocidos una etiqueta de género y especie. Esta
+   clasificación, cuya primera edición fue publicada en 1735, se
+   llamó Sistema Naturae. Lógicamente, en ese momento, eran las
+   propiedades morfológicas de los distintos seres vivos las que permitían
+   asignar género y especie a un individuo concreto. Aunque no está exento
+   de arbitrariedades, el trabajo realizado por Linneo simplificó
+   enormemente la tarea de clasificar animales y plantas. En líneas
+   generales, la estructura arborescente que desarrolló sigue vigente en
+   nuestros días, a pesar de los cambios experimentados por la biología
+   desde entonces.
+
+   Para Linneo las especies identificadas constituían grupos de seres bien
+   diferenciados y sin ninguna relación de procedencia. El criterio de
+   parentesco, como hemos indicado, era meramente morfológico. Esta
+   perspectiva llamada fijista consideraba que cada una de las especies
+   estaba creada tal y como era, y sus individuos no experimentaban
+   cambios a lo largo del tiempo.
+
+   No obstante, la acumulación de datos proporcionados por los
+   naturalistas, y los avances experimentados en su organización,
+   propiciaron la adopción de otros enfoques bien diferentes al fijista.
+   Pronto se fue abriendo paso la idea de que unas especies provenían de
+   otras y que, por tanto, había que conseguir una clasificación que
+   reflejara las afinidades entre los distintos seres vivos desde otras
+   perspectivas: había que conseguir lo que se llamó una clasificación
+   natural.
+
+   Buffon (1707-1788) puso ya en entredicho el fijismo linneano pero,
+   propiamente, el primero en proponer una hipótesis sobre el modo en que
+   unas especies podían provenir de otras fue el francés Jean Baptiste de
+   Monet, caballero de Lamarck, conocido sencillamente como Lamarck
+   (1744-1829). En su Filosofía zoológica, escrita en 1809, expuso una
+   descripción sistemática de la evolución de los seres vivos.
+
+   Para Lamarck, las especies provienen unas de otras, de las más simples
+   a las más complejas. Los órganos de cada especie se desarrollarían como
+   consecuencia de la reacción y adaptación al ambiente. Los cambios por
+   tanto serían paulatinos y se producirían a lo largo de grandes periodos
+   de tiempo. Lamarck pensaba que el fijismo era absurdo porque los
+   animales no hubieran podido sobrevivir, sin evolucionar, a las
+   cambiantes condiciones climáticas que en algunos períodos de tiempo
+   fueron muy agresivas.
+
+   La originalidad de la propuesta de Lamarck consiste en defender que los
+   cambios se producen por medio de la adaptación al ambiente. Ciertos
+   órganos se refuerzan con el uso que el animal hace de ellos
+   condicionado por el ambiente y, por otra parte, otros órganos se
+   atrofian y acaban eliminándose por el desuso. Lamarck consideraba que
+   dichas modificaciones en los diversos órganos son trasmitidas por
+   herencia a los descendientes. Esto último es lo que se ha llamado
+   "herencia de los caracteres adquiridos". En realidad la idea que
+   Lamarck estaba defendiendo era una versión de "la función crea al
+   órgano". Una consecuencia importante de la propuesta lamarckiana era
+   que la transformación de los organismos debía ser necesaria, gradual,
+   ascendente y continua. Es decir, de los gusanos, por ejemplo, con el
+   tiempo llegaríamos a tener otra vez hombres.
+
+   Se puede decir, por tanto, que fue Lamarck el primero en formular una
+   hipótesis evolucionista en estricto sentido, aunque entonces se
+   reservaba la palabra evolución al desarrollo del embrión, y su
+   propuesta fuera denominada como transformista. A diferencia de la
+   propuesta de Darwin, el sujeto de la evolución Lamarckiana es el
+   individuo: es el individuo el que experimenta la transformación por uso
+   o desuso adaptativo y dicha transformación es la que después se
+   trasmite a su descendencia.
+
+   La propuesta de Lamarck, aunque cosechó muchas adhesiones y parecía
+   explicar de una manera natural el aumento de complejidad y la
+   diversidad observada en la naturaleza, también se encontró con la
+   oposición de científicos de la talla de Cuvier (1792-1832), profesor de
+   anatomía comparada, que empleando lo que Brentano llamó más tarde el
+   principio teleológico [Brentano 1979: 244], dio las pautas para deducir
+   unas formas animales a partir de otras del mismo animal. Estas pautas
+   han sido desarrolladas después por la paleontología moderna.
+
+   Ciertamente, en los seres vivos, en particular en los animales
+   superiores, se pueden observar ligeras modificaciones de algunos
+   órganos como consecuencia de su uso y, sobre todo, es más fácil de
+   constatar la atrofia de aquellos órganos que no se usan. Esto no
+   permite afirmar que la función crea el órgano, más bien se podría decir
+   que la funcionalidad del órgano puede verse reforzada por su uso. Lo
+   que la ciencia ha rechazado contundentemente hasta el momento es la
+   herencia de caracteres adquiridos. No se ha encontrado ni la evidencia
+   experimental ni ningún mecanismo por el que los individuos puedan
+   transmitir las supuestas mejoras adquiridas en el curso de su vida. Los
+   principios que rigen la transformación de los caracteres individuales,
+   que son hoy comúnmente aceptados por la ciencia, los establecieron por
+   vez primera Darwin y Wallace. Por otra parte, los principios que rigen
+   la trasmisión o herencia de dichos caracteres fueron establecidos en
+   primer lugar por Mendel.
+
+   Volver al índice 2. La teoría de la evolución de Darwin/Wallace
+
+   Como es bien conocido, Charles R. Darwin (1809-1882) participó como
+   naturalista en la expedición del Beagle por América del sur y el
+   Pacífico en el año 1831. El viaje que comenzó cuando él tenía sólo 22
+   años terminó cinco años más tarde. Durante ese período Darwin tuvo
+   tiempo para realizar muchas observaciones, compilar información y
+   reflexionar sobre los datos que iba recopilando y sobre algunos textos
+   como el que lleva el nombre de Principios de Geología de Charles Lyell,
+   donde encontró buenas síntesis de argumentos evolucionistas como los
+   defendidos por Lamarck. Todo esto le fue llevando a abrazar una
+   perspectiva transformista de la naturaleza. En los años sucesivos a su
+   viaje Darwin fue elaborando sus propias ideas y recogiendo nuevos datos
+   con los que realizar un trabajo en el que quería exponer, de una manera
+   ordenada, su visión de la naturaleza. Quizá uno de los textos que más
+   influjo ejerció en la elaboración de sus tesis fue el libro de Thomas
+   R. Malthus (1766-1834) publicado por primera vez en 1798: An Essay on
+   the Principle of Population. En este libro Malthus defendía la tesis de
+   que era necesaria la lucha por la supervivencia como consecuencia de
+   que la población tiende a crecer siguiendo una progresión geométrica
+   mientras que los alimentos lo hacen siguiendo una progresión
+   aritmética.
+
+   En el año 1858 Darwin recibió un paquete por correo enviado desde una
+   alejada isla del archipiélago Malayo, la actual Indonesia. El paquete
+   contenía un texto que resumía los resultados de la investigación
+   llevada a cabo por Alfred Russel Wallace (1823-1913). El escrito
+   contenía una extraordinaria exposición de "la teoría de la evolución
+   por selección natural". Su claridad expositiva hace que todavía hoy ese
+   texto conserve gran valor pedagógico. Darwin llevaba dos décadas
+   elaborando una teoría equivalente a la de ese escrito y estuvo a punto
+   de abandonar su proyecto al leer el trabajo. Fue precisamente Charles
+   Lyell y el botánico Joseph Dalton Hooker quienes intervinieron en favor
+   de los intereses de su amigo Darwin. El escrito de Wallace fue
+   publicado en los "Proceedings" de la prestigiosa Sociedad Linneana,
+   precedido de otra contribución de Darwin que contenía algunos
+   fragmentos de un ensayo de 1844 no publicado y una carta escrita al
+   botánico Asa Gray. Los escritos fueron publicados en agosto de 1858
+   salvando así el derecho de Darwin a reclamar la originalidad del
+   trabajo que llevaba preparando durante tanto tiempo y que todavía no
+   había visto la luz. Fue en el año siguiente, 1859, cuando Darwin
+   publicó los resultados del trabajo que había realizado durante los años
+   precedentes en un libro titulado "On the Origin of Species by Means of
+   Natural Selection". El éxito de este libro permite afirmar que fue en
+   este momento cuando nació la "teoría de la evolución por medio de la
+   selección natural".
+
+   La estructura de la teoría de la evolución por selección natural
+   [Lewontin 1970; Sarkar 2007] tal como Darwin y Wallace la expusieron en
+   sus escritos se apoya en tres puntos básicos:
+
+   1) Los descendientes heredan los caracteres de los progenitores de
+   generación en generación. Darwin, sin embargo, no conocía las leyes de
+   la herencia sobre las que se estaba trabajando precisamente en los años
+   en los que dio a conocer su teoría. Las leyes de la herencia que hoy
+   son aceptadas científicamente y que fueron descubiertas por Mendel no
+   se conocieron hasta el comienzo del siglo XX. Las explicaciones
+   propuestas por Darwin para la herencia de los caracteres resultaron
+   erróneas y fueron pronto rechazadas. Estas explicaciones, no obstante,
+   no formaban parte del contenido del "Origen de las especies".
+
+   2) En el proceso de la herencia ocurren variaciones espontáneas que son
+   por azar o ciegas. Se habla de variaciones por azar o ciegas en un
+   doble sentido. Por una parte no se pueden determinar sus causas. Por
+   otra parte, dichas variaciones no están orientadas a una mejor
+   adaptación del organismo al medio, es decir, no hay ninguna orientación
+   a priori en ellas. En la primera edición del "Origen de las especies"
+   Darwin rechazaba explícitamente la herencia de los caracteres
+   adquiridos defendida por Lamarck. Más tarde, sin embargo, matizó dicho
+   rechazo.
+
+   3) Existe reproducción diferenciada en los individuos de una población.
+   El motivo es doble: o bien algunos individuos poseen mayor fertilidad
+   que otros, o bien están mejor adaptados al medio. Mejor adaptación al
+   entorno se traducirá en una mayor supervivencia y, consiguientemente,
+   en una mayor descendencia.
+
+   El impacto de las ideas de Darwin/Wallace fue enorme. Muy poco después
+   de la publicación del "Origen de las especies", ya en la década de los
+   60, la evolución basada en la selección natural defendida por Darwin
+   era, en la práctica, universalmente aceptada. No obstante, muy pronto
+   empezaron a plantearse las primeras objeciones a su propuesta. Las
+   objeciones a partir de los 60 no iban dirigidas contra el hecho de que
+   hubiera evolución, es decir, que las diversas especies descendieran de
+   otras comunes y anteriores en el tiempo, sino que se dirigían
+   directamente contra lo que hacía original su propuesta, es decir, que
+   el motor de la evolución fuera las variaciones al azar y la selección
+   natural.
+
+   En relación con el desarrollo de la propuesta de Darwin en los años
+   sucesivos, y de las críticas que ha recibido hasta nuestros días, hay
+   que decir que Darwin prestó gran atención a la posibilidad de explicar
+   el desarrollo de estructuras complejas sobre la base de las variaciones
+   por azar y la selección natural como causa principal de dicho
+   desarrollo. De hecho, aunque para Darwin dicha teoría explicaba muchos
+   aspectos de la evolución de los seres vivos, incluido el origen de las
+   especies, esto no llegó a implicar que la evolución de los organismos
+   pudiera ser explicada únicamente por medio de la selección natural.
+   Darwin aceptaba la existencia de otros mecanismos causantes del cambio
+   evolutivo. Las razones que Darwin tenía entonces para mantener su
+   visión plural de las causas de la evolución eran, no obstante, muy
+   pobres o erróneas si consideramos las cosas desde la perspectiva
+   actual.
+
+   Darwin se enfrentó personalmente con buena parte de las objeciones que
+   se han puesto hasta nuestros días a su teoría de la evolución. Sus
+   puntos de vista fueron expuestos en sucesivas ediciones del "Origen de
+   las especies" [Darwin 2002: 183]. No solamente se centró en el problema
+   del origen y el incremento de la complejidad de los seres vivos, sino
+   también, por ejemplo, abordó problemas como el de la escasez de
+   registro fósil disponible de los supuestos seres vivos que debían haber
+   existido como consecuencia de una evolución gradual como la defendida
+   en su propuesta [Darwin 2002: 349].
+
+   Volver al índice 3. Debate en torno a la teoría de Darwin
+
+   El peso de las objeciones puestas a su teoría, junto con el
+   desconocimiento de las leyes de la genética llevaron a Darwin, después
+   de 1959, a restar importancia al mecanismo de la selección natural e
+   incluso a aceptar la existencia de mecanismos de tipo lamarkiano como
+   explicación de las transformaciones en los seres vivos.
+
+   Una de las principales objeciones a la teoría de Darwin en estos años
+   fue puesta por William Thomson (Lord Kelvin). Kelvin compartía con
+   Darwin un modo de entender la transmisión de los caracteres
+   hereditarios que le llevaba a concebir el proceso de evolución por
+   selección natural de una manera extraordinariamente lenta. No solamente
+   los cambios que servían de materia para la selección natural eran
+   diminutos y graduales sino que para transmitir los caracteres a la
+   descendencia sin ninguna perdida de variación era necesario que la
+   novedad apareciera en dos individuos y que estos se aparearan entre sí.
+   La probabilidad de que ocurrieran las cosas de esta manera era tan
+   pequeña que para poder explicar la evolución y variedad de la vida en
+   la Tierra tal como se presenta a nuestra experiencia era necesario que
+   el proceso hubiera durado billones de años.
+
+   El problema era que el tiempo estimado para la tierra era mucho menor.
+   Por entonces se pensaba que la energía que recibimos del Sol procedía
+   exclusivamente de la gravedad. Se podía calcular la masa aproximada del
+   Sol y la energía que emitía. Con estos presupuestos los cálculos de
+   Kelvin predecían para el Sol un tiempo de vida que no superaba unos
+   cientos de millones de años. Lógicamente la vida en la tierra no podía
+   exceder ese tiempo que era muy inferior al tiempo necesario estimado
+   para el desarrollo de la vida tal como la conocemos. La radioactividad,
+   verdadera fuente de la energía que recibimos del Sol, fue descubierta
+   en la década que comenzó en 1890. Estas consideraciones debieron
+   influir notablemente en los planteamientos de Darwin que, como hemos
+   señalado, quitó importancia en sucesivas ediciones del Origen de las
+   Especies a las variaciones ciegas y se la dio a otros mecanismos como
+   la herencia de caracteres adquiridos inducidos por el ambiente.
+
+   A pesar de admitir una pluralidad de mecanismos como motor de la
+   evolución, para Darwin había una continuidad evolutiva entre todas las
+   especies, incluida la humana. Sin embargo, Darwin no defendió que las
+   facultades superiores humanas fueran el resultado de la selección
+   natural. Puede decirse que Wallace era más estricto que Darwin en la
+   defensa del mecanismo de la selección natural. Su panseleccionismo le
+   llevaba a considerar a las variaciones aleatorias y a la selección
+   natural como la única fuerza de la evolución biológica. No obstante,
+   Wallace admitía el influjo de otra fuerza distinta, de carácter
+   "espiritual", cuando se trataba de explicar el origen de la vida, la
+   emergencia de la conciencia propia de los animales y, principalmente,
+   las facultades superiores humanas como, por ejemplo, su capacidad para
+   hacer matemáticas o sus habilidades artísticas. Para Wallace el mundo
+   de la materia estaba claramente subordinado a ese otro mundo del
+   espíritu en el que no encajaba como explicación la selección natural.
+   Wallace era más estricto en la defensa de la selección natural en la
+   evolución orgánica que Darwin, y también más neto en su defensa de un
+   ámbito "espiritual" para el que la selección natural no era una
+   explicación [Sarkar 2007: 31-32].
+
+   Otro biólogo muy importante en el siglo XIX fue el alemán August
+   Weismann (1834-1914). Weismann, también panseleccionista, rechazó
+   completamente la posibilidad admitida por Darwin de la existencia de
+   mecanismos de tipo lamarkiano. La distinción que estableció entre las
+   células germinales, aisladas de las influencias del entorno, y las
+   células somáticas, apunta hacía lo que sería más tarde el marco general
+   de la moderna teoría de la evolución.
+
+   A pesar del éxito inicial de la teoría de Darwin, y de los esfuerzos de
+   biólogos como Weismann por defender la selección natural y por restar
+   crédito al lamarkismo, en los años 90 se abre un período en el que el
+   mecanismo "variación ciega más selección" pierde popularidad a favor de
+   otros mecanismos de tipo lamarkianos o los que también podrían
+   encuadrarse dentro de la denominada ortogénesis (evolución con una
+   dirección determinada). Uno de los defensores del neolamarkismo de
+   estos años, Herbert Spencer, fue el que acuñó la expresión de
+   "supervivencia del más adaptado", que muchas veces se ha traducido como
+   la "supervivencia del más fuerte", y que ha ayudado tan poco en la
+   recta comprensión de la teoría propuesta por Darwin/Wallace.
+
+   Los motivos para que se produjera esa regresión de la propuesta
+   darwiniana son variados. Ya hemos mencionado las serias dificultades
+   que se derivaban de las consideraciones hechas por Kelvin. Los
+   argumentos probabilísticos no parecían dar apoyo a la teoría
+   inicialmente propuesta por Darwin. Fue creciendo un cierto escepticismo
+   acerca de la posibilidad de que la selección natural, por sí sola,
+   fuera capaz de explicar la aparición de la diversidad de las especies.
+   Este escepticismo estaba alimentado por el desconocimiento de los
+   mecanismos de la genética y, también, por la falta de datos
+   experimentales cuantitativos que apoyaran las tesis del "Origen de las
+   especies".
+
+   Por otra parte, ya en la filosofía clásica se habían formulado
+   argumentos que se basaban en la finalidad para defender la existencia
+   de un ser superior del que depende el mundo. Hablar de un mecanismo que
+   parecía robar la finalidad a la naturaleza suscitaba y sigue suscitando
+   los más vivos debates.
+
+   Los recelos con respecto a la nueva teoría de la evolución se
+   agudizaban cuando lo que se destacaba era la continuidad entre los
+   animales y el hombre. Darwin defendía explícitamente dicha continuidad
+   en un libro publicado en 1871 que llevaba por título "The Descent of
+   Man". La gradualidad en las facultades superiores humanas (inteligencia
+   y capacidad lingüística, por ejemplo) respecto a las animales sí
+   chocaba abiertamente, por ejemplo, con la doctrina sostenida por todas
+   las confesiones cristianas sobre el modo de ser peculiar del ser
+   humano. Darwin propuso una explicación selectiva para ciertas
+   cualidades morales que se encuentran en el hombre y también, a su
+   manera, en los animales: cooperación grupal, defensa en común,
+   transmisión de conocimientos de padres a hijos, por ejemplo. Pero las
+   dificultades para apoyar la evolución desde los animales de facultades
+   como la inteligencia o la capacidad lingüística humana obligó a Darwin
+   a recurrir al uso-herencia propio del lamarkismo y a otras hipótesis
+   que hoy son completamente insostenibles. A lo que no renunció en ningún
+   momento Darwin fue a la continuidad entre los animales y el hombre, lo
+   que supuso reducir las dimensiones culturales humanas a pura biología.
+
+   Tanto el neolamarkismo como la ortogénesis sirvieron en la última
+   década del siglo XIX como alternativa, o al menos como complemento, a
+   la teoría de Darwin y Wallace en el modo de explicar lo que, ya en esos
+   años, era admitido por los científicos como un hecho cierto e
+   incontrovertible: el hecho de la evolución o descendencia de todos los
+   seres vivos de antecesores comunes, incluyendo las características
+   orgánicas humanas. Lo que se cuestionaba en estos años, o incluso se
+   negaba rotundamente, era la capacidad de la selección natural, por sí
+   sola, para generar la diversidad de las especies y el grado de
+   complejidad alcanzado por los seres vivos.
+
+   El debate se situaría en un nuevo marco con el desarrollo experimentado
+   por la genética en los comienzos del siglo XX.
+
+   Volver al índice 4. Los principios de la genética
+
+   En el recorrido que estamos haciendo de las ideas que conforman la
+   moderna teoría de la evolución hemos examinado uno de los pilares que
+   sirven de soporte a dicha teoría: las ideas expuestas en el "Origen de
+   las especies" sobre las pequeñas variaciones y la selección natural. El
+   otro importante pilar son las ideas publicadas en 1866 por el monje
+   agustino nacido en Heinzendorf (entonces en territorio austriaco y
+   actualmente perteneciente a la republica Checa), Gregor Johann Mendel
+   (1822-1884). Aunque en su trabajo exponía los principios fundamentales
+   de la moderna genética, la importancia de su contenido no se reconoció
+   hasta principios del siglo XX.
+
+   Mendel obtuvo los principios de la herencia experimentando con
+   determinadas plantas de guisantes que mostraban una serie de caracteres
+   bien determinados: tamaño y color de la flor, forma y color de la
+   semilla, etc. Realizó cruces entre plantas con diferentes caracteres y
+   cuantificó e interpretó los resultados obtenidos en el cruce de varias
+   generaciones de plantas. Llegó a una serie de conclusiones que fueron
+   conocidas más tarde como las leyes de Mendel y que mantienen hoy su
+   vigencia.
+
+   Mendel distinguió entre carácter y factor. Los caracteres eran las
+   propiedades visibles que manifestaban las plantas: color, forma, etc.
+   La manifestación de los diversos "caracteres" dependía de un conjunto
+   de "factores" independientes y discretos que estaban presentes en las
+   plantas [Curtis-Barnes 1996: 207 y ss.].
+
+   La primera ley de Mendel lleva por nombre "principio de segregación" y
+   establece la hipótesis de que cada individuo lleva pares de factores
+   para cada carácter, y que los factores de cada pareja se segregan o
+   separan el uno del otro cuando se forman los gametos (las células
+   germinales o reproductoras). De esta manera, en la descendencia, al
+   unirse los gametos paterno y materno, un factor de la nueva pareja es
+   heredado de la planta padre y el otro de la planta madre. Más tarde,
+   estos factores fueron llamados genes, las unidades de la herencia, y
+   las variedades que presentaban dichos factores o genes se llamaron
+   alelos.
+
+   El resultado de los experimentos realizados por Mendel le llevó a
+   concluir que uno de los dos factores del par es siempre "dominante"
+   respecto del otro, que entonces se llama recesivo. Es decir, cuando en
+   la planta estaban presentes el factor dominante y el recesivo, el
+   carácter presentado por la planta era siempre el de la variante del
+   factor o alelo dominante.
+
+   La segunda ley de Mendel se llama "principio de transmisión
+   independiente". Dicho principio establece que cuando se forman los
+   gametos, los alelos de un gen se segregan independientemente de los
+   alelos de otro gen. Por tanto, las combinaciones posibles de los
+   distintos caracteres al cruzar diversas plantas debían ser también
+   independientes. Es decir, el carácter color, por ejemplo, no estaba
+   vinculado al carácter tamaño sino que en la reproducción se podían
+   combinar independientemente tamaños y colores.
+
+   Estas leyes eran la interpretación de la distribución de caracteres que
+   Mendel obtuvo al cruzar experimentalmente las distintas plantas de
+   guisantes. Dicha interpretación conseguía cuantificar perfectamente los
+   resultados de las proporciones de caracteres obtenidos en los
+   experimentos.
+
+   Para algunos, el esquema propuesto por Mendel constituía un logro para
+   la Biología incluso de mayor importancia que la misma propuesta de
+   Darwin. Se puede decir que dicho esquema introducía a la Biología en el
+   ámbito de la cuantificación, que constituye el ideal al que aspira toda
+   ciencia que pretende apoyarse en la experimentación.
+
+   Como hemos indicado, el trabajo de Mendel paso desapercibido hasta que
+   en el año 1900 fue redescubierto simultáneamente por tres botánicos.
+   Los tres reconocieron la propuesta de Mendel como predecesora de sus
+   propios trabajos. En el comienzo de siglo el zoólogo William Bateson
+   (1861-1926) se erigió como el mayor defensor de las leyes de Mendel.
+   Bateson protagonizó una nueva polémica que le enfrentó a evolucionistas
+   darwinianos del momento como Karl Pearson y, en especial, al zoólogo
+   Walter Frank Raphael Weldon (1860-1906).
+
+   Bateson pensaba que se ajustaba más al descubrimiento de Mendel que las
+   variaciones que daban lugar a la evolución fueran discontinuas y no
+   pequeñas variaciones como hipotizaba la teoría darwinista. De hecho no
+   creía que la evolución tuviera lugar siguiendo el esquema presentado
+   por Darwin. Por otro lado Pearson y Weldon pensaban que las leyes de
+   Mendel sólo funcionaban en casos muy excepcionales. También rechazaron
+   la distinción entre carácter y factor mendeliano y formularon un
+   conjunto de leyes que omitían esta distinción y se basaban sólo en los
+   caracteres externos presentados por los individuos. Weldon intentó la
+   construcción de una teoría estadística de la evolución que se ajustara
+   a las ideas de Darwin. El enfrentamiento entre Bateson y Weldon terminó
+   con la muerte de Weldon en 1906, pero no acabó la disputa entre los
+   mendelianos y los llamados "biometristas". Los primeros destacaban, en
+   contra de la teoría de Darwin, la importancia de la discontinuidad en
+   los cambios transmitidos por herencia. Los segundos eran fieles a la
+   evolución de tipo darwinista que destacaba la gradualidad en los
+   cambios de los caracteres. Mendel contribuyó, por tanto, a debilitar
+   más aún la confianza en las tesis darwinistas en los primeros años del
+   siglo XX.
+
+   Volver al índice 5. La teoría sintética
+
+   El muro que separaba las posiciones de mendelianos y biometristas
+   comenzó a desmoronarse a partir de 1918. En este año R. A. Fisher
+   (1890-1962) pudo mostrar que las leyes formuladas por los últimos
+   podían ser explicadas dentro del marco establecido por las leyes de
+   Mendel. Esta contribución junto con el trabajo de otros autores como
+   John Burdon Sanderson Haldane (1892-1964), permitió construir una
+   teoría de la selección natural basada en el modelo mendeliano de la
+   herencia. La teoría moderna de la evolución tuvo su inicio en los
+   trabajos de estos años, que alcanzaron su madurez al principio de los
+   años 30.
+
+   En la construcción del nuevo marco teórico fue muy importante la
+   distinción acuñada por Wilhelm Johannsen (1857-1927) en 1909 entre la
+   noción de genotipo y fenotipo. Este último está constituido por el
+   conjunto de características detectables en un organismo (estructurales,
+   fisiológicas o conductuales) que están determinadas por la expresión en
+   el ser vivo del genotipo y por su interacción con el medio. Dicha
+   distinción actualizaba la que había sido propuesta originalmente por
+   Mendel entre carácter y factor. La noción de gen, también acuñada por
+   Johannsen, era entonces postulada para conseguir una teoría consistente
+   con la experiencia pero, aunque ya se sabía bastante sobre cómo
+   participaban los genes en la herencia de los caracteres, en realidad no
+   se sabía en ese momento qué era o en que consistía el material
+   genético.
+
+   Un punto que es clave en la unión de las dos perspectivas competidoras
+   de estos primeros años de siglo consistió en asumir que el desarrollo
+   de cada ser vivo, desde el embrión hasta su edad adulta, es como una
+   caja negra, es decir, se omitía cualquier consideración sobre cómo
+   interaccionan los genes con el organismo y su entorno. Esto es sin duda
+   una simplificación muy importante, pero hizo abordable dicha síntesis.
+   En el nuevo esquema se asumía que la selección natural podía ser
+   modelada en base a los cambios que se producían únicamente en el
+   genoma. Dicho de otra manera, solamente las modificaciones en el genoma
+   son las responsables del cambio evolutivo, y dichas modificaciones no
+   están condicionadas en su producción ni por el fenotipo ni por el
+   entorno, sino que son modificaciones al azar, de acuerdo con las ideas
+   de Darwin y Wallace. La no influencia del fenotipo sobre el genotipo
+   está relacionada y puede considerarse equivalente a lo que más tarde se
+   llamó el dogma central de la biología.
+
+   En los años 20, Haldane, Fisher y Wright ejercieron gran influencia en
+   el desarrollo de la Teoría de la Evolución. Haldane publicó varios
+   artículos en los que hacía un tratamiento de la selección natural desde
+   la genética: analizaba una gran variedad de modelos genéticos y,
+   también, distintas formas en las que podía darse la selección natural:
+   débil o intensa, constante, cíclica, etc. Una de las conclusiones a las
+   que llegó fue que el proceso de selección natural actuando sobre
+   variaciones ciegas era más rápido de lo que se pensaba. El temor de que
+   no hubiera tiempo suficiente para que la selección natural diera lugar
+   a modificaciones evolutivas importantes no parecía estar justificado a
+   la luz de estos trabajos. Las teorías que competían con la selección
+   natural en los primeros años del siglo —las que defendían la
+   ortogénesis y las de tipo neolamarkista— recibían con estos trabajos un
+   duro golpe. Estos tres autores son considerados hoy como los padres de
+   la genética de poblaciones, que sigue siendo el fundamento para la
+   actual teoría de la evolución.
+
+   Haldane se centró en el estudio de las consecuencias que para la
+   evolución tienen los diversos modelos genéticos. Fisher y Wright
+   trataron de ofrecer teorías de carácter general que explicaran la
+   historia de la vida sobre la Tierra. Ambos mantuvieron algunas
+   diferencias en relación con el papel de la selección natural en la
+   evolución. Fisher era partidario de que la mejor explicación de la
+   evolución la proporciona la selección natural actuando sobre pequeñas
+   variaciones que se producen en grandes poblaciones en las que sus
+   individuos se aparean de manera aleatoria. En cambio, Wright pensaba
+   que en la explicación de los cambios eran más importantes las pequeñas
+   poblaciones aisladas en las que se podían producir importantes
+   fluctuaciones debidas, precisamente, al pequeño número de los
+   individuos que las componen. Esta hipótesis después ha sido conocida
+   como la "deriva genética". El debate entre estas dos posiciones ha sido
+   relevante en el desarrollo de la moderna teoría de la evolución.
+
+   La integración de los trabajos anteriores con el resto de la biología
+   fue tarea de Theodosius Grygorovych Dobzhansky (1900-1975), que
+   consiguió unificar los resultados empíricos de poblaciones naturales
+   con los modelos teóricos de Haldane, Fisher y Wright. Su libro más
+   importante fue publicado en 1937 y llevó por título "Genética y el
+   Origen de las Especies". Uno de los temas que centró su interés fue el
+   de la especiación: la aparición de nuevas especies a partir de otras ya
+   existentes. Este es el problema que aparecía en el título del famoso
+   libro de Darwin y que, en realidad, él no llegó a aclarar. Dobzhansky
+   destacó la importancia del aislamiento geográfico como una de las
+   causas más importantes para la aparición de una nueva especie. Este
+   tipo de especiación fue llamada especiación alopátrida. Su estudio y,
+   en general, el estudio de la especiación, ha sido desarrollado
+   posteriormente, entre otros, por Ernst Mayr (1904-2005). Hoy en día no
+   se considera este tipo de especiación más importante que la especiación
+   simpátrida, en la que la formación de especies no requiere el
+   aislamiento geográfico. Julian Huxley (1887-1975) popularizó en 1942 el
+   nuevo marco teórico alcanzado por los autores citados en un libro que
+   tuvo una gran difusión y en cuyo título llamaba a la nueva teoría de la
+   evolución la "síntesis moderna" [Huxley 1946]. Desde entonces dicha
+   teoría ha sido conocida como la "teoría sintética de la evolución".
+
+   Volver al índice 6. Biología molecular y genética
+
+   Otro hito importante en la configuración de la teoría de la evolución
+   tuvo lugar con el diseño de Watson y Crick en 1953 del modelo en doble
+   hélice de la molécula de ADN. Desde los años 40 se sabía que en las
+   moléculas de ADN (Acido desoxirribonucleico) estaba contenida la
+   información genética. En 1953 se determinó la estructura de dicha
+   información. Se descubrió que las moléculas de ADN codifican la
+   información genética a lo largo de secuencias lineales de 4 bases
+   nitrogenadas o nucleótidos llamados Adenina, Citosina, Guanina y
+   Timina. Estas bases constituyen las cuatro letras de un alfabeto con el
+   que se escribe en el genoma la información que es expresada en el
+   desarrollo del ser vivo.
+
+   La distinción entre genotipo y fenotipo quedaba sólidamente establecida
+   de esta manera. El nivel más básico del fenotipo serían las proteínas:
+   macromoléculas compuestas por aminoácidos que constituyen la parte
+   estructural fundamental de los diversos organismos vivos. Se conoce la
+   correspondencia entre las distintas secuencias de bases del ADN con
+   cada uno de los 20 tipos de aminoácidos distintos existentes.
+   Concretamente cada uno de los aminoácidos es codificado por tres de las
+   letras básicas del código genético. Cada grupo de tres letras que
+   codifica un aminoácido se denomina "codón". No todo el ADN es
+   codificante. Además hay aminoácidos que están asociados con codones
+   distintos. Por esto se dice que el código genético es degenerado. A su
+   vez, los 20 aminoácidos dan lugar por composición a una gran variedad
+   de proteínas que desempeñan multitud de funciones en el organismo a muy
+   distintos niveles y formando parte de una gran diversidad de sistemas
+   orgánicos.
+
+   Exponemos a continuación de una forma breve algunas de las nociones más
+   importantes que quedaron establecidas por la genética que se desarrolló
+   a partir de los años 50 y que son determinantes en el modo en que se
+   entiende hoy en día la Evolución [Ayala 2006a: 223 y ss.].
+
+   El ADN es, como hemos indicado, la molécula donde se encuentra
+   codificada la información genética. Se trata de una molécula larga en
+   forma de hélice y que puede representarse como dos largos filamentos
+   moleculares enrollados y unidos por las bases o nucleótidos. Hay cuatro
+   tipos de bases y cada filamento está unido al otro por las bases
+   complementarias del otro.
+
+   Las moléculas de ADN se encuentran empaquetadas asociadas a proteínas
+   en unos cuerpos densos que se llaman cromosomas. Cada especie tiene un
+   número determinado de cromosomas. La especie humana tiene concretamente
+   46. En este caso, que es de reproducción sexuada, 23 cromosomas
+   corresponden al padre y los otros 23 a la madre. Tenemos 23 parejas de
+   cromosomas homólogos.
+
+   El gen es la unidad discreta de herencia que fue identificada por
+   primera vez por Mendel. En el paradigma actual cada gen se corresponde
+   con una característica morfológica del organismo, por ejemplo, el color
+   de alguna parte del cuerpo como el pelo o los ojos. El gen es un
+   segmento del cromosoma que está en un lugar concreto que se
+   llama locus. Cada cromosoma puede tener muchos miles de loci génicos.
+   Los loci están en ambos cromosomas homólogos. Cada gen en un locus
+   concreto puede presentar formas variantes que se llaman alelos. Eso
+   significa que genes alelos varían en una o varias partes de su
+   secuencia de nucleótidos. Los genes se presentan por tanto en parejas
+   uno en un cromosoma materno y el otro en el correspondiente paterno o
+   cromosoma homólogo. Los dos genes homólogos ocupan un locus en cada uno
+   de los cromosomas homólogos. La existencia de alelos es el
+   prerrequisito para que pueda haber evolución. Se ha comprobado que
+   existe una gran diversidad genética, es decir, una gran diversidad de
+   alelos dentro de las diferentes poblaciones. La selección artificial es
+   una muestra de que existe una amplia variabilidad genética en las
+   poblaciones naturales.
+
+   Una noción clave en la teoría de la evolución es la de especie. En la
+   "síntesis moderna" la noción de especie biológica fue caracterizada por
+   Dobzhansky y por Mayr, para los organismos de reproducción sexual, como
+   «grupos de poblaciones naturales interfértiles que están aislados
+   reproductivamente de otros grupos» [Ayala 2006b: 258]. Esta noción es
+   la que cuenta con mayor aceptación en la actualidad a pesar de sus
+   evidentes limitaciones como, por ejemplo, el hecho de que sea valida
+   sólo para grupos que se reproducen sexualmente o, también, que su
+   aplicación no sea posible para especies que ya están extinguidas. La
+   noción es importante, entre otras razones, porque definida de esta
+   manera, cada especie constituye una unidad evolutiva discreta e
+   independiente (no hay intercambios de genes entre especies diferentes).
+   Se ha escrito mucho sobre los mecanismos que llevan a la formación de
+   una especie. En todo lo escrito se destaca la importancia que tienen
+   los mecanismos de aislamiento reproductor de los que hay identificados
+   varios tipos.
+
+   Los descubrimientos de los años 50 en genética y bioquímica han dado
+   lugar a innumerables estudios e investigaciones realizadas desde el
+   nuevo marco teórico y se han cosechado ya resultados prácticos
+   concretos. Estos estudios han dado como fruto, por ejemplo, la
+   culminación del Proyecto Genoma Humano en el año 2003. Durante los 13
+   años que duró el proyecto se consiguieron identificar los
+   aproximadamente 20.000-25.000 genes que posee nuestro ADN y se
+   determinó la secuencia de los tres mil millones de bases que componen
+   el ADN. Además, la teoría de la evolución se ha podido refinar
+   notablemente. Actualmente, por ejemplo, se pueden abordar taxonomías de
+   los seres vivos basadas en el patrimonio genético de cada especie y no
+   en aspectos morfológicos externos que resultan más arbitrarios. Ahora
+   se sabe, entre otras cosas, lo que no se conocía cuando se formuló por
+   primera vez la teoría sintética: en qué consiste el material genético.
+   Se van comprendiendo poco a poco, es una tarea para años que está
+   apenas comenzada, el significado mismo de la información genética, lo
+   cual tiene que ver con su expresión en el organismo vivo. Todos estos
+   conocimientos han abierto muchas expectativas, por ejemplo, dentro de
+   la medicina y, también, en la biología teórica en general. Pero, por
+   otra parte, también se ha puesto de manifiesto la extraordinaria
+   complejidad que se esconde en los seres vivos. En cuanto al proceso de
+   la evolución, los avances señalados han resuelto antiguos
+   interrogantes, pero también han abierto otros nuevos que se erigen como
+   desafíos para la ciencia que son aún más arduos que los antiguos.
+
+   Se puede decir en definitiva que existe un marco común aceptado por la
+   mayoría de los científicos en el que están incluidos, entre otros, los
+   ingredientes que hemos ido describiendo anteriormente. El núcleo
+   esencial sobre el que existe común acuerdo entre toda la comunidad
+   científica se podría resumir diciendo que «la evolución se produce
+   mediante la actuación de mecanismos como la selección natural sobre,
+   primariamente, pequeñas variaciones ciegas que ocurren en el nivel
+   genético» [Sarkar 2007: 69]. Pero dentro de ese marco hay cuestiones
+   que siguen siendo objeto de vivos debates. Se mantienen también
+   cuestiones ya planteadas en los inicios de la formulación de las
+   teorías evolucionistas pero ahora vistas desde la nueva perspectiva y,
+   por tanto, desde una mejor comprensión de su complejidad.
+
+   También hemos visto que, desde su inicio, la teoría de la evolución que
+   nació y se ha desarrollado a partir de las ideas de Darwin no ha tenido
+   una aceptación pacífica. Se han mencionado ya algunas de las
+   controversias suscitadas en los años finales del siglo XIX y sus
+   raíces. Fuera del ámbito científico las controversias no han sido
+   menores. Uno de los movimientos que más resistencia ha ofrecido a las
+   ideas de Darwin ha sido el Creacionismo. Los enfrentamientos con la
+   teoría de la evolución, que llegan hasta nuestros días, dan la
+   posibilidad de trazar una historia de la que incluso un simple esbozo
+   queda fuera del alcance de esta voz [véase la voz Diseño inteligente].
+
+   A continuación se indican brevemente algunas de las cuestiones
+   científicas más importantes que han sido objeto de controversia en los
+   últimos años en relación con la teoría de la evolución. Se recogen aquí
+   porque entenderlas permite también comprender mejor la teoría de la
+   evolución y su alcance. Por otra parte el debate filosófico, al que se
+   dedica la última parte de esta voz, no es ajeno al debate científico.
+
+   Volver al índice 7. Algunas cuestiones científicas debatidas en torno a
+   la teoría de la evolución
+
+   Volver al índice 7.1. Seleccionismo frente a neutralismo
+
+   En los años 60 se comenzó a utilizar una nueva técnica, la
+   electroforesis en gel, con la que se pudo comprobar con bastante
+   precisión el grado de variación genética de las poblaciones. Los
+   estudios realizados con esta técnica, y otras también sencillas de
+   realizar en el laboratorio, llevaron a determinar que la proporción de
+   loci heterocigóticos, es decir, aquellos que presentan alelos distintos
+   en los cromosomas homólogos, oscila entre el 5 y el 20 por ciento.
+   Teniendo en cuenta que la técnica empleada detecta las variaciones en
+   las proteínas y que la codificación de las mismas por el ADN es
+   degenerada, era razonable pensar que el grado de variación genética era
+   aún mayor que esos porcentajes [Ayala 2006c: 280].
+
+   El grado de variación que resultaba de dichos experimentos era muy
+   superior al que se esperaba. Una explicación de este fenómeno fue
+   propuesta por el genetista japonés Motoo Kimura en 1968. Para este
+   científico, y los que como él defienden la llamada "teoría
+   neutralista", la mayoría de las diferencias genéticas ni favorecen ni
+   dificultan la supervivencia de los organismos lo cual les lleva a
+   concluir que el hecho de que sobrevivan o sean eliminados de una
+   población es simplemente un problema de azar. Los neutralistas dicen
+   que si la mayoría de las diferencias genéticas estuvieran sometidas a
+   selección natural, la variación sería mucho más reducida y, por tanto,
+   la selección natural no tendría la incidencia en la evolución que
+   sugiere la teoría sintética.
+
+   Otro de los fenómenos esgrimidos por los neutralistas para defender su
+   propuesta es la constancia del ritmo de cambio genético experimentado a
+   lo largo de las generaciones. Se han realizado diferentes estudios que
+   relacionan la historia evolutiva común a varias especies y el número de
+   las diferencias en las respectivas secuencias de ADN. Los resultados
+   sugieren que los genes pueden considerarse como relojes moleculares ya
+   que el ritmo de cambio experimentado es relativamente constante durante
+   largos períodos de tiempo y, además, esos valores son semejantes en
+   diferentes especies. Si la selección natural actuase como propone la
+   teoría sintética, dicen los neutralistas, los ritmos en los cambios
+   serían más variables como consecuencia de las diferentes presiones
+   selectivas que se suceden en el tiempo y en las distintas especies.
+
+   Esta propuesta ha sido quizá la que ha suscitado en el mundo de la
+   biología más ásperos debates desde que se formuló la teoría sintética
+   hasta nuestros días. De hecho, en 1969 los neutralistas King y Jukes
+   anunciaron, de una manera algo provocativa, el nacimiento de un modelo
+   de evolución en el que la deriva según alelos neutrales había
+   reemplazado a la selección como fuerza evolutiva.
+
+   En realidad los debates en torno al neutralismo-seleccionismo no han
+   cesado todavía. Autores como Ayala o Sarkar piensan que, actualmente,
+   en dicho debate no se trata de determinar el éxito de una de las
+   propuestas y la exclusión de la otra. Se trataría más bien de
+   determinar en que medida actúa la selección y en qué medida es valido y
+   ayuda a entender la evolución el neutralismo. De hecho, el mismo Kimura
+   aceptó que la selección natural es la fuerza evolutiva determinante a
+   escala morfológica y que el neutralismo en el nivel molecular presenta
+   problemas cuando se tratan de explicar las diferencias adaptativas que
+   se ponen de manifiesto en niveles superiores de organización. Ayala
+   afirma, además, que la teoría sintética no obliga a que el ritmo de
+   evolución sea tan irregular como suponen los neutralistas. Los enormes
+   intervalos de tiempo a lo largo de los cuales se produce la evolución
+   molecular hacen que las fluctuaciones se compensen entre sí dando la
+   impresión de que ocurren a un ritmo constante. Se han formulado incluso
+   modelos matemáticos en los que se hace compatible el reloj molecular
+   con la evolución regida por selección natural.
+
+   También se ha propuesto la llamada teoría "casi neutral" en la que se
+   trata de mantener la consistencia de las tesis neutralistas con muchos
+   datos que indican la actuación de la selección natural. La mayoría de
+   los biólogos todavía creen en la importancia de la selección natural
+   como uno de los motores de la evolución, pero este debate sigue vivo y
+   muchos confían en que los datos que se están obteniendo de los
+   proyectos de secuenciación de diferentes genomas ayudará a determinar
+   el peso que las aportaciones de ambas propuestas tiene en el marco
+   general de la teoría de la evolución [Sarkar 2007: 65-67].
+
+   Volver al índice 7.2. Puntuacionismo frente a gradualismo
+
+   Una de las distinciones clásicas que subyace en algunos de los debates
+   en torno a la evolución ha sido la de microevolución frente a
+   macroevolución. La genética actual ha introducido una equivocidad en
+   estos términos que conviene tener presente. Se puede entender la
+   microevolución como la evolución que ocurre como consecuencia de
+   pequeñas variaciones observables dentro de la misma especie. La
+   macroevolución sería, en cambio, la que lleva consigo grandes cambios
+   como la diversificación de especies en largos periodos de tiempo. El
+   nuevo marco teórico lleva a entender estas nociones con un sentido
+   distinto, aunque relacionado. La microevolución es ahora la que podemos
+   constatar a nivel bioquímico: una modificación en un par de bases de un
+   gen, una mutación, sería el hecho más elemental de la microevolución.
+   Este tipo de modificaciones a nivel genético, con su repercusión a
+   nivel del fenotipo, nadie las pone en duda: se pueden provocar,
+   observar y experimentar directamente con ellas.
+
+   Como consecuencia de la influencia de las tesis gradualistas defendidas
+   por el darwinismo, se suele defender que la diferencia entre la
+   microevolución y la macroevolución es sólo una cuestión de tiempo: la
+   macroevolución no sería otra cosa que la acumulación de cambios
+   microevolutivos. Este supuesto ha sido objeto de matices y discusiones
+   incluso entre los mismos darwinistas. No se pone en duda que en la base
+   de los cambios macroevolutivos están los microevolutivos. Lo que se
+   discute es la reductibilidad de unos a los otros, es decir, que la
+   explicación de las leyes y mecanismos de la microevolución lleve a una
+   explicación completa de los propios de la macroevolución. Dicho de otra
+   manera, se pone en duda o se niega que las leyes de la macroevolución
+   que podemos llegar a establecer sean derivables de las establecidas
+   para la microevolución. Ayala, por ejemplo, afirma lo siguiente: «la
+   macroevolución es un campo autónomo del estudio evolutivo y, en este
+   importante sentido epistemológico, la macroevolución está desacoplada
+   de la microevolución» [Ayala 2006b: 268].
+
+   Estrechamente relacionado con la diferencia entre micro y
+   macroevolución discurre uno de los debates más importantes surgidos en
+   el seno de la comunidad científica y que, inicialmente, parecía romper
+   con los mismos fundamentos del marco teórico de la síntesis moderna. Se
+   trata del enfrentamiento entre el gradualismo propio de la teoría
+   sintética con lo que se ha llamado puntuacionismo o saltacionismo. Este
+   nombre deriva del recibido por la teoría propuesta por Niels Elredge
+   (1943-) y Stephen Jay Gould (1941-2002) en 1972 a la que este último
+   denominó "Equilibrio puntado".
+
+   El problema que está detrás del origen de esta propuesta es el
+   contraste entre el gradualismo que parece derivarse de la teoría
+   sintética y los saltos existentes en el registro fósil existente, que
+   distan mucho de ser una continuidad gradual. Hasta que el equilibrio
+   puntuado vio la luz, la manera más común, aunque no la única, de
+   justificar la existencia de esos agujeros del registro fósil era la más
+   fácil y directa: no han quedado fosilizados todos los vivientes que han
+   existido, o bien, todavía no hemos descubierto muchos de los fósiles
+   que nos permitirán ir llenando los huecos existentes. Mayr, en cambio,
+   se adelantó en cierta manera al saltacionismo en 1954 defendiendo que
+   la existencia de los huecos en el registro fósil era consecuencia de
+   que «las poblaciones fundadoras en proceso de especiación están muy
+   restringidas en el espacio y en el tiempo y, por lo tanto, es muy
+   improbable que lleguen a aparecer nunca en el registro fósil» [Mayr
+   2005: 212]. El hecho es que la acumulación de nuevos fósiles no parecía
+   respaldar la solución fácil, y que había motivos para dudar de la
+   compatibilidad de la ortodoxia gradualista con los datos aportados por
+   la paleontología.
+
+   Gould y Eldredge sostuvieron en sus trabajos que el registro fósil
+   mostraba positivamente que en la evolución había cortos periodos en los
+   que los cambios evolutivos se producían muy rápidamente, y que estos
+   eran seguidos por otros largos periodos de estasis en los que las
+   distintas formas permanecían estables. Dicho de otra manera, la
+   evolución parecía dar saltos de unas especies a otras sin que hubiera
+   especies intermedias. No es que no tuviéramos los fósiles de los
+   eslabones intermedios –eslabones perdidos- sino que, sencillamente,
+   dichos eslabones no habían existido.
+
+   Inicialmente el equilibrio puntuado pareció a algunos una teoría
+   alternativa a la síntesis moderna, recibió muchas críticas y suscitó un
+   debate muy vivo. Pronto se vio que el esquema puntuacionista o
+   saltacionista no era una dificultad real para seguir sosteniendo los
+   principios de la síntesis darwinista moderna. Los mismos autores de la
+   teoría explicaron que el problema radica en que se está jugando con dos
+   escalas de tiempo diversas. Por una parte hemos de considerar el tiempo
+   en el que se produce la evolución siguiendo un modelo de cambios
+   pequeños y graduales y, por otra parte, el tiempo que es relevante para
+   el registro fósil denominado tiempo geológico, cuya escala es mucho
+   mayor que la del primero. Con palabras de Gould: « Lo que intenta
+   explicar la teoría del equilibrio puntuado es el papel macroevolutivo
+   de las especies y la especiación tal como se expresa en el tiempo
+   geológico. Sus enunciados sobre rapidez y estabilidad describen la
+   historia de las especies individuales, y sus afirmaciones sobre ritmos
+   y estilos de cambio tratan del trazado de estas historias individuales
+   en el dominio no familiar del tiempo geológico, donde la duración de
+   una vida humana está por debajo de cualquier posible apreciación, y la
+   historia entera de la civilización humana es a la duración de la
+   filogenia primate como un parpadeo a una vida humana» [Gould 2004:
+   797].
+
+   Muchos biólogos han señalado que los patrones macroevolutivos de
+   estasis y saltos podrían ser producidos por modelos basados en la
+   microevolución. También parece haberse mostrado en las últimas décadas
+   que se pueden producir rápidos cambios morfológicos en poblaciones
+   naturales. Parece pues confirmarse que aunque el saltacionismo fuera el
+   patrón predominante del cambio macroevolutivo, los procesos implicados
+   permanecen dentro del marco de la síntesis moderna.
+
+   El mismo Gould ha defendido la compatibilidad de su propuesta con las
+   tesis de la teoría sintética actual: «El equilibrio puntuado tampoco
+   intenta redefinir o criticar los mecanismos microevolutivos
+   convencionales en absoluto (porque surge como la expresión anticipada,
+   tras cambio de escala, de las teorías microevolutivas sobre la
+   especiación en el dominio radicalmente distinto del tiempo geológico)»
+   [Gould 2004: 812]. No obstante Gould defiende que su propuesta es
+   original, y dicha originalidad radica en el cambio de perspectiva con
+   la que se observa la evolución. Para Gould, en la escala de tiempo
+   geológico, el sujeto de la selección evolutiva no sería ya el individuo
+   de una población sino que sería la misma especie. Así lo expresa Gould:
+   «Pero el meollo de la novedad potencial del equilibrio puntuado para la
+   teoría biológica es que estos mecanismos microevolutivos clásicos no
+   tienen la exclusiva de la explicación evolucionista, y que su dominio
+   de acción debe restringirse (o al menos compartirse) al nivel de la
+   pauta macroevolutiva a escala geológica, porque el equilibrio puntuado
+   ratifica una mecánica macroevolutiva efectiva basada en el
+   reconocimiento de las especies como individuos darwinianos. En otras
+   palabras, la principal contribución del equilibrio puntuado a la teoría
+   macroevolutiva no es la revisión de la mecánica microevolutiva, sino la
+   individuación de las especies (lo que establece la base para un dominio
+   teórico macroevolutivo independiente) [Gould 2004: 812].
+
+   Por tanto, según este autor, se podría ver el saltacionismo como una
+   ampliación de la teoría sintética en la que se reafirman sus principios
+   pero en un dominio teórico diferente. Estas afirmaciones señalan, como
+   también hemos visto que hace Ayala, un cierto nivel de independencia
+   entre la macro y la microevolución, pero siempre dentro del marco común
+   de la teoría sintética.
+
+   Esta discusión sirve para aludir a un debate que tiene también
+   resonancias en los estudios filosóficos sobre la evolución: la
+   determinación de cual es la unidad de selección. Se han propuesto como
+   unidades selectivas el gen, el individuo y otros grupos poblacionales
+   como son la especie. Los genetistas, y más en concreto los
+   neutralistas, son más proclives a considerar al gen como unidad o
+   blanco de la selección. Mayr considera que «dado que ningún gen está
+   directamente expuesto a la selección, sino sólo en el contexto del
+   genotipo completo, y dado que un gen puede tener diferentes valores
+   selectivos en diferentes genotipos, no parece nada adecuado
+   considerarlo el blanco de la selección» [Mayr 2005: 218]. Este autor
+   piensa que es el individuo el blanco principal de la selección, aunque
+   también admite la posibilidad de que exista la llamada selección de
+   grupo como, por ejemplo, la selección de especies.
+
+   Volver al índice 7.3. Noción de especie
+
+   Ya se ha mencionado que una noción clave, como se desprende de todo lo
+   visto hasta ahora, es la noción de especie. En cualquier trabajo sobre
+   la teoría de la evolución, como éste por ejemplo, es una de las
+   palabras más empleadas. La noción ha sido objeto de importantes debates
+   desde el inicio de la teoría de la evolución. El debate sobre esta
+   noción tiene además especiales connotaciones filosóficas y por esto es
+   también importante tratarlo aquí aunque sea de una manera muy breve.
+
+   El problema debatido se podría expresar de una manera sencilla como una
+   alternativa: ¿tienen las especies una existencia real o son por el
+   contrario un producto de nuestra mente que simplemente nos facilita la
+   organización de nuestros conocimientos sobre la naturaleza? El
+   gradualismo darwinista difumina sus contornos se opone a una noción de
+   especie concebida como algo perfectamente determinado morfológica y
+   temporalmente. Si una especie deriva de otra por evolución gradual
+   ¿dónde poner el límite entre las dos especies? O bien, ¿qué diferencias
+   tiene que haber entre dos individuos para ser considerados como
+   pertenecientes a distintas especies? Darwin, por ejemplo, afirmó:
+   «considero el término especie como dado arbitrariamente, por razón de
+   conveniencia, a un grupo de individuos muy semejantes y que no difiere
+   esencialmente del término variedad, que se da a formas menos precisas y
+   más fluctuantes» [Darwin 2002: 104]. Para Haldane el concepto de
+   especie era una concesión a nuestros hábitos lingüísticos y mecanismos
+   neurológicos [Sarkar 2007: 70].
+
+   Las dificultades para dar una definición de especie que no presente
+   algún problema o limitación parecen respaldar estas opiniones y restar
+   realidad, o más bien realismo, a la noción de especie. No obstante, a
+   pesar de sus limitaciones, sí se ha concedido mucha importancia a la ya
+   definida anteriormente noción de especie biológica. En realidad dicha
+   noción es útil dentro del esquema conceptual que sirve para explicar la
+   misma evolución y, como hemos visto, en algunos autores como Gould,
+   incluso se convierte en blanco de la selección darwiniana, es decir, en
+   sujeto darwinista. Esta noción de especie biológica es clara y define
+   con nitidez lo que es una especie, pero no evita por completo el
+   problema general de la falta de delimitación entre especies cuando se
+   acepta la gradualidad en la evolución.
+
+   Actualmente este debate sigue abierto. La definición de especie
+   biológica es vista por algunos como insuficiente. Por ejemplo, el
+   ámbito de la microbiología ofrece una diversidad mayor que el que
+   estamos acostumbrados a contemplar ordinariamente y que ha sido el
+   objeto de las propuestas taxonómicas más usuales. En dicho ámbito la
+   definición de especie biología es inútil puesto que el tipo de
+   reproducción mayoritaria no es sexual. A pesar de las dificultades se
+   siguen buscando criterios taxonómicos que sean útiles para hacer
+   clasificaciones y reduzcan todo lo posible las insuficiencias de los ya
+   existentes. Lo que parece claro para todos los biólogos es la necesidad
+   de contar con un criterio para diferenciar especies, aunque no siempre
+   se pongan de acuerdo para establecer el más adecuado. Por encima de los
+   desacuerdos, en lo que sí parece haber coincidencia es en que la
+   realidad de la especie está relacionada con la existencia de unidades
+   poblacionales agrupadas en nichos ecológicos en las que la selección
+   natural evita que haya confusión entre ellas. Se admite también que
+   puede que no haya una caracterización única y óptima para la especie,
+   sino que habría que emplear una u otra según el nivel o la rama en el
+   árbol de la naturaleza que se esté estudiando [Zimmer 2008: 72-73].
+
+   En realidad, las mayores dificultades en este punto surgen, sobre todo,
+   para los que defienden propuestas de tipo creacionista o de tipo
+   fijista. En realidad, dicha fijación pertenece sólo a nuestro modo de
+   pensar los seres naturales, es decir, pertenece a la objetivación que
+   nosotros hacemos de ellos. No es fácil pensar objetivamente el
+   movimiento propio de la vida. Un movimiento que, como ocurre en el caso
+   de la evolución, implica periodos de tiempo que escapan completamente a
+   las magnitudes que captan nuestro conocimiento ordinario.
+
+   Volver al índice 7.4. Importancia de la selección natural en la
+   evolución
+
+   El grado de intervención de la selección natural en el proceso
+   evolutivo ha sido también un constante objeto de debate desde la
+   formulación de la teoría de Darwin. La controversia sigue abierta en el
+   ámbito puramente científico. Hay que tener en cuenta que a este
+   mecanismo se le ha dado siempre un papel central dentro de la ortodoxia
+   de la teoría sintética. En él se apoya gran parte de la originalidad de
+   la propuesta de Darwin.
+
+   No obstante, actualmente se aducen razones para atenuar su importancia
+   en la evolución, como las que presentan los ya mencionados
+   neutralistas. También siguen ofreciéndose importantes razones para
+   destacar su importancia. Un argumento empleado con frecuencia en su
+   defensa consiste en la constatación, sobre todo en el ámbito de la
+   macroevolución, de la existencia de la "evolución convergente": hay
+   seres vivos muy alejados desde el punto de vista filético, o que han
+   evolucionado de una manera aislada, pero que han desarrollado
+   organismos similares y han alcanzado soluciones funcionales
+   extraordinariamente parecidas.
+
+   El problema de la importancia de la selección natural es paralelo al
+   problema del grado de contingencia de la evolución. La dificultad que
+   se plantea es el siguiente: si la historia evolutiva comenzara de nuevo
+   ¿tendríamos un panorama en la naturaleza semejante al que nos
+   encontramos en la actualidad? Si se admite que lo que genera variedad
+   son las mutaciones, y que estas son ciegas, la respuesta a la pregunta
+   tiene que ver con lo fuerte o débil que sea el papel de la selección
+   natural en la evolución. La respuesta a la pregunta ha enfrentado a
+   diversos científicos. Gould, por ejemplo, ha hecho de la contingencia
+   uno de los puntos centrales de sus tesis. Simon Conway Morris, por el
+   contrario, ha enfatizado de una manera especial la convergencia. En
+   general parece que entre los biólogos hay acuerdo en que existe tanto
+   una como la otra, y dan cabida a la contingencia y a la convergencia
+   dentro de la moderna teoría sintética. Algunos científicos incluso han
+   formulado la acción de la selección natural en forma de teorema,
+   precisando cuales son las premisas necesarias que deben cumplirse para
+   que la selección natural actúe o no [Meléndez-Hevia 2001: 18]. Estas
+   formulaciones tratan de explicar el por qué de los contrastes señalados
+   dentro del marco de la teoría sintética y ofrecer una perspectiva lo
+   más ajustada posible de la importancia de la acción de la selección
+   natural en la evolución.
+
+   Volver al índice 7.5. Más sabemos, más debates
+
+   No son las anteriores, ni mucho menos, las únicas cuestiones debatidas.
+   En cualquier caso, ninguno de los autores importantes del siglo XX que
+   han contribuido en el asentamiento de la teoría sintética piensa que
+   este gran número de controversias ponga en peligro por el momento la
+   validez de la teoría sintética moderna. Mayr dice a este respecto:
+   «para muchos problemas evolutivos existen múltiples soluciones
+   posibles. Aunque todas ellas son compatibles con el paradigma
+   darwiniano. La lección que nos enseña este pluralismo es que, en
+   biología evolutiva, las generalizaciones casi nunca son correctas.
+   Incluso cuando algo ocurre "por lo general", esto no quiere decir que
+   tenga que ocurrir siempre» [Mayr 2005: 223].
+
+   La realidad es que hay muchas cuestiones en debate. El pluralismo al
+   que se refiere Mayr puede parecer excesivo para algunos que se plantean
+   la necesidad de alcanzar una mayor unidad y simplicidad, quizá con la
+   formulación de una nueva síntesis. Esta nueva síntesis "postmoderna",
+   como es calificada con cierta aprensión en un artículo
+   de Nature [Whitfield 2008], debería poder explicar lo que ocurre en
+   ámbitos de la biología que todavía no se han conseguido integrar
+   satisfactoriamente con la teoría sintética. Uno de estos ámbitos es,
+   por ejemplo, la biología del desarrollo, sobre la que la genética está
+   aportando en nuestros días gran cantidad de información. La disciplina
+   emergente llamada "evo-devo" (evolución y desarrollo) trata
+   precisamente de unir estos dos ámbitos de la biología, pero se
+   encuentra todavía lejos de la madurez. En este ámbito de la biología
+   hay muchos misterios que desvelar, y los datos que se van acumulando
+   llevan a plantearse, por ejemplo, la necesidad de asumir una relación
+   más rica que la aceptada por la teoría sintética entre genotipo y
+   fenotipo. Dicha relación no debería ser, por ejemplo, tan
+   unidireccional como establece el mencionado dogma central de la
+   biología. O, al menos, debería admitir una influencia del ambiente que
+   no se redujera exclusivamente a una función selectiva.
+
+   Todo lo dicho hasta el momento puede llevar a pensar que el marco
+   conceptual de la moderna teoría sintética explica mucho, pero que
+   todavía es insuficiente para dar verdadera unidad a todos los fenómenos
+   de los que somos testigos en el mundo biológico. En cualquier caso, lo
+   que si ponen claramente de manifiesto estos debates es que la vida, en
+   su aparente simplicidad y sencillez, presenta una gran complejidad
+   cuando se la analiza desde el punto de vista científico. La biología no
+   es física y no parece que se deje atrapar por las redes de un método
+   perfectamente unificado, definido y terminado. En realidad la física,
+   aunque sea más dócil a las matemáticas, tampoco parece que lo permita.
+   En cualquier caso, la gran cantidad de conocimiento científico que
+   tenemos sobre la biología, y en particular sobre la evolución, hace
+   posible y a la vez invita enérgicamente a hacer una reflexión de
+   carácter filosófico.
+
+   Volver al índice 8. Reflexión filosófica y teoría de la evolución
+
+   La filosofía es una disciplina que busca alcanzar una perspectiva
+   global frente a la realidad. No hay nada que pueda escapar a la mirada
+   de la filosofía en su intento de encontrar la síntesis o conexión con
+   la globalidad de lo real, es decir, cómo cada porción de lo real encaja
+   en el amplio paisaje de la realidad [Polo 1995: 21].
+
+   Por este motivo, la filosofía trasciende siempre el ámbito de la
+   parcela sobre la cual detiene su atención. Su vocación es enfrentarse
+   con las preguntas más radicales. La filosofía es una disciplina que
+   busca los principios o causas primeras de la realidad. Esta es la
+   manera más exigente de adoptar una perspectiva global. Decir que la
+   filosofía trata de alcanzar los principios de la realidad de la que se
+   ocupa equivale a decir que lo que se espera de la filosofía es que
+   ofrezca respuestas últimas sobre los problemas que se plantea, que no
+   es lo mismo que decir que se espera de ella respuestas definitivas.
+
+   Lo anterior no significa que la filosofía sea una especie de disciplina
+   independiente o al margen de lo que el conocimiento ordinario o
+   científico ofrecen a nuestro entendimiento. No existe una filosofía
+   pura e incontaminada con cuestiones que son consideradas de menor
+   importancia o superficiales. Toda filosofía auténtica debe estar bien
+   enraizada en lo que se sabe, sea cual sea el método o la vía por la que
+   se nos ha hecho presente dicho saber.
+
+   Por tanto, la peculiaridad y también dificultad del conocimiento
+   filosófico consiste en su aspiración a conseguir una perspectiva
+   global. Dicha aspiración hace que la filosofía no siempre se pueda
+   discernir con facilidad de doctrinas a las que podríamos llamar
+   pseudofilosofías. También se podría hablar de la existencia de
+   pseudociencias. Dichas pseudo-doctrinas tienen como verdadero punto de
+   apoyo y se alimentan en gran parte de ideologías a las que sirven de
+   portavoz. Es normal que la pseudofilosofía y la pseudociencia
+   aprovechen las limitaciones propias del conocimiento científico para
+   tratar de llenar sus huecos con consideraciones que, con frecuencia,
+   encierran una componente ideológica. La biología, con su complejidad,
+   sus temas y su grado actual de desarrollo, es un campo abonado para
+   este tipo de pseudodoctrinas.
+
+   Por otra parte, no hace falta justificar la necesidad de hacer una
+   filosofía de la biología. Es suficiente constatar que dicha filosofía
+   es inevitable, como lo prueban las numerosas publicaciones y los
+   trabajos realizados en esta disciplina.
+
+   Aquí no se va a tratar el problema fundamental de la filosofía de la
+   biología, que es la vida. Solamente se abordarán, y de manera muy
+   breve, algunas de las cuestiones filosóficas que ha suscitado la teoría
+   de la evolución. Algunas de ellas comparecen de manera implícita, o a
+   veces explícitamente, sustentando los debates a los que se ha hecho
+   referencia anteriormente.
+
+   Volver al índice 8.1. Teoría de la evolución y evolucionismo
+
+   Es importante distinguir entre Teoría de la evolución, que aquí hemos
+   presentado como una teoría de carácter estrictamente científico, y el
+   Evolucionismo.
+
+   Toda ciencia se encuentra asociada a un método que puede ser más o
+   menos explícito o definido. El método no consiste simplemente en un
+   conjunto de reglas operativas sino que incluye elementos de muy
+   distinto tipo y alcanza una gran complejidad en la ciencia real. En
+   todos los casos, el uso de un método siempre comporta una reducción en
+   el ámbito abarcado de la realidad estudiada. Esta reducción es
+   especialmente necesaria si se quiere alcanzar uno de los objetivos que
+   persigue la ciencia empírica y que consiste en controlar, de alguna
+   manera, la realidad: ciencia empírica es «aquella actividad humana en
+   la que se busca un conocimiento de la naturaleza que permita obtener un
+   dominio controlado de la misma» [Artigas 1999: 15].
+
+   La reducción metódica que determina el modo en que contemplamos con esa
+   ciencia la realidad, lo que observamos y lo que dejamos fuera de
+   nuestra consideración, es completamente necesaria para alcanzar los
+   objetivos de la actividad científica. Los problemas surgen cuando se
+   olvida que emplear un método implica reducción o, simplemente, se
+   afirma de una manera positiva que sólo es real aquello que se hace
+   presente a través de un método particular, por muy complejo que sea.
+   Esa afirmación, en realidad, lo que hace es otorgar un carácter global,
+   que es propio de la filosofía, a una ciencia particular. El problema
+   radica en que este modo de proceder deja fuera de la realidad, de una
+   manera arbitraria, aspectos que son reales pero no capturables por
+   dicho método. Como esos aspectos omitidos o negados pertenecen a la
+   realidad, antes o después reclamarán su presencia en nuestro
+   conocimiento y, entonces, se ofrecerán para ellos explicaciones
+   inadecuadas por que no se ajustan al método con el que se explican.
+   También se creará una situación propicia para que se ofrezcan
+   respuestas ideológicas a los problemas que surgen como consecuencia del
+   mencionado desajuste. La disciplina que trata de abarcar la totalidad
+   desde su método particular se desliza por la pendiente del
+   reduccionismo y, entonces, con propiedad se le puede añadir al nombre
+   de dicha disciplina el sufijo "ismo".
+
+   Evolucionismo significaría, en este contexto, una cosmovisión en la
+   cual el mundo natural se contempla y explica en su totalidad a través
+   del método desarrollado por la teoría de la evolución. Esta pretensión,
+   que puede constatarse en algunos autores actuales, no es en absoluto
+   legítima [Artigas-Giberson 2007]. La situación es paralela, aunque con
+   sus propias características, a la que se derivó del nacimiento de la
+   mecánica. La física del siglo XVII constituyó una verdadera novedad en
+   el modo de entender la realidad natural y trajo consigo multitud de
+   beneficios para la humanidad. Pero junto con la disciplina científica
+   también se desarrolló un modo de pensar globalizante, y por tanto de
+   carácter filosófico, que recibió el nombre de mecanicismo o filosofía
+   mecánica. El nacimiento de una nueva ciencia en la que se ofrecen
+   resultados satisfactorios y respuestas a problemas antes no resueltos,
+   y en la que se abren perspectivas de alcanzar nuevos e importantes
+   conocimientos, constituye siempre una ocasión para incurrir en un
+   reduccionismo. La ocasión será tanto más tentadora cuanto más poderoso
+   sea el método y más espectaculares sean los resultados alcanzados con
+   la nueva ciencia.
+
+   El mecanicismo ejerció una gran influencia en el pensamiento durante
+   tres largos siglos. Entró en crisis como consecuencia del avance de la
+   misma ciencia física. El evolucionismo, como reduccionismo, también
+   ejerce en la actualidad gran influencia en muy diversos ámbitos y está
+   presente en los escritos de algunos divulgadores científicos que han
+   conseguido hoy en día gran audiencia.
+
+   Incurriría en un reduccionismo evolucionista, por tanto, el que
+   quisiera explicar toda la realidad desde los elementos metódicos que
+   emplea la teoría de la evolución. Pretender explicar con la teoría de
+   la evolución todos los fenómenos de nuestra experiencia, incluyendo
+   realidades tan humanas como el amor, por ejemplo, la realidad de Dios,
+   la moral, etc., sería constituir a dicha teoría en una especie de
+   filosofía en la que necesariamente habría que introducir elementos
+   ajenos a la misma. La experiencia de la mecánica es muy ilustrativa de
+   lo que entraña la pretensión de abarcar toda la realidad con un método
+   científico. En el caso de la mecánica no sólo se vio que era
+   insuficiente para asumir un papel que es propio de la filosofía, sino
+   que ni siquiera sirvió para explicar toda la realidad de su propio
+   tema: la del movimiento físico.
+
+   La confusión de la teoría de la evolución con el evolucionismo es
+   frecuente y ha dado lugar a controversias como la que ha enfrentado el
+   darwinismo con el creacionismo o, más recientemente, con el "Diseño
+   Inteligente". Las pugnas de este tipo no llegan nunca a ningún puerto
+   porque, ordinariamente, la discusión se centra en aspectos de ámbito
+   filosófico. Este es precisamente el ámbito que los contendientes no
+   pueden alcanzar al pretender mantenerse dentro de la ciencia. El
+   recurso a ideologías, al menos implícito, hace el acuerdo imposible.
+
+   La distinción anterior guarda relación con la acusación dirigida por
+   algunos contra la teoría de la evolución de que no es propiamente
+   ciencia sino filosofía. Esta acusación no equivale a lo que señalan
+   autores como Artigas cuando dicen que toda ciencia tiene una serie de
+   presupuestos filosóficos. Lo que en realidad dicen es que las
+   afirmaciones que caen dentro del tema de dicha ciencia son de ámbito
+   filosófico y no están sustentadas por un método propiamente científico.
+   En la base de esta acusación está el no tener suficientemente en cuenta
+   la distinción que estamos comentando y entender por teoría de la
+   evolución alguna de las formas de evolucionismo.
+
+   Los problemas con los que se tuvo que enfrentar la filosofía,
+   especialmente durante la primera mitad del siglo XX, en relación con el
+   llamado "problema de la demarcación", es decir, el problema de la
+   determinación de si algo es ciencia o no lo es, ha llevado a adoptar
+   criterios más bien amplios y llenos de matices en la delimitación de lo
+   que constituye a una disciplina como ciencia. Si se exigiera por
+   ejemplo que una teoría, para que fuera científica, tuviera que poseer
+   capacidad predictiva, como ocurre con la Física, entonces efectivamente
+   habría que poner entre paréntesis o negar la cientificidad de la teoría
+   de la evolución. El mismo Dobzhansky afirma: «Los que pretenden que la
+   predicibilidad es esencial para una teoría científica pueden burlarse
+   de la teoría de la evolución por considerarla anticientífica»
+   [Dobzhansky 1983: 405-406]. Hoy se pone más bien el énfasis en la
+   sistematicidad como peculiaridad de la ciencia [Hoyningen-Huene 2008],
+   y no se pretende establecer una demarcación de sus límites tan precisa
+   que se niegue la consideración científica a disciplinas que sí lo son,
+   aunque su método no responda a un paradigma tan neto y bien establecido
+   como el de las matemáticas o la física, por ejemplo.
+
+   El debate sobre el naturalismo surge también en este contexto. El
+   naturalismo, en su acepción más común y fuerte, defiende que toda la
+   realidad se resuelve y se explica por leyes naturales: naturalismo
+   ontológico. Algunos críticos de la teoría de la evolución la han
+   acusado de ser naturalista. También en este caso parece que es mas
+   justo acusar de naturalismo, en este sentido fuerte, al evolucionismo.
+   Por otra parte parece justificado defender que sólo se puede recurrir a
+   leyes naturales cuando se quieren explicar fenómenos que no se salen
+   del ámbito de la naturaleza material. Defender esto último sería
+   defender lo que podría llamarse naturalismo metodológico. La ciencia es
+   legítimamente naturalista en este último sentido, es decir, cuando no
+   se erige a sí misma como un conocimiento de carácter global, lo cual es
+   específico de la filosofía.
+
+   Volver al índice 8.2. Evolución y finalidad
+
+   La teoría de la evolución ha sido un incentivo poderoso para la
+   reflexión filosófica desde sus primeras formulaciones. Hoy en día se
+   publican numerosos estudios que llevan la etiqueta de filosóficos y que
+   se centran en el ámbito de la biología. Gran parte de ellos, directa o
+   indirectamente, abordan temas relacionados con la evolución. Por una
+   parte están los problemas epistemológicos relacionados con la teoría,
+   de los que ya se ha hecho mención en el apartado anterior y que tienen
+   que ver con la consideración de su estatuto científico. También en el
+   ámbito epistemológico comparece el problema de la reductibiliad de la
+   teoría de la evolución, y de la biología en general, a otras
+   disciplinas como la física. Este tema también tiene implicaciones
+   ontológicas. La adaptación, el papel de la selección natural y su
+   legitimidad como noción no tautológica, el azar, la noción de función,
+   cuáles son las unidades de selección, la emergencia de propiedades, el
+   concepto de progreso en biología y la continuidad evolutiva del hombre
+   respecto al resto de los animales, son algunas de las otras muchas
+   cuestiones relacionadas con la evolución que son objeto de la reflexión
+   filosófica en la actualidad. No nos es posible abordarlas en este
+   escrito de carácter enciclopédico. Sí es oportuno considerar aquí,
+   aunque sea brevemente, el hecho que el trasfondo de la mayoría de las
+   cuestiones planteadas gira en torno a la reflexión sobre las causas de
+   la evolución.
+
+   La reflexión sobre las causas, especialmente cuando se centra en las
+   causas más radicales o primeras de cualquier realidad, es genuinamente
+   filosófica y obliga a adoptar un enfoque que es global, el propio de la
+   filosofía. Un peligro que, directa o indirectamente, está presente en
+   la consideración de las causas de la evolución es pretender ofrecer
+   soluciones que deben darse desde una perspectiva global, esto es
+   filosófica, con elementos propios del método científico y que, por
+   tanto, no tienen ese alcance. Por ejemplo, la afirmación del azar como
+   principio motor de la evolución, en la manera en que lo propone Monod
+   [Monod 1987], por ejemplo, incurre en una reducción de este tipo. En
+   realidad, el azar forma parte de un mecanismo que, por sí sólo, no es
+   capaz de dar explicación de la evolución desde un enfoque global.
+
+   Este tipo de reduccionismos son con frecuencia contestados desde la
+   misma ciencia. El mismo Dobzhansky afirma: «No pienso que la teoría
+   biológica moderna de la evolución se base en el "azar" hasta el grado
+   que lo teme Auden o que lo afirma Monod. Lo conocido y lo desconocido
+   de esta cuestión merecen una consideración detallada» [Dobzhansky 1983:
+   394-395]. En el mismo documento afirma lo siguiente: «La adaptabilidad
+   mediante la cultura y el lenguaje simbólico transmitido de forma
+   extragénica se ha desarrollado en una única especie —el hombre. Llamar
+   a esto "azar" es una solución sin sentido. El atribuirlo a la
+   predestinación es incompatible con todo lo que se conoce acerca de las
+   causas que producen la evolución. La analogía con la creatividad
+   artística es, por lo menos descriptivamente, más adecuada, ya que no se
+   oponen diferencias obvias a lo contrario» [Dobzhansky 1983: 422-423].
+   La búsqueda de las causas más profundas conduce la reflexión que lleva
+   a Dobzhansky a ver la analogía con la creatividad artística la mejor
+   manera de expresar sus ideas sobre las causas de la evolución. Pero la
+   misma noción de creatividad que él emplea tiene grandes limitaciones y
+   presenta problemas cuando se atribuye a la selección natural. La
+   sinceridad que mueve su reflexión queda patente en las siguientes
+   palabras: «Ni aparecimos por azar ni estábamos predestinados a
+   aparecer. En evolución, el azar y el destino no son alternativas.
+   Tenemos aquí una ocasión en la teoría científica, en la que debemos
+   invocar algún tipo de dialéctica hegeliana o marxista. Precisamos de
+   una síntesis de la «tesis» del azar y de la «antitesis» de la
+   predestinación. Mi competencia filosófica es insuficiente para esta
+   tarea. Imploro la ayuda de colegas filósofos» [Dobzhansky 1983: 419].
+
+   El debate sobre las causas en la naturaleza es tan antiguo como la
+   filosofía. Las reflexiones acerca del movimiento centran las
+   reflexiones de los primeros filósofos griegos. Los frutos más maduros
+   de esta reflexión se encuentran en la doctrina Aristotélica de las
+   cuatro causas: material, formal, eficiente y final. La evolución del
+   pensamiento posterior a Aristóteles incide de una manera u otra en el
+   modo en que dichas causas son entendidas. La ciencia experimental,
+   desde su nacimiento, ha tenido una importante repercusión en esta
+   comprensión. En el ámbito de la biología tiene una importancia
+   particular el modo en que se ha entendido la causa final. La finalidad,
+   su modo peculiar de causar o su inexistencia como causa es una
+   constante en la reflexión filosófica. El nacimiento de la mecánica, por
+   ejemplo, modificó de una manera sustancial el modo de entender las
+   cuatro causas y, de una manera particular, la causa final. El efecto de
+   esta modificación es importante tenerlo en cuenta para entender la
+   orientación que han seguido muchos de los debates de carácter
+   filosófico en torno a la teoría de la evolución.
+
+   El cambio más importante introducido por la mecánica respecto de la
+   causa final radica en que se empezó a contemplarla como causa externa a
+   la naturaleza. Para Aristóteles la finalidad está en la naturaleza de
+   las cosas, lo cual era para él especialmente patente en los seres
+   vivos. Esta perspectiva se mantiene en los grandes maestros medievales
+   que ven en la finalidad una vía para acceder a la existencia de Dios:
+   el argumento de la finalidad. El cambio de perspectiva introducido por
+   la mecánica llevó también a una reformulación apenas perceptible del
+   argumento de la finalidad. El argumento de la quinta vía de Santo
+   Tomás, el de la finalidad, ya no es el argumento teleológico empleado
+   por Paley (1743-1805) para demostrar la existencia de Dios. Ambos
+   entienden de manera distinta la naturaleza y sus causas. El argumento
+   de Paley lleva a afirmar la existencia de un Dios que es la explicación
+   de la complejidad de los seres vivos, pero que causa desde fuera. El
+   ejemplo que emplea de complejidad es la que ostenta un reloj: el orden
+   que manifiestan sus piezas no puede ser explicado por "causas
+   naturales". Las causas del argumento de Paley ya no son las causas
+   aristotélicas. En particular es distinta la causa final. La finalidad
+   del reloj es externa o extrínseca al mismo reloj: una concepción
+   diferente de la entendida por Aristóteles y la tradición tomista para
+   la complejidad que presenta cualquier ser vivo. En ella es muy
+   importante la noción de naturaleza, en la cual se da una unidad, que
+   podríamos llamar intrínseca, entre la causa formal y la final.
+
+   Antes de Darwin el argumento de Paley parecía ser convincente como
+   argumento para acceder a Dios. La filosofía mecánica cumplía de esta
+   manera un papel apologético. Los problemas surgen con Darwin porque su
+   propuesta parece dejar sin fundamento el argumento de la finalidad. Lo
+   que se debe destacar es que el argumento que directamente se ve
+   afectado por la propuesta de Darwin es el sostenido desde la filosofía
+   mecánica. La teoría de la evolución parece ofrecer un modo de explicar
+   la complejidad sin necesidad de recurrir a agentes externos que tengan
+   que diseñar u ordenar los diversos organismos. Esto es inmediatamente
+   interpretado por muchos como una eliminación de la finalidad como causa
+   de la naturaleza. La mecánica pareció borrar la finalidad del mundo
+   inanimado y Darwin, para muchos, consiguió hacer lo mismo en el mundo
+   vivo. Pero eliminar la finalidad es dejar sin base uno de los
+   argumentos más importantes de acceso a Dios. La ciencia, se afirma
+   desde estas posiciones, ha ido arrebatando el papel causal de agentes
+   sobrenaturales a favor de la ciencia. Ayala, por ejemplo, afirma: «Los
+   avances científicos de los siglos XVI y XVII habían llevado los
+   fenómenos de la materia inanimada —los movimientos de los planetas en
+   el cielo y de los objetos físicos sobre la Tierra— al terreno de la
+   ciencia: explicación por medio de leyes naturales. Del mismo modo la
+   selección natural proporcionaba una explicación científica del diseño y
+   la diversidad de los organismos, algo que había sido omitido por la
+   revolución copernicana. Con Darwin, todos los fenómenos naturales,
+   inanimados o vivos, se convirtieron en tema de investigación
+   científica» [Ayala 2007: 24-25].
+
+   Las palabras de Ayala no presuponen explícitamente la expulsión de Dios
+   de la racionalidad pero pueden dar pie a pensar que Dios queda recluido
+   al mundo de lo subjetivo y que, por tanto, en el mejor de los casos, no
+   hay incompatibilidad entre Dios y la ciencia porque pertenecen a
+   ámbitos que no tienen puntos en común: la tesis del doble magisterio
+   que defiende Ayala y también Gould, por ejemplo.
+
+   Estos peligros se derivan de una visión finalista pasada por el filtro
+   del mecanicismo. Es suficiente leer un texto de Tomás de Aquino para
+   constatar que en su propuesta la finalidad no explica la complejidad de
+   una manera externa sino desde la propia naturaleza y, por tanto, a
+   través de las leyes naturales: «La naturaleza es, precisamente, el plan
+   de un cierto arte (concretamente, el arte divino), impreso en las
+   cosas, por el cual las cosas mismas se mueven hacia un fin determinado:
+   como si el artífice que fabrica una nave pudiera otorgar a los leños
+   que se moviesen por sí mismos para formar la estructura de la nave» [S.
+   Tomás de Aquino, Comentario a la Física de Aristóteles, libro II,
+   lectio 14, n.8]. Tomás de Aquino no se opone a un naturalismo
+   metodológico.
+
+   El pluralismo causal de la tradición realista es más rico que el que se
+   deriva de la filosofía mecánica y sobre el que se apoyan todavía muchos
+   de los debates que tienen que ver con la finalidad y las causas en
+   general. El pluralismo causal se enfrenta a los monismos de diverso
+   signo que han sido propuestos como explicación causal de la evolución,
+   los más importantes de tipo materialista. La propuesta de la tradición
+   realista no se enfrenta a un naturalismo metodológico como el que es
+   patente en las palabras de Ayala citadas anteriormente. La filosofía de
+   la tradición realista asume todo lo que la ciencia puede decir en su
+   ámbito, pero encuadra la finalidad, como causa, en un contexto más
+   amplio del que corresponde al método científico. Esto implica que el
+   tema de Dios no deja de ser un tema plenamente racional y que el ámbito
+   científico contribuye necesariamente a la reflexión filosófica: la
+   ciencia, a la que pertenece la teoría de la evolución, a través de la
+   filosofía, tiene que ver con Dios.
+
+   Volver al índice 9. Bibliografía
+     * Artigas, M., Filosofía de la Cienca Experimental. Eunsa. Pamplona
+       1999.
+     * Artigas, M., Las fronteras del evolucionismo, Eunsa, Pamplona 2004.
+     * Artigas, M. and Giberson, K., The Oracles of Science. Celebrity
+       scientists versus God and religion, Oxford University Press, New
+       York 2007.
+     * Ayala, F. J., Los mecanismos de la evolución, en: La evolución de
+       un evolucionista, Universitat de València, Valencia 2006. pp.
+       223-254 [Ayala 2006a].
+     * Ayala, F. J., ¿Es necesaria una nueva síntesis evolutiva? en: La
+       evolución de un evolucionista, Universitat de València, Valencia
+       2006. pp. 255-268 [Ayala 2006b].
+     * Ayala, F. J., La evolución del Darwinismo en: La evolución de un
+       evolucionista, Universitat de València, Valencia 2006. pp. 269-294
+       [Ayala 2006c].
+     * Ayala, F. J., La teoría de la evolución. De Darwin a los últimos
+       avances de la genética. Ediciones Temas de Hoy. Madrid 1994.
+     * Ayala, F. J., Darwin y el Diseño Inteligente. Creacionismo,
+       cristianismo y evolución, Alianza Editorial, Madrid 2007.
+     * Brentano, F., Sobre la existencia de Dios, Rialp, Madrid 1979.
+     * Curtis, H. y Barnes, N. S., Invitación a la Biología, Editorial
+       Médica Panamericana, Buenos Aires 1996 (Quinta edición).
+     * Darwin, C., El Origen de las especies, Biblioteca Austral, Espasa
+       Calpe, Barcelona 2002.
+     * Dobzhansky, T. G., Genética y el origen de las especies, Revista de
+       Occidente, cop., Madrid 1955.
+     * Dobzhansky, T. G., Evolución, Omega, Barcelona 1979.
+     * Dobzhansky, T. G., El Azar y la creatividad en la evolución en:
+       Ayala, F.J. y Dobzhansky, T. G., Estudios sobre la filosofía de la
+       biología, Ariel, Barcelona 1983.
+     * Gould, S. J., La Estructura de la Teoría de la Evolución, Tusquets
+       Editores, Barcelona 2004.
+     * Hoyningen-Huene, P., Systematicity: The Nature of Science,
+       «Philosophia» 36 (2008), pp. 167–180.
+     * Huxley, J., La evolución: síntesis moderna, Losada Cop., Buenos
+       Aires 1946.
+     * Lewontin, R. C., The Unists of Selection, «Annual Review of Ecology
+       and Systematics», 1 (1970), pp. 1-18.
+     * Mayr, E., Así es la biología, Debate, Barcelona 2005.
+     * Meléndez-Hevia, E., La selección natural y la termodinámica en la
+       evolución biológica: del origen de la vida al cáncer, Servicio de
+       Publicaciones. Universidad de la Laguna, Santa Cruz de Tenerife,
+       2001.
+     * Monod, J., El azar y la necesidad, Orbis, Barcelona 1987.
+     * Polo, L., Introducción a la filosofía, Eunsa 1995.
+     * Ruse, M., La filosofía de la biología, Alianza 1979.
+     * Sarkar, S., Doubting Darwin? creationist designs on evolution,
+       Blackwell, Oxford 2007.
+     * Velázquez, H., ¿Qué es la Naturaleza? Introducción Filosófica a la
+       Historia de la Ciencia, Porrúa, México 2007.
+     * Whitfield, J., Postmodern evolution?, «Nature» 455 (2008), pp.
+       281-284.
+     * Zimmer, C., ¿Qué es una especie?, «Investigación y ciencia» VIII
+       (2008), pp. 66-73.
+
+   (BUTTON) Oculto
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+Universidad de Navarra
+
+   Campus Universitario s/n
+
+   Pamplona 31009 NAVARRA
+   España
+
+   Tel. 948 42 56 00
+   cryf@unav.es
+
+   © Universidad de Navarra
+     * Información legal
+     * Accesibilidad
+     * Configuración de cookies
+
+   (BUTTON) Ir arriba

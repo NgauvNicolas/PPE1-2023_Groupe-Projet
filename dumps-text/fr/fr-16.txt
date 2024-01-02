@@ -1,0 +1,400 @@
+   #Commentaires pour "« Robotique et intelligence artificielle :
+   parlons-en ! »"
+
+   Accéder à la navigation
+
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Vous êtes ici
+
+   Accueil / Points de vue / « Robotique et intelligence artificielle :
+   parlons-en ! »
+
+« Robotique et intelligence artificielle : parlons-en ! »
+
+Vous êtes ici
+
+   Accueil / Points de vue / « Robotique et intelligence artificielle :
+   parlons-en ! »
+   [gb.svg] Read in English
+   0 commentaire
+   Point de vue
+   ^-A ^+A
+     * Imprimer
+
+   Numérique
+   Hommage
+
+« Robotique et intelligence artificielle : parlons-en ! »
+
+   13.09.2019, par
+   Jean-Paul Laumond
+   Mis à jour le 21.12.2021
+   Pionnier de la robotique humanoïde, chercheur de référence
+   internationale, Jean-Paul Laumond est décédé. Très investi dans la
+   médiation auprès du grand public, il nous avait notamment livré ce
+   point de vue, en 2019, sur les évolutions de la robotique et de
+   l'intelligence artificielle.
+
+   Nous nous sommes habitués à utiliser quotidiennement des logiciels qui
+   ne marchent pas. Ils sont installés sur nos téléphones portables, ils
+   nous rendent des services et, suivant le contexte, nous nous amusons ou
+   nous nous irritons de leurs limitations. Tel logiciel de reconnaissance
+   de visage nous permet de retrouver dans nos archives toutes les photos
+   de tante Adèle ; que parmi toutes ces photos, se soit glissée la photo
+   d’une autruche n’est pas très grave. La plupart du temps le logiciel
+   Siri est capable d’envoyer correctement à son destinataire sous forme
+   de texto un message simple dicté oralement ; en revanche on s’amuse de
+   ses capacités limitées en menant avec ce logiciel des dialogues
+   surréalistes. En voiture, mis à part ceux qui ont une confiance aveugle
+   dans leur logiciel de recherche d’itinéraire et ne se posent pas de
+   questions, qui n’a pas fait la mauvaise expérience d’inutiles détours ?
+
+   Si l’homme s’accommode de logiciels qui ne marchent pas si mal, un
+   robot humanoïde, lui, n’a pas cette liberté : la moindre erreur et
+   c’est la chute assurée.
+
+   CNRS Le Journal (BUTTON)
+   Si l’homme s’accommode de logiciels qui ne marchent pas si mal, un
+   robot humanoïde, lui, n’a pas cette liberté : la moindre erreur et
+   c’est la chute assurée.
+   phonlamaiphoto /Stock.Adobe.com
+   phonlamaiphoto /Stock.Adobe.com
+   Partager
+   Partager
+
+Des informations à valider
+
+   Ces logiciels sont dédiés à des applications spécifiques. Chacun
+   bénéficie des avancées en matière de vision artificielle, de traitement
+   de la parole et du langage naturel, ou d’exploitation des réseaux de
+   communication donnant en temps réel la situation du trafic routier.
+   Tous reposent sur des algorithmes de plus en plus puissants qui
+   exploitent efficacement les progrès des processeurs en matière de
+   stockage de l’information et de rapidité de temps de calcul. Tous
+   transforment des données en information, des pixels en tante Adèle, des
+   variations de fréquences sonores en texto, des embouteillages en
+   itinéraires, autant de performances qu’il s’agit de saluer.
+
+   Siri est tout à fait en mesure d’envoyer, sous forme de texto un
+   message qu’on lui dicte, mais de là à dialoguer avec vous…
+
+   CNRS Le Journal (BUTTON)
+   Siri est tout à fait en mesure d’envoyer, sous forme de texto un
+   message qu’on lui dicte, mais de là à dialoguer avec vous…
+   Mark Kauzlarich/Bloomberg via Getty Images
+   Mark Kauzlarich/Bloomberg via Getty Images
+   Partager
+   Partager
+
+
+   Nous sommes conscients que ces logiciels ne sont pas parfaitement
+   fiables et nous nous en accommodons car finalement ils ne marchent pas
+   si mal et leurs erreurs ne prêtent pas à conséquence. En revanche,
+   lorsque ces mêmes logiciels sont utilisés par des spécialistes, ils le
+   sont comme systèmes d’aide à la décision. Que ce soit dans le domaine
+   du diagnostic médical ou de la jurisprudence, leurs capacités à traiter
+   de grandes bases de données sont une aide précieuse pour le médecin ou
+   le magistrat. Il reste que l’information produite par le logiciel doit
+   être validée par le spécialiste. Confondre une autruche et tante Adèle
+   n’a pas le même niveau de gravité que confondre sur une radiographie du
+   sein des microcalcifications et des tumeurs naissantes. C’est au
+   médecin qu’il revient, in fine, d’établir le diagnostic et d’en
+   endosser la responsabilité.
+
+   Confondre une autruche et tante Adèle n’a pas le même niveau de gravité
+   que confondre sur une radiographie du sein des microcalcifications et
+   des tumeurs naissantes.
+
+   De fait, on s’accommode bien dans la pratique des limitations de ces
+   technologies logicielles. On ne cherche pas des logiciels fiables à
+   coup sûr. Il suffit qu’ils soient corrects la plupart du temps. Une
+   information, juste ou erronée, n’est pas dangereuse en soi. Elle peut
+   le devenir seulement par l’interprétation qu’on en donne et
+   l’utilisation qui en est faite. Jusqu’ici, dans les exemples que nous
+   avons pris, ce « on » désigne l’homme, et le médecin est bien le seul
+   responsable de son diagnostic.
+
+   Mais qu’en est-il maintenant si ce « on » désigne une machine physique
+   ? La moindre erreur de logiciel peut conduire un robot humanoïde à
+   chuter. La question n’est pas d’utiliser un logiciel qui ne marche pas
+   si mal la plupart du temps, il s’agit de rendre compte le plus
+   précisément possible des lois de la physique de l’équilibre. Les
+   algorithmes, les logiciels qui en résultent et les informations qui
+   découlent du calcul doivent être certifiés. C’est tout le défi de la
+   robotique que de rendre compte du monde physique sous cet impératif.
+
+Des normes claires et précises
+
+   La mise sur le marché d’un robot répond à des normes strictes définies
+   par des directives machines qui cernent les conditions d’utilisation
+   pour répondre aux nécessités de sécurité. Celles-ci s’imposent dès la
+   conception et définissent le milieu dans laquelle la machine est amenée
+   à évoluer. Ainsi les robots industriels introduits dans l’industrie
+   automobile à partir des années 1960 sont-ils confinés dans des espaces
+   où l’homme ne peut pas pénétrer. Ainsi, il n’est pas permis aux petits
+   robots humanoïdes de type Nao ou Pepper de prendre un produit dans un
+   rayon de supermarché ; ces robots sont seulement de nouvelles machines
+   de communication qui enrichissent Siri de leurs mouvements expressifs ;
+   ils n’interagissent pas avec le monde physique au-delà de leur seule
+   capacité à se maintenir en équilibre. Ils le pourront certainement,
+   mais dans un futur beaucoup plus éloigné que ce que nous suggèrent les
+   médias ou les prophètes des nouvelles technologies.
+
+   Pepper, robot humanoïde, n’est autre qu’une machine de communication
+   enrichie de mouvements expressifs. Il n’interagit pas plus que Siri
+   avec le monde physique.
+
+   CNRS Le Journal (BUTTON)
+   Pepper, robot humanoïde, n’est autre qu’une machine de communication
+   enrichie de mouvements expressifs. Il n’interagit pas plus que Siri
+   avec le monde physique.
+   Murat TUEREMIS/LAIF-REA
+   Murat TUEREMIS/LAIF-REA
+   Partager
+   Partager
+
+
+   Pour prouver que la machine fait bien ce qu’on attend d’elle et
+   uniquement cela, le roboticien s'appuie à la fois sur la modélisation
+   mathématique et le génie logiciel.
+
+   Les progrès en robotique sont plus lents qu’il n’y paraît. La raison
+   essentielle du décalage entre la réalité technologique et les craintes
+   et espoirs qu’elle suscite tient à deux facteurs. D’une part, il s’agit
+   pour le roboticien de répondre aux contraintes de certifications
+   (comment prouver que la machine fait bien ce qu’on attend d’elle et
+   uniquement cela ?). La tâche est difficile : elle repose sur une
+   méthodologie combinant modélisation mathématique et génie logiciel.
+
+   Il s’agit d’autre part de rendre compte de cette difficulté auprès du
+   public qui cherche quant à lui à comprendre ce qu’il en est réellement
+   : les robots sont-ils ou seront-ils capables de nous remplacer ? Pour
+   quelles tâches ? L’intelligence artificielle va-t-elle dépasser
+   l’intelligence humaine ? Autant de questions légitimes qui nécessitent
+   l’instauration d’un dialogue.
+
+Comprendre les nuances de sens
+
+   Le roboticien a besoin de représentations et de mots pour expliquer ses
+   découvertes, les vulgariser, en discuter et en débattre. Comme de
+   nombreux autres domaines scientifiques, la robotique emprunte ses mots
+   à d’autres champs, en particulier ceux de la cognition et de
+   l'intelligence humaine. Si les verbes d’actions sont sans ambiguïté (le
+   robot prend un objet, il marche, il peint, il soude, etc...), les
+   verbes de disposition (être autonome, décider, etc…) nous confrontent
+   quant à eux au risque de la polysémie comme l’illustre l’échange (vécu)
+   entre un roboticien et une personne dans l’assistance à l’issue d’une
+   conférence de vulgarisation sur la robotique humanoïde.
+
+     « Je vous remercie pour votre attention et suis prêt à répondre à vos
+   questions.
+   - Les vidéos que vous nous avez projetées montrant Atlas faisant un
+   salto arrière ou HRP2 passant à travers la brèche du mur sont
+   impressionnantes et démontrent de véritables prouesses technologiques.
+   Mais que va-t-il se passer lorsque ces machines vont être équipées
+   d’une intelligence artificielle ?
+   - (surpris) Humm… Dans mon exposé je n’ai pas utilisé l’expression
+   « intelligence artificielle ». Pourtant, je ne pense pas avoir parlé
+   d’autre chose que d’intelligence artificielle. Des robots capables de
+   telles prouesses révèlent bien une forme d’intelligence
+   --l’intelligence du corps--, vous ne trouvez pas ? Mais, vous,
+   qu’entendez-vous, par intelligence artificielle ?
+   - Je ne sais pas… Peut-être une machine qui serait autonome, qui
+   prendrait des décisions…
+   - Atlas et HRP2 maintiennent leur équilibre dans des conditions
+   extrêmes grâce à des logiciels dont j’ai expliqué les principes. On
+   peut les considérer comme autonomes, n’est-ce pas ? Quand HRP2 prend
+   une balle au sol ou sur une table, on peut dire qu’il décide du
+   mouvement à effectuer. Vous êtes d’accord ?
+   - Oui, en effet.
+   - Donc, en reprenant vos mots (autonomie, décision), on peut conclure
+   que ces robots sont vraiment intelligents. Et je suis entièrement
+   d’accord avec vous !
+   - Je vois… Mais sont-ils conscients ?
+   - Humm… Je vous propose de poursuivre la discussion autour du buffet. »
+
+   Comprendre le sens de ce dialogue constitue un pan de recherche à part
+   entière. L’ouvrage « Wording Robotics » qui vient de paraître réunit
+   pour la première fois autour de ces questions les contributions de
+   roboticiens, de linguistes, d’anthropologues, de philosophes et de
+   neurophysiologistes. Cette recherche pluridisciplinaire constitue un
+   préalable à toute considération éthique sur le développement de la
+   robotique. ♦
+
+
+———————
+Références
+
+   > J.P. Laumond, E. Danblon, C. Pieters (Eds), Wording Robotics,
+   Springer Tracts in Advanced Robotics 130, Springer, 2019.
+
+   > J.P. Laumond, D. Vidal, Robots, Éditions de la Cité des sciences et
+   de l’industrie, 2019.
+
+   > J.P. Laumond, Poincaré et la robotique : les géométries de
+   l’imaginaire, Éditions Le Bord de l’eau, 2018.
+
+Mots-clés
+
+   Robot Intelligence artificielle Algorithmes Information Données
+
+Partager cet article
+
+   La science dans l'objectifPrécédent
+   Fossiles en mouvementSuivant
+
+Les autres points de vue
+
+   Points de vue
+   Voir tous les points de vue
+   Vivant
+   Sociétés
+   « Les mégabassines ne résoudront pas la crise de l’eau »
+   13.09.2023
+   Vivant
+   Sociétés
+   Les vaccins sont-ils des biens communs ?
+   22.06.2023
+   Vivant
+   Biodiversité, vous avez dit biodiversité ?
+   30.05.2023
+   Sociétés
+   L’union des femmes ferait leur force
+   24.08.2022
+   © Common Wikimedia
+   Jean-Paul Laumond
+   Directeur de recherche au CNRS
+
+   Jean-Paul Laumond, roboticien, est directeur de recherche CNRS, au
+   Département d’informatique de l’École normale supérieure...
+   Voir la page de l'auteur
+
+Je vous conseille également
+
+   Dossier
+   Comment l’intelligence artificielle va changer nos vies
+   21.02.2018
+   Article
+   Robots, ces machines incomprises
+   02.04.2019
+   Dossier
+   Robots
+   Le siècle des robots
+   08.01.2015
+
+Commentaires
+
+   0 commentaire
+   Flux RSS
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le Journal - décembre 2023
+   n°314
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+
+Partager
+
+     * Twitter
+     * Facebook
+     * Google
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2024, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Politique d'accessibilité
+     * Gestion des cookies

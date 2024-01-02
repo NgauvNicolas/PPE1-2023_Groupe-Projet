@@ -1,0 +1,1522 @@
+   #We Are Social France » Flux We Are Social France » Flux des
+   commentaires alternate alternate We Are Social France » Flux We Are
+   Social France » Flux des commentaires alternate alternate
+
+   Skip to content
+
+   (BUTTON) Toggle main menu
+
+     * Expertises
+     * Work
+     * Insights
+     * Talents
+     * Contact
+
+   (BUTTON) Select to toggle search form
+
+     * We Are Social Studios
+     * We Are Social Gaming
+     * We Are Social Luxe
+
+   [FR___]
+
+   Rechercher
+   ____________________ (BUTTON) Search
+
+   (BUTTON) Fermer
+
+DIGITAL REPORT : L’ÉVOLUTION DU NUMÉRIQUE EN 2023
+
+   SPECIAL REPORT 26 Jan 2023
+
+   Le paysage numérique et social media continue d’évoluer de manière
+   fascinante. Simon Kemp, fondateur de Kepios, nous présente ici les
+   principaux enseignements du Digital Report 2023.
+
+   Au cours des douze derniers mois, les comportements numériques dans le
+   monde ont connu les changements les plus profonds que nous ayons vus
+   depuis des années, même par rapport aux « années pandémie ».
+
+   Notre nouveau rapport Digital 2023 Global Overview, produit par We Are
+   Social et Meltwater, contient toutes les données dont vous avez besoin
+   pour comprendre les dernières tendances.
+
+Top stories Digital 2023
+
+     * Un grand changement du nombre d’utilisateurs d’Internet dans le
+       monde
+     * Un déclin surprenant de divers aspects de l’activité en ligne
+     * Des informations détaillées sur l’évolution des préférences
+       d’usages des plateformes de médias sociaux.
+     * L’évolution de l’utilisation d’appareils pour accéder aux contenus
+       et services numériques
+     * Des transformations inattendues dans les comportements de recherche
+       en ligne dans le monde
+     * La croissance étonnante de la publicité numérique
+
+   Ce n’est qu’une infime partie de ce que vous trouverez dans le rapport
+   complet, qui comprend plus de 400 graphiques explorant les usages des
+   internautes sur le web, les médias sociaux, les appareils mobiles et
+   les plateformes d’achat en ligne.
+
+   En plus du rapport en tant que tel, nous avons également produit une
+   sélection d’articles approfondis pour vous permettre d’aller encore
+   plus loin dans l’analyse des données de cette année. Vous trouverez
+   donc des liens vers ces ressources « bonus » tout au long de cette
+   analyse.
+
+La “Bible” des statistiques sur le numérique
+
+   Le rapport de cette année est de loin la plus grande collection de
+   données et de tendances que nous ayons jamais publiée, et cette ampleur
+   est due au soutien de nos formidables partenaires.
+
+   Un grand merci à Meltwater qui nous a rejoint en tant que partenaire
+   principal des Global Digital Reports cette année. Meltwater est une
+   plateforme leader de surveillance des médias et d’analyse sociale, dont
+   la vocation est d’aider les entreprises à surveiller, comprendre et
+   influencer le monde qui les entoure.
+
+   Merci également pour leurs datas à :
+     * GWI
+     * Statista
+     * data.ai
+     * Semrush
+     * GSMA Intelligence
+     * Similarweb
+     * Ookla
+     * Skai
+     * Locowise
+     * PPRO
+
+Note Importante concernant les datas
+
+   Avant de commencer à explorer les chiffres, voici des notes détaillées
+   sur les données pour comprendre comment les changements de sources et
+   de méthodologies ont influencé les chiffres de cette année.
+
+   En particulier :
+     * Utilisateurs d’Internet : la complexité de la recherche et de la
+       communication autour de l’adoption d’Internet dans le monde
+       engendre invariablement un retard dans la publication des données
+       les plus récentes. Par conséquent, les chiffres relatifs à
+       l’utilisation d’Internet après 2021 sont probablement en deçà de la
+       réalité, et le nombre réel d’utilisateurs et les chiffres de
+       croissance peuvent être sensiblement plus élevés que les chiffres
+       indiqués dans les rapports de cette année.
+
+     * Utilisateurs Social media : en raison des révisions importantes
+       apportées aux chiffres publiés par les différentes plateformes, les
+       chiffres relatifs à l’utilisation des médias sociaux figurant dans
+       les rapports de cette année ne sont pas directement comparables aux
+       chiffres publiés dans nos rapports précédents. Nous utilisons les
+       données publiées dans les ressources publicitaires d’un certain
+       nombre de plateformes de médias sociaux parmi les plus importantes
+       au monde afin d’informer nos chiffres sur l’utilisation globale des
+       médias sociaux, et tout changement dans ces données sources peut
+       également avoir un impact sur nos chiffres globaux. Par conséquent,
+       dans de nombreux cas, les chiffres concernant les utilisateurs de
+       médias sociaux dans les rapports de cette année sembleront
+       inférieurs aux chiffres que nous avons inclus dans les rapports
+       précédents. Toutefois, ces révisions n’impliquent pas un changement
+       réel dans l’utilisation globale, et notre analyse n’a pas détecté
+       de déclin perceptible dans l’adoption globale des médias sociaux.
+
+    L’essentiel en vidéo
+
+   Voici pour commencer une vidéo qui vous aidera à comprendre les
+   principaux titres et tendances de cette année en 10 minutes seulement.
+
+   IFRAME: https://www.youtube.com/embed/p3a5-pEBB4Y?feature=oembed
+
+Digital 2023 report
+
+   Vous trouverez le rapport complet dans le lien ci-dessous (cliquez ici
+   si cela ne fonctionne pas pour vous). C’est parti pour l’analyse
+   approfondie !
+
+   IFRAME:
+   https://s3-ap-southeast-1.amazonaws.com/datareportal/digital/2023/weare
+   social/digital-2023-wearesocial-global-overview.htm
+
+Digital 2023 : les principaux enseignements
+
+   Commençons par jeter un coup d’œil aux derniers gros titres de l' »état
+   du numérique » mondial :
+     * La population mondiale a dépassé les 8 milliards d’habitants le 15
+       novembre 2022, et a atteint 8,01 milliards au début de l’année
+       2023. Un peu plus de 57 % de la population mondiale vit désormais
+       dans des zones urbaines.
+
+     * ​​Au total, 5,44 milliards de personnes utilisent un téléphone
+       mobile depuis le début de l’année 2023, soit 68 % de la population
+       mondiale totale. Le nombre d’utilisateurs uniques de téléphones
+       mobiles a augmenté d’un peu plus de 3 % au cours de l’année
+       écoulée, avec 168 millions de nouveaux utilisateurs au cours des 12
+       derniers mois.
+
+     * Le monde compte aujourd’hui 5,16 milliards d’utilisateurs
+       d’Internet, ce qui signifie que 64,4 % de la population mondiale
+       totale est désormais en ligne. Le nombre total d’internautes dans
+       le monde a augmenté de 1,9 % au cours des 12 derniers mois, mais
+       les retards dans la transmission des données signifient que la
+       croissance réelle sera probablement plus élevée que ce chiffre.
+
+     * On compte désormais 4,76 milliards d’utilisateurs de médias sociaux
+       dans le monde, soit un peu moins de 60 % de la population mondiale
+       totale. La croissance du nombre d’utilisateurs de médias sociaux
+       s’est toutefois ralentie au cours des derniers mois, l’ajout net de
+       137 millions de nouveaux utilisateurs cette année correspondant à
+       une croissance annuelle de seulement 3 %.
+
+   Ces titres offrent un excellent aperçu de l’utilisation du numérique
+   dans le monde, mais nous devons creuser davantage les données pour
+   comprendre comment les comportements des gens en ligne évoluent
+   réellement.
+
+Mise à jour majeure du nombre d’utilisateurs d’Internet
+
+   Au cours des dernières semaines, deux des principales autorités
+   mondiales sur l’état de la connectivité mondiale – L’UIT et GSMA
+   Intelligence – ont révisé leurs chiffres sur l’utilisation d’Internet
+   dans le monde.
+
+   Ces révisions nous ont permis de mettre à jour de manière significative
+   nos chiffres sur les internautes, et notre dernier total mondial
+   s’élève désormais à 5,16 milliards.
+
+   C’est beaucoup plus que le chiffre de 5,07 milliards que nous avions
+   annoncé en octobre 2022, mais il est important de souligner que le
+   nombre d’utilisateurs d’Internet n’a pas augmenté de 90 millions au
+   cours des trois derniers mois.
+
+   En effet, notre analyse des données les plus récentes indique que ce
+   nombre a seulement augmenté de 98 millions au cours des douze derniers
+   mois.
+
+   Cela se traduit par une croissance d’un peu moins de 2 % en glissement
+   annuel, ce qui est nettement plus lent que les taux de croissance que
+   nous avons connus au cours des années 2010.
+
+   Comme nous l’avons expliqué dans la section « notes importantes sur les
+   données » ci-dessus, les chiffres de l’année ou des deux années les
+   plus récentes sont invariablement inférieurs à la croissance réelle des
+   utilisateurs d’Internet, en raison du temps nécessaire pour mener,
+   traiter et rapporter les recherches sur les utilisateurs d’Internet.
+
+   Cependant, même en tenant compte de ces délais, l’analyse Kepios des
+   dernières données indique que la croissance des utilisateurs a
+   effectivement ralenti au cours des derniers mois.
+
+   Ce ralentissement était prévisible, d’autant plus que plus de 6
+   personnes sur 10 dans le monde surfent déjà sur la toile.
+
+   Et malgré le récent ralentissement, les tendances actuelles suggèrent
+   toujours que les deux tiers de la population mondiale devraient être en
+   ligne d’ici la fin 2023.
+
+  Utilisation d’Internet par pays
+
+   L’utilisation du numérique varie encore considérablement d’un pays à
+   l’autre.
+
+   Dans le haut du classement, les taux d’adoption d’Internet sont
+   désormais égaux ou supérieurs à 99 % dans 8 pays au total, tandis que
+   55 pays au total bénéficient d’un taux d’adoption supérieurs à 90 %
+   [notez que nous plafonnons les taux d’adoption d’Internet à 99 %].
+
+   Mais, étonnement, le taux d’adoption d’Internet en Amérique du Nord est
+   en fait inférieure à celle de l’Union européenne et du Royaume-Uni.
+
+   L’analyse de l’UIT indique que 91,8 % de la population des États-Unis
+   est en ligne aujourd’hui, ce qui place le pays au 45e rang au niveau
+   mondial [notez que le graphique ci-dessous ne présente que les données
+   d’une sélection de grandes économies].
+
+   En outre, l’Amérique du Nord ne représente que 6,7 % de la population
+   Internet totale du monde.
+
+   Ainsi, si les tendances numériques américaines ont continuellement un
+   impact sur le reste du monde, les habitudes numériques aux États-Unis
+   sont rarement représentatives de celles que l’on observe dans les
+   autres pays.
+
+   Par conséquent, il est essentiel de creuser dans les données des pays
+   locaux pour comprendre ce qui se passe réellement parmi les publics
+   spécifiques que vous espérez atteindre et engager.
+
+   À l’autre bout du spectre de la connectivité, la Corée du Nord continue
+   de se morfondre à la dernière place du classement mondial, Internet
+   étant toujours bloqué pour les citoyens ordinaires de cet État reclus
+   d’Asie du Nord.
+
+   Parallèlement, les données indiquent que moins de 10 % des populations
+   du Soudan du Sud et de la Somalie utilisent aujourd’hui Internet, ce
+   qui place ces pays juste au-dessus de la Corée du Nord, en bas du
+   classement mondial.
+
+   Au total, neuf pays ont un taux d’adoption d’Internet inférieur à 20 %,
+   tandis que moins de la moitié de la population l’utilise dans 61 pays
+   du monde.
+
+   Pour en savoir plus : vous trouverez les derniers gros titres sur
+   l’adoption du numérique par pays dans notre rapport Digital 2023 Local
+   Country Headlines, et nous publierons également une collection complète
+   de rapports approfondis sur les pays à partir de la mi-février 2023.
+
+  Populations non connectées
+
+   En termes absolus, l’Inde abrite la plus grande population « non
+   connectée » du monde, et les données indiquent que 730 millions de
+   personnes dans le pays n’utilisent toujours pas Internet depuis le
+   début de l’année 2023.
+
+   Dans le même temps, malgré un taux d’adoption d’Internet de plus de 70
+   %, la Chine abrite la deuxième plus grande population « non connectée »
+   du monde, avec près de 375 millions de personnes dans le pays qui ne
+   sont pas encore en ligne.
+
+   [KcddiaB8ugnMPL8DhA9SVDiOhwQEEImaicgVrvfNlP2TN8qmlk8k3OVBEZaKfgHgcrySdI
+   bLN9zjSIN8QX2v_Is3TsYuigoMqxTIAsD5VvNsB-FAcXfy0YpA-WsM6ph6Fv_FNTcMUmg9e
+   0iV8lhnL7hgPRrJSU66TeYwwxCwE-DlW9VAWDjc_95o7IHmBA]
+
+   Il est encourageant de constater que les révisions de données que nous
+   avons décrites ci-dessus signifient que les chiffres globaux de cette
+   année concernant les populations non connectées sont nettement
+   inférieurs à ce qu’ils étaient à la même époque l’année dernière.
+
+   Toutefois, en raison du ralentissement de la croissance du nombre
+   d’utilisateurs, il sera plus difficile d’atteindre l’objectif de
+   connectivité universelle fixé par les Nations unies d’ici à 2030,
+   surtout si l’on considère que 2,85 milliards de personnes dans le monde
+   ne sont toujours pas connectées.
+
+   Pour aller encore plus loin : si vous souhaitez explorer les défis liés
+   à la connexion des « non-connectés », vous trouverez de nombreuses
+   autres données et une riche analyse dans cet article.
+
+Baisse du temps passé en ligne
+
+   Mais ce qui est peut-être le plus important dans le rapport de cette
+   année, c’est que le temps que nous passons en ligne a diminué de près
+   de 5 % d’une année sur l’autre.
+
+   GWI indique que l’utilisateur type a réduit de 20 minutes par jour son
+   temps d’utilisation depuis l’année dernière à la même époque.
+
+   Il y a un an, les données de la société montraient que les internautes
+   en âge de travailler passaient en moyenne près de 7 heures par jour en
+   ligne, mais ce chiffre est tombé à 6 heures et 37 minutes par jour dans
+   la dernière vague de recherche.
+
+   [9mezS6OzBTloqg49Og45BYFhhxbfHVaS0-tYmzEHycSRQBt5n6cLJ4DVpqrydsaLW8vWDK
+   js3596VVDVNt93CrtCoKop6INMeqPlYNqDtJnEwWn_7lksbzxYnO56UFzEEsi7Tv-pGzwUe
+   QE_5kh58RA0ZZ92ptusokjy2pgofRdfqOmcIMQ4JGn6T62ScQ]
+
+   De manière révélatrice, ce dernier chiffre est très proche de la
+   moyenne quotidienne du troisième trimestre 2019 – peu avant que la
+   pandémie COVID-19 ne livre son profond impact sur les comportements
+   numériques du monde.
+
+   Le temps moyen que les gens passent sur Internet n’a cependant pas
+   changé au cours des trois derniers mois, il est donc difficile de
+   savoir si nous verrons ces chiffres baisser davantage.
+
+   Toutefois, l’assouplissement récent de la politique chinoise du « zéro
+   COVID » pourrait amener les internautes du pays à passer plus de temps
+   dans le monde extérieur au cours des prochaines semaines, ce qui
+   pourrait les amener à passer moins de temps en ligne.
+
+   Et comme la Chine représente plus d’un internaute sur cinq (20,4 %)
+   dans le monde, tout changement dans les comportements en ligne des
+   Chinois aura probablement un impact significatif sur les moyennes
+   mondiales.
+
+  Temps passé en ligne par pays
+
+   Le temps que les internautes passent en ligne varie considérablement
+   selon la géographie et la démographie, mais des baisses similaires sont
+   visibles dans toutes les données.
+
+   Par exemple, si les Philippins continuent de passer en moyenne plus de
+   neuf heures par jour en ligne, le dernier chiffre quotidien de 9 heures
+   et 14 minutes est considérablement inférieur aux 10 heures et 56
+   minutes par jour que nous avions indiquées dans notre rapport Digital
+   2021 Global Overview.
+
+   Mais il y a quelques exceptions à la baisse générale du temps passé en
+   ligne.
+
+   Les utilisateurs en Chine disent qu’ils ont passé en moyenne trois
+   minutes supplémentaires par jour à utiliser Internet au troisième
+   trimestre 2022 par rapport au troisième trimestre 2021.
+
+   Toutefois, il convient de rappeler que des restrictions strictes de
+   type COVID-19 étaient toujours en vigueur dans diverses régions de
+   Chine au troisième trimestre 2022, de sorte que ces chiffres peuvent
+   continuer à refléter un « effet pandémique ».Pour en savoir plus : si
+   vous souhaitez découvrir comment l’utilisation d’Internet varie selon
+   le lieu, l’âge et le sexe, consultez cet article.
+
+Comprendre les tendances du temps passé en ligne
+
+   Qu’est-ce que la baisse du temps global passé en ligne nous apprend sur
+   l’évolution des comportements numériques dans le monde ?
+
+   Tout d’abord, rien dans les données n’indique qu’Internet perd de son
+   importance dans la vie des gens.
+
+   Au contraire, une analyse plus approfondie des données indique que les
+   internautes sont de plus en plus réfléchis et déterminés dans leurs
+   activités en ligne.
+
+   En d’autres termes, ils privilégient la qualité à la quantité.
+
+   Mais qu’est-ce qui se cache derrière cette tendance ?
+
+   L’une des hypothèses est le « déblocage » des habitudes adoptées
+   pendant les confinements dûs au COVID-19, et nous reviendrons plus en
+   détail sur cette idée dans un instant.
+
+   Cependant, les récents changements de comportement en ligne ne sont pas
+   seulement le résultat de la sortie de l’isolement.
+
+   Comme l’équipe des tendances de GWI l’a noté dans son récent rapport
+   Global Media Landscape :
+
+   « Bien que les baisses notables du temps passé en ligne illustrent une
+   diminution du rythme – reflétant le paysage post-pandémie et le fait
+   que les gens ont désormais moins de temps à consacrer – une combinaison
+   de lassitude des médias, de désabonnements et de la crise du coût de la
+   vie joue un rôle tout aussi important dans l’aplatissement de la
+   courbe. »
+
+   En attendant, cette citation tirée du rapport Connecting the Dots 2023
+   de GWI offre une perspective plus franche :
+
+   « Il n’y a qu’un nombre limité d’heures dans une journée, et les gens
+   veulent savoir que leur temps en ligne n’est pas gaspillé. »
+
+   Nous avons commencé à explorer les implications d’un comportement en
+   ligne plus réfléchi et plus volontaire dans notre rapport Digital 2022
+   October Global Statshot, mais il est intéressant d’approfondir ces
+   tendances maintenant, en utilisant les derniers chiffres.
+
+Pourquoi le monde est en ligne
+
+   Malgré les récentes révélations sur l’évolution des comportements de
+   recherche dans le monde, la « recherche d’informations » reste la
+   principale raison pour laquelle les gens se connectent à Internet
+   aujourd’hui.
+
+   La dernière vague d’études de GWI révèle que près de 6 utilisateurs
+   d’Internet en âge de travailler sur 10 (57,8 %) se réfèrent toujours à
+   des ressources en ligne lorsqu’ils recherchent des informations, mais
+   on retrouve en tête de liste, ces raisons :
+     * Rester en contact avec les amis et la famille (53,7 %) ;
+     * Se tenir au courant des nouvelles et de l’actualité (50,9 %) ;
+     * Regarder des vidéos (49,7 %).
+
+   Il est intéressant de noter que l’ordre de classement des principales
+   motivations est resté relativement stable au cours des dernières
+   années.
+
+   La priorité relative de se tenir au courant des nouvelles et de
+   l’actualité a reculé depuis l’apogée de la pandémie, et rester en
+   contact avec ses amis et sa famille a regagné la deuxième place qu’elle
+   avait perdue pendant le confinement.
+
+   Cependant, dans l’ensemble, les motivations déclarées par les
+   populations suggèrent qu’ils ont un « répertoire » relativement stable
+   d’activités en ligne.
+
+   Mais si nous creusons un peu plus profondément dans les données de GWI,
+   un résultat plus intéressant émerge…
+
+   Dans l’ensemble, le nombre moyen de motivations citées par les
+   internautes en âge de travailler comme raisons principales d’aller en
+   ligne a diminué de plus de 11 % au cours des quatre dernières années.
+
+   On observe également un déclin similaire dans les types de sites Web et
+   d’applications que nous utilisons, le nombre moyen d’options choisies
+   par les personnes interrogées dans le cadre de l’enquête GWI ayant
+   diminué de 3,5 % au cours des cinq derniers trimestres.
+
+   Même en ce qui concerne les « produits de base universels » tels que
+   les applications de chat et les messageries, le nombre de personnes
+   choisissant cette option a diminué de près de 1 % au cours de l’année
+   écoulée.
+
+   Mais revenons à ces tendances d’enfermement… trois ans plus tard,
+   quelles habitudes avons-nous gardées, et lesquelles avons-nous perdues
+   ?
+
+Un retour à la “normal” ?
+
+   Comme nous l’avons souligné dans notre rapport Digital 2020 April
+   Global Statshot, bon nombre des tendances qui ont émergé pendant les
+   jours les plus sombres de la pandémie étaient dues à des circonstances
+   extraordinaires, lorsque des centaines de millions de personnes étaient
+   confinées chez elles.
+
+   Toutefois, avec l’assouplissement des restrictions et le retour au
+   monde extérieur, nombre de ces « habitudes pandémiques » se sont
+   estompées et, dans bien des cas, les individus ont retrouvé des
+   comportements qui ressemblent beaucoup à ceux d’avant la pandémie.
+
+   Le coronavirus a-t-il eu l’impact durable sur les comportements
+   numériques que beaucoup avaient prédit dans les premiers jours du COVID
+   ?
+
+   Comme on pouvait s’y attendre, une grande partie de l’hyperbole que
+   nous avons vue au début de 2020 s’est avérée inexacte, mais les données
+   suggèrent qu’il y a aussi plusieurs cas où le monde numérique a
+   effectivement « changé pour toujours ».
+
+   Cependant, ces changements sont rarement aussi extrêmes que les gros
+   titres le suggèrent.
+
+   Examinons-les de plus près.
+
+Changements dans les comportements d’achat en ligne
+
+   Les achats en ligne constituent un exemple particulièrement
+   intéressant, car de nombreux éléments montrent que les gens sont
+   désormais plus disposés à utiliser le e-commerce qu’avant la pandémie.
+
+   Comme l’a observé le chef économiste du groupe Sea Limited dans un
+   récent rapport publié par Bain and Meta :
+
+   « Avant la pandémie, les personnes qui utilisaient le e-commerce
+   achetaient des articles dans des catégories comme la mode, la beauté et
+   l’électronique. Si certains commandaient occasionnellement de la
+   nourriture et des boissons, la majorité n’envisageait même pas
+   d’acheter des produits d’épicerie ou des produits de grande
+   consommation. Aujourd’hui, la situation a changé. Et une fois que les
+   gens ont appris à le faire et ont expérimenté la commodité et la
+   flexibilité qu’il offre, il est difficile de le désapprendre. »
+
+   En d’autres termes, lorsque les gens sont contraints de développer de
+   nouvelles habitudes, mais découvrent ensuite les avantages de ces
+   nouveaux comportements, il y a de fortes chances que ces nouvelles
+   habitudes se maintiennent.
+
+   Cependant, les habitudes d’achat des populations ne sont pas binaires,
+   et les données montrent également que les gens se sont empressés de
+   retourner dans les magasins du monde physique une fois les restrictions
+   COVID-19 assouplies.
+
+   Une étude de Statista révèle que, malgré une baisse globale des
+   dépenses de détail (en ligne et hors ligne) au cours de l’année
+   écoulée, les canaux en ligne représenteront une part plus importante
+   des dépenses en 2022 qu’en 2021.
+
+   Cela dit, les mêmes données révèlent également que les canaux en ligne
+   n’ont représenté que 17,1 % des dépenses de détail mondiales au cours
+   de l’année écoulée.
+
+   Cela signifie qu’au niveau mondial, le commerce en ligne ne représente
+   encore qu’environ 1 dollar sur 6 des dépenses de détail des
+   consommateurs.
+
+   Donc non, le COVID-19 n’a pas fondamentalement transformé le shopping.
+
+   En outre, maintenant que la plupart des gens ont une plus grande
+   liberté dans le choix des canaux de vente au détail, nous pouvons nous
+   attendre à ce qu’ils adoptent un mélange d’achats en ligne et en
+   physique.
+
+   Il est important de se rappeler cependant que de nombreuses personnes
+   sont aujourd’hui plus familiarisées avec le commerce en ligne qu’elles
+   ne l’étaient avant les confinements, et qu’il y a donc une plus grande
+   probabilité qu’elles choisissent les canaux en ligne aujourd’hui par
+   rapport aux tendances pré-pandémie.
+
+   Les données confirment également cette hypothèse, les recherches en
+   cours menées par GWI et Statista suggérant que la part du e-commerce
+   dans l’ensemble des activités d’achat et des dépenses de détail
+   continuera à augmenter au cours des prochaines années.
+
+   Pour aller plus loin : Le rapport « Commerce Trends 2023  » de Shopify
+   regorge d’informations et de tendances récentes dont vous avez besoin
+   pour donner du sens aux opportunités de vente au détail hybride
+   d’aujourd’hui. Lisez le rapport complet ici.
+
+Changements dans les comportements télévisuels dans le monde
+
+   Les plateformes de diffusion TV en continu comme Netflix ont été un
+   autre bénéficiaire largement cité de l’influence des confinements sur
+   les comportements numériques mondiaux.
+
+   Mais ces comportements de l’ère de la pandémie ont-ils perduré ?
+
+   Eh bien, malgré les difficultés rencontrées par les entreprises
+   individuelles, il est clair que le streaming continue de représenter
+   une part toujours plus importante de l’audience mondiale de la
+   télévision.
+
+   Par exemple, les dernières données de GWI montrent que des services
+   comme Netflix et Disney+ représentent désormais plus de 45 % du temps
+   que les internautes en âge de travailler passent à regarder la
+   télévision.
+
+   Cette part a augmenté de 10 % en valeur relative depuis le troisième
+   trimestre 2019 (+4,3 points de pourcentage), l’internaute type passant
+   désormais plus de 1½ heure par jour à regarder des services de
+   streaming et la télévision en ligne.
+
+   Cependant, les tendances de croissance récentes reflètent en fait
+   celles que nous avons observées avant la pandémie, et il convient
+   également de souligner que la télévision « classique » (c’est-à-dire
+   les chaînes de télévision et les chaînes câblées) représente encore
+   plus de la moitié du temps total passé devant la télévision dans le
+   monde.
+
+   Par ailleurs, les données de GWI révèlent que plus de 9 utilisateurs
+   d’Internet en âge de travailler sur 10 dans les plus grandes économies
+   du monde diffusent déjà des contenus télévisés et des films sur
+   Internet, de sorte qu’il ne reste plus beaucoup de place pour que les
+   taux d’adoption continuent de croître.
+
+   L’étude de GWI révèle également que moins d’un internaute sur trois,
+   âgé de 16 à 64 ans, paie actuellement un abonnement mensuel à un
+   service de streaming de cinéma ou de télévision.
+
+   Par conséquent, il sera intéressant de voir si le lancement des
+   abonnements avec publicité aura un impact significatif sur la part du
+   streaming dans le temps de télévision global.
+
+   À ce sujet : découvrez comment l’évolution des motivations et des
+   priorités de la population influence les habitudes en matière de vidéo
+   en ligne dans cet article.
+
+La publicité numérique en plein essor
+
+   En parlant de contenu soutenu par la publicité, le plus grand
+   bénéficiaire des changements induits par les confinements dans les
+   comportements numériques du monde a peut-être été l’industrie de la
+   publicité numérique.
+
+   Les données de Statista révèlent que la part du numérique dans le total
+   des dépenses publicitaires mondiales a augmenté d’un pourcentage
+   relatif de 27,7 % depuis 2019, passant de 57,4 % en 2019 à 73,3 % en
+   2022.
+
+   Mais en termes absolus, les revenus publicitaires numériques ont fait
+   un bond massif de 78 % au cours des trois dernières années, passant
+   d’un total pré-pandémique d’un peu moins de 375 milliards de dollars en
+   2019, à plus de 667 milliards de dollars en 2022.
+
+   Comme vous pouvez le voir dans le graphique ci-dessous, le plus grand
+   saut a eu lieu en 2021, avec des revenus publicitaires numériques
+   mondiaux augmentant d’un tiers par rapport aux dépenses de 2020.
+
+   En d’autres termes, le COVID-19 a considérablement remodelé les
+   investissements publicitaires mondiaux, et cette évolution vers le
+   numérique semble avoir perduré.
+
+   Comme vous pouvez vous y attendre, les dépenses publicitaires
+   numériques varient considérablement d’un pays à l’autre.
+
+   À l’extrémité supérieure du spectre, notre analyse des données de
+   Statista suggère que les entreprises ont dépensé un total annuel
+   combiné de près de 880 dollars par internaute pour atteindre les
+   audiences en ligne aux États-Unis en 2022.
+
+   Mais à l’autre extrémité du classement, les marques n’ont investi qu’un
+   total annuel combiné de 5,26 USD par internaute pour atteindre les
+   audiences en ligne en Inde l’année dernière, et ce chiffre tombe à
+   seulement 1,43 USD par utilisateur au Ghana.
+
+   Dans le monde de la publicité numérique, les plateformes social media
+   semblent avoir été les plus grandes bénéficiaires de ces changements.
+
+   L’analyse de Statista indique que la part des médias sociaux dans les
+   dépenses publicitaires numériques mondiales est passée d’environ un
+   quart du total en 2019, à plus d’un tiers en 2022.
+
+   C’est déjà assez impressionnant, mais les chiffres des dépenses
+   absolues racontent une histoire encore plus convaincante.
+
+   Les données publiées dans l’Advertising & Media Outlook de Statista
+   montrent que les dépenses mondiales en publicités sur les médias
+   sociaux ont plus que doublé depuis l’apparition du COVID, pour
+   atteindre 226 milliards de dollars en 2022.
+
+[HpuTrbk-tVY61A__tvC4o8OTpA0bR6wpiE3_fQog7o3AuUIAQLnES0JeKfeItS_wLZxKcV568qVJkTg
+bPfoUAGP4oprDxScnjHbuzO8-XgABLDPdRFAwuBavvcue2nI7U3Ubq2FDXlIT2zgmvP3HGMff5A1KzuT
+Gl3gn6CW35oLq386j7uH1Z6QfU_pcOg]
+
+Évolution des comportements en matière de médias sociaux
+
+   L’augmentation de l’utilisation des médias sociaux a été l’un des faits
+   marquants des lockdowns COVID-19, la quasi-totalité des grandes
+   plateformes ayant enregistré une croissance impressionnante sur la
+   plupart des indicateurs clés.
+
+   Mais les changements soudains et spectaculaires dont nous avons été
+   témoins au cours du deuxième trimestre 2020 se sont-ils traduits par
+   des comportements numériques durables ?
+
+   Eh bien, dans l’ensemble, la réponse à cette question est « oui », mais
+   il y a quelques mises en garde.
+
+  Le nombre d’utilisateurs de médias sociaux continue d’augmenter
+
+   L’analyse de Kepios révèle que le nombre total d’utilisateurs de médias
+   sociaux dans le monde a augmenté de près de 30 % depuis le début de la
+   pandémie, ce qui équivaut à plus d’un milliard de nouveaux utilisateurs
+   au cours des trois dernières années.
+
+   Les taux de croissance de ces dernières années indiquent également que
+   le COVID-19 a accéléré l’adoption des médias sociaux.
+
+   Par exemple, la croissance annuelle entre 2020 et 2021 était presque
+   deux fois plus rapide qu’au cours des douze mois précédents, et la
+   croissance s’est poursuivie à un rythme à deux chiffres entre 2021 et
+   2022.
+
+   Cependant, la croissance a considérablement ralenti au cours des douze
+   derniers mois, et le chiffre de croissance mondiale que nous rapportons
+   dans nos rapports Digital 2023 est le plus bas que nous ayons jamais
+   vu.
+
+   Mais ce qu’il faut retenir ici, c’est que le nombre d’utilisateurs
+   continue d’augmenter.
+
+   En d’autres termes, il n’y a pas d’indices réels pour affirmer la
+   « disparition » imminente des médias sociaux, comme peuvent le titrer
+   certains médias.
+
+   Mais ce n’est pas seulement l’augmentation du nombre d’utilisateurs qui
+   démystifie ces affirmations fallacieuses…
+
+Nous passons plus de temps sur les médias sociaux
+
+   Les données de GWI montrent que les gens passent en fait plus de temps
+   que jamais sur les médias sociaux.
+
+   La dernière vague d’études de l’entreprise révèle que l’internaute type
+   en âge de travailler passe désormais plus de 2,5 heures par jour sur
+   les plateformes sociales, ce qui est le chiffre le plus élevé que nous
+   ayons vu.
+
+   Certes, la dernière moyenne quotidienne mondiale n’est supérieure que
+   de trois minutes à celle de l’année dernière à la même époque, mais
+   elle est tout de même en progression.
+
+   Et, plus important : cette augmentation s’est produite malgré la baisse
+   du temps global passé sur Internet que nous avons étudiée plus haut.
+
+   En effet, les médias sociaux représentent désormais la part la plus
+   importante jamais atteinte du temps total passé en ligne, avec près de
+   4 minutes sur 10 passées en ligne attribuables aux activités des médias
+   sociaux.
+
+   À titre de comparaison, ces chiffres montrent que l’internaute type en
+   âge de travailler passe désormais 30 % plus de temps à utiliser les
+   médias sociaux chaque jour qu’à regarder la télévision
+   « traditionnelle » (c’est-à-dire les chaînes de télévision diffusées et
+   câblées).
+
+   Cette augmentation des dépenses publicitaires sur les médias sociaux
+   est donc peut-être pleinement justifiée.
+
+   En savoir plus ? Découvrez comment le temps passé à utiliser les médias
+   sociaux varie selon le pays, l’âge et le sexe ici
+
+L’évolution des préférences du monde en matière de médias sociaux
+
+   La profusion récente de titres médiatiques trompeurs ne s’est pas
+   limitée à l’utilisation globale des médias sociaux. Nous avons
+   également constaté une augmentation marquée des articles incorrects sur
+   les tendances des plateformes individuelles.
+
+   Certaines de ces fausses informations sont liées à des hypothèses non
+   fondées et à une mauvaise vérification des faits. C’est pourquoi, dans
+   les sections suivantes, nous examinerons les données les plus récentes
+   provenant de diverses sources réputées, indiquant ce que les gens font
+   réellement sur les médias sociaux.
+
+   Toutefois, nous ne pourrons pas tout couvrir ici, alors rendez-vous sur
+   cet article approfondi si vous souhaitez avoir une meilleure vue
+   d’ensemble.
+
+Plateformes de médias sociaux : utilisateurs actifs mensuels
+
+   Si l’on classe les plateformes en fonction du nombre d’utilisateurs
+   actifs mensuels – ce qui constitue sans doute la base de comparaison la
+   plus cohérente – les dernières données « officielles » suggèrent que
+   Facebook reste en tête au niveau mondial.
+
+   Les chiffres publiés dans le rapport sur les résultats des
+   investisseurs du troisième trimestre 2022 de Meta montrent que la
+   plateforme compte désormais 2,958 milliards d’utilisateurs actifs
+   mensuels (MAU), ce qui équivaut à près de 37 % de la population
+   mondiale totale.
+
+   Pendant ce temps, la dernière déclaration « officielle » de YouTube
+   indique que la plateforme compte « plus de 2 milliards d’utilisateurs
+   mensuels connectés », mais les chiffres publiés dans les propres
+   ressources publicitaires de l’entreprise suggèrent que la plateforme
+   attire désormais plus de 2,5 milliards d’utilisateurs chaque mois.
+
+   Instagram a également consolidé sa position parmi les principales
+   plateformes de médias sociaux depuis notre rapport d’octobre 2022,
+   l’entreprise ayant récemment annoncé qu’elle comptait 2 milliards
+   d’utilisateurs actifs mensuels.
+
+   Cela place la plateforme sur un territoire similaire à celui de sa
+   compagne WhatsApp, bien que Meta rapporte maintenant que WhatsApp
+   attire 2 milliards d’utilisateurs actifs par jour, donc son chiffre
+   d’utilisateurs mensuels est probablement encore plus élevé.
+
+   WeChat complète le top cinq, avec l’annonce la plus récente des gains
+   des investisseurs de Tencent révélant que la plate-forme a maintenant
+   plus de 1,3 milliard d’utilisateurs actifs mensuels.
+
+   Toutefois, l’analyse de Kepios indique que les utilisateurs en Chine
+   représentent toujours la grande majorité de la base d’utilisateurs
+   mondiale de WeChat.
+
+Les applications de médias sociaux les plus utilisées au monde
+
+   Nous sommes ravis de nous être associés plus étroitement à data.ai pour
+   nos rapports Digital 2023, ce qui nous permet de vous apporter un
+   éclairage encore plus riche sur ce qui se passe réellement dans le
+   monde du mobile.
+
+   Avant d’entrer dans le vif du sujet, notez que notre analyse des
+   utilisateurs actifs mensuels d’applications n’inclut pas de données
+   pour la Chine, en raison de différences importantes entre les marchés
+   d’applications de ce pays.
+
+   Le classement des utilisateurs actifs présenté dans les rapports de
+   cette année est également différent de celui des rapports précédents,
+   car nous sommes désormais en mesure d’inclure les applications
+   préinstallées dans cet ensemble de données (par exemple YouTube sur les
+   appareils Android).
+
+   Notre analyse de données élargies révèle des informations fascinantes.
+
+   Au niveau mondial, l’intelligence de data.ai révèle que YouTube compte
+   le plus grand nombre d’utilisateurs actifs de toutes les applications
+   mobiles, et pas seulement des applications de médias sociaux.
+
+   Facebook occupe la deuxième place en termes d’applications social media
+   dans ce classement général, mais soulignons que les chiffres de data.ai
+   montrent que les utilisateurs actifs de Facebook ont continué à
+   augmenter au cours des douze derniers mois.
+
+   WhatsApp est la troisième application social media de ce classement,
+   les derniers chiffres MAU la plaçant juste derrière Facebook.
+
+   Instagram et Messenger, deux compagnons stables de Meta, occupent les
+   autres places « sociales » dans le top 10 des applications par MAU,
+   Google et Meta représentent la totalité de ce top 10.
+
+   Mais qu’en est-il de TikTok ?
+
+   Comme on pouvait s’y attendre, la plateforme de vidéos courtes,
+   extrêmement populaire, occupe désormais la sixième place au niveau
+   mondial, même s’il faut souligner que ce classement ne tient pas compte
+   des utilisateurs de l’application sœur de TikTok, Douyin.
+
+   Telegram arrive en septième position, devant Twitter en huitième
+   position, tandis que Snapchat et Pinterest complètent le top 10 des
+   applications de médias sociaux par utilisateurs actifs mensuels.
+
+   Le nombre absolu d’utilisateurs n’est qu’une partie de l’histoire,
+   alors regardons aussi de plus près le temps passé à utiliser les
+   applications de médias sociaux.
+
+Temps passé sur les applications social media
+
+   Il existe plusieurs façons d’examiner ces données, mais l’analyse la
+   plus perspicace consiste à examiner le temps total passé par tous les
+   utilisateurs et le temps moyen par utilisateur.
+
+   En ce qui concerne le temps total passé sur les applications de médias
+   sociaux chaque mois, le classement de data.ai présente de nombreuses
+   similitudes avec son classement par utilisateurs actifs mensuels.
+
+   Toutefois, dans le classement par temps total passé, TikTok et Facebook
+   Messenger s’échangent les places, tandis que LINE gagne quelques places
+   pour se placer devant Snapchat.
+
+   En raison de la valeur commerciale de ces données, nous ne sommes pas
+   en mesure d’indiquer le temps total passé sur chaque plateforme, mais
+   nous pouvons indiquer l’ordre de classement, ainsi que le temps moyen
+   par utilisateur pour chaque plateforme [si vous souhaitez approfondir
+   l’ensemble des données, rendez-vous sur data.ai].
+
+   Mais ces chiffres relatifs au temps moyen par utilisateur racontent une
+   histoire fascinante en soi.
+
+   Parmi les applications de médias sociaux les plus utilisées au monde,
+   TikTok a bénéficié de l’utilisation mensuelle moyenne par utilisateur
+   la plus élevée au cours de l’année 2022.
+
+   Les utilisateurs de l’application Android de la plateforme de vidéos
+   courtes ont passé en moyenne près de 23,5 heures par mois à utiliser
+   l’application TikTok entre janvier et décembre de l’année dernière,
+   juste devant les 23 heures et 09 minutes par mois de YouTube.
+
+   La montée de TikTok au sommet de ces classements n’est peut-être pas
+   une surprise, mais certaines des données qui alimentent son ascension
+   peuvent encore faire sourciller.
+
+   Par exemple, les propres données de la plateforme montrent que les
+   messages marqués #FYP (« for you page ») ont été vus 35 trillions de
+   fois – et oui, c’est vraiment des trillions.
+
+   Même si chacun de ces visionnages ne durait qu’une seule seconde, cela
+   représenterait bien plus d’un million d’années d’existence humaine
+   combinée… et cela ne concerne que les vidéos marquées #FYP.
+
+   Mais, ce qui pourrait être une autre surprise si vous avez lu les
+   médias récemment, Facebook se classe troisième dans les chiffres de
+   data.ai pour le temps moyen passé par utilisateur, avec près de 20
+   heures par mois.
+
+   De plus, les informations de data.ai révèlent que le temps moyen que
+   les utilisateurs de Facebook passent sur l’application Android de la
+   plateforme a en fait augmenté au cours de l’année dernière, passant
+   d’une moyenne de 19,6 heures par mois et par utilisateur en 2021 à 19,7
+   heures en 2022.
+
+   Et pour ajouter au contexte, les données de Statcounter suggèrent que
+   les téléphones Android représentent 72 % de tous les smartphones
+   utilisés aujourd’hui.
+
+   D’autre part, l’utilisateur type d’Instagram passe deux fois moins de
+   temps à utiliser la plateforme que les utilisateurs de TikTok.
+
+   Mais l’utilisation d’Instagram varie de manière significative d’un pays
+   à l’autre.
+
+   Par exemple, l’utilisateur type d’Instagram en Turquie passe en moyenne
+   21,4 heures par mois à utiliser l’application Android de la plateforme,
+   mais en Corée du Sud, ce chiffre tombe à seulement 6,1 heures par mois.
+
+   Pour aller plus loin: Le rapport phare de data.ai « State of Mobile
+   2023 » regorge de données et de tendances essentielles sur la façon
+   dont le monde utilise les téléphones mobiles aujourd’hui.
+
+[n9cF63T8Pl13TwWmJW7qQPRCGbI3_Q48zAp4iRSTZOAv7TYylxjlMDndQzwSOCNPURz7L6K3wQK0pPk
+_TwNK5rYxO1gwJ2lr6i9hw3o1N4hVUxgX8oupbY3XgOrOwsSkYEiaI3rqzBo1Px7-Z86lAU7vUpBNKgf
+SKZMcz6Rciptrf0NND6quOpXNHyIARQ]
+
+Trafic web vers les plateformes sociales
+
+   Le nombre de visiteurs attiré par le site web de chaque plateforme
+   offre une autre perspective intéressante sur l’utilisation des médias
+   sociaux, notamment parce que les chiffres du trafic web incluent les
+   personnes qui ne se sont pas activement connectées à chaque service
+   respectif.
+
+   Les estimations du trafic web varient considérablement d’une source à
+   l’autre, mais le classement de YouTube et de Facebook reste
+   relativement cohérent d’une source à l’autre.
+
+   Par exemple, Semrush place actuellement YouTube à la deuxième place de
+   son classement mondial des sites Web, avec un total de 5,85 milliards
+   de « visiteurs » uniques par mois, devant les 2,48 milliards de
+   Facebook, qui occupe la troisième place.
+
+   Notons que ces chiffres ne représentent pas des individus uniques, car,
+   dans ce contexte, les « visiteurs » sont plus proches des
+   « appareils ».
+
+   Similarweb propose des chiffres très différents de ceux de Semrush,
+   mais le résultat est le même : YouTube se classe deuxième avec 1,94
+   milliard de visiteurs uniques par mois, tandis que Facebook se classe
+   troisième avec 1,61 milliard.
+
+   De manière plus générale, de nombreux indices suggèrent que les gens
+   consomment de plus en plus de contenu social à partir de navigateurs
+   Web et d’applications mobiles, et l’augmentation de ces comportements
+   Web a des implications importantes pour quiconque espère impliquer les
+   audiences des médias sociaux.
+
+   Nous avons exploré cette tendance en détail dans notre rapport Digital
+   2022 October Global Statshot Report, alors rendez-vous sur notre
+   article d’analyse si vous souhaitez en savoir plus.
+
+La plateforme de médias sociaux la plus populaire au monde
+
+   Toutes les données sur les médias sociaux que nous avons explorées
+   jusqu’à présent tiennent compte de l’utilisation active de chaque
+   plateforme, mais ces données ne nous renseignent pas sur l’affinité des
+   utilisateurs pour chaque plateforme, ni sur la place de ces plateformes
+   dans leur vie quotidienne.
+
+   Heureusement, les excellentes données de GWI nous permettent d’explorer
+   cette perspective.
+
+   Avant de creuser ces données, il est essentiel de souligner que GWI
+   traite YouTube comme une plateforme vidéo plutôt que comme une
+   plateforme social media, de sorte que YouTube n’apparaît pas dans
+   l’ensemble de données « plateforme sociale préférée » de GWI.
+
+   Cependant, cet ensemble de données révèle tout de même quelques
+   informations fascinantes.
+
+   Tout d’abord, bien qu’elle ne soit que troisième en termes de nombre
+   total d’utilisateurs actifs, WhatsApp est actuellement la plateforme de
+   médias sociaux « préférée » du monde.
+
+   Bien entendu, chaque personne peut interpréter le terme « favori »
+   différemment, il y a inévitablement un certain degré de subjectivité
+   dans ces classements.
+
+   Instagram et Facebook poursuivent leur danse continue pour la deuxième
+   place du classement, bien que leurs parts respectives des votes
+   mondiaux soient encore presque identiques.
+
+   WeChat – également connu sous le nom de 微信, ou « Weixin » en chinois –
+   se classe quatrième au niveau mondial, ce qui démontre non seulement
+   l’ampleur de la population Internet chinoise, mais aussi l’attrait
+   continu de la superapp phare de Tencent.
+
+   Mais ce qui pourrait surprendre, c’est que seulement 6,1 % des
+   utilisateurs de médias sociaux en âge de travailler dans le monde
+   déclarent que TikTok est leur plateforme préférée, ce qui n’est
+   suffisant que pour la cinquième place de ce dernier classement.
+
+   Toutefois, la part de TikTok dans les votes a augmenté de 42 % (+1,8
+   point de pourcentage) depuis l’année dernière à la même époque, ce qui
+   prouve que la popularité de la plateforme est en hausse.
+
+   Mais qu’en est-il de l’opinion des jeunes utilisateurs ?
+
+  Les préférences de plateformes social media selon l’âge et le sexe
+
+   Eh bien, dans ce qui pourrait être un autre choc : les données de GWI
+   révèlent qu’Instagram reste la plateforme de médias sociaux
+   « préférée » des internautes âgés de 16 à 24 ans.
+
+   Dans ce contexte, la popularité de TikTok ne cesse de croître et les
+   données de GWI révèlent que le nombre de femmes âgées de 16 à 24 ans
+   qui désignent TikTok  comme leur plateforme sociale « préférée » a
+   augmenté de plus d’un tiers au cours de l’année dernière.
+
+   Cependant, les mêmes données révèlent que presque deux fois plus de
+   femmes de cette tranche d’âge citent Instagram comme leur plateforme
+   « préférée » par rapport à TikTok (23,1 % contre 12,0 %,
+   respectivement).
+
+   Les jeunes hommes sont encore plus susceptibles de choisir Instagram
+   plutôt que TikTok, mais – et c’est peut-être la plus grande surprise de
+   cet ensemble de données – les hommes âgés de 16 à 24 ans sont en fait
+   plus susceptibles de citer Facebook comme leur plateforme sociale
+   préférée que de choisir TikTok (10,5 % contre 7,7 %, respectivement).
+
+   Il est également intéressant de noter que WhatsApp se classe deuxième
+   dans cette tranche d’âge, les jeunes femmes et les jeunes hommes
+   plaçant la plateforme de messagerie préférée du monde devant TikTok.
+
+   Les choix en matière de médias sociaux
+
+   Un des graphiques le plus précieux de notre rapport pour la
+   planification marketing explore les chevauchements entre les audiences
+   des médias sociaux.
+
+   Nous avons amélioré la méthodologie pour identifier ces chevauchements,
+   de sorte que les résultats de ce dernier ensemble de données sont
+   encore plus représentatifs qu’auparavant.
+
+   Et notre principale conclusion : nous avions en fait complètement
+   sous-représenté les chevauchements d’audience dans nos rapports
+   précédents.
+
+   En effet, la dernière analyse de KEPIOS sur les excellentes données de
+   GWI révèle qu’à peine 1% des utilisateurs d’une plateforme de médias
+   sociaux donnée sont en fait unique à cette plateforme. Les données de
+   GWI suggèrent que Youtube à la « plus grande » audience unique de
+   toutes les plateformes de notre analyse. Cependant, seulement 1% des
+   utilisateurs de YouTube en âge de travailler déclarent ne pas utiliser
+   d’autres plateformes de médias sociaux, de sorte que le terme
+   « important » n’est peut-être pas le plus approprié dans ce contexte.
+
+   De plus, les questions de GWI sur YouTube figurent dans une partie
+   différente de son enquête par rapport aux autres plateformes de cette
+   liste, et si la plateforme vidéo figurait parmi tous les autres choix,
+   il est possible que ce chiffre de 1 % soit encore plus bas.
+
+   Aucune autre plateforme sociale ne peut revendiquer une portée unique
+   de 1 % par rapport aux autres plateformes de médias sociaux et, dans de
+   nombreux cas (notamment TikTok, Snapchat et Twitter), seul 1
+   utilisateur sur 1 000 est unique à cette plateforme.
+
+  Des choix de plateforme non binaires
+
+   Mais si l’on examine ces mêmes données sous un autre angle, ces
+   chevauchements d’audience réfutent également le mythe largement répandu
+   selon lequel les gens « abandonnent » leurs anciennes favorites pour
+   les nouvelles plateformes de médias sociaux.
+
+   Par exemple, parmi les utilisateurs mondiaux âgés de 16 à 64 ans :
+     * 82,5 % des utilisateurs de TikTok utilisent toujours Facebook
+       chaque mois ;
+     * 84,3 % des utilisateurs de Telegram utilisent également WhatsApp
+       chaque mois ; et
+     * 60,7 % des utilisateurs de Snapchat utilisent également Twitter
+       chaque mois.
+
+   Ne vous laissez donc pas distraire par les appâts à clics et les titres
+   mal étudiés ; ce qu’il faut retenir, c’est que les gens utilisent
+   encore chaque mois un large « portefeuille » de plateformes social
+   media différentes.
+
+   Mais ces données ont également des implications plus profondes pour les
+   experts marketing.
+
+   Si vous espérez augmenter votre portée potentielle, il n’y a en fait
+   aucun avantage à essayer d’être présent sur toutes les plateformes de
+   médias sociaux.
+
+   En effet, une présence sur une ou deux des principales plateformes vous
+   permettra d’obtenir la quasi-totalité de la portée dont vous avez
+   besoin.
+
+   Par exemple, une combinaison incluant Facebook et YouTube aurait déjà
+   le potentiel de toucher plus de 9 internautes sur 10 en âge de
+   travailler en dehors de la Chine chaque mois.
+
+   Et si l’on considère que ces deux applications ont la plus grande
+   audience unique parmi les plateformes sociales financées par la
+   publicité, vous verrez des niveaux de duplication exceptionnellement
+   élevés avec chaque plateforme supplémentaire que vous ajouterez à votre
+   mix au-delà de ces deux-là.
+
+   Toutefois, cela ne signifie pas que Facebook et YouTube doivent être
+   vos seuls choix.
+
+   Ces résultats ne concernent que l’augmentation de la portée
+   potentielle, et la portée n’est que l’un des paramètres à prendre en
+   compte lors de l’élaboration d’une stratégie social media ou mix média.
+
+   Mais la bonne nouvelle est que ces informations sur les chevauchements
+   d’audience devraient également vous permettre de choisir plus
+   facilement la ou les plateformes optimales pour vos besoins.
+
+   En d’autres termes, l’activité sur une ou deux des plus grandes
+   plateformes vous permettra de « cocher la case de la portée », ce qui
+   vous permettra de choisir certaines des plateformes plus petites et
+   plus spécialisées pour différents types d’opportunités créatives, ou
+   peut-être pour bénéficier de coûts publicitaires moins élevés.
+
+Le temps passé sur mobile
+
+   L’un des enseignements les plus importants du rapport de cette année :
+   l’utilisateur mobile moyen passe désormais plus de 5 heures par jour
+   sur son téléphone.
+
+   L’analyse de data.ai révèle que les utilisateurs ont passé sept minutes
+   de plus par jour à utiliser leur smartphone en 2022 par rapport à
+   l’année précédente, ce qui équivaut à une augmentation de 2,4 % en
+   glissement annuel.
+
+   En supposant que la personne moyenne dort entre 7 et 8 heures par jour,
+   ces chiffres indiquent que nous passons désormais environ 30 % de notre
+   vie éveillée sur nos téléphones.
+
+   L’analyse de data.ai est basée sur une sélection de grands marchés,
+   mais si cette moyenne se vérifiait pour l’ensemble des utilisateurs de
+   téléphones mobiles dans le monde, notre utilisation combinée des
+   téléphones mobiles atteindrait le chiffre stupéfiant de 10 billions
+   d’heures par an, soit l’équivalent de 1,1 milliard d’années d’existence
+   humaine collective.
+
+   Parallèlement, data.ai indique que les utilisateurs d’Android dans le
+   monde passent plus de 40 % de leur temps mobile sur des applications
+   social media et de communication, ce qui signifie qu’ils passent
+   désormais en moyenne plus de deux heures par jour à utiliser ces
+   services sur leur seul téléphone mobile.
+
+   Les applications photo et vidéo représentent la deuxième plus grande
+   part du temps mobile, soit un quart du total quotidien.
+
+   Ensemble, ces deux catégories d’applications représentent plus des deux
+   tiers des activités mobiles quotidiennes des utilisateurs d’Android.
+
+   La navigation sur le Web arrive en troisième position, mais avec
+   seulement 8,1 % du temps mobile total, il est clair que les
+   applications natives représentent la grande majorité de l’activité
+   mobile d’aujourd’hui.
+
+   Notons aussi que les jeux ne représentent que 8 % du temps quotidien
+   moyen de l’utilisateur Android type.
+
+   Cependant, malgré cette part relativement faible, les jeux mobiles
+   représentent la plus grande part des dépenses des consommateurs, et ce,
+   tant sur le Google Play Store que sur l’App Store d’iOS.
+
+[EU9Xahb9mB7KlJayIs6J53k375XBVQOmTUoZnCr1p4eZczxe76B_uG5KPKzEsTTDAhXFuWJ-6K-TXxL
+JILtn7630XpJ4eUKmWzDMsQ0rAnjI_vgXJyLoex5HhqpeliyymUpXBcBXY5_UJ1fwD0YdGS6Bgx-yoTj
+AVplLZovI2j1DaA1jXrqOth6g4zIzIw]
+
+Meta continue de revoir ses chiffres sur la portée des publicités
+
+   Meta semble apporter des « corrections » plus régulières aux chiffres
+   que la plateforme communique concernant la portée publicitaire
+   potentielle de ses différentes plateformes.
+
+   Pour situer le contexte, ces révisions ne sont pas nouvelles et, au
+   cours des 13 années durant lesquelles nous avons collecté et analysé
+   ces données, la société a procédé à une correction en moyenne tous les
+   12 à 18 mois.
+
+   Notre analyse indique que la société a procédé à une révision
+   significative de ses chiffres au cours d’au moins 4 des 6 derniers
+   trimestres. Et la fréquence de ces corrections rend difficile
+   l’application de ce qui se passe réellement.
+
+   Par exemple, les dernières données de l’entreprise montrent une baisse
+   importante de la portée des publicités Facebook dans presque tous les
+   pays du monde au cours des trois derniers mois, seuls six pays n’ayant
+   pas enregistré de baisse.
+
+   De plus, le chiffre de la portée des publicités rapporté pour ces six
+   pays n’a pas changé depuis octobre, ce qui signifie que nous n’avons
+   pas vu d’augmentation de la portée potentielle dans aucun pays du monde
+   au cours des trois derniers mois.
+
+   Et nous constatons un schéma presque identique dans les chiffres de
+   portée publicitaire d’Instagram également, avec seulement trois pays
+   qui ne sont pas touchés par des corrections. De même, ces trois pays
+   n’ont vu aucun changement dans la portée Instagram déclarée au cours du
+   dernier trimestre.
+
+   Compte tenu des rôles différents et des trajectoires de croissance
+   historiques de ces deux plateformes, ces changements sont plus
+   probablement le résultat d’une purge à grande échelle des comptes
+   dupliqués et inauthentiques que le résultat d’un exode soudain des
+   utilisateurs.
+
+   Certes, le nombre d’utilisateurs des plateformes est amené à fluctuer
+   au fil du temps, mais, à moins d’une panne technique de grande
+   envergure, la constance des baisses dans toutes les régions du monde
+   suggère que les révisions de l’entreprise ont joué le plus grand rôle
+   dans ces changements récents.
+
+  Réduction potentiel du reach
+
+   Indépendamment des raisons pour lesquelles ces chiffres ont chuté, le
+   résultat reste le même : Meta indique aux annonceurs qu’ils peuvent
+   désormais atteindre moins d’utilisateurs sur ses plateformes que
+   l’entreprise ne l’avait précédemment estimé.
+
+   Au niveau mondial, les derniers chiffres de Meta indiquent que les
+   publicités Facebook touchent désormais 127 millions d’utilisateurs de
+   moins que les mêmes outils rapportés à la même époque l’année dernière,
+   ce qui équivaut à une baisse de 6 % en glissement annuel.
+
+   Instagram a cependant connu une « correction » encore plus importante,
+   les données de l’entreprise montrant une baisse de 160 millions
+   d’utilisateurs au cours de l’année écoulée, soit un déclin de près de
+   11 %.
+
+   Messenger n’a pas non plus échappé aux révisions, et les chiffres de
+   Meta concernant la portée de l’application de chat au début de l’année
+   2023 sont inférieurs de près de 6 % aux chiffres que l’entreprise a
+   communiqués au début de l’année 2022.
+
+   Il y a beaucoup plus à dire que ce que nous pouvons couvrir dans cet
+   article, alors rendez-vous sur cette analyse approfondie si vous
+   souhaitez avoir une vue d’ensemble.
+
+Les publicités TikTok touchent plus d’un milliard d’adultes
+
+   Des nouvelles plus encourageantes pour les annonceurs : les chiffres
+   publiés dans les ressources publicitaires de TikTok révèlent que les
+   publicités sur la plateforme atteignent désormais plus d’un milliard
+   d’utilisateurs de plus de 18 ans.
+
+   Ces chiffres par âge peuvent être quelque peu faussés par les « fausses
+   déclarations » d’âge, comme les utilisateurs déclarent eux-mêmes une
+   date de naissance.
+
+   Cependant, même si les chiffres de TikTok sur la portée des publicités
+   représentaient des utilisateurs de tous âges, ils restent très
+   impressionnants.
+
+   De plus, les propres données de l’entreprise indiquent que la portée
+   publicitaire de TikTok a bondi de 11 % au cours des trois derniers mois
+   seulement, avec des chiffres indiquant plus de 100 millions de nouveaux
+   utilisateurs entre octobre 2022 et janvier 2023.
+
+   En outre, ces mêmes données indiquent que la portée publicitaire de
+   TikTok a augmenté de près de 19 % depuis l’année dernière à la même
+   époque, avec 166 millions de nouveaux utilisateurs, ce qui porte le
+   dernier total à 1,05 milliard.
+
+[evHPvO4F1QZlrohqJrUZRB7UGR04nPHIpqcp9UuM2IhrORkSn-qz4nhHiNy1J9NW7qc0PWONMoDqBm0
+LJtEMp0APVut6eBzhuklWrWu8rz4AVJ4xc0C3xmNpXeabwkNtqVKH8KiQYENZxKB2Ei5UiPeRaIaeq_6
+BCKm1nWnRs_TUbZyUK3BApNLKydB6Hg]
+
+L’audience de Twitter grandit
+
+   Les dernières données indiquent que Twitter a également augmenté sa
+   portée publicitaire au cours des derniers mois.
+
+   Les chiffres publiés dans les outils publicitaires de l’entreprise
+   indiquent que la portée globale a augmenté de 12 millions
+   d’utilisateurs depuis octobre 2022, et de 120 millions d’utilisateurs
+   depuis l’année dernière à la même époque.
+
+   Les chiffres de portée publicitaire de Twitter ont toujours été sujets
+   à d’importantes fluctuations – même sur de courtes périodes – ce
+   chiffre de portée totale inclut probablement un certain nombre
+   d’entités « non humaines » (par exemple, des entreprises, des groupes
+   de musique, des comptes pour animaux domestiques, etc.)
+
+   Cependant, l’analyse par Kepios des données sur le trafic web et
+   l’utilisation des applications mobiles ne montre aucun signe de
+   l' »exode » que beaucoup prédisaient au moment de l’acquisition de
+   Musk.
+
+   Pour en savoir + : Lisez notre point de vue sur Twitter qui peut encore
+   être un « diamant brut » ici
+
+Pour creuser un peu plus…
+
+   Le rapport de cette année regorge d’autres données et d’informations
+   fascinantes, mais pour gagner du temps, nous nous contenterons ici de
+   quelques titres et de liens vers une série d’articles plus approfondis
+   où vous pourrez en apprendre davantage.
+
+  L’audio en ligne capte davantage notre attention
+
+   Les individus passent plus de temps que jamais sur les services de
+   musique en streaming et à écouter des podcasts, mais l’histoire est
+   plus compliquée lorsqu’il s’agit de « social audio ».
+
+   À lire ici (en anglais)
+
+   Les obstacles à la blockchain
+
+   Après avoir connu une grande effervescence à la même époque l’année
+   dernière, de nombreux internautes semblent s’être refroidis sur les
+   crypto-monnaies et les NFTs.
+
+   La chute des valorisations, une vague apparemment sans fin de
+   piratages, de scandales et d’escroqueries, et le peu de possibilités
+   d’usages de ces monnaies numériques au-delà de la spéculation sur les
+   investissements engendrent un scepticisme croissant de la part des
+   gens.
+
+   Cependant, la crypto est loin d’être morte.
+
+   À lire ici (en anglais)
+
+  Le Metaverse à revers ?
+
+   De même, les données sur les utilisateurs actifs suggèrent que les
+   mondes virtuels peinent à accroître leur base d’utilisateurs.
+
+   Les données les plus récentes continuent de démontrer un attrait
+   généralisé de certains de ces territoires, mais les chiffres pour
+   certains mondes montrent déjà un déclin.
+
+   À lire ici (en anglais)
+
+  La montée en puissance des accessoires connectés
+
+   Environ trois internautes sur dix de 18 ans ou plus possèdent
+   aujourd’hui un appareil de type « smart wrist », comme une smartwatch
+   ou un tracker de fitness.
+
+   En outre, les données montrent que cette population est désormais plus
+   susceptible de posséder une smartwatch (22,5 %) qu’une console de jeu
+   (20,3 %).
+
+   À lire ici (en anglais)
+
+  LinkedIn franchit une nouvelle étape
+
+   Les derniers chiffres de LinkedIn sur la portée des publicités montrent
+   que le réseau social professionnel compte désormais plus de 900
+   millions de membres inscrits.
+
+   Notre analyse indique que seul un tiers de ces utilisateurs serait
+   probablement actif sur la plateforme chaque mois, mais LinkedIn offre
+   toujours une proposition convaincante pour les experts marketing.
+
+   À lire ici (en anglais)
+
+  Les tendances de la finance en ligne
+
+   Notre analyse suggère que le bouleversement vers le numérique n’a pas
+   encore livré tout son potentiel dans le monde des services bancaires et
+   financiers.
+
+   Et si les données confirment que de nombreuses personnes utilisent déjà
+   la finance connectée, l’utilisateur type n’est probablement pas celui
+   que vous attendez.
+
+   À lire ici (en anglais)
+
+Les perspectives pour 2023
+
+   Nous espérons que toutes ces données et analyses vous ont permis de
+   vous faire une idée précise de l’état actuel du numérique.
+
+   Mais à quoi ressemblera l’année à venir ?
+
+   Voici quelques  éléments à surveiller dans nos prochains rapports
+   trimestriels Statshot :
+
+   L’essor de l’IA créative : des outils comme ChatGPT, Dall-E,
+   Midjourney, Stablediffusion et Synthesia ne sont que les prémisses
+   d’une nouvelle vague d’IA « créative ». Attendez-vous à des
+   améliorations exponentielles des performances, à des applications
+   puissantes dans le monde réel et à une escalade des débats sur les
+   aspects juridiques, éthique et les risques d’abus.
+
+   Un marketing plus ciblé : l’évolution vers une activité Internet plus
+   réfléchie et le désir d’éviter de « perdre du temps » continueront à
+   remodeler les activités en ligne. Cette évolution sera intéressante en
+   soi, mais elle pourrait avoir des implications particulières pour les
+   annonceurs. Les utilisateurs n’auront peut-être que peu de possibilités
+   d’échapper complètement aux publicités interruptrices, mais le
+   marketing apportant consciemment une valeur ajoutée à la vie des gens
+   sera le mieux placé pour réussir.
+
+   Impacts macroéconomiques : alors que le monde poursuit son pénible
+   voyage à travers la polycrise, nous serons à l’affût de signes
+   démontrant que les populations rationalisent ou modifient leurs
+   comportements en réponse à des pressions financières ou à des besoins
+   de bien-être mental. Il est également de plus en plus probable que les
+   tensions géopolitiques entraînent de nouvelles sanctions et
+   l’interdiction de certaines plateformes, ce qui pourrait modifier
+   radicalement les comportements des utilisateurs et le paysage numérique
+   au sens large.
+
+   Repenser le social : les plates-formes que nous qualifions actuellement
+   de « sociales » continueront d’étendre leur influence sur nos vies, en
+   remodelant les endroits où nous recherchons des informations, la façon
+   dont nous consommons des divertissements et les opinions et actions qui
+   influencent notre vision du monde. Les conversations et les expériences
+   partagées continueront d’être une composante essentielle de ces offres,
+   mais il existe des raisons de plus en plus convaincantes de
+   « dégrouper » ces plateformes et d’aller au-delà des termes fourre-tout
+   comme « médias sociaux ».
+
+   Surcharge d’informations erronées : malheureusement, nous nous
+   attendons à voir de plus en plus de médias déformer volontairement les
+   faits lorsqu’ils rapportent des tendances numériques, et l’essor
+   d’outils comme ChatGPT pourrait amplifier davantage ces fausses
+   représentations par le biais du  » recyclage  » du contenu. Par
+   conséquent, il n’a jamais été aussi important de trouver des données
+   précises et représentatives pour éclairer les décisions marketing. Mais
+   la bonne nouvelle, c’est que nous serons là pour vous aider, en vous
+   apportant les toutes dernières conclusions fiables des meilleurs
+   chercheurs du monde tout au long de 2023 et au-delà.
+
+   C’est (presque) tout pour l’instant, mais sachez que notre rapport
+   local pour la France 2023 sera disponible à la mi-février.
+
+Et pour finir…
+
+   Si vous êtes arrivés jusqu’ici, on ne pouvait pas vous laisser sans une
+   mise à jour de l’une des batailles les plus disputées sur le web : team
+   chien ou team chat ?
+
+   Les deux équipes semblent avoir travaillé dur au cours des douze
+   derniers mois. En effet, la recherche Google renvoie désormais deux
+   fois plus de résultats pour les chats et les chiens que l’année
+   dernière à la même époque.
+
+   Toutefois, ces résultats révèlent également une surprise : les chiens
+   semblent avoir conquis le web, Google fournissant désormais 450
+   millions de résultats de plus pour « chien » que pour « chat ».
+
+   Nos amis félins ont gagné un peu de terrain en termes de volumes de
+   recherche au cours de l’année écoulée, mais les canidés représentent
+   toujours près de deux fois plus de recherches Google que les chats.
+
+   Cependant, une révélation choquante : en 2022, la page Wikipédia
+   consacrée aux chats a attiré trois fois plus de pages vues que celle
+   consacrée aux chiens.
+
+   Mais – comme on peut s’y attendre de la part du “meilleur ami de
+   l’homme” – les chiens règnent largement sur les médias sociaux.
+
+   On compte aujourd’hui plus de 350 millions de posts Instagram tagués
+   #dog, contre seulement 270 millions pour #cat.
+
+   Des proportions similaires sont observées sur TikTok, où les
+   publications marquées #dog ont été vus près de 350 milliards de fois,
+   contre « seulement » 270 milliards pour celles marquées #cat.
+
+   Et même Twitter indique que ses utilisateurs sont plus intéressés par
+   les chiens.
+
+   Les outils publicitaires de la société indiquent que plus de 386
+   millions d’utilisateurs de Twitter sont « intéressés » par les chiens,
+   contre seulement 62 millions qui sont « intéressés » par les chats.
+
+   Arrêtons nous là pour cette année, nous sommes persuadés que les chats
+   feront un retour en force dans les mois à venir.
+
+   NB : Simon Kemp est un ambassadeur de marque pour GWI et pour data.ai.
+
+     * Expertises
+     * Work
+     * Insights
+     * Talents
+     * Nous rejoindre
+     * Nous contacter
+     * We Are Social Studios
+     * We Are Social Gaming
+
+     * Rechercher une campagne
+     * Mentions légales et conditions générales
+     * Plus Company
+     * Ethics Report Line
+     * Our D&I Commitments
+
+
+Où nous trouver
+
+
+    45-47 Rue des Vinaigriers, 75010 Paris
+    conversation@wearesocial.fr
+
+Suivre nos actualités
+
+   Abonnez-vous à notre blog pour suivre les dernières actualités sur la
+   culture sociale et la culture web. Vous pouvez vous désabonner à tout
+   moment.
+     * Prénom*
+       ____________________
+     * Nom*
+       ____________________
+     * Entreprise
+       ____________________
+     * Email*
+       ____________________
+     * Consentement*
+       [ ] En cochant cette case, je confirme que j'ai lu et accepté la
+       politique de confidentialité de We Are Social et je consens à ce
+       que les données personnelles que j'ai soumises soient traitées par
+       We Are Social pour me contacter.*
+
+   (BUTTON) S'inscrire
+
+   IFRAME: gform_ajax_frame_4
+
+   © 2008 - 2024 We Are Social Ltd
+
+   We Are Social Ltd à Paris, France.
+
+   Nous suivre
+     * View our LinkedIn profile
+     * View our Twitter profile
+     * View our YouTube channel
+     * View our instagram profile
+     * View our Facebook profile
+
+   (BUTTON) Top

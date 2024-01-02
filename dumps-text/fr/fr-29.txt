@@ -1,0 +1,1805 @@
+   #L’émergence et l’évolution du langage humain du point de vue des
+   neurosciences Corela, Numéros Corela, Documents
+
+   Navigation – Plan du site
+
+Corela Corela
+
+   Cognition, représentation, langage
+
+   AccueilNuméros12-2L’émergence et l’évolution du lan...
+
+   Recherche___________ (BUTTON) Chercher
+   Sommaire - Document suivant
+   12-2 | 2014
+   Vol. 12, n°2
+
+L’émergence et l’évolution du langage humain du point de vue des
+neurosciences
+
+   Jacques François
+   https://doi.org/10.4000/corela.3629
+   Résumé | Index | Plan | Texte | Bibliographie | Citation | Auteur
+
+Résumés
+
+   Français English
+
+   Depuis un siècle et demi les linguistes s’abstiennent de questionner
+   les processus d’émergence et d’évolution du langage humain et préfèrent
+   poursuivre la reconstruction d’états anciens de langues actuelles par
+   la méthode élaborée au 19^e siècle de la grammaire
+   historico-comparative. Mais depuis environ 1990 des chercheurs de
+   différentes origines disciplinaires se sont emparés de cette question
+   en essayant de combiner les outils conceptuels et instrumentaux de ces
+   disciplines. Parmi ceux-ci les représentants des neurosciences ont joué
+   un rôle décisif. Après avoir souligné que l’origine des langues, de la
+   grammaire et du langage humain constituent trois questionnements
+   séparés (section I), cette contribution énumère les disciplines
+   intéressées conjointement par l’évolution du langage et évoque
+   l’attrait du langage pour les biologistes évolutionnaires (section II)
+   et documente l’apport des neurosciences évolutionnaire à l’étude de
+   l’origine du langage (section III).
+
+   For one and a half century, linguists have ben avoiding questionning
+   the genetic and evolutionary processes of human language and prefer to
+   continue reconstructing previous stages of present languages using the
+   method of comparative-historical grammar elaborated in the 19th
+   century. But since ca. 1990 some resarchers from various disciplines
+   have taken over this issue by intertwining the conceptual and
+   instrumental tools of their respective disciplines. After reminding
+   that the origin of natural languages, of grammar and of human language
+   are three separate questions (part I), this contribution enumerates the
+   disciplines jointly interested in language evolution while evoking the
+   appeal of language for evolutionary biologists (part II). It also
+   yields material about the contribution of evolutionary neurosciences to
+   the study of language genesis (part III).
+   Haut de page
+
+Entrées d’index
+
+Mots-clés :
+
+   évolution du langage, neurosciences, biologie évolutionnaire,
+   phylogenèse, coévolution cerveau-langage
+
+Keywords:
+
+   language evolution, neurosciences, evolutionary biology, phylogeny,
+   brain-language co-evolution
+   Haut de page
+
+Plan
+
+   I. L’origine des langues, de la grammaire et du langage humain : trois
+   questionnements disjoints
+   1.1. Comment la philosophie du langage de W. von Humboldt permet de
+   renouveler la question de l’origine du langage selon H. Steinthal
+   (1851)
+   1.2. L’origine des langues ‘indogermaniques’ : la mise en place de la
+   grammaire historique comparée
+   1.3. L’origine du langage confondue avec celle des langues
+   1.4. L’origine des langues sans tradition écrite : de la
+   glottochronologie à la typologie génétique
+   1.5. L’origine de la grammaire : un questionnement proprement
+   linguistique
+   2. L’évolution du langage humain : un objet d’étude pluridisciplinaire
+   2.1. La diversité des disciplines intéressées conjointement par
+   l’évolution du langage
+   2.2. L’impuissance des linguistes et la métaphore de l’hologramme
+   2.3. Des naturalistes attentifs au renouvellement de la
+   linguistique hier et aujourd’hui
+   3. L’apport des neurosciences évolutionnaires à l’étude de l’origine du
+   langage : une documentation classée
+   3.1. Cinq théories sur le cerveau humain et le langage centrées
+   respectivement sur la localisation des aires du langage, la parole,
+   l’imitation et la cognition linguistique
+   3.1.1. Le projet d’une linguistique neurocognitive (Lamb 1999)
+   3.1.2. La physiologie de la parole et le cerveau humain (Liebermann
+   2000)
+   3.1.3. Les neurones-miroirs et la faculté d’interlocution (Arbib 2003,
+   2013)
+   3.1.4. L’aptitude proprement humaine à l’imitation vocale complexe
+   (Fitch 2010)
+   3.1.5. La ‘préférence globale’, caractère distinctif du cerveau humain
+   et prérequis du langage (Reboul 2007)
+   3.2. Le cerveau humain, le langage et la culture matérielle : quand
+   archéologues et neurobiologistes coopèrent (type B)
+   3.3. La co-évolution du cerveau humain et du langage (type C)
+   3.4. L’évolution de la parole et l’ingénierie neuromimétique (type C)
+   3. 5. Le cerveau des primates et les mutations génétiques susceptibles
+   d’avoir facilité l’émergence du langage chez les primates humains (type
+   C/D)
+   4. Consensus et dissensus
+   Haut de page
+
+Texte intégral
+
+   PDF Partager par e-mail
+
+   1Depuis le début des années 1990 – très exactement depuis la
+   publication en 1990 de l’article pionnier de Steven Pinker et Paul
+   Bloom, “Natural language and natural selection” dans la prestigieuse
+   revue de neurosciences Behavorial and Brain Sciences – la question de
+   l’origine et de l’évolution du langage humain, honnie depuis le célèbre
+   interdit de la Société de Linguistique de Paris lors de son bras de fer
+   en 1860 contre la Société d’anthropologie (Michel Bréal contra Paul
+   Broca), a repris droit de cité en linguistique et a soulevé des débats
+   non plus spéculatifs comme ils l’étaient à l’époque des essais de
+   Condillac, Rousseau ou Herder (cf. François 2015, Chap.1), mais basés
+   sur une investigation pluridisciplinaire impressionnante, surtout
+   depuis le tournant du 21^e siècle.
+
+   2Le présent article propose un second volet de l’examen des travaux sur
+   cette question issus de chercheurs étrangers aux sciences du langage.
+   Le premier (François 2014) était consacré à trois articles publiés en
+   2009, 2012 et 2013 par deux généticiens, Karl Diller & Rebecca Cann,
+   qui mettent en doute la théorie de la FLN (Function of language,
+   narrow) défendue par Chomsky (cf. Hauser, Chomsky & Fitch 2002 ; Fitch,
+   Hauser & Chomsky 2005 ; Berwick & Chomsky 2011). Mon propos y était de
+   montrer que la lecture d’articles rédigés sur cette question par des
+   chercheurs a priori aux antipodes des linguistes, est cependant non
+   seulement possible mais instructive : leur argumentation, qui se fonde
+   sur la comparaison entre des populations de primates affectées ou
+   exemptes de mutations génétiques qui ont touché soit le tractus
+   phonatoire (pour l’origine de la ‘parole’) soit les aires du cerveau
+   concernées par les activités de traitement des stimulus visuels et
+   oraux, de représentation cognitive et de planification (pour l’origine
+   du ‘langage’), ne présente pas pour le linguiste de difficulté de
+   compréhension insurmontable et qu’elle lui démontre l’intérêt d’un
+   éclairage pluriel (ce que j’illustre plus loin, §II—2, par la
+   ‘métaphore de l’hologramme’).
+
+   3Ici je souhaite concentrer mon propos sur plusieurs des innombrables
+   travaux parus ces dernières années sur la corrélation entre deux
+   processus, d’un côté l’évolution des structures et des fonctionnalités
+   du cerveau de l’espèce Homo et de l’autre l’émergence, chez cette
+   espèce, d’un appareil vocal destiné à la cognition et à la
+   communication. Les chercheurs qui se consacrent à cette question
+   appartiennent en priorité à deux branches des neurosciences, la
+   neurobiologie, discipline d’observation, et l’ingénierie
+   neuromimétique, discipline de modélisation-simulation. Toutefois, avant
+   de passer en revue les sous-thèmes relatifs à la ‘co-évolution du
+   cerveau et du langage’ sur lesquels les neurobiologistes et les
+   neuro-ingénieurs ont apporté des éclairages majeurs, il me faut
+   effectuer un détour historique et épistémologique (section I) afin de
+   donner une idée de l’arrière-plan des débats actuels qui mettent en jeu
+   un étonnant pannel de disciplines. J’esquisserai ensuite un classement
+   des contributions en jeu (section II) et je fournirai en section III
+   les linéaments d’une documentation classée en fonction du degré de
+   prise en compte par les auteurs des bases neurologiques de l’émergence
+   du langage humain.
+
+I. L’origine des langues, de la grammaire et du langage humain : trois
+questionnements disjoints
+
+1.1. Comment la philosophie du langage de W. von Humboldt permet de
+renouveler la question de l’origine du langage selon H. Steinthal (1851)
+
+   4Trois ans après sa thèse d’habilitation qui ambitionnait d’éclairer
+   mutuellement la linguistique générale de W. von Humboldt et la
+   phénoménologie de l’esprit de G. Hegel (Steinthal 1848, cf. François
+   2015, §3.2.2.2), Heyman Steinthal reprend l’héritage de Humboldt avec
+   un titre ronflant : L’origine du langage dans le contexte des questions
+   ultimes de tout savoir – Une présentation de la conception de W. von
+   Humboldt comparée à celles de Herder et de Hamann. Les philosophes
+   Johann Gottfried Herder et Johann Georg Hamann avaient une vision
+   encore spéculative et ‘préromantique’ de l’origine du langage. Humboldt
+   au contraire base sa philosophie du langage sur sa vaste expérience de
+   linguiste, ce qui lui vaut de la part de Steinthal l’épithète de
+   “fondateur de la métaphysique du langage”, mais cette ‘métaphysique’ a
+   désormais une base robuste, la logique du dynamisme des langues (cf.
+   François 2015, §3.2.2.3).
+
+1.2. L’origine des langues ‘indogermaniques’ : la mise en place de la
+grammaire historique comparée
+
+   5Sur la base des observations de William Jones, diplomate, juriste et
+   linguiste résidant à Calcutta dans la seconde moitié du 18^e siècle,
+   sur des similarités lexicales entre le sanscrit et plusieurs langues
+   européennes (1786), Friedrich Schlegel allait jeter les premières bases
+   de la grammaire comparée dans la première partie linguistique de sa
+   Langue et sagesse des indiens (1808, fr.1837). Huit ans après, Franz
+   Bopp va plus loin en comparant les principes morphologiques de la
+   conjugaison dans cinq langues anciennes, deux d’Asie, le sanscrit et
+   l’avestique (ou ‘zend’, le persan de l’Avesta, le livre sacré des
+   zoroastriens), et trois d’Europe, le grec classique, le latin et le
+   gotique (Bopp 1816, développé à partir de 1833 dans sa Grammaire
+   comparée). En 1819 Jacob Grimm poursuit cette entreprise dans sa vaste
+   Grammaire de l’allemand (l’adjectif ‘allemand’ étant destiné à couvrir
+   l’espace germanique, avec outre le vieux haut et bas allemand, le vieux
+   norrois et le gotique). Enfin la grammaire comparée des langues
+   désormais appelées ‘indogermaniques’ par les savants allemands et
+   ‘indo-européennes’ par les savants français et anglais, devient
+   proprement historique avec le Compendium des langues indogermaniques
+   d’August Schleicher en 1861. Schleicher déplace en effet le
+   questionnement historique en affirmant que le sanscrit n’est pas la
+   source des langues ‘indogermaniques’, mais seulement un témoin de
+   l’état primitif à reconstruire, la Ursprache, le proto-indo-européen
+   (PIE).
+
+1.3. L’origine du langage confondue avec celle des langues
+
+   6Le succès de la grammaire historique comparée est tel à partir des
+   années 1840 que pour la plupart des linguistes, l’origine des langues
+   ‘indogermaniques’ finit par se confondre avec l’origine du langage en
+   général. Dans son essai de 1851 sur l’origine du langage (ou de la
+   langue, l’alld Sprache étant polysémique), Jacob Grimm, exceptionnel
+   historien des langues germaniques (voir plus haut), mais aussi
+   représentant éminent avec son frère Wilhelm du romantisme littéraire
+   allemand, brosse — à partir de l’étude de l’histoire des langues
+   ‘indogermaniques’ — une superbe vision mi-romantique, mi-positive de
+   l’évolution supposée des systèmes morphologiques, vision qu’il partage
+   avec certains des linguistes et philologues les plus réputés de sa
+   génération (Friedrich et August Wilhelm Schlegel, Rasmus Rask) et de la
+   génération suivante (August Schleicher, Heymann Steinthal) :
+
+     À l’origine il semble que les mots se soient épanouis dans une
+     liberté idyllique sans autre attache que leur succession naturelle
+     établie par l’intuition ; leur impression [sur l’esprit des
+     interlocuteurs] était pure et sans recherche, mais si pleine et
+     débordante que la lumière et l’ombre ne pouvaient pas réellement se
+     distinguer. Peu à peu cependant, un esprit de la langue
+     (Sprachgeist) diffus et inconscient accorde un poids plus faible aux
+     notions secondaires et les fait s’agglutiner, diluées et réduites, à
+     la représentation principale comme des parties inhérentes. La
+     flexion naît du développement de déterminants (Bestimmwörter) qui
+     orientent et mettent la parole en mouvement, qui sont désormais
+     entraînés par le mot principal qu’ils ont éveillé comme des
+     engrenages partiellement ou presque complètement cachés et sont
+     passés de leur signification originelle encore sensible vers une
+     signification abstraite à travers laquelle la première transparaît
+     encore parfois. Finalement la flexion s’est anémiée et réduite à un
+     simple signe dénué de sensibilité, alors le levier préalablement
+     inséré repasse à l’extérieur [du mot] de manière plus lâche et plus
+     fermement définie ; la langue cède une part de son élasticité, mais
+     gagne partout une régularité adaptée à une richesse de pensées en
+     croissance indéfinie
+     C’est seulement après la décomposition réussie des flexions et des
+     dérivations, pour la découverte desquelles la perspicacité de Bopp a
+     acquis tant de mérites, que les racines sont apparues et qu’il est
+     devenu clair que les flexions résultent pour l’essentiel de
+     l’accrétion de ces mêmes mots et représentations, lesquels figurent
+     habituellement en tête dans la troisième phase [celle des structures
+     analytiques]. Maintenant ce sont les prépositions et les
+     compositions explicites qui conviennent, dans la seconde phase
+     c’étaient des flexions, des suffixes et une composition plus hardie,
+     alors que dans la première des mots libres véhiculant des
+     représentations sensibles se succédaient pour exprimer les relations
+     grammaticales. La langue la plus ancienne était mélodique mais
+     foisonnante et sans retenue, la langue nouvelle cherche à substituer
+     rigoureusement à la beauté perdue l’harmonie du tout, et est plus
+     féconde en dépit de moyens plus limités.
+     J. Grimm, Zur Entstehung der Sprache [Sur l’origine du langage, ma
+     trad. et mes ajouts], 1851 : 38-39
+
+1.4. L’origine des langues sans tradition écrite : de la glottochronologie à
+la typologie génétique
+
+   7À partir de la seconde moitié du 19^e siècle, l’anthropologie physique
+   progresse rapidement et en 1861, Paul Broca découvre l’importance de
+   l’aire frontale de l’hémisphère cérébral gauche dans le traitement du
+   langage, plus particulièrement dans la production d’un discours
+   ‘grammatical’. L’ambition des anthropologues à mettre en place une
+   science naturelle du langage conduit à une controverse entre ceux-ci et
+   la majorité des linguistes – hormis les linguistes ‘naturalistes’, tels
+   Honoré Chavée et Abel Hovelacque – au terme de laquelle les seconds
+   décident de s’abstenir désormais de toute incursion dans les sables
+   mouvants de l’origine du langage (cf. Bergounioux 2005).
+
+   8Dans la seconde moitié du 20^e siècle, Morris Swadesh s’aventure dans
+   un essai d’investigation historique de langues dénuées de tradition
+   écrite : avec sa méthode de ‘glottochronologie’ (ou
+   ‘lexicostatistique’) il s’agit, à partir d’une liste de mots présumés
+   stables et exempts d’emprunts (la ‘liste de Swadesh’, cf. Swadesh 1972)
+   de dater l’époque de la divergence entre deux langues que l’on suppose
+   a priori apparentées en raison de données ethnologiques. Cette méthode,
+   défendue par Charles Hockett (1958), a été cependant accueillie avec
+   suspicion avant d’être remise à jour récemment, entre autres par
+   l’équipe des linguistes de l’Institut Max Planck d’Anthropologie
+   Évolutionnaire à Leipzig (cf. Bakker et al. 2009 et Starostin 2013). La
+   lexicostatistique y est actuellement associée à la typologie génétique
+   des langues issue des travaux de Joseph Greenberg et fondée sur la
+   similarité des structures grammaticales, laquelle, elle aussi, s’était
+   attirée de vives critiques. Selon Martin Haspelmah, Matthew Dryer et
+   leurs collaborateurs, l’intégration des deux méthodes promet une percée
+   dans le passé de ces langues auxquelles la méthode de la grammaire
+   historico-comparative du 19^e siècle (Schleicher 1861, Brugmann 1904)
+   est inapplicable.
+
+1.5. L’origine de la grammaire : un questionnement proprement linguistique
+
+   9Le développement de la théorie de la grammaticalisation depuis le
+   début des années 1990 a permis à plusieurs spécialistes de la typologie
+   génétique des langues, notamment Bernd Heine, Tania Kuteva, Talmy
+   Givón, Elisabeth Traugott et Joan Bybee, de développer une variante de
+   cette théorie consacrée à l’émergence des catégories grammaticales.
+   Ainsi B. Heine (1993, 1997a, 1997b) a pu établir, à travers un vaste
+   échantillonnage de langues, un répertoire des constructions à verbe
+   auxiliaire (Heine 1993), des constructions possessives (Heine 1997a) et
+   des constructions comparatives (Heine 1997b). Sur cette base encore
+   élargie, B. Heine & T. Kuteva (2002 :16-26) ont proposé un inventaire
+   de primitifs cognitifs dont, à force de répétition et à l’issue d’un
+   figement morphosyntaxique et sémantique, les constructions qui les
+   expriment sont devenues aptes à véhiculer des valeurs grammaticales. À
+   titre d’illustration le tableau 1 ci-après présente un fragment de leur
+   inventaire.
+
+   Tableau 1 :
+   Tableau 1 :
+   Agrandir Original (png, 51k)
+
+   Fragment de l’inventaire des schèmes cognitifs à la source de
+   constructions grammaticales à travers les langues (Heine & Kuteva
+   2002 : 17)
+
+   10La méthode de reconstruction du processus de grammaticalisation
+   procède en trois temps, dont je me contenterai de fournir une
+   illustration élémentaire de mon crû.
+
+   a) Le schème source est obtenu à partir d’une construction actuellement
+   et/ou anciennement destinée à exprimer un concept prédicatif , ex. X
+   est à Y.
+
+   b) Deux constructions, l’une de possession, l’autre de temps-aspect,
+   peuvent avoir pour source un même schème conceptuel , ex.
+
+   X is (located) at Y (Localisation, ex. POSS : Le livre est à Marie vs.
+   TPS/ASP : Marie est à chercher ses clés)
+
+   X is with Y (Accompagnement, ex. POSS : Un smartphone avec piles vs.
+   TPD/ASP : Cela n’est pas sans m’étonner)
+
+   c) Donc deux constructions comme N0[<chose>] est à N1[<pers>]
+   (possession) et N0[<pers>] est à INF[<act>] (temps-aspect) sont deux
+   dérivations grammaticales de N0[<localisé>] est à
+   N1[<lieu>](localisation), comme le montre la comparaison du tableau 2.1
+   de Heine 1993 pour l’auxiliarisation temporelle et aspectuelle, et du
+   tableau 5.1. de Heine 1997a pour la possession (la dénomination et la
+   formulation des schèmes ont légèrement évolué entre 1993 et 1997, cf.
+   Tableau 2).
+
+2. L’évolution du langage humain : un objet d’étude pluridisciplinaire
+
+2.1. La diversité des disciplines intéressées conjointement par l’évolution
+du langage
+
+   11Comme le suggère la liste établie par Christiansen & Kirby (2003, cf.
+   note 3), l’éventail des disciplines impliquées dans l’investigation
+   évolutionnaire du langage est impressionnant. Je voudrais souligner
+   deux traits remarquables de cet éventail.
+
+   12Le premier est que deux types de convergence pluridisciplinaire
+   autour d’un objet d’étude commun sont envisageables (cf. Figure 1), que
+   j’appellerai respectivement ‘lâche’ (schéma gauche) et ‘intriqué’
+   (schéma droit).
+
+   13Dans le premier cas les disciplines en cause déversent leurs
+   observations dans un pot commun de manière indépendante. Rien ne
+   garantit alors que chacun des points de vue ne soit absolument dissocié
+   des autres. Ce risque est particulièrement patent entre des disciplines
+   relevant traditionnellement du champ des sciences ‘dures’
+   (observationnelles et expérimentales) ou inversement de celui des
+   sciences de l’homme et de la société. Dans le second cas, certaines au
+   moins des disciplines en cause prennent réciproquement connaissance et
+   tirent parti de leurs hypothèses et résultats mutuels.
+
+   Tableau 2 :
+   Tableau 2 :
+   Agrandir Original (png, 77k)
+
+   Les schèmes d’événement figurant comme sources de l’expression de la
+   possession et du temps-aspect à travers les langues (selon Heine 1993
+   et 1997a)
+
+   Figure 1 :
+   Figure 1 :
+   Agrandir Original (png, 34k)
+
+   Représentation imagée de deux types (lâche vs. intriqué) de convergence
+   pluridisciplinaire
+
+   14Ce qui frappe en passant en revue par exemple les travaux publiés
+   dans les dix-neuf volumes actuels des Oxford Studies in Language
+   Evolution, c’est au contraire le degré élevé d’information mutuelle
+   entre disciplines issues historiquement de facultés peu portées sur
+   l’information réciproque. Une explication possible de cette intrication
+   relative des investigations tient sans doute au fait qu’aucune des
+   disciplines en cause n’est classable exclusivement comme ‘science de la
+   culture’ (cf. Rickert 1899, fr.1997) : toutes ont au moins un pied dans
+   les sciences de la nature.
+
+   15C’est le cas pour les sciences du langage, où l’on oppose
+   traditionnellement la phonétique (articulatoire et acoustique) comme
+   composante ‘naturelle’ et la linguistique comme composante symbolique,
+   donc implicitement ‘culturelle’. C’est aussi le cas pour la
+   psychologie, longtemps classée au CNRS dans le Département des Sciences
+   de l’Homme et de la Société avant de passer à la fin du siècle dernier
+   dans celui des Sciences de la Vie à la suite du retour en force de la
+   dimension neuropsychologique. C’est le cas bien entendu pour
+   l’anthropologie avec ses deux composantes physique et sociale ou
+   culturelle, et pour l’archéologie, qui doit appliquer une méthodologie
+   de science de la nature pour informer l’histoire des cultures.
+
+   16Compte tenu de la place de plus en plus centrale des neurosciences
+   cognitives dans cette entreprise collective, je propose de classer les
+   travaux qui seront évoqués dans la troisième section en fonction du
+   rôle qu’y joue l’étude du cerveau humain. On peut ainsi distinguer
+   quatre types hiérarchisés d’études (A-D) :
+     * Les études du premier type (A) font abstraction de l’anatomie, des
+       fonctions et de l’évolution du cerveau humain. Par exemple les
+       travaux évolutionnaires sur le langage relevant de l’anthropologie
+       sociale ou culturelle, de l’archéologie, du classement génétique
+       des langues, etc. peuvent se permettre cette abstraction.
+     * Celles du deuxième type (B) prennent en compte le cerveau humain,
+       mais en le traitant comme une ‘boîte noire’. Cela concerne
+       particulièrement les études sur l’évolution de la ‘parole’ sous
+       l’angle physiologique (cf. MacNeilage 2008, chap.3, sur l’évolution
+       phylogénétique du tractus phonatoire).
+     * Celles du troisième type (C) prennent en compte l’architecture du
+       cerveau (à propos de la contribution des ganglions de la base à
+       l’émergence du langage et de la distribution des aires spécialisées
+       dans le traitement du langage entre hémisphères et lobes cérébraux)
+       et de sa reconfiguration phylogénétique (cerveau reptilien vs.
+       cerveau dédié aux fonctions cognitives avancées). Ces études
+       concernent tout particulièrement l’hypothèse de la ‘co-évolution’
+       entre le cerveau et le langage.
+     * Enfin celles du quatrième type (D) visent à imputer l’architecture
+       fonctionnelle du cerveau humain, comparée à celle d’autres espèces
+       de primates et au-delà, à des mutations génétiques, ce qui pose le
+       problème décisif de l’émergence du langage par adaptation et/ou par
+       exaptation (selon la terminologie introduite par Gould & Vrba,
+       1982). Ce sont évidemment les généticiens et les primatologues qui
+       entreprennent de traiter ces questions.
+
+   17Si les études du type A se situent en dehors de mon champ d’étude, en
+   revanche celles des trois autres types en font partie et elles le sont
+   par inclusion successive : traiter la question des mutations génétiques
+   susceptibles d’avoir favorisé l’émergence du langage chez l’Homo
+   symbolicus, tel que le désigne Deacon (1997) et du poids des
+   exaptations dans ce processus (type D) implique de comparer
+   l’architecture du cerveau des différentes classes de primates et
+   (autant que faire se peut) l’évolution du cerveau des types successifs
+   d’hominiens, et donc l’intégration des acquis des travaux du type C,
+   lesquels à leur tour vont au-delà des travaux du type B.
+
+2.2. L’impuissance des linguistes et la métaphore de l’hologramme
+
+   18Le questionnement des comparatistes du 19^e siècle sur la
+   diversification progressive des langues indo-européennes (celui des
+   langues sémitiques présentant moins de difficultés) était strictement
+   linguistique. Mais nous avons vu plus haut (§I-5) que celui de Heine,
+   Kuteva, Givón, Bybee, Traugott, etc. sur l’origine des grammaires à
+   partir des lexiques est lui aussi proprement linguistique, à
+   l’interface entre la linguistique cognitive (les schèmes cognitifs de
+   Heine s’inspirent de la Cognitive Grammar de Ronald Langacker) et la
+   typologie des langues. En revanche l’origine de la faculté de langage
+   est un objet évanescent pour les linguistes. Les représentants des
+   autres disciplines ont besoin des linguistes pour évaluer leurs
+   hypothèses et la plausibilité de leurs résultats, mais les linguistes
+   ne peuvent intervenir qu’en seconde instance.
+
+   19On peut donc se représenter grossièrement l’image que cherchent à
+   dessiner collectivement les chercheurs impliqués comme un hologramme.
+   L’Office Québecois de la Langue Française définit en 1990 un hologramme
+   comme un « enregistrement d’une image obtenue par interférence entre
+   deux faisceaux de lumière cohérente dont l’un éclaire le sujet et
+   l’autre sert de référence ». Par métaphore, l’éclairage des sciences de
+   la vie et du cerveau, la (neuro-)biologie évolutionnaire, les
+   neurosciences cognitives, la paléo-anthropologie physique, la génétique
+   humaine, etc., correspond au faisceau laser de référence et celui des
+   sciences de la culture (archéologie, anthropologie culturelle et
+   sociale, éthologie animale) au faisceau réfléchi par l’objet, le
+   linguiste devant se contenter d’un rôle d’évaluateur.
+
+2.3. Des naturalistes attentifs au renouvellement de la linguistique hier et
+aujourd’hui
+
+   20Au cours du 19e siècle, un modeste va-et-vient conceptuel s’est mis
+   en place entre la nouvelle grammaire historico-comparative et les
+   sciences de la nature. Le géologue britannique Charles Lyell intitule
+   “Comparaison de l’origine et du développement des langues et des
+   espèces” un des chapitres de son ouvrage L’ancienneté de l’homme
+   prouvée par la géologie et remarques sur les théories relatives à
+   l’origine des espèces par variation (trad. fr. 1864). De son côté
+   Charles Darwin fait lui aussi référence à l’évolution des langues comme
+   un processus de sélection naturelle (cf. Richards 2003). Si les
+   naturalistes ont pu s’intéresser à la linguistique de leur temps, c’est
+   parce qu’inversement, dans la mise en place de la linguistique à partir
+   de sa gangue philologique, Fr. Schlegel, Humboldt et plus tard
+   Schleicher ont suivi Goethe, qui par ses écrits naturalistes (1817)
+   leur avait fait connaître la méthode comparative et évolutive qui
+   révolutionnait alors l’anatomie et la physiologie (Cuvier, Geoffroy
+   Saint-Hilaire, Lamarcq). Il y a près d’un demi-siècle, Foucault (1966)
+   y a vu les indices d’un changement d’ ‘epistémé’, allant bien au-delà
+   d’un simple changement de ‘paradigme’ (Kuhn 1962), puisque c’est tout
+   le Zeitgeist, la vision du monde au début du 19e siècle, qui est en
+   cause. Pour Foucault, la biologie connaît un saut épistémologique avec
+   l’anatomie et la physiologie comparée, saut qui s’étend à la philologie
+   avec la grammaire comparée de Franz Bopp (1816, 1833sq) et avec la
+   théorie économique de Ricardo.
+
+   21Revenons à la fin du 20e siècle : le neurobiologiste Gerald Edelman
+   consacre une large partie de la Postface critique de sa Biologie de la
+   conscience (1992, fr. 2008) à la convergence entre sa théorie et la
+   grammaire cognitive ‘incarnée’ (embodied) de Langacker (1987), de
+   Johnson (1987) et de Lakoff (1987, thèse développée ultérieurement par
+   Lakoff & Johnson en 1999). La citation suivante (2008 : 328-9) montre
+   qu’il a bien compris l’enjeu pour les linguistes :
+
+     Selon ce point de vue [Lakoff 1987] et celui de Langacker, le
+     langage est fondé sur (…) des modèles cognitifs qui peuvent
+     s’expliquer par rapport au fonctionnement de l’organisme. Cette base
+     cognitive est soumise aux contraintes imposées par la nature de la
+     réalité physique, et elle dépend aussi de l’imagination et des
+     interactions sociales. La signification découle de l’incarnation et
+     de la fonction, la compréhension naît lorsque les concepts ont une
+     signification dans ce sens, et on considère que la vérité apparaît
+     lorsque la compréhension d’un énoncé par un individu correspond
+     suffisamment à sa compréhension d’une situation pour lui permettrre
+     de satisfaire ses objectifs personnels. (…) L’objectivité (…)
+     suppose que l’on considère une situation donnée sous autant d’angles
+     que possible, et que l’on distingue les concepts du niveau de base
+     et les concepts des schémas d’images de ceux qui n’ont qu’une
+     signification indirecte. (Edelman 2008 : 328-9)
+
+   22Selon Edelman, ce qui manque à Lakoff, c’est seulement une
+   « description des mécanismes de l’incarnation ». Faisant référence à
+   deux de ses ouvrages antérieurs, Neural Darwinism (1987) et The
+   Remembered Present : a Biological theory of Consciousness (1990) et aux
+   ouvrages de Lakoff, Johnson et Langacker tous trois parus en 1987,
+   Edelman conclut :
+
+     Rétrospectivement, il semble que ces deux livres [Edelman 1987 et
+     1990] complètent tout à fait les travaux de Langacker, de Lakoff et
+     de Johnson, car ils fournissent une base biologique essentielle à un
+     grand nombre de leurs propositions concernant l’importance de
+     l’incarnation pour la grammaire et la cognition.
+
+   23De leur côté, dans The Tree of Knowledge, sous-titré The Biological
+   Roots of Human Understanding (^31998), les biologistes évolutionnaires
+   Humberto Maturana et Francisco Varela vont dans le même sens et
+   présentent en particulier une expérience impressionnante conduite sur
+   un sujet âgé de quinze ans dont les deux hémisphères cérébraux ont été
+   sectionnés pour endiguer des crises d’épilepsie potentiellement
+   léthales :
+
+     Quand on interrogeait l’hémisphère gauche : « Qu’aimerais-tu faire
+     quand tu seras adulte ? », la réponse était : « Pilote de voiture de
+     course ». C’est fascinant, car la même question posée à l’hémisphère
+     droit recevait la réponse : « Dessinateur ».
+     Ces observations nous montrent que les deux personnes en Paul, celle
+     de l’hémisphère gauche et celle de l’hémisphère droit, sont capables
+     d’un comportement habituellement considéré comme propre à un esprit
+     conscient capable de réflexion (…) il n‘y a pas de conscience de soi
+     sans le langage comme phénomène de récursivité linguistique. (p.230,
+     ma trad.)
+
+3. L’apport des neurosciences évolutionnaires à l’étude de l’origine du
+langage : une documentation classée
+
+   24Il ne peut s’agir ici d’aller au-delà de quelques coups de
+   projecteurs sur des orientations de recherche qui ont joué un rôle
+   déterminant par le passé ou qui semblent particulièrement prometteuses
+   pour l’avenir. Mais l’ensemble des travaux brièvement évoqués dans
+   cette section devrait aider à tracer les grands traits de l’apport
+   actuel des neurosciences cognitives à l’étude collaborative de
+   l’évolution du langage.
+
+3.1. Cinq théories sur le cerveau humain et le langage centrées
+respectivement sur la localisation des aires du langage, la parole,
+l’imitation et la cognition linguistique
+
+3.1.1. Le projet d’une linguistique neurocognitive (Lamb 1999)
+
+   25Sidney Lamb, réputé pour l’élaboration de la ‘grammaire
+   stratificationnelle’ dans les années 1960 (cf. Lamb 1966) – un modèle
+   de représentation des relations paradigmatiques et syntagmatiques entre
+   unités linguistiques de différents niveaux inspiré par la glossématique
+   de Louis Hjelmslev et la tagmémique de Kenneth Pike – a tenté en 1999
+   d’intégrer cette conception et la synthèse des observations de Paul
+   Broca, Carl Wernicke, Ludwig Lichtheim, etc. à la fin du 19^e siècle
+   par Norman Geschwind en 1965 et 1970, synthèse qui accorde une
+   importance particulière au faisceau arqué, une structure de la base du
+   cerveau qui relie l’aire de Broca et l’aire de Wernicke, toutes deux
+   situées dans le néocortex de l’hémisphère gauche, mais séparées par la
+   profonde scissure de Sylvius (entre les lobes frontal et temporal
+   gauches, cf. Figure 1).
+
+   Figure 2 :
+   Figure 2 :
+   Agrandir Original (png, 62k)
+
+   Le rôle du faisceau arqué dans l’anatomie du cerveau humain selon N.
+   Geschwind (1970 : 941)
+
+   26Sur la figure 8-10 de Pathways of the brain, sous-titré The
+   neurocognitive basis of language (1999 : 140, cf. figure 2 p.11), Lamb
+   présente un système de fonctions cérébrales en rapport avec les
+   mécanismes de la parole (zone inférieure gauche) l’audition (zone
+   inférieure centrle), la vision (zone inférieure droite), le lexique
+   (zone centrale) et les catégories d’objets concrets et abstraits (zone
+   centrale et supérieure droite) qui correspond globalement à l’anatomie
+   de l’hémisphère gauche du cerveau telle que la représente la figure 2.
+   En effet la production de la parole est par exemple associée à l’aire
+   de Broca dans le lobe frontal gauche et l’intégration des informations
+   visuelles et auditives au gyrus angulaire dans le lobe temporal. En
+   cela la figure 8-10 est un développement sophistiqué du célèbre schéma
+   que Ludwig Lichtheim avait élaboré en 1885 pour classer et localiser
+   abstraitement sept types différents d’aphasie. Mais depuis le tournant
+   du 21^e siècle, les neurobiologistes insistent sur la distribution des
+   informations linguistiques au-delà des deux centres traditionnels du
+   traitement du langage, les aires de Broca et de Wernicke, ce qui fait
+   de la ‘linguistique neurocognitive’ de Lamb une modélisation
+   excessivement localisationniste.
+
+   Figure 3 :
+   Figure 3 :
+   Agrandir Original (png, 97k)
+
+   Les sous-systèmes mentaux associés au langage selon Lamb (1999)
+
+3.1.2. La physiologie de la parole et le cerveau humain (Liebermann 2000)
+
+   27Philip Lieberman est célèbre pour ses études sur le positionnement du
+   larynx et les conditions de production d’un message vocal. Dans son
+   ouvrage de 2000, Human Language and our Reptilian Brain, sous-titré The
+   Subcortical Bases of Speech, Syntax, and Thought, le neurobiologiste
+   argumente à rebours de la biolinguistique de Pinker (2008 < 1994) et de
+   Chomsky (laquelle n’a été véritablement formulée que deux ans plus tard
+   dans Hauser, Chomsky & Fitch, 2002) :
+
+     (…) le langage n’est pas un instinct, basé sur un savoir transmis
+     génétiquement et codé dans un ‘organe du langage’ localisé dans le
+     seul cortex. Au lieu de cela, il s’agit d’une aptitude acquise,
+     basée sur un système linguistique fonctionnel (Functional Language
+     system, FLS) qui est distribué à travers de nombreuses aires du
+     cerveau humain. Le FLS régule la compréhension et la production du
+     langage oral qui n’a d’équivalenr dans aucune autre espèce vivante.
+     En outre, le FLS est enrobé de systèmes sensori-moteurs qui ont
+     évolué à l’origine pour faire d’autres choses et continuent
+     actuellement à les faire. Bien que les bases neuronales du langage
+     incluent le néocortex, certaines des structures clés du FLS sont des
+     ganglions de la base subcorticale – notre cerveau reptilien.
+     Celui-ci aussi à évolué depuis sa forme reptilienne primitive et
+     peut constituer, de concert avec d’autres structures du cerveau, la
+     clé du langage humain et de la cognition. (Lieberman 2000 : 1, ma
+     trad.)
+
+   28Ce qui, selon Lieberman, octroie au cerveau ‘reptilien’ cette part de
+   responsabilité dans la mise en place du langage, c’est sa fonction de
+   contrôle de la motricité. « (…) la sélection naturelle a opéré sur des
+   mécanismes neuronaux qui fournissent des réponses motrices adaptatives,
+   c’est-à-dire ‘cognitives’ dans d’autres espèces » (p.1-2) et dans
+   l’espèce humaine ils sont à la base du contrôle de la parole (lequel
+   présente une complexité saisissante, comme l’a bien montré MacNeilage
+   2008).
+
+   29En conclusion du livre, Lieberman admet que « le substrat par défaut
+   de la parole et du langage se révèle déterminé génétiquement », mais il
+   ajoute aussitôt que lorsque ces structures cérébrales ‘primaires’ sont
+   lésées, d’autres structures neuronales peuvent s’y substituer, ce qui
+   implique une plasticité élevée de ces structures. Il en appelle
+   finalement aux linguistes pour qu’ils s’ouvrent à la biolinguistique et
+   conclut :
+
+     Comprendre la nature du système linguistique fonctionnel du cerveau
+     humain permettra finalement de comprendre la nature du langage et de
+     la pensée des hommes. (Lieberman 2000 : 167, ma trad.).
+
+3.1.3. Les neurones-miroirs et la faculté d’interlocution (Arbib 2003, 2013)
+
+   30Michael Arbib a tiré profit de la découverte des neurones-miroirs
+   dans le cerveau du singe macaque rhésus dans les années 1990 par
+   l’équipe de Giacomo Rizzolatti à Parme (cf. Rizzolatti & Arbib 1998),
+   découverte qui a été récemment étendue au cerveau humain. Les
+   neurones-miroir ont pour spécificité de décharger aussi bien durant
+   l’accomplissement d’une action que durant la perception de cette action
+   accomplie par autrui. La thèse d’Arbib est que, contrairement aux
+   primates non humains, seuls les hominidés sont parvenus à étendre le
+   ‘système-miroir’ de la perception-réalisation d’actions simples à la
+   perception-réalisation d’actions complexes (2003). De ce fait, la
+   controverse sur l’origine vocale ou gestuelle du langage n’a pas lieu
+   d’être : Arbib imagine une boucle rétroactive entre les vocalisations
+   et la gestuelle. Indirectement, le débat houleux sur le rôle exact de
+   la mutation du gène FOXP[2], dont est victime la famille ‘KE’ étudiée
+   par Gopnik & Crago (1991), un ‘gène de la grammaire’ pour les uns, un
+   gène de la motricité oro-faciale pour les autres, pourrait également
+   perdre de son acuité, si l’on admet avec Arbib qu’ « il n’y a pas trois
+   systèmes séparés pour la communication manuelle, faciale et vocale,
+   mais un seul système opérant selon de multiples modalités motrices et
+   sensorielles » (2003 :199).
+
+   31Arbib fournit quelques éléments complémentaires en 2013. Les
+   neurones-miroirs ont à voir avec la parité que réclame l’activité
+   d’interlocution. Phylogénétiquement, ceux qui pilotent les actions
+   manuelles ont précédé ceux qui pilotent les actions vocales, ce qui
+   suggère que dans la boucle rétroactive évoquée plus haut, l’origine
+   gestuelle du langage est plus probable. Cette antériorité de la
+   gestuelle sur les vocalisations serait liée au caractère flexible de la
+   première face au caractère inflexible des secondes. La pantomime finit
+   par se conventionaliser en ‘proto-signes’ plus efficaces, ce qui
+   atteste l’existence de mécanismes qui vont être reconvertis pour la
+   constitution d’un système sémiotique oral. Finalement Arbib laisse
+   ouverte la question qui hante un grand nombre de chercheurs : Le
+   cheminement du proto-langage au langage a-t-il requis une évolution
+   biologique ou est-il explicable par une évolution uniquement
+   culturelle ? tout en notant que « certaines recherches sur
+   l’acquisition du langage confortent cette dernière conception ».
+
+3.1.4. L’aptitude proprement humaine à l’imitation vocale complexe (Fitch
+2010)
+
+   32L’argumentation de Tecumseh Fitch dans le chapitre 9, The evolution
+   of vocal control : the neural basis for spoken language de sa somme de
+   2010, The Evolution of Language, s’inscrit dans le prolongement des
+   deux thèses précédentes de Lieberman et Arbib.
+
+   33Contre Lieberman et à partir de l’observation que le tractus vocal et
+   la langue peuvent être reconfigurés dynamiquement durant la
+   vocalisation chez de nombreux mammifères, Fitch estime que
+   « l’importance de l’anatomie vocale statique a été surévaluée dans les
+   débats passés et que les premiers hominidés pouvaient produire une
+   variété convenable de sons pour le langage » (2010 :362).
+
+   34En rapport avec les systèmes-miroir d’Arbib (dont il discute en
+   détail la thèse au chap.13 : 452-464), Fitch fournit un élément nouveau
+   d’importance : Jürgens et al. (1982) ont découvert que, contrairement
+   aux primates non humains, les hommes ont des connexions directes du
+   néocortex latéral jusqu’aux noyaux moteurs impliqués dans la phonation.
+   Ces chercheurs formulent l’hypothèse que ces nouvelles connexions
+   cortico-laryngales assurent le contrôle volontaire précis de notre
+   larynx, nous permettant de coordonner la phonation avec des mouvements
+   spécifiques de la machoire, des lèvres et de la langue. Ce
+   contrôle administré par un circuit neuronal spécifique permet alors
+   d’expliquer la différence comportementale centrale entre les humains et
+   les autres primates, à savoir notre « aptitude à l’imitation vocale
+   complexe ». (p.355).
+
+   35Fitch suggère en outre, comme dans ses articles antérieurs (Hauser,
+   Chomsky & Fitch 2002 et Fitch, Hauser & Chomsky 2005), que l’origine de
+   cette connexion cortico-laryngale aurait à voir avec le ‘coup de balai
+   sélectif’ subi par le gène FOXP[2] dans un passé phylogénétique récent.
+
+3.1.5. La ‘préférence globale’, caractère distinctif du cerveau humain et
+prérequis du langage (Reboul 2007)
+
+   36Anne Reboul (2007 :160sq) fait état d’expérimentations sur des
+   primates humains et non humains qui montrent que les premiers ont une
+   préférence innée pour la perception globale (celle du contour d’une
+   figure précédant celle des détails) à l’inverse des seconds. À l’époque
+   de la ‘révolution cognitive’ d’Homo sapiens (il y a environ 50 000
+   ans), les premiers navigateurs finissent par atteindre l’Australie (p.
+   248). L’idée-clé de Reboul est que la préférence pour la perception
+   globale est liée à la nécessité de catégoriser comme équivalents des
+   objets rencontrés dans des environnements changeants, ce qui est le lot
+   des hominidés de cette époque, alors que la perception locale est plus
+   profitable pour les espèces de primates qui se perpétuent dans un
+   environnement invariable :
+
+     (…) une créature qui subit des modifications rapides
+     d’environnement, modifications qu’elle aggrave en changeant de lieu
+     géographique, a tout intérêt à disposer d’un système souple de
+     création de catégories qui lui permet de s’adapter ontogénétiquement
+     aux environnements nouveaux qu’elle rencontre, en d’autres termes,
+     d’adapter son comportement à ces environnements (…) Dans cette
+     optique, l’apparition de la préférence globale constituerait une
+     adaptation biologique, dont on remarquera qu’elle est plus modeste
+     que ne le serait le développement social décrit par Tomasello.
+     (Reboul 2007 : 250)
+
+3.2. Le cerveau humain, le langage et la culture matérielle : quand
+archéologues et neurobiologistes coopèrent (type B)
+
+   37Chris Renfrew, Chris Frith et Lambros Malafouris ont coordoné en 2009
+   l’ouvrage The Sapient Mind dont le sous-titre Archaeology meets
+   neuroscience atteste une coopération privilégiée entre archéologues et
+   neurobiologistes. Du côté des neurosciences, Stout, Toth, Schick &
+   Chaminade (2009) fournissent les résultats d’une étude de TEP portant
+   sur l’activation cérébrale au cours de la fabrication d’outils du
+   paléolithique ancien par des sujets experts. L’étude révèle la
+   nécessité d’une coordination visuo-motrice précise et d’une
+   organisation hiérarchique de l’action (en buts et sous-buts) pour la
+   fabrication des outils les plus sophistiqués, et ils concluent en
+   rapport avec la faculté de langage :
+
+   38Les patterns observés concernant l’activation [cérébrale] et la
+   superposition avec les circuits du langage suggèrent que la fabrication
+   d’outils et le langage ont une base commune dans une aptitude humaine
+   plus générale à une action complexe et finalisée. Ces résultats sont
+   compatibles avec des hypothèses co-évolutionnaires associant
+   l’émergence du langage, la fabrication d’outils, la latéralisation
+   fonctionnelle à l’échelle d’une population et l’expansion du cortex
+   associatif dans l’évolution humaine. (Stout & al., 2009 : 1, ma trad.)
+
+   39Du côté des archéologues, Fiona Coward & Clive Gamble (2009)
+   défendent une thèse proche à la fois de celle de Tomasello (1999,
+   ^22010) sur l’attention partagée et celles de Reboul (2007) et Coupé &
+   Hombert (2005) sur la diaspora de l’espèce humaine à travers les terres
+   et les mers. Constatant que les développements récents de l’imagerie
+   cérébrale révèlent des bases communes aux dispositions sociales des
+   hommes et des primates les plus proches de ceux-ci, ils cherchent une
+   explication à l’évolution particulière d’Homo sapiens en associant
+   trois observations disparates sur l’encéphalisation rapide des premiers
+   hommes, leur diaspora globale au paléolithique moyen et la construction
+   de leurs niches environnementales. Selon cette argumentation,
+   l’accroissement des liens sociaux se reflète dans l’accroissement du
+   volume du cerveau, et au moment où l’espèce humaine se dissémine sur le
+   globe et où les liens sociaux risquent ainsi de se déliter, c’est la
+   diffusion d’une même culture matérielle qui va maintenir le lien que
+   l’éloignement géographique fragilise.
+
+   40On voit donc par ces deux exemples que des neurobiologistes ont su
+   expérimenter à partir des acquis des archéologues et que vice-versa des
+   archéologues ont su exploiter des études de neuro-imagerie pour
+   imaginer un scénario compatible avec ce qu’on a appris sur les
+   dispositions distinctes des primates humains et non humains.
+
+3.3. La co-évolution du cerveau humain et du langage (type C)
+
+   41Dès 1995, Talmy Givón consacrait le dernier chapitre de Functionalism
+   and Grammar à une présentation des arguments en faveur de la
+   co-évolution entre le cerveau, l’esprit et le langage. Deux ans plus
+   tard paraît, de l’anthropologue et biolinguiste Terrence Deacon, un
+   ouvrage qui fera beaucoup de bruit, The Symbolic Species, sous-titré
+   The co-evolution of Language and Brain, avant que la même thèse
+   réapparaisse en 2002 dans l’ouvrage de Ray Jackendoff Foundations of
+   Language, sous-titré Brain, Meaning, Grammar, Evolution. Je ne
+   reviendrai pas sur ces travaux que j’ai abordés ailleurs.
+
+   42En 2005, Philippe Vernier souligne le caractère ‘exaptatif’ (selon la
+   terminologie de Gould & Vrba 1982) des propriétés cognitives et
+   physiques du langage, c’est-à-dire que ces propriétés ont connu un
+   développement particulier dans l’émergence du langage articulé, tout en
+   subsistant indépendamment de cette fonctionnalité. Vernier ne partage
+   pas la perplexité d’Arbib et affirme que « (…) l’existence du langage
+   articulé requiert seulement une mise en concordance de propriétés
+   préexistantes, et non l’invention de novo de nouvelles structures et
+   fonctions cérébrales dévolues au langage » (2005 : 61), et il justifie
+   ainsi son assurance :
+
+     Les modifications de l’expression des gènes gouvernant le
+     développement cortical au cours de l’évolution des mammifères ont
+     fourni les conditions à la fois d’un accroissement de taille
+     considérable et d’un retard dans la maturation du cerveau, qui a
+     conféré une influence déterminante aux perceptions, aux actions, à
+     l’apprentissage pour la formation des spécialisations corticales. En
+     même temps, de nouvelles régions ont vu le jour dans le cortex, et
+     de nouvelles connexions se sont mises en place avec les aires
+     primaires, sensorielles et motrices. (ibid.)
+
+   43La suite de l’histoire relève de l’épigénétique : l’organisation
+   anatomique et fonctionnelle du cortex témoigne de l’histoire de
+   l’interaction entre l’espèce humaine et son environnement (ou plutôt
+   ses environnements changeants selon les observations de Reboul 2006 et
+   Coupé & Hombert 2005) et « [l]es capacités de ‘représentation’ qui en
+   dépendent, l’émergence d’une conscience de soi et du langage, en ont
+   clairement été les conséquences ».
+
+   44Alors que Vernier ne mentionne que l’évolution des aires corticales,
+   Kathleen Gibson suit de son côté la voie ‘subcorticale’ ouverte par
+   Lieberman (2000) et insiste sur les zones centrales du cerveau
+   également impliquées dans l’administration de la parole et du langage.
+   Elle critique particulièrement l’importance accordée à la mesure du
+   ‘ratio néocortical’ proposée par Robin Dunbar (1997) qui exclut les
+   contributions potentiellement importantes des structures extérieures au
+   néocortex pour le langage, l’intelligence et l’apprentissage, et elle
+   mentionne parmi ces structures le cervelet, les ganglions de la base
+   (ou noyaux gris centraux), l’hippocampe et l’amygdale.
+
+   45Mais c’est la contribution de Számadó & Szathmáry au Oxford Handbook
+   of Language Evolution (2013) qui développe le mieux la thèse de la
+   co-évolution entre le langage et le cerveau. Je vais donc suivre pas à
+   pas leur argumentation. Selon ces auteurs, la difficulté majeure qui
+   enveloppe l’évolution du langage humain est que ce processus implique
+   une interaction entre trois systèmes majeurs : l’évolution biologique
+   (et donc l’héritage), la transmission culturelle (et donc l’héritage),
+   et l’apprentissage individuel. Le problème est encore complexifié par
+   le fait que différents systèmes peuvent évoluer à différents rythmes,
+   le changement culturel étant supposé s’effectuer beaucoup plus
+   rapidement que le biologique (2013 : 157). Elles mettent en avant trois
+   manières pour les organismes de s’adapter à des fins évolutives.
+
+     (a) Le cas le plus simple est l’évolution génétique, quand la
+     sélection naturelle agit sur les variétés dans une population,
+     sélectionnant au détriment des allèles qui délivrent la moindre
+     convenance (fit) avec l’environnement.
+     (b) La seconde voie est celle de l’utilisation de la plasticité
+     phénotypique d’un génotype.
+     (c) La troisième voie exploite des systèmes et des organes qui ont
+     évolué pour s’adapter à des environnements en évolution rapide et
+     qui ont également une assise génétique (p.158, ma trad.).
+
+   46Il se peut que le rythme de changement linguistique dans le passé ait
+   été beaucoup plus lent qu’aujourd’hui (et donc plus proche du rythme de
+   changement biologique), et cela pour un ensemble de raisons (p.163) :
+   la population était plus réduite, les innovations technologiques se
+   succédaient à un rythme lent, les contextes dans lesquels l’usage d’un
+   langage était avantageux, étaient limités, le vocabulaire partagé était
+   beaucoup plus réduit et le langage humain primitif était
+   vraisemblablement hautement iconique, car (a) l’iconicité est
+   fonctionnelle et il est plus aisé d’apprendre des signes iconiques que
+   des signes arbitraires ; (b) à cause de cette iconicité probablement
+   élevée, l’éventail de variation potentiel est plus contraint ; (c)
+   l’iconicité est plus prévalente et stable dans les langues des signes.
+   Finalement (p.165) :
+
+     (a) Les variantes linguistiques aisées à apprendre et à retenir sont
+     favorisées en termes d’évolution culturelle et donc se répandent
+     plus vite dans une population donnée ;
+     (b) Les cerveaux plus aptes à assimiler les variétés et le
+     changement linguistique offrent des avantages biologiques adaptatifs
+     à leurs porteurs ; donc les gènes responsables des différences
+     adaptatives vont se répandre dans la population.
+     (c) En conséquence, les langues entrent en connexion neuronale avec
+     les besoins du cerveau humain, et les cerveaux s’adaptent à
+     l’apprentissage et au traitement linguistiques. Si bien que les
+     humains peuvent effectuer une foule d’activités qui tirent profit
+     d’un usage plus efficace de la langue (coopération, utilisation
+     d’outils, maintenance des traditions, etc.)
+
+3.4. L’évolution de la parole et l’ingénierie neuromimétique (type C)
+
+   47Par ‘ingénierie neuromimétique’ j’entends les entreprises de
+   modélisation et de simulation informatique des processus dont on
+   présume qu’ils ont piloté l’émergence et l’évolution du langage.
+   L’ouvrage de Simon Kirby en 1999, Function, selection, and innateness –
+   The emergence of linguistic universals a joué un rôle décisif dans
+   cette entreprise, dans le prolongement des premiers travaux de son
+   mentor James Hurford à l’université d’Édimbourg. Plus récemment
+   Pierre-Yves Oudayer a proposé un automate de simulation de l’origine de
+   la parole dans Self-organization in the evolution of speech (2006).
+   Angelo Cangelosi (2013) synthétise les recherches actuelles dans ce
+   domaine, en particulier la modélisation de l’évolution du langage par
+   des ‘agents incarnés’ qui vise à se saisir de divers aspects des
+   origines du langage, de la coordination sociale prélinguistique et du
+   comportement de signalisation jusqu’à l’émergence de lexiques
+   compositionnels (2013 : 610). L’auteur adopte une optique ouverte, en
+   proposant de compléter l’approche incarnée par d’autres méthodologies
+   employées dans la modélisation computationnelle de l’évolution du
+   langage, par exemple des modèles analytiques basés sur des techniques
+   mathématiques permettant d’examiner la dynamique des jeux de langage.
+   L’un des arguments en faveur des approches computationnelles et
+   robotiques de l’évolution du langage est leur nature
+   interdisciplinaire :
+
+     Cela permet un dialogue direct avec des discipines empriques
+     concernées par le langage et la cognition, telles que les
+     neurosciences cognitives, la psychologie, la linguistique cognitive,
+     la primatologie et l’anthropologie (…). L’ajout de contraintes aux
+     modèles robotiques sur la base de données empiriques améliore aussi
+     l’aptitude de la robotique et des modèles calculatoires pour générer
+     des prédictions basées sur des théories descriptives, lesquelles
+     peuvent être à leur tour validées ou invalidées par de nouvelles
+     études empiriques et modélisatrices (…).” (ibid.)
+
+3. 5. Le cerveau des primates et les mutations génétiques susceptibles
+d’avoir facilité l’émergence du langage chez les primates humains (type C/D)
+
+   48Le fait que seule l’espèce humaine ait développé la parole et le
+   langage à l’exclusion des autres espèces de primates soulève, nous
+   l’avons vu plus haut avec les thèses de M. Arbib et de Ph. Vernier, la
+   question de la nécessité ou pas d’y voir l’effet de mutations
+   génétiques (hypothèse mutationniste, avec notamment la sélection
+   d’organes dont l’espèce a tiré parti pour la faculté de langage par
+   ‘exaptation’) ou d’adaptations progressives (hypothèse
+   adaptationniste). Wendy Wilkins (2013) défend l’hypothèse
+   mutationniste :
+
+     “Il est extrêmement improbable que le langage humain ait résulté de
+     la simple adaptation du système de communication d’une espèce
+     antérieure. Rien de ce que nous savons de la neuro-anatomie humaine
+     pertinente pour le langage en rapport avec le complexe Aire de
+     Broca-POT ne nous inciterait à imaginer des homologues dans les
+     structures cérébrales directement pertinentes pour les systèmes de
+     communication des singes [apes and monkeys]. (2013 : 206, ma trad.)
+
+   49En revanche William Hopkins et Jacques Vauclair (2013) partent de
+   l’observation que les fonctions cognitives sont déjà largement
+   latéralisées chez l’ensemble des primates pour favoriser une conception
+   adaptationniste :
+
+     En fin de compte, plus on cherche des continuités entre les primates
+     humains et non humains, non seulement en matière de latéralisation
+     mais dans des secteurs décisifs de l’évolution cognitive, plus on
+     trouve de similarités. A notre avis, on peut présumer clairement au
+     minimum que le langage et la parole ne sont pas des conditions
+     nécessaires pour que s’exprime la spécialisation hémisphérique chez
+     les primates non-humains et il est temps de considérer d’autres
+     variables ou facteurs susceptibles d’avoir contribué à la
+     différenciation hémisphérique entre individus et entre espèces.
+     (2013 : 196, ma trad.)
+
+   50Et ils évoquent finalement une prédiction de Geschwind & Galaburda
+   (1985) qu’ils voient commencer à se réaliser :
+
+     La reconnaissance de l’asymétrie dans le système nerveux non-humain
+     a des chances de conduire à des avancées conceptuelles majeures dans
+     des champs aussi largement disparates que l’évolution humaine, la
+     linguistique, la psychologie et la psychiatrie. Si ces suppositions
+     sont correctes, cela aura aussi des répercussions majeures en
+     philosophie. (Geschwind & Galaburda 1985 ,cité par Hopkins &
+     Vauclair 2013 : 196-7).
+
+4. Consensus et dissensus
+
+   51Au terme de cette revue aussi ordonnée que possible, mais cependant
+   foisonnante, de travaux illustrant le regard que les praticiens des
+   neurosciences jettent sur l’origine et l’évolution du langage, on ne
+   peut guère conclure à un consensus généralisé.
+
+   52Cependant plus personne ne cherche une explication simpliste (ni le
+   ‘tout génétique’, ni le ‘tout social’) et tous reconnaissent
+   l’importance de la dimension épigénétique, prenant en compte
+   l’environnement en expansion et donc diversifié (cf. Reboul 2007) des
+   hominidés qui se sont engagés dans des productions symboliques vocales
+   en marge de leurs productions gestuelles.
+
+   53Mais deux questions centrales restent actuellement sans réponse
+   consensuelle :
+     * La faculté de langage est-elle issue du ‘geste’ ou du ‘cri’ ? La
+       réponse d’Arbib (cf. §III—1.3) vise actuellement à intégrer les
+       deux hypothèses par une boucle rétroactive.
+
+   54Le langage est-il apparu au terme de processus adaptatifs, sans
+   nécessaire intervention de mutations génétiques modifiant les bases
+   organiques (thèse de Tomasello 1999, 2010) ou à la suite de mutations
+   et par détournement (exaptation) de mécanismes mis en place pour
+   satisfaire d’autres besoins (thèses de Vernier et Fitch) ? Au
+   demeurant, les deux hypothèses ne sont en aucun cas exclusives l’une de
+   l’autre. Ainsi Ann MacLarnon (2013 : 235) conçoit un schéma en trois
+   phases pour les traits dominants de l’évolution de la parole humaine :
+     *
+         1. l’évolution de la bipédie devenue obligatoire chez Homo
+            erectus a entraîné les effets exaptatifs de la descente du
+            larynx et la perte des air sacs ainsi que le hiatus
+            intervocalis,
+         2. durant le pleistocène moyen le contrôle de la respiration pour
+            la parole humaine a évolué comme une adaptation spécifique à
+            la parole, et
+         3. avec l’évolution des humains modernes , les proportions
+            idéales du tractus vocal (1 :1) ont été atteintes par
+            adaptation ”.
+
+   Haut de page
+
+Bibliographie
+
+   Arbib M. (2003), The evolving mirror system : A neural basis for
+   language readiness. in : M. Christiansen & S. Kirby (eds.,182-200).
+
+   Arbib M. (2013), Mirror systems : evolving imitation and the bridge
+   from praxis to language. In M. Tallermann & K. Gibson (eds.,207-215).
+
+   Auletta G. (2011), Cognitive Biology – Dealing with Information from
+   Bacteria to Minds. Oxford / New-York : OUP.
+
+   Bakker D., Müller A., Velupillai V., Wichmann S., Brown C.H., Brown P.,
+   Egorov D., Mailhammer R., Grant A., Holman E.W. (2009), Adding typology
+   to lexicostatistics : A combined approach to language classification.
+   Linguistic Typology 13 (2009), 169–181
+
+   Beaken M. (^22111), The Making of Language. Edimbourg : Dunedin.
+
+   Bergounioux G. (2005), L’origine du langage : mythes et théories. In
+   J.M.Hombert (ed., 14-41).
+
+   Berwick R.C. & Chomsky N. (2011), The biolinguistic program : the
+   current state of its evolution and development. In A.M. Di Sciullo & C.
+   Boeckx (eds.), The biolinguistic enterprise : new perspectives on the
+   evolution and nature of the human language faculty. New-York : OUP,
+   19-41.
+
+   Bopp Franz (1816)^ , Über das Conjugations-System der Sanskritsprache
+   in Vergleichung mit jenem der griechischen, lateinischen, persischen
+   und germanischen Sprache [Sur le système de conjugaison de la langue
+   sanskrite, comparé à celui des langues grecque, latine, persane et
+   germanique]. Francfort
+
+   Bopp Franz (1833-1849), Vergleichende Grammatik des Sanskrit, Zend,
+   Griechischen, Lateinischen, Lithauischen, Altslawischen, Gotischen und
+   Deutschen, Berlin [Grammaire comparée du sanscrit, du zend, du grec, du
+   latin, du lituanien, du vieux-slave, du gotique et de l’allemand ;
+   traduit en français par Michel Bréal en 1866]
+
+   Botha R. / Knight Ch. (eds, 2006a), The Prehistory of Language. Oxford,
+   New-York : OUP (Studies in the Evolution of Language 11).
+
+   Botha R. / Knight Ch. (eds, 2006a), The cradle of Language. Oxford,
+   New-York : OUP (Studies in the Evolution of Language 12).
+
+   Botha R. / Everaert M. (eds, 2013), The evolutionary emergence of
+   language – Evidence and inference. Oxford, New-York : OUP (Studies in
+   the Evolution of Language 17).
+
+   Brugmann K. (1904), Kurze vergleichende Grammatik der indogermanischen
+   Sprachen, Strasbourg : Trübner / Abrégé de grammaire comparée des
+   langues indo-européennes, trad. co-éditée par A. Meillet et R.
+   Gauthiot, Paris 1906.
+
+   Bybee J. (2010), Language, Usage, and Cognition. Cambridge (UK) : CUP.
+
+   Cangelosi Angelo (2013), Robotics and embodied agent modelling of the
+   evolution of language. in M. Tallerman & K. Gibson (eds. chap.62,
+   605-611).
+
+   Chavée H. (1878), Idéologie lexiologique des langues indo-européennes,
+   Paris : Maisonneuve, posthume
+
+   Chomsky N. (2010), Some simple evo devo theses : how true might they be
+   for language ? In R.K. Larson / V. Déprez / H. Yamakido (eds.), The
+   evolution of human language : biolinguistics perspectives. Cambridge :
+   CUP, 45-62.
+
+   Christiansen M. / Kirby S. (eds.2003), Language evolution. Oxford,
+   New-York : OUP (Studies in the Evolution of Language 3).
+
+   Christiansen M.H. / Kirby S. (2003), Language evolution : The hardest
+   problem in science ? In M.H. Christiansen & S. Kirby (eds.), Language
+   Evolution (Oxford Studies in the Evolution of Language 3). Oxford,
+   New-York : OUP : 1-15.
+
+   Coupé Ch. / Hombert J.M. (2005), Les premières traversées maritimes :
+   une fenêtre sur les cultures et les langues de la préhistoire. In J.M.
+   Hombert (dir. 118-161)
+
+   Coward F. / Gamble C. (2009), Big brains, small world : material
+   culture and the evolution of mind. In C. Renfrew et al. (eds., 52-69.).
+
+   Darwin Ch. (1859), On the origin of species by means of natural
+   selection. Londres : Murray.
+
+   Darwin Ch. (1871), The descent of man, and selection in relation to
+   sex. Londres : Murray
+
+   Deacon T. (1997), The symbolic species – The co-evolution of language
+   and the brain. New-York, Londres : Norton.
+
+   Diller K. C. / Cann R. L. (2013), “Genetics, evolution, and the
+   innateness of language”. In R. Botha & M. Everaert (eds.), The
+   evolutionary emergence of language – Evidence and inference. Oxford :
+   OUP, 244-258 (chapter 13).
+
+   Dunbar R. (1997), Grooming, Gossip and the Evolution of Language.
+   Cambridge, MA : Harvard University Press.
+
+   Edelman G. (1987), Neural Darwinism. Basic Book.
+
+   Edelman G. (1990), The Remembered Present : A Theory of Consciousness.
+   Basic Book.
+
+   Edelman G. (2008), La biologie de la conscience. Paris : Odile Jacob
+   (original : Bright Air, Brilliant Fire : On the Matter of Mind, Basic
+   Book 1992).
+
+   Fitch W.T. (2010), The Evolution of Language. Cambridge : CUP.
+
+   Fitch W.T./ Hauser M. / Chomsky N. (2005), The evolution of the
+   language faculty : clarifications and implications. Cognition 97 :
+   179-210.
+
+   Foucault M. (1966), Les mots et les choses – Une archéologie des
+   sciences humaines. Paris : Gallimard
+
+   François J. (1998), Grammaire fonctionnelle et dynamique des langues :
+   de nouveaux modèles d’inspiration cognitive et biologique. In J.
+   François (dir. 233-256).
+
+   François J. (dir. 1998), Orientations récentes en grammaire
+   fonctionnelle, entre sciences cognitives et biologie. Verbum XX-3.
+   Presses Universitaires de Nancy.
+
+   François J. (2003a), La faculté de langage : travaux récents
+   d’inspiration fonctionnaliste sur son architecture, ses universaux, son
+   émergence et sa transmission. CoReLa 1,1 (Cognition, Représentation,
+   Langage, université de Poitiers) http://corela.edel.univ-poitiers.fr/.
+
+   François J. (2003b), Compte rendu de Ray Jackendoff, Foundations of
+   language – Brain, meaning, grammar, evolution (Oxford, New-York : OUP).
+   BSL XCVIII-2.
+
+   François J. (2004), Le fonctionnalisme linguistique et les enjeux
+   cognitifs. In : C. Fuchs (ed.), La linguistique cognitive. Paris :
+   Maison des sciences de l’homme & Ophrys, 99-134.
+
+   François J. (2010), Trois monographies récentes sur les parcours de
+   grammaticalisation et la linguistique de l’usage. Syntaxe & Sémantique
+   11 (Presses Universitaires de Caen), 185-203.
+
+   François J. (2014), L’investigation pluridisciplinaire de l’émergence
+   du langage et l’apport de la génétique - Traduction, introduction et
+   commentaire de K. Diller & R. Cann (2013), “Genetics, evolution, and
+   the innateness of language”. Manuscrit consultable à l’URL
+   http://www.interlingua.fr/accueil/actualites/
+
+   François J. (2015), Le siècle d’or de la linguistique en Allemagne – de
+   Humboldt à Meyer-Lübke. Limoges : Lambert-Lucas.
+
+   Frey Scott (2009), Tool use, communicative gesture and cerebral
+   asymmetries in the modern human brain. In : C. Renfrew et al. (eds. 21
+   -31).
+
+   Gazzaniga M.S. / Ivry R.B. / Mangun G.R. (2001), Neurosciences
+   cognitives. Bruxelles : De Boek & Larcier.
+
+   Geschwind N. (1965), Disconnexion syndromes in animals and man. Brain
+   88 :237-294 (1^e partie) ; 585-644 (2^e partie).
+
+   Geschwind N. (1970), The organization of language and the brain.
+   Science, vol. 170, n° 3961 : 940-944.
+
+   Geschwind N. / Galaburda A.M. (1985), Cerebral lateralization,
+   biological mechanisms, associations, and pathology : I. A hypothesis
+   and a program for research. Archives of Neurology 42 : 428-459.
+
+   Gibson K. (2013), Not the neocortex alone : other brain structures also
+   contribute to speech and language. In M. Tallerman & K. Gibson (eds.
+   Chap.16 : 176-179)
+
+   Givón T. (1995), Functionalism and Grammar. Amsterdam & Philadelphie :
+   Benjamins.
+
+   Givón T. (2005), Context As Other Minds : The Pragmatics Of Sociality,
+   Cognition And Communication. Amsterdam & Philadelphie : Benjamins.
+
+   Goethe J. W. von (1817), Naturwissenschaftliche Schriften [Ecrits sur
+   les sciences naturelles]. Hambourg 1948sq (Vol. 13 de l’Édition de
+   Hambourg en 14 vol. )
+
+   Gopnik M. / Crago M.B. (1991). Familial aggregation of a developmental
+   language. Cognition 39 : 1-50.
+
+   Gould S. J. / Yrba E.S. (1982), Exaptation – a missing term in the
+   science of form. Paleobiology 8, 581-598.
+
+   Greenberg J. (2005), Genetic Linguistics : Essays on Theory and Method.
+   Oxford / New-York : OUP [ouvrage posthume édité et introduit par
+   William Croft]
+
+   Grimm Jacob (1819), Deutsche Grammatik [Grammaire de l’allemand].
+   Berlin
+
+   Grimm Jacob (1851), Über den Ursprung der Sprache [Sur l’origine du
+   langage]. Berlin
+
+   Habib M. (^21998), Bases neurologiques des comportements. Paris :
+   Masson.
+
+   Hauser M. / Chomsky N. / Fitch W.T. (2002), The faculty of language :
+   what is it, who has it, and how did it evolve ? Science 298 : 1569-79.
+
+   Heine, B. (1993), Auxiliaries. Cognitive forces and grammaticalization.
+   Oxford : OUP
+
+   Heine, B. (1997a), Cognitive foundations of grammar. Oxford : OUP.
+
+   Heine, B. (1997b), Possession. Cognitives sources, forces, and
+   grammaticalization. Cambridge (UK) : Cambridge University Press.
+
+   Heine, B. / Kuteva, T. (2002), World lexicon of grammaticalization.
+   Amsterdam : Benjamins.
+
+   Hockett Ch. (1958), A Course in Modern Linguistics. New York. :
+   Macmillan Company.
+
+   Hombert J.L. (ed. 2005), Aux origines des langues et du langage.
+   Paris : Fayard.
+
+   Hombert J.L. / Lenclud G. (2013), Comment le langage est venu à
+   l’homme. Paris : Fayard.
+
+   Hopkins W. / Vauclair J. (2013), Evolution of behavioural and brain
+   asymmetries in primates. In M. Tallerman & K. Gibson (eds. chap.18 :
+   184-197).
+
+   Hovelacque A. (1877), La linguistique. Paris : Schleicher.
+
+   Jackendoff R. (2002), Foundations of Language : Brain, Meaning,
+   Grammar, Evolution. Oxford & New-York : OUP
+
+   Johnson M. (1987), The Body in the Mind – The Bodily Basis of Meaning,
+   Imagination, and Reason. Chicago : Chicago University Press.
+
+   Jones W. (1786) “Third Anniversary Discourse to the Asiatic
+   Society” réédité dans Discourses delivered before the Asiatic Society :
+   and miscellaneous papers, on the religion, poetry, literature, etc., of
+   the nations of India (1824). Londres : C.S. Arnold.
+
+   Jürgens, U. / von Cramon, D. (1982), On the role of the anterior
+   cingulate cortex on phonation : A combined case report and experimental
+   monkey study. Brain and Language, 15 : 234–248.
+
+   Kirby S. (1998), Motivations concurrentes et émergence comme
+   explications des hiérarchies fonctionnelles. In J. François (dir.,
+   309-336) [traduction de ‘Competing motivations and emergence :
+   Explaining implicational hierarchies’. Linguistic Typology, 1997/1,
+   5-31]
+
+   Kirby S. (1999), Function, selection, and innateness – The emergence of
+   linguistic universals. Oxford, New-York : OUP.
+
+   Kuhn Th. (1962), The structure of scientific revolutions, Chicago :
+   University of Chicago Press. ; La structure des révolutions
+   scientifiques Paris : Flammarion 1970.
+
+   Lakoff G. (1987), Women, Fire, and Dangerous Things. Chicago : Chicago
+   University Press.
+
+   Lakoff G. / Johnson M. (1999), Philosophy in the Flesh. Chicago :
+   Chicago University Press.
+
+   Lamb S. (1999), Outline of Stratification Grammar Washington :
+   Georgetown University Press.
+
+   Lamb S. (1999), Pathways of the Brain – The Neurocognitive Basis of
+   Language. Amsterdam & Philadelphie : Benjamins.
+
+   Langacker R. (1987), Foundations of cognitive Grammar, vol. 1 :
+   Theoretical prerequisites. Stanford : Standord University Press
+
+   Levelt J.M.W. (1989), Speaking : From Intention to Articulation.
+   Cambridge, MA : MIT Press.
+
+   Lichtheim L. (1885), On aphasia. Brain 1885-7 : 433–484.
+
+   Lieberman Ph. (2000), Human Language and our Reptilian Brain : The
+   Subcortical Bases of Speech, Syntax, and Thought. Cambridge, MA : MIT
+   Press.
+
+   Lyell Charles (1864), L’ancienneté de l’homme : prouvée par la géologie
+   et remarques sur les théories relatives à l’origine des espèces par
+   variation. Paris : Baillière
+
+   MacLarnon A. (2013), The anatomical and physiological basis of human
+   speech production : adaptations and exaptations. In M. Tallerman & K.
+   Gibson (eds. 224-235).
+
+   MacNeilage P. (2008), The Origin of Speech. Oxford : OUP (Studies in
+   the Evolution of Language 10).
+
+   Maturana H. / Varela F. (^31998), The Tree of Knowledge : The
+   Biological Roots of Human Understanding. Boston & London : Shambahla.
+
+   Müller F. (1876), Grundriß der Sprachwissenschaft [Fondements de la
+   linguistique]. Vienne
+
+   Oudayer P.Y. (2006), Self-organization in the Evolution of Speech.
+   Oxford, New-York : OUP (Studies in the Evolution of Language 6).
+
+   Pinker S. (2008), L’instinct du langage. Paris : Odile Jacob [The
+   language instinct, 1994]
+
+   Pinker S. / Bloom P. (1990), Natural language and natural selection.
+   Behavioral and Brain Sciences 13(4) : 707-784.
+
+   Reboul A. (2007), Langage et cognition humaine. Grenoble : Presses
+   Universitaires de Grenoble.
+
+   Renfrew Ch. / Frith Ch. / Malafouris L. (eds. 2009), The Sapient Mind :
+   Archaeology meets Neuroscience. Oxford & New-York : OUP
+
+   Richards R. (2003), The Linguistic Creation of Man : Charles Darwin,
+   August Schleicher, Ernst Haeckel, and the Missing Link in
+   Nineteenth-Century Evolutionary Theory [Cours à l’université de Harvard
+   home.uchicago.edu]
+
+   Rickert H. (1899), Kulturwissenschaft und Naturwissenschaft. Tübingen :
+   Mohr (Trad. fr. Science de la culture et science de la nature,
+   Gallimard, 1997).
+
+   Rizzolatti G. / Arbib M. (1998), Language within our grasp. Trends in
+   Neurosciences 21 : 188-194.
+
+   Schilhab Th. / Stjernfelt F. / Deacon T. (eds. 2012), The Symbolic
+   Species Evolved. Dordrecht, etc. : Springer.
+
+   Schlegel Fr. (1808), Über die Sprache und Weisheit der Indier- Ein
+   Beitrag zur Begründung der Althertusmkunde. Heidelberg : Mohr & Zimmer
+   / Trad.fr. La langue et la sagesse des indiens. Paris 1837
+
+   Schleicher August (1861-1862), Compendium der vergleichenden Grammatik
+   der indogerma-nischen Sprachen [Compendium de la grammaire comparée des
+   langues indogermaniques]. Weimar.
+
+   Starostin G. (2013), Lexicostatistics as a basis for language
+   classification : increasing the pros, reducing the cons. In : H.
+   Fangerau / H. Geisler / Th. Halling (eds.), Classification and
+   Evolution in Biology, Linguistics and the History of Science. Concepts
+   – Methods – Visualization. Stuttgart : Franz Steiner Verlag, 2013,
+   125-146.
+
+   Steinthal H. (1848), Die Sprachwissenschaft Wilhelm von Humboldt’s und
+   die Hegelsche Philosophie [La linguistique de W. von Humboldt et la
+   philosophie de Hegel] Berlin [thèse d’habilitation]
+
+   Steinthal H. (1851), Der Ursprung der Sprache im Zusammenhang mit den
+   letzten Fragen alles Wissens – Eine Darstellung der Ansicht Wilhelm v.
+   Humboldts, verglichen mit denen Herders und Hamanns [L’origine du
+   langage dans le contexte des questions ultimes de tout savoir – Une
+   présentation de la conception de W. von Humboldt, comparée à celles de
+   Herder et de Hamann]. Berlin
+
+   Stout D. / Toth N. / Schick K. / Chaminade Th. (2009), Neural
+   correlates of Early Stone Age toolmaking : technology, language and
+   cognition in human evolution. In C. Renfrew et al. (eds., 1-20)
+
+   Swadesh M. (1972) The origin and diversification of languages,
+   Londres : Routledge & Kegan.
+
+   Számadó S. / Szathmáry E. (2012), Evolutionary biological foundations
+   of the origin of language : the co-evolution of language and brain.
+   In : M. Tallermann / K. Gibson (eds. : 157-167).
+
+   Tallermann M. & Gibson K. (2013), The Oxford Handbook of Language
+   Evolution. Oxford, New-York : OUP.
+
+   Tomasello M. (1999), The Cultural Origins of Human Cognition.
+   Cambridge, MA : Harvard University Press.
+
+   Tomasello M. (2008), The origin of human communication. Cambridge, MA :
+   MIT Press.
+
+   Vauclair J. / Cochet H. (2013), Speech-gesture links in the ontogeny
+   and phylogeny of gestural communication. In R. Botha / M. Everaert
+   (eds. : 60-180).
+
+   Vernier Ph. (2005), Évolution du cerveau et émergence du langage. In
+   J.M. Hombert (dir.), Aux origines des langues et du langage, chap.2
+   (44-63)
+
+   Watkins K.E. / Dronkers N.G. / Vargha-Khadem F. (2002a), Behavioural
+   analysis of an inherited speech and language disorder : comparison with
+   acquired aphasia. Brain 125(3) : 452-464.
+
+   Wilkins Wendy (2013), Towards an evolutionary biology of language
+   through comparative neuroanatomy. In M. Tallermann / K. Gibson (eds.,
+   chap.19)
+   Haut de page
+
+Table des illustrations
+
+   Titre Tableau 1 :
+   Légende Fragment de l’inventaire des schèmes cognitifs à la source de
+   constructions grammaticales à travers les langues (Heine & Kuteva
+   2002 : 17)
+   URL
+   http://journals.openedition.org/corela/docannexe/image/3629/img-1.png
+   Fichier image/png, 51k
+   Titre Tableau 2 :
+   Légende Les schèmes d’événement figurant comme sources de l’expression
+   de la possession et du temps-aspect à travers les langues (selon Heine
+   1993 et 1997a)
+   URL
+   http://journals.openedition.org/corela/docannexe/image/3629/img-2.png
+   Fichier image/png, 77k
+   Titre Figure 1 :
+   Légende Représentation imagée de deux types (lâche vs. intriqué) de
+   convergence pluridisciplinaire
+   URL
+   http://journals.openedition.org/corela/docannexe/image/3629/img-3.png
+   Fichier image/png, 34k
+   Titre Figure 2 :
+   Légende Le rôle du faisceau arqué dans l’anatomie du cerveau humain
+   selon N. Geschwind (1970 : 941)
+   URL
+   http://journals.openedition.org/corela/docannexe/image/3629/img-4.png
+   Fichier image/png, 62k
+   Titre Figure 3 :
+   Légende Les sous-systèmes mentaux associés au langage selon Lamb (1999)
+   URL
+   http://journals.openedition.org/corela/docannexe/image/3629/img-5.png
+   Fichier image/png, 97k
+   Haut de page
+
+Pour citer cet article
+
+Référence électronique
+
+   Jacques François, « L’émergence et l’évolution du langage humain du
+   point de vue des neurosciences », Corela [En ligne], 12-2 | 2014, mis
+   en ligne le 15 décembre 2014, consulté le 02 janvier 2024. URL :
+   http://journals.openedition.org/corela/3629 ; DOI :
+   https://doi.org/10.4000/corela.3629
+   Haut de page
+
+Auteur
+
+Jacques François
+
+   Université de Caen – Basse Normandie, LaTTiCe, UMR 8094 Paris 3 / Ecole
+   Normale Supérieure, www.interlingua.fr
+
+Articles du même auteur
+
+     * Un arbre sémasiologique pour la représentation d’un phylum
+       étymologique [Texte intégral]
+       La polysémie de fr. tourner, ang. to turn et it. tornare en
+       contraste
+       Paru dans Corela, 8-2 | 2010
+     * La faculté de langage : travaux récents d’inspiration
+       fonctionaliste sur son architecture, ses universaux, son émergence
+       et sa transmission [Texte intégral]
+       Paru dans Corela, 1-1 | 2003
+
+   Haut de page
+
+Droits d’auteur
+
+   CC-BY-NC-SA-4.0
+
+   Le texte seul est utilisable sous licence CC BY-NC-SA 4.0. Les autres
+   éléments (illustrations, fichiers annexes importés) sont « Tous droits
+   réservés », sauf mention contraire.
+   Haut de page
+   Sommaire - Document suivant
+
+Navigation
+
+Index
+
+     * Auteurs
+     * Mots-clés
+
+La revue
+
+     * Présentation
+     * Organigramme
+     * Consignes aux auteurs
+     * Actualités
+     * Appels à contributions
+
+Numéros en texte intégral
+
+     * 21-2 | 2023
+       Vol. 21, n°2
+     * HS-40 | 2023
+       Le nom propre en français et en anglais au prisme de plusieurs
+       approches linguistiques
+     * HS-39 | 2023
+       Héritage des théories de Gilles Fauconnier (1944-2021) : des
+       Espaces Mentaux à l’Intégration Conceptuelle
+     * 21-1 | 2023
+       Vol. 21, n°1
+     * HS-38 | 2023
+       Les groupes nominaux sans déterminant – regards croisés
+     * 20-2 | 2022
+       Vol. 20, n° 2
+     * HS-37 | 2022
+       La détermination nominale au prisme de plusieurs approches
+       linguistiques.
+     * 20-1 | 2022
+       Vol. 20, n°1
+     * HS-36 | 2022
+       Ce que discrimer veut dire
+     * HS-35 | 2022
+       Anaphore et pronoms en anglais : convergences, différences et
+       complémentarité de quelques approches linguistiques
+     * HS-34 | 2021
+       Les noms sous-spécifiés en français: du lexique au discours
+     * 19-2 | 2021
+       Vol. 19, n°2
+     * 19-1 | 2021
+       Vol. 19, n°1
+     * 18-2 | 2020
+       Vol. 18, n°2
+     * HS-33 | 2020
+       Textuel, textiel. Repenser la textualité numérique
+     * HS-32 | 2020
+       Les postures énonciatives
+     * HS-31 | 2020
+       Métalinguistiques.
+     * 18-1 | 2020
+       Vol. 18, n°1
+     * HS-30 | 2020
+       Phonétique, littérature et enseignement du FLE : théories et
+       recherches
+     * 17-2 | 2019
+       Vol. 17, n°2
+     * HS-29 | 2019
+       Questions et exclamations au prisme de plusieurs approches
+       linguistiques
+     * 17-1 | 2019
+       Vol. 17, n°1
+     * HS-28 | 2019
+       Les affordances langagières : textualité numérique, matérialité
+       discursive
+     * HS-27 | 2019
+       Co(n)textualisation(s)
+     * 16-2 | 2018
+       Vol. 16, n°2
+     * HS-26 | 2018
+       Réseaux communautaires et variation dans le langage en moyen
+       français et français préclassique
+     * HS-25 | 2018
+       Les procédés implicites dans l'interface sémantique-pragmatique
+     * 16-1 | 2018
+       Vol. 16, n°1
+     * HS-24 | 2018
+       L'anglais mondial oralisé
+     * 15-2 | 2017
+       Vol.15, n°2
+     * HS-23 | 2017
+       The Genesis and Dynamics of Spatial Adpositions
+     * HS-22 | 2017
+       Prédication et prépositions en anglais
+     * 15-1 | 2017
+       Vol.15, n°1
+     * HS-21 | 2017
+       Linguistique de corpus : vues sur la constitution, l'analyse et
+       l'outillage
+     * 14-2 | 2016
+       Vol.14, n°2
+     * HS-20 | 2016
+       L'Implicite
+     * 14-1 | 2016
+       Vol. 14, n°1
+     * HS-19 | 2016
+       Le point de vue pris au mot
+     * 13-2 | 2015
+       Vol. 13, n°2
+     * HS-18 | 2015
+       La reformulation : usages et contextes
+     * 13-1 | 2015
+       Vol. 13, nº1
+     * HS-17 | 2015
+       Regards sur l'interdisciplinarité en science du langage
+     * HS-16 | 2015
+       Diversité des pratiques de recherche en science du langage
+     * 12-2 | 2014
+       Vol. 12, n°2
+     * HS-15 | 2014
+       Complémentarité des approches qualitatives et quantitatives dans
+       l’analyse des discours
+     * 12-1 | 2014
+       Vol. 12, n° 1
+     * HS-13 | 2013
+       Statut et utilisation des corpus en linguistique
+     * HS-14 | 2013
+       Calcul du sens et contexte
+     * 11-2 | 2013
+       Vol. 11, n° 2
+     * 11-1 | 2013
+       Vol. 11, n° 1
+     * HS-12 | 2012
+       Langue, espace, cognition
+     * 10-2 | 2012
+       Vol. 10, n° 2
+     * 10-1 | 2012
+       Vol. 10, n° 1
+     * HS-11 | 2012
+       RJC Cotexte, contexte, situation
+     * HS-10 | 2012
+       Paramétrer le sens ? Études de cas
+     * 9-2 | 2011
+       Vol. 9, n° 2
+     * 9-1 | 2011
+       Vol. 9, n° 1
+     * HS-9 | 2010
+       Parole
+     * 8-2 | 2010
+       Vol. 8, n° 2
+     * HS-8 | 2010
+       L’interpellation
+     * 8-1 | 2010
+       Vol. 8, n° 1
+     * HS-7 | 2010
+       Espace, Préposition, Cognition
+     * 7-2 | 2009
+       Vol. 7, n° 2
+     * 7-1 | 2009
+       Vol. 7, n° 1
+     * 6-2 | 2008
+       Vol. 6, n° 2
+     * 6-1 | 2008
+       Vol. 6, n° 1
+     * 5-2 | 2007
+       Vol. 5, n° 2
+     * HS-6 | 2007
+       Cognition, discours, contextes
+     * 5-1 | 2007
+       Vol. 5, n° 1
+     * 4-2 | 2006
+       Vol. 4, n° 2
+     * HS-5 | 2006
+       Organisation des textes et cohérence des discours
+     * 4-1 | 2006
+       Vol. 4, n° 1
+     * HS-4 | 2006
+       Le parcours
+     * HS-3 | 2006
+       Les verbes d'apparence
+     * 3-2 | 2005
+       Vol. 3, n° 2
+     * HS-2 | 2005
+       Le traitement lexicographique des noms propres
+     * 3-1 | 2005
+       Vol. 3, n° 1
+     * HS-1 | 2005
+       Colloque AFLS
+     * 2-2 | 2004
+       Vol. 2, n° 2
+     * 2-1 | 2004
+       Vol. 2, n° 1
+     * 1-2 | 2003
+       Vol. 1, n° 2
+     * 1-1 | 2003
+       Vol. 1, n° 1
+
+Tous les numéros
+
+Informations
+
+     * Contact
+     * Mentions légales et Crédits
+     * Politiques de publication
+
+Suivez-nous
+
+     * Flux RSS Flux RSS
+
+Lettres d’information
+
+     * La Lettre d’OpenEdition
+
+Affiliations/partenaires
+
+     * Logo Université de Poitiers
+     * Logo CerLiCO
+     * Logo Mir@bel
+     * Logo Worldcat
+     * Logo HAL
+     * Logo MSHS de Poitiers
+     * DOAJ - Directory of Open Access Journals
+     * OpenEdition Journals
+
+   ISSN électronique 1638-573X
+
+   Voir la notice dans le catalogue OpenEdition
+
+   Plan du site – Contact – Mentions légales et Crédits – Flux de
+   syndication
+
+   Politique de confidentialité – Gestion des cookies – Signaler un
+   problème
+
+   Nous adhérons à OpenEdition Journals – Édité avec Lodel – Accès réservé
+
+   (BUTTON)
+
+   Rechercher dans OpenEdition Search
+
+   Vous allez être redirigé vers OpenEdition Search
+   ____________________
+   ( ) Dans tout OpenEdition
+   (*) Dans Corela
+   (BUTTON) Rechercher
+
+     * Français
+          + English
+
+     * Partager
+          + Facebook
+          + Twitter
+          + Google+
+
+   ">
+   (BUTTON)
+
+     * Accueil
+     * Catalogue des 625 revues
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   (BUTTON) Français
+     * English
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
+   Suivez-nous

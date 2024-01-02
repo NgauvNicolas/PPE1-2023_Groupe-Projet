@@ -1,0 +1,1843 @@
+   false
+
+   Veuillez-patienter...
+
+     Aller au contenu
+
+   Aide Accès sourds et malentendants
+   Recherche
+   accueil /static/img/logo_com_externe_semi_bold.png
+   /static/img/logo-insee-header.png
+   English
+   Presse
+   Menu
+     * Menu
+     * Blog
+     * Espace presse
+     * Aide
+     * Accès sourds et malentendants
+     * English
+
+   Veuillez-patienter... ____________________ (BUTTON)
+     *
+     * Statistiques et études
+       Cherchez vos statistiques par…
+          + Thèmes
+               o Économie - conjoncture - comptes nationaux
+               o Démographie
+               o Entreprises
+               o Plus de thèmes…
+          + Niveaux géographiques
+               o France
+               o Toutes les régions ou tous les départements
+               o Toutes les communes
+               o Plus de niveaux géographiques…
+          + Catégories
+               o Données
+               o Publications
+               o Plus de catégories…
+          + Collections
+               o Insee Première
+               o Notes et points de conjoncture
+               o Plus de collections…
+     * Définitions, méthodes et qualité
+          + Définitions
+               o Toutes les définitions des concepts
+          + Sources statistiques et indicateurs
+               o Liste des sources statistiques
+               o Liste des indicateurs
+               o Documentation complémentaire sur le recensement
+          + La qualité dans le Service statistique public (SSP)
+               o Le cadre de référence
+               o La gouvernance
+               o La politique et la stratégie qualité du SSP
+               o Les engagements européens
+          + Nomenclatures
+               o Nomenclature d’activités française
+               o Nomenclature agrégée - NA, 2008
+               o Classification des produits française
+               o Classification des fonctions de consommation des ménages
+               o Catégories juridiques
+               o Nomenclatures des professions et catégories
+                 socioprofessionnelles
+          + Géographie administrative et d'étude
+               o Recherche sur une zone géographique
+               o Historique des communes
+               o Téléchargement
+               o Communes nouvelles
+               o Codification des collectivités et territoires français
+                 d’outre-mer
+               o Codification des pays et territoires étrangers
+               o Collectivités territoriales à statut particulier
+          + Modèles, méthodes et outils statistiques
+               o Les modèles statistiques
+               o Les outils statistiques
+               o Méthodologie statistique
+          + Courrier des statistiques
+          + Open Data, données RDF et espace XML
+               o Diffusion des bases de données
+               o Utilisation des formats de diffusion
+               o Catalogue des API de l'Insee
+     * Services
+          + Réviser une pension, un loyer, bail ou contrat
+               o Réviser une pension alimentaire
+               o Réviser un loyer d'habitation
+               o Réviser un bail commercial ou professionnel
+               o Indexer un contrat
+               o Convertisseur franc-euro
+          + Consulter les indices et séries chronologiques
+               o Recherche d'indices et de séries chronologiques
+               o Utilisation du service web SDMX
+               o Tables de passage
+               o Historique des actualités
+          + Sirene
+               o Obtenir un avis de situation au répertoire Sirene
+               o Demander la modification de son statut de diffusion
+               o Demander la modification du code APE
+               o Immatriculation, cessation ou modification des données au
+                 répertoire Sirene
+               o Obtenir sa catégorie d'entreprise
+               o Consulter et télécharger la base Sirene
+               o Identifiant unique des intervenants sur les marchés
+                 financiers (LEI)
+               o Demander son habilitation ProConnect
+               o Foire aux questions sur le répertoire Sirene
+               o Réponses à vos questions sur le répertoire Sirene
+          + Découvrir, apprendre, enseigner
+          + Répondre à une enquête de l'Insee
+               o Enquêtes auprès des particuliers
+               o Enquêtes auprès des entreprises
+               o Vrai ou faux enquêteur de l’Insee, fraude, malveillance :
+                 comment vérifier ?
+          + Consulter les agendas de diffusion
+               o Agenda des indicateurs
+               o Agenda des publications
+               o Publications les plus récentes
+               o Évènements annoncés à la Une du site
+          + Gérer les répertoires des personnes physiques
+               o Recueil des données d'état civil
+               o Le Répertoire électoral unique
+               o Dématérialisation des échanges de données
+               o Nombre de décès quotidiens par département
+               o Fichiers des personnes décédées depuis 1970
+          + Bibliothèque de l’Insee Alain Desrosières
+               o Portail documentaire et catalogue
+               o La Bibliothèque numérique de la statistique publique
+               o Contacter la bibliothèque
+          + Commander une prestation, acheter une publication
+               o Diffusion sur mesure
+               o Acheter nos publications
+          + Nous suivre
+               o Lettres d'information
+               o Abonnements aux lettres d'information et aux avis
+                 de parution
+               o Abonnement aux flux RSS
+               o L'Insee sur les médias sociaux
+               o Insee Mobile
+          + Aide
+               o Réponses à vos questions sur le répertoire Sirene
+               o Réponses à vos questions
+               o L’Insee est accessible aux personnes malentendantes ou
+                 sourdes avec Acceo
+          + Espace presse
+               o Événements presse
+               o Calendrier des publications
+               o Communiqués de presse nationaux
+               o Communiqués de presse régionaux
+     * L'Insee et la statistique publique
+          + L'Insee
+               o Connaître l'Insee
+               o Travailler à l'Insee
+               o Colloques, séminaires et salons
+               o Un peu d'histoire
+               o Rapports d'activité
+          + Les activités de l'Insee
+               o Suivre l’économie française
+               o Connaître les entreprises
+               o Observer l'évolution de la société
+               o Réaliser le recensement de la population
+               o Décrire et analyser les régions et les territoires
+               o Gérer des grands répertoires
+               o Diffuser et valoriser ses productions
+               o Perfectionner ses méthodes et évaluer la qualité
+               o Contribuer à la construction de la statistique européenne
+                 et internationale
+          + La statistique publique
+               o Cadre juridique et institutionnel
+               o Le service statistique public
+               o Secret statistique
+               o Protection des données personnelles
+               o Accès aux données publiques
+               o Accès aux documents administratifs
+          + La construction de la statistique européenne
+               o Les producteurs de statistiques européennes en France
+               o Textes juridiques de la gouvernance
+                 statistique européenne
+               o Les règlements cadres et sectoriels
+          + Mesure de la qualité de service
+               o Les indicateurs de qualité du programme Transparence
+               o Résultats des enquêtes de satisfaction
+          + Services publics+ : un service public plus proche, plus
+            simple, plus efficace
+
+    1. Accueil
+    2. Statistiques et études
+    3. France, portrait social
+
+France, portrait social Édition 2019
+
+   Une édition avec des éclairages consacrés à l’évolution de la société
+   française depuis 40 ans : démographie, évolution du temps de travail,
+   mobilité sociale, inégalités de niveau de vie et redistribution,
+   opinions et préoccupations des Français.
+   Insee Références
+   Paru le :Paru le19/11/2019
+   Découvrir la collection
+   Version imprimable
+   (pdf, 7 Mo)
+   Lucie Brice Mansencal, Patricia Croutte, Sandra Hoibian, avec la
+   collaboration de Victor Prieur (Crédoc)
+   France, portrait social- Novembre 2019
+
+     * Présentation
+
+   Consulter
+   Sommaire
+   false
+     *
+
+Éclairages
+          + Quarante ans d’évolution de la démographie française : le
+            vieillissement de la population s’accélère avec l’avancée en
+            âge des baby-boomers
+          + Depuis 1975, le temps de travail annuel a baissé de 350
+            heures, mais avec des horaires moins réguliers et plus
+            contrôlés
+          + La mobilité sociale des femmes et des hommes : évolutions
+            entre 1977 et 2015
+          + Quarante ans d’inégalités de niveau de vie et de
+            redistribution en France (1975-2016)
+          + En quarante ans : plus de liberté, mais aussi plus
+            d’inquiétudes
+     *
+
+Dossiers
+          + De la rupture conjugale à une éventuelle remise en couple :
+            l’évolution des niveaux de vie des familles monoparentales
+            entre 2010 et 2015
+          + L’imposition conjointe des couples mariés et pacsés organise
+            une redistribution en direction des couples les plus aisés,
+            dont les effets ont augmenté entre 2012 et 2017
+          + Les personnes les plus aisées sont celles qui bénéficient le
+            plus des mesures socio-fiscales mises en oeuvre en 2018,
+            principalement du fait des réformes qui concernent les
+            détenteurs de capital
+     *
+
+Fiches – Cadrage économique
+          + PIB, croissance et déficit public
+          + Revenu disponible brut et pouvoir d’achat des ménages
+          + Consommation et épargne des ménages
+     *
+
+Fiches – Population
+          + Démographie
+          + Ménages et familles
+          + Immigrés et descendants d’immigrés
+          + Femmes et hommes
+          + Enfants – Population scolaire des 1er et 2nd degrés
+          + Jeunes de 18 à 29 ans
+          + Seniors
+     *
+
+Fiches – Marché du travail
+          + Population active
+          + Emploi
+          + Chômage
+          + Durée et conditions de travail
+          + Revenu salarial
+     *
+
+Fiches – Niveaux de vie et redistribution
+          + Niveaux de vie
+          + Pauvreté
+          + Protection sociale
+          + Redistribution monétaire
+     *
+
+Fiches – Qualité de vie
+          + Logement
+          + Dépenses de logement
+          + État de santé de la population
+          + Dépenses de santé
+          + Niveau d’éducation de la population
+          + Dépenses d’éducation
+          + Insécurité, victimation
+          + Justice
+          + Vie citoyenne
+          + Relations sociales
+          + Activités personnelles
+          + Satisfaction dans la vie et bien-être émotionnel
+     *
+
+Fiches – Cadrage européen
+          + Démographie en Europe
+          + Éducation en Europe
+          + Emploi et chômage en Europe
+          + Salaires et revenus en Europe
+          + Protection sociale en Europe
+          + Consommation et conditions de vie en Europe
+     * Annexes - Chronologie - Glossaire - Organismes cités dans l’ouvrage
+       - Liste des dossiers antérieurs
+
+   (BUTTON) SOMMAIRE
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) CONTENU
+
+En quarante ans : plus de liberté, mais aussi plus d’inquiétudes
+
+   Lucie Brice Mansencal, Patricia Croutte, Sandra Hoibian, avec la
+   collaboration de Victor Prieur (Crédoc)
+
+   Le suivi des opinions des Français sur longue période révèle plusieurs
+   transformations de fond des représentations et des valeurs. En
+   parallèle de la féminisation croissante du marché du travail, la
+   liberté des femmes de travailler quand elles le désirent, y compris
+   lorsqu’elles ont des enfants en bas âge, est devenue petit à petit la
+   norme, alors que cette opinion était minoritaire quarante ans plus tôt.
+   La répartition des rôles sociaux suivant le sexe s’est aussi
+   reconfigurée, permettant à chaque individu d’investir de plus nombreux
+   domaines. Si les hommes cherchent toujours leur place dans le foyer
+   (tâches ménagères, soins prodigués aux enfants), les femmes n’y sont
+   plus limitées et ont largement investi la sphère professionnelle.
+
+   La famille est aujourd’hui de moins en moins considérée comme le seul
+   facteur de bien-être : 59 % des Français disent en 2019 que « c’est le
+   seul endroit où l’on se sent bien et détendu », contre 70 % quarante
+   ans auparavant. L’accroissement du temps libre sur la même période a
+   conduit les Français à multiplier leurs priorités de vie,
+   particulièrement à partir des années 1990 : le travail, la famille, les
+   loisirs, la sociabilité amicale sont autant de domaines qu’ils jugent
+   désormais essentiels à leur quotidien. Cette évolution peut aussi être
+   reliée à la progression des ménages constitués d’une personne seule, du
+   fait du développement du célibat, des séparations et du vieillissement
+   de la population.
+
+   Néanmoins, les Français portent un regard plus sombre que par le passé
+   sur l’évolution de leur niveau de vie : en 1979, 46 % d’entre eux
+   disaient qu’il s’était amélioré depuis une dizaine d’années ; ils ne
+   sont plus que 24 % en 2019. Les jeunes Français âgés de 18 à 24 ans se
+   démarquent dorénavant de leurs aînés par leurs inquiétudes bien plus
+   vives en matière de santé et de sécurité, alimentées par des discours
+   sanitaires et sécuritaires plus prégnants et une préoccupation marquée
+   pour leur état de santé.
+
+   Enfin, en quarante ans, le désir de transformer la société progresse :
+   83 % des Français le souhaitent en 2019, contre 76 % en 1979.
+
+   Insee Références
+
+   Paru le :19/11/2019
+   Version imprimable
+   (pdf, 706 Ko)
+   Données
+   (xls, 172 Ko)
+     * Étude
+     * Définitions
+     * Documentation
+     * Pour en savoir plus
+
+   Consultation de la publication ou de la documentation qui lui est
+   associée [Étude_____________.]
+   Sommaire
+    1. En quarante ans, les opinions et les préoccupations ont évolué
+    2. Les opinions en faveur du travail des femmes ont progressé dans
+       tous les milieux
+    3. Les Français identifient moins souvent la famille comme seule
+       source de bien-être
+    4. Près de la moitié de la population française estime toujours
+       manquer de temps pour les activités autres que le travail et les
+       tâches domestiques
+    5. Les Français plus pessimistes sur l’évolution de leur niveau de vie
+       en 2019 qu’en 1979
+    6. L’écart de perception sur le sentiment de restriction budgétaire se
+       creuse entre les plus aisés et les plus modestes
+    7. Les jeunes sont de plus en plus inquiets de leur état de santé
+    8. Les jeunes sont aujourd’hui plus inquiets du risque d’agression
+       dans la rue que les 60 ans ou plus
+    9. Le souhait de transformation de la société augmente
+
+En quarante ans, les opinions et les préoccupations ont évolué
+
+   En quarante ans, les opinions et les préoccupations de la société
+   française ont évolué en de nombreux domaines, accompagnant parfois des
+   transformations dans les modes de vie ou, à l’inverse, étant
+   influencées par elles. Ainsi, les femmes ont massivement rejoint le
+   marché du travail, mais comment les opinions des Français ont-elles
+   évolué vis-à-vis de l’emploi des femmes ? Quel regard portent désormais
+   les Français sur la famille ? Sont-ils satisfaits de l’évolution de
+   leur niveau de vie et de leur temps libre ? Santé, sécurité : quelles
+   sont les nouvelles inquiétudes ? L’enquête Conditions de vie et
+   aspirations menée par le Crédoc chaque année depuis l’hiver 1979 auprès
+   d’un échantillon de personnes qui résident en France (sources) permet
+   de répondre à certaines de ces questions, offrant ainsi un regard sur
+   les évolutions des modes de vie et des valeurs.
+
+Les opinions en faveur du travail des femmes ont progressé dans tous les
+milieux
+
+   Les opinions en faveur du travail des femmes, minoritaires en 1979,
+   n’ont cessé de progresser depuis, avec notamment une accélération des
+   opinions favorables dans les années 1990. En 2019, 74 % des Français
+   considèrent que les femmes « devraient travailler quand elles le
+   désirent », contre 30 % en 1979, soit une augmentation de 44 points de
+   pourcentage (figure 1). L’idée que les femmes « devraient toujours
+   travailler », même si elle a progressé sur la période (+ 5 points de
+   pourcentage), n’est portée, en 2019, que par 6 % de l’opinion. Au
+   total, huit personnes sur dix sont désormais favorables au travail des
+   femmes (80 % contre 31 % en 1979).
+     * Graphique
+     * Tableau
+
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   graphique[Graphique -Figure 1 - Évolution depuis 1979 des opinions à l’égar
+   d du travail des femmesgure 1
+
+tableauFigure - Évolution depuis 1979 des opinions à l’égard du travail des femmes
+femmes
+
+   en %
+
+   CAPTION: Figure 1 - Évolution depuis 1979 des opinions à l’égard du
+   travail des femmes (en %) - Lecture : en 2019, 74 % des personnes
+   estiment que les femmes devraient travailler quand elles le désirent.
+
+   Elles devraient toujours travailler Elles devraient travailler quand
+   elles le désirent Elles ne devraient travailler que si nécessaire Elles
+   ne devraient jamais travailler avec des enfants en bas âge Elles ne
+   devraient jamais travailler
+   1979 1 30 22 41 6
+   1980 1 32 23 38 5
+   1981 2 31 22 41 4
+   1982 1 40 20 33 5
+   1983 2 37 24 33 4
+   1984 2 41 23 29 3
+   1985 1 41 23 30 4
+   1986 2 41 25 28 4
+   1987 2 42 23 29 3
+   1988 2 39 24 29 4
+   1989 2 41 22 30 3
+   1990 2 43 19 31 4
+   1991 2 42 19 32 5
+   1992 2 47 19 28 3
+   1993 2 45 20 29 4
+   1994 2 43 21 29 4
+   1995 3 49 19 26 4
+   1996 3 51 19 22 4
+   1997 3 54 19 21 3
+   1998 3 55 17 22 3
+   1999 4 57 17 20 2
+   2000 4 56 16 22 3
+   2001 4 57 16 21 2
+   2002 4 61 15 19 2
+   2003 4 60 16 19 2
+   2004 5 62 14 18 2
+   2005 5 62 13 18 2
+   2006 6 62 13 17 2
+   2007 4 70 12 13 2
+   2008 4 69 13 14 2
+   2009 5 69 12 13 1
+   2010 5 71 11 12 0
+   2011 5 71 12 11 1
+   2012 4 69 13 12 1
+   2013 6 73 10 11 1
+   2014 7 73 10 9 1
+   2015 8 5 73 79 9 8 10 7 1 1
+   2016 6 75 10 9 1
+   2017 5 76 9 9 1
+   2018 6 73 10 10 1
+   2019 6 74 10 8 1
+     * Note : rupture de série en 2015 à la suite du passage à l'enquête
+       en ligne.
+     * Lecture : en 2019, 74 % des personnes estiment que les femmes
+       devraient travailler quand elles le désirent.
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus.
+     * Source : Crédoc, enquêtes Conditions de vie et aspirations
+       1979-2019.
+
+graphiqueFigure 1 - Évolution depuis 1979 des opinions à l’égard du travail
+des femmes
+
+     * Note : rupture de série en 2015 à la suite du passage à l'enquête
+       en ligne.
+     * Lecture : en 2019, 74 % des personnes estiment que les femmes
+       devraient travailler quand elles le désirent.
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus.
+     * Source : Crédoc, enquêtes Conditions de vie et aspirations
+       1979-2019.
+
+   L’opposition pure et simple au travail des femmes (« elles ne devraient
+   jamais travailler ») n’a jamais recueilli beaucoup de soutien dans
+   l’opinion et n’est plus évoquée que par 1 % des répondants en 2019 (6 %
+   en 1979). En revanche, en 1979, près des deux tiers des Français
+   posaient des limites à ce travail : 41 % estimaient que les femmes « ne
+   devraient jamais travailler avec des enfants en bas âge » et 22 % que
+   « les femmes ne devraient travailler que si nécessaire ». Ces opinions
+   ont progressivement perdu de l’importance pour ne concerner dorénavant
+   qu’une personne sur six (respectivement 8 % et 10 %).
+
+   En quarante ans, les opinions favorables au travail des femmes ont
+   progressé dans tous les groupes sociaux et les écarts, très sensibles
+   en 1979, se sont grandement résorbés. En 1979, on percevait une
+   différence sensible entre les moins de 40 ans, dont plus de deux sur
+   cinq étaient favorables au travail des femmes, et les 40 ans ou plus,
+   dont moins de un sur cinq y était favorable (figure 2). Cet écart a
+   complètement disparu en 2019, les personnes de 40 ans ou plus s’avérant
+   plus ouvertes sur le sujet que par le passé. Cette disparition de
+   l’effet d’âge est à mettre en lien avec le renouvellement des
+   générations. Il a en effet été constaté au fil des enquêtes, que, à âge
+   égal, les représentations sociales sont de moins en moins
+   traditionalistes en matière de mœurs et de plus en plus favorables au
+   travail des femmes de génération en génération [Ouvrir dans un nouvel
+   ongletBigot, Croutte et Müller, 2013].
+     * Graphique
+     * Tableau
+
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   graphique[Graphique -Figure 2 - Opinions favorables à l’égard du travail de
+   s femmes en 1979 et 2019 selon les caractéristiques socio-démographiquesi
+   iques]
+
+tableauFigurel des femmes en 1979 et 2019 selon les caractéristiques socio-démogr
+aphiques seloGraphique -Figure 2 - Opinions favorables à l
+
+   en %
+
+   CAPTION: F’égard du travail des femmes en 1979 et 2019 selon les caractéris
+   tiques socio-démographiques2 - Opinions favorables à l’égard du travail d
+   - Lecture es femmes en 1979 et 2019 selon les caractéristiques socio
+   -démographiquesque -Figure 2 - Opinions favorables à l’égard du trava
+   désirent.
+
+             il des femmes en 1979 et 2019 selon les car
+   actéristiques socio-démographiquesions favorables à
+              l’égard du travail des femmes en 1979 et
+    2019 selon les caractéristiques socio-démographiqu
+             esaphique -Figure 2 - Opinions favorables 
+             à l’égard du travail des femmes en 1979 et
+    2019 selon les caractéristiques socio-démographiqu
+   Agriculteuesaphique -Figure 2 - Opinions favorables 
+             à l’égard du travail des femmes en 1979 e
+   t 2019 selon les caractéristiques socio-démographiqu
+             esaphique -Figure 2 - Opinions favorables 
+             à l’égard du travail des femmes en 1979 e
+   t 2019 selon les caractéristiques socio-démographiq
+             uesphique -Figure 2 - Opinions favorables 
+          Breà l’égard du travail des femmes en 1979 et
+    2019 selon les caractéristiques socio-démographique
+             sraphique -Figure 2 - Opinions favorables à
+         1^er l’égard du travail des femmes en 1979 et
+    2019 selon les caractéristiques socio-démographiqu
+          3^eesaphique -Figure 2 - Opinions favorables
+          4^e à l’égard du travail des femmes en 1979 
+   et 2019 selon les caractéristiques socio-démographi
+             queshique -Figure 2 - Opinions favorables
+   Unité urb à l’égard du travail des femmes en 1979 et
+    2019 selon les caractéristiques socio-démographique
+            Asraphique -Figure 2 - Opinions favorables 
+             à l’égard du travail des femmes en 1979 et
+    2019 selon les caractéristiques socio-démographiques
+                 Séparé, divorcé               31   85
+                      Veuf                     20   83
+                A eu des enfants               24   80
+              N'a pas eu d'enfants             46   81
+     * Lecture : en 2019, 77 % des hommes et 84 % des femmes estiment que
+       les femmes devraient toujours travailler ou travailler quand elles
+       le désirent.
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus.
+     * Source : Crédoc, enquêtes Conditions de vie et aspirations
+       1979-2019.
+
+graphiqueFigure 2 - Opinions favorables à l’égard du travail des femmes en
+1979 et 2019 selon les caractéristiques socio-démographiques
+
+   [figure2.png]
+     * Lecture : en 2019, 77 % des hommes et 84 % des femmes estiment que
+       les femmes devraient toujours travailler ou travailler quand elles
+       le désirent.
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus.
+     * Source : Crédoc, enquêtes Conditions de vie et aspirations
+       1979-2019.
+
+   De même, les écarts selon la taille de l’unité urbaine de résidence ont
+   quasiment disparu en 2019. Alors qu’en 1979, un habitant rural sur
+   quatre seulement (24 %) était favorable au travail féminin contre 53 %
+   des habitants de Paris et son agglomération, ces taux ne présentent
+   plus que 3 points d’écart, atteignant respectivement 78 % et 81 % en
+   2019. Le fossé important séparant les personnes dont le niveau de
+   diplôme est égal ou supérieur au baccalauréat et celles non diplômées
+   s’est en partie comblé. Les opinions favorables au travail des femmes
+   sont passées de 67 % à 84 % pour les diplômés du supérieur et de 18 % à
+   74 % pour les non-diplômés, l’écart s’étant réduit de 49 points en 1979
+   à 10 points en 2019. Les écarts selon le niveau de vie se sont
+   également réduits, passant de 26 à 15 points : les 20 % de personnes
+   les plus modestes n’étaient que 23 % à se prononcer en faveur du
+   travail des femmes en 1979 contre 49 % des 20 % les plus aisées ; en
+   2019, elles sont 71 % contre 86 %. Les hommes et les femmes ont
+   toujours affiché des opinions relativement proches sur le sujet, les
+   femmes restant légèrement plus favorables au travail des femmes.
+
+   En quarante ans, la structure de la population a changé : le niveau de
+   diplôme a progressé, la population a vieilli. Une analyse toutes choses
+   égales par ailleurs permet de mesurer ce qui relève d’une évolution
+   générale des opinions de ce qui est directement lié aux changements
+   dans la structure de la population. Elle confirme qu’un changement des
+   représentations concernant le libre choix d’une vie active pour les
+   femmes s’est effectivement opéré dans le temps, au-delà de l’impact
+   qu’ont pu avoir les diverses évolutions socio-démographiques. Ainsi,
+   toutes choses égales par ailleurs, les Français sont 5,2 fois plus
+   souvent favorables au travail des femmes dans la dernière décennie que
+   dans les années 1980. En particulier, l’accélération de l’entrée des
+   femmes sur le marché du travail dans les années 1990 a
+   vraisemblablement encouragé ce changement.
+
+Les Français identifient moins souvent la famille comme seule source de
+bien-être
+
+   En 2019, 59 % des Français souscrivent à l’idée que la famille est « le
+   seul endroit où l’on se sente bien et détendu » ; ils étaient 70 % en
+   1979 (figure 3). Les années 1990 marquent le début de cette prise de
+   distance de l’opinion avec l’idée que la famille est le seul endroit où
+   l’on se sent bien et détendu. Les enquêtes internationales montrent en
+   effet que les Français, comme de nombreuses autres populations, jugent
+   la famille très importante dans leur vie, mais aussi qu’ils aspirent de
+   plus en plus à vivre une vie « polycentrée » où toutes les dimensions
+   sont importantes (famille, mais aussi travail, loisirs, amis, etc.)
+   [Ouvrir dans un nouvel ongletBigot, Daudey et Hoibian, 2013].
+     * Graphique
+     * Tableau
+
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   graphique[Graphique -Figure 3 - Évolution depuis 1979 du sentiment que 
+   « la famille est le seul endroit où l'on se sente bien et détendu du »]
+
+tableauFigure 3 - Évolution depuis 1979 du sentiment que « la famille est le
+seul endroit où l'on se sente bien et détendu »
+
+   en %
+
+   CAPTION: Figure 3 - Évolution depuis 1979 du sentiment que « la famille
+   est le seul endroit où l'on se sente bien et détendu » (en %) - Lecture
+   : en 2019, 59 % des personnes se disent en accord avec l'idée que « la
+   famille est le seul endroit où l'on se sente bien et détendu ».
+
+        « La famille est le seul endroit où l'on se sente bien et détendu »
+   1979 70
+   1980 69
+   1981 67
+   1982 64
+   1983 61
+   1984 63
+   1985 63
+   1986 63
+   1987 64
+   1988 70
+   1989 68
+   1990 66
+   1991 69
+   1992 69
+   1993 70
+   1994 70
+   1995 67
+   1996 66
+   1997 66
+   1998 63
+   1999 62
+   2000 64
+   2001 64
+   2002 63
+   2003 60
+   2004 60
+   2005 57
+   2006 59
+   2007 58
+   2008 60
+   2009 61
+   2010 58
+   2011 60
+   2012 55
+   2013 56
+   2014 56
+   2015 57 57
+   2016    56
+   2017    59
+   2018    63
+   2019    59
+     * Note : rupture de série en 2015 à la suite du passage à l'enquête
+       en ligne.
+     * Lecture : en 2019, 59 % des personnes se disent en accord avec
+       l'idée que « la famille est le seul endroit où l'on se sente bien
+       et détendu ».
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus.
+     * Source : Crédoc, enquêtes Conditions de vie et aspirations
+       1979-2019.
+
+graphiqueFigure 3 - Évolution depuis 1979 du sentiment que « la famille est
+le seul endroit où l'on se sente bien et détendu »
+
+     * Note : rupture de série en 2015 à la suite du passage à l'enquête
+       en ligne.
+     * Lecture : en 2019, 59 % des personnes se disent en accord avec
+       l'idée que « la famille est le seul endroit où l'on se sente bien
+       et détendu ».
+     * Champ : France métropolitaine, personnes âgées de 18 ans ou plus.
+     * Source : Crédoc, enquêtes Conditions de vie et aspirations
+       1979-2019.
+
+   Cette évolution peut aussi être reliée à la progression du célibat et
+   des séparations. En 2019, seuls 45 % des célibataires qui ne vivent pas
+   en couple pensent que la famille est « le seul endroit où l’on se sent
+   bien et détendu », de même que 51 % des personnes séparées ou
+   divorcées, contre 67 % des personnes qui vivent en couple (mariées,
+   pacsées ou en union libre). Le décalage était déjà à l’œuvre il y a
+   quarante ans (41 % des célibataires et 57 % des séparés ou divorcés
+   contre 75 % des personnes en couple en 1979). Or, la proportion de
+   personnes célibataires ou séparées est en augmentation, avec en
+   particulier des divorces plus fréquents et des âges moyens au mariage
+   ou à la naissance des enfants qui reculent [Athari et al., 2019]. En
+   l’espace de quarante ans, les couples avec enfants, qui formaient
+   auparavant la configuration de ménages la plus fréquente (39 %
+   en 1982), sont beaucoup moins nombreux : ils ne représentent plus que
+   26 % des ménages en 2015. Ils ont laissé la première place aux ménages
+   d’une personne seule, qui constituent aujourd’hui la situation la plus
+   représentée au sein de la population avec 35 % des ménages contre 25 %
+   en 1982 [Insee, 2018].
+
+   La tendance de long terme à la diminution de la place centrale de la
+   famille comme refuge dans l’opinion des Français marque des coups
+   d’arrêt conjoncturels dans les périodes de crise (1983, 1993, 2000 et
+   2008). Ces dernières s’accompagnent en effet d’incertitudes tant sur le
+   plan des revenus et de l’emploi que d’une certaine morosité.
+
+   En quarante ans, les écarts catégoriels se sont considérablement
+   réduits (figure 4). Ce rapprochement est le fruit d’évolutions
+   contrastées : les catégories les moins centrées sur la famille s’en
+   sont rapprochées tandis que les plus enthousiastes sont désormais plus
+   ouvertes à d’autres sphères, ce qui provient à la fois d’une évolution
+   de chaque catégorie dans son rapport à la famille, mais aussi de
+   changements socio-démographiques au sein des différents groupes
+   observés. Par exemple, en 2019, les non-diplômés sont moins attachés à
+   la sphère familiale que ne l’étaient ceux de 1979 (66 % contre 84 %,
+   soit – 18 points), alors que c’est l’inverse pour les diplômés du
+   supérieur (51 % contre 33 %, soit + 18 points). Ces derniers ont changé
+   socialement en quarante ans, avec la hausse de la proportion de
+   bacheliers dans une génération et la massification de l’enseignement
+   supérieur, qui ont plus largement ouvert l’accès aux études supérieures
+   pour des élèves de milieux modestes, même si les inégalités sociales
+   restent marquées [Dalous et al., 2014]. L’écart selon le diplôme s’est
+   ainsi considérablement réduit sur la période, même si les non-diplômés
+   sont toujours plus nombreux que les diplômés du supérieur à dire leur
+   attachement à la famille en 2019. Les écarts selon l’âge et la taille
+   d’unité urbaine se sont aussi quasiment résorbés. Ainsi, les personnes
+   de 40 ans ou plus en 2019 ont une opinion proche de celle des plus
+   jeunes, contrairement à celles de 1979, qui plébiscitaient la famille.
+   L’influence du niveau de vie a également reculé, les individus des deux
+   premiers quintiles de niveau de vie ayant, en quarante ans, perdu leur
+   spécificité et rejoint l’opinion moyenne (respectivement – 17 points et
+   – 18 points d’attachement à la seule sphère familiale). Les opinions
+   des femmes et des hommes sur cette question, déjà proches en 1979, le
+   sont restées en 2019.
+     * Graphique
+     * Tableau
+
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   phique -Figure 4 - Sentiment que « la famille est le seul endroit où l’
+   endroit o�on se sente bien et détendu » en 1979 et 2019 selon les caractéris
+   tiques socio-démographiques4 - Sentime
+
+tableauFigurent que « la famille est le seul endroit où l’on se sente bien et
+ détendu » en 1979 et 2019 selon les caractéristiques socio-démograph
+iquesdémograGraphiq
+
+   en %
+
+   CAPTION: Fue -Figure 4 - Sentiment que « la famille est le seul endroit
+    où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   caractéries caractéristiques socio-démographiquesfamille est le seul e
+   des hommesndroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le se
+
+             ul endroit où l’on se sente bien et détendu
+    » en 1979 et 2019 selon les caractéristiques socio
+             -démographiquese 4 - Sentiment que « la f
+             amille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les carac
+             téristiques socio-démographiquese « la fam
+             ille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caracté
+             ristiques socio-démographiques que « la f
+            Pamille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+             éristiques socio-démographiquesue « la fa
+             mille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+          Breéristiques socio-démographiquesue « la fam
+             ille est le seul endroit où l’on se sente 
+   bien et détendu » en 1979 et 2019 selon les caractéri
+         1^erstiques socio-démographiquesnt que « la f
+          2^eamille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les cara
+          4^ectéristiques socio-démographiques « la fa
+          5^emille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les carac
+   Unité urbtéristiques socio-démographiquese « la fami
+   Unité urblle est le seul endroit où l’on se sente b
+   ien et détendu » en 1979 et 2019 selon les caractéri
+             stiques socio-démographiquesnt que « la fa
+         Marimille est le seul endroit où l’on se sente 
+   bien et détendu » en 1979 et 2019 selon les caractéris
+             tiques socio-démographiquesent que « la f
+             amille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les cara
+     * Lecturctéristiques socio-démographiques « la famille est le seul e
+       accordndroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+        les caractéristiques soci
+     * Champ o-démographiques 4 - Sentiment que « la famille est le seul en
+     * Sourcedroit où l’on se sente bien et détendu » en 1979 et 20
+       19 selon l
+
+graphiqueFigues caractéristiques socio-démographiquesfamille est le seul endroit 
+sente bien etoù l’on se sente bien et détendu » en 1979 et 2019 selon
+ les caractéristiques
+
+   [figure4.p so
+   cio-démographiques -Figure 4 - Sentiment que « la famille est le seul 
+       accordendroit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+       s caractéristiques socio-d
+     * Champ émographiquesure 4 - Sentiment que « la famille est le seul en
+     * Sourcedroit où l’on se sente bien et détendu » en 1979 et 20
+       19 selon l
+
+Près de la mes caractéristiques socio-démographiquesfamille est le seul endroit
+pour les acti où l’on se sente bien et détendu » en 1979 et 2019 sel
+
+   Entre 1986on les caractéristiques socio-démographiqueslle est le 
+   loisirs, dseul endroit où l’on se sente bien et détendu » en 1979 et 2
+   019 selon les caractéristiques socio-démographiquesamille est le seu
+   [Ricroch el endroit où l’on se sente bien et détendu » en 1979 et 2
+   019 selon les caractéristiques socio-démographiquesamille est le se
+   travail diul endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul 
+   professionendroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille 
+   (+ 4 minutest le seul endroit où l’on se sente bien et détendu » 
+   en 1979 et 2019 selon les caractéristiques socio-démographiquese seul e
+   réductionndroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seul end
+   l’essor roit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesn
+
+   Malgré cet que « la famille est le seul endroit où l’on se sente bi
+   en et détendu » en 1979 et 2019 selon les caractéristiques socio-dé
+   travail remographiquesigure 4 - Sentiment que « la famille est le seul en
+   qu’ils ndroit où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famille est le 
+   souhaitentseul endroit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon
+
+   Cette stab les caractéristiques socio-démographiquesmille est le seul end
+   catégorieroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul endro
+   dehors de it où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est le seul en
+   activitésdroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul 
+   parmi les endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul en
+   évolutiondroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille est le seul endr
+   développeoit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul 
+   [Ouvrir daendroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le
+   disponible seul endroit où l’on se sente bien et détendu » en 1979 et 2019
+    selon les caractéristiques socio-démographiquesa famille est le seul
+   société  endroit où l’on se sente bien et détendu » en 1979 
+   et 2019 selon
+     * Tablea 
+
+   Affichage les caractéristiques socio-démographiquesamille est le seul endr
+   graphique[oit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul endro
+   stiques soit où l’on se sente 
+
+tableauFigurebien et détendu » en 1979 et 2019 selon les caractéristiq
+ues socio-démographiquesigure 4 - Sentiment que « la famille est le
+socio-démogr seul en
+
+   en %
+
+   CAPTION: Fdroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul e
+   socio-démndroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul en
+   leur travadroit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démographiqu
+
+             esaphique -Figure 4 - Sentiment que « la fa
+             mille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les carac
+             téristiques socio-démographiquese « la fa
+             mille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caracté
+             ristiques socio-démographiques que « la f
+   Agriculteuamille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les carac
+            Ptéristiques socio-démographiquese « la fam
+             ille est le seul endroit où l’on se sente 
+   bien et détendu » en 1979 et 2019 selon les caracté
+             ristiques socio-démographiques que « la f
+             amille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+             éristiques socio-démographiquesue « la fam
+             ille est le seul endroit où l’on se sente b
+   ien et détendu » en 1979 et 2019 selon les caractér
+          2^eistiques socio-démographiquest que « la f
+          3^eamille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les cara
+          5^ectéristiques socio-démographiques « la fa
+             mille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caracté
+   Unité urbristiques socio-démographiques que « la fa
+            Amille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caracté
+         Mariristiques socio-démographiques que « la fam
+             ille est le seul endroit où l’on se sente bi
+   en et détendu » en 1979 et 2019 selon les caractéri
+             stiques socio-démographiquesnt que « la f
+             amille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les caractéristiques 
+       sentimsocio-démographiques Sentiment que « la famille est le seul e
+       de leundroit où l’on se sente bien et détendu » en 1979 et 201
+       9 selon les caractéristiques socio
+     * Champ -démographiquese 4 - Sentiment que « la famille est le seul en
+     * Sourcedroit où l’on se sente bien et détendu » en 1979 et 20
+       19 selon l
+
+graphiqueFigues caractéristiques socio-démographiquesfamille est le seul
+activités ex endroit où l’on se sente bien et détendu » en 1979 et
+ 2019 selon les carac
+
+   [figure5.ptér
+   istiques socio-démographiques- Sentiment que « la famille est le
+       sentim seul endroit où l’on se sente bien et détendu » en 1979 et 2
+       019 selon les caractéristiques socio-démographiquesle est le s
+       extéreul endroit où l’on se sente b
+   ien et détendu » en 1979 et 2019 selon les caractéristiques socio-démogr
+     * Sourceaphiquese -Figure 4 - Sentiment que « la famille est l
+       1979-2e se
+
+   La satisfaul endroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille est le seul end
+   (+ 3 pointroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le se
+   temps pourul endroit où l’on se sente bien et détendu » en 1979 et 2019
+    selon les caractéristiques socio-démographiquesa famille est le seul end
+   et des loiroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille est le seul endr
+   plus jeuneoit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le
+   affectés  seul endroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul endroit 
+   ayant suivoù l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul endro
+   digitalisait où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul
+   Croutte et endroit où l’o
+
+Les Françaisn se sente bien et détendu » en 1979 et 2019 selon les caractérist
+iques socio-
+
+   En quarantdémographiquesre 4 - Sentiment que « la famille est le seul 
+   s’est coendroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seul en
+   s’étaitdroit où l’on se sente bien et détendu » en 1979 et 2019 selon les cara
+   ctéristiques socio-démographiquestiment que « la f
+     * Graphiami
+   lle est le 
+
+   Affichage seul endroit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démographiquesla famille est le seul endr
+    depuis unoit où l’on se sente bien et détendu » en 1979 et 2
+
+tableauFigure019 selon les caractéristiques socio-démographiques le seul endroi
+d'années, sot où l’on se sente bien et 
+
+   en %
+
+   CAPTION: Fdétendu » en 1979 et 2019 selon les caractéristiques socio-démo
+   graphiquesGraphique -Figure 4 - Sentiment que « la famille est le seul
+    endroit où l’on se sente bien et détendu » en 1979 et 2019 selon les ca
+   niveau de ractéristiques socio-démographiques� la famille est le seul en
+   intérieurdroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques 
+
+   Sentiment la famille est le seul endroit où l’on se sente bien
+    et détendu » en 1979 et 2019 selon les caracté
+   1979 46 2,r
+   istiques so
+   1981 39 0,c
+   io-démograp
+   1983 32 0,h
+   iques31 0,G
+   raphique -F
+   1986 30 1,i
+   gure 4 - Se
+   1988 28 3,n
+   timent que 
+   1990 35 2,«
+    la famille
+   1992 27 0, 
+   est le seul end
+   1994 24 1,r
+   oit où l’on
+   1996 26 0, 
+   se sente bi
+   1998 27 3
+   1999 29 2,e
+   n et détend
+   2001 37 1,u
+    » en 1979 
+   2003 33 0
+   2004 32 2,e
+   t 2019 se
+   2006 29 1,l
+   on les cara
+   2008 25 �ctéri
+   stiques socio-d
+   2010 25 1,é
+   mographique
+   2012 25 �sraph
+   2013 26 �ique 
+   -Figure 4 -
+   2015 24 19 Sen
+   timent que 
+   2017 21 1,«
+    la famille
+   2019 24
+     * 1. Év est le seul endroit où l’on se sente bien et détendu » en 1979
+        et 2019 selon les caractéristiques 
+     * Note :socio-démographiques Sentiment que « la famille est le seul end
+       en ligroi
+   t où l’on se sente bien et détendu » en 1979 et 2019 selon les ca
+       dizainractéristiques socio-démographiques� la famille est le seul
+       beauco endroit où l’on se sente bien et détendu » en 1979 et 2019 
+       selon les caractéristiques socio-démographiquesamille est le seul en
+       annéedroit
+    où l’on se sente bien et détendu » en 1979 et 2019 selon les caractérist
+       PIB, Fiques 
+   socio-démographiquesFigure 4 - Sentiment que « la famille est le 
+       1979-2seul endroit où l’on se sente bien et déte
+
+graphiqueFigundu » en 1979 et 2019 selon les caractéristiques socio-démog
+raphiques'annGraphique -Figure 4 - Sentiment que
+
+     * 1. Év « la famille est le seul endroit où l’on se sente bien et déte
+       ndu » en 1979 et 2019 selon les cara
+     * Note :ctéristiques socio-démographiques « la famille est le seul endr
+       en ligoit
+    où l’on se sente bien et détendu » en 1979 et 2019 selon les car
+       dizainactéristiques socio-démographiques« la famille est le seul 
+       beaucoendroit où l’on se sente bien et détendu » en 1979 et 2019 s
+       elon les caractéristiques socio-démographiquesfamille est le seul en
+       annéedroit
+    où l’on se sente bien et détendu » en 1979 et 2019 selon les caractérist
+       PIB, Fiques 
+   socio-démographiquesFigure 4 - Sentiment que « la famille est le 
+       1979-2seul endroit où l’on se sente bien et déte
+
+   La perceptndu » en 1979 et 2019 selon les caractéristiques socio-démograph
+   iquescide Graphique -Figure 4 - Sentiment que « la famille est le seul en
+   droit où l’on se sente bien et détendu » en 1979 et 2019 selon les carac
+   périodes téristiques socio-démographiquese « la famille est le seul en
+   par une d�droit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul en
+   deuxième droit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le se
+   nouvelles ul endroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille est le se
+   entre 1985ul endroit où l’on se sente bien et détendu » en 1979 et 20
+   19 selon les caractéristiques socio-démographiquesfamille est le seul end
+   entre 2004roit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est le seul e
+   l’opiniondroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul e
+   qui reste ndroit où l’on se sente bien et détendu » en 1979 et 2
+   019 selon les caractéristiques socio-démographiquesamille est le seul endro
+   la proportit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul e
+   6 points endroit où l’on se 
+
+   En 2019, lsente bien et détendu » en 1979 et 2019 selon les caractéristi
+   ques socio-démographiquese 4 - Sentiment que « la famille est le seul
+   âgées de endroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul endroi
+   sexe ou let où l’on se sente bien et détendu » en 1979 et 2019 selon les c
+   aractéristiques socio-démographiquesent que « la famille est le seul end
+   de 26 poinroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul endr
+   diplôme eoit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul endroi
+   contre 13 t où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famille est le seul e
+   leur niveandroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seul endr
+   19 points oit où l’o
+
+L’écart den se sente bien et détendu » en 1979 et 2019 selon les caractéris
+tiques socio-démographiquesre 4 - Sentimen
+
+   En 1979 cot que « la famille est le seul endroit où l’on se se
+   nte bien et détendu » en 1979 et 2019 selon les caractéristiques socio
+   postes de -démographiquese 4 - Sentiment que « la famille est le seul e
+   quarante dndroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul
+   moyenne de endroit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démographiquesla famille est 
+   déclaraiele seul endroit où l’on se sente bien et détendu » en 1979 e
+   t 2019 selon les caractéristiques socio-démographiqueslle est 
+   alimentatile seul endroit où l’on se sente
+
+   Sans surpr bien et détendu » en 1979 et 2019 selon les caractéristique
+   s socio-démographiquesgure 4 - Sentiment que « la famille est le seul end
+   postes de roit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seu
+   l’écartl endroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul endroit
+   moins souv où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est le seul endroit 
+   se restreioù l’on se sente bien et détendu » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment que « la famille est le seul 
+   moins contendroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille e
+   (respectivst le seul endroit où l’on se sente bien et détendu » en 197
+   9 et 2019 selon les caractéristiques socio-démographiques est le seul endr
+   (le poids oit où l’on se sente bien et détendu » 
+
+   Des travauen 1979 et 2019 selon les caractéristiques socio-démographiquesr
+   à l’œuoit où l’on se sente bien et détendu » en 1979 et 2019 selon les c
+   aractéristiques socio-démographiquesent que « la famille est le seul end
+   distancéeroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul end
+   racine danroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul endroit o
+   entend celù l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul e
+   possibilitndroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est 
+   télécommle seul endroit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démographiques famille est le seu
+   dépenses l endroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul end
+   la difficuroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul en
+   médian [Odroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul endr
+   propriétaoit où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famill
+
+Les jeunes soe est le seul endroit où l’on se sente bien et déte
+
+   Les Françndu » en 1979 et 2019 selon les caractéristiques socio-démograp
+   hiquesl y Graphique -Figure 4 - Sentiment que « la famille est le seul en
+   droit où l’on se sente bien et détendu » en 1979 et 2019 selon les caractérist
+   aux personiques socio-démographiquesment que « la famille est le seul
+   raison de  endroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seul en
+   plus à l�droit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est 
+   l’Organile seul endroit où l’on se se
+
+   Les jeunesnte bien et détendu » en 1979 et 2019 selon les caractérist
+   iques socio-démographiques 4 - Sentiment que « la famille est le seul end
+   satisfaisaroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul e
+   montrent androit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul end
+   moins préroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul en
+   (figure 7)droit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul 
+   préoccupeendroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul endr
+   santé resoit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul endro
+   l’inqui�it où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les carac
+     * Graphitér
+   istiques so
+
+   Affichage cio-démographiques - Sentiment que « la famille est le seul endr
+   graphique[oit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul endr
+   s]
+
+tableauFigureoit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+caractéristiques socio-démographiquesiment que « la fa
+
+   en %
+
+   CAPTION: Fmille est le seul endroit où l’on se sente bien et détendu » e
+   n 1979 et 2019 selon les caractéristiques socio-démographiquesle seul e
+   Lecture : ndroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul endr
+
+             oit où l’on se sente bien et détendu » en 1
+   979 et 2019 selon les caractéristiques socio-démogr
+             aphiquese -Figure 4 - Sentiment que « la 
+             famille est le seul endroit où l’on se se
+   nte bien et détendu » en 1979 et 2019 selon les cara
+             ctéristiques socio-démographiques « la fam
+             ille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caracté
+             ristiques socio-démographiques que « la f
+            Pamille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+             éristiques socio-démographiquesue « la fa
+             mille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+          Breéristiques socio-démographiquesue « la fam
+             ille est le seul endroit où l’on se sente 
+   bien et détendu » en 1979 et 2019 selon les caractéri
+         1^erstiques socio-démographiquesnt que « la f
+          2^eamille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les cara
+          4^ectéristiques socio-démographiques « la fa
+          5^emille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les carac
+   Unité urbtéristiques socio-démographiquese « la fami
+   Unité urblle est le seul endroit où l’on se sente b
+   ien et détendu » en 1979 et 2019 selon les caractéri
+             stiques socio-démographiquesnt que « la fa
+         Marimille est le seul endroit où l’on se sente 
+   bien et détendu » en 1979 et 2019 selon les caractéris
+             tiques socio-démographiquesent que « la f
+             amille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les cara
+     * Lecturctéristiques socio-démographiques « la famille est le seul en
+       assez droit où l’on se sente bien et détendu » en 1979 et 2019 selon les
+        carac
+     * Champ téristiques socio-démographiquese « la famille est le seul end
+     * Sourceroit où l’on se sente bien et détendu » en 1979 et 201
+       9 selon le
+
+graphiqueFigus caractéristiques socio-démographiques famille est le seul endr
+et 2019 selonoit où l’on se sente bien et détendu » en 19
+
+   [figure7.p79 
+   et 2019 selon les caractéristiques socio-démographiquesle est le seu
+       « assl endroit où l’on se sente bien et détendu » en 1979 et 2019 se
+       lon les caract
+     * Champ éristiques socio-démographiquesue « la famille est le seul end
+     * Sourceroit où l’on se sente bien et détendu » en 1979 et 201
+       9 selon le
+
+   Le souci ds caractéristiques socio-démographiques famille est le seul endroit o
+   avoir un lù l’on se sente bien et détendu » en 1979 et 2019 selon les caract
+   éristiques socio-démographiquesentiment que « la famille est le seul endr
+   des jeunesoit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seul endro
+   santé, d�it où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famille est le 
+   fournissanseul endroit où l’on se sente bien et détendu » en 1979 et 
+   2019 selon les caractéristiques socio-démographiquesmille est le seul end
+   provoquer roit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est le seul 
+   s’est peendroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul endr
+   adolescentoit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le se
+   corporelleul endroit où l’on se sente bien et détendu »
+
+Les jeunes so en 1979 et 2019 selon les caractéristiques socio-démographiquesoi
+que les 60 ant où l’on
+
+   L’inqui� se sente bien et détendu » en 1979 et 2019 selon les caractérist
+   iques socio-démographiques 4 - Sentiment que « la famille est le seul en
+   sujet ; ildroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seul 
+   des catégendroit où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famille est le seul 
+   que les 18endroit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démographiquesla famille est le seul endr
+   n’a pas oit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul 
+   jusqu’àendroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul
+   d’agress endroit où l’on se sente b
+   ien et détend
+     * Tableau
+
+   Affichage  » en 1979 et 2019 selon les caractéristiques socio-démographiqu
+   esaphique[Graphique -Figure 4 - Sentiment que « la famille est le seul en
+   droit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+
+tableauFigurecaractéristiques socio-démographiquesla famille est le seul endro
+d'agression dit où l’on se sente bien et déten
+
+   en %
+
+   CAPTION: Fdu » en 1979 et 2019 selon les caractéristiques socio-démograph
+   iquese d'aGraphique -Figure 4 - Sentiment que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu » en 1979 et 2019 selon les c
+   beaucoup �aractéristiques socio-démographiques la famille est le seul e
+
+        18-24ndroit où l’on se se
+   nte bien et détend
+   1983 36   u » en 1
+   979 et 2019 selon 
+   1985 46   les cara
+   ctéristiques socio
+   1987 48   -démogra
+   phiques   Graphiqu
+   e -Figure 4 - Sent
+   1990 46   iment qu
+   e « la famille est
+   1992 52    le seul
+    endroit où l’on s
+   1994 51   e sente 
+   bien et détendu » 
+   1996 46   en 1979 
+   et 2019 selon les 
+   1998 57   caractér
+   istiques socio-dém
+   2000 61   ographiq
+   ues1 62   Graphiqu
+   e -Figure 4 - Sent
+   2003 65   iment qu
+   e « la famille est
+   2005 60    le seul
+    endroit où l’on s
+   2007 61   e sente 
+   bien et détendu » 
+   2009 56   en 1979 
+   et 2019 selon les 
+   2011 63   caractér
+   istiques socio-dém
+   2013 64   ographiq
+   ues4 65   Graphiqu
+   e -Figure 4 - Sentime
+   2016    62nt que « la
+    famille est le seul 
+   2018    67endroit où 
+   l’on se sente bien et
+     * Note : détendu » en 1979 et 2019 selon les caractéristiques socio-dém
+       ographiqu
+     * Lecturesaphique -Figure 4 - Sentiment que « la famille est le seul end
+       » ou roit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+       caracté
+     * Champ ristiques socio-démographiques que « la famille est le seul en
+     * Sourcedroit où l’on se sente bien et détendu » en 1979 et 20
+       19 selon l
+
+graphiqueFigues caractéristiques socio-démographiquesfamille est le seul endroit
+d'agression d où l’on se sente bien et détendu
+
+     * Note : » en 1979 et 2019 selon les caractéristiques socio-démographiq
+       uesligGra
+   phique -Figure 4 - Sentiment que « la famille est le seul endroit où l’on 
+       » ou se sente bien et détendu » en 1979 et 2019 selon les caractéristiq
+       ues soc
+     * Champ io-démographiques4 - Sentiment que « la famille est le seul en
+     * Sourcedroit où l’on se sente bien et détendu » en 1979 et 20
+       19 selon l
+
+   Globalemenes caractéristiques socio-démographiquesfamille est le seul endroit
+   l’ensemb où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est le seul
+   médiatiqu endroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul end
+   des actes roit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seu
+   création l endroit où l’on se sente bien et détendu » en 1979 et
+    2019 selon les caractéristiques socio-démographiquesille est le seul 
+   l’électendroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul endr
+   dans la ruoit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démographiquesla famille est le 
+   ensuite avseul endroit où l’on se sente bien et détendu » en 1979 et 
+   2019 selon les caractéristiques socio-démographiquesmille est le seul endroit
+   du risque  où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul endr
+   à l’abroit où l’on se sente bien et détendu » en 1979 et 201
+
+   Les femmes9 selon les caractéristiques socio-démographiquesst le seul
+   (66 % cont endroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la famille est le seu
+   niveau de l endroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille est le seul 
+   aisés, coendroit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démographiques famille est le seul e
+   et son aggndroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille es
+     * Graphit l
+   e seul endr
+
+   Affichage oit où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famille est le seul endroi
+   ion dans lt où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéri
+
+tableauFigurestiques socio-démographiquesnt que « la famille est le seul endr
+1982 et 2019 oit où l’on se sente bien et détendu » en 1979 et
+
+   en %
+
+   CAPTION: F 2019 selon les caractéristiques socio-démographiquese seul en
+   rue en 198droit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul end
+   assez » oroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéri
+
+             stiques socio-démographiquesnt que « la fam
+             ille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caract
+             éristiques socio-démographiquesue « la fa
+             mille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caracté
+             ristiques socio-démographiques que « la f
+   Agriculteuamille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les carac
+            Ptéristiques socio-démographiquese « la fam
+             ille est le seul endroit où l’on se sente 
+   bien et détendu » en 1979 et 2019 selon les caracté
+             ristiques socio-démographiques que « la f
+             amille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+             éristiques socio-démographiquesue « la fam
+             ille est le seul endroit où l’on se sente b
+   ien et détendu » en 1979 et 2019 selon les caractér
+          2^eistiques socio-démographiquest que « la f
+          3^eamille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les cara
+          5^ectéristiques socio-démographiques « la fa
+             mille est le seul endroit où l’on se sent
+   e bien et détendu » en 1979 et 2019 selon les caract
+      Communeéristiques socio-démographiquesue « la fa
+            Amille est le seul endroit où l’on se sente
+    bien et détendu » en 1979 et 2019 selon les caracté
+         Mariristiques socio-démographiques que « la fam
+             ille est le seul endroit où l’on se sente bi
+   en et détendu » en 1979 et 2019 selon les caractéri
+             stiques socio-démographiquesnt que « la f
+             amille est le seul endroit où l’on se sen
+   te bien et détendu » en 1979 et 2019 selon les caractéristiques socio-d
+       assez émographiquesure 4 - Sentiment que « la famille est le 
+       d'agreseul endroit où l’
+   on se sente bien et détendu » en 1979 et 2019 selon les caractéristiques
+     * Source socio-démographiquesSentiment que « la famille est le
+       1979-2 seu
+
+graphiqueFigul endroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+n les caractéristiques socio-démographiquesque « la famille est l
+
+   [figure9.pe s
+   eul endroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+       « ass les caractéristiques socio-démographiquesmille est le seul 
+       d’agendroit où l’on se s
+   ente bien et détendu » en 1979 et 2019 selon les caractéristiques socio-
+     * Sourcedémographiquesre 4 - Sentiment que « la famille est le
+       1979-2 seu
+
+Le souhait del endroit où l’on se sente bien et déten
+
+   En 1979, 7du » en 1979 et 2019 selon les caractéristiques socio-démographi
+   quessformeGraphique -Figure 4 - Sentiment que « la famille est le seul en
+   droit où l’on se sente bien et détendu » en 1979 et 2019 selon les car
+   inflexionsactéristiqu
+   es socio-démo
+     * Tableag
+
+   Affichage raphiques -Figure 4 - Sentiment que « la famille est le seul end
+   graphique[roit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul endro
+   classe d'�it o
+
+tableauFigureù l’on se sente bien et détendu » en 1979 et 2019 selon le
+s caractéristiques socio-démographiquesent que « la famille est le seul en
+
+   en %
+
+   CAPTION: Fdroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul endro
+   (en %) - Lit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le se
+   profondémul endr
+
+        18-24oit où l’on se sente bien et détendu » en 
+   1979 et 2019 selon les caractéristiques 
+   1980 78   socio-démographiques Sentiment
+   1981 76    que « la famille est le seul 
+   endroit où l’on se sente bien et détendu
+   1983 69    » en 1979 et 2019 selon les c
+   aractéristiques socio-démographiquesent 
+   1985 77   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   1987 72   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   1989 66   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   1991 76   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   1993 71   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   1995 70   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   1997 72   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   1999 68   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   2001 67   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   2003 76   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   2005 78   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   2007 78   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   2009 79   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   2011 79   » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment 
+   2013 69   que « la famille est le seul e
+   ndroit où l’on se sente bien et détendu 
+   2015 75 74» en 1979 et 2019 selon les carac
+   téristiques socio-démographiquesntiment que
+   2017    77 « la famille est le seul endroit
+    où l’on se sente bien et détendu » en 1979
+   2019    75 et 2019 selon les caractéristiqu
+   es socio-démographiquesure 4 - Sentiment que « la famille est le seul end
+       en ligroi
+   t où l’on se sente bien et détendu » en 1979 et 2019 selon les cara
+       estimectéristiques socio-démographiques « la famille est le seul e
+       profonndroit où l
+   ’on se sente bien et détendu » en 1979 et 2019 selon les caractéristique
+     * Sources socio-démographiquesentiment que « la famille est le
+       1979-2 seu
+
+graphiqueFigul endroit où l’on se sente bien et détendu » en 1979 et 2019
+ selon les caractéristiques socio-démographiques� la famille est le seul e
+
+     * Note :ndroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+        les cara
+     * Lecturctéristiques socio-démographiques « la famille est le seu
+       estimel endroit où l’on se sente bien et détendu » en 1979 et 2019
+        selon les caract
+     * Champ éristiques socio-démographiquesue « la famille est le seul end
+     * Sourceroit où l’on se sente bien et détendu » en 1979 et 201
+       9 selon le
+
+   Les écarts caractéristiques socio-démographiques famille est le seul endroi
+   sont beauct où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul end
+   s’est airoit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul
+   classes d� endroit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démographiques famille est le seul
+   neuf sur d endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul en
+   choses égdroit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul en
+   plus souvedroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caract
+
+   Ce désir éristiques socio-démographiquesue « la famille est le seul end
+   montée deroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul en
+   [Ouvrir dadroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille 
+   caractériest le seul endroit où l’on se sente bien et détendu » en 197
+   9 et 2019 selon les caractéristiques socio-démographiques est le seul e
+   envolée dndroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul e
+   place pourndroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille est le seul endroit 
+   d’amélioù l’on se sente bien et détendu » en 1979 et 2019 selon les ca
+   ractéristiques socio-démographiquesment que « la famille est le seul endr
+   pétitionsoit où l’on se sente bien et détendu » en 1979 e
+   t 2019 selon les caractéristiques socio-démographiqueslle est
+   collectifs le seul endroit où l’on se sente bien et détendu » en 
+   1979 et 2019 selon les caractéristiques socio-démog
+
+Définitions
+
+   Niveau de raphiques -Figure 4 - Sentiment que « la famille est le 
+   l’ensembseul endroit où l’on se sente bien et détendu » en 1979 et 2
+   019 selon les caractéristiques socio-démographiquesamille est le seul en
+   revenus dudroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul en
+   calculé cdroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le seul end
+   niveau de roit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul endroit o
+   consommatiù l’on se sente bien et détendu » en 1979 et 2019 selon les c
+   aractéristiqu
+
+   Quintiles es socio-démographiquesntiment que « la famille est le seul
+   quintiles  endroit où l’on se sente bien et détendu » en 1979 et 20
+   19 selon les caractéristiques socio-démographiquesfamille est le seul en
+   duquel se droit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démographiques famille est le seul
+   personnes  endroit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démographiques famille est le seul e
+   départag�ndroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille e
+
+Sources
+
+   L’enquêst le seul endroit où l’on se sente bien et détendu » en 1979 et
+    2019 selon les caractéristiques socio-démographiquesille est le seu
+   d’enquêl endroit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démogr
+
+   L’enquêaphiquese -Figure 4 - Sentiment que « la famille est le seul end
+   d’opinioroit où l’on se sente bien et détendu » en 1979 et 2019 selon les 
+   caractéristiques socio-démographiquesnt que « la famille est le s
+   l’actualeul endroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille est le s
+   thématiqueul endroit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démograph
+
+   Cet éclaiiquesique -Figure 4 - Sentiment que « la famille est le seul end
+   il s’agiroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese 
+
+   Depuis 201« la famille est le seul endroit où l’on se sente bien et détend
+   u » en 1979 et 2019 selon les caractéristiques socio-démographiquesl endroit
+   selon les  où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démographiques� la famille es
+   ongletCrout le seul endroit 
+
+   Depuis le où l’on se sente bien et détendu » en 1979 et 2019 selon les
+    caractéristiques socio-démographiquest que « la famille est le seul endro
+   résidant it où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démographiques famille est le seu
+   critères l endroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul end
+   ou collectroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est
+   métropoli le se
+
+   Afin d’aul endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est 
+
+   Arnold C.,le seul endroit où l’on se sente bien et détendu » en 1979 et 2
+   019 selon les caractéristiques socio-démographiquesamille est le seul end
+   France, poroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+
+   Athari E., les caractéristiques socio-démographiquesmille est le seul endro
+   démographit où l’on se sente bien et détendu » en 1979 et 2019 selon les c
+   aractéristiques socio-démographiquesent que « la famille est le seul endroi
+   coll. « It où l’on se sente bien et détendu »
+
+   Babès M., en 1979 et 2019 selon les caractéristiques soc
+   io-démographiquese -Figure 4 - Sentiment que « la famille est le 
+   sociale »seul endroit où l’on se sente bien et détendu » en 1979 et 201
+
+   Bigot R., 9 selon les caractéristiques socio-démographiquesst le s
+   pression �eul endroit où l’on se sente bien et détendu » en 1979 et 2019 
+
+   Bigot R., selon les caractéristiques socio-démographiques est le se
+   diffusion ul endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul 
+   novembre 2endr
+
+   Bigot R., oit où l’on se sente bien et détendu » en 1979 e
+   t 2019 selon les caractéristiques socio-démographiqueslle est le seul
+   en France  endroit où l’on se sente bien et détendu » en 1979 et 2
+   019 selon les c
+
+   Bigot R., aractéristiques socio-démographiques la famille est le se
+   société ul endroit où l’on se sente bien et détendu » en 1979 et 201
+   9 selon les caractéristiques socio-démograph
+
+   Bréchon Piquesique -Figure 4 - Sentiment que « la famille est le
+   Quarante a seul endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+
+   Cheurfa M.elon les caractéristiques socio-démographiquese est le seul 
+   crise de lendroit où l’on se sente bien et détendu » en 1979 et 2019 s
+
+   Crédoc, Oelon les caractéristiques socio-démographiquese est le
+   édition 2 seu
+
+   Croutte P.l endroit où l’on se sente bien et détendu » en 1979 et 2019 
+   selon les caractéristiques socio-démographiquesla famille est le seul 
+   d’une enendroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques soc
+
+   Dalous J.-io-démographiques4 - Sentiment que « la famille e
+   Perrin-Hayst le seul endroit où l’on se sente bien et déten
+   du » en 1979 et 2019 selon les caractéristiques socio-démographiques e
+   années 19ndroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famill
+
+   Hoibian S.e est le seul endroit où l’on se sente bien et détendu
+    » en 1979 et 2019 selon les caractéristiques socio-démographiquesul endr
+   du 13 noveoit où l’on se sente bien et détendu » en 1979 et 
+   2019 selon les caractéristiques socio-démographiquesmille est le seul endro
+
+   Institut nit où l’on se sente bien et détendu » en 1979 et 2019 selon le
+   s caractéristiques socio-démographiques que « la famille est le seul 
+   édition 2endr
+
+   Insee, « oit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéris
+
+   Milin K., tiques socio-démographiquesent que « la famille est le seul end
+   embauches roit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les ca
+
+   Raffin C.,ractéristiques socio-démographiques� la famille est le s
+   baissé deeul endroit où l’on se sente bien et détendu » en 1979 et 20
+   19 selon les caractéristiques socio-démographiquesfamille est le seul endro
+   édition 2it o
+
+   Ricroch L.ù l’on se sente bien et détendu » en 1979 et 2019 selon les c
+   aractéristiques socio-démographiquesent que « la famille est l
+
+   Royal Socie seul endroit où l’on se sente bien et détendu » en 1
+   979 et 2019 selon les caractéristiques socio-démographiquesst le seul en
+   wellbeing�droit où l’on se sente
+
+   Le modèle bien et détendu » en 1979 et 2019 selon les caractéristiques so
+   cio-démographiques -Figure 4 - Sentiment que « la famille est le seul e
+   expliquéendroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul e
+   « Elles dndroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul 
+   tranche d�endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul 
+   fait d’aendroit où l’on se sente 
+
+   Cet écartbien et détendu » en 1979 et 2019 selon les caract
+   éristiques socio-démographiquesentiment que « la famille est le se
+   niveau de ul endroit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la fami
+
+   Sur les solle est le seul endroit où l’on se sente bien et détendu » en 
+   1979 et 2019 selon les caractéristiques socio-démographiquest le seul en
+   les dépendroit où l’on se sente bien et détendu » en 197
+
+   On notera 9 et 2019 selon les caractéristiques socio-démographiquesul en
+   de vie (SRdroit où l’on se sente bien et détendu » en 1979 et 20
+   19 selon les caractéristiques socio-démographiquesfamille est le seul en
+   plus), vradroit où l’on se sente bien et détendu » en 1979 et 20
+   19 selon les caractéristiques socio-démographiquesfamille est le seul endr
+   Crédoc faoit où l’on se sente bien et détendu » en 1979 et 2019 selo
+
+   Les variabn les caractéristiques socio-démographiquesille es
+   l’observt le seul endroit où l’on se sente bien et détendu » en 1979 et
+    2019 selon les caractéristiques socio-démographiquesille est le seul end
+   statut conroit où l’on se sente bien et détendu » en
+
+   Le modèle 1979 et 2019 selon les caractéristiques socio-démographiquesndr
+   enquêtes oit où l’on se sente bien et détendu » en 1979 et 2019 selon 
+   les caractéristiques socio-démographiquesue « la famille est le seul end
+   agrégeantroit où l’on se sente bien et détendu » en 1979 et 2019 selo
+   n les caractéristiques socio-démographiques « la famille est le seul end
+   explicativroit où l’on se sente bien et détendu » en 1979 et 2019 sel
+   on les caractéristiques socio-démographiques« la famille est le seul e
+   quintile dndroit où l’on se sente bien et détendu » en 1979 et 2019 se
+   lon les caractéristiques socio-démo
+
+   Cet écartgraphiques-Figure 4 - Sentiment que « la famille e
+   questionnast le seul endroit où l’on se sente bien et détendu » en
+    1979 et 2019 selon les caractéristiques socio-démographiques le seul endroit 
+   en ligne poù l’on se sente bien et détendu » en 1979 
+
+   Sur les soet 2019 selon les caractéristiques socio-démographiquesseul en
+   l’alimendroit où l’on se sente bien et détendu » en 1979 et 2019 selon
+    les caractéristiques socio-démographiquese « la famille 
+
+   On notera est le seul endroit où l’on se sente bien et détendu » en 1979
+    et 2019 selon les caractéristiques socio-démographiquese est le
+   déclarant seul endroit où l’on se sente bien et détendu » en 1979 et 20
+   19 selon les caractéristiques socio-démographiquesfamille est le
+   « Comment seul endroit où l’on se sente bien et détendu » en 1979 et 2019
+    selon les caractéristiques socio-démographiquesa famille est le seul
+
+   Les variab endroit où l’on se sente bien et détendu » en 197
+   9 et 2019 selon les caractéristiques socio-démographiques est le seul end
+   niveau de roit où l’on se sente bien et détendu » en 1979 et 2019 selon l
+   es caractéristiques socio-démographiquesque « la fam
+
+Pour en savoiille e
+
+   Communiqu�st le seul 
+
+     * Nos siendroit où l’on
+
+     * Systè se sente bien et détend
+   u » en 1979 et 2019 selon les caractéristi
+     * Réseaques socio
+   -démographiquesque -Figure 4 - Sentiment que « la famille 
+     * site dest le s
+   eul endroit où l’on se
+
+Abonnez-vous
+
+   Avis de pa sente
+
+Nous suivre
+
+Contact
+
+   Aide et co bien
+    et détendu » en 1979 et 20
+     * Défin19 selon les caractéristiques
+         socio-démograph
+          + Siquesique -Figure 4 - Sentiment qu
+          + Le « la famille est le seul endroit où l’on se sente
+         bien et détendu 
+          + G» en 1979 et 2019 selon les caractéri
+        stiques socio-démographiquesntiment que « la f
+          + Camille est le seul endro
+        it où l’on se sente bien et détendu » en 
+     * Servic19
+        79 et 2019 selon les caractéristiques socio-démogra
+          + Cphiquesue -Figure 4 - Sentiment que « la famil
+          + Sle es
+        t le seul endroit où l’on se sente b
+          + Rien et détendu » en 1979 et 2019 se
+        lon les caractéristiques socio-démogra
+          + Gphiquesue -Figure 4 - Sentiment que « la famil
+          + Ble est le seul endroit où l’on se sente bien
+         et détendu » en 1979 et 2019 selon les caractéristiq
+          + Nues socio-
+        démograp
+          + Ehiquesque -F
+     * L'Inseigure 4 - Sentiment que « la
+         famille es
+          + Lt le seul endroit où l’o
+        n se sente bien et détendu 
+          + L» en 1979 et 2019 selon les caractéristiques
+         socio-démographiques 4 - Sentiment 
+          + Sque « la famille est le seul endroit où l’on se sente 
+            bien et détendu » en 
+
+     * Systè1979 et 2019 selon les c
+   aractéristiques socio-démographiquesent qu
+     * Réseae « la fam
+   ille est le seul endroit où l’on se sente bien et détendu 
+     * site d» en 197
+   9 et 2019 selon les ca
+
+     * Mentioractéristiques socio-dé
+   mographiquesaphique -Figure 4 - Sentiment qu
+     * Accesse « la famille est le seul endroi
+   t où l’on se sente bien et détendu
+     * Sécur » e
+   n 1979 et 2019 s
+
+   Haut de pael

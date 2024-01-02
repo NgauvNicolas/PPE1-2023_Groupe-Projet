@@ -1,0 +1,492 @@
+   #L’émergence et l’évolution du langage humain du point de vue des
+   neurosciences Corela, Numéros Corela, Documents
+
+--
+   Cognition, représentation, langage
+
+   AccueilNuméros12-2L’émergence et l’évolution du lan...
+
+   Recherche___________ (BUTTON) Chercher
+--
+   Vol. 12, n°2
+
+L’émergence et l’évolution du langage humain du point de vue des
+neurosciences
+
+--
+
+   Depuis un siècle et demi les linguistes s’abstiennent de questionner
+   les processus d’émergence et d’évolution du langage humain et préfèrent
+   poursuivre la reconstruction d’états anciens de langues actuelles par
+   la méthode élaborée au 19^e siècle de la grammaire
+--
+   grammaire et du langage humain constituent trois questionnements
+   séparés (section I), cette contribution énumère les disciplines
+   intéressées conjointement par l’évolution du langage et évoque
+   l’attrait du langage pour les biologistes évolutionnaires (section II)
+   et documente l’apport des neurosciences évolutionnaire à l’étude de
+   l’origine du langage (section III).
+
+   For one and a half century, linguists have ben avoiding questionning
+   the genetic and evolutionary processes of human language and prefer to
+   continue reconstructing previous stages of present languages using the
+   method of comparative-historical grammar elaborated in the 19th
+--
+   that the origin of natural languages, of grammar and of human language
+   are three separate questions (part I), this contribution enumerates the
+   disciplines jointly interested in language evolution while evoking the
+   appeal of language for evolutionary biologists (part II). It also
+   yields material about the contribution of evolutionary neurosciences to
+   the study of language genesis (part III).
+   Haut de page
+--
+Mots-clés :
+
+   évolution du langage, neurosciences, biologie évolutionnaire,
+   phylogenèse, coévolution cerveau-langage
+
+Keywords:
+
+   language evolution, neurosciences, evolutionary biology, phylogeny,
+   brain-language co-evolution
+   Haut de page
+
+--
+   1.5. L’origine de la grammaire : un questionnement proprement
+   linguistique
+   2. L’évolution du langage humain : un objet d’étude pluridisciplinaire
+   2.1. La diversité des disciplines intéressées conjointement par
+   l’évolution du langage
+   2.2. L’impuissance des linguistes et la métaphore de l’hologramme
+   2.3. Des naturalistes attentifs au renouvellement de la
+   linguistique hier et aujourd’hui
+   3. L’apport des neurosciences évolutionnaires à l’étude de l’origine du
+   langage : une documentation classée
+   3.1. Cinq théories sur le cerveau humain et le langage centrées
+--
+   3.2. Le cerveau humain, le langage et la culture matérielle : quand
+   archéologues et neurobiologistes coopèrent (type B)
+   3.3. La co-évolution du cerveau humain et du langage (type C)
+   3.4. L’évolution de la parole et l’ingénierie neuromimétique (type C)
+   3. 5. Le cerveau des primates et les mutations génétiques susceptibles
+   d’avoir facilité l’émergence du langage chez les primates humains (type
+--
+   Bloom, “Natural language and natural selection” dans la prestigieuse
+   revue de neurosciences Behavorial and Brain Sciences – la question de
+   l’origine et de l’évolution du langage humain, honnie depuis le célèbre
+   interdit de la Société de Linguistique de Paris lors de son bras de fer
+   en 1860 contre la Société d’anthropologie (Michel Bréal contra Paul
+--
+   3Ici je souhaite concentrer mon propos sur plusieurs des innombrables
+   travaux parus ces dernières années sur la corrélation entre deux
+   processus, d’un côté l’évolution des structures et des fonctionnalités
+   du cerveau de l’espèce Homo et de l’autre l’émergence, chez cette
+   espèce, d’un appareil vocal destiné à la cognition et à la
+--
+   neurobiologie, discipline d’observation, et l’ingénierie
+   neuromimétique, discipline de modélisation-simulation. Toutefois, avant
+   de passer en revue les sous-thèmes relatifs à la ‘co-évolution du
+   cerveau et du langage’ sur lesquels les neurobiologistes et les
+   neuro-ingénieurs ont apporté des éclairages majeurs, il me faut
+--
+   allemand, brosse — à partir de l’étude de l’histoire des langues
+   ‘indogermaniques’ — une superbe vision mi-romantique, mi-positive de
+   l’évolution supposée des systèmes morphologiques, vision qu’il partage
+   avec certains des linguistes et philologues les plus réputés de sa
+   génération (Friedrich et August Wilhelm Schlegel, Rasmus Rask) et de la
+--
+   suspicion avant d’être remise à jour récemment, entre autres par
+   l’équipe des linguistes de l’Institut Max Planck d’Anthropologie
+   Évolutionnaire à Leipzig (cf. Bakker et al. 2009 et Starostin 2013). La
+   lexicostatistique y est actuellement associée à la typologie génétique
+   des langues issue des travaux de Joseph Greenberg et fondée sur la
+--
+   Tableau 2).
+
+2. L’évolution du langage humain : un objet d’étude pluridisciplinaire
+
+2.1. La diversité des disciplines intéressées conjointement par l’évolution
+du langage
+
+   11Comme le suggère la liste établie par Christiansen & Kirby (2003, cf.
+   note 3), l’éventail des disciplines impliquées dans l’investigation
+   évolutionnaire du langage est impressionnant. Je voudrais souligner
+   deux traits remarquables de cet éventail.
+
+--
+   14Ce qui frappe en passant en revue par exemple les travaux publiés
+   dans les dix-neuf volumes actuels des Oxford Studies in Language
+   Evolution, c’est au contraire le degré élevé d’information mutuelle
+   entre disciplines issues historiquement de facultés peu portées sur
+   l’information réciproque. Une explication possible de cette intrication
+--
+   quatre types hiérarchisés d’études (A-D) :
+     * Les études du premier type (A) font abstraction de l’anatomie, des
+       fonctions et de l’évolution du cerveau humain. Par exemple les
+       travaux évolutionnaires sur le langage relevant de l’anthropologie
+       sociale ou culturelle, de l’archéologie, du classement génétique
+       des langues, etc. peuvent se permettre cette abstraction.
+     * Celles du deuxième type (B) prennent en compte le cerveau humain,
+       mais en le traitant comme une ‘boîte noire’. Cela concerne
+       particulièrement les études sur l’évolution de la ‘parole’ sous
+       l’angle physiologique (cf. MacNeilage 2008, chap.3, sur l’évolution
+       phylogénétique du tractus phonatoire).
+     * Celles du troisième type (C) prennent en compte l’architecture du
+--
+       et de sa reconfiguration phylogénétique (cerveau reptilien vs.
+       cerveau dédié aux fonctions cognitives avancées). Ces études
+       concernent tout particulièrement l’hypothèse de la ‘co-évolution’
+       entre le cerveau et le langage.
+     * Enfin celles du quatrième type (D) visent à imputer l’architecture
+--
+   exaptations dans ce processus (type D) implique de comparer
+   l’architecture du cerveau des différentes classes de primates et
+   (autant que faire se peut) l’évolution du cerveau des types successifs
+   d’hominiens, et donc l’intégration des acquis des travaux du type C,
+   lesquels à leur tour vont au-delà des travaux du type B.
+--
+   deux faisceaux de lumière cohérente dont l’un éclaire le sujet et
+   l’autre sert de référence ». Par métaphore, l’éclairage des sciences de
+   la vie et du cerveau, la (neuro-)biologie évolutionnaire, les
+   neurosciences cognitives, la paléo-anthropologie physique, la génétique
+   humaine, etc., correspond au faisceau laser de référence et celui des
+--
+   prouvée par la géologie et remarques sur les théories relatives à
+   l’origine des espèces par variation (trad. fr. 1864). De son côté
+   Charles Darwin fait lui aussi référence à l’évolution des langues comme
+   un processus de sélection naturelle (cf. Richards 2003). Si les
+   naturalistes ont pu s’intéresser à la linguistique de leur temps, c’est
+--
+   Schleicher ont suivi Goethe, qui par ses écrits naturalistes (1817)
+   leur avait fait connaître la méthode comparative et évolutive qui
+   révolutionnait alors l’anatomie et la physiologie (Cuvier, Geoffroy
+   Saint-Hilaire, Lamarcq). Il y a près d’un demi-siècle, Foucault (1966)
+   y a vu les indices d’un changement d’ ‘epistémé’, allant bien au-delà
+--
+
+   23De leur côté, dans The Tree of Knowledge, sous-titré The Biological
+   Roots of Human Understanding (^31998), les biologistes évolutionnaires
+   Humberto Maturana et Francisco Varela vont dans le même sens et
+   présentent en particulier une expérience impressionnante conduite sur
+--
+     ma trad.)
+
+3. L’apport des neurosciences évolutionnaires à l’étude de l’origine du
+langage : une documentation classée
+
+--
+   cette section devrait aider à tracer les grands traits de l’apport
+   actuel des neurosciences cognitives à l’étude collaborative de
+   l’évolution du langage.
+
+3.1. Cinq théories sur le cerveau humain et le langage centrées
+--
+   constitution d’un système sémiotique oral. Finalement Arbib laisse
+   ouverte la question qui hante un grand nombre de chercheurs : Le
+   cheminement du proto-langage au langage a-t-il requis une évolution
+   biologique ou est-il explicable par une évolution uniquement
+   culturelle ? tout en notant que « certaines recherches sur
+   l’acquisition du langage confortent cette dernière conception ».
+--
+2010)
+
+   32L’argumentation de Tecumseh Fitch dans le chapitre 9, The evolution
+   of vocal control : the neural basis for spoken language de sa somme de
+   2010, The Evolution of Language, s’inscrit dans le prolongement des
+   deux thèses précédentes de Lieberman et Arbib.
+
+--
+   préférence innée pour la perception globale (celle du contour d’une
+   figure précédant celle des détails) à l’inverse des seconds. À l’époque
+   de la ‘révolution cognitive’ d’Homo sapiens (il y a environ 50 000
+   ans), les premiers navigateurs finissent par atteindre l’Australie (p.
+   248). L’idée-clé de Reboul est que la préférence pour la perception
+--
+   d’outils et le langage ont une base commune dans une aptitude humaine
+   plus générale à une action complexe et finalisée. Ces résultats sont
+   compatibles avec des hypothèses co-évolutionnaires associant
+   l’émergence du langage, la fabrication d’outils, la latéralisation
+   fonctionnelle à l’échelle d’une population et l’expansion du cortex
+   associatif dans l’évolution humaine. (Stout & al., 2009 : 1, ma trad.)
+
+   39Du côté des archéologues, Fiona Coward & Clive Gamble (2009)
+--
+   cérébrale révèlent des bases communes aux dispositions sociales des
+   hommes et des primates les plus proches de ceux-ci, ils cherchent une
+   explication à l’évolution particulière d’Homo sapiens en associant
+   trois observations disparates sur l’encéphalisation rapide des premiers
+   hommes, leur diaspora globale au paléolithique moyen et la construction
+--
+   dispositions distinctes des primates humains et non humains.
+
+3.3. La co-évolution du cerveau humain et du langage (type C)
+
+   41Dès 1995, Talmy Givón consacrait le dernier chapitre de Functionalism
+   and Grammar à une présentation des arguments en faveur de la
+   co-évolution entre le cerveau, l’esprit et le langage. Deux ans plus
+   tard paraît, de l’anthropologue et biolinguiste Terrence Deacon, un
+   ouvrage qui fera beaucoup de bruit, The Symbolic Species, sous-titré
+   The co-evolution of Language and Brain, avant que la même thèse
+   réapparaisse en 2002 dans l’ouvrage de Ray Jackendoff Foundations of
+   Language, sous-titré Brain, Meaning, Grammar, Evolution. Je ne
+   reviendrai pas sur ces travaux que j’ai abordés ailleurs.
+
+--
+
+     Les modifications de l’expression des gènes gouvernant le
+     développement cortical au cours de l’évolution des mammifères ont
+     fourni les conditions à la fois d’un accroissement de taille
+     considérable et d’un retard dans la maturation du cerveau, qui a
+--
+   clairement été les conséquences ».
+
+   44Alors que Vernier ne mentionne que l’évolution des aires corticales,
+   Kathleen Gibson suit de son côté la voie ‘subcorticale’ ouverte par
+   Lieberman (2000) et insiste sur les zones centrales du cerveau
+--
+
+   45Mais c’est la contribution de Számadó & Szathmáry au Oxford Handbook
+   of Language Evolution (2013) qui développe le mieux la thèse de la
+   co-évolution entre le langage et le cerveau. Je vais donc suivre pas à
+   pas leur argumentation. Selon ces auteurs, la difficulté majeure qui
+   enveloppe l’évolution du langage humain est que ce processus implique
+   une interaction entre trois systèmes majeurs : l’évolution biologique
+   (et donc l’héritage), la transmission culturelle (et donc l’héritage),
+   et l’apprentissage individuel. Le problème est encore complexifié par
+--
+   manières pour les organismes de s’adapter à des fins évolutives.
+
+     (a) Le cas le plus simple est l’évolution génétique, quand la
+     sélection naturelle agit sur les variétés dans une population,
+     sélectionnant au détriment des allèles qui délivrent la moindre
+--
+     phénotypique d’un génotype.
+     (c) La troisième voie exploite des systèmes et des organes qui ont
+     évolué pour s’adapter à des environnements en évolution rapide et
+     qui ont également une assise génétique (p.158, ma trad.).
+
+--
+
+     (a) Les variantes linguistiques aisées à apprendre et à retenir sont
+     favorisées en termes d’évolution culturelle et donc se répandent
+     plus vite dans une population donnée ;
+     (b) Les cerveaux plus aptes à assimiler les variétés et le
+--
+     d’outils, maintenance des traditions, etc.)
+
+3.4. L’évolution de la parole et l’ingénierie neuromimétique (type C)
+
+   47Par ‘ingénierie neuromimétique’ j’entends les entreprises de
+   modélisation et de simulation informatique des processus dont on
+   présume qu’ils ont piloté l’émergence et l’évolution du langage.
+   L’ouvrage de Simon Kirby en 1999, Function, selection, and innateness –
+   The emergence of linguistic universals a joué un rôle décisif dans
+--
+   mentor James Hurford à l’université d’Édimbourg. Plus récemment
+   Pierre-Yves Oudayer a proposé un automate de simulation de l’origine de
+   la parole dans Self-organization in the evolution of speech (2006).
+   Angelo Cangelosi (2013) synthétise les recherches actuelles dans ce
+   domaine, en particulier la modélisation de l’évolution du langage par
+   des ‘agents incarnés’ qui vise à se saisir de divers aspects des
+   origines du langage, de la coordination sociale prélinguistique et du
+--
+   compositionnels (2013 : 610). L’auteur adopte une optique ouverte, en
+   proposant de compléter l’approche incarnée par d’autres méthodologies
+   employées dans la modélisation computationnelle de l’évolution du
+   langage, par exemple des modèles analytiques basés sur des techniques
+   mathématiques permettant d’examiner la dynamique des jeux de langage.
+   L’un des arguments en faveur des approches computationnelles et
+   robotiques de l’évolution du langage est leur nature
+   interdisciplinaire :
+
+--
+     En fin de compte, plus on cherche des continuités entre les primates
+     humains et non humains, non seulement en matière de latéralisation
+     mais dans des secteurs décisifs de l’évolution cognitive, plus on
+     trouve de similarités. A notre avis, on peut présumer clairement au
+     minimum que le langage et la parole ne sont pas des conditions
+--
+     La reconnaissance de l’asymétrie dans le système nerveux non-humain
+     a des chances de conduire à des avancées conceptuelles majeures dans
+     des champs aussi largement disparates que l’évolution humaine, la
+     linguistique, la psychologie et la psychiatrie. Si ces suppositions
+     sont correctes, cela aura aussi des répercussions majeures en
+--
+   51Au terme de cette revue aussi ordonnée que possible, mais cependant
+   foisonnante, de travaux illustrant le regard que les praticiens des
+   neurosciences jettent sur l’origine et l’évolution du langage, on ne
+   peut guère conclure à un consensus généralisé.
+
+--
+   demeurant, les deux hypothèses ne sont en aucun cas exclusives l’une de
+   l’autre. Ainsi Ann MacLarnon (2013 : 235) conçoit un schéma en trois
+   phases pour les traits dominants de l’évolution de la parole humaine :
+     *
+         1. l’évolution de la bipédie devenue obligatoire chez Homo
+            erectus a entraîné les effets exaptatifs de la descente du
+            larynx et la perte des air sacs ainsi que le hiatus
+--
+            la parole humaine a évolué comme une adaptation spécifique à
+            la parole, et
+         3. avec l’évolution des humains modernes , les proportions
+            idéales du tractus vocal (1 :1) ont été atteintes par
+            adaptation ”.
+--
+
+   Berwick R.C. & Chomsky N. (2011), The biolinguistic program : the
+   current state of its evolution and development. In A.M. Di Sciullo & C.
+   Boeckx (eds.), The biolinguistic enterprise : new perspectives on the
+   evolution and nature of the human language faculty. New-York : OUP,
+   19-41.
+
+--
+
+   Botha R. / Knight Ch. (eds, 2006a), The Prehistory of Language. Oxford,
+   New-York : OUP (Studies in the Evolution of Language 11).
+
+   Botha R. / Knight Ch. (eds, 2006a), The cradle of Language. Oxford,
+   New-York : OUP (Studies in the Evolution of Language 12).
+
+   Botha R. / Everaert M. (eds, 2013), The evolutionary emergence of
+   language – Evidence and inference. Oxford, New-York : OUP (Studies in
+   the Evolution of Language 17).
+
+   Brugmann K. (1904), Kurze vergleichende Grammatik der indogermanischen
+--
+
+   Cangelosi Angelo (2013), Robotics and embodied agent modelling of the
+   evolution of language. in M. Tallerman & K. Gibson (eds. chap.62,
+   605-611).
+
+--
+   Chomsky N. (2010), Some simple evo devo theses : how true might they be
+   for language ? In R.K. Larson / V. Déprez / H. Yamakido (eds.), The
+   evolution of human language : biolinguistics perspectives. Cambridge :
+   CUP, 45-62.
+
+   Christiansen M. / Kirby S. (eds.2003), Language evolution. Oxford,
+   New-York : OUP (Studies in the Evolution of Language 3).
+
+   Christiansen M.H. / Kirby S. (2003), Language evolution : The hardest
+   problem in science ? In M.H. Christiansen & S. Kirby (eds.), Language
+   Evolution (Oxford Studies in the Evolution of Language 3). Oxford,
+   New-York : OUP : 1-15.
+
+--
+
+   Coward F. / Gamble C. (2009), Big brains, small world : material
+   culture and the evolution of mind. In C. Renfrew et al. (eds., 52-69.).
+
+   Darwin Ch. (1859), On the origin of species by means of natural
+--
+   sex. Londres : Murray
+
+   Deacon T. (1997), The symbolic species – The co-evolution of language
+   and the brain. New-York, Londres : Norton.
+
+   Diller K. C. / Cann R. L. (2013), “Genetics, evolution, and the
+   innateness of language”. In R. Botha & M. Everaert (eds.), The
+   evolutionary emergence of language – Evidence and inference. Oxford :
+   OUP, 244-258 (chapter 13).
+
+   Dunbar R. (1997), Grooming, Gossip and the Evolution of Language.
+   Cambridge, MA : Harvard University Press.
+
+--
+   Book 1992).
+
+   Fitch W.T. (2010), The Evolution of Language. Cambridge : CUP.
+
+   Fitch W.T./ Hauser M. / Chomsky N. (2005), The evolution of the
+   language faculty : clarifications and implications. Cognition 97 :
+   179-210.
+--
+
+   François J. (2003b), Compte rendu de Ray Jackendoff, Foundations of
+   language – Brain, meaning, grammar, evolution (Oxford, New-York : OUP).
+   BSL XCVIII-2.
+
+--
+   François J. (2014), L’investigation pluridisciplinaire de l’émergence
+   du langage et l’apport de la génétique - Traduction, introduction et
+   commentaire de K. Diller & R. Cann (2013), “Genetics, evolution, and
+   the innateness of language”. Manuscrit consultable à l’URL
+   http://www.interlingua.fr/accueil/actualites/
+--
+   l’homme. Paris : Fayard.
+
+   Hopkins W. / Vauclair J. (2013), Evolution of behavioural and brain
+   asymmetries in primates. In M. Tallerman & K. Gibson (eds. chap.18 :
+   184-197).
+--
+
+   Jackendoff R. (2002), Foundations of Language : Brain, Meaning,
+   Grammar, Evolution. Oxford & New-York : OUP
+
+   Johnson M. (1987), The Body in the Mind – The Bodily Basis of Meaning,
+--
+   linguistic universals. Oxford, New-York : OUP.
+
+   Kuhn Th. (1962), The structure of scientific revolutions, Chicago :
+   University of Chicago Press. ; La structure des révolutions
+   scientifiques Paris : Flammarion 1970.
+
+--
+
+   MacNeilage P. (2008), The Origin of Speech. Oxford : OUP (Studies in
+   the Evolution of Language 10).
+
+   Maturana H. / Varela F. (^31998), The Tree of Knowledge : The
+--
+   linguistique]. Vienne
+
+   Oudayer P.Y. (2006), Self-organization in the Evolution of Speech.
+   Oxford, New-York : OUP (Studies in the Evolution of Language 6).
+
+   Pinker S. (2008), L’instinct du langage. Paris : Odile Jacob [The
+--
+   Richards R. (2003), The Linguistic Creation of Man : Charles Darwin,
+   August Schleicher, Ernst Haeckel, and the Missing Link in
+   Nineteenth-Century Evolutionary Theory [Cours à l’université de Harvard
+   home.uchicago.edu]
+
+--
+   classification : increasing the pros, reducing the cons. In : H.
+   Fangerau / H. Geisler / Th. Halling (eds.), Classification and
+   Evolution in Biology, Linguistics and the History of Science. Concepts
+   – Methods – Visualization. Stuttgart : Franz Steiner Verlag, 2013,
+   125-146.
+--
+   Stout D. / Toth N. / Schick K. / Chaminade Th. (2009), Neural
+   correlates of Early Stone Age toolmaking : technology, language and
+   cognition in human evolution. In C. Renfrew et al. (eds., 1-20)
+
+   Swadesh M. (1972) The origin and diversification of languages,
+   Londres : Routledge & Kegan.
+
+   Számadó S. / Szathmáry E. (2012), Evolutionary biological foundations
+   of the origin of language : the co-evolution of language and brain.
+   In : M. Tallermann / K. Gibson (eds. : 157-167).
+
+   Tallermann M. & Gibson K. (2013), The Oxford Handbook of Language
+   Evolution. Oxford, New-York : OUP.
+
+   Tomasello M. (1999), The Cultural Origins of Human Cognition.
+--
+   (eds. : 60-180).
+
+   Vernier Ph. (2005), Évolution du cerveau et émergence du langage. In
+   J.M. Hombert (dir.), Aux origines des langues et du langage, chap.2
+   (44-63)
+--
+   acquired aphasia. Brain 125(3) : 452-464.
+
+   Wilkins Wendy (2013), Towards an evolutionary biology of language
+   through comparative neuroanatomy. In M. Tallermann / K. Gibson (eds.,
+   chap.19)
+--
+Référence électronique
+
+   Jacques François, « L’émergence et l’évolution du langage humain du
+   point de vue des neurosciences », Corela [En ligne], 12-2 | 2014, mis
+   en ligne le 15 décembre 2014, consulté le 02 janvier 2024. URL :

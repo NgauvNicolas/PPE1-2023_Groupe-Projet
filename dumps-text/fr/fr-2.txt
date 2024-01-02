@@ -1,0 +1,352 @@
+   #alternate
+
+   Afis Science - Association française pour l'information scientifique
+   Association Française pour l’Information Scientifique
+
+     * L’association
+          + Qu’est-ce que l’AFIS ?
+          + Communiqués
+          + Agenda
+          + Liens internationaux
+          + Adhérer
+          + Contact
+     * ARTICLES
+          + Éditoriaux
+          + Notes de lecture
+          + Science et esprit critique
+          + Intégrité scientifique
+          + Sornettes sur Internet
+          + Un monde fou, fou, fou
+          + Regards sur la science
+          + Articles par thème
+     * REVUE
+          + Le dernier numéro
+          + Tous les numéros
+          + S'abonner
+     * BOUTIQUE
+     * LIBRAIRIE
+     * VIDÉOS
+     * Recherche
+
+   Afis facebook Afis twitter Afis Youtube Afis Android Afis ios Afis RSS
+   Mon compte
+
+   Accueil / L’évolution explique-t-elle les faits sociaux ?
+
+L’évolution explique-t-elle les faits sociaux ?
+
+   Publié en ligne le 10 février 2021 - Évolution et faits sociaux -
+   L'évolution explique-t-elle les faits sociaux ?
+   Introduction du dossier
+
+   Peut-on expliquer les comportements humains et les faits sociaux en
+   invoquant un processus évolutif qui aurait déterminé, selon une chaîne
+   de causalités bien définie, leur apparition et leur perpétuation ? La
+   question relève de la recherche scientifique et concerne des
+   disciplines variées (anthropologie, biologie, psychologie, écologie,
+   sociologie…). Elle présente aussi d’inévitables répercussions dans le
+   débat public, parce qu’elle rencontre des interrogations sur la nature
+   de certaines caractéristiques de nos sociétés présentes ou de leur
+   passé récent. Ces interrogations concernent par exemple les inégalités
+   liées au genre, les inégalités de richesse, ou même – à des époques que
+   l’on peut espérer révolues – les spéculations concernant des inégalités
+   de « race » venant justifier des politiques de persécution. Sur tous
+   ces sujets, des théories invoquant la description scientifique (ou
+   supposée telle) de l’évolution de certains traits (sociaux,
+   biologiques) ont pu être invoquées, soit pour justifier un état de
+   fait, soit au contraire pour le combattre. Ainsi, il existerait un
+   « paradoxe nordique » concernant les différences de genre [1] : selon
+   une explication de ce paradoxe, les femmes seraient déterminées à
+   choisir d’autres métiers que les hommes par leur simple constitution
+   biologique, au-delà même des déterminations sociales et culturelles. A
+   contrario, le militantisme communiste, qui postule l’avènement
+   nécessaire d’un stade historique rendant caduc le régime de production
+   capitaliste, a pensé trouver confirmation de sa conception de
+   l’histoire dans les thèses évolutionnistes de l’anthropologue Lewis
+   Morgan. (voir l’encadré ci-dessous).
+   Social ou biologique : un faux dilemme ?
+
+   Dans le débat public, les théories évolutionnistes sur les faits
+   sociaux sont parfois présentées sous l’angle d’une opposition binaire
+   entre explications sociales et explications biologiques. Il y aurait
+   d’un côté des partisans d’une origine purement sociale des phénomènes
+   (position que certains qualifient parfois de « constructivisme
+   social »), de l’autre des partisans d’une origine purement biologique
+   des phénomènes. Les seconds sont généralement accusés de
+   « réductionnisme » : ils réduiraient à de simples déterminations
+   biologiques les phénomènes étudiés, en éludant l’influence éventuelle
+   de facteurs sociaux mal élucidés. Un tel débat fait rage, dans les
+   médias et les réseaux sociaux, concernant les inégalités entre hommes
+   et femmes.
+
+   Cependant, il faut souligner que cette opposition entre deux types
+   d’explications, outre qu’elle est théâtralisée par les engagements
+   idéologiques des uns et des autres, est potentiellement fallacieuse. En
+   effet, les deux types de détermination peuvent parfaitement être à
+   l’œuvre simultanément. La question posée doit alors se ramener, plus
+   modestement, à la pertinence de chaque explication selon le contexte
+   précis dans lequel le phénomène est étudié.
+
+   Par analogie, prenons l’exemple du mouvement d’un ballon de football.
+   Si l’on veut décrire le mouvement de ce ballon sur un plan lisse suite
+   à une impulsion initiale (par exemple un coup de pied de footballeur)
+   et en fonction de divers obstacles, les lois de la mécanique
+   newtonienne sont l’outil adapté. Mais si l’on veut décrire le mouvement
+   de ce ballon tout au long d’un match précis, l’explication pertinente
+   fera peut-être appel à une analyse de la configuration tactique des
+   deux équipes, du style de jeu propre à chacune (avec peut-être une
+   tradition à rechercher dans l’histoire du club), ou bien des conditions
+   économiques d’exercice de l’activité de footballeur (et de leur impact
+   sur, par exemple, la préparation physique et la motivation à gagner).
+   Pourtant, dans ce deuxième cas, le ballon continue bien d’être soumis
+   aux lois de la mécanique newtonienne : l’explication sociale ne nie en
+   rien le déterminisme mécanique du mouvement.
+
+   De même, si l’on soupçonne une détermination biologique à l’œuvre dans
+   un fait social (ce qui sera fréquemment le cas, puisque tout
+   comportement humain est ancré, en dernière instance, dans un substrat
+   biologique), cela n’empêche pas de rechercher également des
+   déterminations liées aux institutions, aux traditions et aux multiples
+   interdépendances dans lesquelles nous sommes insérés et qui nous
+   poussent à nous conduire d’une certaine façon. Ceci d’autant plus que
+   les sociétés humaines contemporaines sont extrêmement complexes et
+   qu’il paraît improbable qu’elles n’aient aucune influence propre sur
+   certains plans (comme par exemple les inégalités de genre) ; et que,
+   par ailleurs, la biologie a du mal à rendre compte des différences
+   entre sociétés et des changements sociaux au sein d’une même espèce,
+   Homo sapiens.
+
+   Enfin, il faut remarquer que si l’influence du biologique sur le social
+   est une évidence, l’influence réciproque peut également exister. Ainsi,
+   le social (au sens le plus large : économie, pratiques alimentaires,
+   etc.) peut exercer une pression évolutive sur le biologique par le
+   biais de la sélection naturelle. Une telle pression est envisagée pour
+   expliquer la prévalence de la persistance de la lactase chez les
+   humains de certaines régions du globe : le développement du
+   pastoralisme et l’accès à une ressource alimentaire nouvelle (le lait
+   des animaux d’élevage) auraient favorisé la sélection d’individus
+   assimilant mieux le lait à l’âge adulte.
+
+   Science et pseudo-sciences ne se positionne pas dans ces débats
+   politiques, moraux et philosophiques. À travers ce dossier, nous nous
+   contentons de proposer un bref tour d’horizon, forcément partiel, des
+   questionnements scientifiques sur le sujet de possibles explications
+   évolutionnistes des faits sociaux.
+
+   Ces tentatives d’explications sont multiples. D’une part, elles font
+   appel à des disciplines et des temporalités différentes (certaines sur
+   un temps très long à l’échelle de l’évolution biologique des espèces,
+   d’autres sur un temps plus court à l’échelle de l’évolution des formes
+   sociales et culturelles). D’autre part, la plupart de ces théories
+   restent débattues, pas forcément sur le plan de l’établissement des
+   faits, mais plutôt de leur interprétation et des enseignements que l’on
+   peut espérer en tirer.
+
+   Les découvertes récentes en paléoanthropologie, mais aussi le réexamen
+   poussé, grâce à de nouvelles techniques, de découvertes anciennes, ont
+   donné lieu à de nombreuses spéculations sur les caractéristiques des
+   sociétés anciennes : non seulement les sociétés humaines du
+   Paléolithique, mais aussi celles de nos ancêtres biologiques comme Homo
+   erectus. Les spécialistes du domaine pensent désormais que ces sociétés
+   de chasseurs-collecteurs étaient fondées sur la coopération pour le
+   partage des ressources alimentaires et pour la prise en charge des
+   enfants. Des déterminants anciens, comme la bipédie, la grande taille
+   de son cerveau et le dilemme obstétrical qui s’ensuit, auraient induit
+   l’Homme à constituer des sociétés caractérisées par un certain degré
+   d’« altruisme », aussi relatif et insuffisant puisse-t-il
+   éventuellement paraître à nos yeux (voir l’article « Bipédie, gros
+   cerveau, grand-mère et forte cohésion sociale : des spécificités
+   humaines ? » de Florent Détroit).
+   Évolutionnisme et jeu vidéo
+
+   Indépendamment des débats politiques auxquels il est mêlé,
+   l’évolutionnisme se retrouve aussi dans la culture populaire. Il est un
+   élément essentiel, entre autres, de la célèbre série de jeux vidéo
+   Civilization. Chacune des parties en présence (contrôlée par un joueur
+   humain ou par l’ordinateur) y joue une nation qui, tout en guerroyant
+   et commerçant, cherche à avancer le plus loin possible le long d’un
+   graphe orienté, au sens mathématique du mot^ 1. Chaque nœud du graphe
+   représente une avancée technique ou politique majeure conditionnée par
+   les précédentes. Dans cette vision simplificatrice et souvent
+   fantaisiste, le communisme dépend de l’invention du libéralisme et de
+   la méthode scientifique, tandis que la chimie ne peut venir qu’après la
+   maîtrise de l’ingénierie et de la poudre à canon (exemples tirés du jeu
+   Civilization IV).
+
+   Une discipline née vers la fin des années 1980, la psychologie
+   évolutionniste, tente par d’autres moyens de mettre en évidence
+   l’influence de l’évolution biologique sur l’apparition de certains
+   fondements supposés universels de nos comportements, par-delà les
+   cultures et l’histoire humaine (voir l’article « La biologie
+   permet-elle d’expliquer le social ? » de Laurent Cordonier). Ces bases
+   seraient logées dans la constitution de notre cerveau et de ses
+   « modules » prenant en charge les différentes fonctions de la cognition
+   (voir l’article « Fonctions et mécanismes de la cognition sociale » de
+   Christophe Heintz). Les différentes versions de ces théories
+   évolutionnistes sont plus ou moins radicales dans leur prétention à
+   expliquer l’histoire des sociétés et la persistance apparente de
+   certains traits de comportements, notamment l’aptitude au raisonnement
+   (voir l’article « La raison est-elle un produit de l’évolution ? » de
+   Pascal Engel).
+
+   Un autre type d’approche évolutionniste s’intéresse non pas à
+   l’apparition de traits biologiques déterminant des comportements
+   sociaux, mais au changement des formes sociales – au sens le plus large
+   du terme – indépendamment de tout changement biologique. Par exemple,
+   pourquoi au sein de la même espèce (Homo sapiens) et sans différence
+   biologique notable, a-t-on vu des sociétés passer d’une organisation de
+   chasseurs-collecteurs à un mode de vie basé sur l’agriculture et la
+   sédentarisation, puis à une concentration urbaine et à la constitution
+   de véritables États ? Et pourquoi le chemin allant dans le sens inverse
+   n’est-il presque jamais parcouru (un très rare exemple est celui des
+   indiens Guayaki d’Amérique du Sud, qui selon Pierre Clastres auraient
+   été contraints d’abandonner l’agriculture suite à l’invasion européenne
+   [2]) ? Ces interrogations sont plus anciennes que celles concernant
+   l’évolution biologique des espèces ; mais c’est à partir du
+   XIX^esiècle, avec les travaux de Lewis Morgan, que des théories
+   scientifiques prennent corps à ce sujet. Passionnément discuté et
+   parfois ostracisé, ce type d’explication des faits sociaux continue
+   aujourd’hui de faire l’objet de recherches (voir les articles
+   « Anthropologie et évolution sociale » et « Penser l’évolution
+   sociale : quelques mauvais procès faits à l’évolutionnisme » de
+   Christophe Darmangeat).
+
+   Contrairement à la façon dont elles sont parfois présentées, les
+   théories que l’on retrouvera ici ne sont ni entièrement assurées, ni
+   entièrement démenties. Ce dossier présente plutôt un aperçu de la
+   science « en train de se faire », dans toute son incertitude, avec ses
+   possibles impasses et ses désaccords inévitables.
+   Références
+
+   1 | Sørensen AE, “Gender segregation in the Nordic labour market”,
+   février 2019. Sur nordics.info
+   2 | Clastres P, Chronique des indiens Guayaki, Plon, 1972.
+
+   ^1 Ce graphe est souvent improprement appelé « arbre technologique » :
+   d’abord il ne remplit pas les conditions mathématiques d’un arbre,
+   ensuite il ne fait pas intervenir que des changements technologiques.
+
+Publié dans le n° 335 de la revue
+     __________________________________________________________________
+
+Partager cet article
+
+   [partage-facebook.png] [partage-twitter.png] [partage-linkedin.png]
+   [partage-mail.png]
+     __________________________________________________________________
+
+L' auteur
+
+   portrait de l'auteur de cet article Antoine Pitrou
+
+Antoine Pitrou
+
+   Ingénieur en informatique et membre du Comité de Rédaction de Science &
+   Pseudo-Sciences.
+   Plus d'informations
+     __________________________________________________________________
+
+Évolution et faits sociaux
+
+   L'évolution explique-t-elle les faits sociaux ?
+
+L’évolution explique-t-elle les faits sociaux ?
+
+   Le 10 février 2021
+   De l'humour dans la recherche scientifique
+
+De l’humour dans la recherche scientifique
+
+   Le 19 juillet 2022
+   Risque de morsure de chien, ou le retour de la science
+
+Risque de morsure de chien, ou le retour de la science
+
+   Le 31 mai 2022
+   La Science face à la conscience… animale
+
+La Science face à la conscience… animale
+
+   Le 18 septembre 2021
+   L'effet Macbeth : to be or not to be...washed ?
+
+L’effet Macbeth : to be or not to be...washed ?
+
+   Le 8 juin 2021
+   Penser l'évolution sociale : quelques mauvais procès faits à
+   l'évolutionnisme
+
+Penser l’évolution sociale : quelques mauvais procès faits à l’évolutionnisme
+
+   Le 5 juin 2021
+
+Les articles les plus lus
+
+   Le nuage de Tchernobyl qui s'arrête à la frontière : une fable sans
+   cesse réitérée
+
+Le nuage de Tchernobyl qui s’arrête à la frontière : une fable sans cesse
+réitérée
+
+   Le 22 mars 2021 - Science et médias
+   Coronavirus : un nouveau paradoxe pour l'homéopathie
+
+Coronavirus : un nouveau paradoxe pour l’homéopathie
+
+   Le 6 mars 2020 - Homéopathie
+   Coronavirus – comment s'informer ?
+
+Coronavirus – comment s’informer ?
+
+   Le 11 mai 2020 - Covid-19
+   Iridologie : de la poudre aux yeux
+
+Iridologie : de la poudre aux yeux
+
+   Le 4 avril 2020 - Médecines alternatives
+   Troubles de l'attention et hauts potentiels intellectuels
+
+Troubles de l’attention et hauts potentiels intellectuels
+
+   Le 22 juillet 2023 - HPI-surdoués
+     __________________________________________________________________
+
+Notes de lectures
+
+   La vraie nature de la bête humaine
+
+La vraie nature de la bête humaine
+
+   Cyrille Barrette
+   Justice et guerre en Australie aborigène
+
+Justice et guerre en Australie aborigène
+
+   Christophe Darmangeat
+   L'Arche de Darwin
+
+L’Arche de Darwin
+
+   James Morrow
+   Cavanna, paléontologue !
+
+Cavanna, paléontologue !
+
+   Pascal Tassy
+   Néandertal
+
+Néandertal
+
+   Marylène Patou-Mathis et Pascal Depaepe (dir.)
+   Fabricants d'intox
+
+Fabricants d’intox
+
+   Christian Harbulot
+   Toutes les notes de lecture
+
+     * Qui sommes-nous ?
+     * Plan du site
+     * Liens favoris
+     * Contact
+     * Mentions

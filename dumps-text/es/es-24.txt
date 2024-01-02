@@ -1,0 +1,169 @@
+   #DSpace
+
+   Skip navigation
+
+   (BUTTON) Logo pequeño DigitalCISC
+
+     * Producción CSIC
+          + Áreas e Institutos
+          +
+          + Navegar ítems por:
+          + Fecha Publicación
+          + Autor
+          + Título
+          + Palabras Clave
+          + Autor con perfil
+          + Proyecto de investigación
+          + Grupo de investigación
+          + Agencia Financiadora
+          + Fecha Envío
+     * Pasarela
+     * Estadísticas
+     * Contacto
+
+     * Servicios
+          + Mi DIGITAL.CSIC
+          + Suscripciones
+          + Editar perfil
+
+   ____________________
+   [DIGITAL.CSIC_______________]
+   (BUTTON)
+
+    1. DIGITAL.CSIC
+    2. Humanidades y Ciencias Sociales
+    3. Instituto de Gestión de la Innovación y del Conocimiento (INGENIO)
+    4. (INGENIO) Tesis
+
+   Por favor, use este identificador para citar o enlazar a este item:
+   http://hdl.handle.net/10261/32137
+
+   COMPARTIR / EXPORTAR:
+   logo share SHARE BASE
+   [formularioOA.png]
+   Comparte tu historia
+   de Acceso Abierto
+   Visualizar otros formatos: MARC | Dublin Core | RDF | ORE | MODS | METS
+   | DIDL | DATACITE
+   ( ) Refman ( ) EndNote (*) Bibtex ( ) RefWorks ( ) Excel ( ) CSV ( )
+   PDF ( ) DataCite [ ] Send via email Export
+
+   Título:
+
+La evolución tecnológica del disco artificial según la teoría del ciclo de
+vida del producto
+
+   Autor:  Barberá Tomás, David CSIC ORCID Director:  Reyes López, Ernesto
+   de los CSIC; Jiménez Sáez, Fernando CSIC ORCID Fecha de publicación:
+   ene-2010 Editor:  Universidad Politécnica de Valencia Resumen:  La
+   Teoría del Ciclo de Vida del Producto (en adelante, TCVP) caracteriza
+   el cambio tecnológico que experimenta un producto a lo largo de su
+   ciclo de vida como una secuencia de variación-selección. Las fases
+   iniciales del ciclo de vida de un producto están caracterizadas por una
+   gran variedad tecnológica, debido a que existe una alta incertidumbre
+   respecto a las prestaciones de las diferentes soluciones tecnológicas
+   propuestas. Sin embargo, esta incertidumbre se reduce con el tiempo, y
+   esta reducción provoca que, en fases más maduras del ciclo de vida, de
+   toda esta variedad tecnológica existente en el mercado emerja un único
+   diseño hegemónico, llamado diseño dominante. El ejemplo empleado por lo
+   común para ilustrar la TCVP es la historia temprana del automóvil:
+   mientras que en 1900, en los orígenes de su desarrollo, tres soluciones
+   distintas estaban presentes con cuotas similares en el mercado (el
+   automóvil con motor eléctrico, con motor de gasolina o con motor de
+   vapor), en la década de 1920 el automóvil con motor de gasolina se
+   impuso como diseño dominante.
+   Pero en la TCVP la secuencia de variedad-selección es concebida como
+   una secuencia ahistórica. Esto es, asume que todas las variantes
+   rivales aparecen en el mercado al mismo tiempo, y no tiene en cuenta la
+   influencia del diferente ritmo de aparición de estas variantes rivales
+   en los posteriores procesos de emergencia del diseño dominante. Esta
+   tesis doctoral pretende completar el marco teórico de la TCVP para que
+   sea capaz de incluir la inherente historicidad de la aparición de
+   nuevas tecnologías. Para ello, compararemos los patrones evolutivos que
+   se derivan de nuestro marco teórico con la evolución tecnológica de una
+   prótesis quirúrgica, el disco artificial para la columna vertebral. En
+   nuestro caso, el diferente ritmo de aparición en el mercado de las dos
+   principales soluciones tecnológicas propuestas se debe a la menor
+   "resistencia tecnológica" de una de ellas, cuyo funcionamiento se
+   inspiraba en otro implante traumatológico, la prótesis de cadera. Para
+   operacionalizar el concepto de "resistencia tecnológica" hemos
+   propuesto una secuencia tecnológica distinta a la de
+   variedad-selección. La secuencia variedad-selección es una secuencia
+   estrictamente "poblacional"Esto es, describe la distinta frecuencia de
+   las soluciones presentes a lo largo del ciclo de vida: en las fases
+   tempranas distintas soluciones tendrán diversas frecuencias de
+   aparición, sin que ninguna supere en mucho a las demás; pero en las
+   fases más maduras la frecuencia de una de ellas (el diseño dominante)
+   será mucho mayor que la del resto. Sin embargo, este tipo de medidas no
+   aluden a la naturaleza interna del diseño, ni explican las razones de
+   la distinta aparición histórica de la variedad tecnológica al principio
+   del ciclo; simplemente muestran la disminución de esta variedad a
+   medida que avanza el ciclo y emerge un diseño dominante. Nuestra
+   secuencia es más "internalista": describe el cambio tecnológico en
+   términos de su naturaleza. Por naturaleza del cambio tecnológico
+   entendemos los cambios en las características técnicas de un producto,
+   en los servicios que proporciona y/o en la complejidad de las
+   relaciones entre unos y otros. Nuestro marco teórico se sintetiza en
+   una secuencia que describe de manera general y cronológica los
+   diferentes cambios que experimentan estas características técnicas y de
+   servicio a lo largo del ciclo de vida. De esta manera pretendemos
+   identificar el eslabón concreto de la secuencia donde se sitúa la
+   resistencia tecnológica que estanca la evolución de una de las
+   soluciones tecnológicas rivales. En concreto, hemos localizado la razón
+   de la menor resistencia tecnológica de los discos artificiales
+   inspirados en la cadera en la menor complejidad de los rediseños que
+   siguieron a los primeros fracasos clínicos del diseño primitivo. Estos
+   fracasos implicaron la aparición de nuevos componentes que intentaban
+   mejorar las prestaciones del diseño primitivo, pero mientras que en el
+   disco inspirado en la cadera estos nuevos componentes no
+   "complejizaron" en exceso el producto, en el otro tipo de diseño la
+   resistencia tecnológica se localizó precisamente en el esfuerzo por
+   deshacer la complejidad que produjo la introducción de nuevos
+   componentes. Los discos inspirados en la prótesis de cadera se
+   ahorraron este esfuerzo "des-complejizador" gracias a que ya había sido
+   realizado con anterioridad, precisamente en el desarrollo tecnológico
+   previo de las prótesis de cadera. Descripción:  Tesis Doctoral
+   presentada por David Barberá Tomás en la Universitat Politècnica de
+   València, Departamento de Proyectos de Ingeniería. URI:
+   http://hdl.handle.net/10261/32137
+   Aparece en las colecciones: (INGENIO) Tesis
+
+   IFRAME:
+   https://docs.google.com/gview?url=https://digital.csic.es/bitstream/102
+   61/32137/1/portada%20tesis%20David%20Barber%c3%a1.pdf&embedded=true
+
+Ficheros en este ítem:
+
+   Fichero Descripción Tamaño Formato
+   portada tesis David Barberá.pdf 72,63 kB Adobe PDF Vista previa
+   Visualizar/Abrir
+   tesisUPV3242.pdf 6,57 MB Adobe PDF Vista previa
+   Visualizar/Abrir
+   Indice.pdf 241,24 kB Adobe PDF Vista previa
+   Visualizar/Abrir
+   Mostrar el registro completo
+   Revisar este trabajo
+   CORE Recommender
+
+Page view(s)
+
+   505
+   checked on 02-ene-2024
+
+Download(s)
+
+   16.074
+   checked on 02-ene-2024
+   [google-favicon-png.ico]
+
+Google Scholar^TM
+
+   Check
+
+   NOTA: Los ítems de Digital.CSIC están protegidos por copyright, con
+   todos los derechos reservados, a menos que se indique lo contrario.
+
+      Logo Ministerio Logo CSIC RED Bibliotecas CSIC
+
+   OAI | Accesibilidad | Mapa Web | Quejas y Sugerencias
+   DSpace | Extension maintained and optimized by Logo 4SCIENCE

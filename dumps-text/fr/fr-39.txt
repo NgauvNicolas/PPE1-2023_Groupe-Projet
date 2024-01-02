@@ -1,0 +1,779 @@
+   false
+
+   Veuillez-patienter...
+
+     Aller au contenu
+
+   Aide Accès sourds et malentendants
+   Recherche
+   accueil /static/img/logo_com_externe_semi_bold.png
+   /static/img/logo-insee-header.png
+   English
+   Presse
+   Menu
+     * Menu
+     * Blog
+     * Espace presse
+     * Aide
+     * Accès sourds et malentendants
+     * English
+
+   Veuillez-patienter... ____________________ (BUTTON)
+     *
+     * Statistiques et études
+       Cherchez vos statistiques par…
+          + Thèmes
+               o Économie - conjoncture - comptes nationaux
+               o Démographie
+               o Entreprises
+               o Plus de thèmes…
+          + Niveaux géographiques
+               o France
+               o Toutes les régions ou tous les départements
+               o Toutes les communes
+               o Plus de niveaux géographiques…
+          + Catégories
+               o Données
+               o Publications
+               o Plus de catégories…
+          + Collections
+               o Insee Première
+               o Notes et points de conjoncture
+               o Plus de collections…
+     * Définitions, méthodes et qualité
+          + Définitions
+               o Toutes les définitions des concepts
+          + Sources statistiques et indicateurs
+               o Liste des sources statistiques
+               o Liste des indicateurs
+               o Documentation complémentaire sur le recensement
+          + La qualité dans le Service statistique public (SSP)
+               o Le cadre de référence
+               o La gouvernance
+               o La politique et la stratégie qualité du SSP
+               o Les engagements européens
+          + Nomenclatures
+               o Nomenclature d’activités française
+               o Nomenclature agrégée - NA, 2008
+               o Classification des produits française
+               o Classification des fonctions de consommation des ménages
+               o Catégories juridiques
+               o Nomenclatures des professions et catégories
+                 socioprofessionnelles
+          + Géographie administrative et d'étude
+               o Recherche sur une zone géographique
+               o Historique des communes
+               o Téléchargement
+               o Communes nouvelles
+               o Codification des collectivités et territoires français
+                 d’outre-mer
+               o Codification des pays et territoires étrangers
+               o Collectivités territoriales à statut particulier
+          + Modèles, méthodes et outils statistiques
+               o Les modèles statistiques
+               o Les outils statistiques
+               o Méthodologie statistique
+          + Courrier des statistiques
+          + Open Data, données RDF et espace XML
+               o Diffusion des bases de données
+               o Utilisation des formats de diffusion
+               o Catalogue des API de l'Insee
+     * Services
+          + Réviser une pension, un loyer, bail ou contrat
+               o Réviser une pension alimentaire
+               o Réviser un loyer d'habitation
+               o Réviser un bail commercial ou professionnel
+               o Indexer un contrat
+               o Convertisseur franc-euro
+          + Consulter les indices et séries chronologiques
+               o Recherche d'indices et de séries chronologiques
+               o Utilisation du service web SDMX
+               o Tables de passage
+               o Historique des actualités
+          + Sirene
+               o Obtenir un avis de situation au répertoire Sirene
+               o Demander la modification de son statut de diffusion
+               o Demander la modification du code APE
+               o Immatriculation, cessation ou modification des données au
+                 répertoire Sirene
+               o Obtenir sa catégorie d'entreprise
+               o Consulter et télécharger la base Sirene
+               o Identifiant unique des intervenants sur les marchés
+                 financiers (LEI)
+               o Demander son habilitation ProConnect
+               o Foire aux questions sur le répertoire Sirene
+               o Réponses à vos questions sur le répertoire Sirene
+          + Découvrir, apprendre, enseigner
+          + Répondre à une enquête de l'Insee
+               o Enquêtes auprès des particuliers
+               o Enquêtes auprès des entreprises
+               o Vrai ou faux enquêteur de l’Insee, fraude, malveillance :
+                 comment vérifier ?
+          + Consulter les agendas de diffusion
+               o Agenda des indicateurs
+               o Agenda des publications
+               o Publications les plus récentes
+               o Évènements annoncés à la Une du site
+          + Gérer les répertoires des personnes physiques
+               o Recueil des données d'état civil
+               o Le Répertoire électoral unique
+               o Dématérialisation des échanges de données
+               o Nombre de décès quotidiens par département
+               o Fichiers des personnes décédées depuis 1970
+          + Bibliothèque de l’Insee Alain Desrosières
+               o Portail documentaire et catalogue
+               o La Bibliothèque numérique de la statistique publique
+               o Contacter la bibliothèque
+          + Commander une prestation, acheter une publication
+               o Diffusion sur mesure
+               o Acheter nos publications
+          + Nous suivre
+               o Lettres d'information
+               o Abonnements aux lettres d'information et aux avis
+                 de parution
+               o Abonnement aux flux RSS
+               o L'Insee sur les médias sociaux
+               o Insee Mobile
+          + Aide
+               o Réponses à vos questions sur le répertoire Sirene
+               o Réponses à vos questions
+               o L’Insee est accessible aux personnes malentendantes ou
+                 sourdes avec Acceo
+          + Espace presse
+               o Événements presse
+               o Calendrier des publications
+               o Communiqués de presse nationaux
+               o Communiqués de presse régionaux
+     * L'Insee et la statistique publique
+          + L'Insee
+               o Connaître l'Insee
+               o Travailler à l'Insee
+               o Colloques, séminaires et salons
+               o Un peu d'histoire
+               o Rapports d'activité
+          + Les activités de l'Insee
+               o Suivre l’économie française
+               o Connaître les entreprises
+               o Observer l'évolution de la société
+               o Réaliser le recensement de la population
+               o Décrire et analyser les régions et les territoires
+               o Gérer des grands répertoires
+               o Diffuser et valoriser ses productions
+               o Perfectionner ses méthodes et évaluer la qualité
+               o Contribuer à la construction de la statistique européenne
+                 et internationale
+          + La statistique publique
+               o Cadre juridique et institutionnel
+               o Le service statistique public
+               o Secret statistique
+               o Protection des données personnelles
+               o Accès aux données publiques
+               o Accès aux documents administratifs
+          + La construction de la statistique européenne
+               o Les producteurs de statistiques européennes en France
+               o Textes juridiques de la gouvernance
+                 statistique européenne
+               o Les règlements cadres et sectoriels
+          + Mesure de la qualité de service
+               o Les indicateurs de qualité du programme Transparence
+               o Résultats des enquêtes de satisfaction
+          + Services publics+ : un service public plus proche, plus
+            simple, plus efficace
+
+    1. Accueil
+    2. Statistiques et études
+    3. Tableaux de l'économie française
+
+Tableaux de l'économie française Édition 2020
+
+   Les Tableaux de l'économie française s'adressent à tous ceux qui
+   souhaitent disposer d'un aperçu rapide et actuel sur la situation
+   économique, démographique et sociale de la France.
+   Insee Références
+   Paru le :Paru le27/02/2020
+   Découvrir la collection
+   Version imprimable
+   (pdf, 8 Mo)
+   Tableaux de l'Économie Française- Février 2020
+
+   Retrouvez ces informations actualisées en continu dans le Tableau de
+   bord de l’économie française.
+     * Présentation
+
+   Consulter
+   Sommaire
+   false
+     *
+
+Territoire – Population
+          +
+
+Territoire
+               o Pays du Monde
+               o Union européenne
+               o Régions – Départements
+               o Villes et communes de France
+          +
+
+Développement durable
+               o Environnement
+               o Utilisation des ressources
+               o Changement climatique et effet de serre
+          +
+
+Population
+               o Évolution de la population
+               o Population par âge
+               o Mariages – Pacs – Divorces
+               o Ménages – Familles
+               o Natalité – Fécondité
+               o Espérance de vie – Mortalité
+               o Étrangers – Immigrés
+               o Femmes et hommes
+     *
+
+Emploi – Revenus
+          +
+
+Travail – Emploi
+               o Population active
+               o Chômage
+               o Politiques d'emploi
+               o Durée et organisation du temps de travail
+               o Emploi de la fonction publique
+               o Emploi par âge
+               o Emploi par activité
+          +
+
+Revenus – Salaires
+               o Salaires dans les entreprises
+               o Salaires dans la fonction publique
+               o Salaire minimum – Coût du travail
+               o Revenus des ménages
+               o Niveaux de vie – Pauvreté
+               o Retraites
+               o Protection et aide sociale
+     *
+
+Conditions de vie – Société
+          +
+
+Consommation
+               o Consommation des ménages
+               o Équipement des ménages
+               o Multimédias
+               o Culture-Loisirs-Sports
+          +
+
+Logement
+               o Logement
+               o Propriétaires – Locataires
+          +
+
+Justice
+               o Criminalité – Délinquance
+               o Justice
+          +
+
+Santé – Handicap – Dépendance
+               o Maladies – Accidents
+               o Personnels et équipements de santé
+               o Dépenses de santé
+               o Personnes handicapées
+               o Personnes âgées dépendantes
+          +
+
+Enseignement – Éducation
+               o Élèves et établissements des 1ᵉʳ et 2ⁿᵈ degrés
+               o Enseignement supérieur
+               o Investissement dans l'éducation
+               o Niveaux de formation
+     *
+
+Économie – Finances
+          +
+
+Économie générale
+               o Principaux indicateurs économiques
+               o Croissance – Productivité
+               o Production des branches
+               o Prix à la consommation
+               o Indicateurs de richesse nationale
+          +
+
+Monnaie – Marchés financiers
+               o Monnaie – Crédit
+               o Épargne – Patrimoine
+               o Bourse – Marchés financiers
+          +
+
+Finances publiques
+               o Dette et déficit publics
+               o Prélèvements obligatoires
+               o Dépense publique
+               o Finances publiques locales
+               o Union monétaire européenne
+          +
+
+Échanges extérieurs
+               o Importations – Exportations
+               o Solde des échanges extérieurs
+               o Échanges bilatéraux
+               o Investissements internationaux
+     *
+
+Système productif
+          +
+
+Entreprises
+               o Démographie des sociétés et des EI
+               o Caractéristiques des entreprises
+               o Catégories d'entreprises
+               o Entreprises publiques
+               o Artisanat
+          +
+
+Recherche – Innovation
+               o Recherche & Développement
+               o Innovation
+          +
+
+Agriculture – Pêche
+               o Production et valeur ajoutée agricoles
+               o Exploitations agricoles
+               o Pêche – Aquaculture
+          +
+
+Industrie – Construction
+               o Industrie
+               o Industrie agroalimentaire
+               o Industrie automobile
+               o Construction
+          +
+
+Énergie
+               o Bilan énergétique
+               o Pétrole – Charbon
+               o Électricité – Gaz naturel
+          +
+
+Commerce – Services
+               o Commerce
+               o Services marchands
+               o Banques – Assurances
+               o Communication
+               o Audiovisuel
+               o Tourisme
+               o Transports de voyageurs
+               o Transports de marchandises
+
+   (BUTTON) SOMMAIRE
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) CONTENU
+
+Industrie agroalimentaire
+
+   Insee Références
+
+   Paru le :27/02/2020
+   Version imprimable
+   (pdf, 424 Ko)
+   Données
+   (xlsx, 13 Ko)
+     * Consulter
+     * Documentation
+
+   Consultation de la publication ou de la documentation qui lui est
+   associée [Consulter____]
+   Sommaire
+    1. Présentation
+    2. Tableaux et graphiques
+
+Présentation
+
+   En 2018, la production en volume de la branche de l’ industrie
+   agroalimentaire (IAA) recule (– 0,8 %) tandis que l’industrie
+   manufacturière continue de progresser (+ 0,5 %). Malgré la hausse de la
+   fabrication de boissons (+ 1,8 %), l’activité des IAA est tirée à la
+   baisse par celle des produits alimentaires (– 1,1 %). Le repli
+   s’inscrit dans un contexte de perte de dynamisme de cette filière
+   depuis 2011.
+
+   Ainsi, la production de produits laitiers est particulièrement affectée
+   par la baisse de la consommation en lait, fromage et produits ultra
+   frais et par des stocks européens importants de poudre de lait. La
+   production industrielle des produits à base de fruits et légumes
+   décroît après la forte hausse de 2017. Il en est de même des autres
+   produits alimentaires en lien avec, d’une part, le repli des cacao,
+   chocolat et produits de confiserie et, d’autre part, l’incidence de la
+   contamination de la poudre infantile à la salmonelle.
+
+   À l’inverse, la production de viandes et produits à base de viandes se
+   redresse surtout grâce à la filière aviaire après deux années de
+   pandémie de grippe aviaire. La transformation et conservation de
+   poissons bénéficie d’une demande mondiale porteuse. La hausse des
+   boissons résulte des eaux de table, bières et boissons alcooliques
+   distillées alors même que la production de champagne recule. Enfin, la
+   fabrication d’aliments pour animaux, et plus particulièrement d’animaux
+   de ferme, profite du manque de fourrage lié à la sécheresse estivale.
+
+   Les produits agroalimentaires sont consommés majoritairement par les
+   ménages, suivis par les consommations intermédiaires et les
+   exportations. En 2018, la consommation effective des ménages décroît
+   (– 1,0 %), après trois années consécutives de hausse. En particulier,
+   les ménages consomment moins de produits à base de tabac et de viandes
+   et produits à base de viandes. Quant aux consommations intermédiaires
+   qui fournissent principalement l’industrie alimentaire, elles demeurent
+   en hausse (+ 0,8 %).
+
+   En 2018, l’excédent commercial en produits agroalimentaires se
+   détériore (5,9 milliards d’euros après 6,2 milliards en 2017) et
+   traduit le décrochage des positions de la France en Europe. La
+   progression des importations dans cette zone (+ 1,5 %) est supérieure à
+   celle des exportations (+ 0,2 %) alors que vers les marchés des pays
+   tiers, les évolutions sont respectivement de – 0,6 % et + 0,4 %.
+
+   La dégradation du solde des échanges de viandes et produits à base de
+   viandes, produits laitiers et autres produits alimentaires est
+   toutefois compensée par la hausse de l’excédent des boissons, la baisse
+   des importations de produits à base de tabac et la réduction du déficit
+   des préparations à base de poissons, des huiles et graisses végétales
+   et animales et des produits issus de la boulangerie et pâtes
+   alimentaires.
+
+Tableaux et graphiques
+
+tableauFigure 1 – Évolution de la production des industries alimentaires, de
+boissons et du tabac
+
+   CAPTION: Évolution de la production des industries alimentaires, de
+   boissons et du tabac
+
+   Production en millions d'euros Évolution 18/17 en %
+   2017 valeur 2018 volume Indice valeur Indice volume Indice prix
+   Transform. & conserv. viande & préparation prod. à base de viande
+   32 077 32 567 0,1 1,5 -1,4
+   Transform. & conserv. poisson, crustacés & mollusques 3 736 3 858 1,1
+   3,3 -2,1
+   Transformation et conservation de fruits et légumes 6 676 6 416 -3,1
+   -3,9 0,8
+   Fabrication d’huiles et graisses végétales et animales 5 098 4 987 -5,0
+   -2,2 -2,9
+   Fabrication de produits laitiers 25 859 24 972 -3,0 -3,4 0,4
+   Travail des grains ; fabrication de produits amylacés 5 860 5 778 -1,8
+   -1,4 -0,5
+   Fabrication produits boulangerie-pâtisserie & pâtes alimentaires 26 931
+   26 672 0,4 -1,0 1,3
+   Fabrication d'autres produits alimentaires 20 459 19 792 -6,3 -3,3 -3,1
+   Fabrication d'aliments pour animaux 10 199 10 291 1,5 0,9 0,6
+   Fabrication de boissons 20 425 20 798 1,5 1,8 -0,3
+   Fabrication de produits à base de tabac 250 252 6,8 0,7 6,1
+   Total 157 570 156 384 -1,3 -0,8 -0,5
+     * Source : Insee, comptes nationaux, base 2014.
+
+     * Graphique
+     * Tableau
+
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   graphique[Graphique -Commerce extérieur des produits agroalimentaires de
+    2000 à 202018]
+
+tableauFigure 2 – Commerce extérieur des produits agroalimentaires de 2000 à
+2018
+
+   en milliards d'euros
+
+   CAPTION: Commerce extérieur des produits agroalimentaires de 2000 à
+   2018 (en milliards d'euros)
+
+        Exportations (Fab) Importations (Caf) Solde (Caf - Fab)
+   2000 28,1               20,9               7,2
+   2001 28,4               22,1               6,2
+   2002 29,3               22,7               6,5
+   2003 29,2               22,6               6,6
+   2004 29,5               23,4               6,1
+   2005 30,4               24,2               6,2
+   2006 33,0               25,8               7,1
+   2007 35,1               28,1               7,0
+   2008 36,9               31,1               5,8
+   2009 33,6               29,6               4,0
+   2010 37,0               30,9               6,1
+   2011 42,0               34,8               7,2
+   2012 43,3               36,1               7,2
+   2013 44,3               37,5               6,7
+   2014 43,9               37,8               6,1
+   2015 45,3               38,7               6,6
+   2016 45,3               39,6               5,7
+   2017 48,3               42,1               6,2
+   2018 48,4               42,5               5,9
+     * Source : Insee, comptes nationaux, base 2014.
+
+graphiqueFigure 2 – Commerce extérieur des produits agroalimentaires de 2000
+à 2018
+
+     * Source : Insee, comptes nationaux, base 2014.
+
+tableauFigure 3 – Solde du commerce extérieur des produits agroalimentaires
+selon l'origine et la destination en 2018
+
+   en millions d'euros
+
+   CAPTION: Solde du commerce extérieur des produits agroalimentaires
+   selon l'origine et la destination en 2018 (en millions d'euros)
+
+                                                            UE   Hors UE Total
+                     Exportations (Fab)                   29 203 19 179  48 382
+                     Importations (Caf)                   32 394 10 095  42 489
+                      Solde (Caf-Fab)                     -3 191 9 084   5 893
+   Solde des échanges par secteur d'activité (NAF rév. 2)
+        Transform. & conserv. viande & prép. viande       -1 909 572     -1 337
+        Transform. & conserv. poisson, crust., etc.       -830   -2 442  -3 272
+        Transform. et conserv. de fruits et légumes       -2 376 -625    -3 001
+        Fab. huiles et graisses végétales & animales      -1 029 -1 195  -2 224
+              Fabrication de produits laitiers            514    1 970   2 484
+         Travail des grains ; fab. prdts. amylacés        735    115     850
+           Fab. prdts. boulangerie-pâtis. & pâtes         -623   407     -216
+             Fab. autres produits alimentaires            60     295     355
+            Fabrication d'aliments pour animaux           511    619     1 130
+                  Fabrication de boissons                 3 263  9 365   12 628
+          Fabrication de produits à base de tabac         -1 507 3       -1 504
+     * Source : Insee, comptes nationaux, base 2014.
+
+     * Graphique
+     * Tableau
+
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   phique -Valeur ajoutée de l'industre de l'industrie agroalimentaire dans
+    quelques pays de l’Union européenne]
+
+tableauFigure 4 – Valeur ajoutée de l'industrie agroalimentaire dans quelques
+pays de l’Union européenne
+
+   en milliards d’euros courants
+
+   CAPTION: Valeur ajoutée de l'industrie agroalimentaire dans quelques
+   pays de l’Union européenne (en milliards d’euros courants)
+
+                 2000 2017
+     Allemagne   36   46
+       France    34   44
+   Royaume-Uni^1 34   33
+       Italie    22   28
+      Espagne    15   26
+     * 1. Donnée 2016.
+     * Source : Eurostat (extraction du 4 octobre 2019).
+
+graphiqueFigure 4 – Valeur ajoutée de l'industrie agroalimentaire dans
+quelques pays de l’Union européenne
+
+     * 1. Donnée 2016.
+     * Source : Eurostat (extraction du 4 octobre 2019).
+
+Avertissement
+
+   Sauf mention contraire, les données nationales se réfèrent à la France
+   métropolitaine et aux cinq départements d’outre-mer (sauf mention
+   contraire Mayotte est inclus dans les données de la France).
+
+   Les données chiffrées sont parfois arrondies (selon les règles
+   mathématiques). Le résultat arrondi d’une combinaison de données
+   chiffrées (qui fait intervenir leurs valeurs réelles) peut se trouver
+   légèrement différent de celui que donnerait la combinaison de leurs
+   valeurs arrondies.
+
+   Les comparaisons internationales s’appuient en général sur les données
+   issues d’organismes internationaux (Eurostat, ONU, etc.) qui peuvent
+   diverger des sources produites par les instituts nationaux de
+   statistiques, notamment pour l’Insee, pour les données françaises. En
+   effet, ces organismes effectuent souvent des ajustements de champ ou de
+   méthode, d’ampleur souvent réduite, afin de produire des données
+   comparables d’un pays à l’autre.
+
+   Sauf précision contraire, les indicateurs relatifs à l’Union européenne
+   (UE) figurant dans cet ouvrage portent sur l’UE à 28.
+
+Définitions
+
+   Production (au sens de la comptabilité nationale) : activité exercée
+   sous le contrôle et la responsabilité d'une unité institutionnelle qui
+   combine des ressources en main-d'œuvre, capital et biens et services
+   pour fabriquer des biens ou fournir des services, et résultat de cette
+   activité. Les processus purement naturels sans intervention ou contrôle
+   humain ne font pas partie de la production.
+
+   Branche d’activité : regroupe des unités de production homogènes,
+   c'est-à-dire qui fabriquent des produits (ou produisent des services)
+   qui appartiennent au même item de la nomenclature d'activité économique
+   considérée. Au contraire, un secteur regroupe des entreprises classées
+   selon leur activité principale.
+
+   Industries agroalimentaires (IAA) : correspondent aux divisions 10, 11
+   et 12 de la nomenclature NAF rév. 2. Les données prennent en compte
+   l'artisanat commercial.
+
+   Consommation intermédiaire : valeur des biens et services transformés
+   ou entièrement consommés au cours du processus de production. L’usure
+   des actifs fixes mis en oeuvre n’est pas prise en compte ; elle est
+   enregistrée dans la consommation de capital fixe.
+
+   Consommation effective des ménages : inclut tous les biens et services
+   acquis par les ménages résidents pour la satisfaction de leurs besoins,
+   que ces acquisitions aient fait ou non l'objet d'une dépense de leur
+   part. La consommation effective des ménages comprend donc, en plus des
+   biens et des services acquis par leurs propres dépenses de consommation
+   finale, les biens et les services qui, ayant fait l'objet de dépenses
+   de consommation individuelle des administrations publiques ou des
+   ISBLSM, donnent lieu à des transferts sociaux en nature de leur part
+   vers les ménages.
+
+   Fab (franco à bord) : prix d’un bien à la frontière du pays exportateur
+   ou prix d’un service fourni à un non-résident. Il comprend la valeur
+   des biens ou des services au prix de base, des services de transport et
+   de distribution jusqu’à la frontière, les impôts moins les subventions.
+
+   Caf (coût, assurance, fret) : prix d’un bien à la frontière du pays
+   importateur ou prix d’un service fourni à un résident avant
+   acquittement de tous les impôts et droits sur les importations et
+   paiement de toutes les marges commerciales et de transport dans le
+   pays.
+
+   Secteur d’activité : regroupe des entreprises de fabrication, commerce
+   ou service qui ont la même activité principale (au regard de la
+   nomenclature d’activité économique considérée). L'activité d'un secteur
+   n'est donc pas tout à fait homogène et comprend des productions ou
+   services secondaires qui relèveraient d'autres items de la nomenclature
+   que celui du secteur considéré. Au contraire, une branche regroupe des
+   unités de production homogènes.
+
+Pour en savoir plus
+
+   « Les entreprises en France », Insee Références, édition 2019.
+
+   Ouvrir dans un nouvel onglet « Productions commercialisées des
+   industries agroalimentaires 2018 », Agreste Chiffres et données n° 10,
+   juillet 2019.
+
+   « L’économie française », Insee Références, édition 2019.
+
+   Ouvrir dans un nouvel onglet « L’innovation dans les entreprises
+   agroalimentaires », Agreste Les Dossiers n° 3, juin 2019.
+
+Définitions
+
+   Production (au sens de la comptabilité nationale) : activité exercée
+   sous le contrôle et la responsabilité d'une unité institutionnelle qui
+   combine des ressources en main-d'œuvre, capital et biens et services
+   pour fabriquer des biens ou fournir des services, et résultat de cette
+   activité. Les processus purement naturels sans intervention ou contrôle
+   humain ne font pas partie de la production.
+
+   Branche d’activité : regroupe des unités de production homogènes,
+   c'est-à-dire qui fabriquent des produits (ou produisent des services)
+   qui appartiennent au même item de la nomenclature d'activité économique
+   considérée. Au contraire, un secteur regroupe des entreprises classées
+   selon leur activité principale.
+
+   Industries agroalimentaires (IAA) : correspondent aux divisions 10, 11
+   et 12 de la nomenclature NAF rév. 2. Les données prennent en compte
+   l'artisanat commercial.
+
+   Consommation intermédiaire : valeur des biens et services transformés
+   ou entièrement consommés au cours du processus de production. L’usure
+   des actifs fixes mis en oeuvre n’est pas prise en compte ; elle est
+   enregistrée dans la consommation de capital fixe.
+
+   Consommation effective des ménages : inclut tous les biens et services
+   acquis par les ménages résidents pour la satisfaction de leurs besoins,
+   que ces acquisitions aient fait ou non l'objet d'une dépense de leur
+   part. La consommation effective des ménages comprend donc, en plus des
+   biens et des services acquis par leurs propres dépenses de consommation
+   finale, les biens et les services qui, ayant fait l'objet de dépenses
+   de consommation individuelle des administrations publiques ou des
+   ISBLSM, donnent lieu à des transferts sociaux en nature de leur part
+   vers les ménages.
+
+   Fab (franco à bord) : prix d’un bien à la frontière du pays exportateur
+   ou prix d’un service fourni à un non-résident. Il comprend la valeur
+   des biens ou des services au prix de base, des services de transport et
+   de distribution jusqu’à la frontière, les impôts moins les subventions.
+
+   Caf (coût, assurance, fret) : prix d’un bien à la frontière du pays
+   importateur ou prix d’un service fourni à un résident avant
+   acquittement de tous les impôts et droits sur les importations et
+   paiement de toutes les marges commerciales et de transport dans le
+   pays.
+
+   Secteur d’activité : regroupe des entreprises de fabrication, commerce
+   ou service qui ont la même activité principale (au regard de la
+   nomenclature d’activité économique considérée). L'activité d'un secteur
+   n'est donc pas tout à fait homogène et comprend des productions ou
+   services secondaires qui relèveraient d'autres items de la nomenclature
+   que celui du secteur considéré. Au contraire, une branche regroupe des
+   unités de production homogènes.
+
+     * Nos sites partenaires
+
+     * Système Statistique Européen
+     * Apprendre avec les données de l'Insee
+     * Réseau Quetelet
+     * Centre d'Accès Sécurisé Distant aux données (CASD)
+     * site data.gouv
+     * Services Publics +
+
+Abonnez-vous
+
+   Avis de parution
+
+Nous suivre
+
+Contact
+
+   Aide et contact
+     * Statistiques et études
+     * Définitions, méthodes et qualité
+          + Définitions
+          + Sources statistiques et indicateurs
+          + La qualité dans le Service statistique public (SSP)
+          + Nomenclatures
+          + Géographie administrative et d'étude
+          + Modèles, méthodes et outils statistiques
+          + Courrier des statistiques
+          + Open Data, données RDF et espace XML
+     * Services
+          + Réviser une pension, un loyer, bail ou contrat
+          + Consulter les indices et séries chronologiques
+          + Sirene
+          + Découvrir, apprendre, enseigner
+          + Répondre à une enquête de l'Insee
+          + Consulter les agendas de diffusion
+          + Gérer les répertoires des personnes physiques
+          + Bibliothèque de l’Insee Alain Desrosières
+          + Commander une prestation, acheter une publication
+          + Nous suivre
+          + Aide
+          + Espace presse
+     * L'Insee et la statistique publique
+          + L'Insee
+          + Les activités de l'Insee
+          + La statistique publique
+          + La construction de la statistique européenne
+          + Mesure de la qualité de service
+          + Services publics+ : un service public plus proche, plus
+            simple, plus efficace
+
+     * Système Statistique Européen
+     * Apprendre avec les données de l'Insee
+     * Réseau Quetelet
+     * Centre d'Accès Sécurisé Distant aux données (CASD)
+     * site data.gouv
+     * Services Publics +
+
+     * Mentions légales et crédits
+     * Conditions d'utilisation de nos données
+     * Accessibilité : partiellement conforme
+     * Accès sourds et malentendants
+     * Sécurité
+     * Plan du site
+
+   Haut de page

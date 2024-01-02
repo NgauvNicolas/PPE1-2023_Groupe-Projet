@@ -1,0 +1,1392 @@
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * Inicio
+     * 1La evolución como un hecho probado
+       (BUTTON) Alternar subsección La evolución como un hecho probado
+          + 1.1Evidencia del proceso evolutivo
+          + 1.2El origen de la vida
+          + 1.3La evolución de la vida en la Tierra
+     * 2Historia del pensamiento evolucionista
+       (BUTTON) Alternar subsección Historia del pensamiento evolucionista
+          + 2.1Darwinismo
+          + 2.2Neodarwinismo
+          + 2.3Síntesis evolutiva moderna
+     * 3Equilibrio puntuado
+     * 4Teoría neutralista de la evolución molecular
+     * 5Biología evolutiva del desarrollo
+     * 6Síntesis evolutiva moderna
+--
+               o 6.1.5Selección natural
+               o 6.1.6Deriva genética
+          + 6.2Las consecuencias de la evolución
+               o 6.2.1Adaptación
+               o 6.2.2Coevolución
+               o 6.2.3Especiación
+               o 6.2.4Extinción
+          + 6.3Microevolución y macroevolución
+          + 6.4Filogenia
+               o 6.4.1Monofilia, parafilia y polifilia
+     * 7Ampliación de la síntesis moderna
+       (BUTTON) Alternar subsección Ampliación de la síntesis moderna
+          + 7.1Paleobiología y tasas de evolución
+          + 7.2Causas ambientales de las extinciones masivas
+          + 7.3Selección sexual y altruismo
+          + 7.4Macroevolución, monstruos prometedores y equilibrio
+            puntuado
+          + 7.5La síntesis de la biología del desarrollo y la teoría de la
+            evolución
+          + 7.6Microbiología y transferencia horizontal de genes
+          + 7.7Endosimbiosis y el origen de las células eucariotas
+--
+          + 7.9Variaciones en la expresión de los genes involucrados en la
+            herencia
+     * 8Otras teorías de la evolución y críticas científicas de la teoría
+       sintética
+       (BUTTON) Alternar subsección Otras teorías de la evolución y
+       críticas científicas de la teoría sintética
+          + 8.1Otras hipótesis minoritarias
+--
+       proceso evolutivo
+          + 9.1Observación directa del proceso evolutivo en bacterias
+          + 9.2Simulación computarizada del proceso de evolución biológica
+     * 10Reacciones sociales y culturales
+       (BUTTON) Alternar subsección Reacciones sociales y culturales
+          + 10.1Evolución y política
+          + 10.2Evolución y religión
+     * 11Véase también
+     * 12Referencias
+--
+   [ ] Cambiar a la tabla de contenidos
+
+Evolución biológica
+
+   [ ] 156 idiomas
+--
+   más
+   De Wikipedia, la enciclopedia libre
+   «Evolución»  y «Evolucionismo» redirigen aquí. Para otras acepciones,
+   véanse Evolución (desambiguación) y Evolucionismo (desambiguación).
+   Véase también: biología evolutiva
+
+   CAPTION: Evolución biológica
+
+   Tree of Living Organisms 2 Tree of Living Organisms 2
+--
+
+                       Temas clave
+     * Introducción a la evolución
+     * Antepasado común
+     * Teoría científica
+--
+     * Radiación adaptativa
+     * Cooperación
+     * Coevolución
+     * Evolución paralela
+     * Extinción
+     * Forma transicional
+--
+     * Abiogénesis
+     * Historia de la vida
+     * Historia de la evolución
+     * Críticas a la teoría evolutiva
+     * Charles Darwin
+     * El origen de las especies
+     * Evolución humana
+     * Evolución molecular
+
+                  Campos y aplicaciones
+     * Aplicaciones de la evolución
+
+     * Estética evolutiva
+--
+     * Neurociencia evolutiva
+     * Fisiología evolutiva
+     * Psicología evolucionista
+     * Evolución experimental
+
+   La evolución biológica es el conjunto de cambios en caracteres
+   fenotípicos y genéticos de poblaciones biológicas a través de
+   generaciones.^[1]​ Dicho proceso ha originado la diversidad de formas
+--
+   común.^[2]​^[3]​ Los procesos evolutivos han producido la biodiversidad
+   en cada nivel de la organización biológica, incluyendo los de especie,
+   población, organismos individuales y molecular (evolución
+   molecular),^[4]​ moldeados por formaciones repetidas de nuevas especies
+   (especiación), cambios dentro de las especies (anagenesis) y
+--
+   aproximadamente 4350 millones de años.^[8]​^[9]​^[10]​
+
+   La palabra «evolución» se utiliza para describir los cambios y fue
+   aplicada por primera vez en el siglo XVIII por un biólogo suizo,
+   Charles Bonnet, en su obra Consideration sur les corps
+   organisés.^[11]​^[12]​ No obstante, el concepto de que la vida en la
+   Tierra evolucionó a partir de un ancestro común ya había sido formulado
+   por varios filósofos griegos,^[13]​ y la hipótesis de que las especies
+   se transforman continuamente fue postulada por numerosos científicos de
+--
+   propio Darwin en El origen de las especies,^[17]​ quien sintetizó un
+   cuerpo coherente de observaciones y profundizó el mecanismo de cambio
+   llamado selección natural, lo que consolidó el concepto de la evolución
+   biológica hasta convertirlo en una verdadera teoría científica.^[3]​
+   Anteriormente, el concepto de selección natural ya había sido aportado
+--
+   reproducción.^[18]​^[19]​
+
+   Desde la década de 1940 la teoría de la evolución combina las
+   propuestas de Darwin y Wallace con las leyes de Mendel y otros avances
+   posteriores en la genética; por eso se la denomina síntesis moderna o
+   «teoría sintética».^[3]​ Según esta teoría, la evolución se define como
+   un cambio en la frecuencia de los alelos de una población a lo largo de
+   las generaciones. Este cambio puede ser causado por diferentes
+--
+   sintética desde su formulación, en torno a 1940.^[20]​
+
+   En el siglo XIX, la idea de que la vida había evolucionado fue un tema
+   de intenso debate académico centrado en las implicaciones filosóficas,
+   sociales y religiosas de la evolución. La evolución como propiedad
+   inherente a los seres vivos no es materia de debate en la comunidad
+   científica dedicada a su estudio;^[3]​ sin embargo, los mecanismos que
+--
+
+   Los biólogos evolutivos han continuado estudiando varios aspectos de la
+   evolución mediante la formulación de hipótesis, así como la
+   construcción de teorías basadas en evidencia de campo o laboratorio y
+   en datos generados por los métodos de la biología matemática y teórica.
+--
+   ¿Problemas al reproducir este archivo?
+
+La evolución como un hecho probado[editar]
+
+   La evolución es tanto un «hecho» (una observación, medición u otra
+   forma de evidencia) como una «teoría» (una explicación completa de
+   algún aspecto de la naturaleza que está respaldada por una gran
+   cantidad de evidencia). La National Academies of Sciences, Engineering,
+   and Medicine afirma que la teoría de la evolución es «una explicación
+   científica que ha sido probada y confirmada tantas veces que ya no
+   existe una razón de peso para seguir probándola o buscar ejemplos
+--
+
+   La evidencia del proceso evolutivo surge del conjunto de pruebas que
+   los científicos han reunido para demostrar que la evolución es un
+   proceso característico de los seres vivos y que todos los organismos
+   que viven en la Tierra descienden de un último antepasado común
+--
+   mismo tiempo ya adaptadas a su medio ambiente. Posteriormente, el
+   descubrimiento de la tectónica de placas fue muy importante para la
+   teoría de la evolución, al proporcionar una explicación para las
+   similitudes entre muchos grupos de especies en continentes que se
+   encontraban unidos en el pasado.^[28]​ Segundo, la diversidad de la
+--
+   es posible datar el momento de la divergencia de las especies a través
+   del reloj molecular basado en las mutaciones acumuladas en el proceso
+   de evolución molecular.^[36]​ Por ejemplo, la comparación entre las
+   secuencias del ADN del humano y del chimpancé ha confirmado la estrecha
+   similitud entre las dos especies y ha ayudado a elucidar cuándo existió
+--
+
+   El origen de la vida, aunque atañe al estudio de los seres vivos, es un
+   tema que no es abordado por la teoría de la evolución; pues esta última
+   solo se ocupa del cambio en los seres vivos, y no del origen, cambios e
+   interacciones de las moléculas orgánicas de las que estos
+--
+   denominado panspermia.^[47]​
+
+La evolución de la vida en la Tierra[editar]
+
+   [350px-Phylogenetic_Tree_of_Life.png] Árbol filogenético mostrando la
+--
+   endosimbiosis.^[57]​^[58]​ Los eucariotas cladisticamente se consideran
+   un clado más dentro de las arqueas.^[59]​ Las bacterias incorporadas a
+   las células hospedantes arqueanas, iniciaron un proceso de coevolución,
+   por el cual las bacterias originaron las mitocondrias o hidrogenosomas
+   en los eucariotas.^[60]​ También se postula que un virus gigante de ADN
+--
+   partir de una cianobacteria y un protozoo los cuales darían origen a
+   las algas rojas y algas verdes, posteriormente de algas verdes que
+   lograron salir del medio acuático evolucionaron las plantas durante el
+   Cámbrico. Por otra parte, las otras algas como las diatomeas o las
+   algas pardas obtuvieron sus cloroplastos por endosimbiosis secundarias
+--
+   espermatozoides animales y a las células de tipo coanocito que
+   presentan algunos animales que genéticamente son los protistas más
+   cercanos a los animales. Los hongos evolucionaron de protozoos
+   parasitarios ameboides que por causa de su parasitismo perdieron la
+   fagocitosis, reemplazandola por la osmosis y que tuvieron la tendencia
+--
+   agrupa en el clado Opisthokonta junto con los protozoos más cercanos a
+   ellos. Además sus células son uniflageladas y opistocontas similar a
+   los espermatozoides. Aunque los hongos más evolucionados como las setas
+   o los mohos carecen de flagelos en sus células, este se conserva en los
+   hongos más primitivos como los quitridios o los microsporidios, por lo
+   que los hongos evolucionaron de ancestros similares a los de los
+   animales.^[66]​^[67]​^[68]​ Los mohos mucilaginosos podrían ser un
+   mejor modelo de como se puede transitar de la vida unicelular a la
+--
+   algunos paleontólogos han sugerido que la biota de Ediacara representa
+   una rama completamente extinta, un «experimento fallido» de la vida
+   multicelular, y que la vida multicelular posterior volvió a evolucionar
+   más tarde a partir de organismos unicelulares no relacionados.^[74]​ En
+   cualquier caso, la evolución de los organismos pluricelulares ocurrió
+   en múltiples eventos independientes, en organismos tan diversos como
+   las esponjas, algas pardas, cianobacterias, hongos mucosos y
+--
+   los mamíferos, hace unos 200 millones de años, y las aves, hace
+   150 millones de años. Sin embargo, los organismos microscópicos,
+   similares a aquellos que evolucionaron tempranamente, continúan siendo
+   la forma de vida predominante en la Tierra, ya que la mayor parte de
+   las especies y la biomasa terrestre está constituida por
+   procariotas.^[81]​
+
+Historia del pensamiento evolucionista[editar]
+
+   Artículo principal: Historia del pensamiento evolucionista
+   [220px-Infograf%C3%ADa_Evoluci%C3%B3n_Francisca_Veas_y_Fernando_Baptist
+   a_UPV_EHU_Wikilariak.png] Infografía que resume la historia del
+   pensamiento evolucionista.[175px-Anaximander.jpg] Anaximandro, filósofo
+   griego, ofreció una idea más elaborada y mantuvo que «la base de toda
+   materia es una sustancia eterna que se transforma en todas las formas
+--
+   integraron al cristianismo.^[98]​ San Agustín toma una visión evolutiva
+   como base para su filosofía de la historia.^[99]​ Erigena y algunos de
+   sus seguidores parecen enseñar una especie de evolución.^[89]​ Tomás de
+   Aquino no detectó ningún conflicto en un universo divinamente creado y
+   desarrollado con el tiempo a través de mecanismos naturales,
+--
+   1895
+
+   Si bien la idea de la evolución biológica ha existido desde épocas
+   remotas y en diferentes culturas —por ejemplo, en la sociedad musulmana
+   la esbozaron en el siglo IX Al-Jahiz y en el siglo XIII Nasir al-Din
+--
+
+   Jean-Baptiste Lamarck (1744-1829) formuló la primera teoría de la
+   evolución o "transmutación"^[110]​ y propuso que los organismos, es
+   toda su variedad, habían evolucionado desde formas simples creadas por
+   Dios^[105]​ y postuló que los responsables de esa evolución habían sido
+   los propios organismos por su capacidad de adaptarse al ambiente: los
+   cambios en ese ambiente generaban nuevas necesidades en los organismos
+--
+
+   No fue sino hasta la publicación de El origen de las especies de
+   Charles Darwin cuando el hecho de la evolución comenzó a ser
+   ampliamente aceptado. Una carta de Alfred Russel Wallace, en la cual
+   revelaba su propio descubrimiento de la selección natural, impulsó a
+   Darwin a publicar su trabajo en evolución. Por lo tanto, a veces se les
+   concede a ambos el crédito por la teoría de la evolución, llamándola
+   también teoría de Darwin-Wallace.^[92]​
+
+--
+   funcional y anatomía trascendental. Gracias al trabajo del anatomista
+   británico Richard Owen, los dos puntos de vista empezaron a
+   reconciliarse, proceso completado en la teoría de la evolución de
+   Darwin.^[115]​^[116]​
+
+--
+   Davenport) y los biométricos (Walter Frank Raphael Weldon y Karl
+   Pearson), quienes insistían en que la mayoría de los caminos
+   importantes para la evolución debían mostrar una variación continua que
+   no era explicable a través del análisis mendeliano. Finalmente, los dos
+   modelos fueron conciliados y fusionados, principalmente a través del
+--
+   combinado, que aplica un modelo estadístico riguroso a las teorías de
+   Mendel de la herencia vía genes, se dio a conocer en los años 1930 y
+   1940 y se conoce como la teoría sintética de la evolución.^[118]​
+
+   En los años de la década de 1940, siguiendo el experimento de Griffith,
+--
+   la estructura del ADN, basado en la investigación de Rosalind Franklin
+   y Maurice Wilkins. Estos avances iniciaron la era de la biología
+   molecular y condujeron a la interpretación de la evolución como un
+   proceso molecular.^[cita requerida]
+
+   A mediados de la década de 1970, Motoo Kimura formuló la teoría
+   neutralista de la evolución molecular, estableciendo de manera firme la
+   importancia de la deriva génica como el principal mecanismo de la
+   evolución. Hasta la fecha continúan los debates en esta área de
+   investigación. Uno de los más importantes es acerca de la teoría del
+   equilibrio puntuado, una teoría propuesta por Niles Eldredge y Stephen
+--
+   Artículo principal: Darwinismo
+   [220px-Charles_Darwin_by_Julia_Margaret_Cameron%2C_c._1868.jpg] Charles
+   Darwin, padre de la teoría de la evolución por selección natural.
+   Fotografía de Julia Margaret Cameron.
+
+--
+
+   Darwin usó la expresión "descendencia con modificación" en lugar de
+   "evolución". En parte influenciado por Ensayo sobre el principio de la
+   población (1798) de Thomas Malthus, Darwin señaló que el crecimiento de
+   la población conduciría a una "lucha por la existencia" en la que
+--
+   quien falleció en 1882.^[128]​ Sin embargo, en su Origen de las
+   especies', Darwin fue el primero en resumir un conjunto coherente de
+   observaciones que solidificó el concepto de la evolución de la vida en
+   una verdadera teoría científica ―es decir, en un sistema de
+   hipótesis―.^[129]​
+--
+   hechos empíricos de la naturaleza.
+
+   2. Toda la vida evolucionó a partir de una o de pocas formas simples de
+   organismos.
+
+   3. Las especies evolucionan a partir de variedades preexistentes por
+   medio de la selección natural.
+
+   4. El nacimiento de una especie es gradual y de larga duración.
+
+   5. Los taxones superiores (géneros, familias, etc.) evolucionan a
+   través de los mismos mecanismos que los responsables del origen de las
+   especies.
+--
+   Artículo principal: Síntesis evolutiva moderna
+   [220px-Julian_Huxley_1964.jpg] Julian Huxley dio su nombre en 1942 a la
+   teoría sintética de la evolución, que hoy es ampliamente aceptada en la
+   comunidad científica.
+
+--
+   generaciones, la teoría sintética incorporó datos de campos diversos de
+   la biología, como la genética molecular, la sistemática y la
+   paleontología e introdujo nuevos mecanismos para la evolución. Por
+   estas razones, se trata de diferentes teorías aunque a veces se usen
+   los términos indistintamente.^[133]​^[134]​^[135]​
+--
+
+   Los términos «síntesis evolutiva» y «teoría sintética» fueron acuñados
+   por Julian Huxley en su libro Evolución: la síntesis moderna (1942), en
+   el que también introdujo el término Biología evolutiva en vez de la
+   frase «estudio de la evolución».^[136]​^[137]​ De hecho Huxley fue el
+   primero en señalar que la evolución «debía ser considerada el problema
+   más central y el más importante de la biología y cuya explicación debía
+   ser abordada mediante hechos y métodos de cada rama de la ciencia,
+--
+   La llamada «síntesis evolutiva moderna» es una robusta teoría que
+   actualmente proporciona explicaciones y modelos matemáticos de los
+   mecanismos generales de la evolución o los fenómenos evolutivos, como
+   la adaptación o la especiación. Como cualquier teoría científica, sus
+   hipótesis están sujetas a constante crítica y comprobación
+   experimental.^[cita requerida]
+     * Los entes dónde actúa la evolución son las poblaciones de
+       organismos y no los individuos. Theodosius Dobzhansky, uno de los
+       fundadores de la síntesis moderna, lo expresó la evolución del
+       siguiente modo: «La evolución es un cambio en la composición
+       genética de las poblaciones. El estudio de los mecanismos
+       evolutivos corresponde a la genética poblacional».^[139]​ Esta idea
+--
+
+     * La selección natural es la fuerza más importante que modela el
+       curso de la evolución fenotípica. En ambientes cambiantes, la
+       selección direccional es de especial importancia, porque produce un
+       cambio en la media de la población hacia un fenotipo nuevo que se
+--
+       aislamiento geográfico de la población fundadora es responsable del
+       origen de las nuevas especies en las islas y otros hábitats
+       aislados y es probable que la especiación alopátrica ―evolución
+       divergente de poblaciones que están geográficamente aisladas unas
+       de otras― sea el mecanismo de especiación predominante en el origen
+--
+
+     * Las transiciones evolutivas en estas poblaciones suelen ser
+       graduales, es decir, las nuevas especies evolucionan a partir de
+       las variedades preexistentes por medio de procesos lentos y en cada
+       etapa se mantiene su adaptación específica.^[cita requerida]
+
+     * La macroevolución ―la evolución filogenética por encima del nivel
+       de especie o la aparición de taxones superiores― es un proceso
+       gradual, paso a paso, que no es más que la extrapolación de la
+       microevolución ―el origen de las razas y variedades, y de las
+       especies―.^[cita requerida]
+
+--
+
+   El equilibrio puntuado se contrasta comúnmente con el gradualismo
+   filético, la idea de que la evolución ocurre generalmente de manera
+   uniforme y por la transformación constante y gradual de linajes
+   completos (llamada anagénesis). Desde este punto de vista, la evolución
+   se considera generalmente gradual y continua.^[148]​^[149]​
+   En 1972, los paleontólogos Niles Eldredge y Stephen Jay Gould
+--
+   pulso de cambio de Elisabeth Vrba apoya la teoría de Eldredge y Gould.
+
+Teoría neutralista de la evolución molecular[editar]
+
+   Esta sección es un extracto de Teoría neutralista de la evolución
+   molecular.[editar]
+
+   La teoría neutralista de la evolución molecular establece que la gran
+   mayoría de los cambios evolutivos a nivel molecular son causados por la
+   deriva genética de mutantes neutros en cuanto a la selección
+--
+   descrita en detalle en 1983 en su libro The Neutral Theory of Molecular
+   Evolution, y aunque fue recibida por algunos como un argumento contra
+   la teoría de Darwin de la evolución por medio de la selección natural,
+   Kimura mantuvo (con el acuerdo de la mayoría de quienes trabajan en
+   biología evolutiva) que las dos teorías son compatibles: "La teoría no
+   niega el papel de la selección natural en la determinación del curso de
+   la evolución adaptativa". En cualquier caso, la teoría atribuye un gran
+   papel a la deriva genética.
+
+--
+   embrionario y, por lo tanto, la forma de los cuerpos adultos. Estos
+   genes han sido altamente conservados a través de cientos de millones de
+   años de evolución.
+
+   La biología evolutiva del desarrollo (o informalmente evo-devo, del
+--
+   interés principal de esta nueva aproximación evolutiva es entender cómo
+   la forma orgánica (estructuras novedosas y nuevos patrones
+   morfológicos) evoluciona. De este modo, la evolución se define como el
+   cambio en los procesos de desarrollo.
+   El enfoque adoptado por la evo-devo es multidisciplinar, confluyendo
+--
+   sustancial de la variación entre fenotipos dentro de una población está
+   causada por las diferencias entre sus genotipos.^[159]​ La síntesis
+   evolutiva moderna define la evolución como el cambio de esa variación
+   genética a través del tiempo. La frecuencia de cada alelo fluctúa,
+   siendo más o menos prevalente en relación con otras formas alternativas
+--
+   los retos impuestos por el ambiente.^[168]​ Los virus, por ejemplo,
+   presentan una alta tasa de mutación,^[170]​ lo que supone una ventaja
+   adaptativa ya que deben evolucionar rápida y constantemente para
+   sortear a los sistemas inmunes de los organismos que afectan.^[171]​
+
+--
+   construir las estructuras necesarias para detectar la luz: tres para la
+   visión de los colores y uno para la visión nocturna. Los cuatro genes
+   han evolucionado a partir de un solo gen ancestral por duplicación y
+   posterior divergencia.^[177]​ Otros tipos de mutación pueden
+   ocasionalmente crear nuevos genes a partir del denominado ADN no
+--
+   tales como los transposones, constituyen una importante fracción del
+   material genético de plantas y animales y pueden haber desempeñado un
+   papel destacado en su evolución.^[185]​ Al insertarse en o escindirse
+   de otras partes del genoma estas secuencias pueden activar, inhibir,
+   eliminar o mutar otros genes y, por ende, crear nueva variabilidad
+--
+
+   Artículo principal: Recombinación genética
+   Véase también: Evolución del sexo
+
+   La recombinación genética es el proceso mediante el cual la información
+--
+   produciendo descendientes con combinaciones únicas de genes.^[188]​ La
+   recombinación generalmente incrementa la variabilidad genética y puede
+   aumentar también las tasas de evolución.^[189]​^[190]​^[191]​ No
+   obstante, la existencia de la reproducción asexual, tal como ocurre en
+   las plantas apomícticas o en los animales partenogenéticos, indica que
+--
+   Este costo del sexo fue expresado por primera vez en términos
+   matemáticos por John Maynard Smith.^[199]​^[198]​ Las razones de la
+   evolución de la reproducción sexual son todavía poco claras y es un
+   interrogante que constituye un área activa de investigación en Biología
+   evolutiva,^[200]​^[201]​ que ha inspirado ideas tales como la hipótesis
+--
+
+   Como se ha descrito previamente, desde un punto de vista genético la
+   evolución es un cambio intergeneracional en la frecuencia de los alelos
+   dentro de una población que comparte un mismo patrimonio
+   genético.^[203]​ Una población es un grupo de individuos de la misma
+--
+   por un alelo determinado recibe el nombre de frecuencia alélica, por
+   ejemplo, la fracción de polillas en la población que presentan el alelo
+   para color negro. La evolución tiene lugar cuando hay cambios en la
+   frecuencia alélica en una población de organismos que se reproducen
+   entre ellos, por ejemplo, si el alelo para color negro se hace más
+   común en una población de polillas.^[204]​
+
+   Para comprender los mecanismos que hacen que evolucione una población,
+   es útil conocer las condiciones necesarias para que la población no
+   evolucione. El principio de Hardy-Weinberg determina que la frecuencia
+   de los alelos de una población suficientemente grande permanecerá
+   constante solo si la única fuerza que actúa es la recombinación
+--
+   combinación de los mismos durante la fertilización.^[205]​ En ese caso,
+   la población se encuentra en equilibrio de Hardy-Weinberg y, por lo
+   tanto, no evoluciona.^[204]​
+
+Flujo genético[editar]
+--
+   fijación de mutaciones ligeramente deletéreas.^[221]​ Como resultado de
+   ello, los cambios en el tamaño de una población pueden influir
+   significativamente en el curso de la evolución. Los denominados
+   «cuellos de botella», o descensos drásticos temporarios del tamaño
+   efectivo de la población, suponen una pérdida o erosión de la
+--
+   otro oscuro llamado forma carbonaria. La forma typica, como su nombre
+   indica, es la más frecuente en esta especie. No obstante, durante la
+   revolución industrial en el Reino Unido los troncos de muchos árboles
+   sobre los que se posaban las polillas se ennegrecieron por el hollín,
+   lo que les daba las polillas de color oscuro una mayor oportunidad de
+--
+   irreversibilidad evolutiva»―.^[228]​ De acuerdo con esta hipótesis, una
+   estructura u órgano que se ha perdido o descartado durante el
+   transcurso de la evolución no volverá a aparecer en ese mismo linaje de
+   organismos.^[229]​^[230]​
+
+--
+   denominados transposones que intentan replicarse en todo el
+   genoma.^[240]​ La selección por encima del nivel del individuo, como la
+   selección de grupo, puede permitir la evolución de la
+   cooperación.^[241]​
+
+--
+   actualmente un campo de investigación en la biología evolutiva.^[244]​
+   Estas investigaciones fueron inspiradas por la teoría neutralista de la
+   evolución molecular, que postula que la mayoría de cambios evolutivos
+   son el resultado de la fijación de mutaciones neutras, que no tienen
+   ningún efecto inmediato sobre la aptitud de un organismo.^[245]​ Por
+--
+   deriva genética.^[246]​
+
+Las consecuencias de la evolución[editar]
+
+Adaptación[editar]
+--
+
+   La adaptación a veces implica la ganancia de una nueva característica;
+   ejemplos notables son la evolución en laboratorio de las bacterias
+   Escherichia coli para que puedan ser capaces de utilizar el ácido
+   cítrico como un nutriente, cuando las bacterias de tipo silvestre no lo
+   pueden hacer;^[259]​ la evolución de una nueva enzima en Flavobacterium
+   que permite que estas bacterias puedan crecer en los subproductos de la
+   fabricación del nailon;^[260]​^[261]​ y la evolución de una vía
+   metabólica completamente nueva en la bacteria del suelo Sphingobium que
+   le permite degradar el pesticida sintético
+--
+   de los organismos para generar diversidad genética y para adaptarse por
+   selección natural ―o sea, aumentarían la capacidad de
+   evolución―.^[265]​^[266]​
+   [350px-Whale_skeleton.png] Un esqueleto de ballena, a y b huesos de la
+   aleta, los cuales son adaptaciones de huesos de patas delanteras,
+--
+   Una rama de la biología evolutiva estudia el desarrollo de las
+   adaptaciones y de las exaptaciones.^[283]​ Esta área de investigación
+   aborda el origen y la evolución del desarrollo embrionario y cómo
+   surgen nuevas características a partir de modificaciones del
+   desarrollo.^[284]​ Estos estudios han demostrado, por ejemplo, que las
+--
+   los mamíferos.^[285]​ Cambios en los genes que controlan el desarrollo
+   también pueden causar que reaparezcan estructuras perdidas durante la
+   evolución, como por ejemplo, los dientes de embriones de pollos
+   mutantes, similares a los de los cocodrilos.^[286]​ De hecho, cada vez
+   es más claro que la mayoría de las alteraciones en la forma de los
+--
+   conservados.^[287]​
+
+Coevolución[editar]
+
+   Artículo principal: Coevolución
+
+   La interacción entre organismos puede producir conflicto o cooperación.
+   Cuando interactúan dos especies diferentes, como un patógeno y un
+   hospedador, o un depredador y su presa, la evolución de una de ellas
+   causa adaptaciones en la otra; estos cambios en la segunda especie
+   causan, a su vez, nuevas adaptaciones en la primera. Este ciclo de
+   selección y respuesta recibe el nombre de coevolución.^[288]​ Un
+   ejemplo es la producción de tetradotoxina por parte del tritón de
+   Oregón y la evolución de la resistencia a esta toxina en su predador,
+   la serpiente de jarretera. En esta pareja predador-presa, la carrera
+   armamentista evolutiva (Hipótesis de la Reina Roja) ha tenido como
+   resultado una elevada producción de toxina en el tritón, y un aumento
+   correspondiente de resistencia a ella en la serpiente.^[289]​ Un
+   ejemplo de coevolución que no involucra competencia (Hipótesis del Rey
+   Rojo) son las interacciones simbióticas y mutualistas entre las
+   micorrizas y las raíces de las plantas o las abejas y las plantas que
+   polinizan. Otro ejemplo de entidad que coevoluciona con su huésped son
+   los virus con las células. Las células suelen desarrollar defensas en
+   su sistema inmune para evitar infecciones virales, sin embargo los
+   virus deben mutar rápidamente para poder evitar dichas defensas
+   celulares o el sistema inmune del huésped. Por tanto, los virus son las
+   únicas entidades que evolucionan más rápidamente que cualquier otra
+   para su existencia. Los virus son entidades que solamente pueden
+   evolucionar y sobrevivir en las células. Según estudios recientes han
+   venido coevolucionando con las células desde sus orígenes (protobionte)
+   y por ello su origen es anterior al del último antepasado común
+   universal. Los virus pudieron en surgir en esos protobiontes o antes,
+--
+   (elemento genético móvil) y regular la población de determinados
+   organismos celulares. De hecho nuevos tipos de virus también pudieron
+   ir surgiendo durante diferentes etapas de la evolución, mediante
+   diversos mecanismos moleculares como recombinaciones entre elementos
+   genéticos móviles con otros virus. Incluso pueden saltar entre diversos
+--
+   características comunes a dicha especie. En su lugar, una especie se
+   concibe ahora como un linaje que comparte un único acervo genético y
+   evoluciona independientemente. Según esta descripción, los límites
+   entre especies son difusos, a pesar de que se utilizan propiedades
+   tanto genéticas como morfológicas para ayudar a diferenciar entre
+--
+   coloniza un nuevo hábitat, pero se diferencia en que no hay ninguna
+   separación física entre las dos poblaciones. En cambio, la especiación
+   es el resultado de la evolución de mecanismos que reducen el flujo
+   génico entre ambas poblaciones.^[293]​ Generalmente, esto ocurre cuando
+   ha habido un cambio drástico en el medio dentro del hábitat de la
+--
+   sufrir una especiación parapátrica en respuesta a contaminación
+   metálica localizada proveniente de minas.^[302]​ En este caso,
+   evolucionan plantas con una resistencia a niveles altos de metales en
+   el suelo; el aislamiento reproductivo ocurre porque la selección
+   favorece una época de floración distinta a la de las especie madre para
+--
+   las diferencias genéticas entre partes de una población.^[304]​ En
+   general, en los animales, la especiación simpátrica requiere la
+   evolución de diferencias genéticas y un apareamiento no aleatorio, para
+   que se pueda desarrollar un aislamiento reproductivo.^[305]​
+
+--
+   largos de estasis, durante los que las especies permanecen
+   prácticamente sin modificar.^[7]​ En esta la teoría, la especiación
+   está relacionada con la evolución rápida, y la selección natural y la
+   deriva genética actúan de forma particularmente intensa sobre los
+   organismos que sufren una especiación en hábitats nuevos o pequeñas
+   poblaciones. Como resultado de ello, los períodos de estasis del
+   registro fósil corresponden a la población madre, y los organismos que
+   sufren especiación y evolución rápida se encuentran en poblaciones
+   pequeñas o hábitats geográficamente restringidos, por lo que raramente
+   quedan preservados en forma de fósiles.^[311]​
+--
+
+   Las causas de la extinción determinan su impacto en la
+   evolución.^[315]​ Las mayoría de las extinciones, que tienen lugar
+   continuamente, podrían ser el resultado de la competencia entre
+   especies por recursos limitados (exclusión competitiva).^[3]​ Si la
+--
+   son importantes, pero en lugar de actuar como fuerza selectiva, reducen
+   drásticamente la diversidad de manera indiscriminada y promueven
+   explosiones de rápida evolución y especiación en los
+   supervivientes.^[319]​
+
+Microevolución y macroevolución[editar]
+
+   Artículos principales: Microevolución y Macroevolución.
+
+   Microevolución es un término usado para referirse a cambios en pequeña
+   escala de las frecuencias génicas en una población durante el
+   transcurso de varias generaciones. La adaptación de los insectos al uso
+   de plaguicidas o la variación del color de piel de los humanos son
+   ejemplos de microevolución.^[320]​^[321]​ Estos cambios pueden deberse
+   a varios procesos: mutación, flujo génico, deriva génica o selección
+   natural.^[320]​ La genética de poblaciones es una rama de la biología
+   evolutiva aplica métodos bioestadísticos al estudio de los procesos de
+   la microevolución, como el color de la piel en la población
+   mundial.^[cita requerida]
+
+   Los cambios a mayor escala, desde la especiación hasta las grandes
+   transformaciones evolutivas ocurridas en largos períodos, son
+   comúnmente denominados macroevolución. La evolución de los anfibios a
+   partir de un grupo de peces óseos es un ejemplo de macroevolución. Los
+   biólogos no acostumbran hacer una separación absoluta entre
+   macroevolución y microevolución, pues consideran que macroevolución es
+   simplemente microevolución acumulada durante escalas de tiempo
+   grandes.^[322]​ Una minoría de teóricos, sin embargo, considera que los
+   mecanismos de la teoría sintética para la microevolución no bastan para
+   hacer esa extrapolación y que se necesitan otros mecanismos. La teoría
+   de los equilibrios puntuados, propuesta por Gould y Eldredge, intenta
+--
+   síntesis moderna.
+
+Paleobiología y tasas de evolución[editar]
+
+                            CAPTION: Longevidades promedio de las especies
+--
+                                    Gimnospermas. Coníferas y cícadas 54
+
+   En el momento en que Darwin propuso su teoría de evolución,
+   caracterizada por modificaciones pequeñas y sucesivas, el registro
+   fósil disponible era todavía muy fragmentario y no se habían hallado
+--
+   preocupaba la carencia de formas intermedias o enlaces conectores en el
+   registro fósil, lo cual desafiaba su visión gradualística de la
+   especiación y de la evolución. De hecho en tiempos de Darwin, con la
+   excepción de Archaeopteryx, que muestra una mezcla de características
+   de ave y de reptil, virtualmente no se conocían otros ejemplos de
+--
+   En resumen, la hipótesis de los trastornos ambientales como causas de
+   las extinciones masivas ha sido confirmada, lo cual indica que si bien
+   gran parte de historia de la evolución puede ser gradual, de vez en
+   cuando ciertos acontecimientos catastróficos han marcado su ritmo de
+   fondo. Es evidente que los pocos «afortunados sobrevivientes»
+   determinan los subsecuentes patrones de evolución en la historia de la
+   vida.^[3]​^[315]​
+
+Selección sexual y altruismo[editar]
+
+   Artículos principales: Atracción sexual, Cooperación (evolución) y
+   Altruismo biológico.
+   [220px-Pavo_Real.JPG] Pavo real macho con todo su plumaje desplegado
+--
+   transcurso de las generaciones― la selección de machos que pueden
+   hinchar los cuellos hasta un nivel extraordinario. Darwin concluyó que
+   si bien la selección natural guía el curso de la evolución, la
+   selección sexual influye su curso aunque no parezca existir ninguna
+   razón evidente para ello. Los argumentos de Darwin a favor de la
+--
+   la enorme cornamenta de los ciervos son cargas incómodas en el mejor de
+   casos. Darwin sabía que no era esperable que la selección natural
+   favoreciera la evolución de tales rasgos claramente desventajosos, y
+   propuso que los mismos surgieron por selección sexual,
+
+--
+   humana y animal en su libro El apoyo mutuo, donde declaró que la
+   asociación ofrece las mejores perspectivas de desarrollo para las
+   especies.^[363]​^[364]​ Kropotkin acuñó el término evolución progresiva
+   para describir cómo la ayuda mutua se convirtió en la condición sine
+   qua non de toda la vida social, animal y humana.^[365]​
+--
+   eusociales, como las hormigas, abejas y avispas, que tienen una clase
+   de trabajadoras estériles. La respuesta a la cuestión general de la
+   evolución del altruismo, de la sociabilidad de ciertos insectos o de la
+   existencia de abejas u hormigas obreras que no dejan descendientes
+   proviene de la teoría de la aptitud inclusiva, también llamada teoría
+--
+   familiar.^[367]​^[368]​^[369]​
+
+  Macroevolución, monstruos prometedores y equilibrio puntuado[editar]
+
+   Artículos principales: Monstruo prometedor y Equilibrio puntuado.
+
+   Cuando se define macroevolución como el proceso responsable del
+   surgimiento de los taxones de rango superior, se está utilizando un
+   lenguaje metafórico. En sentido estricto, solo «surgen» nuevas
+   especies, ya que la especie es el único taxón que posee estatus
+   ontológico.^[370]​ La macroevolución da cuenta de la emergencia de
+   discontinuidades morfológicas importantes entre grupos de especies,
+   razón por la cual se las clasifica como grupos marcadamente
+--
+   con relación a la divergencia morfológica a través del tiempo.
+
+   El gradualismo es el modelo macroevolucionista ortodoxo. Explica la
+   macroevolución como el producto de un cambio lento, de la acumulación
+   de muchos pequeños cambios en el transcurso del tiempo. Este cambio
+   gradual debería reflejarse en el registro fósil con la aparición de
+--
+   registro fósil de una especie reflejarían el momento en que esta fue
+   reemplazada por una pequeña población periférica ―en la cual el ritmo
+   de evolución habría sido más rápido― que compitió con la especie
+   originaria y terminó por sustituirla. De acuerdo con este patrón, la
+   selección natural no solo opera dentro de la población, sino también
+--
+   grupos de organismos. La frase fue acuñada por el genetista alemán
+   Richard Goldschmidt, quien pensaba que los cambios pequeños y graduales
+   que dan lugar a la microevolución no pueden explicar la macroevolución.
+   La relevancia evolutiva de los monstruos prometedores ha sido rechazada
+   o puesta en duda por muchos científicos que defienden la Teoría
+   sintética de evolución biológica.^[371]​ En su obra The material basis
+   of evolution (La base material de la evolución), Goldschmidt escribió
+   que «el cambio desde una especie a otra no es un cambio que no implica
+   más y más cambios atomísticos, sino una modificación completa del
+--
+   No obstante, varias líneas de evidencia sugieren que los monstruos
+   prometedores juegan un papel significativo durante el origen de
+   innovaciones clave y de planes corporales noveles por evolución
+   saltacional, más que por evolución gradual.^[371]​ Stephen Jay Gould
+   expuso en 1977 que los genes o secuencias reguladoras ofrecían cierto
+   apoyo a los postulados de Goldschmidt. De hecho, arguyó que los
+   ejemplos de evolución rápida no minan el darwinismo ―como Goldschmidt
+   suponía―, pero tampoco merecen un descrédito inmediato, como muchos
+   neodarwinistas pensaban.^[374]​ Gould insistió en que la creencia de
+   Charles Darwin en el gradualismo no fue jamás un componente esencial de
+   su teoría de evolución por selección natural. Thomas Henry Huxley
+   también advirtió a Darwin que había sobrecargado su trabajo con una
+   innecesaria dificultad al adoptar sin reservas el principio Natura non
+--
+
+   Como un darwinista, deseo defender el postulado de Goldschmidt de que
+   la macroevolución no es simplemente la microevolución extrapolada y que
+   las grandes transiciones estructurales pueden ocurrir rápidamente sin
+   una serie suave de estados intermedios... En su libro de 1940,
+--
+   potenciales fabricantes de monstruos prometedores.^[374]​
+
+  La síntesis de la biología del desarrollo y la teoría de la evolución[editar]
+
+   [220px-Mousehoxgenes.png] Genes HOX en ratones
+--
+   la biología evolutiva se han unido para formar una nueva rama de la
+   investigación biológica llamada Biología evolutiva del desarrollo o,
+   coloquialmente, «Evo-devo», que explora cómo han evolucionado los
+   procesos del desarrollo y cómo ha surgido la organización de las
+   diversas partes del cuerpo de los organismos antiguos y
+--
+
+   El principal descubrimiento responsable de la integración de la
+   biología del desarrollo con la teoría de la evolución fue el de un
+   grupo de genes reguladores, la familia de genes homeóticos (genes HOX).
+   Estos genes codifican proteínas de unión al ADN (factores de
+--
+   homeótico (HOM-C) de Drosophila melanogaster. Sobre la base de la
+   comparación de genes de varios taxones, se ha logrado reconstruir la
+   evolución de los grupos de genes HOX en vertebrados. Los 39 genes que
+   comprenden la familia de genes HOX en humanos y ratones, por ejemplo,
+   están organizados en cuatro complejos genómicos localizados en
+--
+   arquitectura de sus genes HOX son idénticas.^[381]​ Por lo tanto, la
+   familia de genes HOX es muy antigua y aparentemente muy conservada, lo
+   que tiene profundas implicaciones para la evolución de los patrones y
+   procesos de desarrollo.^[381]​^[376]​^[378]​
+
+--
+   Artículo principal: Transferencia horizontal de genes
+
+   Las primeras teorías evolucionistas prácticamente ignoraron la
+   microbiología, debido a la escasez de rasgos morfológicos y la falta de
+   un concepto de especie particularmente entre los procariotas.^[382]​
+--
+   contribuido a comprender mejor la fisiología y ecología de estos
+   organismos y a facilitar la investigación de su la taxonomía y
+   evolución.^[383]​ Estos estudios han revelado niveles de diversidad
+   totalmente inesperados entre los microbios.^[384]​^[81]​
+
+--
+   y, al albor de un mejor conocimiento de los genomas, ha surgido la
+   teoría de que la importancia de la transferencia horizontal de material
+   genético en la evolución no se limita a los microorganismos, sino que
+   alcanza a todos los seres vivos.^[387]​ La transferencia horizontal de
+   genes en los seres vivos se da principalmente a través de unos
+--
+   efecto, como parte de la teoría endosimbiótica del origen de los
+   orgánulos, la transferencia horizontal de genes fue un paso crítico en
+   la evolución de eucariotas como los hongos, las plantas y los
+   animales.^[392]​^[393]​
+
+--
+   Véase también: Simbiogénesis
+
+   La evolución de los primeros eucariontes desde los procariotas ha
+   recibido una considerable atención por parte de los científicos.^[394]​
+   Este acontecimiento clave en la historia de la vida se produjo entre
+--
+   hipótesis no excluyentes mutuamente para explicar el origen de los
+   eucariotas: la endosimbiosis y la autogénesis. La hipótesis o teoría de
+   la endosimbiosis postula que la evolución de las primeras células
+   eucariotas es el resultado de la incorporación permanente en una célula
+   hospedadora arqueana de lo que fueron células procariotas
+   fisiológicamente diferentes y autónomas. De acuerdo con este concepto,
+   las mitocondrias han evolucionado a partir de una antigua
+   alfaproteobacteria aerobia, mientras que los cloroplastos provienen de
+   células procariotas del tipo de las cianobacterias. También es probable
+--
+   Según la hipótesis fagotrófica, la pérdida de la pared celular que
+   permitió la fagocitosis también podría haber permitido la reproducción
+   sexual muy tempranamente en la historia de la evolución biológica, ya
+   que no se tienen registros de que haya existido eucariontes primitivos
+   asexuales. El citoesqueleto, los motores moleculares y el sistema de
+   endomembranas también facilitan la reproducción sexual. Es así como la
+   reproducción sexual evolucionó hasta el proceso que es hoy, esto es,
+   meiosis seguida de fertilización; y se producen gametos (el producto de
+   la meiosis) en las eucariontes más primitivos que existen en la
+--
+   "genes móviles", el plásmido F.^[400]​ Por otra parte se ha planteado
+   que el ciclo celular moderno, por el cual la mitosis, la meiosis y el
+   sexo ocurren en todos los eucariotas, evolucionó debido al equilibrio
+   alcanzado por los virus, que característicamente siguen un patrón de
+   compensación entre infectar a tantos huéspedes como sea posible y matar
+--
+
+   Una tercera teoría menos aceptada, dice que el sexo podría haber
+   evolucionado como una forma de canibalismo. Un organismo primitivo se
+   comió a otro pero, en lugar de digerirlo completamente, parte del ADN
+   del organismo 'comido' se habría incorporado al organismo
+--
+   más las características ambientales generadas por las acciones
+   ecológicas de los antepasados.^[406]​ Otros ejemplos de heredabilidad
+   en la evolución que no están bajo el control directo de los genes
+   incluyen la herencia de rasgos culturales y
+   simbiogénesis.^[407]​^[408]​
+
+Otras teorías de la evolución y críticas científicas de la teoría
+sintética[editar]
+
+   Artículo principal: Objeciones a la teoría de la evolución
+
+   Richard Dawkins, en su obra El gen egoísta de 1976, hizo la siguiente
+   afirmación:
+
+   Hoy la teoría de la evolución está tan sujeta a la duda como la teoría
+   de que la Tierra gira alrededor del Sol.^[409]​
+
+   Aunque la evolución biológica es aceptada como un hecho desde el
+   siglo XVIII, su explicación científica ha suscitado muchos
+   debates.^[410]​ La teoría denominada síntesis evolutiva moderna (o
+--
+   consecuencia de interacciones simbiogenéticas similares. En su obra
+   Captando Genomas. Una teoría sobre el origen de las especies Margulis
+   argumentó que la simbiogénesis es la fuerza principal en la evolución.
+   Según su teoría, la adquisición y acumulación de mutaciones al azar no
+   son suficientes para explicar cómo se producen variaciones
+--
+   especies surgieron como el resultado de la simbiogénesis.^[396]​
+   Mientras que la síntesis evolutiva moderna hace hincapié en la
+   competencia como la principal fuerza detrás de la evolución, Margulis
+   propuso que la cooperación es motor del cambio evolutivo.^[416]​
+   Argumenta que las bacterias, junto con otros microorganismos, ayudaron
+--
+   Igualmente, Máximo Sandín rechazó vehementemente cualquiera de las
+   versiones del darwinismo presentes en la actual teoría y propuso una
+   hipótesis alternativa para explicar la evolución. En primer lugar,
+   justiprecia la obra de Lamarck, y sugiere que las hipótesis o
+   predicciones, conocidas como Lamarckismo, realizadas por este biólogo
+--
+Experimentos y estudios sobre el proceso evolutivo[editar]
+
+   Artículo principal: Evolución biológica experimental
+
+  Observación directa del proceso evolutivo en bacterias[editar]
+
+   Richard Lenski, profesor de la Universidad Estatal de Míchigan, inició
+   en 1989 un experimento para estudiar la evolución de las bacterias,
+   propiciado por la rápida reproducción de estos microorganismos. Lenski
+   estableció varios subcultivos a partir de una cepa de Escherichia coli,
+--
+   comenzaron a consumir el citrato presente en el medio DM y que E. coli
+   no es normalmente capaz de metabolizar. Por lo tanto, las bacterias en
+   ese subcultivo evolucionaron para adaptarse y crecer mejor en las
+   condiciones de su ambiente.Otro cambio evolutivo importante se produjo
+   pasadas veinte mil generaciones: las bacterias de un segundo subcultivo
+--
+   investigaron diferentes microorganismos: Pseudomonas fluorescens,
+   Myxococcus xanthus, e incluso levaduras. En todos ellos se encontraron
+   resultados parecidos: los microorganismos cambiaban, evolucionaban y se
+   adaptaban a las condiciones del cultivo.^[cita requerida]
+
+  Simulación computarizada del proceso de evolución biológica[editar]
+
+   Salvo excepciones, la evolución biológica es un proceso demasiado lento
+   para ser observado directamente. Por ello se recurre a disciplinas como
+   la Paleontología, Biología evolutiva o Filogenia, entre otras áreas,
+   para lo observación y el estudio indirecto de la evolución. Desde la
+   última década del siglo XX, el desarrollo de la bioinformática ha
+   propiciado el uso de herramientas informáticas para el estudio de
+--
+
+   Una de las aplicaciones de las herramientas informáticas al estudio de
+   la evolución, consiste en la simulación in silico del proceso
+   evolutivo, usando organismos digitales, una serie de programas que
+   utilizan los recursos disponibles en el procesador para sobrevivir y
+   reproducirse. Un ejemplo de esta aplicación es el programa Tierra,
+   desarrollado en 1990 por el ecólogo Thomas Ray para el estudio de la
+   evolución y la ecología.^[434]​^[435]​ Herramientas semejantes se
+   utilizan para investigar la base evolutiva de conductas como el
+   altruismo, la tasa de mutaciones, y la genética de
+--
+Reacciones sociales y culturales[editar]
+
+   Artículo principal: Objeciones a la teoría de la evolución
+
+   [150px-Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_%281871%29.
+--
+   década de 1870, se hicieron caricaturas de Charles Darwin con un cuerpo
+   de simio o mono como una forma de argumento ad hominem para
+   desacreditar la teoría de la evolución.^[436]​
+
+   En el siglo XIX, especialmente tras la publicación de El origen de las
+   especies, la idea de que la vida había evolucionado fue un tema de
+   intenso debate académico centrado en las implicaciones filosóficas,
+   sociales y religiosas de la evolución. Hoy en día, el hecho de que los
+   organismos evolucionan es indiscutible en la literatura científica, y
+   la síntesis evolutiva moderna tiene una amplia aceptación entre los
+   científicos.^[3]​ Sin embargo, la evolución sigue siendo un concepto
+   controvertido entre los grupos religiosos.^[437]​ Los biólogos
+   evolutivos han continuado estudiando varios aspectos de la evolución
+   mediante la formulación de hipótesis, así como la construcción de
+   teorías basadas en evidencia de campo o laboratorio y en datos
+--
+   fijistas de algunas posturas religiosas y místicas y, de hecho, algunos
+   conceptos, como el de la descendencia de un ancestro común, aún
+   suscitan rechazo en algunas personas,^[90]​ que creen que la evolución
+   contradice con el mito de creación en su religión.^[438]​^[439]​^[440]​
+   Como fuera reconocido por el propio Darwin, las repercusiones más
+--
+   hombre.^[129]​ En algunos países ―notoriamente en los Estados Unidos―
+   esta tensión entre la ciencia y la religión ha alimentado la
+   controversia creación–evolución, un conflicto religioso que aún dura,
+   centrado en la política y la educación pública.^[441]​ Mientras que
+   otros campos de la ciencia, como la cosmología,^[442]​ y las ciencias
+--
+   historia del pensamiento moderno y la relación de este con la sociedad,
+   debido a la naturaleza no teleológica de los mecanismos evolutivos: la
+   evolución no sigue un fin u objetivo. Las estructuras y especies no
+   «aparecen» por necesidad ni por designio divino sino que a partir de la
+   variedad de formas existentes solo las más adaptadas se conservan en el
+--
+   explorado en otras ramas del saber.^[cita requerida]
+
+   Véase también: Efectos sociales de la teoría de la evolución
+
+  Evolución y política[editar]
+
+   La adopción de la perspectiva evolutiva para abordar problemas en otros
+--
+   justificativo de posturas eugenéticas― las cuales han sido usadas como
+   «Argumentum ad consequentiam» a través de la historia de las objeciones
+   a la teoría de la evolución.^[445]​
+
+   Por ejemplo, Francis Galton utilizó argumentos eugenésicos para
+--
+   esterilización forzosa, pruebas prenatales, contracepción e, incluso,
+   la eliminación de las personas con «malos» genes.^[446]​ Otro ejemplo
+   de este uso de la teoría de la evolución es el darwinismo social,
+   concebida por Herbert Spencer, que popularizó el término de
+   «supervivencia del más apto» y que se utilizó para justificar el
+--
+
+   Por otro lado, los filósofos comunistas Karl Marx y Friedrich Engels
+   vieron en la nueva comprensión biológica de la evolución por selección
+   natural de Darwin como esencial para la nueva interpretación del
+   socialismo científico,^[455]​^[456]​^[457]​ ya que, según Marx, sirve
+--
+   aplicación de los implementos de trabajo desempeñó un papel decisivo en
+   la diferenciación del hombre respecto del mundo animal.^[460]​ Engels
+   también recurrió a la teoría de la evolución social de Lewis H. Morgan
+   en su obra El origen de la familia, la propiedad privada y el estado.
+   Según Alexander Vucinich, "Engels dio crédito a Marx por extender la
+--
+   El conflicto entre compatibilizar la teoría marxista y el darwinismo
+   siguió durante siglo XX. En Materialismo y empiriocriticismo, Lenin
+   sostuvo la convergencia de las leyes de la evolución de la política
+   económica (Marx), de la biología (Darwin) y de la física (Hermann von
+   Helmholtz). El biólogo evolutivo J. B. S. Haldane, uno de los
+--
+   Iósif Stalin, la genética fue oficialmente declarada como una
+   “pseudociencia burguesa”). No obstante, la concepción marxista aplicada
+   a las ciencias naturales y a la evolución fue defendida por el ecólogo
+   Richard Levins y el biólogo Richard Lewontin en el libro El biólogo
+   dialéctico.^[466]​
+--
+   ideológico de la izquierda y debe incorporarse a él.^[467]​
+
+  Evolución y religión[editar]
+
+   Artículos principales: Creacionismo, Diseño inteligente y Evolución
+   teísta.
+
+
+   Diferencias religiosas sobre la cuestión de la evolución en Estados
+   Unidos (2007)
+   Porcentaje que creen que la evolución es la mejor explicación del
+   origen de la humanidad
+   %
+--
+   evolutiva, particularmente por parte de cristianos fundamentalistas
+   evangélicos o pentecostales. A pesar de la abrumadora evidencia de la
+   teoría de la evolución,^[470]​ algunos grupos consideran verdadera la
+   descripción bíblica de la creación de los seres humanos y de cada una
+   de las otras especies, como especies separadas y acabadas, por un ser
+--
+   inteligente».^[cita requerida]
+
+   Los oponentes de la evolución obtuvieron una victoria en el "Scopes
+   Monkey Trial (Juicio del mono Scopes)" de 1925 cuando la Legislatura de
+   Tennessee aprobó una ley que convierte en delito enseñar "cualquier
+--
+   enseña en la Biblia". Mientras tanto, a finales de la década de 1960,
+   la Corte Suprema de Estados Unidos emitió severas restricciones a los
+   gobiernos estatales que se oponían a la enseñanza de la evolución. En
+   1968, en el juicio Epperson v. Arkansas, el tribunal superior anuló una
+   ley de Arkansas que prohibía la enseñanza de la evolución en las
+   escuelas públicas.^[448]​
+
+   Los «lobbies» religiosos-creacionistas desean excluir la enseñanza de
+   la evolución biológica de la educación pública de ese país; aunque
+   actualmente es un fenómeno más bien local, ya que la enseñanza de base
+   en ciencias es obligatoria dentro de los currículos, las encuestas
+--
+   en 2005 en el juicio que se realizó en una corte federal de Estados
+   Unidos contra un distrito escolar de Dover, Pensilvania, que exigía la
+   explicación del diseño inteligente como una alternativa a la evolución.
+   En ese año el Consejo de Educación del Estado de Kansas (en inglés:
+   Kansas State Board of Education) decidió permitir que se enseñaran las
+   doctrinas creacionistas como una alternativa de la teoría científica de
+   la evolución.^[471]​ Tras esta decisión se produjo una fuerte respuesta
+   ciudadana, que tuvo una de sus consecuencias más conocidas en la
+   creación de una parodia de religión, el pastafarismo, una invención de
+--
+   [...] una visión religiosa, un mero re-etiquetado del creacionismo y no
+   una teoría científica" y concluyó declarando como "inconstitucional
+   enseñar DI como una alternativa a la evolución en un aula de ciencias
+   de una escuela pública."^[472]​ Posteriormente, el Consejo de Educación
+   del Estado de Kansas revocó su decisión en agosto de 2006.^[473]​ Este
+   conflicto educativo también ha afectado a otros países; por ejemplo, en
+   el año 2005 en Italia hubo un intento de suspensión de la enseñanza de
+   la teoría de la evolución.^[474]​^[475]​
+
+   En respuesta a las pruebas científicas de la teoría de la evolución,
+   muchos religiosos y filósofos han tratado de unificar los puntos de
+   vista científico y religioso, ya sea de manera formal o informal; a
+   través de un «creacionismo proevolución». Así por ejemplo algunos
+   religiosos han adoptado un enfoque creacionista desde la evolución
+   teísta o el creacionismo evolutivo, y defienden que Dios provee una
+   chispa divina que inicia el proceso de la evolución, y (o) donde Dios
+   creó el curso de la evolución.^[cita requerida] Entre los científicos
+   cristianos contemporáneos que aceptan la evolución se encuentran el
+   biólogo Kenneth Miller y el genetista Francis Collins.^[25]​ El propio
+   Darwin usó de ejemplo al botánico Asa Gray y afirmó:
+
+   Me parece absurdo dudar de que un hombre pueda ser un ardiente teísta y
+   un evolucionista... Nunca he sido ateo en el sentido de negar la
+   existencia de un Dios.^[476]​
+
+   A partir de 1950 la Iglesia católica tomó una posición neutral con
+   respecto a la evolución con la encíclica Humani generis del papa Pío
+   XII.^[477]​ En ella se distingue entre el alma, tal como fue creada por
+   Dios, y el cuerpo físico, cuyo desarrollo puede ser objeto de un
+--
+   actual de las ciencias y la teología― en las investigaciones y
+   disputas, entre los hombres más competentes de entrambos campos, sea
+   objeto de estudio la doctrina del evolucionismo, en cuanto busca el
+   origen del cuerpo humano en una materia viva preexistente ―pero la fe
+   católica manda defender que las almas son creadas inmediatamente por
+   Dios―. Mas todo ello ha de hacerse de manera que las razones de una y
+   otra opinión ―es decir la defensora y la contraria al evolucionismo―
+   sean examinadas y juzgadas seria, moderada y templadamente; y con tal
+   que todos se muestren dispuestos a someterse al juicio de la Iglesia, a
+--
+
+   Por otro lado, la encíclica no respalda ni rechaza la creencia general
+   en la evolución debido a que se consideró que la evidencia en aquel
+   momento no era convincente. Permite, sin embargo, la posibilidad de
+   aceptarla en el futuro:
+--
+   Sagrada Escritura o en la tradición.^[479]​
+
+   En 1996, Juan Pablo II afirmó que «la teoría de la evolución es más que
+   una hipótesis» y recordó que «el Magisterio de la Iglesia está
+   interesado directamente en la cuestión de la evolución, porque influye
+   en la concepción del hombre».^[480]​ El papa Benedicto XVI ha afirmado
+   que «existen muchas pruebas científicas en favor de la evolución, que
+   se presenta como una realidad que debemos ver y que enriquece nuestro
+   conocimiento de la vida y del ser como tal. Pero la doctrina de la
+   evolución no responde a todos los interrogantes y sobre todo no
+   responde al gran interrogante filosófico: ¿de dónde viene todo esto y
+   cómo todo toma un camino que desemboca finalmente en el
+--
+   Creador». En cuanto en el judaísmo, la Conferencia Central de Rabinos
+   Americanos declaró que «la ignorancia de los estudiantes sobre la
+   evolución socavará seriamente su comprensión del mundo y las leyes
+   naturales que lo gobiernan, y su introducción a otras explicaciones
+   descritas como 'científicas' les dará ideas falsas sobre métodos y
+   criterios científicos».^[25]​
+
+   La reacción musulmana a la teoría de la evolución fue sumamente
+   variada, desde aquellos que creían en una interpretación literal de la
+   creación según el Corán, hasta la de muchos musulmanes educados que
+   suscribieron una versión de evolución teísta o guiada, en la que el
+   Corán reforzaba más que contradecía a la ciencia. Esta última reacción
+   se vio favorecida debido a que Al-Jahiz, un erudito musulmán del
+   siglo IX, había propuesto un concepto similar al de la selección
+   natural.^[482]​ Sin embargo, la aceptación de la evolución sigue siendo
+   baja en el mundo musulmán ya que figuras prominentes rechazan la teoría
+   evolutiva como una negación de Dios y como poco fiable para explicar el
+--
+   relojero de William Paley, un argumento de diseño todavía utilizado por
+   el movimiento creacionista. Cuando la teoría de Darwin se publicó, las
+   ideas de la evolución teísta se presentaron de modo de indicar que la
+   evolución es una causa secundaria abierta a la investigación
+   científica, al tiempo que mantenían la creencia en Dios como causa
+   primera, con un rol no especificado en la orientación de la evolución y
+   en la creación de los seres humanos.^[485]​
+
+Véase también[editar]
+
+     * Evolución experimental
+     * Evolución humana
+     * Evolución convergente
+     * Evidencia de antepasado común
+     * Selección natural
+--
+       the Proceedings of the Linnean Society of London. Zoology 3:
+       45-62.
+   16. ↑ Cordón, Faustino (1982). La evolución conjunta de los animales y
+       su medio. Anthropos Editorial. p. 15. ISBN 9788485887064.
+   17. ↑ ^a ^b Darwin, Charles (1859), On the origin of species by means
+--
+       struggle for life (1.ª edición), Londres: John Murray .
+   18. ↑ BBC Mundo (10 de marzo de 2019): Al-Jahiz, el filósofo musulmán
+       que tuvo la idea de la evolución 1.000 años antes que Darwin. BBC
+       Mundo. Consultado el 10 de marzo de 2019. [En esta fuente hay una
+       errata obvia en la fecha de nacimiento de Al-Jahiz, el año 77, el
+       correcto es ca. 776]
+   19. ↑ Álvarez, Fernando (2007). «“El Libro de los Animales” de
+       al-Jahiz, un esbozo evolucionista del siglo IX». eVOLUCIÓN 2 (1):
+       25-29.
+   20. ↑ ^a ^b Mayr, E. (1993) «What was the evolutionary synthesis?»
+--
+       University Press. ISBN 0-674-00613-5.
+   112. ↑ Moya, A. (1989): Sobre la estructura de la teoría de la
+       evolución. Editorial Anthropos, S. A. Servicio Editorial de la
+       Universidad del País Vasco. Nueva ciencia, 5. 174 págs. ISBN
+       84-7658-154-8
+--
+       doi:10.1073/pnas.101092598.  La referencia utiliza el parámetro
+       obsoleto |mes= (ayuda)
+   320. ↑ ^a ^b «La microevolución». Understanding evolution. Universidad
+       de Berkeley. Consultado el 17 de marzo de 2019.
+   321. ↑ Ros Aragones, Joan; Wilson, Edward O. (2012). «Capítulo 10». La
+       conquista social de la Tierra. Penguin Random House Grupo Editorial
+       España. ISBN 9788499922447. OCLC 932507445.
+   322. ↑ «La macroevolución». Understanding evolution. Universidad de
+       Berkeley. Consultado el 17 de marzo de 2019.
+   323. ↑ Ayala, Francisco José (2006). «¿Es necesaria una nueva síntesis
+       evolutiva?». En Amparo Latorre, Andrés Moya, ed. La evolución de un
+       evolucionista: escritos seleccionados (Edición digital edición).
+       Universitat de València. ISBN 9788437086828. OCLC 992115199.
+   324. ↑ López Martínez, N. y Truyols Santonja, J. (1994). Paleontología.
+--
+   376. ↑ ^a ^b Hall, B. K. (1999) Evolutionary developmental biology.
+       Kluwer Academic, Dordrecht. ISBN 0-412-27550-3
+   377. ↑ García Azkonobieta, T.(2005) Evolución, desarrollo y
+       autoorganización. Un estudio sobre los principios filosóficos de la
+       evo-devo. Tesis Doctoral. UPV/EHU
+--
+       82-115.
+   413. ↑ Goodwin, B. (1994): How the leopard changed its spots. Phoenix
+       Giants [Las manchas del leopardo. La evolución de la complejidad.
+       Tusquets Editores, Metatemas, 51. 307 págs. Barcelona (1998) ISBN
+       84-8310-563-2]
+--
+       evolution: status of cell symbiosis theory». Symbiosis 1: 101-24.
+       PMID 11543608.
+   417. ↑ Sandín, M. (2005). «La transformación de la evolución.» Boletín
+       de la Real Sociedad Española de Historia Natural. Sección
+       Biológica. Tomo 100(1-4), 139-167.
+   418. ↑ Sandín, M. 2009. En busca de la Biología. Reflexiones sobre la
+       evolución Archivado el 16 de agosto de 2011 en Wayback Machine..
+       Asclepio, LXI-1
+   419. ↑ Jablonka, E., M. Lachman y M. Lamb. 1992. Evidence, mechanisms
+--
+       a homeobox cluster after genome duplication in teleosts. PNAS vol.
+       103 no. 27, 10369-10372
+   431. ↑ Sandín, M. (1997). «Teoría Sintética: Crisis y Revolución».
+       Arbor (623-624): 269-303. Archivado desde el original el 17 de
+       abril de 2018. Consultado el 17 de agosto de 2011.
+--
+       julio de 2019.
+   434. ↑ Moreno, Daniel (2013). «Programa Tierra. Simulación
+       computarizada de la evolución biológica», Journal of Feelsynapsis
+       (JoF). ISSN 2254-3651. 2013. (8): págs. 20-23.
+   435. ↑ Ivancevic, Vladimir G.; Ivancevic, Tijana T. (2007).
+--
+   437. ↑ Dennett, D. (1995). Darwin's Dangerous Idea: Evolution and the
+       Meanings of Life. Simon & Schuster. ISBN 978-0684824710.
+       Para la percepción científica y social de la evolución en los
+       siglos XIX y XX, consúltese Johnston, Ian C. «History of Science:
+       Origins of Evolutionary Theory». And Still We Evolve. Liberal
+--
+       Uses of Human Heredity. Harvard University Press.
+       ISBN 978-0674445574.
+   447. ↑ Para la historia de la eugenesia y la evolución, ver Kevles,
+       Daniel (1998). In the Name of Eugenics: Genetics and the Uses of
+       Human Heredity. Harvard University Press. ISBN 978-0-674-44557-4.
+--
+       www.marxists.org. Consultado el 12 de septiembre de 2022.
+   463. ↑ Mocek, Reinhard (12 de septiembre de 2014). Socialismo
+       revolucionario y darwinismo. Ediciones AKAL. p. 73.
+       ISBN 978-84-460-4065-1. Consultado el 31 de diciembre de 2020.
+   464. ↑ «Soviet Biology». www.marxists.org. Consultado el 31 de
+--
+       Darwin de los colegios italianos». Archivado desde el original el
+       29 de agosto de 2011. Consultado el 2 de mayo de 2009.
+   475. ↑ Algañaraz, Julio. «La ciencia de la evolución por Berlusconi:
+       Ola de protestas de científicos y premios nobel italianos». Clarín.
+       Consultado el 2 de mayo de 2009.
+--
+       estudios moleculares, con especial atención a los aspectos
+       conservacionistas].
+     * Ayala, F.J. (1994): La teoría de la evolución. De Darwin a los
+       últimos avances de la genética. Ediciones Temas de Hoy, S.A.
+       Colección Fin de Siglo / Serie Mayor, 60. 237 págs. Madrid ISBN
+       84-7880-457-9
+     * Ayala, F. J. y Valentine, J. W. (1983 [1979]): La evolución en
+       acción. Teoría y procesos de la evolución orgánica. Editorial
+       Alhambra, S.A. Alhambra Universidad. 412 págs. Madrid ISBN
+       84-205-0981-7
+     * Buskes, Chris (2008 [2009]): La herencia de Darwin. La evolución en
+       nuestra visión del mundo. Herder Editorial. 541 págs. Barcelona
+       ISBN 978-84-254-2621-6
+     * Cabello, M. y Lope, S. (1987): Evolución. Editorial Alhambra, S.A.
+       Biblioteca de Recursos Didácticos Alhambra, 12. 114 págs. Madrid
+       ISBN 84-205-1535-3
+     * Carter, G. S. (1958 [1959]): Cien años de evolución. Editorial
+       Taurus, S.A. Ser y Tiempo, 5. 223 págs. Madrid
+     * Castrodeza, C. (1988): Teoría Histórica de la Selección Natural.
+--
+       84-205-1740-2
+     * Crusafont, M., Meléndez, B. y Aguirre, E. (Eds.) (1966): La
+       evolución. La Editorial Católica, S.A. Biblioteca de Autores
+       Cristianos [B.A.C.]. Sección VI (Filosofía), 258. 1014 págs. Madrid
+       ISBN 978-84-220-0676-3 (de la 4.ª ed., 1986).
+--
+       Editores, S.A., 2.ª edición, 407 páginas, ISBN 84-345-0178-3
+     * Devillers, C. y Chaline, J. (1989 [1993]): La teoría de la
+       evolución. Estado de la cuestión a la luz de los conocimientos
+       científicos actuales. Ediciones Akal, S.A. Ciencia Hoy, 5. 383
+       págs. Madrid ISBN 84-7600-989-5
+     * Dobzhansky, Th., Ayala, F. J., Stebbins, G. L. y Valentine, J. W.
+       (1977 [1979]): Evolución. Barcelona: Omega. 558 págs. ISBN
+       84-282-0568-X
+     * Gould, S. J. (2002 [2004]): La estructura de la teoría de la
+       evolución. Barcelona: Tusquets (Metatemas), 82. 1426 págs. ISBN
+       84-8310-950-6
+     * Lamarck, Jean-Baptiste (1809). Philosophie Zoologique. Paris: Dentu
+       et L'Auteur. OCLC 2210044.  Evolución biológica en Internet Archive
+     * Limoges, C. (1970 [1976]):La selección natural. Ensayo sobre la
+       primera constitución de un concepto (1837-1859). Siglo Veintiuno
+       Editores, S.A. Ciencia y Técnica. 183 págs. México D.F.
+     * Maynard Smith, J. (1972 [1979]): Acerca de la Evolución. H. Blume
+       Ediciones. 136 págs. Madrid ISBN 84-7214-182-9
+     * Milner, R. (1990 [1995]): Diccionario de la evolución. La humanidad
+       a la búsqueda de sus orígenes. Barcelona: Biblograf (Vox). 684
+       págs. ISBN 84-7153-871-7
+     * Moya, A. (1989): Sobre la estructura de la teoría de la evolución.
+       Editorial Anthropos, S.A. - Servicio Editorial de la Univ. del País
+       Vasco. Nueva ciencia, 5. 174 págs. ISBN 84-7658-154-8
+     * Templado, J. (1974): Historia de las teorías evolucionistas.
+       Editorial Alhambra, S.A. Exedra, 100. 170 págs. Madrid ISBN
+       84-205-0900-0
+     * VV. AA. (1978 [1979]): Evolución. Barcelona: Labor (Libros de
+       Investigación y Ciencia). 173 págs. ISBN 84-335-5002-0
+     * VV. AA. (1982): Charles R. Darwin: La evolución y el origen del
+       hombre. Revista de Occidente, Extraordinario IV, 18-19: 1-235 ISSN
+       0034-8635
+--
+Enlaces externos[editar]
+
+     * Wikimedia Commons alberga una categoría multimedia sobre Evolución
+       biológica.
+     * Wikiquote alberga frases célebres de o sobre Evolución biológica.
+     * Wikiversidad alberga proyectos de aprendizaje sobre Evolución
+       biológica.
+
+  En español[editar]
+
+     * «La evolución es un hecho y una teoría», artículo en el sitio web
+       Chile Skeptic.
+     * «La evolución biológica como un hecho y como una teoría», artículo
+       de Stephen Jay Gould en el sitio web Sin Dioses.
+     * «La evolución biológica», artículo de Antonio Barbadilla donde
+       expone los conceptos de evolución y selección natural.
+     * Evolución y ambiente.
+     * Collado González, Santiago: «Teoría de la evolución», artículo en
+       el sitio web Philosophica: Enciclopedia filosófica en línea
+     * «Comprendiendo la evolución».
+
+  En inglés[editar]
+--
+     * Wd Datos: Q1063
+     * Commonscat Multimedia: Evolution / Q1063
+     * Wikiquote Citas célebres: Evolución biológica
+     __________________________________________________________________
+
+--
+     * Wd Datos: Q1063
+     * Commonscat Multimedia: Evolution / Q1063
+     * Wikiquote Citas célebres: Evolución biológica
+
+   Obtenido de
+   «https://es.wikipedia.org/w/index.php?title=Evolución_biológica&oldid=1
+   55920236»
+
+--
+     * Paleontología
+     * Teorías biológicas
+     * Evolución biológica
+
+   Categorías ocultas:

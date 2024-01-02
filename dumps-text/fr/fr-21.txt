@@ -1,0 +1,983 @@
+   #RSS alternate alternate alternate alternate alternate alternate
+   Contents Remerciements Le terrain transitionnellement : une
+   transdisciplinarité entre géographie, art et psychanalyse L’évolution
+   de la théorie du droit (1970-2010) RDF Bibliontology Search on
+   OpenEdition
+
+   Version classiqueVersion mobile
+   Presses universitaires de Paris Nanterre
+
+Presses universitaires de Paris Nanterre
+
+     * Accueil
+     * Arts & Littératures
+     * Politique & Société
+     * Savoirs & Philosophie
+
+   OpenEdition Books Presses universitaires de Paris Nanterre Hors
+   collection 1970-2010 : les sciences de l’Hom... L’évolution des
+   théories économiq...
+   Le terrain transitionnellement : une transdisciplinarité entre géog...
+   L’évolution de la théorie du droit (1970-2010)
+
+1970-2010 : les sciences de l’Homme en débat
+
+    |
+   Hervé Inglebert
+   ,
+   Yan Brailowsky
+
+Transformations et remises en cause des disciplines
+
+   L’évolution des théories économiques dominantes à partir des années
+   1970 : une approche à partir de la place que la monnaie y tient
+   Rechercher dans le livre ____________________ OK
+   Table des matières
+   Citer Partager
+   Cité par
+   page d’information recensé par
+
+L’évolution des théories économiques dominantes à partir des années 1970 :
+une approche à partir de la place que la monnaie y tient
+
+   Bruno Théret
+   p. 123-139
+   Texte Notes Auteur
+
+Texte intégral
+
+   1L’objectif de ce texte est de présenter une description synthétique
+   des transformations qu’a connu le champ académique de la science
+   économique à partir des années 1970, pour l’essentiel aux États-Unis.
+   J’aborderai cette description principalement au niveau des nouveaux
+   discours développés par les économistes : développement d’une économie
+   financière en tant que discipline académique à statut scientifique ;
+   révolution « nouvelle classique » dans la macroéconomie ; renouveau du
+   hayekisme. Il faudrait également resituer cette description sur un plan
+   plus sociologique en y intégrant les changements organisationnels de la
+   profession et des cadres universitaires qui la structurent en tant
+   qu’institution d’une parole autorisée et autorisante. Faute de place et
+   en raison du manque de recherches disponibles, je me bornerai ici à
+   seulement quelques remarques incidentes sur ce point.
+
+I
+
+     * 1 Mirowski Philip, « The Probabilistic Counter-Revolution, or How
+       Stochastic Concepts came to Neocla (...)
+     * 2 Armatte Michel, La Science économique comme ingénierie, Paris,
+       Éditions de l’école des Mines, 2010
+
+   2L’analyseur que j’utiliserai pour saisir les changements dans la
+   pensée économique dominante depuis les années 1970 ne sera pas celui,
+   le plus habituel, de l’usage des technologies statistiques et
+   mathématiques (probabilités et économétrie) qui caractérise la science
+   économique depuis sa révolution stochastique1. Il y a déjà en effet
+   toute une série de travaux très pertinents et démonstratifs sur ce
+   point, notamment celui tout récent de Michel Armatte, qui montrent que
+   la science économique mainstream est devenue une technoscience, une
+   ingénierie économique qui repose sur l’idée que l’économie de marché
+   peut être analysée comme n’importe quel phénomène physique ou
+   biologique2. Je prends pour ma part comme principe organisateur de la
+   description proposée ici la place que la monnaie tient dans les
+   nouvelles théories et dans les nouvelles pratiques « économiques  » des
+   économistes.
+     * 3 Les économistes parlent à ce sujet des problèmes de Hicks et de
+       Hahn.
+     * 4 Hicks John, « A Suggestion for Simplifying the Theory of Money »,
+       in Economica, New series, vol. 2 (...)
+
+   3Pourquoi cela ? Tout simplement parce que la monnaie est le talon
+   d’Achille de la théorie économique néoclassique et de tous ses avatars.
+   Paradoxalement, alors que l’argent n’a jamais été aussi central dans le
+   fonctionnement du capitalisme et de l’économie de marché, il est absent
+   de la théorie néoclassique de l’équilibre général (TEG) qui est censée
+   en expliciter les lois. La TEG est en effet une théorie sans monnaie et
+   sa crédibilité en est entachée3. Elle cherche donc à s’en procurer,
+   c’est-à-dire à intégrer la monnaie dans son cadre en recourant au
+   concept de « friction » introduit par John Hicks en 19354. Par ce
+   biais, se joue la capacité de la TEG à rendre compte du fait que
+   l’économie observable est monétaire sans pour autant remettre en cause
+   la théorie de la valeur qui lui est sous-jacente et qui veut que la
+   monnaie soit inutile, si ce n’est en tant que pur numéraire censé ne
+   jouer en rien dans les rapports « réels » de valeurs entre
+   marchandises. Ainsi, toute l’évolution historique des théories
+   économiques états-uniennes de l’après-guerre peut être lue comme une
+   série de tentatives successives et concurrentes pour neutraliser cette
+   « friction » qu’est la monnaie dans un cadre théorique qui la pose a
+   priori comme insignifiante. Plusieurs stratégies épistémiques ont alors
+   été empruntées pour répondre à ces difficultés.
+     * 5 Whitley Richard, « The transformation of business finance into
+       financial economics : the roles of (...)
+     * 6 Mehrling Perry, Understanding Fisher Black, Barnard College,
+       Columbia University, mimeo, 2000.
+     * 7 Mehrling Perry, The Development of Macroeconomics and the
+       Revolution in Finance, Barnard College, (...)
+
+   4L’évolution des théories économiques dominantes. 125 Le champ de
+   l’économie académique connaît une première restructuration aux
+   États-Unis dès les années 1950 et 1960 à partir d’une nouvelle
+   conception de la monnaie envisagée dans son rapport à la finance (New
+   View) que Perry Merhling a qualifiée de « walrasianisme monétaire » :
+   dans quelle mesure la monnaie n’est-elle pas ou ne doit-elle pas être
+   un actif financier comme un autre ? La rupture du régime monétaire
+   international de Bretton Woods conduira à faire de cette pensée la
+   nouvelle doxa. On est alors en effet passé de régimes monétaires
+   keynésiens de « répression financière » (contrôle étatique étroit de la
+   finance de marché et des banques) avec taux de changes fixes, à des
+   régimes financiers monétaristes de « répression monétaire »
+   (interdiction de plus en plus drastique faite aux États d’émettre de la
+   monnaie pour accommoder la croissance et la régulation des conflits
+   distributifs) avec taux de changes flottants. En conduisant au
+   renouveau et à l’essor des marchés financiers à terme, ce changement de
+   régime a permis aux théories économiques postulant des marchés
+   autorégulateurs de s’épanouir et d’acquérir un statut de pensée
+   autorisée au détriment de la pensée keynésienne et de la dite
+   « synthèse néoclassique ». Ce renouveau néoclassique se traduit
+   d’abord, à partir des années 1960, par la transformation de la business
+   finance en financial economics (économie financière), laquelle va
+   occuper à partir des années 1970 une place de plus en plus importante
+   au sein de la science économique5. Les théoriciens de la finance, les
+   « gens de finance » (finance people), comme les appelle Perry
+   Merhling6, proposent pour sauver la TEG une stratégie consistant non
+   pas à chercher à intégrer la monnaie dans le modèle théorique, mais à
+   rendre l’économie réelle conforme au modèle en éliminant la monnaie de
+   la réalité. Ceci paraît tout à fait réalisable aux gens de finance dès
+   lors qu’un système complet de marchés efficients peut prendre en charge
+   les fonctions de paiement (liquidité financière) et de réserve de
+   valeur (marchés à terme) de la monnaie. Pour les théoriciens et
+   praticiens de la finance (qui sont d’abord des ingénieurs-concepteurs
+   de produits financiers dont la préoccupation principale est d’optimiser
+   le fonctionnement des marchés financiers), si la théorie dit que
+   l’économie peut fonctionner sans monnaie, il est normal de tirer « la
+   conclusion que la façon la plus naturelle de tester la théorie est de
+   promouvoir le changement institutionnel qu’elle prédit, pour voir s’il
+   y a bien une place pour un tel changement institutionnel dans le monde
+   réel7 ». Il s’agit alors de faire advenir « un monde sans monnaie »,
+   sans fiat monnaie exogène à la logique du capital, monde où on paye ses
+   achats et ses dettes avec des parts de fonds communs de placement dont
+   la contrevaleur est évaluée au jour le jour sur les marchés de
+   capitaux.
+     * 8 Théret Bruno, « L’argent de la mondialisation : en quoi pose-t-il
+       des problèmes éthiques ? Un poin (...)
+     * 9 Benetti Carlo, « Monnaie, choix individuels et frictions », in
+       Cahiers d’économie politique, n° 39 (...)
+
+   5Cela dit, cette approche financière de la monnaie – la New Monetary
+   Economics de Fisher Black, Eugene Fama, Robert Hall, Leland Yeager,
+   etc. –, même si elle a eu en pratique un impact certain, surtout au
+   niveau international8, est restée minoritaire. Le développement de la
+   théorie néoclassique a surtout été « marqué par la recherche des
+   frictions adéquates pour que la monnaie puisse être choisie à
+   l’équilibre9 ». Cette recherche encore en cours, car toujours
+   infructueuse en pratique, même si elle se traduit par une multitude
+   d’articles dans les revues les mieux classées du champ scientifique et
+   fonde les carrières de nombreux économistes parmi les plus en vue, a
+   pris de multiples formes : construction de modèles d’équilibre général
+   à générations imbriquées, avec cash-in-advance, de prospection, théorie
+   des restrictions légales, etc. Cette nouvelle macroéconomie
+   « monétariste mark II », comme l’a qualifiée James Tobin, dont les
+   penseurs de référence sont Robert Lucas, Neil Wallace, Thomas Sargent,
+   Finn Kydland, Edward C. Prescott, etc., se veut « microfondée » sur les
+   anticipations rationnelles d’agents privés optimisateurs omniscients,
+   ce qui rend en théorie totalement inutile et même préjudiciable toute
+   intervention de la puissance publique.
+     * 10 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », in
+       Research Paper, n° 8508, Federal R (...)
+
+   6Mais, comme l’a souligné Carlo Benetti, l’approche en termes de
+   frictions trouve ses limites dans l’impossibilité de la TEG à
+   abandonner l’hypothèse walrasienne d’un système centralisé de compte et
+   de paiement par compensation. Ceci est aussi le point de vue des
+   économistes d’obédience « autrichienne » qui, à la suite de Carl Menger
+   et de Ludwig von Mises, et avec Friedrich von Hayek, considèrent que la
+   monnaie est un préalable, non neutre donc, au développement des
+   échanges et de la production marchande, et rejettent la conception
+   centralisée et statique de l’économie promue par la TEG. « L’argent
+   chez Menger est beaucoup plus qu’un numéraire ou, autrement dit, une
+   institution économique neutre. C’est l’un des moteurs du développement
+   économique, et il a des effets bien réels10 ». Quant à Hayek, il
+   considère que la
+
+     * 11 Hayek Friedrich, The Denationalisation of Money, Londres,
+       Institute of Economic Affairs, (second e (...)
+
+   parfaite correspondance des plans individuels (que le modèle théorique
+   de l’équilibre de marché parfait dérive de l’hypothèse que la monnaie
+   requise pour rendre l’échange indirect possible est sans influence sur
+   les prix relatifs) est une image totalement fictive qui ne correspond à
+   rien dans le monde réel11.
+
+   7Cette conception autrichienne de la monnaie en tant qu’institution
+   fondamentale du capitalisme, produit de la main invisible de la
+   concurrence, a connu également une évolution dans les années 1970 avec
+   la radicalisation dans un sens libertarien de la pensée de Hayek et ses
+   propositions de dénationalisation des monnaies. En prônant
+   l’application d’une concurrence non régulée – car jugée autorégulatrice
+   – entre émetteurs de monnaies, qu’ils soient privés ou publics, les
+   hayekiens en sont arrivés à récuser toute place à une base money et à
+   un principe hiérarchique au sein du système bancaire. Ils rejoignent
+   ainsi paradoxalement les « gens de finance » qui, bien qu’adeptes de la
+   TEG, récusent eux aussi, on vient de le voir, l’idée de base monétaire
+   exogène à l’économie.
+
+   8Les anciens outsiders du keynésianisme de la synthèse néoclassique
+   (monétaristes mark I à la Friedman et néo-mengériens partisans du
+   free-banking) passent ainsi au centre du régime des idées qui servent
+   de référentiels des politiques économiques, moyennant une
+   radicalisation de leur position (la pensée financière est désormais
+   d’obédience libertarienne et la pensée monétaire devient hayekienne
+   mark II).
+
+   9Au total, tant pour des raisons propres à la logique intellectuelle du
+   champ des économistes qu’en raison de changements dans l’économie
+   elle-même et son environnement politique, social et international, le
+   discours à prétention scientifique sur l’économie a connu des mutations
+   et une différenciation qui a été à l’origine de nouvelles alliances
+   entre paradigmes. Aux États-Unis, pour l’essentiel, diverses stratégies
+   « cognitives » se sont développées au sein de la science économique et
+   financière en transformant ce champ dans un sens libertarien. Par-delà
+   leurs différences qui peuvent être radicales et conduire à des
+   alternatives monétaires opposées, ces stratégies ont toutes porté en
+   effet l’idée d’une nécessaire dérégulation bancaire et financière au
+   profit du libre jeu des mécanismes de marché tant au niveau national
+   qu’international.
+
+II
+
+   10Pour rendre compte de ce retournement par rapport à la configuration
+   keynésienne précédente à partir d’un examen de la manière dont chaque
+   courant de pensée a été conduit à concevoir la place de la monnaie dans
+   l’économie, on peut se donner un référentiel analytique (voir schéma
+   page suivante) formé par deux axes orthogonaux définis à partir d’une
+   double opposition polaire entre :
+     * d’une part, les économistes qui croient ou ne croient pas dans la
+       théorie de l’équilibre général et donc dans la neutralité de la
+       monnaie ;
+     * d’autre part entre « ceux du public » et « ceux du privé »,
+       c’est-à-dire entre d’un côté les partisans d’une macroéconomie
+       académique qui raisonne dans le cadre d’une économie unifiée (par
+       une monnaie unique) et centralisée (par le commissaire-priseur
+       walrasien ou l’État keynésien), de l’autre des écoles,
+       périphériques à cette macroéconomie académique, qui partagent une
+       conception privée et décentralisée de l’économie et où la monnaie
+       n’est plus a priori unifiée mais éclatée quoique régulée par les
+       vertus soit des marchés financiers (New Monetary economics) soit du
+       principe de concurrence (Neo-Mengerian Economics).
+
+   11Ainsi sur l’axe vertical du schéma suivant s’opposent partisans et
+   adversaires de la théorie de l’équilibre général quant au degré de
+   neutralité conféré à la monnaie :
+     * il n’y a pas de neutralité pour les keynésiens ni pour les
+       « autrichiens », et c’est pour cela qu’en fonction de leurs
+       préférences politiques, les premiers sont conduits à la placer sous
+       contrôle de l’État, et les seconds au contraire à vouloir la
+       « protéger de la politique12 » ;
+     * la neutralité de la monnaie est en revanche fondamentale pour les
+       néoclassiques ; la monnaie est neutre aussi bien à court terme qu’à
+       long terme (en cohérence avec les présupposés de la TEG) chez les
+       Nouveaux Classiques (NC) et pour la New Monetary Economics (NME)
+       (on peut parler de super-neutralité pour les NC et
+       d’hyperneutralité pour la NME où il n’y a plus de base monétaire) ;
+       en revanche, pour les monétaristes « mark I » (i. e. friedmaniens)
+       et plus largement dans le « walrasianisme monétaire » de la
+       (première) synthèse néoclassique (qui inclut la plupart des
+       keynésiens états-uniens), la monnaie neutre à long terme ne l’est
+       pas à court terme, d’où la nécessité d’une intervention publique
+       régulant la masse monétaire.
+
+   TRANSFORMATION DU STATUT DE LA MONNAIE DANS LE CHAMP DES ECONOMISTES
+   (USA APRES 1945°
+   TRANSFORMATION DU STATUT DE LA MONNAIE DANS LE CHAMP DES ECONOMISTES
+   (USA APRES 1945°
+   Agrandir Original (jpeg, 350k)
+
+   12L’axe horizontal renvoie quant à lui au degré de décentralisation de
+   l’économie sur lequel les différentes théories sont fondées, la
+   macroéconomie qu’elle soit keynésienne ou néoclassique, ou encore
+   Nouvelle Classique (NC) ou Nouvelle Keynésienne (NK), s’opposant ici à
+   la financial economics et à l’approche autrichienne qui font jouer un
+   rôle central aux échanges décentralisés sur les marchés et à la
+   concurrence. Au plan monétaire cela se traduit par le fait que :
+     * du côté des approches en termes d’équilibre général, la théorie
+       quantitative de la monnaie qui est au cour de la macroéconomie
+       néoclassique est totalement rejetée par la NME qui pose un « monde
+       sans monnaie » – en fait sans monnaie étrangère à la pure logique
+       des marchés financiers – de telle sorte qu’un agrégat monétaire
+       censé représenter une quantité totale de monnaie est sans
+       signification et impossible à concevoir13 ;
+     * et du côté des approches en termes de déséquilibre qui ne postulent
+       pas la neutralité de la monnaie, l’opposition sur cet axe est entre
+       les keynésiens qui posent une monnaie publique centrale et unique,
+       et les « autrichiens » pour qui la monnaie doit être plurielle et
+       le fait d’émetteurs privés et publics soumis à la même discipline
+       de la concurrence.
+
+   13À partir de cette double opposition, on peut identifier le
+   basculement des régimes monétaire et financier d’un type keynésien au
+   type néo-néolibéral à un changement de bloc hégémonique au sein de la
+   science économique. S’est opérée en effet, lors de ce basculement, une
+   reconfiguration des alliances entre divers paradigmes postulant à la
+   position de pensée autorisée et autorisante (orthodoxie). Dans le même
+   mouvement a émergé un nouveau paradigme – l’économie financière –
+   jouant le rôle d’attracteur pour l’ensemble du champ (attracteur II
+   dans le schéma suivant), alors que s’effaçait le paradigme qui
+   jouissait jusque-là de ce rôle d’attracteur – le keynésianisme des
+   origines (attracteur I).
+     * 14 Mehrling Perry, The Development of Macroeconomics and the
+       Revolution in Finance, op. cit.
+
+   14Ainsi, à la synthèse keynésiano-néoclassique qui fournissait un
+   référentiel commun y compris pour les monétaristes friedmaniens et les
+   « autrichiens » partisans du free-banking, succèdent de nouveaux
+   compromis discursifs permis d’une part par des évolutions propres à
+   chacun des paradigmes préexistant, d’autre part par l’émergence de
+   l’attracteur qu’est la nouvelle sous-discipline de la financial
+   economics, laquelle développe son propre modèle d’équilibre général14
+   et affirme son pouvoir hégémonique sur l’ensemble du discours
+   économique néolibéral.
+
+   15Les évolutions internes aux anciens paradigmes prennent en fait la
+   forme d’une radicalisation des positions :
+     * Chez les néoclassiques, l’opposition à toute régulation étatique
+       s’impose avec le passage d’un monétarisme interventionniste à la
+       Friedman à un monétarisme libertaire à la Lucas15. Les monétaristes
+       connaissent en effet une « révolution  » Nouvelle Classique qui
+       fait que les « anticipations adaptatives » (Milton Friedman)
+       deviennent « rationnelles  » (John Muth, Robert E. Lucas, Edward C.
+       Prescott) ; ils s’attellent à microfonder la macroéconomie et
+       neutraliser complétement la monnaie, c’est-à-dire à court terme
+       comme à long terme.
+     * Chez les « autrichiens », la théorie du free-banking, qui fait
+       encore place à un principe hiérarchique de régulation, cède la
+       place à celle de la dénationalisation et de la concurrence des
+       monnaies qui traduit la conversion de Hayek à une religion
+       libertarienne de la concurrence généralisée ; celle-ci ne laisse
+       plus aucune place à une quelconque régulation externe, la
+       concurrence étant vue comme le principe même de cette régulation
+       (elle est la solution et non pas le problème). Cette évolution
+       permet aux « autrichiens » de trouver un terrain d’entente avec la
+       New Monetary Economics qui émerge simultanément dans le sillon du
+       développement académique de l’économie financière.
+     * Chez les keynésiens également, mais en ce qui les concerne en
+       opposition au nouveau néolibéralisme dominant, on observe la
+       marginalisation des keynésiens classiques et l’affirmation d’un
+       post-keynésianisme où la notion d’incertitude radicale et la
+       réflexion sur la monnaie occupent une place centrale.
+
+     * 16 Kessler Adam, « Cognitive dissonance, the Global Financial
+       Crisis and the discipline of economics  (...)
+     * 17 « It is thus a shared outlook, i. e., a common set of attitudes
+       and beliefs (without necessarily s (...)
+     * 18 Wallace Neil, « A Legal Restrictions Theory of the Demand for
+       “Money” and the Role of Monetary Pol (...)
+     * 19 Greenfield Robert L., Yeager Leland B., « A laisser-faire
+       approach to Monetary Stability », in Jou (...)
+     * 20 Cowen Tyler, Kroszner Randall, Explorations in the New Monetary
+       Economics, Oxford, Blackwell, 1994
+
+   16Sur la base de ces transformations, un bloc hégémonique des believers
+   in laisser-faire (BLF) se constitue au sein du champ des économistes
+   dès les années 1970 et 1980 au travers d’une série de compromis et
+   d’emprunts réciproques entre New Classical, Financial Economics et
+   Hayekiens16. C’est un bloc politique fondé sur une idéologie commune17
+   et non une nouvelle synthèse à caractère scientifique. Ses trois
+   courants développent en effet des approches de la monnaie qui sont
+   contradictoires au plan théorique, et il n’y pas de consensus
+   scientifique entre eux, même si, au détriment de la cohérence interne
+   de chacun des paradigmes, des modèles ad hoc n’en tentent pas moins au
+   cours du temps de rapprocher les positions théoriques – entre
+   « autrichiens  » et NC, dans les modèles de search ; entre NC et NME,
+   via la théorie des restrictions légales18 ; entre NME et « autrichiens
+    », dans le modèle BFH du Yeager-Greenfield System19 et les
+   Explorations de Cowen et Kroszner20.
+
+III
+
+   17Les économistes BLF, qui ont en commun de dénier toute légitimité à
+   l’intervention de l’État tant sur les marchés financiers que sur la
+   politique monétaire et le chômage, sont du fait de leur radicalité
+   confrontés à une contrainte de survie de la profession. En effet, par
+   leur discours libertarien qui veut que ni le marché, ni l’État n’aient
+   besoin de leurs conseils, les élites hégémoniques de la macroéconomie
+   délégitiment leur existence même, leur inutilité sociale découlant
+   logiquement de leur théorie. Le marché ne s’autorégule-t-il pas
+   lui-même, et l’État n’est-il pas censé ne rien pouvoir faire qui ne
+   soit anticipé par le marché et soit donc susceptible de le détourner de
+   son fonctionnement naturel ? La science économique néolibérale est
+   ainsi a priori confrontée au paradoxe de sa propre existence : elle
+   s’autodéfinit comme discours incapable de produire une valeur ajoutée
+   par rapport aux mécanismes spontanés qui, selon elle, font que
+   l’économie et la société sont normalement à l’équilibre ou autorégulées
+   en dynamique (pour les « autrichiens »). Comment expliquer dans ces
+   conditions que les économistes BLF n’aient jamais été aussi présents au
+   cour même de l’activité économique et sur la scène politique ?
+
+   18On peut penser que ce développement de l’activité des économistes
+   académiques en tant qu’agents économiques, et non plus seulement en
+   tant que scientifiques, s’explique précisément par la réduction
+   subséquente des débouchés purement académiques (internes) de la
+   profession que son discours hégémonique organise. Cependant l’économie
+   et la finance académiques ne sauraient être considérées comme des
+   disciplines en voie de disparition qui ne vivraient plus que de la
+   formation de techniciens de l’économie pratique. En fait, pour sortir
+   du paradoxe intellectuel dans lequel ils se sont enfermés, les
+   économistes BLF ont du atténuer leur radicalité et effectuer des
+   ajustements épistémiques . Ceux-ci diffèrent selon les écoles et
+   notamment leur degré d’académisme.
+     * 21 Widmaier Wesley, « Constructing Monetary Crises : New Keynesian
+       Understandings and Monetary Cooper (...)
+
+   19Chez les macroéconomistes NC en poste dans les départements
+   d’économie des grandes universités américaines, l’ajustement s’est fait
+   par un retour en arrière. Suite aux crises financières internationales
+   qui se sont succédées à un rythme rapide dans les trois dernières
+   décennies, la majorité des NC se sont repliés sur une position dite
+   « nouvelle keynésienne » (NK) qui consiste à revenir à un monétarisme à
+   la Friedman justifiant l’existence d’une politique monétaire21. L’idée
+   d’une non neutralité à court terme de la monnaie est donc abandonnée,
+   mais sans que soit remis en cause le cadre théorique des anticipations
+   rationnelles qui l’invalide pourtant a priori. Les NK admettent que les
+   marchés ne sont pas en fait parfaitement efficients en raison de
+   rigidités affectant certains prix (essentiellement celui du travail).
+   L’utilité sociale des économistes est ainsi restaurée : elle réside
+   dans leur capacité à conduire l’économie, par-delà ses frictions, vers
+   l’état idéal décrit par la TEG. C’est sur cette base scientifique
+   bancale mais idéologiquement viable que les macroéconomistes NK-NC sont
+   appelés à peupler les postes les plus élevés, rémunérés hors normes
+   communes, des grandes institutions financières publiques nationales
+   (Banques centrales, Council of Economic Advisers, etc.) et
+   internationales (FMI, Banque mondiale, BID, OMC, OCDE, etc.).
+
+   20Du côté des « gens de finance » peuplant les plus prestigieuses
+   business schools des universités américaines, on se veut tout autant
+   praticien que théoricien, car il s’agit de transformer la science
+   économique en ingénierie financière. L’économisteingénieur est chargé
+   de créer des technologies permettant d’optimiser l’exploitation des
+   ressources de l’économie capitaliste (considérée comme un ensemble de
+   ressources naturelles et donnée dans ses lois par la TEG), c’est-à-dire
+   de produire des innovations financières censées permettre de passer à
+   des états sociaux d’équilibre général supérieurs. En ce cas, c’est
+   l’hypothèse d’efficience (informationnelle) intrinsèque des marchés qui
+   doit être relâchée pour assurer la légitimité du développement de la
+   finance académique. Sur la base de ce relâchement, les financiers
+   universitaires peuvent prétendre tirer leur utilité sociale de leur
+   capacité à rendre les marchés effectivement efficients en créant
+   eux-mêmes, pour cela, des firmes financières et/ou en se faisant
+   embaucher par les grandes banques privées, les bourses de valeurs et
+   autres mutual funds, hedge funds, agences de notation, firmes de
+   conseils, etc.
+
+   21Enfin, du côté des « autrichiens », les plus libertariens mais sans
+   doute aussi les moins impliqués dans des activités économiques
+   extra-universitaires, on tempère la radicalité hayekiennne quant aux
+   vertus autorégulatrices du principe de concurrence en lui imputant de
+   possibles coûts sociaux qu’il est souhaitable de réduire a priori. D’où
+   un repli sur un constructivisme minimal mais suffisant pour faire une
+   place aux expériences de pensée des économistes qui cherchent à
+   économiser sur les coûts des processus d’essais – erreurs propres à la
+   régulation par le marché :
+
+     * 22 Yeager Leland, « Privatizing Money », in Cato Journal, vol. 30,
+       n° 3, 2010, p. 417-438. L’évolutio (...)
+
+   Les propositions de remplacer les institutions existantes par de
+   nouvelles institutions imaginés par quelqu’un et créées de toutes
+   pièces sont ce que F. A. Hayek a appelé « constructivisme  ». Hayek
+   lui-même s’est rendu coupable de ce délit, si c’en est un, en proposant
+   des réformes monétaires et politiques . L’approche opposée de la
+   réforme est parfois appelée « Laisser le marché décider ». [...] [Mais
+   ] « Le marché » ne raisonne pas et ne décide pas. C’est une métaphore :
+   sur le marché, des gens interagissent. L’analyse académique et
+   l’expérimentation « sur le papier » de systèmes alternatifs peut
+   permettre d’éviter des « expérimentations sauvages ». [...] Le coup de
+   pouce gouvernemental et « le marché » ne sont pas nécessairement des
+   approches incohérentes22.
+
+   22À vrai dire, au plan épistémologique, l’institutionnalisation des
+   pratiques économiques des économistes académiques peut paraître
+   cohérente avec la naturalisation du système capitaliste postulée par la
+   TEG et allant de pair avec la forme mathématique et probabiliste
+   exclusive qu’a pris la théorie économique et financière. Désormais, la
+   science économique standard est fondée sur l’idée que le capitalisme
+   n’est pas une construction sociale et historique, mais un état de la
+   nature, une de ses composantes appelée comme toute autre à être
+   maîtrisée, exploitée, « mise en valeur » en mobilisant des technologies
+   appropriées. L’équilibre général est alors moins une modélisation
+   abstraite de référence, que l’état naturel – plus ou moins latent ou
+   perturbé politiquement selon les approches – d’une société que ses
+   marchés capitalistes dotent d’une capacité d’autorégulation. Cette
+   naturalisation permet d’assimiler la science économique à une science
+   naturelle et la « finance » à un art de l’ingénieur visant à exploiter
+   au mieux cette nature. C’est pourquoi les critères de validation
+   scientifique du discours économique doivent être ceux des sciences de
+   la nature – sa mathématisation.
+
+   23Toutefois la cohérence entre naturalisation de l’économie et
+   transformation des économistes académiques en agents économiques n’est
+   qu’apparente, car d’un côté il s’agit d’une hypothèse heuristique, et
+   de l’autre de pratiques effectives qui l’invalident. Les économistes
+   néolibéraux, en effet, fournissent moins les moyens d’exploiter les
+   ressources naturelles disponibles d’une économie préalablement donnée,
+   qu’ils n’édictent les lois d’une économie idéelle qu’ils tentent de
+   performer, de faire advenir. La représentation naturaliste de
+   l’économie apparaît donc ad hoc et a bien du mal à dissimuler une
+   logique de reproduction élargie tous azimuts de la profession et de son
+   pouvoir social. Après tout, quand l’économie est une économie naturelle
+   et non pas une économie capitaliste, il n’y a guère besoin
+   d’économistes pour la performer ; le capitalisme n’a rien d’un produit
+   de la nature, il est bien plutôt un produit de l’esprit libéral dans
+   lequel se reconnaissent les économistes BLF.
+     * 23 Voir le compliment admiratif que P. Samuelson adresse en 1990 à
+       Robert C. Merton (illustre économi (...)
+
+   24Aussi, dans la transformation de l’économiste académique en
+   ingénieur, en raison des conflits d’intérêts que cette confusion des
+   rôles implique, le statut même de la science économique comme
+   « science » est-il remis en cause. La technoscience économique , en
+   effet, devient par là une science de l’enrichissement des économistes
+   dont l’objectivité scientifique devient alors contestable pour deux
+   raisons : d’abord parce qu’ils sont immergés – sans possibilité de s’en
+   distancier – dans la matière qu’ils sont censés observer, comprendre et
+   expliquer le plus objectivement possible ; ensuite et surtout, parce
+   que la recherche de profit ou la soif d’argent qui tend alors à motiver
+   l’activité scientifique peut conduire à déclarer comme scientifiquement
+   établi tout modèle ou proposition qui non pas fait consensus parmi les
+   savants, mais a seulement subi avec succès le test des marchés et
+   permis à celui qui les a formulé de s’y enrichir23. Certes, dans les
+   sciences de la nature il apparaît légitime – dans une certaine mesure
+   que les contraintes écologiques actuelles ne sont pas sans réduire
+   fortement – que celles-ci débouchent sur des ingénieries qui
+   transforment les savoirs théoriques en innovations pratiques permettant
+   de mieux maîtriser et exploiter la nature, et dont une partie des
+   bénéfices est légitimement redistribuée aux ingénieurs qui les ont mis
+   au point. Mais dans les sciences qui portent sur les comportements des
+   hommes en société et leurs institutions, il en va tout autrement, car
+   en ce cas, la distance du scientifique à la matière qu’il étudie pour
+   la comprendre et en objectiviser la connaissance doit être construite ;
+   elle n’a en effet rien de « naturelle » puisque l’observateur lui-même
+   fait partie de la matière à observer.
+
+CONCLUSION
+
+   25La question se pose donc de savoir si la science économique
+   contemporaine fait encore partie des sciences humaines et sociales.
+   L’évolution à partir des années 1970 des théories économiques et
+   financières dominantes, d’abord aux États-Unis puis plus largement dans
+   le monde, conduit en effet à penser que l’assimilation du discours
+   économique à une science physique qui n’était jusque-là qu’une tendance
+   sous-jacente au développement de la pensée néoclassique, est devenu
+   désormais un principe central de la structuration du champ de
+   l’économie en tant que discipline académique internationale.
+   Simultanément, l’ordre instauré dans ce champ par le bloc hégémonique
+   des Believers in Laissez Faire a conduit à une modification de la
+   sociologie de la profession des économistes qui pose des problèmes
+   d’éthique scientifique. De ces transformations discursives et
+   sociologiques, le statut de l’économiste, le mode de légitimation de sa
+   parole, sa pratique à la fois théorique et politique ressortent
+   profondément changés. Ces changements ne nous ont atteint en France que
+   plus lentement et avec retard. C’est sans doute une chance, car dans le
+   contexte de la crise actuelle, dont une partie des causes réside
+   précisément dans cette transformation du champ de l’économie académique
+   aux États-Unis, il redevient peut-être possible de s’y opposer en
+   maintenant l’économie au sein des sciences humaines et sociales.
+
+Notes
+
+   1 Mirowski Philip, « The Probabilistic Counter-Revolution, or How
+   Stochastic Concepts came to Neoclassical Economic Theory », in Oxford
+   Economic Papers, New Series, 41 (1), 1989, p. 217-235.
+
+   2 Armatte Michel, La Science économique comme ingénierie, Paris,
+   Éditions de l’école des Mines, 2010.
+
+   3 Les économistes parlent à ce sujet des problèmes de Hicks et de Hahn.
+
+   4 Hicks John, « A Suggestion for Simplifying the Theory of Money », in
+   Economica, New series, vol. 2, n° 5, 1935, p. 1-19.
+
+   5 Whitley Richard, « The transformation of business finance into
+   financial economics : the roles of academic expansion and changes in US
+   capital market », in Accounting, Organisations and Society, vol. 11, n°
+   2, 1986, p. 171-192 ; Fourcade Marion, Khurana Rakesh, « From Social
+   Control to Financial Economics : The Linked Ecologies of Economics and
+   Business in Twentiest Century America », in Making, Evaluating , and
+   Using Social Science Knowledge. The Underground of Practice, Camic C.,
+   Gross N., Lamont M. (dir.), New York, Russell Sage Foundation, 2009.
+
+   6 Mehrling Perry, Understanding Fisher Black, Barnard College, Columbia
+   University, mimeo, 2000.
+
+   7 Mehrling Perry, The Development of Macroeconomics and the Revolution
+   in Finance, Barnard College, Columbia University, mimeo, 26 août 2005,
+   se référant à Black Fisher, « Banking and the Interest Rates in a World
+   without Money », in Journal of Bank Research, automne [1970], p.
+   168-179.
+
+   8 Théret Bruno, « L’argent de la mondialisation : en quoi pose-t-il des
+   problèmes éthiques ? Un point de vue régulationniste commonsien  », in
+   Sociétés politiques comparées, n° 10, décembre 2008
+   (http://www.fasopo.org/reasopo.htm).
+
+   9 Benetti Carlo, « Monnaie, choix individuels et frictions », in
+   Cahiers d’économie politique, n° 39, 2001, p. 89-106.
+
+   10 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », in
+   Research Paper, n° 8508, Federal Reserve Bank of Dallas, mimeo, 1985,
+   p. 17
+   (http://dallasfed.org/assets/documents/research/papers/1985/wp8508.pdf)
+   .
+
+   11 Hayek Friedrich, The Denationalisation of Money, Londres, Institute
+   of Economic Affairs, (second extended edition) 1976, p. 87.
+
+   12 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », op.
+   cit.
+
+   13 Black Fisher, « Banking and the Interest Rates in a World without
+   Money », op. cit.
+
+   14 Mehrling Perry, The Development of Macroeconomics and the Revolution
+   in Finance, op. cit.
+
+   15 Lucas Robert E., « Expectations and the Neutrality of Money », in
+   Journal of Economic Theory, vol. 4, 1972, p. 103-124.
+
+   16 Kessler Adam, « Cognitive dissonance, the Global Financial Crisis
+   and the discipline of economics », in Real-World Economic Review, n°
+   54, 2010, p. 2-18.
+
+   17 « It is thus a shared outlook, i. e., a common set of attitudes and
+   beliefs (without necessarily shared methodologies or theoretical
+   perspectives) which strongly suggests that the BLF are the joint
+   upholders of an ideology », Kessler Adam, ibid., p. 4.
+
+   18 Wallace Neil, « A Legal Restrictions Theory of the Demand for
+   “Money” and the Role of Monetary Policy », in Federal Reserve Bank of
+   Mineapolis Quarterly Review, vol. 7, n° 1, hiver 1983, p. 1-7.
+
+   19 Greenfield Robert L., Yeager Leland B., « A laisser-faire approach
+   to Monetary Stability », in Journal of Money, Credit and Banking , vol.
+   15, n° 3, 1983, p. 302-315.
+
+   20 Cowen Tyler, Kroszner Randall, Explorations in the New Monetary
+   Economics, Oxford, Blackwell, 1994.
+
+   21 Widmaier Wesley, « Constructing Monetary Crises : New Keynesian
+   Understandings and Monetary Cooperation in the 1980s », in Review of
+   International Studies, vol. 29, n° 1, 2003, p. 61-77.
+
+   22 Yeager Leland, « Privatizing Money », in Cato Journal, vol. 30, n°
+   3, 2010, p. 417-438. L’évolution des théories économiques dominantes.
+
+   23 Voir le compliment admiratif que P. Samuelson adresse en 1990 à
+   Robert C. Merton (illustre économiste financier de Harvard, prix Nobel
+   qui s’est lancé dans les affaires et fera faillite en 1999 avec son
+   mutual fund LTCM) en introduction de son livre (Merton Robert,
+   Continuous Time Finance, Oxford, Basil Blackwell, 1990). Celui-ci
+   serait le plus smart des économistes, car à la fois riche parce que
+   smart et smart parce que riche. À contraster avec les deux derniers des
+   quatre impératifs qui sont au cour de l’ethos scientifique (« des
+   normes qui doivent guider le travail scientifique ») selon Robert K.
+   Merton (le père de Robert C.), grand spécialiste de la sociologie des
+   sciences, à savoir : produire des énoncés universels, mettre en commun
+   les résultats, travailler de façon ouverte et désintéressée, et se
+   soumettre à un scepticisme organisé (cité in Pestre Dominique,
+   Introduction aux Sciences Studies, Paris, La Découverte, « Repères »,
+   2006, c’est moi qui souligne).
+
+Table des illustrations
+
+   Titre TRANSFORMATION DU STATUT DE LA MONNAIE DANS LE CHAMP DES
+   ECONOMISTES (USA APRES 1945°
+   URL http://books.openedition.org/pupo/docannexe/image/2805/img-1.jpg
+   Fichier image/jpeg, 350k
+
+Auteur
+
+   Bruno Théret
+
+   Irisso, UMR 7170 CNRS, université Paris Dauphine
+
+Du même auteur
+
+     * Protection sociale et fédéralisme, Presses de l’Université de
+       Montréal, 2002
+     * Chapitre 1. Le fédéralisme canadien : un modèle pour l’Union
+       européenne ? in L'Europe qui se fait, Éditions de la Maison des
+       sciences de l’homme, 2008
+     * 5.6. Quels fondements économiques pour une Europe politique
+       démocratique ? in La Théorie de la Régulation au fil du temps,
+       Éditions des maisons des sciences de l’homme associées, 2018
+     * Tous les textes
+
+   Le texte et les autres éléments (illustrations, fichiers annexes
+   importés) sont sous Licence OpenEdition Books, sauf mention contraire.
+   Le terrain transitionnellement : une transdisciplinarité entre
+   géographie, ar...
+
+   L’évolution de la théorie du droit (1970-2010)
+
+Lire
+
+   Accès ouvert
+   Mode lecture ePub PDF du livre PDF du chapitre
+
+   Freemium
+   Suggérer l'acquisition à votre bibliothèque
+   L’évolution des théories économiques dominantes à partir des années
+   1970 : une approche à partir de la place que la monnaie y tient
+
+1970-2010 : les sciences de l’Homme en débat
+
+   Hervé Inglebert et Yan Brailowsky (dir.)
+   …
+
+   Vérifiez si votre institution a déjà acquis ce livre :
+   authentifiez-vous à OpenEdition Freemium for Books.
+   Vous pouvez suggérer à votre bibliothèque/établissement d’acquérir un
+   ou plusieurs livres publié(s) sur OpenEdition Books.
+   N'hésitez pas à lui indiquer nos coordonnées :
+   OpenEdition - Service Freemium
+   access@openedition.org
+   22 rue John Maynard Keynes Bat. C - 13013 Marseille France
+   Vous pouvez également nous indiquer à l'aide du formulaire suivant les
+   coordonnées de votre institution ou de votre bibliothèque afin que nous
+   les contactions pour leur suggérer l’achat de ce livre.
+
+   Merci, nous transmettrons rapidement votre demande à votre
+   bibliothèque.
+   Votre nom (*)
+
+   ____________________ Votre affiliation
+
+   ____________________ Votre courriel (*)
+
+   ____________________ Nom de l'établissement :
+
+   ____________________
+
+   Adresse email de la bibliothèque de votre institution : (*)
+   ____________________
+
+   Envoyer
+
+Acheter
+
+Volume papier
+
+   placedeslibraires.frleslibraires.frdecitre.frmollat.comamazon.fr
+   ePub / PDF
+
+1970-2010 : les sciences de l’Homme en débat
+
+Référence électronique du chapitre
+
+Format
+
+   OpenEdition APA MLA
+   THÉRET, Bruno. L’évolution des théories économiques dominantes à partir
+   des années 1970 : une approche à partir de la place que la monnaie y
+   tient In : 1970-2010 : les sciences de l’Homme en débat [en ligne].
+   Nanterre : Presses universitaires de Paris Nanterre, 2013 (généré le 02
+   janvier 2024). Disponible sur Internet :
+   <http://books.openedition.org/pupo/2805>. ISBN : 9782821851191. DOI :
+   https://doi.org/10.4000/books.pupo.2805.
+   Théret, B. 2013. L’évolution des théories économiques dominantes à
+   partir des années 1970 : une approche à partir de la place que la
+   monnaie y tient. In Inglebert, H., & Brailowsky, Y. (Eds.), 1970-2010 :
+   les sciences de l’Homme en débat. Presses universitaires de Paris
+   Nanterre. doi :10.4000/books.pupo.2805
+   Théret, Bruno. “L’évolution des théories économiques dominantes à
+   partir des années 1970 : une approche à partir de la place que la
+   monnaie y tient”. Inglebert, Hervé, et Yan Brailowsky. 1970-2010 : les
+   sciences de l’Homme en débat. Nanterre : Presses universitaires de
+   Paris Nanterre, 2013. (pp. 123-139) Web.
+   <http://books.openedition.org/pupo/2805>.
+
+Référence électronique du livre
+
+Format
+
+   OpenEdition APA MLA
+   INGLEBERT, Hervé (dir.) ; BRAILOWSKY, Yan (dir.). 1970-2010 : les
+   sciences de l’Homme en débat. Nouvelle édition [en ligne]. Nanterre :
+   Presses universitaires de Paris Nanterre, 2013 (généré le 02 janvier
+   2024). Disponible sur Internet :
+   <http://books.openedition.org/pupo/2784>. ISBN : 9782821851191. DOI :
+   https://doi.org/10.4000/books.pupo.2784.
+   Inglebert, H., & Brailowsky, Y. (Eds.) 2013. 1970-2010 : les sciences
+   de l’Homme en débat. Presses universitaires de Paris Nanterre.
+   doi :10.4000/books.pupo.2784
+   Inglebert, Hervé, et Yan Brailowsky, ed. 1970-2010 : les sciences de
+   l’Homme en débat. Nanterre : Presses universitaires de Paris Nanterre,
+   2013. Web. <http://books.openedition.org/pupo/2784>.
+   Compatible avec Zotero
+   L’évolution des théories économiques dominantes à partir des années
+   1970 : une approche à partir de la place que la monnaie y tient
+
+1970-2010 : les sciences de l’Homme en débat
+
+   Hervé Inglebert et Yan Brailowsky (dir.)
+   …
+
+L’évolution des théories économiques dominantes à partir des années 1970 :
+une approche à partir de la place que la monnaie y tient
+
+   Bruno Théret
+
+Partager
+
+   Partager l’URL Intégrer
+   URL : http://books.openedi [BUTTON Input] (not implemented)______
+     * Twitter
+     * Facebook
+     * Courriel
+
+Taille :
+
+   petit (500x375 px) Moyen (800x600 px) Grand (1024x768 px)
+
+Collez le code html suivant pour intégrer ce livre sur votre site.
+
+
+   <iframe src="https://books.openedition.org/pupo/2805?fo
+   _______________________________________________________
+   _______________________________________________________
+   _______________________________________________________
+   [BUTTON Input] (not implemented)______
+   Presses universitaires de Paris Nanterre
+
+Presses universitaires de Paris Nanterre
+
+Plan du site
+
+     * Collections
+          + Sciences juridiques et politiques
+          + Prix de thèse
+          + Manuels
+          + 20/21 siècles
+          + ArTguments
+          + Chemins croisés
+          + Bibliothèque historique
+          + Ritm
+          + Collège international de Philosophie
+          + Le social et le politique
+          + Espace et justice
+          + Humanités – Hominités
+          + L’œil du cinéma
+          + Orbis litterarum
+          + Philosophie et sciences sociales
+          + Essais et conférences
+          + Cahiers d’Italies
+          + Regards sur l'Espagne contemporaine
+          + Sociétés humaines dans l’histoire
+          + Sources et travaux de la BDIC (La Contemporaine)
+          + Architecture, littérature et espaces
+          + Collection de l’INSHEA
+          + Modernité classique
+          + IFAS-Recherche
+          + Intelligences numériques
+          + Les arts en correspondance
+          + Les passés dans le présent
+          + Libellus
+          + Résonances de Maurice Blanchot
+          + Livre et société
+          + Littérature et poétique comparées
+          + La Grande Collection ArTeC
+          + Ethnographies plurielles
+          + Hors collection
+     * Tous les livres
+     * Accéder aux livres
+          + Par auteurs
+          + Par personnes citées
+          + Par mots clés
+          + Par dossiers
+     * Informations
+          + Presses universitaires de Paris Nanterre
+     * Accès réservé
+
+Suivez-nous
+
+     * RSS
+
+   Courriel :
+   lpatarit@parisnanterre.fr
+
+   URL :
+   http://presses.parisnanterre.fr
+
+   Adresse :
+   200 avenue de la République
+   Bat A bureau 320
+   92001 Nanterre cedex
+   France
+   OpenEdition Books
+     * Catalogue
+     * Auteurs
+     * Éditeurs
+     * Dossiers
+     * Extraits
+
+   OpenEdition
+
+   OpenEdition est un portail de ressources électroniques en sciences
+   humaines et sociales.
+     * OpenEdition Journals
+     * OpenEdition Books
+     * Hypothèses
+     * Calenda
+     * OpenEdition Freemium
+
+     * Mentions légales
+     * CGU
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Signaler un problème
+
+   (BUTTON)
+
+   Rechercher dans OpenEdition Search
+
+   Vous allez être redirigé vers OpenEdition Search
+   ____________________
+   ( ) Dans tout OpenEdition
+   (*) Dans Presses universitaires de Paris Nanterre
+   (BUTTON) Rechercher
+
+     * Français
+          + English
+          + Español
+          + Italiano
+          + Deutsch
+
+     * Partager
+          + Facebook
+          + Twitter
+          + Google+
+
+   ">
+   (BUTTON)
+
+     * Accueil
+     * Catalogue des 14284 livres
+     * Éditeurs
+     * Auteurs
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   (BUTTON) Français
+     * English
+     * Español
+     * Italiano
+     * Deutsch
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
+   Suivez-nous

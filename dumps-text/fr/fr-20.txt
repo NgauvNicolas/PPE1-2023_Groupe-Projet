@@ -1,0 +1,1478 @@
+   #prev next alternate alternate
+
+Logo d’Érudit Logo d’Érudit
+
+   (BUTTON)
+
+Menu principal
+
+     * Types de publications
+          + Revues
+          + Thèses et mémoires
+          + Livres et actes
+          + Rapports de recherche
+     * Connexion
+     * À propos
+          + Érudit
+          + Coalition Publica
+          + CO.SHS
+          + Partenariat
+          + Rapport annuel
+     * Recherche avancée
+     * FR
+          + Français
+          + English
+     * Ma bibliothèque
+
+   Recherche simple
+   ____________________ (BUTTON)
+
+Fil d'Ariane
+
+     * Érudit
+     * Revues
+     * Politique et Sociétés
+     * Volume 40, numéro 2, 2021, p. 3-240
+     * Mouvements sociaux, politique des partis et l’évolution du
+       nationalisme hongkongais
+
+   Articles non thématiques
+
+Mouvements sociaux, politique des partis et l’évolution du nationalisme
+hongkongais
+
+     * Jean-François Dupré
+
+   …plus d’informations
+     * Jean-François Dupré
+       Institut de sociologie, Academia Sinica
+       jfdupre@connect.hku.hk
+
+   Couverture de Volume 40, numéro 2, 2021, p. 3-240, Politique et
+   Sociétés
+
+   Diffusion numérique : 9 juin 2021
+
+   URI
+          https://id.erudit.org/iderudit/1077869ar adresse copiéeune
+          erreur s'est produite
+
+   DOI
+          https://doi.org/10.7202/1077869ar adresse copiéeune erreur s'est
+          produite
+
+   Un article de la revue Politique et Sociétés
+
+   Volume 40, numéro 2, 2021, p. 51–74
+
+   © Société québécoise de science politique, 2021
+
+Feuilleter les articles de ce numéro
+
+Modernisation de la théorie de l’État de Bergeron grâce à une étude de cas
+sur les amish du vieil ordre de l’Ontario
+
+Le multiculturalisme est-il relativiste ?
+
+Plan de l’article
+
+     * Retour au début
+     * Résumé
+     *
+          + Transformation des mouvements sociaux : perspectives
+            théoriques
+          + L’identité hongkongaise à l’époque britannique
+          + Le nationalisme comme réponse aux flux de populations du
+            continent chinois ?
+          + De mouvements sociaux nativistes à partis politiques
+            nationalisants
+          + « Reconquérons Hong Kong ! » : du conseil législatif à la
+            ligne de front
+          + Conclusion
+     * Note biographique
+     * Notes
+     * Bibliographie
+
+   Voeux 2023
+
+Boîte à outils
+
+     *
+     * SauvegarderSupprimer
+     * PDFTélécharger
+     * Citer cet article
+     * Partager
+
+Résumés
+
+Résumé
+
+   Ce texte se penche sur l’émergence et l’évolution du nationalisme
+   hongkongais dans le contexte de la politique des partis et de la
+   politique contestataire au cours des dernières années. Identifiant
+   d’une part des effets de polarisation et de fragmentation du système
+   des partis, et d’autre part un élargissement des revendications
+   identitaires, ce texte trace le processus par lequel le nationalisme
+   hongkongais a évolué à partir de mouvements ethnicistes vers une
+   idéologie plus multidimensionnelle et à prépondérance civique. Il
+   maintient que, dans un premier temps, l’institutionnalisation de ces
+   mouvements en partis politiques, en réponse à l’échec du processus de
+   démocratisation en 2014, a nécessité l’adoption de plateformes à la
+   fois plus nuancées et pragmatiques leur permettant de compétitionner
+   avec les partis pan-démocrates, entraînant une maturation des
+   revendications identitaires hongkongaises dans leur ensemble. Dans un
+   second temps, la répression des partis nationalistes par le
+   gouvernement a forcé leur retour à la politique de rue, permettant la
+   consolidation d’une alliance multiniveau entre les forces démocratiques
+   et plus radicales contre l’emprise grandissante de Pékin et
+   l’autoritarisme montant du gouvernement hongkongais.
+
+   Mots-clés :
+     * Hong Kong,
+     * identité,
+     * mouvements sociaux,
+     * nationalisme,
+     * politique des partis
+
+Abstract
+
+   This paper looks into the emergence and the evolution of Hong Kong
+   nationalism in the context of party and contentious politics over the
+   past years. Identifying on the one hand effects of polarization and
+   fragmentation in the party system, and on the other hand a broadening
+   of identity claims, this paper traces the process through which Hong
+   Kong nationalism evolved from ethnicist movements into a more
+   multidimensional and predominantly civic ideology. It argues firstly
+   that the institutionalization of these movements into political parties
+   in response to the failure of the democratization process in 2014
+   required the adoption of more nuanced and pragmatic platforms allowing
+   them to compete with pan-democratic parties, bringing about a
+   maturation of Hong Kong identity claims as a whole. Secondly, the
+   government’s crackdown on nationalist parties has forced their return
+   to street politics, allowing the consolidation of a multi-level
+   alliance between pan-democratic and more radical forces against
+   Beijing’s increasing grip and the Hong Kong government’s mounting
+   authoritarianism.
+
+   Keywords:
+     * Hong Kong,
+     * identity,
+     * nationalism,
+     * party politics,
+     * social movements
+
+Corps de l’article
+
+   L’émergence du nationalisme hongkongais constitue un des événements les
+   plus marquants de la décennie dans la région. En effet, jusqu’à
+   récemment, les Hongkongais étaient habituellement dépeints comme des
+   gens pragmatiques, peu intéressés par les questions identitaires. En
+   2008, Gordon Mathews, Eric Kit-wai Ma et Tai-lok Lui publiaient un
+   ouvrage dans lequel ils analysaient l’apprentissage difficile des
+   Hongkongais « d’appartenir à une nation » – la Chine –, rejetant
+   l’idée, encore jugée farfelue à l’époque, que Hong Kong pouvait en soi
+   être l’objet d’une identité nationale. Pourtant, en l’espace de
+   quelques années, diverses dimensions idéologiques d’une politique
+   identitaire à caractère nationalisant ont été articulées. Les
+   chercheurs dont les études portent principalement sur le mouvement
+   nativiste antichinois (Ip 2015 ; Sautman et Yan 2015 ; Lowe et Tsang
+   2017) ont surtout mis l’accent sur la dimension ethnique et ethniciste,
+   voire raciste, du nationalisme hongkongais. D’autres, comme Yun-chung
+   Chen et Mirana M. Szeto (2015) et Sebastian Veg (2017), font une
+   distinction entre ce courant ethniciste et le « localisme » de nature
+   plus civique et inclusive prôné par certains groupes dont les
+   revendications pour l’autodétermination se fondent surtout sur les
+   principes de la souveraineté populaire et de la démocratie. Ce texte
+   porte un regard d’ensemble sur la question, voyant les facettes
+   ethnicistes et civiques comme des éléments complémentaires dans
+   l’émergence et dans l’évolution d’un mouvement identitaire qui demeure
+   cependant fragmenté.
+
+   En effet, ce nationalisme hongkongais (dans son sens large) rassemble
+   une panoplie d’idéologies politiques mettant l’accent sur le caractère
+   distinctif de Hong Kong et contestant les revendications culturelles et
+   politiques de Pékin à son égard. Le « localisme progressiste » (Chen et
+   Szeto 2015) des années 2000, une forme de régionalisme mettant de
+   l’avant le patrimoine local et les intérêts locaux, a été suivi au
+   début des années 2010 par un nativisme antichinois ciblant les
+   visiteurs et les immigrants de la Chine continentale. Quelques années
+   plus tard, l’idée de Hong Kong en tant que nation gagnait du terrain,
+   et c’est surtout après l’échec du mouvement de démocratisation en 2014
+   que diverses demandes d’autodétermination ont été formulées. Dans leur
+   forme autonomiste, ces demandes ont été articulées sous les rubriques
+   d’autodétermination démocratique, qui fait référence au droit des
+   Hongkongais de décider de leur système politique et d’adopter ses
+   réformes démocratiques sans l’intervention de Pékin, et
+   d’autodétermination nationale, qui elle fait référence au droit des
+   Hongkongais de décider du statut de leur « nation » et de son autonomie
+   vis-à-vis la Chine. Dans leur forme indépendantiste, ces revendications
+   se traduisent par un appel à l’indépendance nationale de Hong Kong, une
+   option que les autodéterminationnistes voient comme étant légitime mais
+   de dernier recours, préférant mettre de l’avant une formule
+   fédéralisante. Bref, quoiqu’au départ se manifestant par un simple
+   régionalisme, ces idéologies ont évolué vers des discours ethnicistes,
+   autodéterminationnistes et indépendantistes clairement nationalisants.
+   À la lumière du soulèvement populaire de 2019, force est de constater
+   l’ampleur du changement idéologique et stratégique à Hong Kong, surtout
+   chez les jeunes (Lin 2016 ; Cheng 2019).
+
+   En s’appuyant sur les concepts clés de structure des opportunités, de
+   cycle de mobilisation et d’institutionnalisation, ce texte maintient
+   que le nationalisme hongkongais a émergé en réponse à l’emprise
+   grandissante de Pékin sur la société hongkongaise et sur son
+   gouvernement autoritaire semi-compétitif, pour évoluer en tandem avec
+   les développements au niveau de la politique des partis, eux-mêmes
+   encouragés par l’arrivée dans l’électorat d’une jeunesse fortement
+   démocrate, progressiste et antiautoritariste. Ce faisant, il souligne
+   le caractère stratégique du nationalisme et de ses courants
+   sous-jacents dans le contexte de la politique contestataire et des
+   partis, plutôt que ses fondements intellectuels ou purement culturels.
+   Le texte est divisé en cinq sections. La première explique le cadre
+   théorique sur lequel s’appuie l’analyse et élabore son argument
+   principal. La deuxième section brosse un portrait de l’identité
+   hongkongaise à l’époque britannique et de son évolution jusqu’au
+   transfert de souveraineté en 1997, tandis que la troisième trace
+   l’émergence du mouvement nativiste dans son opposition aux flux de
+   population du continent chinois au cours de la dernière décennie. La
+   quatrième section relate l’essor et la prolifération de groupes
+   autodéterminationnistes dans les mois suivant l’échec du mouvement des
+   parapluies en 2014 et trace l’évolution de ces organisations en partis
+   politiques, surtout dans le cadre des élections législatives de 2016.
+   Finalement, la cinquième section décrit la répression des partis
+   indépendantistes par le gouvernement, et explique comment cette
+   répression a permis une nouvelle alliance entre les forces démocrates
+   et plus radicales, dont les nationalistes, surtout dans le contexte du
+   soulèvement populaire de 2019.
+
+Transformation des mouvements sociaux : perspectives théoriques
+
+   Ce texte s’intéresse principalement à la relation entre la politique
+   formelle – celle des partis – et la politique contestataire – celle des
+   mouvements sociaux – dans l’évolution du nationalisme et de la
+   politique identitaire. La question de la transformation des mouvements
+   en partis politiques a reçu une attention considérable dans les milieux
+   universitaires, quoique le cas de Hong Kong n’ait été traité que de
+   façon superficielle. Comme le mentionnent David Close et Gary Prevost
+   (2007, 9), une partie non négligeable des écrits initiaux sur ce sujet
+   est issue d’études sur les mouvements agraires des prairies canadiennes
+   (par exemple, Lipset 1950 ; Zakuta 1964 ; Clark, Grayson et Grayson
+   1976). Plus récemment, Kalowatie Deonandan, David Close et Gary Prevost
+   (2007) ont étudié l’évolution des mouvements révolutionnaires en partis
+   en Amérique latine et en Afrique. Ils maintiennent que, chez la plupart
+   des groupes armés, le saut en politique électorale requiert non
+   seulement une adaptation à un nouveau mode de fonctionnement vers le
+   monde extérieur, mais aussi une restructuration à l’interne visant à
+   établir une ligne de pouvoir plus horizontale (Close et Prevost
+   2007, 8). Ces questions d’ordres opérationnel et structurel demeurent
+   pertinentes non seulement aux groupes armés, mais aussi à des cas plus
+   variés de transition de mouvements à partis.
+
+   Ces questions sont aussi présentes dans les travaux de Sidney Tarrow
+   (2011, 190). Par exemple, celui-ci souligne l’importance du processus
+   d’institutionnalisation des mouvements, l’une des dernières étapes du
+   cycle de mobilisation, « which combines the formalization of the
+   internal structure of [a social movement organization] with moderation
+   of its goals » (ibid., 212). Tarrow perçoit l’institutionnalisation
+   comme faisant partie d’une logique de déradicalisation, la définissant
+   comme « a movement away from extreme ideologies and/or the adoption of
+   more conventional and less disruptive forms of contention »
+   (ibid., 207). Alors que les mouvements-partis adoptent une organisation
+   plus horizontale et se soumettent aux règles et aux normes de la
+   politique formelle, ils réajustent leur mode de fonctionnement en
+   fonction de celles-ci. Dans la plupart des cas, cette transition
+   demande un certain degré de déradicalisation sur les plans idéologique
+   et opérationnel, puisque les stratégies sont maintenant confinées à
+   celles permises dans l’arène politique. Cela s’applique également aux
+   objectifs, qui doivent être viables sur le plan politique, non
+   seulement en répondant aux attentes d’une tranche de l’électorat que
+   l’on veut suffisamment large, mais aussi en réduisant les craintes des
+   partenaires politiques potentiels.
+
+   Un autre concept central dans la littérature sur les mouvements sociaux
+   est celui de structure des opportunités (McAdam 1996 ; Tarrow 2011).
+   Dans ses théories sur la formation des mouvements sociaux, Tarrow
+   (2011, 32) définit ces structures comme de « consistent – but not
+   necessarily formal, permanent, or national – sets of clues that
+   encourage people to engage in contentious politics ». Différentes
+   composantes de ces structures des opportunités ont été utilisées pour
+   expliquer non seulement l’émergence des mouvements sociaux ainsi que
+   leur succès (ou échec), mais aussi pour évaluer les motivations qui
+   poussent certains mouvements à se réorganiser en partis politiques.
+   Nicole Bolleyer et Evelyn Bytzek (2013) suggèrent que les nouveaux
+   partis qui maintiennent des liens avec des organismes d’action sociale
+   connaissent généralement de meilleurs succès électoraux que les partis
+   entrants représentés par les entrepreneurs politiques aux liens limités
+   avec la société civile – ce secteur de la politique informelle où
+   s’organisent l’action et la contestation sociale. Cependant, l’entrée
+   en politique n’est pas la seule option offerte aux organisations
+   d’action sociale. Tous les mouvements ne se transforment pas en partis,
+   l’entrée en politique n’étant qu’une option parmi tant d’autres
+   (McAdam, Tarrow et Tilly 1998, 21). Benjamin Farrer (2014) montre que
+   la création de partis de niche est une solution particulièrement
+   judicieuse pour les activistes qui interviennent dans des systèmes peu
+   réceptifs à la dissidence. Ces observations se prêtent bien au système
+   de Hong Kong, un système corporatiste, semi-compétitif et hautement
+   dominé par un exécutif non élu, et dans lequel l’exécutif et les partis
+   pro-gouvernement, qui sont institutionnellement privilégiés, n’abordent
+   que rarement les demandes des activistes pour la démocratie, encore
+   moins celles des nationalistes hongkongais (Kwong 2018).
+
+   Ce texte conçoit l’évolution de la politique identitaire et l’émergence
+   du nationalisme hongkongais au cours des dernières années comme un
+   produit de la structure des opportunités offertes par le système des
+   partis semi-compétitif de Hong Kong. De manière plus précise, ce texte
+   identifie des processus concomitants (d’une part) de radicalisation et
+   de polarisation dans le système des partis hongkongais, et (d’autre
+   part) de transformation des modes opérationnel et structurel des
+   mouvements nationalistes dans le cadre de leur institutionnalisation.
+   La radicalisation du système des partis hongkongais a précédé
+   l’articulation même du nationalisme hongkongais, remontant à l’entrée
+   des sociaux-démocrates au milieu des années 2000. Depuis, le système
+   des partis s’est fragmenté de façon croissante et continue (Ma 2011).
+   En particulier, le camp démocrate s’est vu divisé non seulement sur les
+   stratégies à utiliser pour faire accélérer la cause de la démocratie,
+   mais aussi sur les fondements mêmes de cette démocratie. Tandis que le
+   Democratic Party a privilégié une stratégie modérée sujette aux
+   compromis avec le régime autoritaire, les partis tels que le Civic
+   Party, les Neo Democrats, la League of Social Democrats et People
+   Power, établis entre 2006 et 2011, ont adopté des discours et des
+   tactiques de plus en plus conflictuels. Certains de ces partis ont
+   aussi adopté des plateformes plus gauchistes dans une région où le
+   capitalisme est roi. Ce processus graduel de radicalisation a ouvert un
+   espace pour les partis de niche prônant non seulement la
+   démocratisation, mais aussi l’autodétermination ou même l’indépendance
+   de Hong Kong. Or, ces derniers ont été créés sur la base de groupes qui
+   préconisaient aussi des tactiques plus agressives et conflictuelles,
+   telles que des confrontations musclées avec la police. Le processus de
+   radicalisation s’est donc manifesté autant au niveau des idées que des
+   stratégies d’action.
+
+   C’était particulièrement le cas après 2014, année où tous les espoirs
+   pour la démocratisation se sont effondrés. Le 31 août 2014, après de
+   houleuses négociations, Pékin a rendu sa décision sur la réforme
+   électorale, refusant la mise en oeuvre de réformes véritablement
+   démocratiques, ce qui a mené au gigantesque mouvement de désobéissance
+   civile des parapluies qui, tout comme le processus formel de
+   négociation, s’est soldé par un échec. L’incapacité de faire progresser
+   la démocratie par des moyens tout autant institutionnalisés que non
+   institutionnalisés a créé une opportunité pour l’émergence
+   d’organisations à vocation autodéterminationniste ainsi que pour la
+   croissance d’organisations nativistes et antichinoises récemment
+   établies. Ces organisations ont profité de l’impasse politique dans la
+   législature pour se réorganiser en partis, offrant une troisième option
+   à celles de la collaboration avec le régime autoritaire-libéral de Hong
+   Kong et de la démocratisation graduelle (qui semblait vouée à
+   l’échec) : celle de l’autodétermination, voire de l’indépendance. C’est
+   dans ce processus d’institutionnalisation en partis politiques que des
+   groupes de défense de diverses idéologies nationalisantes, parfois à
+   tendances ethnicistes et xénophobes, ont été portés à se déradicaliser
+   ou à transformer leurs revendications de façon à mettre de l’avant une
+   notion plus civique qu’ethniciste. Cela a permis à ces partis de
+   reconfigurer le système des partis de façon à se positionner non
+   seulement en tant qu’aile radicale de l’opposition démocrate, mais
+   aussi en tant que compétiteurs à celle-ci. La déradicalisation des
+   groupes ethnicistes a donc fait partie du processus plus large de
+   radicalisation du système des partis, tout en contribuant à sa
+   fragmentation.
+
+   Cependant, les cycles de mobilisation n’évoluent pas nécessairement de
+   façon complètement linéaire, et la réponse des autorités en place aux
+   stratégies de l’opposition peut reconfigurer la structure des
+   opportunités ainsi que le système d’alliances politiques. L’une des
+   stratégies principales des autorités face à la mobilisation est la
+   répression (Tarrow 2011, 190), et c’est précisément cette stratégie
+   qu’ont utilisée les gouvernements chinois et hongkongais. Cette
+   répression a eu pour effet de reconfigurer de nouveau la structure des
+   opportunités, de façon à repousser les groupes indépendantistes vers la
+   politique informelle « de rue », permettant aux partis démocrates de
+   remonopoliser l’opposition officielle. Durant les événements de 2019,
+   qui ont commencé par un mouvement d’opposition contre un projet de loi
+   visant à autoriser les extraditions vers la Chine, l’alliance de
+   convenance entre les partis démocrates et les groupes plus radicaux
+   (dont les nationalistes) a été renforcée, avec les premiers exerçant
+   leur opposition dans les milieux formels, notamment le conseil
+   législatif, et les derniers jouant un rôle important dans les
+   mouvements de politique contestataire.
+
+L’identité hongkongaise à l’époque britannique
+
+   Dans les années 1960 et 1970, les études sur l’identité et la culture
+   politique à Hong Kong identifiaient une « mentalité de réfugié »
+   (Hughes 1968) selon laquelle une majorité d’habitants, voyant Hong Kong
+   comme un « canoë de survie » (Hoadley 1970, dans Mathews, Ma, et Lui
+   2008, 27), se désintéressaient de la politique. Une proportion
+   substantielle de la population hongkongaise avait fui le désastre
+   social, économique et politique de la Chine communiste, et semblait
+   reconnaissante de vivre dans une société stable et prospère, avec un
+   minimum d’interférence du gouvernement. En ce sens, l’administration
+   coloniale, malgré son système autoritaire et corporatiste, répondait
+   probablement aux attentes d’une grande partie de la population
+   (Mathews, Ma et Lui 2008, 34-35). Chez leur progéniture, cette
+   mentalité de réfugié allait se projeter en une « mentalité de marché »
+   dans laquelle les récits de l’exil et de la quête de la sécurité se
+   sont métamorphosés en un matérialisme et un pragmatisme cosmopolites
+   tout aussi dépourvus de composante identitaire bien définie
+   (ibid., 29). Selon ces analyses, la culture politique de Hong Kong en
+   était une « de clocher » ou « de sujet » (parochial-subject) (Hoadley
+   1973 ; King 1977 ; Lam 2012, 201), correspondant à des niveaux
+   d’intérêt et de participation faibles dans l’arène politique. Cela
+   résultait en une attitude de réserve et d’apathie, voire de cynisme
+   face à la politique, combinée à une dépolitisation généralisée. Le
+   célèbre sociologue Siu-kai Lau (1982) a qualifié cette situation, dans
+   laquelle les Hongkongais priorisaient les intérêts de leur famille
+   au-delà de ceux de l’individu ou de la société, de « familisme
+   utilitariste » (utilitarian familism). Dans ce contexte, les
+   Hongkongais n’étaient portés ni à articuler une identité locale forte,
+   ni à proclamer une identité chinoise ou anticoloniale ferme. Il en
+   était de même pour ce qui est des revendications démocratiques sous le
+   régime britannique.
+
+   Au début des années 1980, l’annonce du transfert de Hong Kong à la
+   Chine pour le 1^er juillet 1997 allait remettre les questions d’ordre
+   politique au premier plan. En 1984, le Royaume-Uni et la Chine
+   signaient la Déclaration commune sino-britannique, promettant à Hong
+   Kong le maintien de son mode de vie capitaliste ainsi qu’un degré
+   d’autonomie élevé pour une période d’au moins cinquante ans. Articulé
+   sous les principes d’« un pays, deux systèmes » et des « Hongkongais
+   gouvernant Hong Kong » (Constitutional and Mainland Affairs Bureau
+   2007), le régime d’autonomie de la ville, qui allait se voir octroyer
+   le statut de « Région administrative spéciale » (RAS) de la République
+   populaire de Chine, était conçu de façon à créer une illusion
+   d’autodétermination, ou du moins d’autogouvernance. Ce régime
+   d’autonomie allait être encadré par la Loi fondamentale de Hong Kong,
+   une mini-constitution rédigée sous la supervision du gouvernement
+   chinois et qui, entre autres, faisait allusion à une démocratisation
+   éventuelle, quoique progressive, de Hong Kong après le transfert de
+   souveraineté. Néanmoins, ces mesures se sont faites peu rassurantes, si
+   bien que les années 1980 et 1990 ont été marquées par un phénomène
+   d’émigration (en partie vers le Canada), accéléré par le massacre de
+   Tian’anmen en 1989. Les manifestations pour la démocratisation en Chine
+   et le massacre qui les a étouffées ont provoqué chez les Hongkongais un
+   regain d’intérêt pour la politique. C’est en partie pour dissiper les
+   craintes associées au transfert de souveraineté que l’administration
+   britannique a mis en marche un processus de démocratisation très
+   partielle de la législature hongkongaise dans les années 1980 et 1990.
+
+Le nationalisme comme réponse aux flux de populations du continent chinois ?
+
+   Malgré ces événements, la transition s’est faite sans incident majeur
+   et s’est poursuivie dans le calme relatif jusqu’en 2003, année de
+   l’épidémie de SRAS (syndrome respiratoire aigu sévère) et de la saga de
+   l’article 23 de la Loi fondamentale, qui réclamait l’adoption par le
+   gouvernement hongkongais d’une loi sur la sécurité nationale.
+   L’épidémie du SRAS a causé une panique non seulement chez les habitants
+   mais aussi dans les secteurs de l’immobilier, du tourisme et de la
+   vente au détail. C’est en partie sous prétexte de stimuler ces secteurs
+   que le gouvernement central a lancé, en juillet 2003, des programmes
+   permettant aux citoyens chinois de visiter Hong Kong sur une base
+   individuelle plutôt qu’en groupes organisés. L’année 2003 marque aussi
+   la signature de l’Accord de rapprochement économique entre Hong Kong et
+   la Chine, qui allait favoriser l’intégration économique de Hong Kong à
+   la Chine. Comme nous le verrons sous peu, les effets de ces initiatives
+   prendront quelques années à se faire ressentir, mais leurs conséquences
+   sur l’émergence du nationalisme hongkongais seront décisives. Le projet
+   de loi sur la sécurité nationale, quant à lui, a provoqué un sentiment
+   d’insécurité face à ses implications à long terme sur les droits et
+   libertés des Hongkongais, qui risquaient de se voir bafoués sous
+   prétexte de protéger les intérêts nationaux tels que définis par Pékin.
+   Cela a poussé des centaines de milliers de résidents à descendre dans
+   la rue, obligeant le gouvernement local à mettre le projet de côté
+   (Chan et Chan 2007). Ces événements témoignent de la « maturation » de
+   la société civile hongkongaise de l’époque (ibid., 78), en ce sens que
+   les groupes d’action sociale et de contestation politique ont su
+   exercer un contrepoids efficace aux initiatives du gouvernement et ont
+   probablement joué un rôle clé dans l’émergence d’une nouvelle
+   solidarité hongkongaise. En même temps, la décision du gouvernement de
+   mettre le projet en veilleuse, conjuguée à une propagande
+   internationale sur la montée de la Chine qui allait culminer avec les
+   impressionnants Jeux olympiques de 2008, semble avoir renouvelé la
+   confiance des Hongkongais envers leur suzerain.
+
+   La première décennie du transfert de souveraineté coïncide aussi avec
+   l’émergence d’une première forme de mouvement identitaire que Chen et
+   Szeto (2015) qualifient de « localisme progressiste ». Ce localisme
+   s’est manifesté dans des mouvements pour la préservation du patrimoine
+   local, tels ceux s’opposant au redéveloppement de la rue Lee Tung entre
+   2005 et 2007, à la destruction du quai du Star Ferry en 2006, ainsi
+   qu’à celle du quai de la Reine en 2007. Ces mouvements se penchaient
+   principalement sur la préservation du patrimoine architectural et
+   communautaire de Hong Kong, dont certains aspects de son patrimoine
+   colonial. Chen et Szeto soutiennent que cette préoccupation ne
+   constituait non pas une simple expression de nostalgie pour l’époque
+   coloniale et d’antagonisme envers la Chine, mais bien une
+   réappropriation de l’histoire de Hong Kong et de sa population dans une
+   perspective plus nuancée. Ils montrent par exemple la façon dont le
+   quai de la Reine a été réinterprété comme le repère de plusieurs
+   mouvements sociaux dans l’après-guerre, parfois en opposition à
+   certains aspects de l’administration coloniale. Si ces mouvements ont
+   eu un effet considérable sur la conscience et l’identité collective des
+   Hongkongais, ils s’inscrivent plus dans une logique de méfiance envers
+   le gouvernement de Hong Kong et sa collusion avec les promoteurs
+   immobiliers que dans un esprit de nationalisme en tant que tel.
+
+   La lune de miel avec la Chine s’est cependant gâchée dès la fin des
+   Olympiques de Pékin, entre autres avec le scandale du lait frelaté de
+   septembre 2008. D’une part, l’hospitalisation de dizaines de milliers
+   de nourrissons en Chine et la mort de quelques-uns d’entre eux en
+   raison d’une formule de lait maternisé à laquelle les producteurs
+   avaient ajouté de la mélamine pour réduire les coûts de production a
+   terni l’image de la Chine. D’autre part, cet événement a contribué à
+   l’essor du « commerce parallèle » (parallel trading), une forme de
+   contrebande rendue possible grâce à des politiques et à des contrôles
+   souples sur le passage des biens de marchandise entre la Chine et Hong
+   Kong. La perte de confiance des consommateurs chinois en la qualité des
+   produits domestiques a augmenté la demande pour les biens essentiels
+   importés, ce qui amena nombre de Chinois – depuis 2003 autorisés à
+   visiter Hong Kong sur une base individuelle – à se livrer à l’activité
+   lucrative de la revente de biens achetés à Hong Kong. Quoique faisant
+   la joie des intérêts commerciaux de Hong Kong, le commerce parallèle a
+   incommodé plusieurs résidents locaux en créant des pénuries ainsi
+   qu’une hausse des prix de certains biens considérés essentiels (en
+   l’occurrence le lait maternisé)[1]. Le commerce parallèle a aussi
+   apporté une hausse importante des passagers continentaux (et de leurs
+   bagages ou marchandises) sur le train entre la Chine et Hong Kong ainsi
+   qu’à Hong Kong même, ville déjà très densément peuplée. Le nombre
+   annuel de visiteurs chinois aurait en effet sextuplé entre 2003 et
+   2014, passant de moins de 10 millions à près de 50 millions (Ip
+   2015, 413 ; Fong 2017, 15). Selon les nativistes, ce va-et-vient aurait
+   entre autres transformé Sheung Shui, le district le plus facilement
+   accessible de la Chine par voie ferroviaire, en un véritable centre du
+   commerce parallèle. Suivant la loi du marché, ce commerce aurait, par
+   exemple, accéléré la hausse vertigineuse des loyers résidentiels et
+   commerciaux, et entraîné la fermeture de multiples commerces de longue
+   date, qui ont souvent été remplacés par des pharmacies ou autres
+   magasins largement destinés au commerce parallèle ou aux touristes du
+   continent.
+
+   La réaction de l’opposition politique et civile face à ces changements
+   n’a pas été immédiate et, à part quelques controverses médiatiques, les
+   projecteurs sont pour la plupart restés tournés vers la politique des
+   partis et les impasses sur la réforme politique entre 2008 et 2012, qui
+   elle-même signalait des changements sous-jacents dans la structure des
+   opportunités politiques. La politique des partis à cette époque était
+   caractérisée par la montée d’un radicalisme idéologique et stratégique
+   relatif, notamment avec la création de la League of Social Democrats en
+   2006, une formation beaucoup plus à gauche que les autres partis
+   démocrates, et dont les élus avaient tendance à perturber les
+   procédures législatives en criant des insultes ou même en lançant des
+   objets à leurs opposants, dont le chef de l’exécutif, qui est en
+   pratique indirectement nommé par Pékin. La montée de ce radicalisme a
+   joué un rôle dans le morcellement du camp pan-démocrate durant les
+   négociations sur les réformes démocratiques, alors que plusieurs de
+   leurs élus (et électeurs) ont tourné le dos au Democratic Party pour
+   leur modération et leur volonté de transiger sur le calendrier et sur
+   l’étendue des réformes (Ma 2011).
+
+   La publication, en 2011, de Discours sur la cité de Hong Kong, par
+   Horace Wan Chin, ancien directeur de recherche au Département des
+   affaires internes du gouvernement de Hong Kong (Sautman et Yan
+   2015, 66) et professeur à l’Université Lingnan, a contribué à
+   réorienter le projecteur vers le soi-disant « problème » des flux de
+   population. Basé sur des idées qu’il véhiculait sur Facebook depuis
+   2009 (Kwok 2016), cet ouvrage constitue en effet la première tentative
+   d’articuler une idéologie identitaire hongkongaise nationalisante aux
+   tendances nativistes et populistes. Paradoxalement, l’ouvrage s’inscrit
+   dans une tradition de nationalisme culturel chinois qui fait l’éloge de
+   la civilisation chinoise et de son héritage culturel, mais qui voit en
+   la Chine communiste une perversion de cette civilisation (Cheung
+   2015, 461). Selon Chin, Hong Kong, ayant été épargné des mouvements
+   communistes visant la destruction de plusieurs aspects de la culture
+   chinoise traditionnelle, serait dans une position privilégiée pour
+   faire revivre et s’épanouir cet héritage culturel chinois. Voyant Hong
+   Kong comme une ville-État déjà autogouvernée, Chin ne préconise pas
+   l’indépendance de Hong Kong, mais souligne plutôt le besoin de
+   consolider son autonomie au sein d’une Chine qui doit, selon lui, se
+   décentraliser. La mesure la plus pressante serait la prise de contrôle
+   sur les flux de population de la Chine afin d’empêcher les visiteurs et
+   les immigrants continentaux, qu’il qualifie de « sauterelles » (dans
+   leur attribut parasitique), d’entrer à Hong Kong pour bénéficier des
+   services sociaux locaux (Cheung 2015, 462). Ces discours, jusque-là
+   inédits dans une ville où régnait le pragmatisme, ont été accueillis
+   non seulement avec stupéfaction, mais aussi avec intérêt. Chin a dirigé
+   le Hong Kong Autonomy Movement entre 2011 et 2013, pour ensuite créer
+   Hong Kong Resurgence en 2014, qui a pris la forme d’un parti politique
+   (Sautman et Yan 2015, 67).
+
+   C’est donc en grande partie la question des changements migratoires, en
+   soi un mode de mobilisation courant des mouvements nationalistes, qui a
+   ouvert de nouvelles opportunités politiques et constitué le fondement
+   du nationalisme populaire émergent. Or, ces changements migratoires
+   étaient justement causés par les politiques du gouvernement central
+   visant à intégrer l’économie (et probablement aussi la société) de Hong
+   Kong au continent, surtout depuis 2003 – donc en réponse à la
+   contestation sociopolitique. En 2011 et 2012, plusieurs mouvements
+   sociaux à tendances nativistes ont émergé, probablement en partie
+   inspirés des écrits de Chin, mais aussi en réponse à diverses
+   frustrations populaires dont Chin s’inspirait lui-même : impasse dans
+   le processus de démocratisation, hausses record et incessantes des prix
+   de l’immobilier, perspectives d’emploi limitées, etc. Par exemple, en
+   janvier 2012 une controverse a émergé au sujet du « tourisme de
+   naissance », un phénomène marginal mais tout de même grandissant selon
+   lequel des femmes chinoises non résidentes venaient donner naissance à
+   Hong Kong, parfois dans des hôpitaux publics, afin d’assurer l’octroi
+   de la résidence permanente à leur nouveau-né. Ces frustrations,
+   conjuguées aux dérangements occasionnés par des millions de visiteurs
+   chinois dans une ville déjà extrêmement peuplée, et amplifiées par
+   l’essor des médias sociaux, ont engendré une véritable chasse aux
+   sorcières dans laquelle des visiteurs chinois étaient filmés et
+   harcelés pour leur comportement jugé incompatible avec la culture
+   locale : manger dans le train, là où c’est interdit ; laisser ses
+   enfants uriner ou déféquer dans des endroits publics, parfois à
+   l’intérieur de la cabine du train ; cracher par terre ; refuser de
+   faire la file ; etc. C’est dans cette atmosphère que des internautes
+   hongkongais ont fait une levée de fonds pour publier, le 1^er février
+   2012, une annonce contre l’immigration chinoise d’une page complète
+   dans le tabloïde Apple Daily. C’est aussi en février 2012 que Yeung-tat
+   Wong, un présentateur de radio aux propos parfois controversés, fondait
+   l’organisation Civic Passion, qui publie par ailleurs Passion Times, un
+   réseau de nouvelles souvent polémiques. En septembre 2012, le mouvement
+   Reconquérons Sheung Shui a tenu des manifestations contre le commerce
+   parallèle à la station Sheung Shui, au cours desquelles des Chinois
+   continentaux ont été agressés verbalement. Faisant usage de l’ancien
+   drapeau colonial, de telles manifestations et campagnes d’intimidation
+   ont été tenues à plusieurs reprises, non seulement à Sheung Shui mais
+   aussi dans d’autres districts à forte présence chinoise continentale.
+   Barry Sautman et Hairong Yan (2015, 51) précisent à ce sujet : « By
+   2013, Mainlanders were blamed for (almost) everything. »
+
+   Outre les mouvements nativistes antichinois, 2012 a connu un événement
+   particulièrement significatif dans la montée du nationalisme
+   hongkongais et de la mobilisation de la question identitaire dans la
+   société civile : la campagne contre le curriculum d’enseignement moral
+   et national, destiné à entrer en vigueur en septembre de la même année
+   dans les écoles primaires. Vantant les vertus du Parti communiste et
+   mettant de l’avant des valeurs soi-disant « patriotiques »,
+   l’introduction du curriculum démontrait que, malgré le régime
+   d’autonomie de Hong Kong, Pékin était déterminé à endoctriner sa
+   population et à la transformer en patriotes chinois (Morris et Vickers
+   2015). Les inquiétudes sur le curriculum ont conduit à la création de
+   Scholarism, une association d’étudiants du secondaire dirigée par
+   Joshua Wong, qui allait devenir la figure de proue de la lutte pour la
+   démocratie et contre la continentalisation de Hong Kong. Face aux
+   manifestations massives, auxquelles ont participé non seulement
+   Scholarism mais aussi des enseignants, des parents et des citoyens
+   inquiets – y compris des groupes nativistes et démocrates –, le
+   gouvernement s’est vu contraint de rendre le curriculum optionnel. Bien
+   que les forces principales derrière les manifestations anticurriculum
+   et leur raisonnement étaient certes plus libéraux que les groupes
+   nativistes, la débâcle du curriculum ne pouvait qu’appuyer les soupçons
+   de ces derniers, qui depuis plusieurs mois peignaient l’immigration
+   chinoise comme une tactique de « colonisation ». D’ailleurs, une étude
+   empirique de Stan Hok-Wui Wong, Ngok Ma et Wai-man Lam (2016) suggère
+   que les immigrants chinois ont bel et bien tendance à afficher une
+   position politique conservatrice ainsi qu’à supporter l’exécutif et les
+   partis pro-gouvernement (et donc pro-Pékin) plutôt que le camp
+   démocrate, donnant ainsi un certain appui empirique à l’effet
+   « colonisateur » de l’immigration du continent.
+
+De mouvements sociaux nativistes à partis politiques nationalisants
+
+   Au départ, les mouvements nativistes étaient plutôt indépendants des
+   partis politiques. Quoique la plupart de ces groupes, tout comme
+   l’opposition démocrate, souhaitaient la démocratisation complète de
+   Hong Kong et critiquaient vivement plusieurs des politiques du
+   gouvernement (non élu) en place, le caractère et les discours de
+   certains de ces groupes s’apparentaient à une logique d’extrême droite
+   (Sautman et Yan 2015), ce qui rendait leur collaboration avec les
+   partis politiques démocrates problématique sur les plans stratégique et
+   idéologique. D’une part, dans un contexte de fragmentation du camp
+   démocratique, les partis démocrates voyaient l’arrivée d’une nouvelle
+   idéologie antigouvernementale comme une menace sur le plan électoral.
+   D’autre part, la promotion d’un nationalisme hongkongais, surtout dans
+   sa forme indépendantiste, risquait d’avoir un effet négatif en
+   justifiant une mainmise de Pékin encore plus ferme sur la société et la
+   politique locale. Cependant, à partir de 2014, des développements
+   politiques allaient ouvrir aux groupes nativistes de nouvelles
+   opportunités d’accès à la politique des partis. En particulier, la
+   décision du 31 août 2014, dans laquelle le gouvernement central, après
+   une longue période de négociations, a proposé aux démocrates un
+   processus de démocratisation jugé comme étant profondément lacunaire, a
+   eu un effet catalyseur sur la société civile. Selon l’offre du
+   gouvernement central, le chef de l’exécutif de Hong Kong serait, à
+   partir de 2017, bel et bien élu par suffrage universel. Bémol : un
+   comité fortement aligné au gouvernement central allait au préalable
+   entériner les candidatures (South China Morning Post 2014), permettant
+   au gouvernement central de choisir les candidats. Pour plusieurs, la
+   décision d’août a été la goutte qui a fait déborder le vase. Le
+   curriculum d’enseignement moral et national avait déjà semé une
+   certaine inquiétude, un sentiment d’insécurité vis-à-vis le régime
+   d’autonomie de Hong Kong et la vitalité – voire, à long terme, la
+   survie – de la communauté hongkongaise. Ce sentiment d’insécurité a
+   frappé la jeunesse hongkongaise de façon particulièrement marquée. Avec
+   la décision d’août, le message était maintenant clair : la Chine était
+   déterminée à étendre son contrôle politique sur Hong Kong. Le cadre
+   constitutionnel sur lequel résidait son autonomie n’accordait aucune
+   protection réelle à Hong Kong puisque Pékin pouvait, à sa guise, en
+   interpréter les modalités et s’ingérer dans ses affaires.
+
+   La décision d’août a ouvert de nouvelles opportunités de contestation
+   et mené au mouvement des parapluies, durant lequel plusieurs
+   organisations – dont les partis démocrates, Scholarism, la plupart des
+   associations étudiantes universitaires, ainsi que plusieurs membres des
+   groupes nativistes – ont occupé plusieurs districts clés de Hong Kong
+   de septembre à décembre 2014. Joshua Wong – leader du mouvement contre
+   le curriculum d’enseignement moral et national en 2012 – était
+   d’ailleurs un des principaux leaders du mouvement de désobéissance
+   civile. Quoique partiellement décentralisé et improvisé, le mouvement a
+   eu un effet rassembleur, notamment sur la jeunesse, qui semblait plus
+   sujette à adhérer aux stratégies et aux idéologies comparativement
+   radicales. Quoique le mouvement des parapluies se soit conclu sans
+   gains immédiats pour les manifestants, ses effets se sont fait sentir,
+   entre autres, par la montée des revendications autonomistes, même
+   indépendantistes[2]. En 2015, deux importants groupes aux tendances
+   indépendantistes ont été fondés : Youngspiration et Hong Kong
+   Indigenous. Youngspiration a été fondé par Baggio Chung-Hang Leung, un
+   ancien président de l’association étudiante de la City University de
+   Hong Kong et activiste durant le mouvement des parapluies. Hong Kong
+   Indigenous a été créé par Ray Wong, un designer dans la vingtaine, qui
+   dit lui aussi avoir participé à ce mouvement (Sataline 2015). Au
+   départ, Hong Kong Indigenous a pris part, de concert avec Civic
+   Passion, à des manifestations contre le commerce parallèle dans les
+   Nouveaux Territoires. En février 2016, Edward Tin-Kei Leung,
+   porte-parole de Hong Kong Indigenous et leader spirituel du mouvement
+   indépendantiste, s’est fait connaître durant la révolution des
+   boulettes de poisson, qui a été la scène d’affrontements entre
+   manifestants et policiers[3]. Bref, les années qui ont suivi le
+   mouvement des parapluies ont été caractérisées par l’émergence de
+   groupes qui partageaient des idéologies, des valeurs et des tactiques
+   similaires et souvent nationalisantes. De façon générale, ces groupes
+   s’opposaient autant au gouvernement autoritaire hongkongais que
+   chinois, disaient vouloir protéger les intérêts et la culture des
+   habitants locaux et favorisaient l’action directe, voire certaines
+   formes de violence (du moins la violence verbale et l’intimidation),
+   contre les Chinois continentaux et les forces de l’ordre.
+
+   Plusieurs de ces groupes ont fait un saut en politique, surtout à
+   l’occasion des élections législatives de 2016, menant à la formation
+   d’un nouveau camp politique qualifié de « localiste » (Buntoupaai).
+   Dans le contexte des élections de 2016, trois factions se distinguaient
+   au sein du camp localiste : une nativiste, une indépendantiste et une
+   autodéterminationniste modérée. Pour les nativistes, dont Civic
+   Passion, l’implication dans l’arène politique remonte en fait à 2012.
+   Civic Passion avait en effet été établi afin de créer un élan pour sa
+   campagne électorale de Yeung-tat Wong, qui s’était présenté aux
+   législatives de 2012 pour le parti social-démocrate radical People
+   Power (Sautman et Yan 2015, 76). Dans le cadre des élections de 2016,
+   Wan Chin, utilisant son organisation Hong Kong Resurgence, a lancé une
+   campagne en partenariat avec Civic Passion et le Proletariat Political
+   Institute du vétéran social-démocrate Yuk-man Wong[4]. Comme nous
+   allons le voir bientôt, bien que ces groupes aient émergé des
+   mouvements nativistes antichinois, certains ont recalibré leur discours
+   de façon significative durant la campagne, pour se positionner d’abord
+   et avant tout en populistes garants des intérêts de Hong Kong.
+
+   Les indépendantistes[5], qui pour la plupart étaient d’ailleurs très
+   jeunes, avaient moins d’expérience politique que les nativistes. De
+   plus, leur accès au processus électoral a été entravé par le
+   gouvernement qui, craignant la montée de l’indépendantisme, a introduit
+   une nouvelle procédure pour demander aux candidats de signer un
+   formulaire déclarant que Hong Kong était une partie inaliénable de la
+   Chine. Edward Leung de Hong Kong Indigenous a bel et bien signé
+   l’engagement, mais sa candidature a tout de même été refusée par le
+   Bureau des élections en raison de ses propos antérieurs sur
+   l’indépendance (Ng, Cheung et Fung 2016). Baggio Leung, de
+   Youngspiration, a été choisi pour remplacer Edward Leung dans son
+   district. Youngspiration, qui avait déjà élu une députée dans les
+   élections des districts de 2015, a aussi décidé de s’allier à d’autres
+   groupes radicaux ou nationalisants sous la bannière #ALLinHK. En 2016,
+   Andy Ho-tin Chan, vétéran de l’aile plus radicale des manifestations de
+   2014, a fondé le Hong Kong National Party sur une plateforme
+   d’indépendance (Ng et Fung 2016). Tout comme Edward Leung, sa
+   candidature a été rejetée, cette fois-ci en raison de son refus de
+   signer la déclaration.
+
+   Finalement, la faction autodéterminationniste était représentée par de
+   jeunes libéraux issus du groupe Scholarism, ainsi que certaines
+   personnalités modérées. Toujours en 2016, des dirigeants de Scholarism
+   et de la Fédération des étudiants de Hong Kong ont fondé Demosistō, un
+   parti prônant l’autodétermination démocratique de Hong Kong mais ne
+   faisant pas explicitement la promotion de l’indépendance. En effet, par
+   « autodétermination démocratique », Demosistō faisait plutôt référence
+   à l’idée du droit des Hongkongais de déterminer eux-mêmes leur système
+   politique, quoiqu’ils désiraient aussi la tenue d’un référendum sur le
+   statut d’autonomie de Hong Kong après 2047, qui devait inclure l’option
+   de l’indépendance. En parlant d’autodétermination démocratique plutôt
+   que nationale, le parti mettait aussi de l’avant que
+   l’autodétermination de Hong Kong ne relevait pas d’une position
+   proprement nationaliste, mais s’appuyait plutôt sur un principe de
+   contrat social ou de souveraineté populaire[6]. D’autres personnalités
+   aux tendances localistes plus modérées ont aussi fait leur entrée sur
+   la scène politique. C’est le cas de Siu-lai Lau, enseignante en
+   sociologie, qui s’est présentée sous la bannière de Democracy
+   Groundwork. Lau avait déjà acquis un statut de notoriété chez les
+   jeunes en donnant des séances d’enseignement sur la démocratie et la
+   justice sociale dans les districts occupés du mouvement des parapluies
+   en 2014 (Ng 2016). En 2016, elle a été l’une des protagonistes
+   principales de la révolution des boulettes de poisson (voir note 3),
+   ayant délibérément vendu de la nourriture de rue sous les yeux des
+   agents du Département de l’hygiène en guise de protestation. Comme
+   Demosistō, elle favorisait l’idée de l’autodétermination démocratique.
+   Un autre autodéterminationniste modéré est Eddie Hoi-dick Chu de la
+   Land Justice League. Celui-ci, journaliste de profession, avait
+   participé à divers mouvements promouvant la protection du patrimoine
+   culturel hongkongais dans les années 2000, et son organisation s’était
+   fortement mobilisée pour la protection de villageois expropriés de
+   leurs terres par des projets de développement, certains visant
+   d’ailleurs la construction d’infrastructures reliant Hong Kong à la
+   Chine[7].
+
+   Bien que plusieurs autres groupes aient pris racine dans les mouvements
+   nativistes du début de la décennie, leur arrivée sur la scène politique
+   leur a permis, ou a du moins nécessité, l’acquisition d’un certain
+   pragmatisme et d’une certaine maturité. De façon globale, plusieurs de
+   ces groupes ont émergé d’une base activiste radicale dont les propos et
+   les tactiques s’apparentaient à certains groupes d’extrême droite, pour
+   développer des programmes électoraux plus larges et certainement moins
+   illibéraux qu’à l’origine. Par exemple, l’alliance Hong Kong Resurgence
+   – Civic Passion – Proletariat Political Institute a en partie fait
+   campagne sur le thème de la Loi fondamentale à perpétuité, appelant à
+   un renouvellement du statut d’autonomie de Hong Kong, qui risque de
+   tomber échu en 2047. S’adressant à un public plus large, y compris les
+   intérêts économiques (qui sont pour la plupart intimement reliés au
+   gouvernement), ces partis soulevaient par exemple les enjeux légaux et
+   économiques concernant l’après-2047, notamment en ce qui a trait aux
+   baux de longue durée[8]. D’autres partis, autant radicaux
+   (Youngspiration) que modérés (Demosistō), ont aussi fait campagne sur
+   la renégociation du statut d’autonomie de Hong Kong après 2047, un
+   processus qui devrait, selon eux, être entrepris avant 2030, et être
+   adopté par référendum.
+
+   Le succès du camp localiste aux législatives de 2016 en a surpris
+   plusieurs. En tout, le camp localiste a élu six députés sur un total de
+   40 sièges : Chung-tai Cheng (Civic Passion), Nathan Law (Demosistō),
+   Siu-lai Lau (Democracy Groundwork), Baggio Chung-hang Leung
+   (Youngspiration), Wai-ching Yau (Youngspiration) et Eddie Hoi-dick Chu
+   (Land Justice League). Si trois de ces sièges ont été dérobés au camp
+   pro-gouvernement, les trois autres ont été grugés à même le camp
+   démocratique, confirmant les craintes initiales de ses membres (Hong
+   Kong Economic Journal 2016). À plusieurs égards, l’idéologie
+   nationalisante – pour la plupart soutenue par les jeunes – constituait
+   une menace pour les partis démocrates déjà bien établis, et la
+   compétition à même le camp localiste était féroce. Sur le plan
+   numérique, l’opposition antigouvernementale s’était élargie, mais elle
+   était aussi très fragmentée sur le plan idéologique. L’idée d’un
+   nationalisme hongkongais semblait incompatible avec l’idéologie de
+   plusieurs des poids lourds du camp des démocrates, qui s’étaient
+   toujours positionnés en tant que patriotes chinois (quoique fermement
+   anticommunistes) voulant, à long terme, démocratiser la Chine entière.
+   Les autres partis démocratiques modérés craignaient aussi qu’une
+   association trop intime avec des partis qui avaient utilisé une
+   rhétorique et des méthodes pour le moins controversées puisse nuire à
+   leur réputation, d’autant plus que faire la promotion de l’indépendance
+   de Hong Kong risquait de provoquer une intervention ferme de Pékin sur
+   le système politique de Hong Kong. Et c’est justement ce qui est
+   arrivé.
+
+« Reconquérons Hong Kong ! » : du conseil législatif à la ligne de front
+
+   La répression a été rapide. Sur ses six députés localistes élus en
+   2016, les deux du camp indépendantiste, Wai-ching Yau et Baggio Leung,
+   ont rapidement été disqualifiés pour avoir refusé de prêter serment à
+   la Chine lors de leur assermentation, prêtant à la place allégeance à
+   la « nation hongkongaise » et utilisant un langage dérogatoire envers
+   la République populaire de Chine. En particulier, l’utilisation d’un
+   terme que les groupes pro-Chine se sont empressés de dépeindre comme
+   une insulte raciale envers tous les gens d’ethnie chinoise a été
+   critiquée de tous les côtés. En juillet 2017, à la suite d’une
+   contestation judiciaire lancée par l’exécutif de Hong Kong, Nathan Law
+   et Siu-lai Lau, conjointement à deux députés démocrates, ont aussi été
+   disqualifiés pour avoir soi-disant enfreint les règles
+   d’assermentation. Depuis, le gouvernement hongkongais, de concert avec
+   Pékin, a utilisé l’appareil judiciaire afin d’éliminer les appels à
+   l’indépendance, voire à l’autodétermination. En réaction à ce recours
+   sans précédent du gouvernement à l’appareil judiciaire à des fins
+   politiques, soupçonné par plusieurs comme le début d’une vague de
+   répression, Civic Passion annonçait en janvier 2017 son « retrait de
+   tous mouvements sociaux » et son intention de changer sa stratégie de
+   confrontation en faveur du travail communautaire durant sa
+   restructuration en parti politique (Tong 2017). En août 2017, les trois
+   leaders principaux de Demosistō ont été condamnés à de courtes peines
+   de prison pour leur rôle dans le mouvement des parapluies, tandis que
+   la candidate vedette restante du parti, Agnes Chow, s’est vu refuser sa
+   candidature aux élections partielles de mars 2018, affaiblissant ainsi
+   la faction autodéterminationniste[9]. En juin 2018, Edward Leung a été
+   condamné à une peine de six ans de prison pour son rôle dans la
+   révolution des boulettes de poisson (Cheung 2018). En novembre 2018, le
+   Hong Kong National Party, le parti le plus ostensiblement
+   pro-indépendance, a formellement été interdit et criminalisé sur une
+   base de sécurité nationale (BBC News 2018).
+
+   La répression des gouvernements chinois et hongkongais sur les forces
+   indépendantistes et autodéterminationnistes a de nouveau reconfiguré la
+   structure des opportunités politiques, avec des effets non négligeables
+   sur la politique des partis et de contestation. D’une part, l’expulsion
+   de la plupart des élus nationalistes a réduit la compétition entre
+   ceux-ci et les démocrates, allant même jusqu’à renforcer leur
+   collaboration. En effet, si les partis démocrates plus modérés
+   refusaient toujours d’approuver les idéologies et les tactiques les
+   plus radicales des partis nationalistes, ils soutenaient tout de même
+   leurs droits de parole et d’organisation, et contestaient les recours
+   du gouvernement à la justice à des fins politiques. La plupart des élus
+   démocrates se sont positionnés comme de vaillants défenseurs des
+   députés déchus, dont le traitement était, selon eux, illégal et
+   arbitraire. En particulier, Claudia Mo et Garry Fan, qui en 2013
+   avaient établi le groupe HK First – une sorte de faction localiste du
+   camp démocrate visant à résister, entre autres, à l’emprise de la Chine
+   et aux troubles liés aux influx du continent (Cheng 2016) – allaient
+   jouer un rôle de coordination important entre les deux coalitions
+   idéologiques. D’autre part, avec l’expulsion des six élus – dont quatre
+   du camp localiste –, le camp antigouvernement perdait son pouvoir de
+   véto dans le conseil législatif, ce qui devait permettre à l’exécutif
+   de parvenir à ses fins sans obstacle législatif (Cheng 2017). En effet,
+   l’une des premières actions du gouvernement à la suite de l’éviction
+   des députés de l’opposition a été de modifier les règles gouvernant les
+   procédures législatives afin d’interdire certaines des tactiques
+   d’obstruction parlementaire auxquelles les démocrates
+   – institutionnellement voués à un statut minoritaire – avaient souvent
+   eu recours (ibid.).
+
+   C’est d’ailleurs dans ce contexte de majorité pro-gouvernementale
+   absolue, avec ses effets sur la structure des opportunités, qu’une
+   nouvelle dynamique de coopération entre démocrates et nationalistes
+   s’est dessinée, dans laquelle les démocrates s’occupaient de la
+   politique législative et participaient aux mouvements pacifiques,
+   tandis que les nationalistes, conjointement à d’autres groupes
+   radicaux, s’occupaient de la politique de rue. Cette dynamique s’est
+   surtout consolidée lors des événements entourant la Loi sur les
+   extraditions de 2019. Au printemps 2019, le gouvernement a introduit un
+   projet de loi visant à mettre en place des mécanismes autorisant
+   l’extradition de suspects de Hong Kong vers la Chine continentale, un
+   projet extrêmement controversé qui allait, selon ses détracteurs,
+   permettre à la Chine d’étendre son emprise juridique sur Hong Kong, ne
+   serait-ce que de façon indirecte. Le camp d’opposition étant désormais
+   réduit à une minorité dépourvue de véto quelconque dans le conseil
+   législatif, le projet promettait de constituer une victoire
+   relativement facile pour le camp pro-gouvernement. Mais les démocrates
+   ont tout fait pour avorter le projet, donnant même lieu à des
+   échauffourées au sein du conseil législatif, ce qui a permis d’attirer
+   une attention soutenue chez un public qui au départ semblait
+   relativement affable. Au cours de l’été 2019, des manifestations
+   monstres ont été organisées par diverses organisations civiques,
+   principalement le Civil Human Rights Front. Le 9 juin, le nombre de
+   manifestants a été estimé à un million, tandis qu’une semaine plus
+   tard, le 16 juin, ce sont deux millions de manifestants qui seraient
+   descendus dans les rues de Hong Kong. Ces manifestations n’étaient que
+   le début d’un mouvement sans précédent dans lequel les partis et les
+   organisations pro-démocratie allaient diriger les actions de
+   contestation pacifique du mouvement antiextradition, qui a rapidement
+   évolué en un soulèvement populaire plus large visant, entre autres, la
+   démocratisation complète de Hong Kong.
+
+   Pendant ce temps, les groupes nationalistes ont repris leur place dans
+   la politique de rue, en particulier lors des actions plus
+   conflictuelles avec les forces de l’ordre. Si le soulèvement de 2019
+   n’était pas un mouvement nationaliste à proprement parler, sa
+   composante identitaire était non négligeable. Le premier juillet – date
+   du 22^e anniversaire du transfert de Hong Kong à la Chine – a été
+   particulièrement chargé sur le plan des stratégies et de la symbolique
+   nationalistes. Le matin, alors que les dirigeants de Hong Kong,
+   anticipant le grabuge, prenaient part à une cérémonie de levée du
+   drapeau chinois fermée au public, des manifestants ont tenu leur propre
+   levée du drapeau de Hong Kong, utilisant une version noire – couleur de
+   l’anarchisme – du drapeau de la RAS de Hong Kong qui est normalement
+   – à l’image de la Chine – rouge. L’orchidée du drapeau, blanche comme
+   celle de l’original, apparaissait cependant ensanglantée, symbole de la
+   déchirure de la ville par le processus de continentalisation. Dans
+   l’après-midi, alors que les organisations pro-démocratie tenaient une
+   manifestation de quelque 500 000 personnes, des groupes plus radicaux,
+   dont les nationalistes, s’acharnaient à s’introduire de force dans le
+   conseil législatif – ce qu’ils ont réussi à faire dans la soirée. Une
+   fois à l’intérieur, les activistes ont entre autres dégradé l’enseigne
+   de la RAS suspendue au centre du conseil, caviardant, à l’aide de
+   peinture en aérosol, les mentions de l’appartenance de Hong Kong à la
+   République populaire de Chine. Ils ont aussi déposé un drapeau de
+   l’époque britannique – un des nombreux drapeaux utilisés par les
+   indépendantistes hongkongais – sur la tribune du président du conseil,
+   tout au centre du conseil législatif. De multiples graffitis comprenant
+   des demandes et des slogans à tendance démocratique et nationaliste ont
+   été faits dans l’édifice (Chan 2019). Mais le saccage du conseil
+   législatif n’est qu’un des événements à connotation et aux
+   revendications nationalisantes qui ont fait trembler Hong Kong durant
+   l’été et l’automne de 2019. Par exemple, le slogan « Reconquérons Hong
+   Kong, la révolution de notre temps », attribué au leader nationaliste
+   Edward Leung, a été récupéré par les manifestants. L’hymne du
+   mouvement, Gloire à Hong Kong, y faisait d’ailleurs référence. Le
+   1^er octobre, date où la République populaire de Chine célébrait ses
+   70 ans, les manifestants ont redoublé d’efforts afin de gâcher la fête,
+   et au début de 2020, le mouvement ne donnait toujours aucun signe
+   d’essoufflement.
+
+Conclusion
+
+   Ce texte a analysé l’évolution de la politique identitaire et
+   l’émergence du nationalisme hongkongais au cours de la dernière
+   décennie, montrant que ces phénomènes ont été étroitement entrelacés
+   aux développements en matière de politique partisane et à la structure
+   des opportunités qu’ils ont engendrée. Dans ce contexte, les forces
+   ethnicistes, civiques et démocrates, bien qu’à certains égards
+   difficilement réconciliables, ont donné lieu à une collaboration dans
+   leur lutte commune contre la mainmise du régime chinois. Cette
+   collaboration entre les groupes de diverses allégeances nationalisantes
+   et les démocrates a été facilitée par la structure des opportunités
+   créée par l’emprise grandissante de Pékin et la répression des partis
+   nationalistes par le gouvernement de Hong Kong. D’une part, la
+   stagnation du processus de démocratisation à la suite de l’intervention
+   de Pékin a poussé une tranche des partis, des mouvements et des
+   électeurs à adopter, à mettre de l’avant ou à soutenir des tactiques et
+   des revendications de plus en plus radicales, y compris non seulement
+   la démocratie, mais aussi une plus grande mesure d’autonomie, voire
+   l’indépendance. C’est cette ouverture, ce vide à combler dans le
+   système des partis, qui a permis l’entrée des groupes nativistes et
+   autodéterminationnistes, jusqu’alors confinés à la politique
+   contestataire, dans la politique des partis. L’institutionnalisation de
+   ces mouvements en partis politiques a poussé certains des plus radicaux
+   de ces groupes à changer leurs tactiques et leurs discours en vue
+   d’élargir leur attrait auprès de l’électorat, surtout chez la nouvelle
+   génération.
+
+   Au départ, l’entrée de ces groupes dans la politique des partis a
+   entraîné leur compétition non seulement avec les partis pro-Pékin, mais
+   aussi avec les démocrates établis, résultant en un camp d’opposition
+   divisé. Leur évincement a cependant reconfiguré la structure des
+   opportunités et forcé ces derniers à reprendre leur place au sein des
+   mouvements de rue. Cela a permis aux partis démocrates d’une part de
+   combler le vide en adoptant une posture plus radicale et d’autre part
+   de sceller une alliance de convenance avec les nationalistes. Ainsi,
+   les partis démocrates ont occupé l’arène de la politique formelle et de
+   la résistance pacifique, tandis que les groupes nationalisants ont été
+   à l’affût des mouvements de contestation qui ont secoué Hong Kong en
+   2019. Dans ce sens, le soulèvement populaire de 2019, à quelques
+   égards, a résulté de la tentative des gouvernements chinois et
+   hongkongais d’étouffer les partis nationalistes officiels, une décision
+   qui n’a servi qu’à radicaliser et à recanaliser les frustrations de la
+   législature vers la rue, pour s’exprimer, parfois implicitement,
+   parfois explicitement, en termes identitaires. Cette alliance s’est
+   montrée efficace lors de l’élection des districts locaux de novembre
+   2019, dépeinte comme un référendum sur le soulèvement qui battait son
+   plein : les candidats de l’opposition antigouvernementale (pour la
+   plupart des démocrates) ont remporté plus de 80 pour cent des sièges,
+   alors qu’ils n’en occupaient jusque-là que moins de 30 pour cent (Kirby
+   2019).
+
+   À un niveau d’analyse plus général, cette étude de la politique
+   identitaire à Hong Kong souligne les attributs stratégiques plutôt
+   qu’intellectuels du nationalisme, qui – probablement comme toute autre
+   idéologie politique – émerge et évolue en fonction des structures des
+   opportunités offertes par les systèmes politiques et de contestation en
+   place. Malgré l’absence d’une tradition intellectuelle et identitaire
+   conceptualisant Hong Kong en tant que nation, certains activistes ont
+   su articuler et populariser, en moins d’une décennie, un nationalisme
+   qui s’exprime, dans sa version la plus radicale, en un mouvement
+   d’indépendance. Bien que sa composante intellectuelle en soit toujours
+   à un stade embryonnaire, cette facette identitaire a eu une forte
+   influence sur le développement politique et social de Hong Kong au
+   cours de la dernière décennie. Cependant, il est improbable que le
+   régime laisse le nationalisme hongkongais s’épanouir davantage. Au
+   contraire, il est plutôt probable que le nationalisme hongkongais soit
+   utilisé par le régime comme une justification pour étendre et accélérer
+   sa mainmise sur Hong Kong. Dans ce contexte, les perspectives de
+   développement – voire la survie – de cette idéologie en tant que force
+   sociale, politique ou même intellectuelle semblent pour le moins
+   incertaines.
+
+Parties annexes
+
+Note biographique
+
+   Jean-François Dupré est chercheur postdoctoral à l’Institut de
+   sociologie de l’Academia Sinica à Taïwan. Ses recherches portent sur le
+   nationalisme, les mouvements sociaux et la démocratisation dans une
+   perspective comparée. Il a publié nombre d’articles et de chapitres sur
+   la politique identitaire et est notamment l’auteur du livre Culture
+   Politics and Linguistic Recognition in Taiwan : Ethnicity, National
+   Identity, and the Party System (Routledge, 2017). Outre les cas de
+   Taïwan et de Hong Kong, ses publications abordent aussi les cas du
+   Québec et de la Catalogne.
+
+Notes
+
+    1. [1]
+       Sautman et Yan (2015) disputent la véracité ou du moins l’étendue
+       des effets de ce commerce, qui ont, selon eux, été amplifiés par
+       les médias et les groupes nativistes.
+    2. [2]
+       C’est en partie la parution, en février 2014, d’un numéro du
+       journal de l’association étudiante de l’Université de Hong Kong
+       prônant l’autodétermination pour la « nation hongkongaise », ainsi
+       que la publication par la même organisation d’un ouvrage collectif
+       sur le nationalisme hongkongais, qui ont popularisé l’idée de Hong
+       Kong en tant que « nation ».
+    3. [3]
+       Malgré une demande considérable de la part de la population, la
+       cuisine de rue est interdite à Hong Kong. Durant les fêtes du
+       Nouvel An lunaire de 2016, une opération du Département de
+       l’hygiène dans le district de Mong Kok a été contestée par des
+       centaines d’activistes, dont les leaders de Hong Kong Indigenous,
+       et l’intervention de la police antiémeute a donné lieu à de
+       violentes confrontations.
+    4. [4]
+       Yuk-man Wong était anciennement député de la League of Social
+       Democrats et de People Power.
+    5. [5]
+       Lo et Loo distinguent entre les « séparatistes » (c.-à-d.
+       Youngspiration) (2018, 107) et les « indépendantistes » (Hong Kong
+       Indigenous et Hong Kong National Party) (ibid., 110), sans
+       toutefois définir ces termes de façon précise, d’où ma décision de
+       les regrouper en une seule catégorie.
+    6. [6]
+       À noter qu’à la suite de la disqualification de plusieurs candidats
+       de Demosistō aux élections par le gouvernement en raison de sa
+       promotion de l’autodétermination, le parti a récemment supprimé ces
+       mentions de sa charte, se concentrant plutôt sur la démocratisation
+       (RTHK 2020).
+    7. [7]
+       Lo et Loo (2018, 102) classent Lau et Chu comment étant avant tout
+       des critiques marxistes, tout en soulignant leur idéologie
+       d’autodétermination. Lau et Chu appartenaient cependant clairement
+       au camp dit « localiste ». Quant aux candidats de Demosistō, ils
+       les classent comme étant autodéterminationnistes (ibid., 104),
+       comme je le fais dans ce texte.
+    8. [8]
+       À Hong Kong, les terrains sont la propriété de l’État et sont cédés
+       à bail sur la base du système anglais de « leasehold ».
+       Qu’adviendra-t-il de ces baux ainsi que du système juridique
+       distinct de Hong Kong, en 2047, si Pékin peut refaçonner ou même
+       abolir son statut d’autonomie à sa guise ?
+    9. [9]
+       En appel, un tribunal a éventuellement donné raison à Chow
+       (Griffiths et Cheung 2019).
+
+Bibliographie
+
+    1. BBC News, 24 septembre 2018. « Hong Kong Government Bans
+       Pro-independence Party. » BBC News.
+       https://www.bbc.com/news/world-asia-45623556. Consulté le 20 août
+       2019.
+       Google Scholar
+    2. Bolleyer, Nicole et Evelyn Bytzek. 2013. « Origins of Party
+       Formation and New Party Success in Advanced Democracies. » European
+       Journal of Political Research 52 (6) : 773-796.
+       Google Scholar 10.1111/1475-6765.12013
+    3. Chan, Elaine et Joseph Chan. 2007. « The First Ten Years of the
+       HKSAR : Civil Society Comes of Age. » The Asia Pacific Journal of
+       Public Administration 29 (1) : 77-99.
+       Google Scholar 10.1080/23276665.2007.10779329
+    4. Chan, Holmes. 2019. « The Writing on the Wall : Understanding the
+       Messages Left by Protesters During the Storming of the Hong Kong
+       Legislature. » Hong Kong Free Press, 4 juillet 2019.
+       https://www.hongkongfp.com/2019/07/04/writing-wall-understanding-me
+       ssages-left-protesters-storming-hong-kong-legislature/. Consulté le
+       24 septembre 2019.
+       Google Scholar
+    5. Chen, Yun-chung et Mirana M. Szeto. 2015. « The Forgotten Road of
+       Progressive Localism : New Preservation Movement in Hong Kong. »
+       Inter-Asia Cultural Studies 16 (3) : 436-453.
+       Google Scholar 10.1080/14649373.2015.1071694
+    6. Cheng, Kris. 2016. « Pro-democracy Lawmaker Claudia Mo Quits the
+       Civic Party. » Hong Kong Free Press, 14 novembre 2016.
+       https://www.hongkongfp.com/2016/11/14/breaking-pro-democracy-lawmak
+       er-claudia-mo-quits-civic-party/. Consulté le 24 septembre 2019.
+       Google Scholar
+    7. Cheng, Kris. 2017. « Hong Kong Legislature Passes Controversial
+       House Rule Changes Taking Powers from Lawmakers. » Hong Kong Free
+       Press, 15 décembre 2017.
+       https://www.hongkongfp.com/2017/12/15/legislature-passes-controvers
+       ial-house-rule-amendments-taking-powers-lawmakers/. Consulté le
+       24 septembre 2019.
+       Google Scholar
+    8. Cheng, Kris. 2019. « Hongkongers Identifying as “Chinese” at Record
+       Low ; Under 10% of Youth “Proud” To Be Citizens – Poll. » Hong Kong
+       Free Press, 28 juin 2019.
+       https://www.hongkongfp.com/2019/06/28/hongkongers-identifying-chine
+       se-record-low-10-youth-proud-citizens-poll/. Consulté le
+       24 septembre 2019.
+       Google Scholar
+    9. Cheng, Ming-yan. 2016. « Open an Independent Inquiry into Mong Kok
+       Clashes Immediately. » Hong Kong Economic Journal, 18 février 2016.
+       http://www.ejinsight.com/20160218-open-independent-inquiry-into-mon
+       g-kok-clashes-immediately/. Consulté le 24 septembre 2019.
+       Google Scholar
+   10. Cheung, Tommy. 2015. « “Father” of Hong Kong Nationalism ? A
+       Critical Review of Wan Chin’s City-State Theory. » Asian Education
+       and Development Studies 4 (4) : 460-470.
+       Google Scholar 10.1108/AEDS-07-2015-0032
+   11. Cheung, Karen. 2018. « Localist Edward Leung Sentenced to Six Years
+       in Jail over Mong Kok Unrest Participation. » Hong Kong Free Press,
+       11 juin 2018.
+       https://www.hongkongfp.com/2018/06/11/localist-edward-leung-sentenc
+       ed-six-years-jail-mong-kok-unrest-participation/. Consulté le
+       24 septembre 2019.
+       Google Scholar
+   12. Clark, Samuel D., J. Paul Grayson et Linda M. Grayson. 1976.
+       Prophecy and Protest : Social Movements in Twentieth-century
+       Canada. Toronto : Gage Educational Publishers.
+       Google Scholar
+   13. Close, David et Gary Prevost. 2007. « Introduction : Transitioning
+       from Revolutionary Movements to Political Parties and Making the
+       Revolution “Stick”. » Dans From Revolutionary Movements to
+       Political Parties : Cases from Latin America to Africa. Sous la
+       direction de Kalowatie Deonandan, David Close et Gary Prevost,
+       1-16. New York : Palgrave Macmillan.
+       Google Scholar 10.1057/9780230609778_1
+   14. Constitutional and Mainland Affairs Bureau. 2007. The Basic Law.
+       https://www.cmab.gov.hk/en/issues/basic2.htm. Consulté le 20 avril
+       2017.
+       Google Scholar
+   15. Deonandan, Kalowatie, David Close et Gary Prevost. 2007. From
+       Revolutionary Movements to Political Parties : Cases from Latin
+       America to Africa. New York : Palgrave Macmillan.
+       Google Scholar 10.1057/9780230609778
+   16. Farrer, Benjamin. 2014. « A Theory of Organizational Choice :
+       Interest Groups and Parties as Substitutable Influence
+       Mechanisms. » Party Politics 20 (4) : 632-645.
+       Google Scholar 10.1177/1354068811436069
+   17. Fong, Brian C.H. 2017. « One Country, Two Nationalisms :
+       Center-Periphery Relations between Mainland China and Hong Kong,
+       1997-2016. » Modern China 43 (5) : 1-34.
+       Google Scholar 10.1177/0097700417691470
+   18. Griffiths, James et Eric Cheung. 2019. « Hong Kong Court Overturns
+       Ban on Pro-democracy Candidate Agnes Chow. » CNN, 2 septembre 2019.
+       https://edition.cnn.com/2019/09/02/asia/hong-kong-agnes-chow-electi
+       on-intl-hnk/index.html. Consulté le 24 septembre 2019.
+       Google Scholar
+   19. Hoadley, J. Stephen. 1970. « “Hong Kong Is the Lifeboat” : Notes on
+       Political Culture and Socialization. » Journal of Oriental Studies
+       8 : 209-211.
+       Google Scholar
+   20. Hoadley, J. Stephen. 1973. « Political Participation of Hong Kong
+       Chinese : Patterns and Trends. » Asian Survey 13 (6) : 604-616.
+       Google Scholar 10.1525/as.1973.13.6.01p0343w
+   21. Hong Kong Economic Journal. 2016. « Localist Groups Eat into
+       Traditional Pan-democrats’ Support Base. » Hong Kong Economic
+       Journal, 6 septembre 2016.
+       http://www.ejinsight.com/20160906-localist-groups-eat-into-traditio
+       nal-pan-democrats-support-base/. Consulté le 24 septembre 2019.
+       Google Scholar
+   22. Hughes, Richard. 1968. Borrowed Place, Borrowed Time : Hong Kong
+       and its Many Faces. Londres : André Deutsch Ltd.
+       Google Scholar
+   23. Ip, Iam Chong. 2015. « Politics of Belonging : A Study of the
+       Campaign Against Mainland Visitors in Hong Kong. » Inter-Asia
+       Cultural Studies 16 (3) : 410-421.
+       Google Scholar 10.1080/14649373.2015.1069054
+   24. King, Ambrose Y.-C. 1977. « The Political Culture of Kwun Tong : A
+       Chinese Community in Hong Kong. » Asian Journal of Social Science 5
+       (1) : 123-141.
+       Google Scholar 10.1163/080382477X00100
+   25. Kirby, Jen. 2019. « Pro-democracy Candidates Dominate Hong Kong’s
+       Local Elections in a Rebuke to China. » Vox, 25 novembre 2019.
+       https://www.vox.com/2019/11/25/20981691/hong-kong-district-council-
+       elections-pro-democracy. Consulté le 25 novembre 2019.
+       Google Scholar
+   26. Kwok, Benny. 2016. « SMILE : Horace Chin, the Philosopher-King of
+       Localism. » Harbour Times, 22 avril 2016.
+       http://harbourtimes.com/2016/04/22/smile-horace-chin-the-philosophe
+       r-king-of-localism/. Consulté le 20 avril 2017.
+       Google Scholar
+   27. Kwong, Ying-ho. 2018. « Political Repression in a Sub-national
+       Hybrid Regime : The PRC’s Governing Strategies in Hong Kong. »
+       Contemporary Politics 24 (4) : 361-378.
+       Google Scholar 10.1080/13569775.2017.1423530
+   28. Lam, Wai-man. 2012. « Political Identity, Culture, and
+       Participation. » Dans Contemporary Hong Kong Government and
+       Politics. Sous la direction de Wai-man Lam, Percy Luen-tim Lui et
+       Wilson Wong, 199-222. Hong Kong : Hong Kong University Press.
+       Google Scholar 10.5790/hongkong/9789888139477.003.0010
+   29. Lau, Siu-kai. 1982. Society and Politics in Hong Kong. Hong Kong :
+       The Chinese University Press.
+       Google Scholar
+   30. Lin, Gene. 2016. « CUHK Survey Finds Nearly 40% of Young
+       Hongkongers Want Independence after 2047. » Hong Kong Free Press,
+       25 juillet 2016.
+       https://www.hongkongfp.com/2016/07/25/17-hongkongers-support-indepe
+       ndence-2047-especially-youth-cuhk-survery/. Consulté le
+       24 septembre 2019.
+       Google Scholar
+   31. Lipset, Seymour M. 1950. Agrarian Socialism : The Cooperative
+       Commonwealth Federation in Saskatchewan ; A Study in Political
+       Sociology. Berkeley : University of California Press.
+       Google Scholar 10.1525/9780520331136
+   32. Lo, Sonny Shiu-Hing et Jeff Hai-Chi Loo. 2018. « An Anatomy of the
+       Post-materialistic Values of Hong Kong Youth : Opposition to
+       China’s Rising “Sharp Power”. » Dans Youth : Global Perspectives,
+       Challenges and Issues of the 21^st Century. Sous la direction de
+       Stan Tucker et Dan Trotman, 97-126. New York : Nova Science
+       Publishers, Inc.
+       Google Scholar
+   33. Lowe, John et Yuk-ha Tsang. 2017. « Disunited in Ethnicity : The
+       Racialization of Chinese Mainlanders in Hong Kong. » Patterns of
+       Prejudice 51 (2) : 137-158.
+       Google Scholar 10.1080/0031322X.2017.1304349
+   34. Ma, Ngok. 2011. « Hong Kong’s Democrats Divide. » Journal of
+       Democracy 22 (1) : 54-67.
+       Google Scholar
+   35. Mathews, Gordon, Eric Kit-wai Ma et Tai-lok Lui. 2008. Hong Kong,
+       China : Learning to Belong to a Nation. Abingdon : Routledge.
+       Google Scholar 10.4324/9780203946510
+   36. McAdam, Doug. 1996. « Political Opportunities : Conceptual Origins,
+       Current Problems, Future Directions. » Dans Comparative
+       Perspectives on Social Movements. Sous la direction de Doug McAdam,
+       John McCarthy et Mayer Zald, 23-40. Cambridge : Cambridge
+       University Press.
+       Google Scholar 10.1017/CBO9780511803987.003
+   37. McAdam, Doug, Sidney Tarrow et Charles Tilly. 1998. « Pour une
+       cartographie de la politique contestataire. » Politix 11 (41) :
+       7-32.
+       Google Scholar 10.3406/polix.1998.1713
+   38. Morris, Paul et Edward Vickers. 2015. « Schooling, Politics and the
+       Construction of Identity in Hong Kong : The 2012 “Moral and
+       National Education” Crisis in Historical Context. » Comparative
+       Education 51 (3) : 305-326.
+       Google Scholar 10.1080/03050068.2015.1033169
+   39. Ng, Joyce et Owen Fung. 2016. « Hong Kong National Party Is Born :
+       Will Push for Independence, Will not Recognise the Basic Law. »
+       South China Morning Post, 28 mars 2016.
+       https://www.scmp.com/news/hong-kong/politics/article/1931384/hong-k
+       ong-national-party-born-will-push-independence-will. Consulté le
+       24 septembre 2019.
+       Google Scholar
+   40. Ng, Joyce, Tony Cheung et Owen Fung. 2016. « Protests Shut Down
+       Electoral Commission Briefing as Hong Kong Indigenous’ Edward Leung
+       Disqualified from Legco Elections. » South China Morning Post,
+       2 août 2016.
+       https://www.scmp.com/news/hong-kong/politics/article/1998201/hong-k
+       ong-indigenous-edward-leung-disqualified-legislative. Consulté le
+       24 septembre 2019.
+       Google Scholar
+   41. Ng, Kang-chung. 2016. « CY Leung not the Problem, Hong Kong’s
+       Political System Is, Says Polytechnic University
+       Lecturer-turned-Activist “Teacher Siu-lai”. » South China Morning
+       Post, 21 juillet 2016.
+       https://www.scmp.com/news/hong-kong/politics/article/1992940/cy-leu
+       ng-not-problem-hong-kongs-political-system-says. Consulté le
+       24 septembre 2019.
+       Google Scholar
+   42. RTHK (Radio Television Hong Kong). 2020. « Demosisto Drops
+       “Self-determination” Clause. » RTHK, 11 janvier 2020.
+       https://news.rthk.hk/rthk/en/component/k2/1502283-20200111.htm. Con
+       sulté le 15 janvier 2020.
+       Google Scholar
+   43. Sataline, Suzanne. 2015. « Meet the Man Who Wants to Make Hong Kong
+       a City-State : Amid Fears of Growing Chinese Influence, a Radical
+       Nativist Movement Wants to Keep Hong Kong for Hong Kongers. »
+       Foreign Policy, 18 mai 2015.
+       https://foreignpolicy.com/2015/05/18/hong-kong-china-protests-democ
+       racy-nativism/. Consulté le 20 avril 2017.
+       Google Scholar
+   44. Sautman, Barry et Hairong Yan. 2015. « Localists and “Locusts” in
+       Hong Kong : Creating a Yellow-Red Peril Discourse. » Maryland
+       Series in Contemporary Asian Studies 2015 (2) : 1-94.
+       Google Scholar
+   45. South China Morning Post, 31 août 2014. « Full Text : NPC Standing
+       Committee Decision on Hong Kong 2017 Election Framework. » South
+       China Morning Post, 31 août 2014.
+       https://www.scmp.com/news/hong-kong/article/1582245/full-text-npc-s
+       tanding-committee-decision-hong-kong-2017-election. Consulté le
+       20 avril 2017.
+       Google Scholar
+   46. Tarrow, Sidney. 2011. Power in Movement : Social Movements and
+       Contentious Politics. Cambridge : Cambridge University Press.
+       Google Scholar
+   47. Tong, Elson. 2017. « Localist Group Civic Passion to “Withdraw from
+       All Social Movements,” Citing Increased Risks. » Hong Kong Free
+       Press, 6 janvier 2017.
+       https://www.hongkongfp.com/2017/01/06/localist-group-to-withdraw-fr
+       om-all-social-movements-citing-increased-risks/. Consulté le
+       20 avril 2017.
+       Google Scholar
+   48. Veg, Sebastian. 2017. « The Rise of “Localism” and Civic Identity
+       in Post-handover Hong Kong : Questioning the Chinese
+       Nation-State. » The China Quarterly 230 : 323-347.
+       Google Scholar 10.1017/S0305741017000571
+   49. Wong, Stan Hok-Wui, Ngok Ma et Wai-man Lam. 2016. « Migrants and
+       Democratization : The Political Economy of Chinese Immigrants in
+       Hong Kong. » Contemporary Chinese Political Economy and Strategic
+       Relations : An International Journal 2 (2) : 909-940.
+       Google Scholar
+   50. Zakuta, Leo. 1964. A Protest Movement Becalmed. Toronto :
+       University of Toronto Press.
+       Google Scholar 10.3138/9781487575397
+
+Autres articles de cette revue
+
+Le principe de souveraineté. Histoires et fondements du pouvoir moderne de
+Gérard Mairet, Paris, Gallimard, 1997, 311 p.
+
+   Par Jean-François Thibault
+
+Politiques locales d’intégration et immigrants aisés : une comparaison
+France-Québec
+
+   Par Thierry Berthet and Christian Poirier
+
+Jean Jaurès et la religion du socialisme de Vincent Peillon, Paris, Grasset,
+2000, 279 p.
+
+   Par Jean-Marc Piotte
+
+L’humanité improvisée de Pierre Vadeboncoeur, Montréal, Bellarmin, 2000,
+187 p.
+
+   Par Daniel Tanguay
+
+Outils de citation
+
+Citer cet article
+
+   MLA
+          Dupré, Jean-François. « Mouvements sociaux, politique des partis
+          et l’évolution du nationalisme hongkongais. » Politique et
+          Sociétés, volume 40, numéro 2, 2021, p. 51–74.
+          https://doi.org/10.7202/1077869ar
+
+   APA
+          Dupré, J.-F. (2021). Mouvements sociaux, politique des partis et
+          l’évolution du nationalisme hongkongais. Politique et Sociétés,
+          40(2), 51–74. https://doi.org/10.7202/1077869ar
+
+   Chicago
+          Dupré, Jean-François « Mouvements sociaux, politique des partis
+          et l’évolution du nationalisme hongkongais ». Politique et
+          Sociétés 40, n^o 2 (2021) : 51–74.
+          https://doi.org/10.7202/1077869ar
+     __________________________________________________________________
+
+Exporter la notice de cet article
+
+   RIS
+   EndNote, Papers, Reference Manager, RefWorks, Zotero
+
+   ENW
+   EndNote (version X9.1 et +), Zotero
+
+   BIB
+   BibTeX, JabRef, Mendeley, Zotero
+
+   ____________________
+
+   Abonnez-vous à notre infolettre :
+   ____________________ S'inscrire
+
+     * À propos
+     * Aide
+     * Accessibilité
+     * Guide de recherche
+     * Nous contacter
+
+     * Revues
+     * Thèses et mémoires
+     * Livres et actes
+     * Rapports de recherche
+
+   Logo d’Érudit Cultivez votre savoir.
+
+   Suivez-nous :
+     *
+     *
+     *
+     *
+     *
+
+   Coalition Publica
+     __________________________________________________________________
+
+     * Politique de confidentialité
+     * Politique relative aux cookies
+     * Politique et licence d’utilisation
+
+   © 2024 Consortium Érudit

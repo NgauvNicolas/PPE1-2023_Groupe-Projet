@@ -1,0 +1,419 @@
+    #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NTX72TG
+
+   Skip to main content Accessibility help
+
+   We use cookies to distinguish you from other users and to provide you
+   with a better experience on our websites. Close this message to accept
+   cookies or find out how to manage your cookie settings.
+   Close cookie message
+
+Login Alert
+
+   Cancel
+   Log in
+   ×
+
+   ×
+
+     * (BUTTON)
+     * Cambridge Core Home Home
+
+     * Log in
+     * Register
+     * Browse subjects
+     * Publications
+     * Open research
+     * Services
+     * About Cambridge Core
+     * Cart
+
+     * Cart
+     *
+     *
+
+     * Institution login
+     *
+     * Register
+     * Log in
+     *
+     * Cart
+
+   Cambridge Core Home Home
+   ____________________
+   Submit search
+
+     * (BUTTON)
+     * Cambridge Core Home Home
+
+     * Log in
+     * Register
+     * Browse subjects
+     * Publications
+     * Open research
+     * Services
+     * About Cambridge Core
+     * Cart
+
+     * Cart
+     *
+     *
+
+     * Institution login
+     *
+     * Register
+     * Log in
+     *
+     * Cart
+
+   Hostname: page-component-797576ffbb-jhnrh Total loading time: 0 Render
+   date: 2024-01-02T13:30:48.730Z Has data issue: false Feature Flags: {
+   "corePageComponentGetUserInfoFromSharedSession": true,
+   "coreDisableEcommerce": false, "useRatesEcommerce": true }
+   hasContentIssue false
+     * Home
+     * >Journals
+     * >Journal of Clinical and Translational Science
+     * >Volume 2 Supplement S1
+     * >2377 Evolution of the interdisciplinary co-citation...
+
+     * English
+     * Français
+
+   Journal of Clinical and Translational Science
+     __________________________________________________________________
+
+Article contents
+
+     * Abstract
+
+2377 Evolution of the interdisciplinary co-citation network supported by the
+Georgia Clinical and Translational Science Alliance Program from 2006 through
+2016
+
+   Published online by Cambridge University Press:  21 November 2018
+   Dorothy R. Carter ,
+   Nicole Llewellyn ,
+   Eric Nehl  and
+   Latrice Rollins
+   Show author details
+     __________________________________________________________________
+
+   Dorothy R. Carter
+          Affiliation:
+
+          The University of Georgia
+
+   Nicole Llewellyn
+          Affiliation:
+
+          Emory University
+
+   Eric Nehl
+          Affiliation:
+
+          Emory University
+
+   Latrice Rollins
+          Affiliation:
+
+          Moorehouse School of Medicine
+            ___________________________________________________________
+
+     * Article
+     * Metrics
+
+   Article contents
+     * Abstract
+
+   (BUTTON) Save PDF
+   Save PDF (0.03 mb) View PDF [Opens in a new window] (BUTTON) Save to
+   Dropbox (BUTTON) Save to Google Drive (BUTTON) Save to Kindle
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON)
+   (BUTTON) Cite Rights & Permissions [Opens in a new window]
+     __________________________________________________________________
+
+Abstract
+
+   Core share and HTML view are not possible as this article does not have
+   html content. However, as you have access to this content, a full PDF
+   is available via the ‘Save PDF’ action button.
+
+   OBJECTIVES/SPECIFIC AIMS: The National Institutes of Health (NIH) has
+   provided continual support for the Georgia Clinical and Translational
+   Science Alliance (CTSA) since 2006. An overarching goal of the Georgia
+   CTSA is to accelerate clinical and translational research to impact
+   health in Georgia and beyond. Toward these ends, a primary objective
+   has been to support interdisciplinary research projects encompassing 2
+   or more disciplinary domains. The goal of the present study is to
+   evaluate the degree to which interdisciplinary research projects
+   increased in prevalence during the first decade of funding.
+   METHODS/STUDY POPULATION: We began by using PubMed to identify all
+   publications citing the Georgia CTSA hub (n=1865), categorizing each
+   article as encompassing 1 or more research domain using a taxonomy
+   derived from the Web of Science. We created 1 network for each of the
+   10 years with nodes representing research areas and ties between pairs
+   of nodes representing the presence of 1 or more publication integrating
+   both research areas. We conducted longitudinal network analyses using
+   an approach called MCMC MLE Temporal Exponential Random Graph Models,
+   which models the antecedents of networks over time. RESULTS/ANTICIPATED
+   RESULTS: Supporting Georgia CTSA objectives, results suggest the
+   probability of publications connecting multiple research areas
+   increased over time, with substantially greater increases appearing
+   initially as compared to later years. DISCUSSION/SIGNIFICANCE OF
+   IMPACT: This study advances an innovative approach to modeling the
+   system-wide impact of CTSA hub funding.
+     __________________________________________________________________
+
+   Type
+          Science and Health Policy/Ethics/Health Impacts/Outcomes
+          Research
+
+   Information
+          Journal of Clinical and Translational Science , Volume 2 ,
+          Supplement S1 , June 2018 , pp. 81
+
+          DOI: https://doi.org/10.1017/cts.2018.283 [Opens in a new
+          window]
+
+   Creative Commons
+          Creative Common License - CC Creative Common License - BY
+
+          This is an Open Access article, distributed under the terms of
+          the Creative Commons Attribution licence
+          (http://creativecommons.org/licenses/by/4.0/), which permits
+          unrestricted reuse, distribution, and reproduction in any
+          medium, provided the original work is properly cited.
+
+   Copyright
+          © The Association for Clinical and Translational Science 2018
+
+   You have Access Open access
+
+Cited by
+
+   Loading...
+   (BUTTON)
+
+   Cited by
+     * Crossref logo 0
+     * Google Scholar logo
+
+   No CrossRef data available.
+
+   Google Scholar Citations
+
+   View all Google Scholar citations for this article.
+   ×
+
+     * Librarians
+     * Authors
+     * Publishing partners
+     * Agents
+     * Corporates
+
+     * Additional Information
+          + Accessibility
+          + Our blog
+          + News
+          + Contact and help
+          + Cambridge Core legal notices
+          + Feedback
+          + Sitemap
+       Select your country preference
+       FR [France______________________________________] [BUTTON Input]
+       (not implemented)________
+
+Join us online
+          +
+          +
+          +
+          +
+          +
+
+     * Legal Information
+          + Cambridge University Press
+          + Rights & Permissions
+          + Copyright
+          + Privacy Notice
+          + Terms of use
+          + Cookies Policy
+          + © Cambridge University Press 2024
+          + Back to top
+
+     * © Cambridge University Press 2024
+     * Back to top
+
+   Cancel
+   Confirm
+   ×
+
+Save article to Kindle
+
+   To save this article to your Kindle, first ensure
+   coreplatform@cambridge.org is added to your Approved Personal Document
+   E-mail List under your Personal Document Settings on the Manage Your
+   Content and Devices page of your Amazon account. Then enter the ‘name’
+   part of your Kindle email address below. Find out more about saving to
+   your Kindle.
+
+   Note you can select to save to either the @free.kindle.com or
+   @kindle.com variations. ‘@free.kindle.com’ emails are free but can only
+   be saved to your device when it is connected to wi-fi. ‘@kindle.com’
+   emails can be delivered even when you are not connected to wi-fi, but
+   note that service fees apply.
+
+   Find out more about the Kindle Personal Document Service.
+   2377 Evolution of the interdisciplinary co-citation network supported
+   by the Georgia Clinical and Translational Science Alliance Program from
+   2006 through 2016
+     * Volume 2, Supplement S1
+     * Dorothy R. Carter ^(a1), Nicole Llewellyn ^(a2), Eric Nehl ^(a2)
+       and Latrice Rollins ^(a3)
+     * DOI: https://doi.org/10.1017/cts.2018.283
+
+   Your Kindle email address
+
+   ____________________ Please provide your Kindle email.
+   (*) @free.kindle.com ( ) @kindle.com (service fees apply)
+
+   Available formats
+
+   [ ] PDF Please select a format to save.
+
+   [ ] By using this service, you agree that you will only keep content
+   for personal use, and will not openly distribute them via Dropbox,
+   Google Drive or other file sharing services Please confirm that you
+   accept the terms of use.
+   (BUTTON) Cancel
+   (BUTTON) Save
+   ×
+
+Save article to Dropbox
+
+   To save this article to your Dropbox account, please select one or more
+   formats and confirm that you agree to abide by our usage policies. If
+   this is the first time you used this feature, you will be asked to
+   authorise Cambridge Core to connect with your Dropbox account. Find out
+   more about saving content to Dropbox.
+   2377 Evolution of the interdisciplinary co-citation network supported
+   by the Georgia Clinical and Translational Science Alliance Program from
+   2006 through 2016
+     * Volume 2, Supplement S1
+     * Dorothy R. Carter ^(a1), Nicole Llewellyn ^(a2), Eric Nehl ^(a2)
+       and Latrice Rollins ^(a3)
+     * DOI: https://doi.org/10.1017/cts.2018.283
+
+   Available formats
+
+   [ ] PDF Please select a format to save.
+
+   [ ] By using this service, you agree that you will only keep content
+   for personal use, and will not openly distribute them via Dropbox,
+   Google Drive or other file sharing services Please confirm that you
+   accept the terms of use.
+   (BUTTON) Cancel
+   (BUTTON) Save
+   ×
+
+Save article to Google Drive
+
+   To save this article to your Google Drive account, please select one or
+   more formats and confirm that you agree to abide by our usage policies.
+   If this is the first time you used this feature, you will be asked to
+   authorise Cambridge Core to connect with your Google Drive account.
+   Find out more about saving content to Google Drive.
+   2377 Evolution of the interdisciplinary co-citation network supported
+   by the Georgia Clinical and Translational Science Alliance Program from
+   2006 through 2016
+     * Volume 2, Supplement S1
+     * Dorothy R. Carter ^(a1), Nicole Llewellyn ^(a2), Eric Nehl ^(a2)
+       and Latrice Rollins ^(a3)
+     * DOI: https://doi.org/10.1017/cts.2018.283
+
+   Available formats
+
+   [ ] PDF Please select a format to save.
+
+   [ ] By using this service, you agree that you will only keep content
+   for personal use, and will not openly distribute them via Dropbox,
+   Google Drive or other file sharing services Please confirm that you
+   accept the terms of use.
+   (BUTTON) Cancel
+   (BUTTON) Save
+   ×
+
+   ×
+
+Reply to: Submit a response
+
+   Title * ____________________ Please enter a title for your response.
+   Contents * Contents help
+   Close Contents help
+
+   - No HTML tags allowed
+   - Web page URLs will display as text only
+   - Lines and paragraphs break automatically
+   - Attachments, images or tables are not permitted
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Please enter your response.
+     __________________________________________________________________
+
+Your details
+
+   First name * ____________________ Please enter your first name.
+   Last name * ____________________ Please enter your last name.
+   Email * Email help
+   Close Email help
+
+   Your email address will be used in order to notify you when your
+   comment has been reviewed by the moderator and in case the author(s) of
+   the article or the moderator need to contact you directly.
+   ____________________ Please enter a valid email address.
+   Occupation ____________________ Please enter your occupation.
+   Affiliation ____________________ Please enter any affiliation.
+   [BUTTON Input] (not implemented)_______________
+     __________________________________________________________________
+
+You have entered the maximum number of contributors
+     __________________________________________________________________
+
+Conflicting interests
+
+   Do you have any conflicting interests? * Conflicting interests help
+   Close Conflicting interests help
+
+   Please list any fees and grants from, employment by, consultancy for,
+   shared ownership in or any close relationship with, at any time over
+   the preceding 36 months, any organisation whose interests may be
+   affected by the publication of the response. Please also list any
+   non-financial associations or interests (personal, professional,
+   political, institutional, religious or other) that a reasonable reader
+   would want to know about in relation to the submitted work. This
+   pertains to all the authors of the piece, their spouses or partners.
+   ( ) Yes (*) No
+   More information *
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Please enter details of the conflict of interest or select 'No'.
+     __________________________________________________________________
+
+   [ ]   Please tick the box to confirm you agree to our Terms of use. *
+   Please accept terms of use.
+   [ ]   Please tick the box to confirm you agree that your name, comment
+   and conflicts of interest (if accepted) will be visible on the website
+   and your comment may be printed in the journal at the Editor’s
+   discretion. *
+   Please confirm you agree that your details will be displayed.
+     __________________________________________________________________
+
+   Submit

@@ -1,0 +1,95 @@
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * Inicio
+     * 1Evolución y revolución tecnológica
+     * 2Funciones de la tecnología
+     * 3Teoría de la evolución tecnológica
+       (BUTTON) Alternar subsección Teoría de la evolución tecnológica
+          + 3.1Etapas del desarrollo tecnológico
+          + 3.2Tecnología, energía y límites del desarrollo
+--
+   [ ] Cambiar a la tabla de contenidos
+
+Evolución tecnológica
+
+   [ ] 9 idiomas
+--
+   De Wikipedia, la enciclopedia libre
+
+   Evolución tecnológica es el nombre dado a una teoría de los estudios de
+   ciencia, tecnología y sociedad, para describir el desarrollo histórico
+   de la tecnología, explicitada por el filósofo checo Radovan
+   Richta.^[1]​
+
+Evolución y revolución tecnológica[editar]
+
+   Véase también: Revolución tecnológica
+
+   El concepto de evolución tecnológica es confluente con el de revolución
+   tecnológica, puesto que solo durante los períodos de mayor innovación
+   técnica se marca la diferencia del ritmo de desarrollo entre ambos, y
+   de la trascendencia que existe entre los conceptos genéricos de
+   evolución y revolución.
+
+   La expresión revolución tecnológica o revolución científico-técnica, se
+   refiere a las transformaciones técnicas y las implicaciones económicas
+   y sociales de la llamada tercera revolución industrial (desde la
+   segunda mitad del siglo XX en adelante), aunque también se utiliza
+   frecuentemente la expresión para referirse a las dos primeras grandes
+   transformaciones que han merecido el nombre de Revolución económica: la
+   Revolución neolítica y la Revolución Industrial de los siglos XVIII y
+   XIX.
+
+--
+   tecnológicas.
+
+Teoría de la evolución tecnológica[editar]
+
+Etapas del desarrollo tecnológico[editar]
+--
+       no humana ni animal, es una herramienta que sustituye el elemento
+       humano de esfuerzo físico, y requiere de un operador solo a su
+       función de control. Las máquinas se extendieron con la Revolución
+       Industrial, aunque el barco o los molinos de viento, y otros tipos
+       de máquinas que responden a esta definición, son muy anteriores.
+--
+                tecnología del arado y el caballo.
+
+     * La tercera, y última etapa de la evolución tecnológica es el
+       autómata. El autómata es una máquina que elimina el elemento de
+       control humano con un algoritmo automático. Ejemplos de máquinas
+--
+Implicaciones teóricas[editar]
+
+   El proceso de evolución tecnológica culmina con la capacidad de
+   alcanzar todos los valores materiales tecnológicamente posibles y
+   deseables por el esfuerzo mental.
+--
+   que trabajen con información como, por ejemplo, universidades,
+   bibliotecas, patentes de empresas comerciales, etc. se consideran
+   indicativas del grado de evolución tecnológica alcanzado por una
+   civilización.
+
+--
+   dichos mercados y la creciente preocupación por la protección de los
+   derechos de propiedad intelectual cuestiona qué forma tendrán los
+   mercados de la información con la evolución de la era de la
+   información.
+
+--
+       (artesanos) que, mediante pruebas (prototipos), logran aprovechar e
+       incorporar nuevos elementos a lo ya utilizado por sus antepasados.
+       Esta forma de actuar se asemeja más a la evolución que a la
+       invención. Al mismo tiempo, la apertura de vías de comunicación con
+       distintas sociedades y culturas permite el intercambio de
+--
+       Editorial Artiach, 1972; citado por Romualdo López Zarate: La
+       educación en el futuro (ensayo comparativo de tres enfoques).
+    2. ↑ La evolución de la tecnología. 11 de enero de 2012. Consultado el
+       8 de julio de 2016.
+
+--
+
+   Obtenido de
+   «https://es.wikipedia.org/w/index.php?title=Evolución_tecnológica&oldid
+   =155988644»
+   Categorías:

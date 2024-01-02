@@ -1,0 +1,130 @@
+   #GNOME Wiki!: Apps/Evolution Start Wiki Markup Print View Up Search
+   Index Glossary Help
+
+   [gnome-logo.svg]
+     * Apps/Evolution
+     * Home
+     * RecentChanges
+--
+     * Login
+
+Evolution
+
+   https://raw.github.com/gnome-design-team/gnome-icons/master/apps/hicolo
+   r/256x256/apps/evolution.png
+
+   Evolution is a personal information management application that
+   provides integrated mail, calendaring and address book functionality.
+   Check the Privacy Policy sub-page for a general information about user
+--
+
+   Contents
+    1. Evolution
+         1. Online Support
+         2. Evolution in Flatpak
+         3. Get the Source Code
+         4. Developer Resources
+              1. Reference Manuals
+              2. Evolution-EWS (Exchange Web Services)
+         5. People
+              1. Maintainers
+--
+Online Support
+
+     * First consult the Evolution Manual.
+     * The evolution-users at lists.osuosl.org mailing list is the best
+       place to seek further assistance with using Evolution, for example
+       when you have problems. Subscribe here.
+       Although you can also use GNOME Discourse (with the evolution tag),
+       the mailing list may be preferable due to wider community
+       participation.
+     * Many Evolution developers and users can also be found on Libera
+       Chat IRC, channel #gnome-evolution.
+     * Bugs and feature requests can be filled under GNOME issue tracker,
+       depending on the place of the issue, but it's fine when it's filled
+       against other project, because issues can be moved between projects
+       there. New issues can be filled in the GNOME GitLab instance,
+       namely for evolution-data-server, evolution, evolution-ews and
+       evolution-mapi. Always search it for any existing reports, even
+       closed, to not create unnecessary duplicates. Also mention your
+       versions, because it's possible that the issues had been already
+--
+       older versions).
+
+Evolution in Flatpak
+
+   Flathub contains the latest stable version. Users can build and run the
+   latest stable (or development) Evolution in Flatpak, even on older
+   distributions. A detailed guide can be found on the Evolution Flatpak
+   sub-page.
+
+Get the Source Code
+
+   The Evolution project releases its source code as tarball files, from
+   which Free Software distributors can create easily-installable binary
+   packages for users.
+
+   Most likely your Free Software distribution (Fedora, Mint, Ubuntu,
+   etc.) already provides binary packages for Evolution. The following
+   links are only for the source code.
+
+--
+   for these various components (see also the ".news" files accompanying
+   them for a list of changes):
+     * evolution 3.50.x
+     * evolution-data-server 3.50.x
+     * evolution-ews 3.50.x (optional, for Microsoft Exchange servers)
+     * evolution-mapi 3.50.x (optional, for old Microsoft Exchange
+       servers)
+
+   The latest development snapshot tarballs (3.51 series, what will become
+   3.52) can be found below (after the first 3.51 release):
+     * evolution 3.51.x
+     * evolution-data-server 3.51.x
+     * evolution-ews 3.51.x (optional, for Microsoft Exchange servers)
+     * evolution-mapi 3.51.x (optional, for old Microsoft Exchange
+       servers)
+
+   Or you can clone the source code repositories with git:
+     * git clone https://gitlab.gnome.org/GNOME/evolution.git (Browse)
+     * git clone https://gitlab.gnome.org/GNOME/evolution-data-server.git
+       (Browse)
+     * git clone https://gitlab.gnome.org/GNOME/evolution-ews.git
+       (optional, for Microsoft Exchange servers) (Browse)
+     * git clone https://gitlab.gnome.org/GNOME/evolution-mapi.git
+       (optional, for old Microsoft Exchange servers) (Browse)
+
+--
+       issues tagged for newcomers.
+     * Patch Guidelines
+     * How to Build Evolution from sources
+     * Environment Variables to Aid Debugging
+     * ESource File Format and Migration Guide
+--
+Reference Manuals
+
+     * The Camel (for email), Evolution-Data-Server, Evolution Shell,
+       Evolution Utilities, Evolution Mail Composer and Evolution Mail
+       Formatter developer documentation can be installed together with
+       the development files in respective distributions.
+--
+   The following materials have aged. Some parts are no longer accurate
+   and need a rewrite.
+     * Evolution Data Server Architecture
+     * Evolution Architecture
+     * EPlugin Information
+     * Camel library information - Mail access and storage library
+     * Overview of Filtering API
+
+Evolution-EWS (Exchange Web Services)
+
+     * Exchange Web Services operations feature's parity matrix with /EWS
+       (evolution-ews)
+
+People
+--
+   CategoryCalendar
+
+   Apps/Evolution (last edited 2023-09-15 06:42:53 by MilanCrha)
+   Search: ____________________ Titles Text
+   Copyright © 2005 - The GNOME Project. Hosted by Red Hat.

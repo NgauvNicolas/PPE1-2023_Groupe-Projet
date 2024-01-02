@@ -1,0 +1,1832 @@
+    #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NTX72TG
+
+   Skip to main content Accessibility help
+
+   We use cookies to distinguish you from other users and to provide you
+   with a better experience on our websites. Close this message to accept
+   cookies or find out how to manage your cookie settings.
+   Close cookie message
+
+Login Alert
+
+   Cancel
+   Log in
+   ×
+
+   ×
+
+     * (BUTTON)
+     * Cambridge Core Home Home
+
+     * Log in
+     * Register
+     * Browse subjects
+     * Publications
+     * Open research
+     * Services
+     * About Cambridge Core
+     * Cart
+
+     * Cart
+     *
+     *
+
+     * Institution login
+     *
+     * Register
+     * Log in
+     *
+     * Cart
+
+   Cambridge Core Home Home
+   ____________________
+   Submit search
+
+     * (BUTTON)
+     * Cambridge Core Home Home
+
+     * Log in
+     * Register
+     * Browse subjects
+     * Publications
+     * Open research
+     * Services
+     * About Cambridge Core
+     * Cart
+
+     * Cart
+     *
+     *
+
+     * Institution login
+     *
+     * Register
+     * Log in
+     *
+     * Cart
+
+   Hostname: page-component-797576ffbb-5676f Total loading time: 0 Render
+   date: 2024-01-02T02:11:28.345Z Has data issue: false Feature Flags: {
+   "corePageComponentGetUserInfoFromSharedSession": true,
+   "coreDisableEcommerce": false, "useRatesEcommerce": true }
+   hasContentIssue false
+     * Home
+     * >Journals
+     * >Quaternary Research
+     * >Volume 112
+     * >12,000 years of landscape evolution in the southern...
+
+     * English
+     * Français
+
+   Quaternary Research
+     __________________________________________________________________
+
+Article contents
+
+     * Abstract
+     * INTRODUCTION
+     * STUDY AREA
+     * METHODS
+     * RESULTS
+     * DISCUSSION
+     * CONCLUSIONS
+     * Data Availability Statement
+     * References
+
+12,000 years of landscape evolution in the southern White Mountains, New
+Hampshire, as recorded in Ossipee Lake sediments
+
+   Published online by Cambridge University Press:  02 December 2022
+   James LeNoir Open the ORCID record for James LeNoir [Opens in a new
+   window] ,
+   Timothy L. Cook  and
+   Noah P. Snyder
+   Show author details
+     __________________________________________________________________
+
+   James LeNoir*
+          Affiliation:
+
+          Department of Earth and Environmental Sciences, Boston College,
+          Chestnut Hill, Massachusetts 02467, USA
+
+   Timothy L. Cook
+          Affiliation:
+
+          Department of Geosciences, University of Massachusetts Amherst,
+          Amherst, Massachusetts 01003, USA
+
+   Noah P. Snyder
+          Affiliation:
+
+          Department of Earth and Environmental Sciences, Boston College,
+          Chestnut Hill, Massachusetts 02467, USA
+
+   *
+          *Corresponding author at: USGS New England Water Science Center,
+          Northborough, Massachusetts 01532, USA. E-mail address:
+          james.lenoir@bc.edu (J. LeNoir).
+            ___________________________________________________________
+
+     * Article
+     * Figures
+     * Supplementary materials
+     * Metrics
+
+   Article contents
+     * Abstract
+     * INTRODUCTION
+     * STUDY AREA
+     * METHODS
+     * RESULTS
+     * DISCUSSION
+     * CONCLUSIONS
+     * Data Availability Statement
+     * References
+
+   (BUTTON) Save PDF
+   Save PDF (2 mb) View PDF [Opens in a new window] (BUTTON) Save to
+   Dropbox (BUTTON) Save to Google Drive (BUTTON) Save to Kindle
+   (BUTTON)
+   (BUTTON) Share
+   (BUTTON)
+   (BUTTON) Cite Rights & Permissions [Opens in a new window]
+     __________________________________________________________________
+
+Abstract
+
+   Continuous records of sediment yield spanning from the late glacial
+   through the Holocene to the present day provide an important
+   opportunity to investigate landscape evolution over various timescales
+   in response to a variety of natural and anthropogenic forcing
+   mechanisms. This study investigates variations in sediment yield and
+   landscape evolution in the 768 km2 watershed of Ossipee Lake, New
+   Hampshire, USA. We pair subbottom sonar observations with analyses of
+   lacustrine sediment cores to interpret a 12,000+ yr record of lake
+   sedimentation in terms of changes in sediment yield and landscape
+   evolution. Our results indicate high rates of sediment redistribution
+   following deglaciation at ~14,500 to ~12,000 cal yr BP, followed by a
+   period of gradually decreasing sediment yield until ~9000 cal yr BP,
+   marking the termination of the most intense period of paraglacial
+   landscape adjustment. From 9000 cal yr BP to 1850 CE, sediment yield is
+   highly variable and reveals a slightly increasing trend that we
+   attribute to a dominant hydroclimatic control on erosion driven by
+   increasing effective precipitation in the region throughout the
+   Holocene. Despite evidence for a highly dynamic landscape and an
+   abundance of unconsolidated glacigenic surface deposits throughout the
+   watershed, we interpret a modest erosional impact from anthropogenic
+   land use.
+     __________________________________________________________________
+
+Keywords
+
+   PaleolimnologyGeomorphologyProglacial landscape
+   evolutionHoloceneProglacialParaglacial
+     __________________________________________________________________
+
+   Type
+          Research Article
+
+   Information
+          Quaternary Research , Volume 112 , March 2023 , pp. 20 - 35
+
+          DOI: https://doi.org/10.1017/qua.2022.54 [Opens in a new window]
+          Check for updates
+
+   Creative Commons
+          Creative Common License - CC Creative Common License - BY
+
+          This is an Open Access article, distributed under the terms of
+          the Creative Commons Attribution licence
+          (http://creativecommons.org/licenses/by/4.0/), which permits
+          unrestricted re-use, distribution, and reproduction in any
+          medium, provided the original work is properly cited.
+
+   Copyright
+          Copyright © University of Washington. Published by Cambridge
+          University Press, 2022
+
+INTRODUCTION
+
+   A legacy of Pleistocene glaciations in the northeastern United States
+   is a widespread, but variable mantle of sediment covering much of the
+   landscape (Hitchcock, Reference Hitchcock1878; Goldthwait et al.,
+   Reference Goldthwait, Goldthwait and Goldthwait1951). Following
+   deglaciation, the rate at which this material has been redistributed
+   has been influenced by paraglacial landscape adjustments, changing
+   hydroclimatic conditions, and human activities (e.g., Bierman et al.,
+   Reference Bierman, Lini, Zehfuss, Church, Davis, Southon and
+   Baldwin1997; Francis and Foster, Reference Francis and Foster2001; Cook
+   et al., Reference Cook, Yellen, Woodruff and Miller2015, Reference
+   Cook, Snyder, Oswald and Paradis2020). Considering this redistribution
+   of sediment in terms of watershed sediment yield has direct
+   implications for understanding fundamental processes related to soil
+   erosion, contaminant transport, reservoir life span, and the delivery
+   of sediment to coastal systems. The postglacial landscape evolution of
+   the northeastern United States is relevant to our understanding of
+   previously glaciated landscapes throughout the world and is
+   particularly germane to understanding how mountain landscapes and their
+   associated geologic hazards may evolve under conditions of global
+   warming and glacial recession, as is happening currently in many
+   locations (Knight and Harrison, Reference Knight and Harrison2018).
+
+   Quantifying sediment yield and its response to various forcings is
+   especially challenging, given the need for measurements spanning a wide
+   range of hydroclimatic conditions (e.g., Croke and Hairsine, Reference
+   Croke and Hairsine2006) and the difficulty in deciphering the impacts
+   of simultaneous changes in climate and human activity in the recent
+   past (e.g., Huggel et al., Reference Huggel, Clague and Korup2012;
+   Kasprak et al., Reference Kasprak, Magilligan, Nislow, Renshaw, Snyder
+   and Dade2013; Cook et al., Reference Cook, Yellen, Woodruff and
+   Miller2015). While geologic archives can capture a wide range of
+   climatic conditions under circumstances minimally impacted by humans,
+   many of the available archives provide only snapshots of past
+   conditions. Sedimentary records from suitably located lakes and ponds
+   offer the potential for long, continuous records of sediment
+   accumulation, from which estimates of terrestrial sediment yield may be
+   derived (e.g., Davis and Ford, Reference Davis and Ford1982; Cook et
+   al., Reference Cook, Snyder, Oswald and Paradis2020). A limited number
+   of studies in the northeastern United States have examined sediment
+   delivery to lakes in response to terrestrial processes; however, the
+   majority of existing records have focused on lakes with very small
+   (mostly <15 km^2) watersheds, lacked age control over the period most
+   heavily impacted by humans, and revealed inconsistent patterns of
+   sediment delivery over the Holocene (e.g., Brown et al., Reference
+   Brown, Bierman, Lini and Southon2000, Reference Brown, Bierman, Lini,
+   Davis and Southon2002; Noren et al., Reference Noren, Bierman, Steig,
+   Lini and Southon2002; Parris et al., Reference Parris, Bierman, Noren,
+   Prins and Lini2010). Two existing regional records from lakes with
+   relatively large watersheds and recent age constraints that allow
+   correlation of sedimentary events with historical hydrologic conditions
+   and land-use activity span only the past 1100 (Cook et al., Reference
+   Cook, Snyder, Oswald and Paradis2020) and 2100 yr (Cook et al.,
+   Reference Cook, Yellen, Woodruff and Miller2015), failing to capture
+   the period of most intense paraglacial landscape adjustments and the
+   largest climatic changes of the Holocene.
+
+   Given the importance of understanding landscape evolution in response
+   to changing climate and human activity, and the dearth of suitable
+   records, we seek to answer the question: How has the erosion and
+   transport of sediment in the northeastern United States varied since
+   deglaciation in response to long-term trends in climate, vegetation
+   change, past floods, and anthropogenic land use? We do so using
+   sediment cores collected from Ossipee Lake, New Hampshire, USA.
+   Analysis of these cores is used to reconstruct the mass accumulation
+   rate of clastic sediment from ~12,000 cal yr BP to 2017 CE as a proxy
+   for watershed sediment yield. Regionally, Ossipee Lake has a uniquely
+   large watershed with limited upstream water bodies, a remarkably simple
+   lake geometry, and an abundance of unconsolidated sediment mantling its
+   watershed. Collectively, these traits distinguish Ossipee Lake as an
+   ideal setting for examining the integrated signal of hydroclimatic,
+   ecological, and anthropogenic impacts on sediment yield operating
+   within a large watershed over various timescales and we evaluate our
+   results in relation to regional records of climate and environmental
+   change.
+
+STUDY AREA
+
+   Ossipee Lake and its watershed are located in east-central New
+   Hampshire, USA (Fig. 1). The 768 km^2 watershed ranges in elevation
+   from 124 m at Ossipee Lake, to >1200 m along summits of the Sandwich
+   Range of the southeastern White Mountains. Presently, the watershed is
+   dominantly forested (78% of current land cover), with only a small
+   portion developed (4.5%) or in agricultural use (1%; Dewitz, Reference
+   Dewitz2019). Thick surficial deposits surround Ossipee Lake and blanket
+   much of the watershed, a legacy of the last glaciation and subsequent
+   deglaciation (Newton, Reference Newton1974a, Reference Newton1974b).
+   Regional deglaciation occurred around 14,500 cal yr BP (Ridge et al.,
+   Reference Ridge, Canwell, Kelly and Kelley2001, Reference Ridge, Balco,
+   Bayless, Beck, Carter, Dean, Voytek and Wei2012; Dalton et al.,
+   Reference Dalton, Margold, Stokes, Tarasov, Dyke, Adams and Allard2020;
+   Ridge, Reference Ridge2022); during the earliest stages of
+   deglaciation, much of the low-elevation portions of the Ossipee
+   watershed were occupied by a proglacial lake. The size of this lake and
+   location of its outlet shifted rapidly in concert with the retreating
+   ice front, with the lake surface migrating through a series of steps
+   corresponding to present-day elevations of 182 m, 171 m, and 140 m,
+   before the current 124 m elevation of the lake was established (Moore
+   and Medalie, Reference Moore and Medalie1995). Meltwater from the
+   retreating ice front deposited proglacial lake sediments, eskers, kame
+   deposits, and outwash plains forming what is today the largest
+   stratified drift aquifer within the state of New Hampshire (Moore and
+   Medalie, Reference Moore and Medalie1995). Upland areas of the
+   watershed are mantled in glacial till (Newton, Reference Newton1974a).
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 1. (A) Map of the conterminous United States highlighting the
+   New England region. (B) Simplified elevation map of the New England
+   region indicating the location of the Ossipee Lake watershed. (C)
+   Shaded relief map of the Ossipee Lake watershed (outlined in red) and
+   primary sub-drainage basins. Local elevation ranges from 124 m at
+   Ossipee Lake to more than 1200 m at summits within the Sandwich Range.
+   The Ossipee Mountains reach elevations of 900 m. Numbered rectangles
+   indicate footprints of light detection and ranging (LIDAR) shaded
+   relief maps shown in Fig. 2.
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 2. Light detection and ranging (LIDAR) shaded relief maps
+   showing landscape features in the vicinity of Ossipee Lake. Locations
+   of numbered panels are indicated on watershed map included in Fig. 1C.
+   Labeled features highlight the abundance of unconsolidated sediment
+   comprising surficial deposits within the Ossipee Lake watershed and
+   emphasize postglacial transport and erosion of sediment within the
+   region.
+
+   Postglacial redistribution of surface materials in the Ossipee Lake
+   watershed is widely evident, alluding to a dynamic landscape well
+   suited to investigations of Holocene landscape evolution. Numerous
+   examples of incised stream channels and gullies, alluvial fans, and
+   erosional scarps formed from channel and shoreline migration visible in
+   light detection and ranging (LIDAR) digital elevation models (DEMs;
+   Fig. 2) illustrate the extent of postglacial sediment redistribution
+   within the region. The dominantly sandy shoreline of the lake,
+   prominent deltas at the mouths of the four primary tributaries entering
+   Ossipee Lake (Bearcamp, Lovell, Pine, West Branch; Figs. 1–3), and
+   postglacial migration of the lake outlet in response to beach processes
+   and long-shore currents (Newton, Reference Newton1974b) further
+   illustrate the abundance of available sediment and its ongoing
+   redistribution within the watershed.
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 3. Bathymetric map of Ossipee Lake overlaid on 2015 orthoimagery
+   (30 cm resolution). Also shown are sediment core locations, subbottom
+   sonar track lines, major tributaries to Ossipee Lake, and the prominent
+   shallow shelf in the southeastern corner of the lake (modified from
+   LeNoir, Reference LeNoir2019). The greatest depth is located at the
+   northern coring site.
+
+   Ossipee Lake has a surface area of 13 km^2, average depth of 8.5 m, and
+   maximum depth of 19.5 m (Fig. 3). The lake's volume and depth aid in
+   trapping sediment from inflowing streams, and its simple bowl-shaped
+   geometry likely simplifies transport and depositional patterns within
+   the lake. The large catchment area of the Ossipee watershed relative to
+   the lake's surface area further helps concentrate the deposition of
+   sediment and maximize the signal from terrestrial sediment input.
+
+   Human occupation of the Ossipee watershed likely spans much of the
+   Holocene, though regional estimates of the indigenous population in New
+   England are relatively low for much of the postglacial period, with
+   peaks occurring during the Middle and Late Holocene (Munoz et al.,
+   Reference Munoz, Gajewski and Peros2010). Population rose during the
+   Late Archaic (6–3 ka) and Late Woodland (1–0.5 ka) intervals. The
+   latter peak has been attributed to the regional emergence of
+   horticulture of native species and cultigens, especially maize.
+   However, archaeological data suggest a minimal role for horticulture
+   before the arrival of Europeans (Chilton, Reference Chilton and
+   Alt2010). At the time of European arrival to the region in the
+   mid-seventeenth century, the main village of the Ossipee tribe was
+   located on the western shore of Ossipee Lake, with the lake and its
+   tributaries serving as an important travel conduit (Price, Reference
+   Price and Piotrowski2002). Euro-American settlement displaced the
+   native population and resulted in widespread forest clearance, dam
+   construction, and conversion of land to agriculture over the ensuing
+   centuries. The town of Ossipee was incorporated in 1785 CE; population
+   of the surrounding Carroll County first peaked in 1860 CE, with census
+   data recording the presence of 2758 farms and 50% of the surveyed
+   county being improved land (Merrill, Reference Merrill1889). The
+   Industrial Revolution and western expansion of the United States in the
+   late nineteenth century led to the abandonment of many New England
+   farms and subsequent natural reforestation. While the present landscape
+   remains dominantly forested, rural residential development throughout
+   the twentieth and twenty-first centuries has led to increasing
+   population, and commercial timber harvest has continued in isolated
+   portions of the watershed.
+
+METHODS
+
+   We carried out fieldwork at Ossipee Lake during June 2017 and June
+   2018. Subbottom sonar surveys were conducted using a SyQuest StrataBox
+   HD single-frequency (10 kHz) instrument. Subbottom depths were
+   approximated based on the known water depth and assumption of a
+   constant speed of sound. Sediment cores were collected from both the
+   northern (43°48.12′N, 71°9.00′W; 19.5 m water depth) and southern
+   (43°47.16′N, 71°8.28′W; 17.7 m water depth) ends of the large central
+   basin of the lake (Fig. 3). Short (~1 m) gravity cores were collected
+   to ensure an intact sediment–water interface; transparent core tubes
+   allowed field verification of undisturbed sediment overlain by clear
+   water. A single ~2 m piston-percussion core was collected at the
+   northern site. Two overlapping sequences of multiple 3 m drives were
+   collected from the southern site using a Uwitec piston-percussion
+   corer.
+
+   Sediment cores were split lengthwise, visually described, and
+   photographed before further analyses were conducted. We used an ITRAX
+   (Cox Analytical Systems; Croudace et al., Reference Croudace, Rindby
+   and Rothwell2006) core scanner housed in the Geosciences Department at
+   the University of Massachusetts Amherst to obtain X-radiographs and
+   measure bulk elemental abundances via scanning X-ray fluorescence (XRF)
+   using a Mo X-ray source at 30 kV voltage and 55 mA current. Cores were
+   scanned at 1.0 mm resolution with a count time of 10 s, except for the
+   short surface cores, which were scanned using a 15 s count time. We
+   limit our reporting of XRF results to a subset of elements that provide
+   insight on terrestrial sediment input. Specifically, we report results
+   for potassium, which has been shown to be a reliable indicator of
+   clastic sediment input to northeastern lakes (Yellen et al., Reference
+   Yellen, Woodruff, Kratz, Mabee, Morrison and Martini2014; Cook et al.,
+   Reference Cook, Yellen, Woodruff and Miller2015, Reference Cook,
+   Snyder, Oswald and Paradis2020), in addition to silicon and titanium.
+   Silicon in lake sediment can be derived from both the input of
+   terrestrial sediment and the accumulation of autochthonous silica of
+   biogenic origin, with the ratio of silicon to titanium providing
+   insight into variations in the relative proportion of biogenic silica
+   that comprises the inorganic component of the sediment (Croudace et
+   al., Reference Croudace, Rindby and Rothwell2006; Brown, Reference
+   Brown, Croudace and Rothwell2015). We note that the 10 s count time
+   used for our XRF analyses provides poor detection limits for silicon
+   (Brown, Reference Brown, Croudace and Rothwell2015), and thus we are
+   limited to qualitative interpretation of these data. Magnetic
+   susceptibility was measured using a Bartington MS2E sensor at 0.5 cm
+   intervals using split-core logging methodology (Nowaczyk, Reference
+   Nowaczyk, Last and Smol2001). Percent loss on ignition (LOI) and dry
+   bulk density (ρ[db]) were measured on 1 cm^3 subsamples removed from
+   the cores at 1 cm intervals following standard procedures (Dean,
+   Reference Dean1974). Continuous composite sedimentary sequences for the
+   north and south coring sites were constructed by correlating the visual
+   stratigraphy and LOI, magnetic susceptibility, and XRF data from
+   individual cores (Supplementary Figs. 1 and 2, Supplementary Table 1)
+   and identifying portions from individual cores that could be spliced
+   together into a single continuous sequence. Composite sequences totaled
+   2.31 m at the northern site and 8.63 m at the southern site.
+
+   Age constraints for the sedimentary sequence were obtained from a
+   combination of ^137Cs and ^210Pb stratigraphy and radiocarbon dating of
+   nine terrestrial macrofossils and two bulk sediment samples recovered
+   from the cores (Table 1). The clear correlation among cores allowed age
+   control points determined from individual cores to be readily placed on
+   the composite depth scale (Supplementary Table 1). Radiocarbon dates
+   were determined via accelerator mass spectrometry (AMS) at the National
+   Ocean Sciences Accelerator Mass Spectrometry laboratory at Woods Hole
+   Oceanographic Institute in Woods Hole, Massachusetts, and at Direct AMS
+   in Bothell, Washington. Radiocarbon ages were calibrated to calendar
+   years BP, where present corresponds to 1950 CE, utilizing the IntCal13
+   calibration curve (Reimer et al., Reference Reimer, Bard, Bayliss,
+   Beck, Blackwell, Ramsey and Buck2013) and the open-source R package
+   CLAM (Blaauw, Reference Blaauw2010). One-centimeter-thick slices of
+   sediment were dried, homogenized, and analyzed via gamma spectroscopy
+   using a Canberra GL2020 R low-energy gamma detector to determine ^137Cs
+   and ^210Pb activity profiles for the upper 35 cm of the southern core
+   sequence. The onset (1954 CE) of detectable ^137Cs and subsequent peak
+   (1963 CE) provided two additional age-control points used in the final
+   construction of an age–depth model for the composite sequence. In
+   addition, the open-source R package serac (Bruel and Sabatier,
+   Reference Bruel and Sabatier2020) was used to evaluate the ^210Pb
+   profile using both the constant rate of supply (CRS; Appleby and
+   Oldfield, Reference Appleby and Oldfield1978) and constant flux
+   constant sedimentation (CFCS; Krishnaswamy et al., Reference
+   Krishnaswamy, Lal, Martin and Meybeck1971) models. Ultimately, the
+   sedimentation rate determined via application of the CFCS model was
+   used to estimate the age (1890 ±10 yr) of the first prominent
+   stratigraphic horizon that could be correlated among all cores (at
+   33.5 cm depth in the southern composite sequence), providing one
+   additional control point for the age–depth model.
+
+   Table 1. Radiocarbon sample information from the north and south
+   composite core sequences, including all possible calibrated age ranges
+   and their probabilities based on the 95% confidence intervals of the
+   radiocarbon ages.
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   We used the three control points established from the ^137Cs and ^210Pb
+   stratigraphies along with 10 radiocarbon dates to construct a final
+   age–depth model for the southern composite sequence. A variety of
+   age–depth modeling methods were investigated, including various
+   interpolation methods using “classical” techniques (Blaauw, Reference
+   Blaauw2010), Bayesian methods (Bacon; Blaauw and Christen, Reference
+   Blaauw and Christen2011), and incorporation of time-varying
+   accumulation rates derived from variations in sediment composition
+   (Minderhoud et al., Reference Minderhoud, Cohen, Toonen, Erkens and
+   Hoek2016). The results of our examination of differing age–depth models
+   are described in detail by LeNoir (Reference LeNoir2019) and
+   demonstrate that the primary interpretation of results is not altered
+   by choice of age–depth modeling technique, though all models have
+   shortcomings. As described herein, we utilized the age–depth model
+   derived from linear interpolation between control points defined by the
+   2-sigma uncertainty in the calibrated ages calculated in the R package
+   CLAM (Blaauw, Reference Blaauw2010) and note the following caveats.
+   Linear interpolation in CLAM underestimates the uncertainty in the age
+   of sediment at most depths, produces (potentially spurious) inflection
+   points in accumulation rate at each control point, and is unable to
+   account for changes in sedimentation rate between control points,
+   resulting in underestimation of peak accumulation rates during
+   short-duration events. Nonetheless, linear interpolation in CLAM
+   reduces subjective decision making around input parameters found in
+   other models, and its shortcomings are predictable and can therefore be
+   taken into consideration during interpretation of results.
+
+   We examined changes in the mass accumulation rate of clastic sediment
+   (MAR[clastic]) in Ossipee Lake as a proxy for suspended sediment yield
+   (SSY) from the watershed using a similar approach to Cook et al.
+   (Reference Cook, Snyder, Oswald and Paradis2020). MAR[clastic] per unit
+   area of lake bottom (g/cm^2/yr) was determined using the equation:
+   (Eq. 1)$${\rm MA}{\rm R}_{{\rm clastic}} = {\rm SR} \times
+   \displaystyle{{{\rm \rho }_{{\rm db}}( {100-{\rm LOI}} ) } \over
+   {100}}$$
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   where SR is the instantaneous bulk sedimentation rate (cm/yr) defined
+   by the slope of the age–depth model and ρ[db] and LOI are the dry bulk
+   density (g/cm^3) and percent mass loss on ignition, respectively, at
+   corresponding depths. Estimates of SSY in Mg/yr/km^2 were derived from
+   MAR[clastic] using the equation:
+   (Eq. 2)$${\rm SSY} = {\rm MA}{\rm R}_{{\rm clastic}} \times
+   \displaystyle{{{\rm LA}} \over {{\rm CA}}}\;\times 10, \;000\;{\rm
+   Mg}/{\rm \;g}/{\rm c}{\rm m}^2/{\rm k}{\rm m}^2$$
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   where LA and CA are the lake area and catchment area, respectively.
+   Rather than using the total surface area of the lake, we based LA on
+   the area of the lake below the 8 m depth contour (7.5 km^2), the area
+   within which the majority of Holocene sediment infill is observed based
+   on interpretation of the subbottom sonar transects (Fig. 4).
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 4. Subbottom sonar cross sections. Similar vertical exaggeration
+   applied to all cross sections. Labels correspond to track lines shown
+   on the bathymetric map in Fig. 3. Approximate location of coring sites
+   indicated on transects 2018-3 and 2017-1. Basal contacts of Holocene
+   lake fill and proglacial lake sediments are identified along with a
+   prograding sand body in the southeastern corner of the lake (transect
+   2017-1; modified from LeNoir, Reference LeNoir2019).
+
+RESULTS
+
+   Subbottom sonar results from three W-E transects and a single N-S axial
+   transect reveal more than 20 m of stratified deposits beneath Ossipee
+   Lake (Fig. 4). Despite poor penetration in portions of the lake, likely
+   due to gas present in the sediment, continuous, nearly horizontal
+   acoustic reflections can be traced across large portions of the lake
+   subbottom. The most prominent feature, identifiable in all subbottom
+   sections, is a transition to stronger reflections at approximately 6 m
+   below lake bottom (identified by the dashed green line in Fig. 4). The
+   unit above this horizon tapers toward the lake margins and is generally
+   limited to areas of the lake below ~8 m water depth. This unit is
+   identified as the Holocene lake fill based on sedimentary and
+   chronological evidence. The unit below this, characterized by prominent
+   reflections, is interpreted as late-glacial lake sediment. An
+   additional depositional unit in the southeastern portion of the lake is
+   visible in transect 2017-1 (Fig. 4D), bounded above by the flat,
+   shallow lake bottom in this portion of the lake and bounded below by
+   the stratified late-glacial sediments. This unit appears nonconforming
+   with the underlying late-glacial sediments and distinct from the
+   Holocene lake fill. Field observations indicated that surface sediment
+   in this shallow, southeastern portion of the lake are dominantly
+   composed of sand.
+
+   The lowermost sediment recovered from the southern basin, from 8.63 m
+   to 6.90 m composite depth below lake bottom, is light gray in color and
+   composed of diffuse silt and clay laminae with occasional black streaks
+   (Fig. 5B). Organic content is low (LOI < 4.26%), ρ[db] varies from 0.82
+   to 1.09 g/cm^3, and magnetic susceptibility ranges from 17.08 to
+   191.24 × 10^−5 standard international units (SI) (Fig. 6). From 6.90 m
+   to ~6.18 m, the organic content of the sediment progressively increases
+   as ρ[db], magnetic susceptibility, and potassium content all decrease
+   (Fig. 6). The depth of this transition from dense, inorganic sediment
+   to lower-density, more organic-rich sediments is consistent with the
+   prominent transition observed in the subbottom sonar at ~6 m below lake
+   bottom, where more acoustically transparent material overlies a
+   sequence of stronger reflections (Fig. 4).
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 5. Split-core photographs depicting (A) typical Holocene
+   sediment interrupted by a prominent, clastic event deposit and (B)
+   proglacial lake sediment at the base of the recovered sequence. In both
+   panels the core top is oriented to the left.
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 6. Core data from the southern composite sequence from Ossipee
+   Lake. Analytical results span the upper 7.25 m. An additional 1.38 m of
+   core was recovered and described, but not analyzed. Blue arrows
+   indicate the position of radiocarbon dates; green arrows indicate
+   control points derived from ^137Cs and ^210Pb profiles. Event layers
+   (tan bands) are identified as intervals of decreased organic content
+   (high LOI) and increased elevated minerogenic content (elevated ρ[db],
+   magnetic susceptibility, and potassium). The portion shaded blue is
+   interpreted as late-glacial deposits (modified from LeNoir, Reference
+   LeNoir2019).
+
+   The upper ~6.18 m of the southern composite core and the entire 2.31 m
+   northern core sequence are composed primarily of dark brown, moderately
+   organic (15–25% LOI), fine-grained (silty) sediment with a ρ[db]
+   ranging from 0.17 to 0.46 g/cm^3 and magnetic susceptibility values
+   ranging from 1.93 to 64.21 × 10^−5 SI (Figs. 5A and 6). Throughout the
+   record, silicon and titanium covary and are strongly correlated (r
+   ^2 = 0.82; Supplementary Fig. 3). The abundance of both elements
+   broadly follows a similar pattern to LOI, magnetic susceptibility, and
+   potassium (Fig. 6, Supplementary Fig. 3) and generally decrease from
+   the earliest to latest periods of the record. The ratio of silicon to
+   titanium decreases slightly over the course of the record, though low
+   abundances of silicon above ~2.6 m were near or below the detection
+   limit for the XRF instrument (as evident from occasional zero values
+   for peak area counts) and likely result in spuriously low Si:Ti values
+   for the portion of the record above 2.6 m.
+
+   Dispersed intervals of lighter-brown sediment occur throughout the
+   upper 6.18 m portion of the southern core. These intervals are enriched
+   in clastic (minerogenic) sediment, as evident from a decrease in
+   organic content (LOI excursions are 5–10% below that of underlying
+   sediment) and increases in density, magnetic susceptibility, and
+   potassium content (Figs. 5 and 6). These units are further
+   characterized by sharp basal contacts that result in rapid excursions
+   of proxy measurements that gradually return toward prior values,
+   indicating compositional grading. We term these intervals “event
+   deposits.” A total of 19 event deposits were identified in the southern
+   composite sequence (Fig. 6). The uppermost event deposit, beginning at
+   33.5 cm depth in the southern core and pictured in Figure 5A, is
+   correlative among all cores we collected at both the southern and
+   northern sites, also correlative are five underlying event deposits
+   within the overlapping portion of the northern and southern records
+   (LeNoir, Reference LeNoir2019; Supplementary Fig. 2). This uppermost
+   event deposit was previously identified in multiple Ossipee Lake cores
+   collected by Perello (Reference Perello2015), further demonstrating its
+   widespread continuity. While we did not perform particle-size analysis,
+   data from Perello (Reference Perello2015) indicate a slight decrease in
+   median particle size from ~18 μm to 12 μm (dominated by an increase in
+   clay content) at the base of the unit, followed by a gradual, but
+   highly variable return above. Correlation of the event layers across
+   the deep basin of the lake along with the continuous, parallel nature
+   of reflections in the subbottom sonar data suggest widespread
+   continuity of the sedimentary sequence in the central basin of Ossipee
+   Lake.
+
+   The combined results of the ^137Cs and ^210Pb stratigraphy and 10 ^14C
+   ages from the southern composite sequence constrain the age–depth
+   relationship of the sediment from ~12,000 cal yr BP to the collection
+   date of the cores in 2017 CE (Fig. 7). The onset and subsequent peak of
+   detectable ^137Cs at 14.5 cm and 11.5 cm, respectively, are in close
+   agreement with the estimated ages of the sediment determined from both
+   CRS and CFCS models of ^210Pb accumulation (Fig. 7). Below 25 cm, the
+   CRS and CFCS age models diverge considerably. While the constant
+   accumulation rate of the CFCS model is likely unrealistic, the marked
+   decrease in accumulation rate below 25 cm implied by the CRS model is
+   inconsistent with the core stratigraphy, which includes a prominent
+   event deposit beginning at 30 cm in core 17-1 (composite depth of
+   33.5 cm; Fig. 5A). We suspect that the most likely origin of the event
+   deposit was increased deposition of clastic sediment, such that an age
+   model requiring reduced accumulation through this interval is
+   unrealistic. Consequently, we estimated the basal age of this event
+   deposit from the CFCS age model as 1890 CE (acknowledging that the
+   actual timing may be even younger) and incorporated this point in the
+   age–depth model of the composite sequence. Over the 6.8 m interval of
+   the composite sequence bracketed by age constraints (11,810 ± 210 cal
+   yr BP to 2017 CE), the average linear accumulation rate is 0.06 cm/yr,
+   with increased rates occurring after ~4000 cal yr BP and after ~1900
+   CE.
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 7. Age–depth constraints for the southern composite sequence
+   from (A) ^210Pb activity profile and (B) ^137Cs activity profile
+   identifying first detected fallout ca. 1954 CE and peak fallout ca.
+   1963 CE. (C) Constant rate of supply (CRS) and constant flux constant
+   sedimentation (CFCS) age–depth models as derived from the ^210Pb
+   profile in A. (D) Age–depth model for the full composite sequence based
+   on linear interpolation between radiocarbon age constraints (in gray)
+   and ^210Pb and ^137Cs constraints as described in the text (modified
+   from LeNoir, Reference LeNoir2019).
+
+   The accumulation rate of clastic sediment (MAR[clastic]; Fig. 8) varies
+   throughout the record in accordance with changes in the slope of the
+   age–depth model (Fig. 7) and variations in the density (ρ[db]) and
+   composition (% LOI) of the sediment (Fig. 6). Given evidence in the
+   subbottom sonar data for the accumulation of at least 15 m of sediment
+   between deglaciation (circa 14,500 cal yr BP; Ridge et al., Reference
+   Ridge, Canwell, Kelly and Kelley2001, Reference Ridge, Balco, Bayless,
+   Beck, Carter, Dean, Voytek and Wei2012; Dalton et al., Reference
+   Dalton, Margold, Stokes, Tarasov, Dyke, Adams and Allard2020; Ridge,
+   Reference Ridge2022) and the transition to Holocene lake deposits,
+   accumulation rates must have been at least 0.6 cm/yr from 14,500 to
+   12,000 cal yr BP, yielding MAR[clastic] values higher than anything
+   observed during the Holocene. From 11,810 to 9,000 cal yr BP
+   MAR[clastic] decreases from ~0.16 g/cm^2/yr to 0.07 g/cm^2/yr in
+   response to a decrease in the input of clastic sediment evident from
+   the increasing LOI over this interval. From ~9000 cal yr BP to 1890 CE,
+   MAR[clastic] varies widely from 0.07 g/cm^2/yr to 0.28 g/cm^2/yr, with
+   the highest rates associated with distinct event deposits. Average
+   MAR[clastic] is 0.014 g/cm^2/yr, yielding an estimated SSY from the
+   watershed of 1.4 Mg/yr/km^2. A slightly increasing trend in
+   MAR[clastic]of 0.002 g/cm^2/1000 yr is evident over this interval (r
+   ^2 = 0.24, P value = 0.18; Fig. 8). The highest calculated MAR[clastic]
+   values are observed after 1850 CE and are dominated by the presence of
+   the prominent event deposit at 33.5 cm composite depth (Fig. 5A). Peak
+   MAR[clastic] is 0.072 g/cm^2/yr and averages 0.035 g/cm^2/yr from 1850
+   to 2017 CE, corresponding to a watershed SSY of 7.2 Mg/yr/km2 and 3.5
+   Mg/yr/km^2, respectively. While MAR[clastic] since 1850 CE appears
+   anomalous compared with the rest of the record, we note that this is
+   the only portion of the record with centennial-scale age control. Given
+   that the uppermost event deposit is unremarkable in terms of its
+   density, LOI, or other indicators of composition, it is likely that
+   actual peaks in MAR[clastic] in the earlier portion of the record would
+   equal or exceed the values observed after1850 CE if deposition times
+   could be constrained over similarly short intervals in the past.
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 8. MAR[clastic] for the entire composite sequence (top) and last
+   2000 yr (bottom). Dotted line represents the mean from 9012 cal yr BP
+   to AD 1890. Solid line depicts the slightly increasing trend in
+   MAR[clastic] of 0.002 g/cm^2/1000 yr over this same interval (r
+   ^2 = 0.24, P value = 0.18). The gray box from 1180 cal yr BP to the end
+   of the record highlights the portion of the record beyond the
+   bottommost age control point, where accumulation rate in the age–depth
+   model is assumed to be the same as the section above it. Elevated
+   MAR[clastic] in this portion of the record is a function of denser
+   sediment (modified from LeNoir, Reference LeNoir2019).
+
+DISCUSSION
+
+   Our radiocarbon chronology indicates that the southern composite core
+   sequence from Ossipee Lake spans the entire Holocene and includes
+   ~1.7 m of clastic-rich gray sediment that we interpret to be late
+   glacial in origin (Figs. 5 and 6). This allows us to consider
+   paraglacial landscape evolution, as indicated by variability in the
+   patterns of MAR[clastic] (Fig. 8), during the entire Holocene and
+   through the period of Euro-American land-use change. Strong covariance
+   among LOI, magnetic susceptibility, potassium, silicon, and titanium
+   (Fig 6; Supplementary Fig. 3) supports our interpretation of variations
+   in MAR[clastic] as primarily reflecting changes in terrestrial sediment
+   input. However, we acknowledge that interpreting terrestrial processes
+   from limited cores is fraught with uncertainty (e.g., Davis and Ford,
+   Reference Davis and Ford1982). Nonetheless, there are several lines of
+   evidence supporting the interpretation of our Ossipee Lake sequence in
+   terms of landscape evolution. First, the lateral continuity of strata
+   identified in the subbottom data (Fig. 4) and between our northern and
+   southern core sites (LeNoir, Reference LeNoir2019; Supplementary Figs.
+   1 and 2) suggests that depositional patterns within the deep basin are
+   spatially consistent. Second, the relatively large size of Ossipee Lake
+   and the position of our coring sites away from active deltas lead us to
+   believe that we are sampling fine-grained sediment delivered primarily
+   in suspension by the inflowing rivers. Delivery of sediment to these
+   distal locations is likely dominated by prevailing westerly winds and
+   flow of water from tributaries on the western side of the lake to the
+   outlet in the eastern corner of the lake. This is in contrast to more
+   marginal locations in the lake subject to slope processes and more
+   sensitive to delta migration. Finally, subbottom sonar data reveal that
+   the present-day bathymetry characterized by a broad, flat central basin
+   mimics the underlying surface, marking the boundary between
+   late-glacial and Holocene deposits, which are nearly constant in
+   thickness in the central portion of the lake (Fig. 4). Consequently,
+   Holocene infilling of the lake from a maximum water depth of ~25 m to
+   the present 19.5 m water depth is unlikely to have resulted in widely
+   shifting depocenters or trapping efficiencies. While we cannot
+   definitively rule out the possible influence of long-term delta
+   progradation on MAR[clastic], we emphasize the distal setting of our
+   coring sites and the fact that the package of Holocene sediment visible
+   in the subbottom data reveals no apparent thinning to the south or east
+   as might be expected if proximity to primary deltas played a major role
+   in determining accumulation rates. Consequently, the discussion that
+   follows is based on the assumption that changes in MAR[clastic]
+   predominantly reflect changes in the terrestrial suspended sediment
+   delivered to Ossipee Lake from its watershed.
+
+Late-glacial landscape evolution
+
+   The initial period of elevated MAR[clastic] followed by the transition
+   from dominantly minerogenic to more organic-rich sediment and
+   accompanying decline in MAR[clastic] from the earliest part of our
+   record to ~9200 ± 200 cal yr BP (Fig. 9) reflects the most pronounced
+   interval of paraglacial landscape adjustment in the Ossipee watershed.
+   The thickness of the pre-Holocene deposits evident in our subbottom
+   data (Fig. 4) necessitate a >0.6 cm/yr linear sedimentation rate over
+   some portion of 14,500 to 12,000 cal yr BP, as constrained by our
+   lowermost radiocarbon date and the timing of regional deglaciation.
+   This rate is roughly an order of magnitude higher than the mean
+   sedimentation rate over the Holocene. Extremely high accumulation rates
+   in proglacial settings are common (Desloges and Gilbert, Reference
+   Desloges and Gilbert1991; Gilbert and Desloges, Reference Gilbert and
+   Desloges1992) and are consistent with readily available surface
+   deposits on the freshly deglaciated landscape, abundant meltwater for
+   transporting sediment, and a lack of vegetation to help stabilize
+   surface deposits. Consequently, it is likely that much of the
+   pre-Holocene sediments were deposited in a proglacial setting,
+   immediately following ice retreat.
+
+   [gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=
+   =]
+
+   Figure 9. (A) Ossipee lake record of MAR[clastic] and (B) LOI and
+   potassium compared with regional records of environmental change,
+   including (C) intervals of terrestrial sediment redistribution as
+   recorded in lakes (Brown et al., Reference Brown, Bierman, Lini, Davis
+   and Southon2002; Noren et al., Reference Noren, Bierman, Steig, Lini
+   and Southon2002; Parris et al., Reference Parris, Bierman, Noren, Prins
+   and Lini2010), alluvial fans (Jennings et al., Reference Jennings,
+   Bierman and Southon2003), and floodplains (Lombardi et al., Reference
+   Lombardi, Davis, Stinchcomb, Munoz, Stewart and Therrell2020); (D)
+   regional climate reconstructions (Shuman and Marsicek, Reference Shuman
+   and Marsicek2016; Sachs, Reference Sachs2007); and (E) regional
+   vegetation history (Shuman et al., Reference Shuman, Newby, Donnelly,
+   Tarbox and Webb2005; figure modified from LeNoir, Reference
+   LeNoir2019).
+
+   The continuation of elevated MAR[clastic] even after the regional ice
+   margin had retreated beyond the watershed boundary reflects ongoing
+   paraglacial adjustments, likely including a pronounced period of stream
+   incision driven by a combination of lake-level reduction, vegetation
+   establishment, and glacial isostatic adjustments. Evidence for a higher
+   lake level early in the deglaciation of the Ossipee Valley is provided
+   by elevated shoreline features and paleo-drainage channels near the
+   present lake outlet (Newton, Reference Newton1974a, Reference
+   Newton1974b; Fig. 2). We see no sedimentological evidence of a
+   lake-level reduction event within the core sequence that we collected
+   and surmise that paleolake drainage likely occurred shortly after
+   deglaciation (ca. 14,500 cal yr BP; Ridge et al., Reference Ridge,
+   Balco, Bayless, Beck, Carter, Dean, Voytek and Wei2012) and no later
+   than 11,810 ± 210 cal yr BP, the age of our lowest radiocarbon date.
+   The Saco River valley, the next major drainage to the north of Ossipee
+   Lake, was occupied by a series of small glacial lakes collectively
+   referred to as Lake Pigwacket (Thompson, Reference Thompson1999),
+   thought to have drained between 12,170 and 11,630 cal yr BP (Shuman et
+   al., Reference Shuman, Newby, Donnelly, Tarbox and Webb2005). Falling
+   lake level of an enlarged postglacial Ossipee Lake would not have
+   isolated the lake basin from the dominant drainage networks supplying
+   sediment to the lake. In contrast, lake-level reduction would have
+   decreased the regional base level, initiated the widespread fluvial
+   incision and gullying prevalent throughout the watershed (Fig. 2), and
+   consequently increased sediment delivery to the lake, as evident from
+   elevated MAR[clastic] in Figures 8 and 9. Pollen data from Echo Lake,
+   located 30 km north of Ossipee Lake, are dominated by spruce (Picea)
+   before 13,000 cal yr BP, transitioning through boreal taxa such as
+   alder (Alnus), fir (Abies), and birch (Betula), before becoming
+   dominated by haploxylon pine and oak (Quercus) by 11,000 cal yr BP
+   (Shuman et al., Reference Shuman, Newby, Donnelly, Tarbox and Webb2005;
+   Fig. 9E). These data reveal the establishment and evolution of the
+   regional forest cover, which would have helped stabilize hillslopes,
+   strengthen stream banks, and promote a transition from braided to
+   meandering planforms as stream channels incised to the base level of
+   the modern lake (Newton, Reference Newton1974a, Reference Newton1974b;
+   Moore and Medalie, Reference Moore and Medalie1995; Fig. 2). In
+   addition, differential rebound of 0.9 m/km resulting from retreat of
+   the Laurentide Ice Sheet (Hooke and Ridge, Reference Hooke and
+   Ridge2016) would have steepened the gradients of south-flowing streams,
+   including the Bearcamp River, the largest tributary to Ossipee Lake,
+   which drains the highest elevation and steepest portions of the
+   watershed. Therefore, lake-level reduction, vegetation establishment,
+   and isostatic adjustments may have all contributed to fluvial incision.
+   The decrease in MAR[clastic] beginning ~12,000 cal yr BP (Figs. 8 and
+   9) suggests that channel profiles may have begun stabilizing by this
+   time, a pattern that is consistent with a period of most active fluvial
+   incision in the earliest Holocene observed in the Missisquoi River
+   valley in northern Vermont (Brakenridge et al., Reference Brakenridge,
+   Thomas, Conkey and Schiferle1988) and the Connecticut River valley in
+   southern New England (Schenck, Reference Schenck2018).
+
+Early Holocene landscape changes
+
+   We interpret the interval of decreasing MAR[clastic] from ~12,000 to
+   9000 cal yr BP (Figs. 8A and 9A) as reflecting the waning influence of
+   the prior glacial conditioning of the landscape. During this interval,
+   stream channel profiles likely approached equilibrium with the base
+   level defined by the modern elevation of Ossipee Lake, the most readily
+   erodible surface deposits were being exhausted, and the regional
+   vegetation transitioned from boreal taxa to a forest dominated by oak
+   (Quercus), beech (Fagus), birch (Betula), and hemlock (Tsuga) that
+   persisted through the remainder of the Holocene (Shuman et al.,
+   Reference Shuman, Newby, Donnelly, Tarbox and Webb2005; Fig. 9E). Our
+   inferred timing for stabilization of the landscape surrounding Ossipee
+   Lake, ~9200 ± 200 cal yr BP, aligns with the establishment of maximum
+   vegetation coverage within the Mirror Lake, New Hampshire, watershed
+   around 9500 to 9000 cal yr BP (Likens and Davis, Reference Likens and
+   Davis1975). The >5 ka time interval from deglaciation to apparent
+   landscape stabilization around 9200 cal yr BP is consistent with the
+   extended timescales of paraglacial sediment reworking demonstrated for
+   glaciated British Columbia river basins (Church and Slaymaker,
+   Reference Church and Slaymaker1989). The shape of the Ossipee Lake
+   MAR[clastic] curve during this interval is consistent with an
+   exhaustion model of paraglacial landscape evolution (Ballantyne,
+   Reference Ballantyne2002), in which the supply of easily mobilized
+   sediment decreases as the landscape stabilizes. However, lacking the
+   detailed age control within this interval needed to adequately
+   constrain short-duration variations in sediment yield, we cannot rule
+   out an evolution dominated by waves of erosion, as suggested by Church
+   and Ryder (Reference Church and Ryder1972). Notably, the variable
+   MAR[clastic] pattern and episodic occurrence of event deposits
+   throughout the Holocene (Figs. 8A and 9A) suggest ongoing reworking of
+   glaciogenic deposits throughout the study period.
+
+Middle through Late Holocene landscape evolution
+
+   The Ossipee Lake record of MAR[clastic] from ~9000 cal yr BP to ~1850
+   CE is highly variable, but contains a slight trend toward increasing
+   MAR[clastic] (Figs. 8A and 9A). Interestingly, the lowest values of
+   MAR[clastic] during the entire record are observed around ~9000 cal yr
+   BP, corresponding to a period of increased fire activity in southern
+   New England during what was broadly the warmest and driest interval of
+   the Holocene (Oswald et al., Reference Oswald, Foster, Shuman, Chilton,
+   Doucette and Duranleau2020). While we cannot rule out short-duration
+   increases in erosion and subsequent lake sedimentation in response to
+   individual wildfires, the occurrence of the lowest MAR[clastic] values
+   during the period of greatest regional fire activity suggests that on
+   centennial or longer timescales, fire frequency is not a primary driver
+   of erosion rates. In general, variations in MAR[clastic] reflect the
+   combined influence of the sedimentation rate defined by the slope of
+   the age–depth model and variations in the composition of the sediment.
+   Though discrete peaks in MAR[clastic] are associated with the
+   occurrence of event deposits (Fig. 9A) characterized by enriched
+   minerogenic content (Fig. 9B), variations in the timing and frequency
+   of event deposits are independent of millennial-scale changes in
+   MAR[clastic] and the long-term increasing trend in MAR[clastic].
+
+   To further explore the origins of millennial-scale changes in
+   MAR[clastic], we compiled existing Holocene-length records of
+   terrestrial sedimentation in the northeastern United States (Fig. 9C)
+   from lakes (Brown et al., Reference Brown, Bierman, Lini, Davis and
+   Southon2002; Noren et al., Reference Noren, Bierman, Steig, Lini and
+   Southon2002; Parris et al., Reference Parris, Bierman, Noren, Prins and
+   Lini2010), alluvial fans (Jennings et al., Reference Jennings, Bierman
+   and Southon2003), and floodplains (Lombardi et al., Reference Lombardi,
+   Davis, Stinchcomb, Munoz, Stewart and Therrell2020). Though these
+   records reveal limited internal consistency, we note that the apparent
+   periods of elevated terrestrial sediment redistribution in the regional
+   records centered around ~6500 cal yr BP and ~2500 cal yr BP and
+   separated by a multimillennial period of reduced activity are generally
+   consistent with the pattern of MAR[clastic] in Ossipee Lake. In
+   contrast, the long-term trend of increasing MAR[clastic] at Ossipee
+   Lake is not observed in other regional records of terrestrial
+   sedimentation. Both increasing MAR[clastic] over the Holocene and the
+   episodic occurrence of event deposits (Figs. 8 and 9A) are contrary to
+   simple exhaustion models of paraglacial sedimentation (e.g.,
+   Ballantyne, Reference Ballantyne2002) and instead reveal persistent or
+   intermittent reworking of the landscape throughout the Holocene, as was
+   observed in the Scottish Highlands by Ballantyne (Reference
+   Ballantyne2008).
+
+   While the increasing trend in MAR[clastic] over the Middle and Late
+   Holocene is weak, the possibility that sediment export from the
+   watershed was increasing, or even remaining constant, warrants further
+   exploration, as sediment availability in this paraglacial landscape
+   should theoretically have been decreasing (e.g., Ballantyne, Reference
+   Ballantyne2002). An increase in biogenic silica production within the
+   lake or its preservation in sediment over the course of the Holocene
+   would impact our LOI-based determinations of the inorganic fraction of
+   the sediment and subsequent calculations of MAR[clastic], yielding a
+   spurious trend toward increasing MAR[clastic] over the same interval.
+   However, strong covariance of silicon and other indicators of
+   terrestrial sediment (Fig. 6, Supplementary Fig. 3) suggests that
+   variations in the inorganic fraction of the sediment in Ossipee Lake
+   are dominated by changes in terrestrial sediment input. Furthermore, a
+   gradual decrease in Si:Ti over the Holocene is suggested by our XRF
+   data, though we emphasize the qualitative nature of these results
+   (Supplementary Fig. 3). This pattern could result from decreasing
+   production of biogenic silica in the lake, decreased preservation in
+   the sediment, or dilution of biogenic silica by increased input of
+   silicon from terrestrial sources (Conley and Schelske, Reference
+   Conley, Schelske, Smol, Birks, Last, Bradley and Alverson2002). All of
+   these possibilities are consistent with the observed increase in
+   MAR[clastic] resulting from increased input of clastic sediment from
+   the watershed rather than any increase in the amount of biogenic silica
+   in the sediment.
+
+   Assuming that the apparent increasing trend in MAR[clastic] over the
+   Middle and Late Holocene truly reflects changing delivery of sediment
+   from the watershed, we explore several plausible mechanisms capable of
+   driving changes in sediment yield from the surrounding landscape.
+   Regional pollen records (Shuman et al., Reference Shuman, Newby,
+   Donnelly, Tarbox and Webb2005; Oswald et al., Reference Oswald, Foster,
+   Shuman, Chilton, Doucette and Duranleau2020; Fig. 9E) reveal changes in
+   vegetation throughout the Holocene; however, we see no obvious trend in
+   vegetation that might lead to increasing sediment availability and a
+   subsequent increase in MAR[clastic] in Ossipee Lake. The long history
+   of human habitation in the Ossipee region and the potential for human
+   modification of the landscape to have produced changes in sediment
+   yield over at least the past several millennia (e.g., Dearing and
+   Jones, Reference Dearing and Jones2003) provide another possible
+   mechanism to explain the long-term trend in MAR[clasti][c]. However,
+   indigenous populations in the region reached maxima during the Late
+   Archaic (5000–3000 cal yr BP) and Middle–Late Woodland (1500–500 cal yr
+   BP) periods (Munoz et al., Reference Munoz, Gajewski and Peros2010),
+   which is inconsistent with the timing of peak MAR[clastic] in Ossipee
+   Lake. An additional mechanism that could account for the long-term
+   increase in MAR[clastic] is glacial isostatic adjustments affecting
+   river gradients, base level, and/or the position of drainage divides. A
+   forebulge would have existed 150–200 km south of the Laurentide Ice
+   Sheet margin (Hooke et al., Reference Hooke, Hanson, Belknap and
+   Kelley2017) and migrated north as ice retreated (Hooke and Ridge,
+   Reference Hooke and Ridge2016). In Maine, the forebulge migrated from
+   the coast to the Moosehead Lake region between 12,200 and 9500 cal yr
+   BP at a rate of ~67 m/yr (Balco et al., Reference Balco, Belknap and
+   Kelley1998). Combining this knowledge with constraints on the timing of
+   ice margin positions in the vicinity of Ossipee Lake (Ridge et al.,
+   Reference Ridge, Canwell, Kelly and Kelley2001, Reference Ridge, Balco,
+   Bayless, Beck, Carter, Dean, Voytek and Wei2012; Dalton et al.,
+   Reference Dalton, Margold, Stokes, Tarasov, Dyke, Adams and
+   Allard2020), the forebulge likely migrated through the region before
+   9000 cal yr BP, limiting the potential impact of isostatic adjustments
+   on subsequent sediment delivery.
+
+   Finally, we hypothesize that the most likely origin of any long-term
+   increase in MAR[clastic] is the concomitant long-term increase in
+   effective precipitation that occurred during the Holocene in this
+   region (Shuman and Marsicek, Reference Shuman and Marsicek2016; Fig.
+   9D). This relationship suggests that moisture balance serves as an
+   important control on long-term watershed erosion rates and is
+   consistent with other regional observations relating differences in the
+   sediment yield from individual hydrologic events (Yellen et al.,
+   Reference Yellen, Woodruff, Cook and Newton2016) and centennial-scale
+   variability in erosion (Cook et al., Reference Cook, Yellen, Woodruff
+   and Miller2015) to changes in underlying moisture balance. Such an
+   increase in sediment yield necessitates the continued availability of
+   easily reworked sediment (evident from the abundance of glacigenic
+   deposits blanketing the watershed) and is consistent with Church and
+   Slaymaker's (Reference Church and Slaymaker1989) observation that
+   rivers in British Columbia are still responding to the last glaciation.
+
+Historic-era land-use impacts and the origin of event deposits
+
+   MAR[clastic] increases abruptly at ~1890 CE, with the highest
+   accumulation rates of the entire record observed within the last
+   century and a half (Fig. 8). The inferred SSY peak of 7.2 Mg/yr/km^2
+   and 1850–2017 CE mean of 3.5 Mg/yr/km^2 nonetheless remain low relative
+   to some rates proposed for other forested watersheds in the eastern
+   United States (Patric et al., Reference Patric, Evans and Helvey1984).
+   And while the recent increase in sediment yield might be expected based
+   on the history of Euro-American settlement and land-use change in the
+   region, and is consistent with human impacts in other regions (e.g.,
+   Davis, Reference Davis1976; Dearing et al., Reference Dearing,
+   Håkansson, Liedberg-Jönsson, Persson, Skansjö, Widholm and
+   El-Daoushy1987; Heathcote et al., Reference Heathcote, Filstrup and
+   Downing2013), our attribution of the increase in MAR[clastic] in
+   Ossipee Lake to human land-use change must be tempered. First, our
+   age–depth model provides limited resolution for constraining
+   calculations of MAR[clastic], and the abrupt increase in MAR[clastic]
+   is partially an artifact of an inflection point in the age–depth model
+   at the base of the uppermost event deposit. Nonetheless, the event
+   deposit is characterized by increased clastic content and increased
+   bulk density, such that an increase in MAR[clastic] would exist even if
+   the sedimentation rate (SR) remained constant throughout this interval.
+   However, the anomalous nature of recent MAR[clastic] would be less
+   extreme relative to earlier event deposits if age control was
+   continuously well resolved over the entire record.
+
+   A second important consideration when interpreting the recent increase
+   in MAR[clastic] is the origin of the uppermost event deposit, the most
+   prominent stratigraphic feature of the past 500 yr (Figs. 5 and 9A), as
+   well as other event deposits throughout the record. We assigned an age
+   of 1890 ± 10 CE to the base of this event, based on interpretation of
+   our ^210Pb and ^137Cs profiles. If the increase in clastic content
+   defining this feature was a consequence of Euro-American land-use
+   change increasing sediment delivery to the lake, then the timing
+   appears several decades late relative to the 1860 CE maximum in Carroll
+   County population and associated agricultural activity (Merrill,
+   Reference Merrill1889). Uncertainty in our age–depth model could
+   facilitate shifting the onset of this event layer earlier. However,
+   doing so would result in a decrease in the calculated sedimentation
+   rate between the base of the event layer and the first observed fallout
+   of ^137Cs in 1954 relative to the sedimentation rate between 1954 and
+   the core top; an outcome deemed implausible given the pattern of
+   clastic deposition over these intervals. Furthermore, the abrupt nature
+   of the basal contact of the event deposit (Figs. 5 and 9B) suggests a
+   near instantaneous transition in sedimentation; a pattern that is
+   inconsistent with a gradual increase in deforestation and agricultural
+   land use and contrasts with existing records of sedimentation that show
+   a gradual increase in clastic input in response to human land-use
+   change (e.g., Davis, Reference Davis1976; Dearing et al., Reference
+   Dearing, Håkansson, Liedberg-Jönsson, Persson, Skansjö, Widholm and
+   El-Daoushy1987; Francis and Foster, Reference Francis and Foster2001;
+   Heathcote et al., Reference Heathcote, Filstrup and Downing2013) The
+   abrupt nature of this and other event deposits suggests possible
+   deposition from a sediment gravity flow (e.g., Gani, Reference
+   Gani2004), originating either subaqueously or triggered by events in
+   the watershed. However, the fine particle size and absence of textural
+   grading within the uppermost event deposit as reported by Perello
+   (Reference Perello2015) is inconsistent with most deposits resulting
+   from density flows (Gani, Reference Gani2004). In contrast, the
+   compositional grading from highly clastic to increasingly organic-rich
+   sediment observed in all event deposits (Fig. 6) is similar to deposits
+   observed in Amherst Lake, Vermont (Cook et al., Reference Cook, Yellen,
+   Woodruff and Miller2015). In that setting, event deposits were linked
+   to periods of elevated input of clastic sediment from the watershed
+   initiated by extreme floods and followed by a period of decreasing
+   clastic input as the landscape gradually recovered from the initial
+   disturbance (Cook et al., Reference Cook, Yellen, Woodruff and
+   Miller2015). Cook et al. (Reference Cook, Yellen, Woodruff and
+   Miller2015, Reference Cook, Snyder, Oswald and Paradis2020) were able
+   to correlate distinct event deposits to landscape disturbances related
+   to historical floods in Vermont and Maine, respectively. In contrast,
+   we were unable to link the uppermost event deposit in Ossipee Lake to
+   any known historical flood event or other landscape disturbance.
+   Indeed, with only one event deposit having occurred within last 500 yr
+   in Ossipee Lake, we found no clear signature of any historical flood
+   events, forest fires, or other known disturbances in the record. While
+   the origin of the event deposits remains enigmatic, we hypothesize that
+   they reflect abrupt increases in erosion caused by the most extreme
+   hydrologic events triggering landslides in the uplands and/or avulsions
+   and other adjustments in the fluvial network closer to the lake and/or
+   the stochastic interaction of a laterally migrating stream channel
+   occasionally intersecting a new repository of erodible sediment.
+
+   Overall, the infrequent occurrence of event deposits, averaging only 1
+   per ~500 yr over the Holocene, and the apparently modest SSY over the
+   past century portray a landscape only moderately sensitive to
+   disturbances. In contrast to other watersheds, where both distinct
+   floods (Cook et al., Reference Cook, Yellen, Woodruff and Miller2015,
+   Reference Cook, Snyder, Oswald and Paradis2020) and changes in land use
+   (Cook et al., Reference Cook, Snyder, Oswald and Paradis2020) are
+   clearly recorded in lacustrine archives, Ossipee Lake and its watershed
+   are considerably larger than those focused on by other studies in the
+   region. Sediment entering a larger waterbody may be distributed over a
+   larger area, potentially muting the depositional signature. The large
+   area of the Ossipee watershed also provides more opportunity for
+   trapping and storage of sediment in lakes, wetlands, and floodplains
+   and behind dams upstream of the lake. The Amherst Lake and Little
+   Kennebago Lake watersheds studied by Cook et al. (Reference Cook,
+   Yellen, Woodruff and Miller2015, Reference Cook, Snyder, Oswald and
+   Paradis2020), respectively, were both characterized by steeper average
+   slopes and fewer upstream water bodies likely to trap fine sediment
+   relative to the Ossipee watershed. Despite these factors, Euro-American
+   settlers were undoubtedly modifying the regional landscape over the
+   past 250+ yr, and at least some of the sediment liberated by land-use
+   changes has likely contributed to elevated MAR[clastic] since at least
+   1890 CE. The increasing content of clastic material in the centuries
+   preceding the uppermost event deposit, evident from decreasing LOI and
+   increasing ρ[db], magnetic susceptibility, and potassium (Fig. 6), may
+   record the subtle, early impacts of Euro-American land-use changes.
+   Collectively, these results suggest that while both hydrologic and
+   human disturbances to the landscape may increase sediment availability
+   and mobilize sediment in portions of a watershed, the export of
+   fine-grained sediment from the largest watersheds in the region likely
+   displays a muted response to landscape disturbances. This finding has
+   important implications regarding the potential magnitude of the impacts
+   from Euro-American land-use changes on the redistribution of sediment
+   across the northeastern United States over the past few centuries.
+
+CONCLUSIONS
+
+   Ossipee Lake preserves a continuous record of watershed erosion
+   spanning the late glacial and the entirety of the Holocene through the
+   period of regional Euro-American settlement. Variability in
+   sedimentation throughout the record reflects ongoing paraglacial
+   landscape adjustment. The period of most active landscape adjustment
+   persisted until ~12,000 cal yr BP. Decreasing mass accumulation of
+   clastic sediment from 12,000 to ~9000 cal yr BP reflects the gradual
+   stabilization of the landscape as river channels approached equilibrium
+   profiles, extensive forests were established, and the most readily
+   available sediment supplies were exhausted or isolated. An apparent
+   trend of increasing sediment yield from 9000 cal yr BP through 1850 CE
+   is consistent with increasing effective precipitation over this period
+   and suggests a dominant hydroclimatic control of erosion on long
+   timescales. However, the overall sediment yield and magnitude of
+   changes in sediment yield from the Ossipee watershed remain low
+   throughout the Holocene, suggesting a relatively low sensitivity to
+   change and minimal impact from millennial-scale changes in vegetation
+   or regional fire frequency. A muted response to Euro-American land-use
+   changes and lack of distinct depositional signatures related to known
+   extreme floods or historical land-use activity further reflect the lake
+   and watershed system's limited sensitivity to disturbances. Downstream
+   export of fine-grained sediment is limited by trapping and storage
+   among hillslope, floodplain, lake, and wetland depocenters that become
+   increasingly abundant as watershed size increases. This result suggests
+   that the export of fine-grained sediment from the largest watersheds in
+   the region likely experienced a modest response to Holocene landscape
+   changes.
+
+Acknowledgments
+
+   This research was supported with funding from the U.S. Department of
+   Interior Northeast Climate Adaptation Science Center (grant no.
+   G12AC00001); a Marland Pratt Billings and Katharine Fowler-Billings
+   Research Award from the Geological Society of America to JL; and the
+   Worcester State Foundation, Boston College, and Harvard Forest, where
+   TLC and NPS were based as Bullard Fellows for a portion of the duration
+   of this project. In addition, we thank Samantha Dow, Robin Kim, and Kay
+   Paradis for help with fieldwork; Jonathan Woodruff for access to
+   analytical facilities; and Mark Abbott and Raymond Bradley for access
+   to coring equipment.
+
+Data Availability Statement
+
+   Data related to this study are available at
+   https://doi.org/10.7910/DVN/6BAMHR (N.P. Snyder, T.L. Cook, J. LeNoir,
+   2022, “Data from Sediment Cores and Surveys of Ossipee Lake, New
+   Hampshire, USA.”)
+
+Supplementary Material
+
+   The supplementary material for this article can be found at
+   https://doi.org/10.1017/qua.2022.54.
+     __________________________________________________________________
+
+References
+
+REFERENCES
+
+   Appleby, P.G., Oldfield, F., 1978. The calculation of lead-210 dates
+   assuming a constant rate of supply of unsupported ^210Pb to the
+   sediment. Catena 5, 1–8.CrossRefGoogle Scholar
+   Balco, G., Belknap, D.F., Kelley, J.T., 1998. Glacioisostasy and
+   lake-level change at Moosehead Lake, Maine. Quaternary Research 49,
+   157–170.CrossRefGoogle Scholar
+   Ballantyne, C.K., 2002. A general model of paraglacial landscape
+   response. The Holocene 12, 371–376.CrossRefGoogle Scholar
+   Ballantyne, C.K., 2008. After the ice: Holocene geomorphic activity in
+   the Scottish Highlands. Scottish Geographical Journal 124,
+   8–52.CrossRefGoogle Scholar
+   Bierman, P., Lini, A., Zehfuss, P., Church, A., Davis, P.T., Southon,
+   J., Baldwin, L., 1997. Postglacial ponds and alluvial fans: recorders
+   of Holocene landscape history. GSA Today 7(10).Google Scholar
+   Blaauw, M., 2010. Methods and code for “classical” age-modelling of
+   radiocarbon sequences. Quaternary Geochronology 5,
+   512–518.CrossRefGoogle Scholar
+   Blaauw, M., Christen, J.A., 2011. Flexible paleoclimate age-depth
+   models using an autoregressive gamma process. Bayesian Analysis 6,
+   457–474.CrossRefGoogle Scholar
+   Brakenridge, G.R., Thomas, P.A., Conkey, L.E., Schiferle, J.C., 1988.
+   Fluvial sedimentation in response to postglacial uplift and
+   environmental change, Missisquoi River, Vermont. Quaternary Research
+   30, 190–203.CrossRefGoogle Scholar
+   Brown, E.T., 2015. Estimation of biogenic silica concentrations using
+   scanning XRF: insights from studies of Lake Malawi sediments. In:
+   Croudace, I.W., Rothwell, R.G. (Eds.), Micro-XRF Studies of Sediment
+   Cores, Developments in Paleoenvironmental Research. Vol. 17. Springer,
+   Dordrecht, Netherlands, pp. 267–277.CrossRefGoogle Scholar
+   Brown, S.L., Bierman, P., Lini, A., Davis, P.T., Southon, J., 2002.
+   Reconstructing lake and drainage basin history using terrestrial
+   sediment layers: analysis of cores from a post-glacial lake in New
+   England, USA. Journal of Paleolimnology 28, 219–236.CrossRefGoogle
+   Scholar
+   Brown, S.L., Bierman, P.R., Lini, A., Southon, J., 2000. 10,000 yr
+   record of extreme hydrologic events. Geology 28,
+   335–338.2.0.CO;2>CrossRefGoogle Scholar
+   Bruel, R., Sabatier, P., 2020. serac: AR package for ShortlivEd
+   RAdionuclide Chronology of recent sediment cores. Journal of
+   Environmental Radioactivity 225, 106449.CrossRefGoogle Scholar
+   Chilton, E.S., 2010. In Alt, S. (Eds.), Ancient Complexities: New
+   Perspectives in Pre-Columbian North America. Salt Lake City: University
+   of Utah Press, pp. 96–103.Google Scholar
+   Church, M., Ryder, J.M., 1972. Paraglacial sedimentation: a
+   consideration of fluvial processes conditioned by glaciation.
+   Geological Society of America Bulletin 83, 3059–3072.CrossRefGoogle
+   Scholar
+   Church, M., Slaymaker, O., 1989. Disequilibrium of Holocene sediment
+   yield in glaciated British Columbia. Nature 337, 452–454.CrossRefGoogle
+   Scholar
+   Conley, D.J., Schelske, C.L., 2002. Biogenic silica. In: Smol, J.P.,
+   Birks, H.J.B., Last, W.M., Bradley, R.S., Alverson, K. (Eds.), Tracking
+   Environmental Change Using Lake Sediments. Vol. 3, Terrestrial, Algal,
+   and Siliceous Indicators. Springer, Dordrecht, Netherlands, pp.
+   281–293.CrossRefGoogle Scholar
+   Cook, T.L., Snyder, N.P., Oswald, W.W., Paradis, K., 2020. Timber
+   harvest and flood impacts on sediment yield in a postglacial,
+   mixed-forest watershed, Maine, USA. Anthropocene 29,
+   100232.CrossRefGoogle Scholar
+   Cook, T.L., Yellen, B.C., Woodruff, J.D., Miller, D., 2015. Contrasting
+   human versus climatic impacts on erosion. Geophysical Research Letters
+   42, 6680–6687.CrossRefGoogle Scholar
+   Croke, J.C., Hairsine, P.B., 2006. Sediment delivery in managed
+   forests: a review. Environmental Reviews 14, 59–87.CrossRefGoogle
+   Scholar
+   Croudace, I.W., Rindby, A., Rothwell, R.G., 2006. ITRAX: description
+   and evaluation of a new multi-function X-ray core scanner. Geological
+   Society of London Special Publication 267, 51–63.CrossRefGoogle Scholar
+   Dalton, A.S., Margold, M., Stokes, C.R., Tarasov, L., Dyke, A.S.,
+   Adams, R.S., Allard, S., et al. 2020. An updated radiocarbon-based ice
+   margin chronology for the last deglaciation of the North American Ice
+   Sheet Complex. Quaternary Science Reviews, 234, p.
+   106223.CrossRefGoogle Scholar
+   Davis, M.B., 1976. Erosion rates and land-use history in southern
+   Michigan. Environmental Conservation 3, 139–148.CrossRefGoogle Scholar
+   Davis, M.B., Ford, M.S., 1982. Sediment focusing in Mirror Lake, New
+   Hampshire 1. Limnology and Oceanography 27, 137–150.CrossRefGoogle
+   Scholar
+   Dean, W. E. Jr., 1974. Determination of carbonate and organic matter in
+   calcareous sediments and sedimentary rocks by loss on ignition:
+   comparison with other methods. Journal of Sedimentary Research 44(1),
+   242–248.Google Scholar
+   Dearing, J.A., Håkansson, H., Liedberg-Jönsson, B., Persson, A.,
+   Skansjö, S., Widholm, D., El-Daoushy, F., 1987. Lake sediments used to
+   quantify the erosional response to land use change in southern Sweden.
+   Oikos 50, 60–78.CrossRefGoogle Scholar
+   Dearing, J.A., Jones, R.T., 2003. Coupling temporal and spatial
+   dimensions of global sediment flux through lake and marine sediment
+   records. Global and Planetary Change 39, 147–168.Google Scholar
+   Desloges, J.R., Gilbert, R., 1991. Sedimentary record of Harrison Lake:
+   implications for deglaciation in southwestern British Columbia.
+   Canadian Journal of Earth Sciences 28, 800–815.CrossRefGoogle Scholar
+   Dewitz, J., 2019. National Land Cover Database (NLCD) 2016 Products
+   (ver. 2.0, July 2020). U.S. Geological Survey data release.
+   https://doi.org/10.5066/P96HHBIE.Google Scholar
+   Francis, D.R., Foster, D.R., 2001. Response of small New England ponds
+   to historic land use. The Holocene 11, 301–312.CrossRefGoogle Scholar
+   Gani, M.R., 2004. From turbid to lucid: a straightforward approach to
+   sediment gravity flows and their deposits. Sedimentary Record 2,
+   4–8.CrossRefGoogle Scholar
+   Gilbert, R., Desloges, J.R., 1992. The late Quaternary sedimentary
+   record of Stave Lake, southwestern British Columbia. Canadian Journal
+   of Earth Sciences 29, 1997–2006.CrossRefGoogle Scholar
+   Goldthwait, J.W., Goldthwait, L., Goldthwait, R.P., 1951. The Geology
+   of New Hampshire. Part 1, Surficial Geology. New Hampshire State
+   Planning and Development Commission, Concord, NH.Google Scholar
+   Heathcote, A.J., Filstrup, C.T., Downing, J.A., 2013. Watershed
+   sediment losses to lakes accelerating despite agricultural soil
+   conservation efforts. PLoS ONE 8, e53554.CrossRefGoogle ScholarPubMed
+   Hitchcock, C.H., 1878. The Geology of New Hampshire: A Report
+   Comprising the Results of Explorations Ordered by the Legislature. Vol.
+   3, Part 3, Surface Geology. E. A. Jenks, Concord, NH.Google Scholar
+   Hooke, R.L., Hanson, P.R., Belknap, D.F., Kelley, A.R., 2017. Late
+   glacial and Holocene history of the Penobscot River in the Penobscot
+   Lowland, Maine. The Holocene 27, 726–739.CrossRefGoogle Scholar
+   Hooke, R.L., Ridge, J.C., 2016. Glacial lake deltas in New England
+   record continuous, not delayed, postglacial rebound. Quaternary
+   Research 85, 399–408.CrossRefGoogle Scholar
+   Huggel, C., Clague, J. J., Korup, O. (2012). Is climate change
+   responsible for changing landslide activity in high mountains? Earth
+   Surface Processes and Landforms 37, 77–91.CrossRefGoogle Scholar
+   Jennings, K.L., Bierman, P.R., Southon, J., 2003. Timing and style of
+   deposition on humid-temperate fans, Vermont, United States. Geological
+   Society of America Bulletin 115, 182–199.2.0.CO;2>CrossRefGoogle
+   Scholar
+   Kasprak, A., Magilligan, F.J., Nislow, K.H., Renshaw, C.E., Snyder,
+   N.P., Dade, W.B., 2013. Differentiating the relative importance of land
+   cover change and geomorphic processes on fine sediment sequestration in
+   a logged watershed. Geomorphology 185, 67–77.CrossRefGoogle Scholar
+   Knight, J., Harrison, S., 2018. Transience in cascading paraglacial
+   systems. Land Degradation & Development 29, 1991–2001.CrossRefGoogle
+   Scholar
+   Krishnaswamy, S., Lal, D., Martin, J.M., Meybeck, M., 1971.
+   Geochronology of lake sediments. Earth and Planetary Science Letters
+   11, 407–414.CrossRefGoogle Scholar
+   LeNoir, J., 2019. Post-glacial Sedimentation in Ossipee Lake, New
+   Hampshire. Master's thesis, Boston College, Boston.
+   https://dlib.bc.edu/islandora/object/bc-ir:108650.Google Scholar
+   Likens, G.E., and Davis, M.B., 1975. Post-glacial history of Mirror
+   Lake and its watershed in New Hampshire, USA: an initial report: With 5
+   figures and 2 tables in the text. Internationale Vereinigung für
+   theoretische und angewandte Limnologie: Verhandlungen 19,
+   982–993.Google Scholar
+   Lombardi, R., Davis, L., Stinchcomb, G.E., Munoz, S.E., Stewart, L.,
+   Therrell, M.D., 2020. Fluvial activity in major river basins of the
+   eastern United States during the Holocene. The Holocene 30,
+   1279–1295.CrossRefGoogle Scholar
+   Merrill, G. D., 1889. History of Carroll County, New Hampshire. Boston,
+   MA: W.A. Fergusson & Co.Google Scholar
+   Minderhoud, P.S.J., Cohen, K.M., Toonen, W.H.J., Erkens, G., Hoek,
+   W.Z., 2016. Improving age-depth models of fluvio-lacustrine deposits
+   using sedimentary proxies for accumulation rates. Quaternary
+   Geochronology 33, 35–45.CrossRefGoogle Scholar
+   Moore, R.B., Medalie, L., 1995. Geohydrology and Water Quality of
+   Stratified-Drift Aquifers in the Saco and Ossipee River Basins,
+   East-Central New Hampshire. Water-Resources Investigations Report
+   94-4182. U.S. Department of the Interior, U.S. Geological Survey.
+   http://dx.doi.org/10.3133/wri944182.CrossRefGoogle Scholar
+   Munoz, S.E., Gajewski, K., Peros, M.C., 2010. Synchronous environmental
+   and cultural change in the prehistory of the northeastern United
+   States. Proceedings of the National Academy of Sciences USA 107,
+   22008–22013.CrossRefGoogle ScholarPubMed
+   Newton, R.M., 1974a. Surficial Geologic Map of the Ossipee Lake
+   Quadrangle, New Hampshire. 1:62,500. New Hampshire Department of
+   Resources & Economic Development, Concord, NH.Google Scholar
+   Newton, R.M., 1974b. Surficial Geology of the Ossipee Lake Quadrangle,
+   New Hampshire. New Hampshire Department of Resources & Economic
+   Development, Concord, NH.Google Scholar
+   Noren, A.J., Bierman, P.R., Steig, E.J., Lini, A., Southon, J., 2002.
+   Millennial-scale storminess variability in the northeastern United
+   States during the Holocene epoch. Nature 419, 821–824.CrossRefGoogle
+   ScholarPubMed
+   Nowaczyk, N.R., 2001. Logging of magnetic susceptibility. In Last,
+   W.M., Smol, J.P. (Eds.), Tracking Environmental Change Using Lake
+   Sediments. Vol. 1, Basin Analysis, Coring, and Chronological
+   Techniques. Springer, Dordrecht, Netherlands, pp. 155–170.Google
+   Scholar
+   Oswald, W.W., Foster, D.R., Shuman, B.N., Chilton, E.S., Doucette,
+   D.L., Duranleau, D.L., 2020. Conservation implications of limited
+   Native American impacts in pre-contact New England. Nature
+   Sustainability 3, 241–246.CrossRefGoogle Scholar
+   Parris, A.S., Bierman, P.R., Noren, A.J., Prins, M.A., Lini, A., 2010.
+   Holocene paleostorms identified by particle size signatures in lake
+   sediments from the northeastern United States. Journal of
+   Paleolimnology 43, 29–49.CrossRefGoogle Scholar
+   Patric, J.H., Evans, J.O., Helvey, J.D., 1984. Summary of sediment
+   yield data from forested land in the United States. Journal of Forestry
+   82, 101–104.Google Scholar
+   Perello, M.M., 2015. Linking the Effects of Land Use vs. Changing
+   Climate on Water Quality in Ossipee and Squam Lakes, NH. Master's
+   thesis, Plymouth State University, Plymouth, NH.Google Scholar
+   Price, C.B., 2002. Historic Indian trails of New Hampshire. In
+   Piotrowski, T. (ed.), The Indian Heritage of New Hampshire and Northern
+   New England. McFarland, Jefferson, NC, pp. 154–174.Google Scholar
+   Reimer, P.J., Bard, E., Bayliss, A., Beck, J.W., Blackwell, P.G.,
+   Ramsey, C.B., Buck, C.E., et al. , 2013. IntCal13 and Marine13
+   radiocarbon age calibration curves 0–50,000 years cal BP. Radiocarbon
+   55, 1869–1887.CrossRefGoogle Scholar
+   Ridge, J.C., 2022. The North American Glacial Varve Project (accessed
+   May 29, 2022). https://eos.tufts.edu/varves/NEVC/nevcdeglac.asp.Google
+   Scholar
+   Ridge, J.C., Balco, G., Bayless, R.L., Beck, C.C., Carter, L.B., Dean,
+   J.L., Voytek, E.B., Wei, J.H., 2012. The new North American Varve
+   Chronology: a precise record of southeastern Laurentide Ice Sheet
+   deglaciation and climate, 18.2–12.5 kyr BP, and correlations with
+   Greenland ice core records. American Journal of Science 312,
+   685–722.CrossRefGoogle Scholar
+   Ridge, J.C., Canwell, B.A., Kelly, M.A., and Kelley, S.Z., 2001.
+   Atmospheric 14C chronology for late Wisconsinan deglaciation and
+   sea-level change in eastern New England using varve and paleomagnetic
+   records. In Weddle, T.K., Retelle, M.J. (Eds.), Deglacial History and
+   Relative Sea-Level Changes, Northern New England and Adjacent Canada.
+   Geological Society of America Special Paper 351, 171–189.
+   http://dx.doi.org/10.1130/0-8137-2351-5.171.Google Scholar
+   Sachs, J.P., 2007. Cooling of Northwest Atlantic slope waters during
+   the Holocene. Geophysical Research Letters 34.
+   https://doi.org/10.1029/2006GL028495.Google Scholar
+   Schenck, T., 2018. Characterizing Late Pleistocene and Holocene
+   Incision and Flooding Post-glacial Southern New England. Master's
+   thesis, University of Connecticut, Storrs, CT.Google Scholar
+   Shuman, B., Newby, P., Donnelly, J.P., Tarbox, A., Webb, T. III, 2005.
+   A record of late-Quaternary moisture-balance change and vegetation
+   response from the White Mountains, New Hampshire. Annals of the
+   Association of American Geographers 95, 237–248.CrossRefGoogle Scholar
+   Shuman, B.N., Marsicek, J., 2016. The structure of Holocene climate
+   change in mid-latitude North America. Quaternary Science Reviews 141,
+   38–51.CrossRefGoogle Scholar
+   Thompson, W.B. 1999. Surficial Geology of the Fryeburg 7.5-minute
+   Quadrangle, Cumberland County, Maine. Maine Geological Survey Report
+   with Detailed Quadrangle Map 99-8. Geological Survey, Augusta,
+   ME.Google Scholar
+   Yellen, B., Woodruff, J.D., Cook, T.L., Newton, R.M., 2016.
+   Historically unprecedented erosion from Tropical Storm Irene due to
+   high antecedent precipitation. Earth Surface Processes and Landforms
+   41, 677–684.CrossRefGoogle Scholar
+   Yellen, B., Woodruff, J.D., Kratz, L.N., Mabee, S.B., Morrison, J.,
+   Martini, A.M., 2014. Source, conveyance and fate of suspended sediments
+   following Hurricane Irene, New England, USA. Geomorphology 226,
+   124–134.CrossRefGoogle Scholar
+   (BUTTON) View in content Figure 0
+
+   Figure 1. (A) Map of the conterminous United States highlighting the
+   New England region. (B) Simplified elevation map of the New England
+   region indicating the location of the Ossipee Lake watershed. (C)
+   Shaded relief map of the Ossipee Lake watershed (outlined in red) and
+   primary sub-drainage basins. Local elevation ranges from 124 m at
+   Ossipee Lake to more than 1200 m at summits within the Sandwich Range.
+   The Ossipee Mountains reach elevations of 900 m. Numbered rectangles
+   indicate footprints of light detection and ranging (LIDAR) shaded
+   relief maps shown in Fig. 2.
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 1
+
+   Figure 2. Light detection and ranging (LIDAR) shaded relief maps
+   showing landscape features in the vicinity of Ossipee Lake. Locations
+   of numbered panels are indicated on watershed map included in Fig. 1C.
+   Labeled features highlight the abundance of unconsolidated sediment
+   comprising surficial deposits within the Ossipee Lake watershed and
+   emphasize postglacial transport and erosion of sediment within the
+   region.
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 2
+
+   Figure 3. Bathymetric map of Ossipee Lake overlaid on 2015 orthoimagery
+   (30 cm resolution). Also shown are sediment core locations, subbottom
+   sonar track lines, major tributaries to Ossipee Lake, and the prominent
+   shallow shelf in the southeastern corner of the lake (modified from
+   LeNoir, 2019). The greatest depth is located at the northern coring
+   site.
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 3
+
+   Table 1. Radiocarbon sample information from the north and south
+   composite core sequences, including all possible calibrated age ranges
+   and their probabilities based on the 95% confidence intervals of the
+   radiocarbon ages.
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 4
+
+   Figure 4. Subbottom sonar cross sections. Similar vertical exaggeration
+   applied to all cross sections. Labels correspond to track lines shown
+   on the bathymetric map in Fig. 3. Approximate location of coring sites
+   indicated on transects 2018-3 and 2017-1. Basal contacts of Holocene
+   lake fill and proglacial lake sediments are identified along with a
+   prograding sand body in the southeastern corner of the lake (transect
+   2017-1; modified from LeNoir, 2019).
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 5
+
+   Figure 5. Split-core photographs depicting (A) typical Holocene
+   sediment interrupted by a prominent, clastic event deposit and (B)
+   proglacial lake sediment at the base of the recovered sequence. In both
+   panels the core top is oriented to the left.
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 6
+
+   Figure 6. Core data from the southern composite sequence from Ossipee
+   Lake. Analytical results span the upper 7.25 m. An additional 1.38 m of
+   core was recovered and described, but not analyzed. Blue arrows
+   indicate the position of radiocarbon dates; green arrows indicate
+   control points derived from 137Cs and 210Pb profiles. Event layers (tan
+   bands) are identified as intervals of decreased organic content (high
+   LOI) and increased elevated minerogenic content (elevated ρdb, magnetic
+   susceptibility, and potassium). The portion shaded blue is interpreted
+   as late-glacial deposits (modified from LeNoir, 2019).
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 7
+
+   Figure 7. Age–depth constraints for the southern composite sequence
+   from (A) 210Pb activity profile and (B) 137Cs activity profile
+   identifying first detected fallout ca. 1954 CE and peak fallout ca.
+   1963 CE. (C) Constant rate of supply (CRS) and constant flux constant
+   sedimentation (CFCS) age–depth models as derived from the 210Pb profile
+   in A. (D) Age–depth model for the full composite sequence based on
+   linear interpolation between radiocarbon age constraints (in gray) and
+   210Pb and 137Cs constraints as described in the text (modified from
+   LeNoir, 2019).
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 8
+
+   Figure 8. MARclastic for the entire composite sequence (top) and last
+   2000 yr (bottom). Dotted line represents the mean from 9012 cal yr BP
+   to AD 1890. Solid line depicts the slightly increasing trend in
+   MARclastic of 0.002 g/cm2/1000 yr over this same interval (r2 = 0.24, P
+   value = 0.18). The gray box from 1180 cal yr BP to the end of the
+   record highlights the portion of the record beyond the bottommost age
+   control point, where accumulation rate in the age–depth model is
+   assumed to be the same as the section above it. Elevated MARclastic in
+   this portion of the record is a function of denser sediment (modified
+   from LeNoir, 2019).
+     __________________________________________________________________
+
+   (BUTTON) View in content Figure 9
+
+   Figure 9. (A) Ossipee lake record of MARclastic and (B) LOI and
+   potassium compared with regional records of environmental change,
+   including (C) intervals of terrestrial sediment redistribution as
+   recorded in lakes (Brown et al., 2002; Noren et al., 2002; Parris et
+   al., 2010), alluvial fans (Jennings et al., 2003), and floodplains
+   (Lombardi et al., 2020); (D) regional climate reconstructions (Shuman
+   and Marsicek, 2016; Sachs, 2007); and (E) regional vegetation history
+   (Shuman et al., 2005; figure modified from LeNoir, 2019).
+   Supplementary material: PDF
+
+LeNoir et al. supplementary material
+
+   Table S1 and Figures S1-S3
+   Download LeNoir et al. supplementary material(PDF)
+   PDF 1 MB
+   You have Access Open access
+
+   1
+          Cited by
+     __________________________________________________________________
+
+Cited by
+
+   Loading...
+   (BUTTON)
+
+   Cited by
+     * Crossref logo 1
+     * Google Scholar logo
+
+   Crossref Citations
+   Crossref logo
+
+This article has been cited by the following publications. This list is
+generated based on data provided by Crossref.
+     __________________________________________________________________
+
+   Saba, Vincent Borggaard, Diane Caracappa, Joseph C. Chambers, R.
+   Christopher Clay, Patricia M. Colburn, Lisa L. Deroba, Jonathan
+   DePiper, Geret du Pontavice, Hubert Fratantoni, Paula Ferguson,
+   Marianne Gaichas, Sarah Hayes, Sean Hyde, Kimberly Johnson, Michael
+   Kocik, John Keane, Ellen Kircheis, Dan Large, Scott Lipsky, Andrew
+   Lucey, Sean Mercer, Anna Meseck, Shannon Miller, Timothy J. Morse, Ryan
+   Orphanides, Christopher Reichert-Nguyen, Julie Richardson, David Smith,
+   Jeff Vogel, Ronald Vogt, Bruce Wikfors, Gary and Cyr, Frédéric 2023.
+   NOAA fisheries research geared towards climate-ready living marine
+   resource management in the northeast United States. PLOS Climate, Vol.
+   2, Issue. 12, p. e0000323.
+     * CrossRef
+     * Google Scholar
+     __________________________________________________________________
+
+   Google Scholar Citations
+
+   View all Google Scholar citations for this article.
+   ×
+
+     * Librarians
+     * Authors
+     * Publishing partners
+     * Agents
+     * Corporates
+
+     * Additional Information
+          + Accessibility
+          + Our blog
+          + News
+          + Contact and help
+          + Cambridge Core legal notices
+          + Feedback
+          + Sitemap
+       Select your country preference
+       FR [France______________________________________] [BUTTON Input]
+       (not implemented)________
+
+Join us online
+          +
+          +
+          +
+          +
+          +
+
+     * Legal Information
+          + Cambridge University Press
+          + Rights & Permissions
+          + Copyright
+          + Privacy Notice
+          + Terms of use
+          + Cookies Policy
+          + © Cambridge University Press 2024
+          + Back to top
+
+     * © Cambridge University Press 2024
+     * Back to top
+
+   Cancel
+   Confirm
+   ×
+
+Save article to Kindle
+
+   To save this article to your Kindle, first ensure
+   coreplatform@cambridge.org is added to your Approved Personal Document
+   E-mail List under your Personal Document Settings on the Manage Your
+   Content and Devices page of your Amazon account. Then enter the ‘name’
+   part of your Kindle email address below. Find out more about saving to
+   your Kindle.
+
+   Note you can select to save to either the @free.kindle.com or
+   @kindle.com variations. ‘@free.kindle.com’ emails are free but can only
+   be saved to your device when it is connected to wi-fi. ‘@kindle.com’
+   emails can be delivered even when you are not connected to wi-fi, but
+   note that service fees apply.
+
+   Find out more about the Kindle Personal Document Service.
+   12,000 years of landscape evolution in the southern White Mountains,
+   New Hampshire, as recorded in Ossipee Lake sediments
+     * Volume 112
+     * James LeNoir ^(a1), Timothy L. Cook ^(a2) and Noah P. Snyder ^(a1)
+     * DOI: https://doi.org/10.1017/qua.2022.54
+
+   Your Kindle email address
+
+   ____________________ Please provide your Kindle email.
+   (*) @free.kindle.com ( ) @kindle.com (service fees apply)
+
+   Available formats
+
+   [ ] PDF Please select a format to save.
+
+   [ ] By using this service, you agree that you will only keep content
+   for personal use, and will not openly distribute them via Dropbox,
+   Google Drive or other file sharing services Please confirm that you
+   accept the terms of use.
+   (BUTTON) Cancel
+   (BUTTON) Save
+   ×
+
+Save article to Dropbox
+
+   To save this article to your Dropbox account, please select one or more
+   formats and confirm that you agree to abide by our usage policies. If
+   this is the first time you used this feature, you will be asked to
+   authorise Cambridge Core to connect with your Dropbox account. Find out
+   more about saving content to Dropbox.
+   12,000 years of landscape evolution in the southern White Mountains,
+   New Hampshire, as recorded in Ossipee Lake sediments
+     * Volume 112
+     * James LeNoir ^(a1), Timothy L. Cook ^(a2) and Noah P. Snyder ^(a1)
+     * DOI: https://doi.org/10.1017/qua.2022.54
+
+   Available formats
+
+   [ ] PDF Please select a format to save.
+
+   [ ] By using this service, you agree that you will only keep content
+   for personal use, and will not openly distribute them via Dropbox,
+   Google Drive or other file sharing services Please confirm that you
+   accept the terms of use.
+   (BUTTON) Cancel
+   (BUTTON) Save
+   ×
+
+Save article to Google Drive
+
+   To save this article to your Google Drive account, please select one or
+   more formats and confirm that you agree to abide by our usage policies.
+   If this is the first time you used this feature, you will be asked to
+   authorise Cambridge Core to connect with your Google Drive account.
+   Find out more about saving content to Google Drive.
+   12,000 years of landscape evolution in the southern White Mountains,
+   New Hampshire, as recorded in Ossipee Lake sediments
+     * Volume 112
+     * James LeNoir ^(a1), Timothy L. Cook ^(a2) and Noah P. Snyder ^(a1)
+     * DOI: https://doi.org/10.1017/qua.2022.54
+
+   Available formats
+
+   [ ] PDF Please select a format to save.
+
+   [ ] By using this service, you agree that you will only keep content
+   for personal use, and will not openly distribute them via Dropbox,
+   Google Drive or other file sharing services Please confirm that you
+   accept the terms of use.
+   (BUTTON) Cancel
+   (BUTTON) Save
+   ×
+
+   ×
+
+Reply to: Submit a response
+
+   Title * ____________________ Please enter a title for your response.
+   Contents * Contents help
+   Close Contents help
+
+   - No HTML tags allowed
+   - Web page URLs will display as text only
+   - Lines and paragraphs break automatically
+   - Attachments, images or tables are not permitted
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Please enter your response.
+     __________________________________________________________________
+
+Your details
+
+   First name * ____________________ Please enter your first name.
+   Last name * ____________________ Please enter your last name.
+   Email * Email help
+   Close Email help
+
+   Your email address will be used in order to notify you when your
+   comment has been reviewed by the moderator and in case the author(s) of
+   the article or the moderator need to contact you directly.
+   ____________________ Please enter a valid email address.
+   Occupation ____________________ Please enter your occupation.
+   Affiliation ____________________ Please enter any affiliation.
+   [BUTTON Input] (not implemented)_______________
+     __________________________________________________________________
+
+You have entered the maximum number of contributors
+     __________________________________________________________________
+
+Conflicting interests
+
+   Do you have any conflicting interests? * Conflicting interests help
+   Close Conflicting interests help
+
+   Please list any fees and grants from, employment by, consultancy for,
+   shared ownership in or any close relationship with, at any time over
+   the preceding 36 months, any organisation whose interests may be
+   affected by the publication of the response. Please also list any
+   non-financial associations or interests (personal, professional,
+   political, institutional, religious or other) that a reasonable reader
+   would want to know about in relation to the submitted work. This
+   pertains to all the authors of the piece, their spouses or partners.
+   ( ) Yes (*) No
+   More information *
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Please enter details of the conflict of interest or select 'No'.
+     __________________________________________________________________
+
+   [ ]   Please tick the box to confirm you agree to our Terms of use. *
+   Please accept terms of use.
+   [ ]   Please tick the box to confirm you agree that your name, comment
+   and conflicts of interest (if accepted) will be visible on the website
+   and your comment may be printed in the journal at the Editor’s
+   discretion. *
+   Please confirm you agree that your details will be displayed.
+     __________________________________________________________________
+
+   Submit

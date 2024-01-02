@@ -1,0 +1,564 @@
+   #Cuaderno de Cultura Científica » Feed Suscríbete a los eventos —
+   iCalendar
+
+                        Cuaderno de Cultura Científica
+
+   (BUTTON)
+
+     * Archivo
+     * Categorías
+     * Eventos
+     * Cátedra de Cultura Científica
+     * Contacto
+
+   Buscar en el sitio ____________________
+   (BUTTON)
+
+De la evolución
+
+Experientia docet
+
+   Orígenes humanos
+
+   Si bien se pueden buscar antecedentes en la antigua Grecia, el hecho
+   cierto es que lo que hoy llamamos evolución en biología, la idea de que
+   todos los seres vivos provienen de un antepasado común y que la
+   diversidad de especies se debe a cambios heredados en las poblaciones
+   en sucesivas generaciones, se debatió por primera vez, aunque no
+   exactamente en estos términos, durante la segunda mitad del siglo
+   XVIII.
+
+   La palabra “evolución”, sin embargo, ya se venía empleando desde el
+   siglo XVII para referirse al desarrollo embrionario del individuo, sin
+   referencia alguna a la herencia. En este sentido “evolución”
+   significaba habitualmente el desarrollo de partes preexistentes en el
+   embrión, tal y como lo concebían los seguidores del preformismo.
+   Ocasionalmente, los que apoyaban la teoría contraria, el epigenetismo,
+   usaban el término para referirse a lo que ellos concebían que era la
+   adición sucesiva de partes nuevas al desarrollo individual.
+
+   Es a partir de la mitad del siglo XVIII cuando, tanto conjuntamente con
+   las hipótesis embriológicas como independientemente de ellas, varios
+   filósofos naturales comienzan a formular hipótesis que tienen en común
+   una concepción dinámica de la historia del universo, de la Tierra y de
+   la vida, en oposición al concepto imperante de una naturaleza estática
+   y acabada (estasis). La estasis comenzó a partir de ese momento a ser
+   considerada cada vez más, y por esto mismo atacada de vez en cuando,
+   como la posición típica y definitoria de las religiones occidentales
+   principales.
+
+   La Ilustración produjo una renovación de estas concepciones dinámicas
+   de la naturaleza: en astronomía mediante intentos de usar las leyes
+   newtonianas para, además de describir su funcionamiento, explicar la
+   historia del sistema planetario (Georges-Louis de Buffon, Immanuel
+   Kant, Pierre-Simon de Laplace); en las geociencias por la aparición de
+   distintas pruebas de que la Tierra es mucho más antigua de lo que se
+   creía (Buffon, James Hutton); y en las ciencias de la vida por una
+   posible temporalización del sistema tradicionalmente estático de
+   clasificación de los seres vivos (Charles Bonnet, Jean-Baptiste
+   Robinet), por intentos de encontrar explicaciones materialistas al
+   origen de la vida, a la generación, a la herencia, al desarrollo y al
+   cambio de las estructuras orgánicas (Benoît de Maillet, Pierre de
+   Maupertuis, Erasmus Darwin), por la observación ocasional de
+   variabilidad en las especies (Carl Linæus) y por la transposición de la
+   noción de desarrollo embrionario a toda la historia de la vida en la
+   Tierra (Carl Friedrich Kielmeyer).
+
+   Entre 1802 y 1820 Jean-Baptiste Lamarck combinó varios de estos temas
+   para producir la primera hipótesis sistemática, si bien no siempre
+   clara, del cambio orgánico (en esos años la palabra “evolución” en su
+   significado actual sólo está documentada en los trabajos de
+   Julien-Joseph Virey). Alrededor de 1830 Étienne e Isidore Geoffroy
+   Saint-Hilaire desarrollaron y popularizaron las ideas de Lamarck.
+   Charles Lyell discutió las ideas de Lamarck desde un punto de vista
+   crítico en sus textos geológicos de comienzos de los años treinta del
+   XIX, donde usaba evolución en su sentido actual por primera vez en
+   lengua inglesa. Estos libros de Lyell fueron estudiados en profundidad
+   por Charles Darwin. Las ideas lamarckianas, combinadas con
+   especulaciones sobre el desarrollo embrionario y la hipótesis nebular
+   aparecieron recogidas en Vestiges of the natural history of creation
+   (1844) de Robert Chambers, un libro dirigido al público en general que
+   fue el primero en difundir las ideas evolutivas en los países de habla
+   inglesa, preparando el terreno para la recepción posterior de la obra
+   de Darwin.
+
+   Divergencia de Darwin
+
+   Desde 1859 On the Origin of Species by Means of Natural Selection, or
+   the Preservation of Favoured Races in the Struggle for Life de Charles
+   Darwin atrajo una atención enorme sobre la posibilidad de que todas las
+   especies derivasen de una (o unas pocas) forma de vida. Tanto en los
+   círculos científicos, como en los periodísticos y a nivel popular la
+   cuestión a debatir era la “evolución”. Darwin evitaba esta palabra,
+   optando por “descendencia con modificación”. Tanto el filósosfo Herbert
+   Spencer como otros tantos seguidores de Darwin se decantaban claramente
+   por “evolución”, y no ocultaban que su preferencia se basaba en sus
+   profundas implicaciones para una visión de la naturaleza que ponía el
+   énfasis en el cambio gradual y progresivo como resultado de la
+   competencia por la supervivencia y la reproducción. Visión que además
+   la mayor parte de las veces era secularizada y que englobaba tanto a la
+   humanos como a sus sociedades y al universo en su conjunto.
+
+   La explicación dada por Darwin al cambio evolutivo, la teoría de la
+   selección natural (darwinismo) se encontró con una fuerte oposición
+   incluso entre científicos con amplios conocimientos biológicos. Este
+   tipo de desacuerdos resultaron en un final de siglo XIX en el que los
+   investigadores estaban más preocupados por encontrar “eslabones
+   perdidos” (olvidando en cierto modo lo que significan gradual y
+   progresivo) en el registro fósil que un consenso respecto a las causas
+   de la evolución. Alrededor de 1900, entre otras hipótesis, el
+   darwinismo, el neolamarckismo y la ortogénesis competían como
+   explicaciones del cambio evolutivo.
+
+   Tras el redescubrimiento de las leyes de Mendel en 1900, se necesitaron
+   cuatro décadas para construir el consenso alrededor de lo que se
+   denomina síntesis evolutiva moderna o neodarwinismo, que combina el
+   concepto de Darwin de selección natural con la genética. Desde los años
+   cuarenta del siglo XX la inmensa mayoría de los científicos cuando
+   hablan de evolución se refieren a la evolución neodarwinista.
+
+   Sin embargo, desde mediados de los años sesenta empezaron a
+   incorporarse nuevas aproximaciones al estudio de la evolución
+   biológica, incorporando herramientas y conceptos provenientes de la
+   ecología evolutiva, la paleontología y, muy especialmente, de la
+   biología molecular. El estudio del cambio evolutivo a nivel molecular
+   se ha convertido en un importante campo de investigación, y los
+   resultados han llevado a veces a conclusiones que se apartan de los
+   conceptos evolutivos principales.
+
+   Así, el hecho de que la variación genética, algunas veces, no esté
+   correlacionada con el éxito reproductivo y la evolución adaptativa (y,
+   por tanto, parezca “neutral” con respecto a la selección natural) llevó
+   a algunos biólogos, como Motō Kimura, a desarrollar a comienzos de 1964
+   la teoría neutralista de la evolución molecular. La teoría afirma que
+   buena parte del cambio evolutivo observado a nivel molecular ocurre por
+   una deriva genética aleatoria, independiente de la selección natural.
+
+   Otro ejemplo lo constituyen Niles Eldredge y Stephen Jay Gould que se
+   centraron en el registro fósil y el proceso de especiación. Esto les
+   llevó a comenzar en 1972 el desarrollo de la hipótesis del equilibrio
+   puntuado, que se aparta del concepto neodarwiniano de que el cambio
+   evolutivo es gradual y continuo. La hipótesis afirma que la historia de
+   muchas estirpes de fósiles muestra largos períodos de poco cambio
+   morfológico (llamados estasis) alternados con periodos breves de
+   cambios rápidos asociados a fenómenos de especiación.
+
+   Desde los años sesenta del siglo XX, el interés en la cuestión de la
+   evolución de la especie humana tomó nuevo impulso. El hallazgo de
+   nuevos especímenes fósiles, al comienzo en África, pero después en Asia
+   (Flores, Denisova) o Europa (Atapuerca); el estudio del ADN
+   mitocondrial, lo que permite la datación de las ramas más recientes del
+   árbol familiar humano; y la valoración estadística de la variación
+   genética, que permite evaluar la interacción entre rasgos biológicos y
+   culturales en las poblaciones humanas debida a las migraciones, han
+   conseguido y consiguen portadas de prensa, popular y científica.
+
+   Sobre el autor: César Tomé López es divulgador científico y editor de
+   Mapping Ignorance
+
+Compartir
+
+     *
+     *
+     *
+     *
+
+   Por César Tomé
+
+   17 comentarios
+   Publicado el 11 de febrero, 2014 en
+     * Experientia docet
+
+   De la evolución
+
+Suscribirme
+
+   Suscríbete a nuestro boletín de noticias diario para recibir artículos
+   y otras actualizaciones.
+   ____________________ (BUTTON) Suscribirme (BUTTON) Cargando...
+
+¡Gracias!
+
+   Te has suscrito correctamente al boletín de noticias.
+
+Últimos artículos
+
+    1. El secado de la pintura y las epidemias estacionales
+    2. Efecto nocebo y gluten
+    3. Ciencia idiota
+    4. ¡Ups! La expansión de la Tierra
+    5. Cuando matemáticas, histopatología y genómica coinciden
+
+Artículos relacionados
+
+     *
+
+La evolución de la vida inteligente: ¿Azar o necesidad?
+       ¿Es inevitable la evolución de la vida inteligente? ¿O es
+       improbable? Hoy los biólogos tienen claro que la concepción popular
+       […]
+     *
+
+Dani y Fiti sobre la teoría de la evolución
+       Hasta en las situaciones más insospechadas pueden surgir dudas
+       científicas, y si no, que se lo pregunten a Dani y […]
+     *
+
+Activa Tu Neurona – Evolución Humana
+       El director del Centro Nacional de Investigación sobre Evolución
+       Humana (CENIEH ) nos recibió en su despacho para hablar con […]
+
+12 comentarios
+
+     *
+
+Joseba 11 de febrero, 2014
+       Avatar de Joseba
+       Hola, César.
+       Me gustaría plantearte varias cuestiones relacionadas con el tema
+       (espero no excederme):
+       1. ¿En qué estado se encuentran, actualmente, los debates puestos
+       sobre la mesa por Kimura, Eldredge o Gould (sobre todo éste último,
+       el más polémico, creo yo)? ¿Hay algo «concluyente»?
+       2. ¿Consideras el llamado «darwinismo social» algo más cercano a la
+       ciencia o a la pseudociencia?
+       3. ¿Qué hay de la teoría del «apoyo mutuo» de Kropotkin? ¿Por qué
+       no se conoce, en general al menos, entre los científicos/biólogos,
+       siendo pionera de la sociobiología?
+       4. Hace tiempo (2009) publicaste un artículo* en el que, según unas
+       investigaciones, parecían ponerse en cuestión las bases de la
+       psicología evolucionista. ¿Cuál es tu intuición acerca de esta
+       «disciplina»?
+       Salud y gracias de antemano.
+       * «Las estrategias de emparejamiento de los hadza, ¿un nuevo
+       hachazo a la psicología evolucionista?»:
+       http://www.experientiadocet.com/2009/11/las-estrategias-de-empareja
+       miento-de.html
+   Responder
+          +
+
+César Tomé 11 de febrero, 2014
+            Avatar de César Tomé
+            Permíteme que sea muy sucinto
+            1 Neutralista: discutiéndose; equilibrio puntuado: parece
+            describir algo que existe pero sería, según sus críticos, algo
+            sólo aparente y restringido a un entorno, estando el conjunto
+            de la observación dentro de la ortodoxia neodarwinista.
+            2 El darwinismo social es, básicamente, una posición política
+            y, como tal, acientífica. La ciencia puede a lo sumo describir
+            cómo son las sociedades y al ser humano y sus orígenes, pero
+            no cómo deben ser ni organizarse las sociedades.
+            3 La idea del apoyo mutuo, que apareció por primera vez en un
+            libro llamado «La conquista del pan» y de forma más elaborada
+            en una serie de ensayos que se publicaron en una revista
+            literaria, corresponde a una posición política que emplea
+            elementos de la teoría de la evolución distintos a los del
+            darwinismo social. Ni uno ni otra son, como ya he dicho,
+            ciencia.
+            4 Me da la impresión de que los cimientos no son
+            suficientemente sólidos.
+        Responder
+               o
+
+Joseba 12 de febrero, 2014
+                 Avatar de Joseba
+                 Hola.
+                 Solamente quería puntualizar ciertas cosas sobre
+                 Kropotkin.
+                 Escribió un libro, «El apoyo mutuo: un factor en la
+                 evolución», basado en investigaciones en Siberia (él era
+                 geografo y fue a cartografiar varias zonas).
+                 Después, es cierto, se utiliza de una forma política el
+                 concepto de apoyo mutuo, pero la idea científica está ahí
+                 y dice que además de la lucha por la supervivencia,
+                 también se da la cooperación (apoyo mutuo).
+                 Si bien no es equiparable a una gran teoría científica, y
+                 además se usa con tintes políticos, en respuesta al
+                 darwinismo social, el propio concepto tiene un carácter
+                 científico, es una extensión de la «teoría» la evolución
+                 de Darwin.
+                 Como dije en el anterior comentario, con este concepto,
+                 Kropotkin es un antecesor de la sociobiología, de la que
+                 se dice que el padre es E. O. Wilson. De aquí la
+                 «defensa» que hacen del ruso, por ejemplo, Chomsky o
+                 Gould.
+             Responder
+     *
+
+jose 12 de febrero, 2014
+       Avatar de jose
+       Ameno resumen.
+       Yo le añadiría un párrafo sobre la evolución por simbiosis, creo
+       que es ampliamente aceptado sobre cómo se formaron las células
+       eucariotas.
+       También me gustaría saber si el autor no considera necesario una
+       nueva síntesis evolutiva en base a la gran cantidad de
+       descubrimientos de los últimos años, especialmente por ese nuevo
+       lamarkismo que sugiere la epigenética.
+       Saludos
+   Responder
+     *
+
+SOCRATES 12 de febrero, 2014
+       Avatar de SOCRATES
+       Hay que ser caradura y es una vergüenza para la humanidad para
+       alguien con un mínimo raciocinio, que se considera por tantos
+       cientificos la teoría de los monos mágicos y en genral de las
+       especies mágicas que se transforman en otras especies o se
+       modifican partes de su cuerpo solo porque a la especie en cuestion
+       le da la gana…hola, soy una jirafa, pero yo antes era un caballo
+       pero como no llegaba a los árboles para comer decidí un dia estirar
+       mi cuello hasta el infinito y mas allá hasta llegar a las copas de
+       los arboles para comer, podía haber estirado mágicamente mis
+       piernas pero la idea de que mi cuello fuera tan grande como el
+       resto de mi cuerpo me pareció más normal….
+   Responder
+          +
+
+estein 16 de abril, 2014
+            Avatar de estein
+            Tu sabiduria socrates es impresinante ¿De casualidad no te han
+            dado un Novel?
+        Responder
+     *
+
+J. Sanchez Sanchez 12 de febrero, 2014
+       Avatar de J. Sanchez Sanchez
+       Interesante artículo.
+       Y sí, tal como comenta josé, yo también echo en falta una
+       referencia a la simbiogénesis:
+       https://es.wikipedia.org/wiki/Simbiog%C3%A9nesis
+       y alguna mención a la controvertidaLynn Margulis, cuyas críticas a
+       ciertas partes de la teoría neodarwinista me parecen muy
+       esclarecedoras.
+   Responder
+     *
+
+Emilio 12 de febrero, 2014
+       Avatar de Emilio
+       Lo de la simbiogénesis… lo de la mitocondria y el cloroplasto está
+       claro, pero de ahí a lo qued escribe Margulis en «captando genomas»
+       va un trecho.
+   Responder
+     *
+
+Laure 12 de febrero, 2014
+       Avatar de Laure
+       Hola.
+       Un artículo muy interesante, César.
+       Estoy de acuerdo con José y J.Sánchez en que tal vez le haya
+       faltado integrar los últimos avances sobre simbiogénesis y
+       epigenética.
+       No entiendo el comentario de Sócrates. Si no estás de acuerdo con
+       una teoría simplemente tienes que exponer los argumentos, pero no
+       debes desacreditar a nadie por sus opiniones ni ridiculizar con tus
+       comentarios una teoría que fue la primera que apareció y que aportó
+       mucho a los estudios de Darwin como él mismo reconoció.
+       Mi opinión es que la teoría de Darwin es eso, una sólo una teoría,
+       y que ha ido cambiando y que con los nuevos descubrimientos en
+       biología, tendrá que seguir cambiando. Y que, inevitablemente
+       surgirán nuevas tendencias y se revisarán nuevas teorías como la de
+       Lamarck. En eso consiste la ciencia y hay muchos ejemplos de eso.
+       Pienso que la epigenética devolverá a Lamarck la parte del
+       «pastel»que le corresponde .
+       Un saludo.
+   Responder
+     *
+
+César Tomé 13 de febrero, 2014
+       Avatar de César Tomé
+       Simbiogénesis, epigenética, Margulis y demás.
+       Cualquiera que lea el texto y entienda de evolución y su historia,
+       echará en falta estas y otras muchísimas cosas (por citar sólo una,
+       a Wallace). Esta presentación histórica del concepto de evolución
+       es muy lineal y no pretende, ni mucho menos, agotar el tema del que
+       se pueden escribir libros no precisamente pequeños. La idea, dentro
+       de la filosofía general de la serie #De, es alimentar el afan de
+       exploración y descubrimiento y para ello son fundamentales los
+       comentarios. Los vuestros contribuyen sobremanera al objetivo y por
+       ello os estoy muy agradecido.
+   Responder
+     *
+
+MAC 13 de febrero, 2014
+       Avatar de MAC
+       Primero perdón por ser tan burro en materia de ciencia, pero me
+       tomo la libertad de escribir al entender que esto es un cuaderno de
+       divulgación.
+       Vaya por delante que me asumo y acepto la evolución como teoría que
+       explica cómo han evolucionado las especies; en todo caso quiero
+       utilizar el ejemplo de la girafa del compañero (entiendo que
+       nagacionista de la evolución) SÓCRATES; solo lo utilizo como
+       ejemplo, no porque comparta la negación.
+       ¿Hay una explicación para torpes de cómo la siguiente girafa
+       consigue aumentar su cuello? es decir, me parece obvio que a la
+       girafa le viene bien pero no sé cómo consigue ordenar a sus células
+       que evolucionen, es decir, no entiendo esa relación. Si lo
+       reducimos a nivel celular las células del cuello de la girafa no
+       deberían tener como objetivo reproducirse más o alinearse de tal
+       modo que sea el cuello lo que crezca, o que lo haga a lo alto y no
+       a lo ancho, bastante tienen con reproducirse. ¿Cómo se explica que
+       esas células entiendan que deben disponerse de esa manera y no de
+       otra?
+       Entiendo que no habrá una explicación sencilla pero no alcanzo a
+       ver como esas células sin conciencia se disponen de ese modo. Hasta
+       me parecería razonable que fuera un tema de ensayo y error
+       (evolución del más fuerte); las células mutan aleatoriamente y las
+       girafas con cuellos gordos o barrigas grandes mueren y se quedan
+       las de cuello largo. Pero si esto es así, habría restos de millones
+       de girafas distintas (que igual es así) hasta que se hubiera dado
+       la buena tal cual la vemos ahora. De todos modos si fuera esto
+       último más que evolución (en la que yo entiendo cierta
+       intencionalidad por sobrevivir) sería pura casualidad, es decir, no
+       sería el más fuerte quien sobrevive, sino quien ha tenido más
+       suerte en la mutación de sus células.
+       En fin, que me lío un poco.
+       Gracias por adelantado si alguien me ayuda,
+   Responder
+          +
+
+Saúl 18 de febrero, 2014
+            Avatar de Saúl
+            Nunca me ha gustado el ejemplo de las jirafas porque siempre
+            se ha asociado al Lamarckismo. Pero bueno, ahí va mi
+            interpretación del Neodarwinismo a este caso:
+            Dentro de las poblaciones de jirafas, siempre existe una
+            cierta variabilidad genética entre individuos (causada por
+            ejemplo por mutaciones como consecuencia del azar) que darían
+            lugar a fenotipos distintos. Asumimos que esta variabilidad
+            afecta también a los genes que controlan el desarrollo y el
+            crecimiento de los animales.
+            Por lo tanto, los distintos individuos de dicha población
+            poseen cuellos ligeramente diferentes, como consecuencia de
+            cambios genéticos, que son heredables. La selección natural
+            actúa favoreciendo la reproducción de los individuos con el
+            cuello más alto, ya que se alimentan más fácilmente. Esto hace
+            que sean esos individuos, cuyos genes producen cuellos más
+            largos, los que tengan descendencia, que hereda esas
+            características.
+            Este efecto a lo largo de muuuuuuchos años -> Evolución lenta
+            y gradual hacia una especie con el cuello muy largo.
+            Por cierto, hay que tener mucho cuidado cuando se habla de
+            evolución, no es correcto decir cosas como «¿Hay una
+            explicación para torpes de cómo la siguiente girafa consigue
+            aumentar su cuello?». La Jirafa no quiere aumentar su cuello,
+            ella no sabe que está evolucionando ni tiene capacidad para
+            hacerlo. Un individuo no evoluciona, lo hace la especie, o si
+            nos ponemos estupendos, las poblaciones.
+            Espero haberte ayudado, que alguien me corrija si me confundo
+            en algo 🙂
+        Responder
+               o
+
+MAC 20 de febrero, 2014
+                 Avatar de MAC
+                 Muy claro, muchas gracias!! tristemente determinista, eso
+                 sí 🙂
+             Responder
+     *
+
+Dani y Fiti sobre la teoría de la evolución | Dani y Fiti | Cuaderno de
+Cultura Científica 28 de febrero, 2014
+       […] Para saber más, puedes leer en el Cuaderno De la evolución […]
+     *
+
+Para entender la paleoantropología. 2ª parte: La evolución | Afán por saber 6
+de marzo, 2014
+       […] Anotación de César Tomé para el Cuaderno de Cultura Científica
+       sobre la evolución. […]
+     *
+
+Dani y Fiti. Capítulo 1 | Ciencia y Escepticismo | Mi Mesa Cojea 13 de
+agosto, 2014
+       […] acompañada de un artículo divulgativo que podrá leerse en blog
+       Cuaderno de Cultura Científica. Aquí tienes el primero, sobre la
+       […]
+     *
+
+Lo Mejor de la Semana (9-15 de febrero) | Hablando de Ciencia | Artículos 12
+de octubre, 2014
+       […] nuevo en el CCC. la entrada relativa a la evolución de la mano
+       de Experientia […]
+
+Deja una respuesta (BUTTON) Cancelar la respuesta
+
+   Tu dirección de correo electrónico no será publicada.Los campos
+   obligatorios están marcados con *
+
+   Comentario *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nombre * ____________________
+
+   E-mail * ____________________
+
+   Web ____________________
+
+   Publicar el comentario
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+Otros proyectos
+
+     * Zientzia Kaiera
+
+Hizkuntza bat zaila izan daiteke?
+       Cecilia Fernández-Altonaga Hainbat aldiz entzun dugu euskara
+       ikastea zaila dela, badakizue, “aditz klase pila, hitzak beste
+       mila…” Izan ere, euskaraz […]
+     * Mujeres con Ciencia
+
+Kin Yamei, la madrina del tofu
+       Durante el verano de 1918, la cocina del último piso del 641 de la
+       calle Washington en la ciudad de […]
+     * Mapping Ignorance
+
+MI weekly selection #541
+       Octopus DNA helps scientists resolve geological mystery Scientists
+       analyzed the genetic history of an octopus species living in the
+       Antarctic […]
+
+Información
+
+Páginas del sitio:
+
+     * Archivo
+     * Categorías
+     * Eventos
+     * Cátedra de Cultura Científica
+     * Contacto
+
+Síguenos:
+
+     *
+     *
+     *
+
+Un proyecto de:
+
+   Cátedra de Cultura Científica de la UPV/EHU Cátedra de Cultura
+   Científica de la UPV/EHU Euskampus Fundazioa Euskampus Fundazioa
+
+Con el apoyo de:
+
+   Eusko Jaurlaritza - Hezkuntza Saila Eusko Jaurlaritza - Hezkuntza Saila
+   Eusko Jaurlaritza - Lehendakaritza Eusko Jaurlaritza - Lehendakaritza
+
+   Blog de la Cátedra de Cultura Científica de la UPV/EHU — ISSN 2529-8984
+   — Editado en Bilbao
+
+   2011-2024 Cuaderno de Cultura Científica está bajo una licencia
+   Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0
