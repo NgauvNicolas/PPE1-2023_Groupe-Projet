@@ -1,228 +1,1234 @@
-   #New Scientist - Home
+   (BUTTON) Back to Top Skip to main content
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-B92N
+   U.S. flag
 
+   An official website of the United States government
+   (BUTTON) Here's how you know
+   Dot gov
+
+   The .gov means it’s official.
+   Federal government websites often end in .gov or .mil. Before sharing
+   sensitive information, make sure you’re on a federal government site.
+   Https
+
+   The site is secure.
+   The https:// ensures that you are connecting to the official website
+   and that any information you provide is encrypted and transmitted
+   securely.
+
+   NIH NLM Logo
+   Log in (BUTTON) Show account info
    (BUTTON) Close
 
-   Advertisement
+Account
 
-   Skip to content
-   Sign in
-   ____________________ (BUTTON)
-   [ ]
+   Logged in as:
+   username
+     * Dashboard
+     * Publications
+     * Account settings
+     * Log out
 
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
+   Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
 
-   Subscribe now
+   (BUTTON)
+   (BUTTON)
+   Search PMC Full-Text Archive ____________________ (BUTTON) Search in
+   PMC
+     * Advanced Search
+     * User Guide
+
    (BUTTON)
 
-   Explore by section
-     * News
-     * Features
-     * Newsletters
-     * Podcasts
-     * Video
-     * Comment
-     * Culture
-     * Crosswords
-     * |
-     * This week's magazine
+     * Journal List
+     * Elsevier - PMC COVID-19 Collection
+     * PMC7118648
 
-   Explore by subject
-     * Health
-     * Space
-     * Physics
-     * Technology
-     * Environment
-     * Mind
-     * Humans
-     * Life
-     * Mathematics
-     * Chemistry
-     * Earth
-     * Society
+Other Formats
 
-   Explore our products and services
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
+     * PubReader
+     * PDF (791K)
 
-   Subscribe now
+Actions
 
-   Subscribe now
+     * (BUTTON) Cite
+     *
 
-Evolution
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
 
-   Evolution
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
 
-   The Washington Post / Getty
+        Share
 
-   Evolution is the way living organisms change over time, driven by
-   natural selection.
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
 
-   A revolutionary insight put forward by Charles Darwin in On the Origin
-   of Species in 1859, the concept of natural selection was also touted by
-   another British naturalist, Alfred Russel Wallace, who had come up with
-   the idea at the same time.
+        RESOURCES
 
-   The two men hit upon a mechanism for evolution: all organisms vary and
-   some variations are more beneficial than others, helping individuals
-   thrive and preferentially pass them on to the next generation. In other
-   words, these variations are naturally selected. (Darwin later outlined
-   a similar mechanism, “sexual selection” whereby variations considered
-   more attractive to the opposite sex are more likely to be passed on.)
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
 
-   Natural selection requires that beneficial characteristics be passed
-   from one generation to the next intact. It was not clear to Darwin how
-   this might happen. However, at around the same time an Augustinian monk
-   called Gregor Mendel was conducting experiments that held the answer.
-   In 1866, he published results from studies of inheritance in pea
-   plants, marking the birth of modern genetics. His discoveries went
-   unnoticed for over three decades. Not long after they were
-   rediscovered, genes were identified as units arranged along the
-   chromosomes inside the cell’s nucleus. And in 1937, the “modern
-   synthesis” brought these ideas together, defining evolution in genetic
-   terms as the “change in the frequency of an allele [gene variant]
-   within a gene pool”.
+     * Journal List
+     * Elsevier - PMC COVID-19 Collection
+     * PMC7118648
 
-   Advertisement
+   As a library, NLM provides access to scientific literature. Inclusion
+   in an NLM database does not imply endorsement of, or agreement with,
+   the contents by NLM or the National Institutes of Health.
+   Learn more: PMC Disclaimer | PMC Copyright Notice
 
-   Though it was made famous by Darwin, the idea of evolution actually
-   predates him. By the early 19th century, developments in geology and
-   mining had revealed Earth to be inconceivably ancient. It was also
-   found to have changed over time, along with the forms of life that
-   lived on it. One of the first people to try to explain how new species
-   formed was Erasmus Darwin, Charles’s grandfather. Another influential
-   early evolutionist was the French naturalist Jean-Baptiste Lamarck,
-   whose “transmutation of species” theory famously argued that change
-   occurs when characteristics acquired during an organism’s lifetime are
-   passed on to its offspring.
+   Logo of pheelsevier
 
-   In recent years, the theory of evolution itself has evolved. The idea
-   that it is entirely driven by natural selection is challenged by new
-   discoveries in genetics, epigenetics and developmental biology. There
-   is growing evidence that genes do not have sole control over
-   development and heredity, and that organisms play active roles in their
-   own fate and that of their descendants. As a result, a growing number
-   of biologists believe we need to extend our ideas of how evolution
-   works.
+   Sci Total Environ. 2020 Jul 1; 724: 138194.
+   Published online 2020 Mar 25. doi: 10.1016/j.scitotenv.2020.138194
+   PMCID: PMC7118648
+   PMID: 32251887
 
-   Evolution also faces a challenge from the rise of the religious
-   creationist movement, which believes in the Bible’s account of the
-   origins of life of Earth, and rejects evolution on this basis.
+On biological evolution and environmental solutions
 
-   Advertisement
+   Blake Matthews,^a,^b,^c,^⁎ Jukka Jokela,^b,^c Anita Narwani,^b,^c Katja
+   Räsänen,^b,^c Francesco Pomati,^b,^c Florian Altermatt,^b,^d Piet
+   Spaak,^b,^c Christopher T. Robinson,^b and Christoph Vorburger^b,^c,^⁎
 
-Sign up to our weekly newsletter
+Blake Matthews
 
-   Receive a weekly dose of discovery in your inbox! We'll also keep you
-   up to date with New Scientist events and special offers.
-   Sign up
+   ^aEAWAG, Department of Fish Ecology and Evolution, Center for Ecology,
+   Evolution, and Biogeochemistry, Seestrasse 79, 6047 Kastanienbaum,
+   Switzerland
 
-More on Evolution
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-   A bearded seal on the ice in Svalbard
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Blake Matthews
 
-Life
+Jukka Jokela
 
-Arctic seals have weird bones in their noses that help them stay warm
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-   News
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Jukka Jokela
 
-   Free
+Anita Narwani
 
-Humans
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-Genome analysis reveals genetic diversity of Indigenous Australians
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Anita Narwani
 
-   News
+Katja Räsänen
 
-   Subscriber-only
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-Humans
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Katja Räsänen
 
-The 2023 discoveries that made us rethink the story of human evolution
+Francesco Pomati
 
-   News
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-   Free
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Francesco Pomati
 
-Related articles
+Florian Altermatt
 
-   Genetics
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-Definition
+   ^dDepartment of Evolutionary Biology and Environmental Studies,
+   University of Zurich, Zurich, Switzerland
+   Find articles by Florian Altermatt
 
-Genetics
+Piet Spaak
 
-   Free
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-   Barbara McClintock
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Piet Spaak
 
-People in Science
+Christopher T. Robinson
 
-Barbara McClintock
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
+   Find articles by Christopher T. Robinson
 
-   Free
+Christoph Vorburger
 
-   Eugenics
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
 
-Definition
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   Find articles by Christoph Vorburger
+   Author information Article notes Copyright and License information PMC
+   Disclaimer
+   ^aEAWAG, Department of Fish Ecology and Evolution, Center for Ecology,
+   Evolution, and Biogeochemistry, Seestrasse 79, 6047 Kastanienbaum,
+   Switzerland
+   ^bEAWAG, Department of Aquatic Ecology, Überlandstr. 133, 8600
+   Dübendorf, Switzerland
+   ^cInstitute of Integrative Biology, ETH-Zurich, Zurich, Switzerland
+   ^dDepartment of Evolutionary Biology and Environmental Studies,
+   University of Zurich, Zurich, Switzerland
+   ^⁎Corresponding authors at: EAWAG, Department of Aquatic Ecology,
+   Überlandstr. 133, 8600 Dübendorf, Switzerland.
+   Received 2020 Feb 5; Revised 2020 Mar 23; Accepted 2020 Mar 23.
+   Copyright © 2020 Elsevier B.V. All rights reserved.
+   Since January 2020 Elsevier has created a COVID-19 resource centre with
+   free information in English and Mandarin on the novel coronavirus
+   COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect,
+   the company's public news and information website. Elsevier hereby
+   grants permission to make all its COVID-19-related research that is
+   available on the COVID-19 resource centre - including this research
+   content - immediately available in PubMed Central and other publicly
+   funded repositories, such as the WHO COVID database with rights for
+   unrestricted research re-use and analyses in any form or by any means
+   with acknowledgement of the original source. These permissions are
+   granted for free by Elsevier for as long as the COVID-19 resource
+   centre remains active.
 
-Eugenics
+Abstract
 
-   Free
+   Drawing insights from multiple disciplines is essential for finding
+   integrative solutions that are required to tackle complex environmental
+   problems. Human activities are causing unprecedented influence on
+   global ecosystems, culminating in the loss of species and fundamental
+   changes in the selective environments of organisms across the tree of
+   life. Our collective understanding about biological evolution can help
+   identify and mitigate many of the environmental problems in the
+   Anthropocene. To this end, we propose a stronger integration of
+   environmental sciences with evolutionary biology.
+   Keywords: Biological evolution, Environmental science, Biofuels,
+   Pollution, Disease, Harmful algal blooms
 
-   Advertisement
+Graphical abstract
 
-   Download the app
-   Download on the apple apps store Download on Google play
+   Unlabelled Image
+   Open in a separate window
 
-Find us on social media
+1. Introduction
 
-     * Find us on Instagram Instagram
-     * Find us on Facebook Facebook
-     * Find us on X / Twitter X / Twitter
-     * Find us on Tiktok Tiktok
-     * Find us on LinkedIn LinkedIn
+   All ecosystems, be they natural or engineered, contain biological
+   organisms that are bound by the principles of biological evolution. As
+   such, biological evolution is often a central feature of many problems
+   that are currently being tackled by environmental scientists. Yet
+   fundamental principles from the discipline of evolutionary biology are
+   rarely used in the analysis and mitigation of environmental problems,
+   even when evolutionary processes are closely linked to their
+   manifestation (Carroll et al., 2014; Jørgensen et al., 2019).
+   Environmental scientists are particularly adept at reaching across
+   disciplines to ensure that they have the knowledge and tools necessary
+   to tackle complex environmental problems. Here we propose that a wider
+   application of principles of evolutionary biology would help us achieve
+   more sustainable solutions to environmental problems.
 
-Subscriptions
+   In brief, evolution is a process of heritable change in the phenotype
+   of a population of organisms (Box 1). While evolution can result from
+   random genetic drift (representing “neutral” evolution), here we focus
+   on adaptive evolution, defined as a change in population mean fitness
+   in response to natural selection (Box 1). Genetic and trait variation,
+   and how such variation changes over time and space, are fundamental
+   properties of living systems. There is mounting evidence that evolution
+   is sufficiently fast in natural populations to be highly relevant for
+   understanding how populations will respond to human-mediated
+   environmental change (Hendry and Kinnison, 1999; Hendry, 2017).
 
-     * Subscriber benefits
-     * Gift
-     * Student & graduate
-     * Educational
-     * Corporate
+Box 1
 
-Support
+The four forces of evolution.
 
-     * Help
-     * About us
-     * Advertise
-     * Write for us
+     * Mutation
 
-Tools
+   Mutations are random, heritable changes in the sequence or structure of
+   a gene. They include substitutions of individual bases in the DNA
+   sequence, insertions and deletions of DNA fragments, and structural
+   rearrangements of chromosomes. New variants of the same gene generated
+   by mutation are referred to as alleles. Mutations can be neutral,
+   meaning they do not affect the phenotype of their carrier, advantageous
+   in specific environments, meaning they affect the phenotype such that
+   it increases survival and/or reproduction, i.e. fitness, or deleterious
+   in specific environments. For example, a mutation that confers
+   resistance to a pesticide may be beneficial in an environment where the
+   pesticide is present but detrimental in an environment where the
+   pesticide is absent. Mutations are the ultimate source of genetic
+   variation and provide the original resource for adaptive evolution and
+   biological innovation.
+     * Natural selection
 
-     * Events
-     * Science Jobs
-     * CoLab
-     * Syndication
-     * RSS feeds
+   Natural selection is the process of unequal survival and reproduction
+   among individuals due to differences in phenotype. Some individuals of
+   the population are more likely to survive and reproduce because they
+   have trait combinations that make them better at coping with the
+   current environment than other individuals. Assuming that the
+   phenotypic traits under selection are heritable, i.e. trait values are
+   transmitted across generations, the favorable traits, which represent
+   ‘good genes’, will be passed to the offspring. In this way, the
+   frequency of the ‘good’ gene variants will increase in the population,
+   leading to evolutionary adaptation.
+     * Gene flow
 
-Legal and privacy
+   Gene flow is the exchange of genetic material between populations. It
+   occurs when individuals or their gametes migrate into a new population
+   and reproduce. Gene flow can bring new alleles (i.e. genetic variants)
+   into the receiving population and thereby influence the potential for
+   this population to evolve. Gene flow can be maladaptive, and reduce the
+   fitness of the local population, or adaptive. If migration is
+   sufficiently high and migrant genes are not selected against, gene flow
+   will homogenize allele frequencies and reduce genetic differences in
+   the genetic composition of populations.
+     * Genetic drift
 
-     * Contact us
-     * Privacy policy
-     * Cookie policy
-     * Terms & conditions
-     * (BUTTON) Cookie Settings
+   Genetic drift is the stochastic change in allele frequencies over
+   generations. It occurs because allele frequencies in populations can
+   deviate by chance from those of the parental generation, due to the
+   random sampling of gametes. It affects particularly small populations.
+   It can lead to the loss of genetic variation and the accumulation of
+   deleterious mutations and, as a result, constrain a population's
+   adaptation to changing environmental conditions.
 
-© Copyright New Scientist Ltd.
+   Alt-text: Box 1
 
-   (BUTTON) Back to the top
+   Applying evolutionary principles to understand environmental problems
+   is not a novel idea (Gunderson and Holling, 2002, Santamaria and
+   Mendez, 2012), but widespread application is still limited (Jørgensen
+   et al., 2019). In the context of the biodiversity crisis ecologists are
+   increasingly using evolutionary theory to help mitigate the loss of
+   genetic and species diversity due to climate change and environmental
+   pollution (Bell and Gonzalez, 2009; Kristensen et al., 2018).
+   Evolutionary theory is also critical to understanding the emergence of
+   antibiotic resistance in microbes (Palmer and Kishony, 2013) and
+   chemical resistance in pests (Fisher et al., 2018). Plainly,
+   evolutionary theory can be highly relevant to pertinent environmental
+   problems, but it is not broadly applied. There is a frequent use of
+   methods and technologies originating from evolutionary biology. In
+   particular, molecular genetic methods are often used to characterise
+   microbial community composition (Das and Dash, 2019), and the patterns
+   of gene expression of individual organisms and communities (Oziolor et
+   al., 2017). While such methods are undeniably useful to gain functional
+   insights, they are rarely used in environmental science to study
+   evolutionary processes. The potential for evolutionary applications in
+   environmental sciences is far reaching, and in the next sections we
+   focus on core concepts of evolution and exemplify how they can be
+   applied to a range of environmental problems in aquatic ecosystems.
+
+1.1. The structure of evolutionary processes
+
+   The structure and rate of change of heritable trait variation in living
+   systems are particularly relevant for understanding environmental
+   problems. Living systems are hierarchically structured, where the
+   traits of individuals arise from the interpretation of the environment
+   by genes (so called genotype-phenotype maps; (Houle et al., 2010)).
+   Individuals interact within populations, where average trait values
+   change through evolutionary and environmental processes (Burns, 1992;
+   Frank, 2011; Pedersen and Tuomi, 1995), and populations interact and
+   evolve within multi-species communities (Weber et al., 2017). As a
+   result of this hierarchical structure, human activities affecting one
+   level of biological organization can have unanticipated outcomes at
+   another level (Gunderson and Holling, 2002; Melián et al., 2018). For
+   example, human activities that affect gene flow among populations can
+   lead to the introduction of either beneficial alleles that help
+   populations adapt to changing environments, or deleterious alleles that
+   contribute to maladaptation of natural populations and thereby can
+   potentially hinder conservation efforts (Leitwein et al., 2019).
+   Despite the long held view that evolution is a slow process, it is now
+   well established that the pace of heritable trait change can be
+   sufficiently fast to affect population dynamics, species interactions,
+   and ecosystem processes - i.e. evolution can act at ecological time
+   scales (Hairston et al., 2005; Stockwell et al., 2003). The dynamics of
+   species interactions in natural communities are hence not simply a
+   product of past evolution. Rather, evolutionary processes can shape
+   trait distributions of populations (i.e. mean and variance) at a pace
+   that is highly relevant for many environmental problems.
+
+   Evolutionary processes can either ameliorate or exacerbate
+   environmental problems. Evolutionary adaptation, for example, can drive
+   the recovery of populations, or even multi-species communities, from
+   decline, in a process known as “evolutionary rescue” (Bell and
+   Gonzalez, 2009; Low-Décarie et al., 2015). In natural populations,
+   evolution has rescued killifish from chemical pollution (Whitehead et
+   al., 2017) and amphibians from acidification (Hangartner et al., 2012).
+   In these cases, genetic adaptation has allowed for the persistence of
+   populations in environments that would otherwise be unsuitable.
+   Evolutionary novelty can also emerge in populations exposed to
+   synthetic environments created by humans, and, in doing so, perform
+   essential evosystem services (Rudman et al., 2017). For example, the
+   artificial sweetener acesulfame (ACE) is a persistent compound in
+   aquatic environments because it is resistant to microbial-mediated
+   biodegradation both in natural and wastewater treatment environments
+   (Kahl et al., 2018). Recent work suggests that the catabolism of this
+   compound has evolved repeatedly in multiple wastewater treatment plants
+   in Germany (Kahl et al., 2018), possibly associated with a microbial
+   consortium of proteobacterial species (Fig. 1 ). Identifying the
+   evolutionary processes governing such bioremediation dynamics could
+   help address the persistence of chemicals in our natural environments
+   for which engineering solutions are lacking. On the other hand,
+   evolutionary processes can also create novel environmental problems, or
+   worsen existing ones. For example, the emergence and amplification of
+   antibiotic resistance genes is a global problem, caused by the
+   widespread overuse of antibiotics (Palmer and Kishony, 2013). In
+   wastewater treatment plants, the concentration of antibiotic resistance
+   genes may be amplified by evolution prior to water discharge into
+   natural aquatic environments (Ju et al., 2019) (Fig. 1). Understanding
+   and monitoring the evolutionary process in wastewater treatment plants
+   could improve our ability to limit the release of antibiotic resistance
+   genes into natural environments (Czekalski et al., 2015).
+   Fig. 1
+   Open in a separate window
+   Fig. 1
+
+   Two scenarios illustrating how microbial evolution within a wastewater
+   treatment plant (WWTP) can either cause a beneficial reduction in a
+   pollutant concentration (ACE: the artificial sweetener Acesulfame) due
+   to the evolution of catabolism of novel/synthetic compounds, or an
+   unwanted increase in resistance genes in a microbial population due to
+   positive selection in the treatment plant (Figure design by Peter
+   Penicka, EAWAG).
+
+2. Case studies
+
+   In this section, we illustrate how a broader application of
+   evolutionary theory can enable environmental scientists to craft better
+   solutions for environmental problems. To this end, we use four examples
+   from aquatic systems: (i) emergence and epidemiology of disease, (ii)
+   renewable production of biofuels, (iii) chemical pollution, and (iv)
+   outbreaks of algal blooms.
+
+2.1. Disease dynamics in natural populations: when evolution kills or cures
+
+   Diseases are among the most severe environmental problems. They are a
+   threat to biodiversity (Fisher et al., 2018; Lips et al., 2006), to
+   food production (Strange and Scott, 2005) and to human health (Jones et
+   al., 2008). Disease outbreaks are often caused by pathogens that have
+   undergone a recent host shift or expansion of their geographic range
+   (Engering et al., 2013; Longdon et al., 2014). Most disease-causing
+   organisms have large populations and short generation times, which
+   generally facilitates rapid evolution. Consequently, disease emergence
+   typically involves rapid co-evolutionary dynamics that stem from
+   natural selection on both pathogen infectivity and host defense
+   (Penczykowski et al., 2016). Rapid evolutionary dynamics are expected
+   to take place at the onset of disease emergence, governed by the
+   pathogens' and the hosts' evolutionary history.
+
+   Disease emergence is often a consequence of human activities. Transport
+   between continents can bring pathogens into naïve host populations that
+   are, at least initially, defenseless; they can lack sufficient genetic
+   variation for resistance because they do not have coevolutionary
+   history with these pathogens. The crayfish plague provides a good
+   example. Aphanomyces astaci, a pathogen of freshwater crayfish native
+   to North America came to Europe with introduced American crayfish
+   (Svoboda et al., 2017). American crayfish species had evolved a high
+   tolerance of the pathogen, due to their long evolutionary history, but
+   the pathogen proved devastating to stocks of European freshwater
+   crayfish species (Holdich et al., 2009). Likewise, human activities
+   that modify ecosystems for food production can promote the emergence of
+   locally highly virulent pathogens (Stukenbrock and McDonald, 2008). For
+   example, large monocultures of genetically homogenous plants can
+   facilitate the evolution of host specialization (McDonald and
+   Stukenbrock, 2016), leading to evolutionary dynamics that are not
+   commonly observed in natural ecosystems.
+
+   Evolutionary theory can be instrumental in helping to understand the
+   origin and spread of diseases through populations. Increasingly,
+   researchers can track disease dynamics over time by comparing genetic
+   variation among isolates, and such data can help inform policy decision
+   and management of viral diseases, such as COVID-19 (Andersen et al.,
+   2020, Brüssow, 2020) and Ebola (Mbala-Kingebeni et al., 2019). Drug
+   treatment is often the default approach used to control emergent
+   bacterial and fungal diseases, but in some cases a single new drug can
+   cause strong natural selection, and, combined with the high
+   evolutionary potential of pathogens, this means that the expected time
+   until drug resistance evolves can be short (Fisher et al., 2018;
+   Kennedy and Read, 2018). For such scenarios, we need to develop
+   evolution-aware strategies to avoid and control emergent diseases. For
+   example, in the case of chemical treatments, combination therapy or the
+   sequential application of different drugs can delay resistance
+   evolution (Palmer and Kishony, 2013; Roemhild et al., 2018), and the
+   development of ‘evolution-proof’ drugs is a particularly attractive
+   idea (Bell and MacLean, 2018). Alternative strategies include fighting
+   the disease with agents that are able to evolve themselves, such as
+   microbial symbionts that provide protection against the disease
+   (Kueneman et al., 2016).
+
+2.2. Renewable biofuels: when evolution fills our tanks
+
+   The dwindling supply and the negative environmental impact of fossil
+   fuels have spurred substantial research and investment into using
+   biofuels as a renewable and sustainable source of energy (Sheehan et
+   al., 1998). Among the many potential sources of biomass for biofuels,
+   phytoplankton or “algal” biofuels are among the most efficient in terms
+   of land-use and energy production per unit biomass (Y. Chisti, 2008;
+   Yusuf Chisti, 2007). Until now, algal biomass production for biofuel
+   has heavily focused on the production of single species with desirable
+   properties, namely high lipid content, fast growth rates, and
+   resistance to disease and grazers. However, farming monocultures is
+   notoriously difficult because individual species or strains, be they
+   algae or crops, can never possess all of the desirable traits for
+   long-term stable crop production at high yields (Smith et al., 2010).
+   The ideal species for maximum production would be unconstrained by the
+   trade-offs inherent to all living systems. Yet such omnipotent
+   organisms, known in evolutionary biology as Darwinian demons (Krakauer,
+   2011; Law, 1979), do not exist and cannot be engineered. Nevertheless,
+   sustainable yield of biofuels could be optimized by understanding the
+   biochemical and biophysical basis of the fundamental trade-offs between
+   growth rate, lipid production and traits that make better competitors,
+   confer resistance to parasites, and are resistant to grazers (Shurin et
+   al., 2013, Shurin et al., 2016; T. Yoshida et al., 2004). Understanding
+   the evolution of ecologically relevant traits, under different biotic
+   and abiotic contexts, may improve the stability and efficiency of
+   biofuel production.
+
+   The application of evolutionary theory to algal biofuel production is
+   in its infancy, but holds immense potential. Algal populations are
+   large and have short generation times. Usually the populations maintain
+   high phenotypic and genetic diversity (Brandenburg et al., 2018; Chen
+   and Rynearson, 2016; Lebret et al., 2012; Masseret et al., 2009;
+   Rynearson and Armbrust, 2000). Evolution in such populations can be
+   fast if selection is strong (Thibodeau et al., 2015; Takehito Yoshida
+   et al., 2003). Harnessing the adaptive evolutionary potential of algal
+   populations could help us explore the range of feasible trait space to
+   obtain desirable trait combinations. For example, researchers are
+   currently trying to simultaneously improve the yield of
+   triacylglycerols in culture (used to produce fatty acid methyl esters
+   needed used in biodiesel production), while concurrently maximizing
+   population growth rates. Such trait combinations are normally mutually
+   exclusive. Approaches include genetic engineering (Zeng et al., 2011),
+   directed evolution via successive rounds of mutagenesis and selection
+   (Johnson et al., 2016; Lewin et al., 2016), and selection on the
+   existing levels of genetic variation in a population (Mooij et al.,
+   2013; Shurin et al., 2016).
+
+   While evolution might help us improve biofuel production (Kazamia et
+   al., 2014), it might also culminate in undesirable outcomes. For
+   example, engineering solutions based on evolutionary trade-offs might
+   be eroded over time due to mutation, horizontal gene transfer, and
+   recombination. Custom designed biofuel production systems should also
+   consider the evolutionary consequences of rapid harvesting. For
+   example, rare beneficial mutations arising during population expansion,
+   might be periodically lost before they sweep to dominance in the
+   populations (Bull and Collins, 2012; Shurin et al., 2016). In short,
+   evolution offers both promises and pitfalls for biofuel production.
+
+2.3. Chemical pollutants: when evolution is, and is not, the solution to
+pollution
+
+   Chemical pollution is a global problem with a local character (Grimm et
+   al., 2008; Halpern et al., 2008; Vörösmarty et al., 2010). Chemical
+   pollution often stems from chemical pest control applied in
+   agricultural production, as well as from the unwanted waste produced by
+   human population growth and industrial activities. Wastewater treatment
+   plants can only remove and target compounds that pass through the
+   sewage system; many other compounds still enter the natural environment
+   in a diffuse manner, especially from agriculture. These chemical
+   compounds can have toxic effects on individual organisms and these
+   effects can be enhanced when they occur in mixtures (Abdelghani et al.,
+   1997; Connon et al., 2012). For instance, pest control requires highly
+   biologically active substances to target unwanted algae, fungi and
+   arthropods. When pesticides then leak into ecosystems that are not the
+   target of the application, this can change food web structure and
+   influence ecosystem function (Stamm et al., 2016).
+
+   Because pollution and the ecological context in which pollution occurs
+   is often highly local, we can expect pollution to have many different
+   evolutionary consequences in natural ecosystems. However, the
+   biological effects of pollutants are typically studied using a limited
+   number of model species and strains, usually in oversimplified
+   ecological contexts that might underestimate their effects in nature
+   (Relyea and Hoverman, 2006). Furthermore, many of the approaches used
+   in environmental science and ecotoxicology to assess the environmental
+   effects of pollutants only test a few selected genetic lineages of
+   organisms (e.g., single strains of Daphnia), and often ignore both
+   within-population variation in sensitivity to pollutants and the
+   effects of mixtures of pollutants on organisms. For example,
+   morphologically similar but genetically distinct lineages of amphipods,
+   within the Gammarus fossarum cryptic species complex, vary in their
+   sensitivity to the fungicide tebuconazole and the insecticide
+   thiacloprid (Feckler et al., 2012). Such lineage diversity within
+   species is rarely accounted for in typical assessments of pollutants on
+   organisms (Relyea and Hoverman, 2006). Synthetic chemicals present a
+   particular challenge because the exposed organisms may lack the
+   exposure history necessary for the emergence of an evolutionary
+   adaptation. Synthetic chemicals can also act as mutagens that disrupt
+   the homeostasis of organisms (Bickham et al., 2000).
+
+   Chemical toxicity can rapidly drive populations to such small sizes
+   that their persistence over time becomes threatened (Williams and
+   Oleksiak, 2008). Interestingly many classic studies about rapid
+   evolution involve chemical pollution, such as the evolution of
+   resistance to pesticides, resistance to antibiotics or mining-related
+   metal pollution (Hoffmann and Parsons, 1997; Palumbi, 2009) and, more
+   recently, pollutant induced elevated mutation rates and rapid
+   adaptation (Brady et al., 2017; Coutellec and Barata, 2013; Kimberly
+   and Salice, 2012; Loria et al., 2019; Palumbi, 2009). Evolutionary
+   adaptation to chemical pollution can also rescue populations from
+   extinction caused by demographic decline. For example, experimental
+   Daphnia populations that were initially highly sensitive to metal
+   contamination recovered rapidly via genetic adaptation (Hochmuth et
+   al., 2015). In another example, natural killifish populations
+   inhabiting urban estuaries adapted to lethal levels of pollutants with
+   genetic adaptations (Oziolor et al., 2017; Reid et al., 2016).
+   Unsurprisingly, adaptation of a population can also be an unwanted
+   outcome of management, such as when the evolution of resistance reduces
+   the sensitivity of a species used in ecological risk assessment (Morgan
+   et al., 2007). Evolution's ability to alter the direction of responses
+   to environmental change, such as that brought by chemical pollution, is
+   one of the main arguments for including evolutionary concepts in
+   environmental research. Finally, potential for evolutionarily based
+   solutions to pollution comes from implementing bioremediation, such as
+   designing microbial communities that have evolved the ability of
+   biodegradation of chemicals (Liu and Suflita, 1993).
+
+2.4. Algal blooms: when evolution muddies the waters
+
+   Harmful algal blooms are often associated with eutrophication,
+   pollution and climate change (Huisman et al., 2018; Monchamp et al.,
+   2018). Harmful algal blooms, which can persist for weeks or months, may
+   foul drinking water, turn lakes anoxic and kill fish, and render lakes
+   unacceptable for recreational use (Lewitus et al., 2012; Paerl et al.,
+   2011). Ecological theory suggests that blooms develop when nutrient
+   input releases phytoplankton from control by grazers (Abrams and
+   Walters, 1996; Gragnani et al., 1999; Pančić and Kiørboe, 2018).
+   Additionally, evolutionary processes are also relevant to the
+   emergence, volume and toxicity of blooms. Indeed, we postulate that
+   trying to manage harmful blooms without Darwin, is like trying to fly
+   to the moon without Newton (modifying Andrew Read's concluding remark
+   on his TEDMED talk on importance of evolutionary medicine:
+   https://www.tedmed.com/talks/show?id=7286).
+
+   The trade-off between resource uptake and grazing resistance is at the
+   root of the ecological and evolutionary causes of bloom biomass
+   (Cloern, 2018). Selective grazing by zooplankton will deplete edible
+   algae and, subsequently, increase the abundance of well-defended algae
+   (Hairston et al., 2005; Takehito Yoshida et al., 2003). Harmful algal
+   blooms are characterised by an array of defense traits that are favored
+   by natural selection. Some algae produce compounds that are toxic to
+   grazers, such as the neurotoxins, saxitoxins and domoic acid produced
+   by dinoflagellates, cyanobacteria, and diatoms, respectively (Pančić
+   and Kiørboe, 2018; Xu and Kiørboe, 2018). Remarkably, toxin production
+   varies widely both within and among populations. For example, some
+   lineages entirely lack the genes for toxin production (Brandenburg et
+   al., 2018; Briand et al., 2009). The evolutionary dynamics of different
+   toxic/non-toxic genotypes during algal blooms is likely driven by
+   physiological trade-offs between costs of toxin production and resource
+   uptake for growth (Brandenburg et al., 2018; Cadier et al., 2019;
+   Chakraborty et al., 2019; Kiørboe and Andersen, 2019). Such
+   defense-growth trade-offs are likely important for the emergence of
+   harmful algal blooms (Burford et al., 2019; Jankowiak et al., 2019; Kim
+   et al., 2010; Li et al., 2012), but the selective factors that favor
+   toxic variants in bloom forming algae are not fully understood.
+   Identifying the evolutionary processes involved in algal blooms would
+   likely help us predict which algal blooms might turn toxic. In a first
+   step, reliable prediction would enable the avoidance of risks
+   associated with toxic algal blooms (e.g. by timely establishment of
+   exclusion zones), and in a second step, it could inform mitigation
+   measures to reduce the occurrence of algal blooms (e.g. by influencing
+   relevant selective forces such as nutrient input).
+
+3. Evolving the environmental sciences
+
+   Evolutionary processes are often an inescapable and critical component
+   of both understanding and solving environmental problems. The evolution
+   of resistance genes will continually challenge our efforts to halt
+   diseases through the development of new drugs, highlighting the need to
+   complement efforts in drug discovery with the development of
+   evolution-aware application strategies. A better appreciation of
+   evolution's limits and, in particular, the impossibility of Darwinian
+   demons, is critical to meeting our energy demands by matching algal
+   genotypes with optimal environmental conditions for biofuel production.
+   In a similar vein, choosing strains that have evolved tolerance to
+   pollutants might help sustain populations in deteriorating
+   environments, while strains naive to pollution might be a more
+   conservative option when assessing ecological risk to chemical
+   pollutants. Engineering solutions in waste-water treatment plants might
+   be improved if we could harness evolution's power to help biodegrade
+   persistent compounds (Brenner et al., 2008). Other environmental
+   problems with limited engineering-oriented solutions could be tackled
+   with evolutionary perspectives. For example, biocides may be applied to
+   combat algal blooms, but it is notoriously difficult to predict the
+   timing, duration and toxicity of algal blooms. A better understanding
+   of the evolutionary dynamics of such systems, gained, for example, by
+   tracking environmental change in real-time and linking those changes
+   with environmental sources of natural selection, could help us predict
+   the outbreaks of toxic algae.
+
+   Indeed, there is a growing need in many areas of environmental science
+   to efficiently forecast ecosystem change across natural and
+   human-induced gradients (Petchey et al., 2015) and to understand the
+   consequences of such changes for ecosystem (and evosystem) services
+   (Costanza et al., 1997; Rudman et al., 2017). This is particularly
+   relevant for ecosystems that provide vital services to society, but are
+   also sensitive to anthropogenic impacts. Predictions about complex
+   ecological systems are challenging and require solid understanding of
+   ecological and evolutionary mechanisms behind population growth,
+   genetic and trait diversity, trait-environmental relationships,
+   trade-offs, and community dynamics. Such principles are present in the
+   environmental science literature, but are only sporadically applied to
+   solve environmental issues.
+
+   It is possible that prevailing misconceptions about the pace and
+   prevalence of evolution may be blocking the integration of evolution
+   into the environmental sciences. First, the pace of evolutionary
+   adaptation is not only set by the rate of mutations and the subsequent
+   rate of increase of novel alleles in the population. Instead, the rate
+   of adaptation, i.e. the increase in mean population fitness over time,
+   is directly proportional to the genetic variance in a population that
+   can respond to natural selection (Fisher, 1930). Evolution from
+   existing levels of heritable trait variation in a population can be
+   much quicker and more predictable than expected based on evolution
+   driven via new variants in the population that arise solely by
+   mutation. Second, evolution is neither rare nor a special case. The
+   challenge for environmental science is to determine the relative
+   importance of evolution, either for causing or for ameliorating a
+   particular environmental problem.
+
+   Overall, we argue that evolutionary principles are a useful resource
+   for coming up with solutions to environmental problems. On the one
+   hand, seemingly rational solutions might require some ‘evolution
+   proofing’ to effectively anticipate and limit any potential negative
+   impacts of evolution on the expected outcomes of our interventions. On
+   the other hand, evolution itself can be a powerful design strategy for
+   solving environmental problems. Design by directed evolution, for
+   example, has made considerable progress developing novel enzymes
+   (Arnold, 1998), and configuring communities to perform specific
+   functions that improve environmental conditions (Ghoul and Mitri,
+   2016). Natural selection is a powerful force that can efficiently
+   explore the combinatorial trait space that organisms could
+   theoretically occupy. The trait space of living systems is replete with
+   opportunities to solve environmental problems, and natural selection
+   might often outpace our own ability to find these solutions. Perhaps a
+   way forward is to relinquish our engineering hubris in favor of a
+   problem solving strategy that is either informed by, or directed by,
+   evolution. Environmental science has a rich history of
+   interdisciplinarity. A stronger integration with evolutionary biology
+   would improve our ability to address global societal challenges in
+   general (Carroll et al., 2014), and environmental challenges in
+   particular.
+
+Declaration of competing interest
+
+   The authors declare that they have no known competing financial
+   interests or personal relationships that could have appeared to
+   influence the work reported in this paper.
+
+Acknowledgements
+
+   This manuscript was supported by internal EAWAG funds and an Swiss
+   National Science Foundation [grant number 31003A_175614] to BM. We
+   thank Arianne Maniglia, and Gioia Matheson for help in organising the
+   workshop that supported this project, and Paula Ramsay for editing.
+
+Notes
+
+   Editor: Sergei Sabater
+
+References
+
+     * Abdelghani A.A., Tchounwou P.B., Anderson A.C., Sujono H., Heyer
+       L.R., Monkiedje A. Toxicity evaluation of single and chemical
+       mixtures of roundup, Garlon-3A, 2,4-D, and syndets surfactant to
+       channel catfish (Ictalurus punctatus), bluegill sunfish (Lepomis
+       microchirus), and crawfish (Procambarus spp.) Environmental
+       Toxicology and Water Quality: An International Journal.
+       1997;12(3):237–243. [Google Scholar]
+     * Abrams P.A., Walters C.J. Invulnerable prey and the paradox of
+       enrichment. Ecology. 1996;77(4):1125–1133. [Google Scholar]
+     * Andersen K.G., Rambault A., Lipkin W.I., Holmes E.C., Garry R.F.
+       The proximal origin of SARS-CoV-2. Nat. Med. 2020
+       doi: 10.1038/s41591-020-0820-9. [PMC free article] [PubMed]
+       [CrossRef] [Google Scholar]
+     * Arnold F.H. Design by directed evolution. Acc. Chem. Res.
+       1998;31(3):125–131. doi: 10.1021/ar960017f. [CrossRef] [Google
+       Scholar]
+     * Bell G., Gonzalez A. Evolutionary rescue can prevent extinction
+       following environmental change. Ecol. Lett. 2009;12(9):942–948.
+       [PubMed] [Google Scholar]
+     * Bell G., MacLean C. The search for “evolution-proof” antibiotics.
+       Trends Microbiol. 2018;26(6):471–483. [PubMed] [Google Scholar]
+     * Bickham J.W., Sandhu S., Hebert P.D., Chikhi L., Athwal R. Effects
+       of chemical contaminants on genetic diversity in natural
+       populations: implications for biomonitoring and ecotoxicology.
+       Mutat. Res. 2000;463(1):33–51. [PubMed] [Google Scholar]
+     * Brady S.P., Monosson E., Matson C.W., Bickham J.W. Evolutionary
+       toxicology: toward a unified understanding of life’s response to
+       toxic chemicals. Evol. Appl. 2017;10(8):745–751. [PMC free article]
+       [PubMed] [Google Scholar]
+     * Brandenburg K.M., Wohlrab S., John U., Kremp A., Jerney J., Krock
+       B., Van de Waal D.B. Intraspecific trait variation and trade-offs
+       within and across populations of a toxic dinoflagellate. Ecol.
+       Lett. 2018;21(10):1561–1571. [PubMed] [Google Scholar]
+     * Brenner K., You L., Arnold F.H. Engineering microbial consortia: a
+       new frontier in synthetic biology. Trends Biotechnol.
+       2008;26(9):483–489. [PubMed] [Google Scholar]
+     * Briand E., Escoffier N., Straub C., Sabart M., Quiblier C., Humbert
+       J.-F. Spatiotemporal changes in the genetic diversity of a
+       bloom-forming Microcystis aeruginosa (cyanobacteria) population.
+       The ISME Journal. 2009;3(4):419–429. [PubMed] [Google Scholar]
+     * Brüssow H. The novel coronavirus – a snapshot of current knowledge.
+       Microb. Biotechnol. 2020 doi: 10.1111/1751-7915.13557. [PMC free
+       article] [PubMed] [CrossRef] [Google Scholar]
+     * Bull J.J., Collins S. Algae for biofuel: will the evolution of
+       weeds limit the enterprise? Evolution. International Journal of
+       Organic Evolution. 2012;66(9):2983–2987. [PMC free article]
+       [PubMed] [Google Scholar]
+     * Burford M.A., Carey C.C., Hamilton D.P., Huisman J., Paerl H.W.,
+       Wood S.A., Wulff A. Perspective: advancing the research agenda for
+       improving understanding of cyanobacteria in a future of global
+       change. Harmful Algae. 2019 doi: 10.1016/j.hal.2019.04.004.
+       [PubMed] [CrossRef] [Google Scholar]
+     * Burns T.P. Adaptedness, evolution and a hierarchical concept of
+       fitness. J. Theor. Biol. 1992;154(2):219–237. [PubMed] [Google
+       Scholar]
+     * Cadier M., Andersen K.H., Visser A.W., Kiørboe T.
+       Competition-defense tradeoff increases the diversity of microbial
+       plankton communities and dampens trophic cascades. Oikos. 2019
+       doi: 10.1111/oik.06101. [CrossRef] [Google Scholar]
+     * Carroll S.P., Jorgensen P.S., Kinnison M.T., Bergstrom C.T.,
+       Denison R.F., Gluckman P., Smith T.B., Strauss S.Y., Tabashnik B.E.
+       Applying evolutionary biology to address global challenges.
+       Science. 2014;346(6207):1245993. doi: 10.1126/science.1245993. [PMC
+       free article] [PubMed] [CrossRef] [Google Scholar]
+     * Chakraborty S., Pančić M., Andersen K.H., Kiørboe T. The cost of
+       toxin production in phytoplankton: the case of PST producing
+       dinoflagellates. The ISME Journal. 2019;13(1):64–75. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Chen G., Rynearson T.A. Genetically distinct populations of a
+       diatom co-exist during the North Atlantic spring bloom. Limnol.
+       Oceanogr. 2016;61(6):2165–2179. doi: 10.1002/lno.10361. [CrossRef]
+       [Google Scholar]
+     * Chisti Y. Biodiesel from microalgae. Biotechnol. Adv.
+       2007;25(3):294–306. [PubMed] [Google Scholar]
+     * Chisti Y. Biodiesel from microalgae beats bioethanol. Trends
+       Biotechnol. 2008;26(3):126–131. [PubMed] [Google Scholar]
+     * Cloern J.E. Why large cells dominate estuarine phytoplankton.
+       Limnol. Oceanogr. 2018;63(S1):S392–S409. [Google Scholar]
+     * Connon R.E., Geist J., Werner I. Effect-based tools for monitoring
+       and predicting the ecotoxicological effects of chemicals in the
+       aquatic environment. Sensors. 2012;12(9):12741–12771. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Costanza R., d’Arge R., de Groot R., Farber S., Grasso M., Hannon
+       B., Limburg K., Naeem S., O’Neill R.V., Paruelo J., Raskin R.G.,
+       Sutton P., van den Belt M. The value of the world’s ecosystem
+       services and natural capital. Nature. 1997;387(6630):253–260.
+       [Google Scholar]
+     * Coutellec M.-A., Barata C. Special issue on long-term
+       ecotoxicological effects: an introduction. Ecotoxicology.
+       2013;22(5):763–766. [PubMed] [Google Scholar]
+     * Czekalski N., Radhika S., Birtel J., Matthews B., Bürgmann H. Does
+       human activity impact the natural antibiotic resistance background?
+       Abundance of antibiotic resistance genes in 21 Swiss lakes.
+       Environ. Int. 2015;81:45–55. [PubMed] [Google Scholar]
+     * Das S., Dash H.R., editors. Microbial Diversity in the Genomic Era.
+       Elsevier; 2019. [Google Scholar]
+     * Engering A., Hogerwerf L., Slingenbergh J.
+       Pathogen-host-environment interplay and disease emergence. Emerging
+       Microbes & Infections. 2013;2(2):e5. [PMC free article] [PubMed]
+       [Google Scholar]
+     * Feckler A., Thielsch A., Schwenk K., Schulz R., Bundschuh M.
+       Differences in the sensitivity among cryptic lineages of the
+       Gammarus fossarum complex. Sci. Total Environ. 2012;439:158–164.
+       [PubMed] [Google Scholar]
+     * Fisher M.C., Hawkins N.J., Sanglard D., Gurr S.J. Worldwide
+       emergence of resistance to antifungal drugs challenges human health
+       and food security. Science. 2018;360(6390):739–742. [PubMed]
+       [Google Scholar]
+     * Fisher R.A. Clarendon Press; 1930. The Genetical Theory of Natural
+       Selection. [Google Scholar]
+     * Frank S.A. Natural selection. I. Variable environments and
+       uncertain returns on investment. J. Evol. Biol.
+       2011;24(11):2299–2309. [PubMed] [Google Scholar]
+     * Ghoul M., Mitri S. The ecology and evolution of microbial
+       competition. Trends in Microbiol. 2016;24:833–845.
+       doi: 10.1016/j.tim.2016.06.011. [PubMed] [CrossRef] [Google
+       Scholar]
+     * Gragnani A., Scheffer M., Rinaldi S. Top-down control of
+       cyanobacteria: a theoretical analysis. Am. Nat. 1999;153(1):59–72.
+       [PubMed] [Google Scholar]
+     * Grimm N.B., Foster D., Groffman P., Grove J.M., Hopkinson C.S.,
+       Nadelhoffer K.J., Pataki D.E., Peters D.P.C. The changing
+       landscape: ecosystem responses to urbanization and pollution across
+       climatic and societal gradients. Front. Ecol. Environ.
+       2008;6(5):264–272. [Google Scholar]
+     * Gunderson L.H., Holling C.S., editors. Panarchy: Understanding
+       Transformations in Human and Natural Systems. Island Press;
+       Washington, D.C., USA: 2002. [Google Scholar]
+     * Hangartner S., Laurila A., Rasanen K. Adaptive divergence in moor
+       frog (Rana arvalis) populations along an acidification gradient:
+       inferences from Q(st) ‐F(st) correlations. Evolution.
+       2012;66:867–881. [PubMed] [Google Scholar]
+     * Hairston N.G., Jr., Ellner S.P., Geber M.A., Yoshida T., Fox J.A.
+       Rapid evolution and the convergence of ecological and evolutionary
+       time. Ecol. Lett. 2005;8(10):1114–1127. [Google Scholar]
+     * Halpern B.S., Walbridge S., Selkoe K.A., Kappel C.V., Micheli F.,
+       D’Agrosa C., Bruno J.F., Casey K.S., Ebert C., Fox H.E., Fujita R.,
+       Heinemann D., Lenihan H.S., Madin E.M.P., Perry M.T., Selig E.R.,
+       Spalding M., Steneck R., Watson R. A global map of human impact on
+       marine ecosystems. Science. 2008;319(5865):948–952. [PubMed]
+       [Google Scholar]
+     * Hendry A.P. Princeton University Press; 2017. Eco-Evolutionary
+       Dynamics. [Google Scholar]
+     * Hendry A.P., Kinnison M.T. Perspective: the pace of modern life:
+       measuring rates of contemporary microevolution. Evolution.
+       International Journal of Organic Evolution. 1999;53(6):1637–1653.
+       [PubMed] [Google Scholar]
+     * Hochmuth J.D., De Meester L., Pereira C.M.S., Janssen C.R., De
+       Schamphelaere K.A.C. Rapid adaptation of a Daphnia magna population
+       to metal stress is associated with heterozygote excess.
+       Environmental Science & Technology. 2015;49(15):9298–9307. [PubMed]
+       [Google Scholar]
+     * Hoffmann A.A., Parsons P.A. Consistent heritability changes under
+       poor growth conditions. Trends Ecol. Evol. 1997;12(12):460–461.
+       [PubMed] [Google Scholar]
+     * Holdich D.M., Reynolds J.D., Souty-Grosset C., Sibley P.J. A review
+       of the ever increasing threat to European crayfish from
+       non-indigenous crayfish species. Knowl. Manag. Aquat. Ecosyst.
+       2009;(394–395):11. [Google Scholar]
+     * Houle D., Govindaraju D.R., Omholt S. Phenomics: the next
+       challenge. Nat. Rev. Genet. 2010;11(12):855–866. [PubMed] [Google
+       Scholar]
+     * Huisman J., Codd G.A., Paerl H.W., Ibelings B.W., Verspagen J.M.H.,
+       Visser P.M. Cyanobacterial blooms. Nat. Rev. Microbiol.
+       2018;16(8):471–483. [PubMed] [Google Scholar]
+     * Jankowiak J., Hattenrath-Lehmann T., Kramer B.J., Ladds M., Gobler
+       C.J. Deciphering the effects of nitrogen, phosphorus, and
+       temperature on cyanobacterial bloom intensification, diversity, and
+       toxicity in western Lake Erie. Limnol. Oceanogr.
+       2019;64(3):1347–1370. [Google Scholar]
+     * Johnson T.J., Halfmann C., Zahler J.D., Zhou R., Gibbons W.R.
+       Increasing the tolerance of filamentous cyanobacteria to
+       next-generation biofuels via directed evolution. Algal Res.
+       2016;18:250–256. [Google Scholar]
+     * Jones K.E., Patel N.G., Levy M.A., Storeygard A., Balk D.,
+       Gittleman J.L., Daszak P. Global trends in emerging infectious
+       diseases. Nature. 2008;451(7181):990–993. [PMC free article]
+       [PubMed] [Google Scholar]
+     * Jørgensen P.S., Folke C., Carroll S.P. Evolution in the
+       anthropocene: informing governance and policy. Annu. Rev. Ecol.
+       Evol. Syst. 2019 doi: 10.1146/annurev-ecolsys-110218-024621.
+       [CrossRef] [Google Scholar]
+     * Ju F., Beck K., Yin X., Maccagnan A., McArdell C.S., Singer H.P.,
+       Johnson D.R., Zhang T., Bürgmann H. Wastewater treatment plant
+       resistomes are shaped by bacterial composition, genetic exchange,
+       and upregulated expression in the effluent microbiomes. The ISME
+       Journal. 2019;13(2):346–360. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Kahl S., Kleinsteuber S., Nivala J., van Afferden M., Reemtsma T.
+       Emerging biodegradation of the previously persistent artificial
+       sweetener Acesulfame in biological wastewater treatment.
+       Environmental Science & Technology. 2018;52(5):2717–2725. [PubMed]
+       [Google Scholar]
+     * Kazamia E., Riseley A.S., Howe C.J., Smith A.G. An engineered
+       community approach for industrial cultivation of microalgae. Ind.
+       Biotechnol. 2014;10(3):184–190. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Kennedy D.A., Read A.F. Why the evolution of vaccine resistance is
+       less of a concern than the evolution of drug resistance. Proc.
+       Natl. Acad. Sci. U. S. A. 2018;115(51):12878–12886. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Kim S.-G., Joung S.-H., Ahn C.-Y., Ko S.-R., Boo S.M., Oh H.-M.
+       Annual variation of Microcystis genotypes and their potential
+       toxicity in water and sediment from a eutrophic reservoir. FEMS
+       Microbiol. Ecol. 2010;74(1):93–102. [PubMed] [Google Scholar]
+     * Kimberly D.A., Salice C.J. Understanding interactive effects of
+       climate change and toxicants: importance of evolutionary processes.
+       Integr. Environ. Assess. Manag. 2012;8(2):385–386. [PubMed] [Google
+       Scholar]
+     * Kiørboe T., Andersen K.H. Nutrient affinity, half-saturation
+       constants and the cost of toxin production in dinoflagellates.
+       Ecol. Lett. 2019;22(3):558–560. [PubMed] [Google Scholar]
+     * Krakauer D.C. Darwinian demons, evolutionary complexity, and
+       information maximization. Chaos. 2011;21(3) [PubMed] [Google
+       Scholar]
+     * Kristensen T.N., Ketola T., Kronholm I. Annals of the New York
+       Academy of Sciences; 2018. Adaptation to environmental stress at
+       different timescales. [PubMed] [CrossRef] [Google Scholar]
+     * Kueneman J.G., Woodhams D.C., Harris R., Archer H.M., Knight R.,
+       McKenzie V.J. Probiotic treatment restores protection against
+       lethal fungal infection lost during amphibian captivity.
+       Proceedings. Biological Sciences/The Royal Society. 2016;283(1839)
+       doi: 10.1098/rspb.2016.1553. [PMC free article] [PubMed] [CrossRef]
+       [Google Scholar]
+     * Law R. Optimal life histories under age-specific predation. Am.
+       Nat. 1979;114:399–417. [Google Scholar]
+     * Lebret K., Kritzberg E.S., Figueroa R., Rengefors K. Genetic
+       diversity within and genetic differentiation between blooms of a
+       microalgal species. Environ. Microbiol. 2012;14(9):2395–2404. [PMC
+       free article] [PubMed] [Google Scholar]
+     * Leitwein M., Duranton M., Rougemont Q., Gagnaire P.-A., Bernatchez
+       L. Using haplotype information for conservation genomics. Trends
+       Ecol. Evol. 2019 doi: 10.1016/j.tree.2019.10.012. [PubMed]
+       [CrossRef] [Google Scholar]
+     * Lewin G.R., Carlos C., Chevrette M.G., Horn H.A., McDonald B.R.,
+       Stankey R.J., Fox B.G., Currie C.R. Evolution and ecology of
+       Actinobacteria and their bioenergy applications. Annu. Rev.
+       Microbiol. 2016;70:235–254. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Lewitus A.J., Horner R.A., Caron D.A., Garcia-Mendoza E., Hickey
+       B.M., Hunter M., Huppert D.D., Kudela R.M., Langlois G.W., Largier
+       J.L., Lessard E.J., RaLonde R., Jack Rensel J.E., Strutton P.G.,
+       Trainer V.L., Tweddle J.F. Harmful algal blooms along the north
+       American west coast region: history, trends, causes, and impacts.
+       Harmful Algae. 2012;19:133–159. [Google Scholar]
+     * Li D., Kong F., Shi X., Ye L., Yu Y., Yang Z. Quantification of
+       microcystin-producing and non-microcystin producing Microcystis
+       populations during the 2009 and 2010 blooms in Lake Taihu using
+       quantitative real-time PCR. J. Environ. Sci. 2012;24(2):284–290.
+       [PubMed] [Google Scholar]
+     * Lips K.R., Brem F., Brenes R., Reeve J.D., Alford R.A., Voyles J.,
+       Carey C., Livo L., Pessier A.P., Collins J.P. Emerging infectious
+       disease and the loss of biodiversity in a Neotropical amphibian
+       community. Proc. Natl. Acad. Sci. U. S. A. 2006;103(9):3165–3170.
+       [PMC free article] [PubMed] [Google Scholar]
+     * Liu S., Suflita J.M. Ecology and evolution of microbial populations
+       for bioremediation. Trends Biotechnol. 1993;11(8):344–352. [PubMed]
+       [Google Scholar]
+     * Longdon B., Brockhurst M.A., Russell C.A., Welch J.J., Jiggins F.M.
+       The evolution and genetics of virus host shifts. PLoS Pathog.
+       2014;10(11) [PMC free article] [PubMed] [Google Scholar]
+     * Loria A., Cristescu M.E., Gonzalez A. Mixed evidence for adaptation
+       to environmental pollution. Evol. Appl. 2019;220:1014. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Low-Décarie E., Kolber M., Homme P., Lofano A., Dumbrell A.,
+       Gonzalez A., Bell G. Community rescue in experimental
+       metacommunities. Proc. Natl. Acad. Sci. U. S. A.
+       2015;112(46):14307–14312. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Masseret E., Grzebyk D., Nagai S., Genovesi B., Lasserre B., Laabir
+       M., Collos Y., Vaquer A., Berrebi P. Unexpected genetic diversity
+       among and within populations of the toxic dinoflagellate
+       Alexandrium catenella as revealed by nuclear microsatellite
+       markers. Appl. Environ. Microbiol. 2009;75(7):2037–2045. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Mbala-Kingebeni P., Aziza A., Paola N.D., Wiley M.R.,
+       Makiala-Mandanda S., Caviness K., Pratt C.B., et al. Medical
+       countermeasures during the 2018 ebola virus disease outbreak in the
+       north Kivu and Ituri provinces of the Democratic Republic of the
+       Congo: a rapid genomic assessment. Lancet Infect. Dis.
+       2019;19(6):648–657. [PubMed] [Google Scholar]
+     * McDonald B.A., Stukenbrock E.H. Rapid emergence of pathogens in
+       agro-ecosystems: global threats to agricultural sustainability and
+       food security. Philos. Trans. R. Soc. Lond. Ser. B Biol. Sci.
+       2016;371(1709) [PMC free article] [PubMed] [Google Scholar]
+     * Melián C.J., Matthews B., de Andreazzi C.S., Rodríguez J.P., Harmon
+       L.J., Fortuna M.A. Deciphering the interdependence between
+       ecological and evolutionary networks. Trends Ecol. Evol.
+       2018;33(7):504–512. [PubMed] [Google Scholar]
+     * Monchamp M.-E., Spaak P., Domaizon I., Dubois N., Bouffard D.,
+       Pomati F. Homogenization of lake cyanobacterial communities over a
+       century of climate change and eutrophication. Nature Ecology &
+       Evolution. 2018;2(2):317–324. [PubMed] [Google Scholar]
+     * Mooij P.R., Stouten G.R., Tamis J., van Loosdrecht M.C.M.,
+       Kleerebezem R. Survival of the fattest. Energy Environ. Sci.
+       2013;6(12):3404–3406. [Google Scholar]
+     * Morgan A.J., Kille P., Stürzenbaum S.R. Microevolution and
+       ecotoxicology of metals in invertebrates. Environmental Science &
+       Technology. 2007;41(4):1085–1096. [PubMed] [Google Scholar]
+     * Oziolor E.M., Bickham J.W., Matson C.W. Evolutionary toxicology in
+       an omics world. Evol. Appl. 2017 doi: 10.1111/eva.12462. [PMC free
+       article] [PubMed] [CrossRef] [Google Scholar]
+     * Paerl H.W., Hall N.S., Calandrino E.S. Controlling harmful
+       cyanobacterial blooms in a world experiencing anthropogenic and
+       climatic-induced change. Sci. Total Environ.
+       2011;409(10):1739–1745. [PubMed] [Google Scholar]
+     * Palmer A.C., Kishony R. Understanding, predicting and manipulating
+       the genotypic evolution of antibiotic resistance. Nat. Rev. Genet.
+       2013;14(4):243–248. [PMC free article] [PubMed] [Google Scholar]
+     * Palumbi S.R. Better evolution through chemistry: rapid evolution
+       driven by human changes to the chemical environment. ACS Symp. Ser.
+       2009;1025:333–343. [Google Scholar]
+     * Pančić M., Kiørboe T. Phytoplankton defence mechanisms: traits and
+       trade-offs. Biol. Rev. Camb. Philos. Soc. 2018;93(2):1269–1303.
+       [PubMed] [Google Scholar]
+     * Pedersen B., Tuomi J. Hierarchical selection and fitness in modular
+       and clonal organisms. Oikos. 1995;73(2):167–180. [Google Scholar]
+     * Penczykowski R.M., Laine A.-L., Koskella B. Understanding the
+       ecology and evolution of host-parasite interactions across scales.
+       Evol. Appl. 2016;9(1):37–52. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Petchey O.L., Pontarp M., Massie T.M., Kéfi S., Ozgul A.,
+       Weilenmann M., Palamara G.M., Altermatt F., Matthews B., Levine
+       J.M., Childs D.Z., McGill B.J., Schaepman M.E., Schmid B., Spaak
+       P., Beckerman A.P., Pennekamp F., Pearse I.S. The ecological
+       forecast horizon, and examples of its uses and determinants. Ecol.
+       Lett. 2015;18(7):597–611. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Reid N.M., Proestou D.A., Clark B.W., Warren W.C., Colbourne J.K.,
+       Shaw J.R., Karchner S.I., Hahn M.E., Nacci D., Oleksiak M.F.,
+       Crawford D.L., Whitehead A. The genomic landscape of rapid repeated
+       evolutionary adaptation to toxic pollution in wild fish. Science.
+       2016;354(6317):1305–1308. [PMC free article] [PubMed] [Google
+       Scholar]
+     * Relyea R., Hoverman J. Assessing the ecology in ecotoxicology: a
+       review and synthesis in freshwater systems. Ecol. Lett.
+       2006;9(10):1157–1171. [PubMed] [Google Scholar]
+     * Roemhild R., Gokhale C.S., Dirksen P., Blake C., Rosenstiel P.,
+       Traulsen A., Andersson D.I., Schulenburg H. Cellular hysteresis as
+       a principle to maximize the efficacy of antibiotic therapy. Proc.
+       Natl. Acad. Sci. U. S. A. 2018;115(39):9767–9772. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Rudman S.M., Kreitzman M., Chan K.M.A., Schluter D. Evosystem
+       services: rapid evolution and the provision of ecosystem services.
+       Trends Ecol. Evol. 2017 doi: 10.1016/j.tree.2017.02.019. [PubMed]
+       [CrossRef] [Google Scholar]
+     * Rynearson T.A., Armbrust E.V. DNA fingerprinting reveals extensive
+       genetic diversity in a field population of the centric diatom
+       Ditylum brightwellii. Limnol. Oceanogr. 2000;45(6):1329–1340.
+       [Google Scholar]
+     * Santamaría L., Méndez P.F. Evolution in biodiversity policy -
+       current gaps and future needs. Evol. Appl. 2012;5:202–218.
+       doi: 10.1111/j.1752-4571.2011.00229.x. [PMC free article] [PubMed]
+       [CrossRef] [Google Scholar]
+     * Sheehan J., Dunahay T., Benemann J., Roessler P. National Renewable
+       Energy Laboratory; 1998. A Look Back at the US Department of
+       Energy’s Aquatic Species Program: Biodiesel from Algae; p.
+       328.http://www.academia.edu/download/31018751/Biodiesel_from_algae_
+       -_USDOD_report.pdf [Google Scholar]
+     * Shurin J.B., Abbott R.L., Deal M.S., Kwan G.T., Litchman E.,
+       McBride R.C., Mandal S., Smith V.H. Industrial-strength ecology:
+       trade-offs and opportunities in algal biofuel production. Ecol.
+       Lett. 2013;16(11):1393–1404. [PubMed] [Google Scholar]
+     * Shurin J.B., Burkart M.D., Mayfield S.P., Smith V.H. Recent
+       progress and future challenges in algal biofuel production.
+       F1000Research. 2016;5 doi: 10.12688/f1000research.9217.1. [PMC free
+       article] [PubMed] [CrossRef] [Google Scholar]
+     * Smith V.H., Sturm B.S., Denoyelles F.J., Billings S.A. The ecology
+       of algal biodiesel production. Trends Ecol. Evol.
+       2010;25(5):301–309. [PubMed] [Google Scholar]
+     * Stamm C., Räsänen K., Burdon F.J., Altermatt F., Jokela J., Joss
+       A., Ackermann M., Eggen R.I.L. In: Advances in Ecological Research.
+       Dumbrell A.J., Kordas R.L., Woodward G., editors. Vol. 55. Academic
+       Press; 2016. Chapter four - unravelling the impacts of
+       micropollutants in aquatic ecosystems: Interdisciplinary studies at
+       the Interface of large-scale ecology; pp. 183–223. [Google Scholar]
+     * Stockwell C.A., Hendry A.P., Kinnison M.T. Contemporary evolution
+       meets conservation biology. Trends Ecol. Evol. 2003;18(2):94–101.
+       [Google Scholar]
+     * Strange R.N., Scott P.R. Plant disease: a threat to global food
+       security. Annu. Rev. Phytopathol. 2005;43:83–116. [PubMed] [Google
+       Scholar]
+     * Stukenbrock E.H., McDonald B.A. The origins of plant pathogens in
+       agro-ecosystems. Annu. Rev. Phytopathol. 2008;46:75–100. [PubMed]
+       [Google Scholar]
+     * Svoboda J., Mrugała A., Kozubíková-Balcarová E., Petrusek A. Hosts
+       and transmission of the crayfish plague pathogen Aphanomyces
+       astaci: a review. J. Fish Dis. 2017;40(1):127–140. [PubMed] [Google
+       Scholar]
+     * Thibodeau G., Walsh D.A., Beisner B.E. Rapid eco-evolutionary
+       responses in perturbed phytoplankton communities. Proceedings.
+       Biological Sciences/The Royal Society. 2015;282(1814)
+       doi: 10.1098/rspb.2015.1215. [PMC free article] [PubMed] [CrossRef]
+       [Google Scholar]
+     * Vörösmarty C.J., McIntyre P.B., Gessner M.O., Dudgeon D., Prusevich
+       A., Green P., Glidden S., Bunn S.E., Sullivan C.A., Liermann C.R.,
+       Davies P.M. Global threats to human water security and river
+       biodiversity. Nature. 2010;467(7315):555–561. [PubMed] [Google
+       Scholar]
+     * Weber M.G., Wagner C.E., Best R.J., Harmon L.J., Matthews B.
+       Evolution in a community context: on integrating ecological
+       interactions and macroevolution. Trends Ecol. Evol.
+       2017;32(4):291–304. [PubMed] [Google Scholar]
+     * Whitehead A., Clark B.W., Reid N.M., Hahn M.E., Nacci D. When
+       evolution is the solution to pollution: key principles, and lessons
+       from rapid repeated adaptation of killifish (Fundulus heteroclitus)
+       populations. Evol. Appl. 2017;10:762–783. doi: 10.1111/eva.12470.
+       [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+     * Williams L.M., Oleksiak M.F. Signatures of selection in natural
+       populations adapted to chronic pollution. BMC Evol. Biol.
+       2008;8:282. [PMC free article] [PubMed] [Google Scholar]
+     * Xu J., Kiørboe T. Toxic dinoflagellates produce true grazer
+       deterrents. Ecology. 2018;99(10):2240–2249. [PubMed] [Google
+       Scholar]
+     * Yoshida T., Jones L.E., Ellner S.P., Fussmann G.F., Hairston N.G.
+       Rapid evolution drives ecological dynamics in a predator–prey
+       system. Nature. 2003;424(6946):303–306. [PubMed] [Google Scholar]
+     * Yoshida T., Hairston N.G., Jr., Ellner S.P. Evolutionary trade-off
+       between defence against grazing and competitive ability in a simple
+       unicellular alga, Chlorella vulgaris. Proceedings of the Royal
+       Society B - Biological Sciences. 2004;271(1551):1947–1953. [PMC
+       free article] [PubMed] [Google Scholar]
+     * Zeng X., Danquah M.K., Chen X.D., Lu Y. Microalgae bioengineering:
+       from CO[2] fixation to biofuel production. Renew. Sust. Energ. Rev.
+       2011;15(6):3252–3260. [Google Scholar]
+     __________________________________________________________________
+
+   Articles from The Science of the Total Environment are provided here
+   courtesy of Elsevier
+     __________________________________________________________________
+
+Other Formats
+
+     * PubReader
+     * PDF (791K)
+
+Actions
+
+     * (BUTTON) Cite
+     *
+
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
+
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
+
+        Share
+
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
+
+   (BUTTON) [x]
+   Cite
+   (BUTTON) Copy Download .nbib .nbib
+   Format: [NLM]
+
+   Follow NCBI
+
+   Connect with NLM
+     *
+     *
+     *
+
+   National Library of Medicine
+   8600 Rockville Pike
+   Bethesda, MD 20894
+
+   Web Policies
+   FOIA
+   HHS Vulnerability Disclosure
+
+   Help
+   Accessibility
+   Careers
+     * NLM
+     * NIH
+     * HHS
+     * USA.gov

@@ -1,23 +1,693 @@
-   Romvy/Alamy
+   PMID: 35239015
 
-   Why hasn’t evolution given us eyes in the back of our head or rear-view
-   mirrors?
+Biological constraints as norms in evolution
 
+   Mathilde Tahar^ corresponding author ^
+--
+   Montévil and Mossio (Journal of Theoretical Biology 372:179–191, 2015)
+   have proposed to speak of constraints. In this article we analyse the
+   causal power of these constraints in the evolution of biodiversity,
+   i.e., their positivity, but also the modality of their action on the
+   directions taken by evolution. We argue that to fully account for the
+   causal power of these constraints on evolution, they must be thought of
+   in terms of normativity. In this way, we want to highlight two
+   characteristics of the evolutionary constraints. The first, already
+   emphasised as reported by Gould (The structure of evolutionary theory,
+   Harvard University Press, 2002), is that these constraints are both
+   produced by and producing biological evolution and that this circular
+   causation creates true novelties. The second is that this specific
+   causality, which generates unpredictability in evolution, stems not
+   only from the historicity of biological constraints, but also from
+   their internalisation through the practices of living beings.
+   Keywords: Theory of evolution, Biological constraints, Possibility
+   space, Normativity, Biological agency, Historicity
+
+Introduction
+
+   The evolution of biological forms and functions does not seem fully
+   explained by the laws that make physics intelligible (Longo et al.,
+   2012). Evolution is less a mechanical sequence based on efficient
+   causality than a process whose entities are in perpetual change (Dupré
+   & Nicholson, 2018; Simons, 2018). It displays a continuity of forms,
+   but also a progress: the lineages evolve in certain directions, without
+   the space of the possible directions being predetermined. This does not
+   mean that there is no stability nor regularity in the evolutionary
+   process. On the contrary, evolution appears to be highly channelled. To
+   account for biological regularities, Montévil and Mossio have proposed
+   a theory of constraints (2015). This concept aims to explain how a
+--
+   biological systems as a closure of constraints that channel biological
+   processes. In this article, we will question the role of these
+   constraints in evolution, beyond the scale of biological systems. Our
+   aim is to account for their emergence from evolutionary history and to
+   understand how they explain, and how they canalise the directions taken
+   by evolution. We are therefore less interested in understanding how
+   they stabilise biological systems than in identifying the causality of
+   these constraints, which makes them a real driving force in evolution
+   and generates biodiversity.
+
+   The argument of this article is that biological constraints should be
+   thought of as norms when trying to appreciate their causal role in the
+   evolution of the biodiversity structure. It has been argued (Longo et
+   al., 2012) that constraints in evolution are not necessitating their
+   effects but enabling certain evolutionary directions. In this article,
+   we wish to take up this idea by analysing more precisely the causal
+   force of these constraints in terms of normativity, in order to give a
+   concrete account of causation in evolution.
+
+Trying to account for the regularities of evolution
+
+   Evolution appears to be a relatively determined and channelled process.
+   It displays a certain coherent stability: the evolution undergone by a
+   species appears as linear and progressive; we observe similarities
+   between organs performing the same function in different lineages. It
+--
+   may be inaccessible to some species: as Fodor (2007) says, pigs will
+   probably never have wings. But although there is now a solid theory of
+   evolution based on Darwinism and genetics, it remains difficult to
+   comprehensively account for these regularities and to fully identify
+   their sources.
+
+Τelos in evolution?
+
+   In order to explain evolutionary regularities, attempts have sometimes
+   been made to use the Aristotelian concept of telos. Dennett for
+   instance conceives of evolution as the progressive actualisation of the
+   different possible phenotypes within a pregiven “Design Space”: “Design
+   is Aristotle’s telos, an exploitation of Order for a purpose” (1995, p.
+   64), the purpose of an organ adapted to a given ecological problem.
+   What would explain the regularity of evolution would be the limited
+   number of available solutions, i.e., of possible phenotypes. Beyond the
+   shortcomings of such a teleological approach of evolution (Grene,
+   1972), the main problem with this conception is that it implies a form
+   of fixism or essentialism, which would consist in thinking that all the
+   possible biological forms would be given a priori, from all eternity,
+   evolution being just the history of their materialization. This leads
+   us back to an idealistic vision, of the same type that Darwin already
+   refuted, which made the species a form existing from all time. As
+   Darwin showed, species is a naturalist’s abstraction, the species being
+   merely more pronounced varieties, the evolution of a lineage consisting
+   of the gradual transformation of an individual difference into a
+   variety, then a species (Darwin, 2001, p. 54; pp. 60–61). There are no
+   pre-ordained forms, prior to evolution.
+
+The library of mendel
+
+   Another way of grasping the regularities in evolution (complementary to
+   the first) would be to assume that there would be rules preceding
+   evolution, given by genetics. This idea is present in Dennett (1995)
+   who speaks of a “Library of Mendel” as a genetic repertoire latently
+   indicating the possible directions of evolution. It is true that genes
+   structure evolution insofar as they carry the information allowing the
+   formation of the organism, and a certain number of genes or groups of
+   genes are found in different lineages—such is the case of the Hox gene
+--
+   2138–2139). The way in which genes are expressed is not preordained and
+   depends on the unique biological situation of the organism, which
+   results from evolution itself.
+
+Natural selection and the adaptation requirement
+
+   To account for evolutionary regularities, some have proposed to
+   conceive of natural selection as an algorithm that would sort through
+   the genetic repertoire. According to Dawkins (1996, pp. 46–50), this
+--
+   to the target, the more they would reproduce. The action of natural
+   selection would be comparable to that of this algorithm which
+   eliminates the texts furthest from the target; in evolution, the target
+   would be adaptation. Even if it takes different forms depending on the
+   situation, adaptation would be maintained as the general form of an
+--
+   adjustment of the species to the ecosystem in which they evolve.
+   Therefore, adaptation could be considered as the consistent rule of
+   evolution, explained by natural selection and that would account for
+   the directions taken by the evolutionary process. However, this rule
+   appears to be more of an imperative of efficiency (an individual who is
+   not able to survive… does not survive), a minimal condition, than a
+   real principle of explanation of the form taken by biodiversity and
+   morphological evolution.
+
+Failure of these proposals
+
+   All these attempts to account for the regularities in evolution derive
+   from a static, nomological view of evolution as resulting from
+   immutable laws. This is why they try to account for the observed
+   stabilities in a monolithic way, even if it means falling into a
+   deflationary explanation that only gives a negative account of the
+   directions taken by evolution. Jointly, the entities under
+   consideration (organisms, species) are seen as ontologically preceding
+   evolution. This is a substantialist view of evolution, outdated since
+   Darwin. Evolution is the process by which species are generated and
+   evolve (let us note that it is species or populations that evolve, not
+   individuals); from this point of view, both species and organisms are
+   secondary to evolution. They take their forms from this process, and,
+   above all, they are transient in respect of the process itself.
+   Biological evolution is indeed a process in the strong sense given by
+   Dupré and Nicholson (2018, pp. 11–14): it is extended in time, and this
+   flow of time means change. Change is thus ontologically primary with
+--
+   relatively stable (Miquel & Hwang, 2016), or, as Peter Simons puts it
+   “precipitates of processes” (Simons, 2018, p. 55). What is fundamental
+   in evolution is not the entities, which are always transitory, but the
+   dynamic processes that give rise to their relative stability (Soto et
+   al., 2016a, 2016b).
+
+   Thus, in order to explain the regularities in evolution, it is
+   necessary to move away from a nomological and monolithic approach and
+   to take into consideration their historicity.
+
+Evolutionary constraints and history
+
+Historical constraints
+--
+   wish to demonstrate that these conditions alone are not enough to
+   explain the diversity of forms or the dynamics of the process.
+   Evolution towards adaptation is subject to multiple other conditions,
+   which, as Gould shows (2002, pp. 1027–1037), appear as constraints for
+   a pan-adaptive explanation; since they are non-classical factors that
+--
+   their positivity. Gould posits two characteristics of constraint (2002,
+   p. 1026):
+    1. “Coherent set of causal factors that can promote evolutionary
+       change”.^1
+    2. “The concept of constraint must include theoretically legitimate
+       and factually important positive meanings—i.e., constraints as
+       directing causes of particular evolutionary changes—rather than
+       only the negative connotations of structural limitations that
+       prevent natural selection from crafting an alteration that would
 --
 
-   You can look at it another way. Rear vision is useful only if potential
-   threats are visible. During human evolution, that was most often not
-   the case.
-
+   Gould distinguishes three types of constraint, all of which are linked
+   to the history of organisms and thus also of evolution. The first is
+   the functional constraint, which comes from natural selection, i.e.,
+   the necessity of adaptation, the terms of which are set by the current
+--
+   determined by homological constraints between hairiness and dentition
+   that originate in the phyletic singularity of mammalian development.
+   These constraints are born of the evolutionary history of organisms,
+   but they can also guide future evolution by canalizing evolutionary
+   change. This is the case of the fontanelles, constraints specific to
+   vertebrates, due to the development of the skeleton, and which
+--
+   “aptive triangle” based on the model of the triangle used in petrology
+   (Fig. 1). Each of the vertices corresponds to one of the three
+   constraints, understood as an influence canalizing evolution. To
+   explain the appearance of a trait, all the three vertices should be
+   considered (the trait will correspond to a point located inside the
+   triangle according to the respective influence of these three idealised
+   vertices). However, if the condition of evolution is the adaptation of
+   organisms, an adaptation subject to internal constraints, what seems
+   fundamental to understanding the respective role of these constraints
+   in the appearance of a trait and thus, more broadly, the directions
+   taken by evolution, is history. For it is history that explains the
+   inhomogeneous distributions of organisms across the potential
+   morpho-space of good organic design. The occupation of morpho-space is
 --
 
-   There are various aspects to this question. First, it supposes
-   evolution works towards particular goals in a planned way, but that
-   isn’t the case.
+   This conception makes it possible to account for the plurality of
+   evolutionary constraints, as well as for their historicity.
+   Nevertheless, their action is not only negative: they channel the
+   future by opening its possibilities. If constraints were completely
+   stable, the evolutionary process would only be entropic, and thus
+   predictable: as time progresses, organisms would occupy more and more
+   possible places in morpho-space; a decrease in organisation and an
+--
+   Brandon, 2010) which is opposed to the idea of entropy itself. This
+   problem is taken up by Brooks and Wiley (1988). According to them,
+   evolution is an entropic phenomenon (because of the variability of
+   organisms, the further time goes by, the more possible genotypes, i.e.,
+   possible microstates, are occupied by organisms), even though a growing
+   organisation in biodiversity is observed, i.e., an increasing distance
+   from randomness, both within organisms and in the structuring of
+   niches. To understand this, the historical dimension of evolution and
+   its constraints must be considered.
 
 --
+   from the fact that the phase space itself is historically constituted.
+   It transforms while retaining something of its past structure: the
+   ontogenetic constraints, born of evolution, canalise the successful
+   realisation of genotypes, even if the genotypes not realised may be
+   accessible microstates; certain genotypic combinations are also made
+--
+   Fig. 2
 
-   It may therefore be that the architecture of our central nervous system
-   has simply not lent itself to the evolution of an extra pair of eyes in
-   the back of our head.
+   The entropy in evolution, redesigned from Brooks & Wiley, (1988, p.
+   40). The difference between H[max] (increasing entropy maximum) and
+   H[obs] (the observed entropy) is organization, while the value of Hobs
+   is a measure of the entropy of the system. If this scheme is applied to
+   evolutionary lineages (1988, p. 43), H[obs] measures the historically
+   realized diversity. The historical exclusion of the expression of
+   certain kinds of information is measured by the difference between
+--
 
+   Therefore, it is the historical dimension of constraints that gives
+   them their positive dynamic. Constraints in evolution emerge from the
+   evolutionary process and orient it by redefining the space of
+   possibilities. Not only do they canalise change as they prevent
+   biological systems from occupying all possible genetic configurations,
+--
+   is this creative dimension that must now be investigated.
+
+Biological interactions and evolutionary norms
+
+   To understand how these constraints can emerge from evolution while
+   canalising it, it is necessary to grasp the very process of evolution
+   in its concreteness. Dupré and Nicholson define it, in the same way as
+   rain, light or fermentation, as an unowned process (2018, p. 12),
+   because the entities of this process are not its substrates but its
+   precipitates. Yet, in evolution, the precipitates are at the same time
+   the transitory agents of this process, for evolution is the history of
+   the interactions of living beings. As Fisher writes, the motor of
+   evolutionary change is “in the actual life of living things; in their
+   contacts and conflicts with their environments, with the outer world as
+   it is to them; in their unconscious efforts to grow, or their more
+   conscious efforts to move. Especially, in the vital drama of the
+   success or failure of each of their enterprises” (1950, p. 184). Thus,
+   it could be said that since evolution belongs to no one in particular,
+   it belongs to everyone: it is a process knotted by interactions whose
+   agents are in in(de)finite number, that is to say knotted by an
+--
+Constraints and interactions
+
+   Indeed, if the horizon of evolution is the adaptation of organisms to
+   their environment, this constraint is dynamic: it comes from a history
+   and shapes this history. It is not a constraint imposed unilaterally
+--
+   transform this environment. The causality is not unilinear. It cannot
+   be said that the niche causes the means of survival of the living being
+   and its evolution, since the niche is what allows the living being to
+   survive (by definition, otherwise it would not evolve in this precise
+   environment). The phenotype of a living being, and its niche are
+--
+   the other (Fodor & Piattelli-Palmarini, 2011). Niches are not waiting
+   to be filled until the day when miraculously the right phenotype
+   appears. The evolution of the forms of living beings cannot be
+   understood as responses to the constraints set by the environment,
+   since environment and its stakes are defined on the basis of phenotypic
+--
+   It is the history of the co-construction of the niche that supplies the
+   conditions for the survival of organisms and species, thereby
+   channelling the evolutionary process in certain directions that will
+   produce the new constraints of the niche. Thus, these constraints are
+   the products of interactions, i.e., concrete, practical relations,
+--
+   with their environment. Living beings are not (necessarily) cognitive
+   agents, but they are agents insofar as they actively take part, through
+   their interactions, in evolutionary history. “An updated account of
+   evolution […] should, at least, represent adaptive evolution […] as the
+   interaction of agents and their affordances. It should take seriously
+   the Darwinian insight that evolution is the direct consequence of what
+   organisms do” (Walsh, 2015, p. 241). Hence, constraints in evolution
+   should rather be thought of as norms.
+
+--
+   Several games can be played on the same field, but only one at a time.
+   Biological systems therefore obey organisational rules, and their
+   playground is the boundaries defined by the planet. Evolution is the
+   meeting of changes in the rules of the game and of correlative changes
+   in the dimensions of the playing field, inasmuch as these changes are
+--
+
+   So far, we have discussed the interaction of organisms with their
+   environment, but evolution depends on multiple interactions that go far
+   beyond this bilateral relationship. As Darwin himself pointed out, it
+   relies on the intensity of the struggle for existence, which is not
+--
+   agents for access to resources that can take very various forms.
+   Although we cannot exhaustively illustrate the complexity of the
+   interactive processes at work in evolution (which range from
+   competition between cells in development to the differentiated
+   extinction of species in catastrophic upheavals), we will nevertheless
+--
+   One aspect of this competition is the relationship between the parasite
+   and its host. This relationship has a normative dimension in that it
+   channels the evolution of the two species involved, but this
+   channelling is highly dependent on the way the biological agents
+   interact in their unique biological situation. The interaction of the
+--
+   2007), is the development of a strong copulatory capacity in woodlouse
+   males (Moreau & Rigaud, 2003). Interactions with Wolbachia have very
+   different evolutionary consequences from one species to another, but
+   also within populations of the same species. It should also be
+   underlined that the resistances are passed on from one generation to
+--
+   translates into the fact that the woodlouse must evolve to survive (it
+   is a good example of the Red Queen hypothesis, Van Valen, 1973). The
+   genetic constraint is also involved: evolution depends on the genetic
+   variability available. But what really allows these constraints to
+   orient evolution and transform the process from which they emerge, is
+   the normativity of the interaction itself, as it takes different forms
+   from one species to another, and from one population to another.
+--
+   property par excellence ‘good’ or ‘bad’, depends on the host, the
+   microbe, and their interaction. It is by understanding this normative
+   relationship that we can grasp the direction taken by evolution. If the
+   parasite is not pathogenic, then there can be co-evolution with its
+   host; if it is weakly pathogenic, there can be an ‘arms race’; if it is
+   highly pathogenic, this can lead to the extinction of the host species.
+
+   These interactions also define their own evolutionary norms in relation
+   to their environment. Let’s consider two species of birds from
+   different lineages. The first, due to its evolutionary history, can
+   only feed on berries while the second can feed on both berries and
+   seeds. Suppose that the environment contains berries and seeds in equal
+   proportion: it can be assumed that the species that feeds on both
+   berries and seeds will feed on the seeds, so as not to compete with the
+   other species. Here there are evolutionary processes coming from
+   speciation that meet and structure the ecological space. In return,
+   this patterning has a retroactive effect on the evolution of these two
+   species: the second species may come to lose its ability to ingest
+   berries. It is in the reciprocal influence of constrained processes
+   that evolutionary normativity emerges.
+
+   Thus, the role of biological constraints in the directions taken by
+   evolution depends on the diversity of organisms and their particular
+   ecological situation. It is these various concrete interactions that
+   explain the creativity of constraints, and which make it necessary to
+   speak, in the case of evolution, of evolutionary norms.
+
+Evolutionary norms
+
+   The word norm is used in specific cases in biology: the normal versus
+--
+   reaction” dealing with phenotypic plasticity (West-Eberhard, 2003;
+   Woltereck, 1909). We speak of norm in a broader sense, since it is the
+   very causality at work in evolution that we propose to think of as
+   normative. In order to draw up an operational definition of the concept
+   for evolutionary biology, let us review its different meanings. Apart
+   from the strictly mathematical sense, we identify three main meanings,
+   based on the definitions listed by Merriam-Webster Dictionary and ATILF
+--
+       directions to a practice, and it emerges from a particular context
+       which comes from the very history of this practice: it is therefore
+       historical or evolutionary. The norm has both a creative positivity
+       (its power does not only consist in a limitation but also in the
+       fact that it constitutes opportunities) and emerges from and
+--
+
+   (a) and (b) are static definitions, and therefore are not adequate for
+   thinking of evolution. It is from (c) that we think we should speak of
+   norms in the evolutionary process although leaving aside the cultural
+   framework. These norms are:
+    1. Transitory rules which are,
+--
+       i.e., practices giving them their power and normative meaning.
+
+   Grasping this normativity of biological constraints in evolution also
+   allows us to understand their causal modality, beyond traditional logic
+   and a substantialist conception of evolution. It is not just a matter
+   of replacing one word with another: constraints in evolution do have a
+   normative power.
+
+The normative power of evolutionary constraints
+
+Their positive value
+--
+   2012): they do not cause a predetermined effect. Nor can they be said
+   to actualise possibilities, since as we have seen, the possible is not
+   predefined in biology. They form opportunities for evolution itself
+   (see also Jacob, 1977 or Caporael et al., 2014), opportunities that
+   were not predicted, and which generate real novelties.
+--
+   molars which can crush food. However, crushing food with the mouth was
+   and still is not an actual possibility at all for Chordates without
+   articulated jaws” (Ibid., p. 4575). The evolutionary novelty of
+   articulated jaws is part of the organisation of an organism in such a
+   way that it becomes a structural constraint, but also widens the space
+--
+   biological organizations, making its complete disappearance unlikely to
+   be viable” (Ibid., p. 4576). Both a channelling force and a breeding
+   ground for innovation, evolutionary constraints have both aspects (1)
+   and (2) of norms. We may add from the example we have just studied that
+   it also has a creative dimension (3).
+--
+   of history. This example follows on from an excerpt of The Genealogy of
+   Morals by Nietzsche on historical research, that Gould (2002, p. 1216)
+   uses to think of evolution: “‘Namely, that the origin or the emergence
+   of a thing and its ultimate usefulness, its practical application and
+   incorporation into a system of ends, are toto coelo [entirely, or
+--
+   requisitioned anew, transformed and directed to a new purpose’”. Rather
+   than simply referring to cases of exaptation (a change in function of a
+   structure in the course of evolution), Gould gives an example of what
+   could be called an “overloading” (Longo, 2018, pp. 457–458) which
+   further reveals the abundant and unpredictable creativity of
+   evolutionary constraints. While Gould does not embrace the full
+   Nietzschean analysis, he “do[es] appreciate Nietzsche’s point, which
+   can be translated into evolutionary terms as the source of constraint”
+   (Gould, 2002, p. 1218). He adds: “The original reason does continue to
+   exert a hold upon history through the structural constraints that
+--
+   built for the original context” (Ibid.). This diversion through
+   Nietzsche underlines the fact that the historical constraints that have
+   come to crystallise in evolution also constitute reserves of
+   potentialities. Gould refers to the remarkable case of overloading
+   found in the black heron Egretta Ardesiaca, which uses its wings to
+--
+   arrows An external file that holds a picture, illustration, etc. Object
+   name is 40656_2022_483_Figa_HTML.gif reflect the functionalist
+   interpretation of the theory of evolution, which sees history and
+   structure as constraints imposed on the functional vertex. The arrows
+   An external file that holds a picture, illustration, etc. Object name
+--
+   There is a causal circularity coming from the perpetual
+   reinterpretation of the constraints by the organisms which make them
+   true evolutionary norms. From this perspective, it should be underlined
+   that some constraints did not emerge from the functional vertex: there
+   are some actual aptive features which were originally non-aptations.
+   Their evolutionary meaning changed in the course of history. This is
+   the case of the fontanelles we mentioned. This also the case of the
+   repetitive DNA that Gould and Vrba describe as “nonapted features,
+--
+   (with secondary adaptive modification if altered)” (1982, p. 11).
+   Another example provided by Gould (2002, pp. 1282–1284) which will
+   enable us to apprehend the evolutionary dynamics of these constraints,
+   this time on an ecological scale, is that of Linepithema humile. In
+   Argentina, these ants split into colonies of genetically closer
+--
+   These examples show the creativity of constraints (3) through their
+   perpetual reinterpretation. They reveal the way in which these
+   reinterpretations emerge from evolution itself, as a historical process
+   (2), while at the same time channelling that same process (1). But it
+   is (4) that is crucial to understanding the modality of their causal
+--
+   constraints of these rules have provided more flexibility in their
+   fecund channels than limitations through their 'forbidden places'”
+   (Ibid., p. 1272). But how do these constraints orient evolution towards
+   non-determined possibilities? How do they induce evolutionary change?
+   By what causality do they channel evolution? There are two
+   indissociable questions here: what is the exact modality of their
+   causal power? And where do they get this causal power from? This is
+   where we think it is crucial to understand evolutionary constraints as
+   norms: these two questions are resolved if the power of these
+   constraints is understood as normative.
+--
+   also possible, i.e., it can be false). These four modalities imply a
+   pre-determined space of possibilities, and hence appear insufficient
+   for thinking of the causal force of evolutionary constraints, and of
+   their potential. Most physical laws entail a necessity: they indicate
+   that, in a given situation, if the conditions are met, the effect will
+--
+   characterise the situations in which they are actualised make them
+   shifting norms that do not display a predictive uniformity. And yet, if
+   they widen the possibilities of evolution, they allow the organisation
+   of biological phenomena, in so far as evolution is not a process that
+   would tend more and more towards randomness. This is why their
+   normative power cannot be considered as part of the category of
+   possibility either. They orient evolution in such a way that it does
+   not realise just any possibility, but some possibilities rather than
+   others: the most functional and relevant ones, the possibilities
+   leading to an increasingly organised evolution.
+
+   Mumford and Anjum seek a third modal path between necessity (and its
+--
+Normative modality and biological practices
+
+   But this approach seems insufficient for biological evolution, in two
+   respects. On the one hand, it does not account for the reconfiguration
+   of the space of possibilities specific to biological evolution. The
+   authors conceive the dispositional modality as applying to any
+   phenomenon. They underline that there are degrees of possibilities,
+   which seem to be linked to probability. Yet, probability is a measure
+   on a given space of possibilities. Thus, they do not address the truly
+   innovative nature of the possibilities created during evolution. The
+   authors investigate the causal link between A and its typical
+   manifestation B. But in evolution, B is not predetermined, and is
+   therefore not predictable no matter how much information is available
+   about A. It is no coincidence that the biological example given by
+   Mumford and Anjum is not borrowed from evolutionary biology. In
+   evolution there are no typical manifestations, only special cases. As
+   Longo puts it «biological events are rare […] in view of their
+   biological specificity or historicity: each event is individually rare,
+   even if this type of events happens continually in evolution and
+   contribute to the construction of all phylogenetic paths” (2018, p.
+   469). On the other hand, the authors underline the close link between
+   the manifestation of the effect and the continuity of the process that
+   causes it, but do not account for the fact that, in evolution, the
+   causality displays a creative circularity: the evolutionary norms, are
+   both produced by and producers of the evolutionary process. They
+   indicate that what accounts for dispositionality in biology is the fact
+   that life is made up of activities, but do not directly link these
+--
+
+   We believe, on the contrary, that these activities must be at the
+   centre of a conception of causality in evolution, since it is they that
+   account for the creativity of evolutionary constraints as well as their
+   specific causality. It is because constraints arise from interactions
+   that are woven by agents, and because, from this point of view, they
+   constitute real biological norms, that they have the power to canalise
+   evolution. To understand the causality of constraints in evolution, it
+   is therefore necessary to take into consideration the agency of living
+   beings. For it is living beings that internalise and manifest them
+   through practices, i.e., activities that are embedded in and transform
+   their living conditions and thus the rest of evolution. This is why, to
+   envision this driving role of organisms in evolution, Walsh proposes an
+   agent theory. For ecological constraints, for example, to have a truly
+   positive action, they must form opportunities for organisms. Hence, the
+--
+   living themselves actively constitute the constraints to which they are
+   subject, through their agency (Ibid., p. 173). Thus, the power of the
+   evolutionary constraints comes from their normative part, from the way
+   in which living beings internalise them in activities that create new
+   constraints that can transform evolutionary history. If we look back at
+   the example of the functional overloading of the black heron’s wings,
+   the morphological constraint (the feathers) resulting from the
+--
+   processes. And in return, this constraint allowed the emergence of a
+   further new practice (and therefore also a new function) through the
+   use of the parasol wing. The creative circularity of evolutionary
+   constraints becomes illuminating when they are understood as norms
+   whose multiple meanings arise from the concrete practices of organisms
+--
+   concretely tied up by the agents involved, that evolvability is played
+   out. Neither the historical, morphological and ecological data nor the
+   imperative of adaptation determine the directions taken by evolution.
+   Instead, these constraints act as norms that living beings internalise
+   into biological activities canalising future evolution. Let us
+   emphasise that internalisation here is not psychological nor
+   subjective: living beings are not necessarily cognitive agents, but
+--
+   This leads us to the first point that the dispositional modality failed
+   to account for: the change in the space of possibilities, and thus the
+   unpredictability of evolution. The various consequences of the presence
+   of Wolbachia on the evolution of its host reveal the importance of the
+   internalisation of norms in interactions which are always particular
+   cases. The biological norm is always local and transitory, i.e.,
+   specific to a time and place in evolutionary history. And it is within
+   these “rare” conditions—in the sense given by Longo (2018): specific,
+   historical—that living beings experience these norms through practices
+   that are also rare. Therefore, it is because evolutionary constraints
+   constitute norms for living beings that they can be truly innovative:
+   they owe their power to the way organisms internalise them. They arise
+   from the evolutionary process as it is shaped by the activities and
+   practices of living beings, but they also channel this process, and
+   even generate its future possibilities, through internalisation, i.e.,
+--
+   them through practices in the specificity of their unique situation. It
+   is precisely because these norms are internalised in the practices of
+   particular agents in specific situations that evolution is truly
+   unpredictable (the phase space is perpetually changing).
+
+--
+   through an equally particular or rare practice C. It is from this
+   internalisation that biological constraints derive their power: they
+   become norms for evolution.
+
+Conclusion
+
+   Our aim was to clarify the causal power of biological constraints on
+   the evolution of biodiversity. We argued that this power became
+   illuminating if thought of in terms of normativity. We began with a
+   critical moment aimed at identifying the inadequacies of the
+   explanations traditionally proposed to account for regularities in
+   biology. Moving away from these nomological, often monolithic, and in
+   any case static conceptions of evolution, we proposed an analysis of
+   the multiple constraints that canalise the forms taken by biodiversity.
+   We highlighted that these constraints were historical, and that this
+--
+   may be vital or fatal for the survival of organisms, and they redefine
+   their conditions of existence. This led us to reconceptualise
+   biological constraints in evolution in terms of evolutionary norms,
+   embracing four characteristics. They appear as binding conditions for
+   biological evolution (1), deriving from the evolutionary process
+   itself, while channelling it and opening its future possibilities (2).
+   These possibilities are not predetermined in a predefined phase space
+--
+   these norms in practices specific to their particular situation (4).
+   Finally, we have shown that conceiving biological constraints in
+   evolution as evolutionary norms allows us to shed light on the modality
+   of their causal power, inadequately captured by the categories of
+   traditional logic inherited from Aristotle, while accounting for the
+--
+   constraints, nor the work on process biology, but it is meant to
+   elucidate the role of constraints on the directions taken by biological
+   evolution, bringing forward the agency of living beings.
+
+Footnotes
+--
+     * Bailly F, Longo G. Biological organization and anti-entropy.
+       Journal of Biological Systems. 2009;17(1):63–96. [Google Scholar]
+     * Brooks DR, Wiley EO. Evolution as entropy. Toward a unified theory
+       of biology. University of Chicago Press; 1988. [Google Scholar]
+     * Canguilhem G. Le normal et le pathologique. Presses Universitaires
+       de France; 1966. [Google Scholar]
+     * Caporael LR, Griesemer JR, Wimsatt WC. Developing scaffolds in
+       evolution, culture, and cognition. The MIT Press; 2014. [Google
+       Scholar]
+     * Charlat S, Reuter M, Dyson EA, Hornett EA, Duplouy A, Davies N,
+--
+       Biology. 2007;17:273–277. [PubMed] [Google Scholar]
+     * Cordaux R, Bouchon D, Grève P. The impact of endosymbionts on the
+       evolution of host sex-determination mechanisms. Trends in Genetics.
+       2011;27:332–341. [PubMed] [Google Scholar]
+     * Darwin, C. (2001). On the origin of species (pp. 18202–1291). The
+       Pennsylvania State University, Electronic Classics Series, Jim
+       Manis, Faculty Editor, PA.
+     * Dawkins R. The blind watchmaker: Why the evidence of evolution
+       reveals a universe without design. W. W. Norton & Company Inc;
+       1996. [Google Scholar]
+--
+       oogenesis in a parasitic wasp. PNAS. 2001;98:6247–6252. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Dennett DC. Darwin’s dangerous idea. Evolution and the meanings of
+       life. Penguin Books; 1995. [Google Scholar]
+     * Dupré J, Nicholson DJ. A manifesto for a processual philosophy of
+--
+     * Fodor J, Piattelli-Palmarini M. What darwin got wrong. Profile
+       Books; 2011. [Google Scholar]
+     * Gould SJ. The structure of evolutionary theory. Harvard University
+       Press; 2002. [Google Scholar]
+     * Gould SJ, Lewontin R. The spandrels of San Marco and the
+--
+     * Grene M. Aristotle and modern biology. Journal of the History of
+       Ideas. 1972;33(3):395–424. [PubMed] [Google Scholar]
+     * Jacob F. Evolution and tinkering. Science.
+       1977;196(4295):1161–1166. [PubMed] [Google Scholar]
+     * Kingsolver JG, Koehl MAR. Aerodynamics, thermoregulation, and the
+       evolution of insect wings: Differential scaling and evolutionary
+       change. Evolution. 1985;39:488–504. [PubMed] [Google Scholar]
+     * Leclercq S, Thézé J, Chebbi MA, Giraud I, Moumen B, Ernenwein L,
+       Grève P, Gilbert C, Cordaux R. Birth of a W sex chromosome by
+--
+       2016;113:15036–15041. [PMC free article] [PubMed] [Google Scholar]
+     * Longo G., Montévil M. & Kauffman S. (2012). No entailing laws, but
+       enablement in the evolution of the biosphere. In GEECO’12:
+       Proceedings of the 14th annual conference companion on Genetics and
+       evolutionary computation, 1379–1392.
+     * Longo G. How future depends on past and on rare events in systems
+       of life. Foundations of Science. 2018;23(3):443–474. [Google
+       Scholar]
+     * McShea DW, Brandon RN. Biology’s first law: The tendency for
+       diversity and complexity to increase in evolutionary systems.
+       University of Chicago Press; 2010. [Google Scholar]
+     * Méthot P-O, Alizon S. What is a pathogen? Toward a process view of
+--
+       Biophysics and Molecular Biology. 2016;122(1):16–23. [PMC free
+       article] [PubMed] [Google Scholar]
+     * Van Valen L. A new evolutionary law. Evolutionary Theory.
+       1973;1:1–30. [Google Scholar]
+     * Walsh D. Organisms, agency, and evolution. Cambridge University
+       Press; 2015. [Google Scholar]
+     * West-Eberhard MJ. Developmental plasticity and evolution. Oxford
+       University Press; 2003. [Google Scholar]
+     * Woltereck R. Weitere experimentelle Untersuchungen über

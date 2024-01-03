@@ -1,371 +1,1495 @@
-   [p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=Science%2CSexuality
-   %2CGenetics%2CEvolution] Skip to main contentSkip to navigationSkip to
-   navigation
+   (BUTTON) Back to Top Skip to main content
 
-   Print subscriptions
-   Sign in
-   Search jobs
-   Search
-   Europe edition [ ]
-     * Europe edition
-     * UK edition
-     * US edition
-     * Australia edition
-     * International edition
+   U.S. flag
 
-   The Guardian - Back to homeThe Guardian
-   [ ]
-     * News
-     * Opinion
-     * Sport
-     * Culture
-     * Lifestyle
+   An official website of the United States government
+   (BUTTON) Here's how you know
+   Dot gov
 
-   ShowMoreShow More
-     * [ ] News
-          + View all News
-          + World news
-          + UK news
-          + Climate crisis
-          + Ukraine
-          + Environment
-          + Science
-          + Global development
-          + Football
-          + Tech
-          + Business
-          + Obituaries
-     * [ ] Opinion
-          + View all Opinion
-          + The Guardian view
-          + Columnists
-          + Cartoons
-          + Opinion videos
-          + Letters
-     * [ ] Sport
-          + View all Sport
-          + Football
-          + Cricket
-          + Rugby union
-          + Tennis
-          + Cycling
-          + F1
-          + Golf
-          + US sports
-     * [ ] Culture
-          + View all Culture
-          + Books
-          + Music
-          + TV & radio
-          + Art & design
-          + Film
-          + Games
-          + Classical
-          + Stage
-     * [ ] Lifestyle
-          + View all Lifestyle
-          + Fashion
-          + Food
-          + Recipes
-          + Love & sex
-          + Health & fitness
-          + Home & garden
-          + Women
-          + Men
-          + Family
-          + Travel
-          + Money
-     * Search input
-       ____________________
-       google-search
-       Search
-       (BUTTON)
+   The .gov means it’s official.
+   Federal government websites often end in .gov or .mil. Before sharing
+   sensitive information, make sure you’re on a federal government site.
+   Https
 
-     * Support us
-     * Print subscriptions
+   The site is secure.
+   The https:// ensures that you are connecting to the official website
+   and that any information you provide is encrypted and transmitted
+   securely.
 
-     [ ] Europe edition
-     * UK edition
-     * US edition
-     * Australia edition
-     * International edition
+   NIH NLM Logo
+   Log in (BUTTON) Show account info
+   (BUTTON) Close
 
+Account
 
-     * Search jobs
-     * Holidays
-     * Digital Archive
-     * Guardian Puzzles app
-     * Guardian Licensing
-     * About Us
-     * The Guardian app
-     * Video
-     * Podcasts
-     * Pictures
-     * Newsletters
-     * Today's paper
-     * Inside the Guardian
-     * The Observer
-     * Guardian Weekly
-     * Crosswords
-     * Wordiply
-     * Corrections
+   Logged in as:
+   username
+     * Dashboard
+     * Publications
+     * Account settings
+     * Log out
 
+   Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
 
-     * Facebook
-     * Twitter
+   (BUTTON)
+   (BUTTON)
+   Search PMC Full-Text Archive ____________________ (BUTTON) Search in
+   PMC
+     * Advanced Search
+     * User Guide
 
+   (BUTTON)
 
-     * Search jobs
-     * Holidays
-     * Digital Archive
-     * Guardian Puzzles app
-     * Guardian Licensing
-     * About Us
+     * Journal List
+     * Philos Trans R Soc Lond B Biol Sci
+     * v.376(1828); July 5, 2021
+     * PMC8126466
 
-     * World
-     * UK
-     * Climate crisis
-     * Ukraine
-     * Environment
-     * Science
-     * Global development
-     * Football
-     * Tech
-     * Business
-     * Obituaries
+Other Formats
 
-   DNA helix colourful genes chromosomes DNA sequence.
-   [ ]
-   Oldroyd has looked beyond DNA to epigenetics to deepen our
-   understanding of human evolution. Photograph: Iliescu Catalin/Alamy
-   Oldroyd has looked beyond DNA to epigenetics to deepen our
-   understanding of human evolution. Photograph: Iliescu Catalin/Alamy
-   Science
+     * PubReader
+     * PDF (441K)
 
-Epigenetics and evolution: ‘the significant biological puzzle’ of sexual
-orientation
+Actions
 
-   The ‘gay gene’ some touted as explaining widespread homosexuality in
-   humans has not been found. Might epigenetics hold the answer?
-     * Follow our Australia news live blog for latest updates
-     * Get our morning and afternoon news emails, free app or daily news
-       podcast
+     * (BUTTON) Cite
+     *
 
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
 
-   Benjamin Oldroyd
-   Sun 17 Sep 2023 17.00 CESTLast modified on Mon 18 Sep 2023 02.01 CEST
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
+
+        Share
+
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
+
+     * Journal List
+     * Philos Trans R Soc Lond B Biol Sci
+     * v.376(1828); July 5, 2021
+     * PMC8126466
+
+   As a library, NLM provides access to scientific literature. Inclusion
+   in an NLM database does not imply endorsement of, or agreement with,
+   the contents by NLM or the National Institutes of Health.
+   Learn more: PMC Disclaimer | PMC Copyright Notice
+
+   Logo of transb
+
+   Philos Trans R Soc Lond B Biol Sci. July 5, 2021; 376(1828): 20200259.
+   Published online May 17, 2021. doi: 10.1098/rstb.2020.0259
+   PMCID: PMC8126466
+   PMID: 33993758
+
+Underappreciated features of cultural evolution
+
+   Marco Smolla,^ corresponding author ^1 Fredrik Jansson,^2,^3 Laurent
+   Lehmann,^4 Wybo Houkes,^5 Franz J. Weissing,^6,^7 Peter Hammerstein,^8
+   Sasha R. X. Dall,^9 Bram Kuijper,^9 and Magnus Enquist^2,^10
+
+Marco Smolla
+
+   ^1Department of Biology, University of Pennsylvania, Philadelphia, PA,
+   USA
+   Find articles by Marco Smolla
+
+Fredrik Jansson
+
+   ^2Centre for Cultural Evolution, Stockholm University, Stockholm,
+   Sweden
+
+   ^3Division of Applied Mathematics, Mälardalen University, Västerås,
+   Sweden
+   Find articles by Fredrik Jansson
+
+Laurent Lehmann
+
+   ^4Department of Ecology and Evolution, University of Lausanne,
+   Biophore, Lausanne, Switzerland
+   Find articles by Laurent Lehmann
+
+Wybo Houkes
+
+   ^5Philosophy and Ethics, Eindhoven University of Technology, Eindhoven,
+   The Netherlands
+   Find articles by Wybo Houkes
+
+Franz J. Weissing
+
+   ^6Groningen Institute for Evolutionary Life Sciences, University of
+   Groningen, Groningen, The Netherlands
+
+   ^7Netherlands Institute for Advanced Study, Amsterdam, The Netherlands
+   Find articles by Franz J. Weissing
+
+Peter Hammerstein
+
+   ^8Institute for Theoretical Biology, Humboldt University, Berlin,
+   Germany
+   Find articles by Peter Hammerstein
+
+Sasha R. X. Dall
+
+   ^9Centre for Ecology and Conservation, University of Exeter, Penryn, UK
+   Find articles by Sasha R. X. Dall
+
+Bram Kuijper
+
+   ^9Centre for Ecology and Conservation, University of Exeter, Penryn, UK
+   Find articles by Bram Kuijper
+
+Magnus Enquist
+
+   ^2Centre for Cultural Evolution, Stockholm University, Stockholm,
+   Sweden
+
+   ^10Department of Zoology, Stockholm University, Stockholm, Sweden
+   Find articles by Magnus Enquist
+   Author information Article notes Copyright and License information PMC
+   Disclaimer
+   ^1Department of Biology, University of Pennsylvania, Philadelphia, PA,
+   USA
+   ^2Centre for Cultural Evolution, Stockholm University, Stockholm,
+   Sweden
+   ^3Division of Applied Mathematics, Mälardalen University, Västerås,
+   Sweden
+   ^4Department of Ecology and Evolution, University of Lausanne,
+   Biophore, Lausanne, Switzerland
+   ^5Philosophy and Ethics, Eindhoven University of Technology, Eindhoven,
+   The Netherlands
+   ^6Groningen Institute for Evolutionary Life Sciences, University of
+   Groningen, Groningen, The Netherlands
+   ^7Netherlands Institute for Advanced Study, Amsterdam, The Netherlands
+   ^8Institute for Theoretical Biology, Humboldt University, Berlin,
+   Germany
+   ^9Centre for Ecology and Conservation, University of Exeter, Penryn, UK
+   ^10Department of Zoology, Stockholm University, Stockholm, Sweden
+   ^corresponding author Corresponding author.
+   Marco Smolla: ude.nnepu.sas@alloms
+   One contribution of 15 to a theme issue ‘Foundations of cultural
+   evolution’.
+   Accepted October 23, 2020.
+   Copyright © 2021 The Author(s)
+   Published by the Royal Society. All rights reserved.
+
+Associated Data
+
+   Data Availability Statement
+          This article has no additional data.
+
+Abstract
+
+   Cultural evolution theory has long been inspired by evolutionary
+   biology. Conceptual analogies between biological and cultural evolution
+   have led to the adoption of a range of formal theoretical approaches
+   from population dynamics and genetics. However, this has resulted in a
+   research programme with a strong focus on cultural transmission. Here,
+   we contrast biological with cultural evolution, and highlight aspects
+   of cultural evolution that have not received sufficient attention
+   previously. We outline possible implications for evolutionary dynamics
+   and argue that not taking them into account will limit our
+   understanding of cultural systems. We propose 12 key questions for
+   future research, among which are calls to improve our understanding of
+   the combinatorial properties of cultural innovation, and the role of
+   development and life history in cultural dynamics. Finally, we discuss
+   how this vibrant research field can make progress by embracing its
+   multidisciplinary nature.
+
+   This article is part of the theme issue ‘Foundations of cultural
+   evolution’.
+   Keywords: cultural evolution, evolutionary biology, human evolution,
+   cumulative culture, cultural systems
+
+1.  Introduction
+
+   Culture is one of the most complex collective phenomena we know. The
+   capacity of our species to produce and accumulate culture (i.e. the
+   collection of socially transmitted attitudes, beliefs, knowledge,
+   skills, technologies, values, etc.) has allowed us to inhabit virtually
+   every part of the planet, making culture a cornerstone to the
+   ecological success of our species (e.g. [1,2]). Moreover, no other
+   species produce as many different and complex cultural products and is
+   undoubtedly as reliant on them as we are [2,3]. As such, the study of
+   culture and how it changes has been central to the research programme
+   of many disciplines, from the humanities and social sciences to the
+   natural sciences.
+
+   To better understand the origin and nature of culture, how culture
+   emerges and changes over time, why some aspects of culture change
+   continuously or abruptly while others remain relatively unchanged, or
+   why sometimes neighbouring groups differ and distant groups share
+   certain cultural practices, there has been a centuries-long effort to
+   devise or formulate a general theory of culture. One such approach is
+   the application of evolutionary theory to culture. Inspired by Darwin’s
+   publication ‘On the Origin of Species’ [4], the idea of taking an
+   evolutionary perspective on (human) culture has received considerable
+   research interest from scholars in many fields. The popularity of using
+   evolutionary terminology when describing cultural change, however, has
+   varied considerably over time (for overviews of evolutionary thinking
+   in the humanities and social sciences, see [5–10]). This was in part
+   due to a lack of understanding of biological evolution but also based
+   on the politically motivated misuse of evolutionary theory (see [11]).
+
+   A more recent approach to studying cultural evolution was inspired by
+   the quantitative theories that emerged in the life sciences in the
+   first half of the twentieth century. They were the direct result of
+   major advances in the understanding of the evolutionary process, marked
+   by the Modern Synthesis that unified Darwinian evolution with Mendelian
+   genetics. These novel formal descriptions of biological transmission
+   greatly increased the understanding of biological evolution. The
+   theoretical models by Fisher [12], Wright [13] and Haldane [14] cast
+   verbal theories and thought experiments in the precise language of
+   mathematics, which allowed a systematic analysis of the processes
+   involved in and the consequences for biological evolution. Moreover,
+   using formal theoretical models has proven useful for extracting the
+   most important features from complex processes, by keeping track of
+   many often parallel processes, and they explain complex macroscopic
+   patterns (e.g. diversity and distribution of traits) with simpler
+   individual-level processes, such as variability, competition and
+   inheritance.
+
+   Inspired by this progress, the now seminal works by Cavalli-Sforza &
+   Feldman [15], Lumsden & Wilson [16] and Boyd & Richerson [17] aimed
+   collectively at a general theory of culture. The idea was to base this
+   new theory on mathematical approaches from population dynamics and
+   genetics to explain the distribution and change of traits in
+   populations of individuals, be it genetic or cultural traits. To
+   justify this approach, the authors assumed and outlined structural and
+   conceptual analogies between biological and cultural evolution. At an
+   abstract level, population-level processes in both domains are
+   characterized by the continuous emergence, selective retention, and
+   transmission of variation [18–21]. Hence, analogies have been made
+   between the forces driving the evolution of genetic traits
+   (transmission, mutation, drift and selection) and those driving the
+   evolution of cultural traits (transmission, innovation, random
+   fluctuations and selection). Additionally, both types are characterized
+   by observable phenomena (e.g. an adapted species and cumulative
+   culture) that are high-level properties (of a species and a population,
+   respectively), which are the result of low-level interactions (at the
+   level of individuals). Finally, both biological and cultural evolution
+   are cumulative processes. That is, traits evolve successively through
+   repeatedly modifying, combining, re-combining and re-purposing existing
+   traits. These novel traits could not evolve in just one or a few
+   generations due to their historical dependencies [22]. This process can
+   lead to adaptation and increased trait complexity. However, the latter
+   is not strictly necessary for the former as adaptations can sometimes
+   come with a significant reduction in complexity [23]. In box 1, we
+   summarize the most important similarities which are discussed more
+   thoroughly elsewhere [15,17–19,23–26].
+
+   In contrast to the aforementioned general similarities, there are
+   obvious differences between cultural and biological evolution that
+   require mathematical approaches to be adapted [27]. For example, if
+   parents exhibit different variants of a cultural trait (e.g. hunting
+   versus fishing), then there is no general principle that makes their
+   children prefer one over the other. Children might even reject traits
+   from both parents, which is impossible for genetic traits.
+   Additionally, cultural traits are not strictly acquired from parents
+   (vertical transmission). Instead, transmission can occur between any
+   individuals, from one-to-many or many-to-one. And so, traits can also
+   be acquired from peers (horizontal) or other adults (oblique); even
+   inverse transmission from younger to older individuals is common.
+   Moreover, biases towards copying successful, powerful, prestigious, or
+   otherwise notable individuals can further modify the transmission
+   dynamics [28]. The different transmission modes and biases, and their
+   combinations, give rise to a large and complex space of potential
+   patterns and dynamics in the distribution of cultural traits.
+
+   In fact, this space is so rich that the overwhelming amount of cultural
+   evolution research has primarily focused on cultural transmission. What
+   the aforementioned seminal books started has become a rich and vibrant
+   research field that has garnered much interest from researchers across
+   disciplines, leading to a large number of recent books (e.g.
+   [1,11,29–31]) and themed journal issues (e.g. [32–35]). Moreover,
+   recent research articles show that the study of cultural transmission
+   is not only relevant for understanding what shaped human origins, but
+   also to make sense of what is happening in the present, from the spread
+   of news on social media [36] to healthy behaviour in social networks
+   [37], and many other features of the ‘information age’. This
+   development has also sparked the question to what extent culture exists
+   in other animals [2], given the growing evidence for widespread social
+   learning in nature [38–43].
+
+   Precisely because of this surge of interest, we believe it is an ideal
+   moment to identify potential avenues for future cultural evolution
+   research. We believe that there are a number of differences between
+   biological and cultural evolution that have still not received
+   sufficient attention. We identify specific differences by contrasting
+   characteristics of biological and cultural evolution and point out some
+   (table 1) that are of special interest. Our analysis mainly focuses on
+   unique features of the acquisition, storage, recall and transmission,
+   and the emergence and selection of new cultural traits and how they
+   differ from those associated with genetically inherited traits. We then
+   discuss the consequences of these differences and potential
+   implications for our understanding of cultural evolution. Our main aim
+   is to contribute to opening up new lines of investigation, novel
+   insights, and testable hypotheses.
+
+Table 1.
+
+   A list of differences between biological and cultural evolution. The
+   table is organized in a sequence of logical steps, beginning with the
+   storage, acquisition, transmission and selection of traits, and ending
+   with the generation of new variants. To keep the table comprehensive
+   but intuitive, we used general models of evolution, with a standard
+   model of a sexually reproducing species in the biological evolution
+   column, and a minimal case of human cultural evolution in which culture
+   is predominately stored as mental representations in the cultural
+   evolution column.
+   trait biological evolution cultural evolution
+   storage
+    medium genome nervous system
+    recall and alteration recall only recall and alteration
+   acquisition single event at conception sequential events throughout
+   life
+   transmission
+    mechanism transmission of physical copies learning processes based on
+   social observations and communication as input
+    pathways from parents to offspring between any individuals
+    receiver dependence no yes
+   sorting processes natural selection highly diverse and often in
+   combination with other processes
+   generation of new variants mutation, recombination diverse and often
+   incentive-driven
+   Open in a separate window
+
+   This paper is an attempt to elucidate and discuss important
+   similarities and differences between biological and cultural evolution.
+   We are aware that there are many different ways to approach this task,
+   and so this list will never be exhaustive. Additionally, we constrain
+   our scope to modelling approaches that rely on individual interactions
+   to explain the emergence of higher-level patterns, as compared to those
+   that, for example, apply phylogenetic methods on observed patterns to
+   infer past dynamics (e.g. [44,45]). However, we believe that this
+   discourse provides interesting, even provocative, new material for
+   thought and discussion, which, we hope, will inform future research,
+   experimental testing and especially formal theoretical work.
+
+Box 1.
+
+General similarities between biological and cultural evolution.
+
+     * I.
+       Evolution takes place in populations of individuals or units
+     * II.
+       Continuous generation of new variants based on existing traits
+     * III.
+       Differential retention of existing traits
+     * IV.
+       Transmission of traits between individuals
+     * V.
+       Evolution is the outcome of many microscopic events (II, III and
+       IV)
+     * VI.
+       Outcomes and emerging patterns:
+          + —
+            Diversity and divergence
+          + —
+            Cumulative evolution
+          + —
+            Historical dependencies
+          + —
+            Complexity and adaptation
+
+2.  Differences between biological and cultural evolution
+
+   In this section, we summarize several important differences between
+   biological and cultural evolution, before we discuss implications for
+   theories of cultural evolution in the following section. Table 1 is an
+   attempt to identify core differences by contrasting various aspects of
+   biological and cultural evolution. Some of the listed differences have
+   been considered previously [11,15,17,27,34] while others have received
+   less attention. We argue that recognizing these differences will affect
+   the understanding of cultural evolution in general, and modelling
+   approaches in particular, as it is well known that even small changes
+   to the mechanisms of dynamical systems can fundamentally change their
+   behaviour, results and interpretation.
+
+   It is important to note that (human) cognitive abilities, many unique,
+   are a factor in many of the items listed under cultural evolution in
+   the table and thus have consequences for the dynamics and outcome of
+   cultural evolution. For instance, opportunities for cultural
+   recombination and thus generation of new culture is significantly
+   enhanced by human thinking, planning and problem-solving abilities.
+   These abilities will also play an important role in individual
+   filtering as well as in learning processes.
+
+   The table entries would look partly different, for example, if we
+   considered bacteria (with access to horizontal gene transfer [46]), and
+   cultural artefacts and externalized information storage (see §2a). One
+   aspect that is not included in the table is processing. While it is
+   undoubtedly integral to both biological and cultural evolution, some
+   sort of processing is occurring in all items of the table.
+
+(a) Storage
+
+   The way in which information is stored differs fundamentally between
+   cultural and biological evolution. In biological evolution, information
+   (genetic traits) is encoded in and stored as the sequence of physical
+   molecular structures, the genome. By contrast, in cultural evolution,
+   cultural information within individuals (cultural traits) takes the
+   form of mental representations, which are encoded as neuronal
+   connections in the brain. This difference in the nature of trait
+   storage means that an individual cannot change its genome, but can make
+   changes to the composition of its cultural traits. For example, while
+   genes can be frequently and accurately accessed and copied, there are
+   very limited possibilities of passing information to the genome that
+   can be inherited by offspring. By contrast, mental representations
+   cannot be directly observed or copied [47], but due to the high
+   flexibility of the nervous system, mental representations can be
+   continuously altered before they are exhibited and transmitted to
+   others. These differences have consequences for the evolutionary
+   dynamics and concerns several of the other items in the table, which we
+   will address in §3.
+
+   Since artefacts (cultural products) reside in the external world, all
+   the information for producing them often need not be contained within
+   individuals and can be easily transmitted and accumulated over
+   generations. Furthermore, in the light of our ability to externalize
+   information storage, computation and filtering (and in part creation),
+   an increasingly important question is how information technology
+   changes cultural evolution as well as our mental abilities (e.g. [29]).
+
+(b) Acquisition
+
+   Based on the difference in the nature of trait storage in cultural and
+   biological evolution, the acquisition of traits is also fundamentally
+   different. Genetic traits are in place at the beginning of an
+   individual’s life, whereas cultural traits are acquired throughout the
+   entire life. An important consequence of continuous acquisition is that
+   culture is acquired sequentially through a combination of episodes of
+   social learning (learning from others), and individual practice (trial
+   and error, insight, etc.). The importance of individual practice cannot
+   be understated. It has been demonstrated in numerous studies in
+   developmental psychology and educational science that many cultural
+   traits require substantial individual efforts to be successfully
+   learned (e.g. [48,49]). For example, hunting skills require extensive
+   social learning to acquire the fundamental behaviours and techniques
+   but they also rely on lifelong improvement through individual learning
+   [50]. This difference between cultural and biological evolution has
+   received rather limited attention, but it may be one of the most
+   important ones influencing evolutionary dynamics [51,52]. As we will
+   discuss below, the fact that humans are born without culture and
+   acquire culture sequentially, making the individual an active force in
+   the transmission, has several consequences for the dynamics of cultural
+   evolution, including, for instance, the fact that previously acquired
+   traits can facilitate or even preclude the subsequent acquisition of
+   other traits, and that an individual may transmit different trait
+   variants during different stages of its life. The fact that culture is
+   acquired sequentially does not exclude the importance of inborn
+   predispositions or abilities in the acquisition of culture.
+
+(c) Transmission
+
+(i) Mechanism
+
+   In contrast to the transmission of physical copies of instructions in
+   biological systems, in cultural systems transmission happens indirectly
+   through learning processes based on observations of other individuals’
+   behaviours, or their products (including communication, objects, or
+   alterations to the environment), such that the observer can form its
+   own mental representation of a cultural trait. This difference between
+   cultural and biological evolution is widely recognized [15,17,24] and
+   consistent with general findings in developmental psychology and
+   educational science (e.g. [48,49]). Nevertheless, the concrete
+   transmission process and its consequences for the evolutionary dynamics
+   are not fully understood and are subject to an ongoing debate (see
+   §3b). At its centre is the role of the relative fidelity of
+   transmission in cultural dynamics. Two main schools of thought have
+   emerged. The ‘California’ school sees accurate transmission as the main
+   cause for cultural stability [15,17,53,54], whereas the ‘Paris’ school
+   highlights the importance of constant reconstruction through biased
+   transformation towards cultural attractors [55–57]. Recent attempts to
+   unify these two schools rely on differentiating between cultural traits
+   that can be faithfully copied, that is, actions, and those that cannot,
+   for example beliefs and ideas [47].
+
+   It is also important to note the importance of language in the
+   transmission of cultural traits [21,58–60]. It allows for the
+   transmission of complex data by replacing direct observations,
+   delivering insightful synthetic information, and providing effective
+   feedback [61]. There are likely many cultural traits that require
+   language communication to be successfully transmitted, for example,
+   cognitive abilities such as counting, reading and mental arithmetic.
+
+(ii) Pathways
+
+   Given that mental representations of cultural traits are transmitted
+   through observation and recreation, there is no fixed transmission
+   direction. Compared to biological evolution, where genes are
+   transmitted from parents to offspring, transmission in cultural
+   evolution can occur between any individuals. The diversity of possible
+   transmission pathways, which in themselves are subject to cultural
+   evolution, leads to interesting complex patterns [62].
+
+(iii) Receiver dependence
+
+   Another interesting and increasingly recognized difference of
+   transmission in biological and cultural evolution is that genetic
+   traits are supplied all at once, without the participation of the new
+   individual. By contrast, in the transmission of cultural traits, not
+   only the sender (teacher, model or demonstrator) but also the receiver
+   (student or observer) can actively affect the transmission dynamics and
+   thus evolutionary dynamics [16,17]. For instance, the observer may be
+   selective about what and from whom to learn [16,17,63]. Such biases or
+   social learning strategies [64,65] may be inborn [16,17] or stem from
+   previously acquired cultural traits [22,66].
+
+(d) Sorting processes
+
+   Sorting processes are processes that lead to a non-random change in the
+   frequency of traits. In biological evolution, the main sorting process
+   is natural selection. How it operates is usually clear and well
+   understood, and it brings a general understanding of biological
+   adaptations. In cultural evolution, the situation is considerably more
+   complex, which is in part due to the active role each individual takes
+   in acquiring, exhibiting and transmitting cultural traits [17]. The
+   most explored sorting mechanism that involves the individual in this
+   way, operates in the receiver during social learning, in which content,
+   model or conformity biases favour the acquisition of certain traits
+   while rejecting others [67]. A trait may also be favoured or rejected
+   subsequently when individuals get experiences of using the trait ([66],
+   this issue). Sorting will also occur if individuals selectively display
+   traits to potential learners, and when the generation of new trait
+   variants is incentive-driven. Individuals may also exercise social
+   control by, for instance, trying to influence what others do, or
+   communicate by selectively punishing or rewarding such acts [68–70]. In
+   addition, there is natural selection in cultural evolution, since
+   cultural traits can influence survival and reproduction of their
+   carriers and so affect trait frequencies [15,17]. For instance, a habit
+   that increases survival may spread because it will make carriers of the
+   trait more common among demonstrators. For the same reason, a habit
+   that decreases survival will gradually disappear.
+
+   In summary, sorting is possibly the most complex part of the
+   evolutionary dynamics of cultural evolution, as it involves a number of
+   different processes, and several of these occur in combination with
+   other key processes such as transmission and generation of new culture.
+
+(e) Generation of variation
+
+   The continuous generation of variation is a central aspect of
+   evolution. A generally recognized difference between biological and
+   cultural evolution is that genetic variation is random and unrelated to
+   any need or purpose. By contrast, in cultural evolution the generation
+   of new variants can also be incentive-driven. This means that it is
+   directed towards solving a concrete problem or reaching a certain goal.
+   Important mechanisms include cognitive processing [71], deliberate
+   experimentation [72–74], as well as trial-and-error and associative
+   learning processes [71,75]. However, cultural variants may also occur
+   because of mistakes, transmission errors, by-products of trying to
+   solve other problems, or other circumstances that produce results that
+   the individuals may learn from and subsequently transmit to other
+   individuals [72]. Note that successful learning from unintended or
+   unexpected outcomes is not free from incentive-driven aspects as it
+   requires that the individual recognizes how such observations can be
+   used.
+
+3.  Implications and challenges for cultural evolution theory
+
+   The differences that we discussed in the previous section can have
+   dramatic effects on the evolutionary dynamics. In this part, we will
+   discuss a selection of these that we think are particularly important
+   to the further development of cultural evolution theory.
+
+(a) Potential for fast evolution and complex culture
+
+   Cultural evolution can proceed much faster than biological evolution,
+   both in rate of change and in terms of trait complexity. This has been
+   pointed out previously, and several reasons are generally given for why
+   this is the case [1,11,15,17,67,76,77]. Firstly, acquisition and
+   transmission of cultural traits occur along many pathways and
+   throughout an individual’s entire lifetime. Secondly, novel or modified
+   traits can be transmitted directly to other individuals (which is why
+   cultural evolution is sometimes described as Lamarckian rather than
+   Darwinian). Thirdly, the generation of novel variants can be
+   incentive-driven. This may have a dramatic effect on the rate of
+   evolution, since cultural traits will be much more likely to be
+   productive once they ‘enter’ the real world. And, finally, language can
+   be an important tool for efficient cultural transmission. It is
+   necessary for transmitting abstract ideas, beliefs and values, and is a
+   tool for the transmission of complex cultural traits, such as opaque
+   processes, inaccessible observations, practices, algorithms and other
+   mental skills.
+
+   A full understanding of evolutionary rates and complex culture also
+   requires a detailed understanding of cumulative cultural evolution.
+   Cumulative culture is not only the accumulation of traits but also the
+   innovation of new traits by combining or recombining existing traits
+   [78–80]. This can result in a gradual increase in complexity, as
+   combinations can be recombined continuously, and may offer a better
+   theory of how cultural complexity and cultural systems emerge (see
+   §3d). Also, it could explain, through the power of combinatorics, how
+   cultural evolution can generate a never-ending stream of new variation.
+
+   For a better understanding of the role of language and recombination in
+   cumulative cultural evolution, future research needs to address several
+   important questions, such as:
+     * i.
+       What are the combinatorial properties that allow a seemingly
+       unbounded generation of diversity and complexity in human
+       cumulative cultural evolution?
+     * ii.
+       What is the role of language, symbolism, and cognitive abilities in
+       cumulative cultural evolution?
+     * iii.
+       Can all types of cultural change be understood in evolutionary
+       terms (listed in table 1), or do we need additional theoretical
+       frameworks?
+
+(b) Developmental processes are directly involved in acquisition and
+transmission
+
+   Development here refers broadly to the processes that shape and modify
+   the individual during its lifetime. In biological evolution,
+   development is usually separated from the processes that transmit
+   genetic traits and its evolution is studied in life-history theory,
+   which emphasizes the role of trade-offs [81]. By contrast, in cultural
+   evolution, development and transmission processes tend to be more
+   intertwined, as they occur on the same time scale. On the one hand, an
+   individual’s experience is shaped by sequential encounters with its
+   surrounding cultural environment. On the other hand, the individual
+   itself contributes to the makeup of that cultural environment.
+
+   Relevant progress in our understanding of developmental processes in
+   humans has been made in a variety of disciplines, such as developmental
+   psychology, educational science and linguistics [48,49]. Several
+   general findings from empirical research in these fields are relevant
+   to cultural evolution. First and foremost, development is generally
+   incremental and time-consuming, starting with learning simple features
+   and elements that are later integrated into a functional practical or
+   mental skill. This is obvious for advanced skills like mental
+   arithmetic [82–84], and reading and writing, but also required for more
+   basic skills (e.g. [82,85,86]).
+
+   A second key finding is that traits are typically acquired through a
+   combination of social interactions and individual efforts
+   [48,49,87,88]. Thus, social and individual learning are operating
+   together rather than being alternative strategies. Furthermore,
+   research on development has also clearly established that there is an
+   extensive behavioural and mental flexibility in humans. This allows
+   humans to acquire a large range of skills, many of recent origin and
+   not part of our prehistory, like reading and writing, agricultural
+   practices, playing chess, and computer programming. Performance is
+   generally strongly correlated to the amount of training, for both
+   domain-specific and domain-general skills [89]. Thus, psychology and
+   educational science suggest that when we see faithful copying over
+   generations, this depends on substantial learning efforts among
+   individuals. The situation is complicated by findings showing that
+   learning and memory abilities themselves respond to training, and are
+   thus partly cultural and subject to cultural evolution [48,89,90].
+
+   Previous theoretical models of cultural evolution typically use
+   simplified assumptions about individual development and rely on simple
+   copying mechanisms and strategies for social learning [91–94], or treat
+   social and individual learning as opposing alternatives [17,95], whose
+   evolution is generally studied in the absence of a
+   learning–reproduction trade-off (see [96] for how classical results are
+   critically changed once the learning–reproduction trade-off is taken
+   into account).
+
+   It is thus becoming increasingly clear that future models should
+   incorporate developmental processes, especially for traits that cannot
+   be acquired in a single learning episode (because they are combinations
+   of simpler traits or because they require individual improvement).
+   These models should further be embedded into a proper life-history
+   context so as to make all traits pertaining to learning co-evolutionary
+   [97].
+
+   Challenges and questions for future research:
+     * i.
+       How can developmental psychology and related fields inform cultural
+       evolution research? For example, in the debate between the
+       ‘California’ and the ‘Paris’ school on why cultural learning can be
+       faithful to its source and maintained over generations, while
+       single transmission events are error-prone [53,54,98,99],
+       developmental psychology might explain faithful transmission in
+       terms of sequential learning including efficient corrective
+       feedback loops.
+     * ii.
+       What is the scope of cultural evolution in terms of mental
+       abilities? To what extent are mental abilities and psychological
+       mechanisms learnt from or influenced by the cultural environment
+       [100,101], and thus subject to cultural evolution themselves [30]?
+       Future models that combine developmental processes and cultural
+       evolution may help to distinguish the roles of inborn factors,
+       acquired traits and individual experience.
+     * iii.
+       How does learning depend on an individual’s lifetime and how has it
+       co-evolved with life history?
+
+(c) Different evolutionary outcomes and cultural fitness
+
+   In biological evolution, the fate of a trait can be understood by
+   considering the average reproductive success of all carriers of that
+   trait [102,103]. It is common to use optimization and game theoretic
+   approaches to study evolutionary endpoints (i.e. adaptations). By
+   contrast, in cultural evolution there is no generally accepted
+   formulation of cultural fitness [104] as the relationship between the
+   individual and its traits is more complicated. Here, transmission is
+   not tied to biological reproduction, can occur between arbitrary
+   individuals, and the individual is not fixed with respect to the
+   cultural traits it possesses and exhibits to others during its life.
+   These differences have implications both for the outcome of evolution
+   and for how cultural evolution should be theoretically explored
+   [11,15,17,52]. In principle, anything that influences transmission,
+   retention and use of cultural traits needs to be considered.
+
+   For instance, traits that are contagious enough can spread and be
+   maintained in a population even if they reduce the survival and/or
+   biological reproduction of individuals [105–107]. Suppose lifestyle A
+   produces more children than lifestyle B and that parental lifestyles
+   are often transmitted to the children. However, children are also
+   exposed to the alternative lifestyle B, which is more attractive (e.g.
+   because it is easier to learn). This may be driven by a genetic or
+   cultural bias for this lifestyle, and could result in B increasing in
+   frequency compared to A. Figure 1 provides a numerical example. A
+   complete analysis of cultural evolution scenarios of this kind requires
+   exploration of both the evolution of lifestyles and the evolution of
+   preferences for lifestyles [108].
+   An external file that holds a picture, illustration, etc. Object name
+   is rstb20200259f01.jpg
+   Open in a separate window
+   Figure 1.
+
+   A numerical example showing how a lifestyle associated with lower
+   fertility could spread in cultural evolution (see §3c).
+
+   In any human society, we find a range of both material and non-material
+   culture serving the well-being, survival and reproduction of
+   individuals or the group. However, we can also observe phenomena that
+   are more difficult to interpret as adaptive in this way. We spend
+   significant amounts of time learning to play musical instruments and
+   chess. Often, our actions and beliefs do not even promote the goals
+   they are aimed at, like when anti-vaxxers refuse medically motivated
+   vaccinations in order to promote health [109].
+
+   It is quite possible that concepts like adaptation and fitness in
+   cultural evolution will not have equivalent and as straightforward
+   meanings as they do in biological evolution. The complication is that
+   individuals are subject to change during their lives, which can be
+   illustrated by comparing a trait that transmits rather slowly to
+   others, but tends to stay with an individual once it is acquired, with
+   a trait that transmits quickly to other individuals, but is easily
+   abandoned or replaced. The latter trait may be easy to learn, or has
+   some immediate attraction, but is less productive. Which trait spreads
+   can depend on trait content and thus may not be predictable by
+   considering an elementary set of rules of transmission [110].
+
+   It has been suggested that the fitness of cultural traits can be based
+   on just the traits or free-floating memes [104]. While this can be a
+   useful approach for certain questions, a general theory of cultural
+   evolution cannot ignore the individual because of its active roll in
+   acquiring, processing and exhibiting cultural traits [104]. This is one
+   of the reasons that make it so tricky to find a useful concept of units
+   of evolution in cultural evolution (a unit might be the single cultural
+   trait or a set of traits, but also the carrier of a trait, etc.).
+
+   Challenges and questions for future research:
+     * i.
+       Is it possible to provide a general theoretical account for the
+       observed diversity of outcomes of human cultural evolution?
+     * ii.
+       How can we define and recognize cultural adaptations, at what level
+       are they manifested, and how can we use them to identify useful
+       units of cultural evolution?
+     * iii.
+       What could be a useful concept of fitness in cultural evolution,
+       and, if it exists, how can it be used to study cultural evolution?
+
+(d) Trait interactions, cultural systems and evolving evolutionary dynamics
+
+   The facts that individuals acquire traits sequentially and that traits
+   can interact may have important organizing effects. The resulting
+   developmental path dependence (see §3b) can limit which traits an
+   individual acquires, and so promote the evolution of cultural systems
+   [22,55,66,111,112]. For instance, an individual might acquire a belief
+   A about the world, which subsequently facilitates the acquisition of
+   other beliefs that are consistent with A but leads to the rejection of
+   beliefs that are not [113]. If, instead, the individual would first
+   acquire an alternative belief B, then this could trigger the eventual
+   acquisition of an entirely different belief system. Similar reasoning
+   can apply to other categories of traits. In fact, there are many ways
+   in which traits can interact and influence evolution. Traits may or may
+   not operate well together (within or between individuals), they might
+   express preferences towards other traits, and define goals the
+   individual strives for that are better served by certain traits than
+   others. Traits can also be clustered in space (e.g. co-occurrence of
+   traits relevant for fishing near bodies of water) or time (e.g.
+   seasonal occurrence of sets of traits), and may even influence social
+   network structure, and thus lead to exposure to different sets of
+   traits [62]. The fact that culture exists in the form of systems,
+   contexts or structures of interrelated parts, manifested both in
+   individuals and in groups of individuals, is generally recognized in
+   the humanities and social sciences [22]. It is possible that many
+   cultural phenomena can only be understood from an explicit systems
+   perspective.
+
+   Trait interactions could also have even more pronounced effects, and
+   bring about changes to the evolutionary process itself, that is,
+   important aspects of cultural evolution dynamics may themselves be
+   results of cultural evolution rather than determined by genetic factors
+   or external circumstances [22,114,115]. Examples of such changes in
+   biological evolution are migration, mutation and sexual reproduction,
+   which are called modifier traits. These traits have important
+   consequences for the dynamics of biological evolution, but they are
+   also products of that same evolution, thus resulting in
+   counterintuitive feedbacks [116]. All items in table 1 are potentially
+   subject to cultural evolution, and it has been suggested that cultural
+   evolution itself can influence social learning abilities [1], efforts
+   by senders’ and receivers’ willingness to change [114,117], and
+   transmission pathways [62]. Culturally established goals could have a
+   dramatic effect on the outcome of cultural evolution. Acerbi et al.
+   [114] introduced the term regulatory traits for cultural traits that
+   influence the dynamics of the evolutionary process and suggested that
+   their evolution depends on their ability to directly or indirectly
+   influence their own evolution.
+
+   The organizing effects of interactions and feedbacks can also be seen
+   in the broader perspective of evolutionary transitions. These are
+   fundamental modifications to the evolutionary process, caused by
+   evolution itself. Maynard Smith & Szathmáry [21] recognized several
+   properties common to such transitions, which we can also find in human
+   cultural evolution. The first property is that new ways of transmitting
+   information are formed. Humans have invented a series of information
+   technologies, like reading and writing, radio and television, databases
+   and pocket calculators, which can store, as well as communicate or
+   broadcast, cultural traits, and also help us think and make decisions.
+   A second property of transitions is that smaller entities aggregate to
+   form larger ones and that the smaller entities tend to differentiate.
+   Humans form a diversity of societies that are conceivably different
+   from those that existed at the dawn of human culture, with for instance
+   complex political and social organizations, division of labour,
+   individual specializations and long production chains, and organized
+   transmission of cultural traits via institutions like schools (e.g.
+   [5,118–120]).
+
+   Challenges and questions for future research:
+     * i.
+       What new understanding can be gained from a systems approach that
+       cannot be gained from considerations of simpler representations of
+       culture?
+     * ii.
+       How can the evolution of cultural systems be explored
+       theoretically? This requires formal descriptions of cultural
+       systems, an understanding of trait relationships, and evolutionary
+       modelling approaches that take into account that cultural systems
+       exist and operate within and between individuals ([66], this
+       issue).
+     * iii.
+       How do externalized information storage and processing affect
+       cultural evolution?
+
+4.  Concluding remarks
+
+   Studying cultural evolution in an evolutionary framework has come a
+   long way. The development of this research programme has proven
+   invaluable to our understanding of many cultural phenomena. The many
+   differences between cultural and biological evolution, while not
+   invalidating an evolutionary approach, show that there is a rich
+   research field with many potentially interesting avenues for future
+   studies. The way mental representations are stored, recalled,
+   transmitted and modified, and the active role the individual plays in
+   all of these stages, leads to a level of complexity that may even
+   require entirely new analytical and modelling approaches to be fully
+   understood.
+
+   We hope that the collection of ideas we have presented here have
+   highlighted some of the complexity of cultural evolution, which occurs
+   at different organizational levels, along different timelines, between
+   the material and the immaterial, and the biotic and abiotic world.
+   Clearly, a full understanding of culture requires interdisciplinary
+   efforts. Fortunately, cultural evolution research has always been at
+   home in a variety of disciplines. And on closer inspection, much work
+   has been evolutionary at its core, even if the term was not explicitly
+   used.
+
+   The discussions at the Leiden meeting leading to this paper (see
+   Acknowledgements) have emphasized the value of overcoming semantic
+   barriers that exist across disciplines. Despite different historical
+   motivations, perspectives and approaches to cultural evolution
+   research, there are shared ambitions and overlapping questions. We
+   would like to close this essay with three suggestions to strengthen the
+   interdisciplinary approach and to counteract isolation between
+   different schools of thought:
+
+   Focusing on questions relevant to the social sciences and humanities.
+   To strengthen interdisciplinary work, we believe it would be useful to
+   address more of the cultural and social phenomena that are intensively
+   studied within the humanities and the social sciences. Potential
+   examples are tribalism, race and gender issues, knowledge resistance,
+   segregation, social immobility, systems of belief, cooperation, trust
+   and polarization. There has been a tendency to focus on general
+   questions in cultural evolution modelling, such as the emergence,
+   change, transmission and accumulation of cultural traits. By
+   considering more specific phenomena, it should also be possible to
+   generate new concrete and testable hypotheses. Perhaps one of the best
+   examples of a productive interaction between cultural evolutionary
+   theorising and empirical research, blending general and specific
+   theories with in-depth knowledge about the phenomena, can be found in
+   recent developments in language evolution [121].
+
+   Acknowledging existing work in other fields. We also think that it is
+   important to pay more attention to existing thinking and theory within
+   the humanities and the social sciences, and also to make use of the
+   wealth of existing empirical data on human culture. There are two
+   aspects to this. One is that evolutionary thinking is not a novel
+   concept in the humanities and social sciences, as we discussed above.
+   The other is that many theories, including verbal, statistical and
+   mathematical models, are genuinely evolutionary in our sense, without
+   using the term evolution. Thus there are clear overlapping goals with
+   cultural evolutionary research. This applies to both older verbal
+   hypotheses and recent theoretical work. A few examples of the latter
+   include: studies on social learning dynamics in evolutionary game
+   theory in economics [122,123]; the dynamics of knowledge production and
+   acquisition at the aggregate (population) level studied in
+   macroeconomics [124–127]; and models of beliefs of agents studied in
+   sociology [128,129]. Microeconomics has also adopted the cultural
+   evolution framework, as introduced by Cavalli-Sforza and Feldman, and
+   applies it to all sorts of questions [130,131]. An important next step
+   in acknowledging existing research must be synthetic work. It has
+   become increasingly clear that it is almost impossible to embrace all
+   theories of cultural change that exist. There is a real need for
+   synthetic work, to avoid reinvention, and to recognize both general and
+   specific theories about cultural change that deserve to be further
+   explored.
+
+   Connecting disciplines. Finally, we suggest making use of knowledge
+   from and cooperation with a few fields that are rarely mentioned in
+   formal theoretical studies of cultural evolution. Two such fields that
+   we have mentioned throughout this paper are developmental psychology
+   and educational science. Together these fields have gathered important
+   insights into individual development and social learning. Many of the
+   scenarios described, and the interaction with individual learning,
+   differ from assumptions and strategic thinking about social learning
+   common in cultural evolution research. They also offer insight into
+   nature–nurture issues, the scope of cultural evolution, and how mental
+   abilities can be transmitted. Another field of potential interest is
+   artificial intelligence and related fields in cognitive science, which
+   hold many ideas about learning processes and cognitive abilities.
+
+Acknowledgements
+
+   This paper is a summary of discussions at the ‘Foundations of Cultural
+   Evolution’ workshop in Leiden, Netherlands, in 2019, upon which this
+   special issue is based. F.J.W. was one of the organizers. We also thank
+   Pieter van den Berg, Eva Boon and Lucas Molleman for organizing the
+   workshop and inviting us.
+
+Data accessibility
+
+   This article has no additional data.
+
+Authors' contributions
+
+   M.S., F.J. and M.E. wrote the paper, and all authors contributed to
+   discussions and revisions.
+
+Competing interests
+
+   We declare we have no competing interests.
+
+Funding
+
+   M.S. was supported by an ARO grant to Erol Akçay (W911NF-17-1-0017).
+   F.J. and M.E. were supported by grant no. 2015.0005 from the Knut and
+   Alice Wallenberg Foundation.
+
+References
+
+   1. Henrich JP. 2015. The secret of our success. Princeton, NJ:
+   Princeton University Press. [Google Scholar]
+   2. van Schaik CP. 2016. The primate origins of human nature, 1st edn.
+   Hoboken, NJ: Wiley. [Google Scholar]
+   3. Boyd R, Richerson PJ. 1995. Why culture is common, but cultural
+   evolution is rare. Proc. Br. Acad. 88, 77-93. [Google Scholar]
+   4. Darwin C. 1859. The origin of species by means of natural selection
+   (Reprinted by the Modern Library). New York, NY: Random House. [Google
+   Scholar]
+   5. Carneiro RL. 2003. Evolutionism in cultural anthropology: a critical
+   history. Cambridge, MA: Westview Press. [Google Scholar]
+   6. Gintis H. 2007. A framework for the unification of the behavioral
+   sciences. Behav. Brain Sci. 30, 1-16. ( 10.1017/S0140525X07000581)
+   [PubMed] [CrossRef] [Google Scholar]
+   7. Hodgson GM. 2019. Evolutionary economics: its nature and future
+   (Elements in evolutionary economics). Cambridge, UK: Cambridge
+   University Press. [Google Scholar]
+   8. Laland KN, Brown GR.. 2011. Sense and nonsense: evolutionary
+   perspectives on human behaviour, 2nd edn. New York, NY: Oxford
+   University Press. [Google Scholar]
+   9. Munro T. 1963. Evolution in the arts and other theories of culture
+   history. J. Aesthetics Art Criticism 22, 75. [Google Scholar]
+   10. Sanderson SK 1990. Social evolutionism: a critical history (Studies
+   in social discontinuity). Oxford, UK: Blackwell. [Google Scholar]
+   11. Mesoudi A 2011. Cultural evolution: how Darwinian theory can
+   explain human culture and synthesize the social sciences. Chicago, IL:
+   University of Chicago Press. [Google Scholar]
+   12. Fisher R 1930. The genetical theory of natural selection. Oxford,
+   UK: The Clarendon Press. [Google Scholar]
+   13. Wright S. 1931. Evolution in mendelian populations. Genetics 16,
+   97. ( 10.1093/genetics/16.2.97) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   14. Haldane JBS. 1932. The causes of evolution. London, UK: Longmans.
+   [Google Scholar]
+   15. Cavalli-Sforza LL, Feldman MW.. 1981. Cultural transmission and
+   evolution: a quantitative approach (Monographs in population biology
+   16). Princeton, NJ: Princeton University Press. [PubMed] [Google
+   Scholar]
+   16. Lumsden CJ, Wilson EO.. 1981. Genes, mind, and culture: the
+   coevolutionary process. Cambridge, MA: Harvard University Press.
+   [Google Scholar]
+   17. Boyd R, Richerson PJ.. 1985. Culture and the evolutionary process.
+   Chicago, IL: University of Chicago Press. [Google Scholar]
+   18. Campbell DT. 1965. Variation and selective retention in
+   socio-cultural evolution. In Social change in developing areas: a
+   reinterpretation of evolutionary theory (eds HR Barringer, GI
+   Blanksten, RW Mack), pp. 19–49. Cambridge, MA: Schenkman.
+   19. Jablonka E, Lamb MJ. 2014. Evolution in four dimensions, revised
+   edition: genetic, epigenetic, behavioral, and symbolic variation in the
+   history of life. New York, NY: MIT Press. [Google Scholar]
+   20. Lewontin RC. 1970. The units of selection. Annu. Rev. Ecol. Syst.
+   1, 1-18. ( 10.1146/annurev.es.01.110170.000245) [CrossRef] [Google
+   Scholar]
+   21. Maynard Smith J, Szathmáry E. 1995. The major evolutionary
+   transitions. Nature 374, 227-232. ( 10.1038/374227a0) [PubMed]
+   [CrossRef] [Google Scholar]
+   22. Buskell A, Enquist M, Jansson F. 2019. A systems approach to
+   cultural evolution. Palgrave Commun. 5, 131. (
+   10.1057/s41599-019-0343-5) [CrossRef] [Google Scholar]
+   23. Szathmáry E, Maynard Smith J. 1997. From replicators to
+   reproducers: the first major transitions leading to life. J. Theor.
+   Biol. 187, 555-571. ( 10.1006/jtbi.1996.0389) [PubMed] [CrossRef]
+   [Google Scholar]
+   24. Mesoudi A. 2007. A Darwinian theory of cultural evolution can
+   promote an evolutionary synthesis for the social sciences. Biol. Theory
+   2, 263-275. ( 10.1162/biot.2007.2.3.263) [CrossRef] [Google Scholar]
+   25. Mesoudi A. 2017. Pursuing Darwin’s curious parallel: prospects for
+   a science of cultural evolution. Proc. Natl Acad. Sci. USA 114,
+   7853-7860. ( 10.1073/pnas.1620741114) [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   26. Nelson RR. 2007. Universal Darwinism and evolutionary social
+   science. Biol. Phil. 22, 73-94. ( 10.1007/s10539-005-9005-7) [CrossRef]
+   [Google Scholar]
+   27. Creanza N, Kolodny O, Feldman MW. 2017. Cultural evolutionary
+   theory: how culture evolves and why it matters. Proc. Natl Acad. Sci.
+   USA 114, 7782-7789. ( 10.1073/pnas.1620732114) [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   28. Henrich J, McElreath R. 2003. The evolution of cultural evolution.
+   Evol. Anthropol. 12, 123-135. ( 10.1002/evan.10110) [CrossRef] [Google
+   Scholar]
+   29. Acerbi A 2019. Cultural evolution in the digital age. New York, NY:
+   Oxford University Press. [Google Scholar]
+   30. Heyes CM 2018. Cognitive gadgets: the cultural evolution of
+   thinking. Cambridge, MA: The Belknap Press of Harvard University Press.
+   [Google Scholar]
+   31. Laland KN 2017. Darwin’s unfinished symphony: how culture explains
+   the evolution of the human mind. Princeton, NJ: Princeton University
+   Press. [Google Scholar]
+   32. Gelfand MJ, Kashima Y. 2015. Culture: advances in the science of
+   culture and psychology. Curr. Opin. Psychol. 8, 1-7. (
+   10.1016/j.copsyc.2015.12.011) [PubMed] [CrossRef] [Google Scholar]
+   33. Kolodny O, Feldman MW, Creanza N. 2018. Bridging cultural gaps:
+   interdisciplinary studies in human cultural evolution. Phil. Trans. R.
+   Soc. B 373, 20170413. ( 10.1098/rstb.2017.0413) [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   34. Whiten A, Ayala FJ, Feldman MW, Laland KN. 2017. The extension of
+   biology through culture. Proc. Natl Acad. Sci. USA 114, 7775-7781. (
+   10.1073/pnas.1707630114) [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   35. Whiten A, Hinde RA, Laland KN, Stringer CB. 2011. Culture evolves.
+   Phil. Trans. R. Soc. B 366, 938-948. ( 10.1098/rstb.2010.0372) [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   36. Weng L, Menczer F, Ahn Y-Y. 2013. Virality prediction and community
+   structure in social networks. Sci. Rep. 3, 1-6. ( 10.1038/srep02522)
+   [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+   37. Centola D. 2010. The spread of behavior in an online social network
+   experiment. Science 329, 1194-1197. ( 10.1126/science.1185231) [PubMed]
+   [CrossRef] [Google Scholar]
+   38. Aplin LM. 2019. Culture and cultural evolution in birds: a review
+   of the evidence. Anim. Behav. 147, 179-187. (
+   10.1016/j.anbehav.2018.05.001) [CrossRef] [Google Scholar]
+   39. Hoppitt W, Laland KN. 2013. Social learning: an introduction to
+   mechanisms, methods, and models. Princeton, NJ: Princeton University
+   Press. [Google Scholar]
+   40. Krützen M, Mann J, Heithaus MR, Connor RC, Bejder L, Sherwin WB.
+   2005. Cultural transmission of tool use in bottlenose dolphins. Proc.
+   Natl Acad. Sci. USA 102, 8939-8943. ( 10.1073/pnas.0500232102) [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   41. Leadbeater E, Chittka L. 2007. Social learning in insects—from
+   miniature brains to consensus building. Curr. Biol. 17, R703-R713. (
+   10.1016/j.cub.2007.06.012) [PubMed] [CrossRef] [Google Scholar]
+   42. Rendell L, Whitehead H. 2001. Culture in whales and dolphins.
+   Behav. Brain Sci. 24, 309-382. ( 10.1017/S0140525X0100396X) [PubMed]
+   [CrossRef] [Google Scholar]
+   43. Whiten A. 2019. Cultural evolution in animals. Annu. Rev. Ecol.
+   Evol. Syst. 50, 1-22. ( 10.1146/annurev-ecolsys-110218-025040)
+   [CrossRef] [Google Scholar]
+   44. Atkinson QD, Gray RD. 2005. Curious parallels and curious
+   connections—phylogenetic thinking in biology and historical
+   linguistics. Syst. Biol. 54, 513-526. ( 10.1080/10635150590950317)
+   [PubMed] [CrossRef] [Google Scholar]
+   45. Mace R, Holden C. 2005. A phylogenetic approach to cultural
+   evolution. Trends Ecol. Evol. 20, 116-121. (
+   10.1016/j.tree.2004.12.002) [PubMed] [CrossRef] [Google Scholar]
+   46. Gogarten JP, Townsend JP. 2005. Horizontal gene transfer, genome
+   innovation and evolution. Nat. Rev. Microbiol. 3, 679-687. (
+   10.1038/nrmicro1204) [PubMed] [CrossRef] [Google Scholar]
+   47. Tamariz M. 2019. Replication and emergence in cultural
+   transmission. Phys. Life Rev. 30, 47-71. ( 10.1016/j.plrev.2019.04.004)
+   [PubMed] [CrossRef] [Google Scholar]
+   48. Bjorklund DF, Causey KB.. 2017. Children’s thinking: cognitive
+   development and individual differences. Thousand Oaks, CA: Sage
+   Publications. [Google Scholar]
+   49. Hattie J. 2008. Visible learning: a synthesis of over 800
+   meta-analyses relating to achievement, 1st edn. New York, NY: Taylor
+   and Francis. [Google Scholar]
+   50. Lew-Levy S, Reckin R, Lavi N, Cristóbal-Azkarate J, Ellis-Davies K.
+   2017. How do hunter-gatherer children learn subsistence skills?: a
+   meta-ethnographic review. Hum. Nat. 28, 367-394. (
+   10.1007/s12110-017-9302-2) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   51. Enquist M, Strimling P, Eriksson K, Laland K, Sjöstrand J. 2010.
+   One cultural parent makes no culture. Anim. Behav. 79, 1353-1362. (
+   10.1016/j.anbehav.2010.03.009) [CrossRef] [Google Scholar]
+   52. Strimling P, Enquist M, Eriksson K. 2009. Repeated learning makes
+   cultural evolution unique. Proc. Natl Acad. Sci. USA 106, 13 870-13
+   874. ( 10.1073/pnas.0903180106) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   53. Acerbi A, Mesoudi A. 2015. If we are all cultural Darwinians what’s
+   the fuss about? Clarifying recent disagreements in the field of
+   cultural evolution. Biol. Phil. 30, 481-503. (
+   10.1007/s10539-015-9490-2) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   54. Henrich J, Boyd R. 2002. On modeling cognition and culture: why
+   cultural evolution does not require replication of representations. J.
+   Cogn. Cult. 2, 87-112. ( 10.1163/156853702320281836) [CrossRef] [Google
+   Scholar]
+   55. Claidière N, Scott-Phillips TC, Sperber D. 2014. How Darwinian is
+   cultural evolution? Phil. Trans. R Soc. B 369, 20130368. (
+   10.1098/rstb.2013.0368) [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   56. Morin O. 2016. Reasons to be fussy about cultural evolution. Biol.
+   Phil. 31, 447-458. ( 10.1007/s10539-016-9516-4) [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   57. Sperber D 1996. Explaining culture: a naturalistic approach.
+   Oxford, UK: Blackwell. [Google Scholar]
+   58. Dean LG, Kendal RL, Schapiro SJ, Thierry B, Laland KN. 2012.
+   Identification of the social and cognitive processes underlying human
+   cumulative culture. Science 335, 1114-1118. ( 10.1126/science.1213969)
+   [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+   59. Pinker S 2015. Language, cognition, and human nature: selected
+   articles. Oxford, UK: Oxford University Press. [Google Scholar]
+   60. Smith K, Kirby S. 2008. Cultural evolution: implications for
+   understanding the human language faculty and its evolution. Phil.
+   Trans. R. Soc. B 363, 3591-3603. ( 10.1098/rstb.2008.0145) [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   61. Morgan TJH et al. 2015. Experimental evidence for the co-evolution
+   of hominin tool-making teaching and language. Nat. Commun. 6, 6029. (
+   10.1038/ncomms7029) [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   62. Smolla M, Akçay E. 2019. Cultural selection shapes network
+   structure. Sci. Adv. 5, eaaw0609. ( 10.1126/sciadv.aaw0609) [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   63. Heyes C. 2016. Who knows? Metacognitive social learning strategies.
+   Trends Cogn. Sci. 20, 204-213. ( 10.1016/j.tics.2015.12.007) [PubMed]
+   [CrossRef] [Google Scholar]
+   64. Kendal RL, Coolen I, van Bergen Y, Laland KN. 2005. Trade-offs in
+   the adaptive use of social and asocial learning. Adv. Study Behav. 35,
+   333-379. ( 10.1016/S0065-3454(05)35008-X) [CrossRef] [Google Scholar]
+   65. Laland KN. 2004. Social learning strategies. Anim. Learn. Behav.
+   32, 4-14. ( 10.3758/BF03196002) [PubMed] [CrossRef] [Google Scholar]
+   66. Jansson F, Aguilar E, Acerbi A, Enquist M. 2021. Modelling cultural
+   systems and selective filters. Phil. Trans. R. Soc. B 376, 20200045. (
+   10.1098/rstb.2020.0045) [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   67. Richerson PJ, Boyd R. 2005. Not by genes alone: how culture
+   transformed human evolution, 3rd edn. Chicago, IL: University of
+   Chicago Press. [Google Scholar]
+   68. Fehr E, Gächter S. 2002. Altruistic punishment in humans. Nature
+   415, 137-140. ( 10.1038/415137a) [PubMed] [CrossRef] [Google Scholar]
+   69. Ostrom E, Walker J, Gardner R. 1992. Covenants with and without a
+   sword: self-governance is possible. Am. Political Sci. Rev. 86,
+   404-417. ( 10.2307/1964229) [CrossRef] [Google Scholar]
+   70. Yamagishi T. 1986. The provision of a sanctioning system as a
+   public good. J. Pers. Soc. Psychol. 51, 110-116. (
+   10.1037/0022-3514.51.1.110) [CrossRef] [Google Scholar]
+   71. Kahneman D 2011. Thinking, fast and slow, 1st edn. New York, NY:
+   Farrar, Straus and Giroux. [Google Scholar]
+   72. Basalla G 1988. The evolution of technology. Cambridge, UK:
+   Cambridge University Press. [Google Scholar]
+   73. Mesoudi A. 2008. Foresight in cultural evolution. Biol. Phil. 23,
+   243-255. ( 10.1007/s10539-007-9097-3) [CrossRef] [Google Scholar]
+   74. Simonton DK. 1995. Foresight in insight? A Darwinian answer. In The
+   nature of insight (eds RJ Sternberg, JE Davidson), pp. 465–494. New
+   York, NY: MIT Press.
+   75. Öhman A, Lewis M, Haviland-Jones JM. 2000. Fear and anxiety:
+   evolutionary, cognitive, and clinical perspectives. In Handbook of
+   emotions (eds M Lewis, JM Haviland-Jones), pp. 573–593. New York, NY:
+   The Guilford Press.
+   76. Perreault C, Moya C, Boyd R. 2012. A Bayesian approach to the
+   evolution of social learning. Evol. Hum. Behav. 33, 449-459. (
+   10.1016/j.evolhumbehav.2011.12.007) [CrossRef] [Google Scholar]
+   77. Shennan S 2002. Genes, memes, and human history: Darwinian
+   archaeology and cultural evolution. London, UK: Thames & Hudson.
+   [Google Scholar]
+   78. Enquist M, Ghirlanda S, Eriksson K. 2011. Modelling the evolution
+   and diversity of cumulative culture. Phil. Trans. R. Soc. B 366,
+   412-423. ( 10.1098/rstb.2010.0132) [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   79. Kolodny O, Creanza N, Feldman MW. 2015. Evolution in leaps: the
+   punctuated accumulation and loss of cultural innovations. Proc. Natl
+   Acad. Sci. USA 112, E6762-E6769. ( 10.1073/pnas.1520492112) [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   80. Lewis HM, Laland KN. 2012. Transmission fidelity is the key to the
+   build-up of cumulative culture. Phil. Trans. R. Soc. B 367, 2171-2180.
+   ( 10.1098/rstb.2012.0119) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   81. Stearns SC 1992. The evolution of life histories. New York, NY:
+   Oxford University Press. [Google Scholar]
+   82. Carey S 2011. The origin of concepts. New York, NY: Oxford
+   University Press. [Google Scholar]
+   83. Dehaene S. 2009. Origins of mathematical intuitions: the case of
+   arithmetic. Ann. NY Acad. Sci. 1156, 232-259. (
+   10.1111/j.1749-6632.2009.04469.x) [PubMed] [CrossRef] [Google Scholar]
+   84. Wynn K. 1992. Children’s acquisition of the number words and the
+   counting system. Cognit. Psychol. 24, 220-251. (
+   10.1016/0010-0285(92)90008-P) [CrossRef] [Google Scholar]
+   85. Friedman SL, Scholnick EK. 2014. The developmental psychology of
+   planning: why, how, and when do we plan? Hoboken, NJ: Taylor and
+   Francis. [Google Scholar]
+   86. Nelson K, Gruendel J. 1981. Generalized event representations:
+   basic building blocks of cognitive development. In Advances in
+   Developmental Psychology vol. 1 (eds ME Lamb, AL Brown), pp. 131–158.
+   Hillsdale, NJ: Erlbaum.
+   87. Nelson K. 1999. Language in cognitive development: emergence of the
+   mediated mind. Cambridge, UK: Cambridge University Press. [Google
+   Scholar]
+   88. Vygotsky LS. 1978. Mind in society: the development of higher
+   psychological processes. Cambridge, MA: Harvard University Press.
+   [Google Scholar]
+   89. Ericsson KA, Charness N, Feltovich PJ, Hoffman RR eds. 2006. The
+   Cambridge handbook of expertise and expert performance. Cambridge, UK:
+   Cambridge University Press. [Google Scholar]
+   90. Gobet F, Charness N. 2018. Expertise in chess. In The Cambridge
+   handbook of expertise and expert performance (eds KA Ericsson, RR
+   Hoffman, A Kozbelt, AM Williams), 2nd edn, pp. 597–615. Cambridge, UK:
+   Cambridge University Press.
+   91. Enquist M, Eriksson K, Ghirlanda S. 2007. Critical social learning:
+   a solution to Rogers’s paradox of nonadaptive culture. Am. Anthropol.
+   109, 727-734. ( 10.1525/aa.2007.109.4.727) [CrossRef] [Google Scholar]
+   92. Rendell L, et al.. 2010. Why copy others? Insights from the social
+   learning strategies tournament. Science 328, 208-213. (
+   10.1126/science.1184719) [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   93. Rendell L, Fogarty L, Laland KN. 2010. Rogers’ paradox recast and
+   resolved: population structure and the evolution of social learning
+   strategies. Evol. Int. J. Org. Evol. 64, 534-548. (
+   10.1111/j.1558-5646.2009.00817.x) [PubMed] [CrossRef] [Google Scholar]
+   94. Smolla M, Gilman RT, Galla T, Shultz S. 2015. Competition for
+   resources can explain patterns of social and individual learning in
+   nature. Proc. R. Soc. B 282, 20151405. ( 10.1098/rspb.2015.1405) [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   95. Rogers AR. 1988. Does biology constrain culture. Am. Anthropol. 90,
+   819-831. ( 10.1525/aa.1988.90.4.02a00030) [CrossRef] [Google Scholar]
+   96. Wakano JY, Miura C. 2014. Trade-off between learning and
+   exploitation: the pareto-optimal versus evolutionarily stable learning
+   schedule in cumulative cultural evolution. Theor. Popul. Biol. 91,
+   37-43. ( 10.1016/j.tpb.2013.09.004) [PubMed] [CrossRef] [Google
+   Scholar]
+   97. Kaplan H, Hill K, Lancaster J, Hurtado AM. 2000. A theory of human
+   life history evolution: diet, intelligence, and longevity. Evol.
+   Anthropol. 9, 30. (
+   10.1002/1520-6505(2000)9:4<156::AID-EVAN5>3.0.CO;2-7) [CrossRef]
+   [Google Scholar]
+   98. Buskell A. 2017. What are cultural attractors? Biol. Phil. 32,
+   377-394. ( 10.1007/s10539-017-9570-6) [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   99. Sperber D, Hirschfeld LA. 2004. The cognitive foundations of
+   cultural stability and diversity. Trends Cogn. Sci. 8, 40-46. (
+   10.1016/j.tics.2003.11.002) [PubMed] [CrossRef] [Google Scholar]
+   100. Elman JL, Bates EA, Johnson MH, Karmiloff-Smith A, Plunkett K,
+   Parisi D. 1998. Rethinking innateness: a connectionist perspective on
+   development, vol. 10. New York, NY: MIT Press. [Google Scholar]
+   101. Karmiloff-Smith BA. 1994. Beyond modularity: a developmental
+   perspective on cognitive science. Int. J. Lang. Commun. Disord. 29,
+   95-105. ( 10.3109/13682829409041485) [CrossRef] [Google Scholar]
+   102. Haig D. 2012. The strategic gene. Biol. Phil. 27, 461-479. (
+   10.1007/s10539-012-9315-5) [CrossRef] [Google Scholar]
+   103. Hamilton WD. 1963. The evolution of altruistic behavior. Am. Nat.
+   97, 354-356. ( 10.1086/497114) [CrossRef] [Google Scholar]
+   104. Ramsey G, De Block A. 2017. Is cultural fitness hopelessly
+   confused? Br. J. Phil. Sci. 68, 305-328. ( 10.1093/bjps/axv047)
+   [CrossRef] [Google Scholar]
+   105. Anderton DL, Tsuya NO, Bean LL, Mineau GP. 1987. Intergenerational
+   transmission of relative fertility and life course patterns. Demography
+   24, 467. ( 10.2307/2061386) [PubMed] [CrossRef] [Google Scholar]
+   106. Boyd R, Richerson PJ. 1976. A simple dual inheritance model of the
+   conflict between social and biological evolution. Zygon 11, 254-262. (
+   10.1111/j.1467-9744.1976.tb00285.x) [CrossRef] [Google Scholar]
+   107. Campbell DT. 1975. On the conflicts between biological and social
+   evolution and between psychology and moral tradition. Am. Psychol. 30,
+   1103-1126. ( 10.1037/0003-066X.30.12.1103) [PubMed] [CrossRef] [Google
+   Scholar]
+   108. Kolk M, Cownden D, Enquist M. 2014. Correlations in fertility
+   across generations: can low fertility persist? Proc. R. Soc. B 281,
+   20132561. ( 10.1098/rspb.2013.2561) [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   109. Dubé E, Laberge C, Guay M, Bramadat P, Roy R, Bettinger JA. 2013.
+   Vaccine hesitancy: an overview. Hum. Vaccines Immunotherapeutics 9,
+   1763-1773. ( 10.4161/hv.24657) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   110. Claidière N, André J-B. 2012. The transmission of genes and
+   culture: a questionable analogy. Evol. Biol. 39, 12-24. (
+   10.1007/s11692-011-9141-8) [CrossRef] [Google Scholar]
+   111. Goldberg A, Stein SK. 2018. Beyond social contagion: associative
+   diffusion and the emergence of cultural variation. Am. Soc. Rev. 83,
+   897-932. ( 10.1177/0003122418797576) [CrossRef] [Google Scholar]
+   112. Yeh DJ, Fogarty L, Kandler A. 2019. Cultural linkage: the
+   influence of package transmission on cultural dynamics. Proc. R. Soc. B
+   286, 20191951. ( 10.1098/rspb.2019.1951) [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   113. Festinger L 1957. A theory of cognitive dissonance, vol. 2.
+   Stanford, CA: Stanford University Press. [Google Scholar]
+   114. Acerbi A, Ghirlanda S, Enquist M. 2014. Regulatory traits:
+   cultural influences on cultural evolution. In Evolution, complexity and
+   artificial life (eds S Cagnoni, M Mirolli, Villani), pp. 135–147.
+   Berlin, Heidelberg: Springer.
+   115. Kolodny O, Creanza N, Feldman MW. 2016. Game-changing innovations:
+   how culture can change the parameters of its own evolution and induce
+   abrupt cultural shifts. PLoS Comput. Biol. 12, e1005302. (
+   10.1371/journal.pcbi.1005302) [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   116. Altenberg L, Feldman MW. 1987. Selection, generalized transmission
+   and the evolution of modifier genes. I. The reduction principle.
+   Genetics 117, 559-572. ( 10.1093/genetics/117.3.559) [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   117. Ghirlanda S, Enquist M, Nakamaru M. 2006. Cultural evolution
+   develops its own rules. Curr. Anthropol. 47, 1027-1034. (
+   10.1086/508696) [CrossRef] [Google Scholar]
+   118. Richerson P et al. 2016. Cultural group selection plays an
+   essential role in explaining human cooperation: a sketch of the
+   evidence. Behav. Brain Sci. 39, e30. ( 10.1017/S0140525X1400106X)
+   [PubMed] [CrossRef] [Google Scholar]
+   119. Scarre C (ed). 2005. The human past: world prehistory & the
+   development of human societies. London, UK: Thames & Hudson. [Google
+   Scholar]
+   120. Turchin P. 2016. Ultrasociety: how 10.000 years of war made humans
+   the greatest cooperators on earth. Chaplin, CT: Beresta Books. [Google
+   Scholar]
+   121. Croft W. 2000. Explaining language change: an evolutionary
+   approach. Harlow, UK: Longman. [Google Scholar]
+   122. Sandholm WH. 2011. Population games and evolutionary dynamics
+   (Economic learning and social evolution). Cambridge, MA: MIT Press.
+   [Google Scholar]
+   123. Schlag KH. 1998. Why imitate, and if so, how? A boundedly rational
+   approach to multi-armed bandits. J. Econ. Theory 78, 130-156. (
+   10.1006/jeth.1997.2347) [CrossRef] [Google Scholar]
+   124. Galor O, Weil DN. 2000. Population, technology, and growth: from
+   Malthusian stagnation to the demographic transition and beyond. Am.
+   Econ. Rev. 90, 806-828. ( 10.1257/aer.90.4.806) [CrossRef] [Google
+   Scholar]
+   125. Reiter S. 2012. Knowledge, discovery and growth. In Coordination
+   theory and collaboration technology (eds GM Olson, TW Malone, JB
+   Smith), pp. 193–260. Mahwah, NJ: Lawrence Erlbaum Associates.
+   126. Romer PM. 1990. Endogenous technological change. J. Political
+   Econ. 98, S71-S102. ( 10.1086/261725) [CrossRef] [Google Scholar]
+   127. Romer PM. 1994. The origins of endogenous growth. J. Econ.
+   Perspect. 8, 3-22. ( 10.1257/jep.8.1.3) [CrossRef] [Google Scholar]
+   128. DeGroot MH. 1974. Reaching a consensus. J. Am. Stat. Assoc. 69,
+   118-121. ( 10.1080/01621459.1974.10480137) [CrossRef] [Google Scholar]
+   129. Friedkin NE, Proskurnikov AV, Tempo R, Parsegov SE. 2016. Network
+   science on belief system dynamics under logic constraints. Science 354,
+   321-326. ( 10.1126/science.aag2624) [PubMed] [CrossRef] [Google
+   Scholar]
+   130. Bisin A, Verdier T. 2000. A model of cultural transmission, voting
+   and political ideology. Eur. J. Political Econ. 16, 5-29. (
+   10.1016/S0176-2680(99)00045-2) [CrossRef] [Google Scholar]
+   131. Bisin A, Verdier T. 2001. The economics of cultural transmission
+   and the dynamics of preferences. J. Econ. Theory 97, 298-319. (
+   10.1006/jeth.2000.2678) [CrossRef] [Google Scholar]
+     __________________________________________________________________
+
+   Articles from Philosophical Transactions of the Royal Society B:
+   Biological Sciences are provided here courtesy of The Royal Society
+     __________________________________________________________________
+
+Other Formats
+
+     * PubReader
+     * PDF (441K)
+
+Actions
+
+     * (BUTTON) Cite
+     *
+
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
+
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
+
+        Share
+
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
+
+   (BUTTON) [x]
+   Cite
+   (BUTTON) Copy Download .nbib .nbib
+   Format: [NLM]
+
+   Follow NCBI
+
+   Connect with NLM
      *
      *
      *
 
-   Last century, when things were a whole lot worse for gay people than
-   they are today, there was a widely held notion that human homosexual
-   behaviour was a choice, and that a homosexual person could change their
-   ways and become heterosexual. For this reason, the occasional report of
-   a “gay” gene was welcomed by many progressive people. The existence of
-   such genes would show that homosexuality was not a choice but an
-   inevitable consequence of development and genetics. Indeed, gay genes
-   were perhaps the only example where many left-leaning people heartily
-   embraced genetic determinism.
+   National Library of Medicine
+   8600 Rockville Pike
+   Bethesda, MD 20894
 
-   Awkwardly, like cold fusion, reports of genes that “cause” human
-   homosexuality (and many other human behaviours) have failed to stand up
-   to scrutiny – there is no “gay gene” in the sense that no one has
-   identified genetic markers or genes that reliably predict sexual
-   orientation in humans. Moreover, since homosexuality would generally be
-   reckoned to reduce reproductive output of an individual, an allele (a
-   gene variant) that directly causes homosexuality is unlikely to spread
-   in a population.
+   Web Policies
+   FOIA
+   HHS Vulnerability Disclosure
 
-     Epigenetic inheritance remains a tantalising possibility
-
-   Nonetheless, human homosexuality in both sexes is widespread, as it is
-   across the animal kingdom. One study estimated that 3.2% of the
-   Australian human population identifies as gay or lesbian, a frequency
-   that is typical across the world. Despite the lack of genetic markers
-   that are predictive of human homosexuality, the trait is highly
-   heritable in the sense that siblings are more similar in their sexual
-   orientation than expected by chance. However, the level of concordance
-   between identical twins is surprisingly low.
-
-   Here’s an anecdotal example. I once had a friend who was the president
-   of Gay Liberation in Victoria as a young man during the 1970s. “Fred”,
-   now deceased, had a prominent scar on his forehead, a legacy of being
-   beaten up in a country town where he had been invited to speak about
-   his cause. (The burghers of the town were waiting to pick him up at the
-   station, with evil intent.) Yet Fred’s identical twin was not gay. So
-   much for genetic determinism. If homosexuality was solely genetically
-   determined, identical twins should have identical sexual orientation.
-
-   The widespread occurrence of homosexuality in humans and other animals,
-   together with its high heritability but unpredictable genetics and lack
-   of genetic markers, is a significant biological puzzle. There are three
-   leading hypotheses for the common existence of homosexuality in human
-   populations, one based on kin selection, one on sexually antagonistic
-   alleles, and one on epigenetic inheritance.
-
-   Briefly, the kin selection idea is that a gene that promotes homosexual
-   behaviour can spread in a population if homosexual people contribute
-   significantly to the reproduction of close relatives. Although this
-   idea is plausible, the lack of any genetic marker that is reliably
-   associated with sexual orientation is a strong argument against it.
-   Epigenetics, the misunderstood science that could shed new light on
-   ageing
-   Read more
-
-   The “antagonistic alleles” idea is that there are certain genes that
-   are selected in different directions, that is, positively selected in
-   males, but negatively selected in females and vice versa.
-   Hypothetically, because no such gene has been identified, a gene that
-   promotes testosterone production could be at a selective advantage in
-   males if it promoted traits such as muscle development, risk taking,
-   opposite-sex sexual attraction and increased sexual attractiveness to
-   females. But if the same gene were expressed in the same way in females
-   it might be disadvantageous for reciprocal reasons. This means that
-   selection could pull in different directions in males and females,
-   maintaining different gene variants in a population. By that I mean,
-   gene variants that have different selective advantages in males and
-   females can potentially coexist in a population because neither is
-   unambiguously better. If so, sexual orientation may be more fluid than
-   one might expect based on biological sex alone. (Well, “der”, I suspect
-   you are now thinking, but please don’t shoot your even-handed
-   messenger.)
-
-   Finally, we have an epigenetic hypothesis. Epigenetics is the transfer
-   of genetic information between generations, which is not coded in DNA.
-   In most mammals, male sexual development is determined by SrY, a gene
-   on the Y chromosome. SrY codes a protein that interacts with other
-   genes to reverse the default development of an embryo’s gonads from an
-   oestrogen-producing ovary into a testosterone-producing testis. Thus,
-   the short story of mammalian sexual development is that if a foetus is
-   bathed in oestrogen produced by its default ovaries, it develops a
-   female body. But if it is bathed in testosterone from its newly
-   converted testes, it develops as a male.
-
-   Well, that’s a nice cut-and-dried story of genetic determinism, isn’t
-   it?
-
-   I cheerfully taught it in my first-year biology classes for more than
-   two decades, in full knowledge that the story is more complex. For
-   example, if an individual’s testosterone production is defective, a
-   genetic male (based on their possession of a Y chromosome and SrY gene)
-   will develop as a female. Indeed, such individuals may be hyper-female,
-   since they do not produce or respond to testosterone, whereas genetic
-   females do both.
-
-   Even more extraordinary is a rare syndrome caused by a deficiency of
-   the enzyme 5α-reductase. This enzyme converts testosterone to a more
-   potent male-determining hormone. These kids, who are chromosomally
-   male, are born with female-like genitalia and are often raised as
-   girls. They then change to the male phenotype at puberty with its
-   associated release of testosterone. Not only do male foetuses produce
-   more androgens than female foetuses, they respond to it more strongly
-   due to sex-specific epigenetic marks in genes that code for androgen
-   receptors. Conversely, female foetuses produce less androgen and have
-   reduced responsiveness to it. It is even possible for a genetically
-   female foetus to have levels of circulating androgens in the male range
-   but still develop as a female. So, while the primary cause of male
-   bodies from female bodies is indeed SrY, other genes on the sex
-   chromosomes can modify its effects.
-   Beyond DNA by Benjamin Oldroyd cover
-   Beyond DNA by Benjamin Oldroyd. Photograph: Melbourne University Press
-
-   The epigenetic hypothesis for the widespread occurrence of human
-   homosexuality is based on the possibility of epigenetic inheritance of
-   adjustments to a foetus’s testosterone sensitivity. Like most other
-   epigenetic marks, sex-specific epigenetic marks are established anew in
-   the early embryo following fertilisation.
-
-   Thus, most of the sex-specific epigenetic marks on genes that are
-   involved in testosterone sensitivity are scrubbed off and
-   re-established in a reliably sex-specific pattern well before the
-   gonads become differentiated into either testes or ovaries. However,
-   not all epigenetic marks are completely erased during embryo
-   development, and it is therefore possible that there is some
-   transgenerational transfer of epigenetic settings for testosterone
-   sensitivity. This could affect sexual phenotype, sexual identity and
-   sexual attraction.
-
-   This is a potentially important idea because it may explain the strong
-   tendency for twins to have similar sexual preferences, but for this
-   tendency to be no stronger between identical twins than it is between
-   non-identical twins. This suggests epigenetic inheritance from one or
-   other parent, but not genetic inheritance. If it were solely genetic,
-   we would expect identical twins to be much more likely to share their
-   sexual preferences than non-identical twins.
-
-   So, to the extent to which human homosexuality is the question,
-   epigenetic inheritance remains a tantalising possibility.
-     * This is an edited extract from Beyond DNA – How Epigenetics is
-       Transforming our Understanding of Evolution, by Benjamin Oldroyd
-       (MUP).
-     * Benjamin Oldroyd is emeritus professor of behavioural genetics at
-       the University of Sydney
-
-   Explore more on these topics
-     * Science
-     * Sexuality
-     * Genetics
-     * Evolution
-     * features
-
-     *
-     *
-     *
-     *
-     *
-     *
-
-   Reuse this content
-
-Most viewed
-
-Most viewed
-
-     * World
-     * UK
-     * Climate crisis
-     * Ukraine
-     * Environment
-     * Science
-     * Global development
-     * Football
-     * Tech
-     * Business
-     * Obituaries
-
-     * News
-     * Opinion
-     * Sport
-     * Culture
-     * Lifestyle
-
-   Original reporting and incisive analysis, direct from the Guardian
-   every morning
-   Sign up for our email
-     * Help
-     * Complaints & corrections
-     * SecureDrop
-     * Work for us
-     *
-     * Privacy policy
-     * Cookie policy
-     * Terms & conditions
-     * Contact us
-
-     * All topics
-     * All writers
-     * Digital newspaper archive
-     * Facebook
-     * YouTube
-     * Instagram
-     * LinkedIn
-     * Twitter
-     * Newsletters
-
-     * Advertise with us
-     * Search UK jobs
-
-   Back to top
-   © 2024 Guardian News & Media Limited or its affiliated companies. All
-   rights reserved. (dcr)
+   Help
+   Accessibility
+   Careers
+     * NLM
+     * NIH
+     * HHS
+     * USA.gov

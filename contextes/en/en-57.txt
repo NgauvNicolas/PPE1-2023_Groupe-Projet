@@ -1,11 +1,18 @@
-   Subscribe now
+   molecular phylogeny and historical biogeography ...
 
-Perhaps evolution has squared that circle (2)
-
-   Published 13 January 2021
+    Zoosystematics and Evolution is an international, peer-reviewed life
+   science journal devoted to the diversity, systematics and evolution of
+   all animal groups, except for insects. It publishes original research
+   and review articles at all taxonomic levels. Its scope encompasses
 --
-   From Ian Flitcroft, Dublin, Ireland
-
-   The arguments cited against the evolution of wheels in living things
-   include the problem of the environment not being smooth and the
-   challenge of supplying blood to a biological wheel.
+   methods and principles of taxonomy and systematics. Articles whose main
+   topic is ecology, functional anatomy, physiology, or ethology are only
+   acceptable when of clear systematic or evolutionary relevance and
+   perspective. Studies on insects should be submitted to the sister
+   journal of ZSE, Deutsche Entomologische Zeitschrift (DEZ).
+--
+   Insect Science
+   Q1:
+   Ecology, Evolution, Behavior and Systematics
+   CiteScoreTracker 2023: 3.5 (updated monthly)
+   SNIP: 1.082

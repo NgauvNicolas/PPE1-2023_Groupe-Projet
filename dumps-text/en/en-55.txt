@@ -1,130 +1,485 @@
-   #New Scientist - Home
+   #Science Journal for Kids and Teens » Feed Science Journal for Kids and
+   Teens » Comments Feed alternate alternate alternate
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-B92N
+   SJK header
 
-   (BUTTON) Close
+     * Home
+     * Scientific Articles
+          + Scientific Fields
+               o Biology
+                    # Animal Behavior
+                    # Biotechnology
+                    # Ecology
+                    # Evolution
+                    # Genetics
+                    # Microbiology
+                    # Molecular Biology
+                    # Natural Selection
+                    # Neuroscience
+                    # View All
+               o Health
+                    # Anatomy & Physiology
+                    # Vaccines
+                    # COVID-19
+                    # Nutrition
+                    # Mental Health
+                    # View All
+               o Paleoscience
+                    # Archeology
+                    # Dinosaurs
+                    # Paleogenetics
+                    # Paleontology
+                    # View All
+               o Environmental Science
+                    # Biodiversity and Conservation
+                    # Energy and Climate
+                    # Food and Agriculture
+                    # Pollution
+                    # Water Resources
+               o Chemistry
+                    # Pharmaceuticals
+                    # View All
+               o Physics
+                    # Astronomy
+                    # Radioactivity
+                    # View All
+               o Technology
+                    # Space Travel
+                    # Biotechnology
+                    # View All
+               o Social Science
+                    # Psychology
+                    # Economics
+                    # Philosophy
+                    # View All
+          + Article Collections
+               o Elementary/Middle School
+               o High School Biology
+               o AP Biology
+               o AP Environmental Science
+               o Climate Change
+               o Gene Editing
+               o In 2 reading levels
+               o View All Collections
+          + Article Translations
+               o Spanish
+               o Afrikaans
+               o Arabic
+               o Bengali
+               o Bulgarian
+               o Chinese
+               o Dutch
+               o French
+               o German
+               o Greek
+               o Korean
+               o Lao
+               o Mongolian
+               o Portuguese
+               o Swedish
+     * Lesson Ideas
+          + Original Hands-on Lessons
+          + Partners’ Hands-on Lessons
+          + Online-based Lessons
+          + Video Tutorials
+          + Lesson Ideas Podcast
+          + View All Lesson Ideas
+     * Media
+          + Ask-a-Scientist Interviews
+          + Lesson Ideas Podcast
+          + SJK Audio Edition Podcast
+     * For Researchers
+          + Adaptation Process
+          + FAQ
+          + Terms and Conditions
+          + Content License
+          + Testimonials
+     * About Us
+          + Team
+          + Organization
+          + Privacy Policy
+          + Impact
+          + Volunteer
+          + Give Feedback
+          + Support Us
 
-   Advertisement
+   Menu
 
-   Skip to content
-   Sign in
-   ____________________ (BUTTON)
-   [ ]
+     * Home
+     * Scientific Articles
+          + Scientific Fields
+               o Biology
+                    # Animal Behavior
+                    # Biotechnology
+                    # Ecology
+                    # Evolution
+                    # Genetics
+                    # Microbiology
+                    # Molecular Biology
+                    # Natural Selection
+                    # Neuroscience
+                    # View All
+               o Health
+                    # Anatomy & Physiology
+                    # Vaccines
+                    # COVID-19
+                    # Nutrition
+                    # Mental Health
+                    # View All
+               o Paleoscience
+                    # Archeology
+                    # Dinosaurs
+                    # Paleogenetics
+                    # Paleontology
+                    # View All
+               o Environmental Science
+                    # Biodiversity and Conservation
+                    # Energy and Climate
+                    # Food and Agriculture
+                    # Pollution
+                    # Water Resources
+               o Chemistry
+                    # Pharmaceuticals
+                    # View All
+               o Physics
+                    # Astronomy
+                    # Radioactivity
+                    # View All
+               o Technology
+                    # Space Travel
+                    # Biotechnology
+                    # View All
+               o Social Science
+                    # Psychology
+                    # Economics
+                    # Philosophy
+                    # View All
+          + Article Collections
+               o Elementary/Middle School
+               o High School Biology
+               o AP Biology
+               o AP Environmental Science
+               o Climate Change
+               o Gene Editing
+               o In 2 reading levels
+               o View All Collections
+          + Article Translations
+               o Spanish
+               o Afrikaans
+               o Arabic
+               o Bengali
+               o Bulgarian
+               o Chinese
+               o Dutch
+               o French
+               o German
+               o Greek
+               o Korean
+               o Lao
+               o Mongolian
+               o Portuguese
+               o Swedish
+     * Lesson Ideas
+          + Original Hands-on Lessons
+          + Partners’ Hands-on Lessons
+          + Online-based Lessons
+          + Video Tutorials
+          + Lesson Ideas Podcast
+          + View All Lesson Ideas
+     * Media
+          + Ask-a-Scientist Interviews
+          + Lesson Ideas Podcast
+          + SJK Audio Edition Podcast
+     * For Researchers
+          + Adaptation Process
+          + FAQ
+          + Terms and Conditions
+          + Content License
+          + Testimonials
+     * About Us
+          + Team
+          + Organization
+          + Privacy Policy
+          + Impact
+          + Volunteer
+          + Give Feedback
+          + Support Us
 
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
+Translate this page
 
-   Subscribe now
-   (BUTTON)
+Lesson Ideas
 
-   Explore by section
-     * News
-     * Features
-     * Newsletters
-     * Podcasts
-     * Video
-     * Comment
-     * Culture
-     * Crosswords
-     * |
-     * This week's magazine
+   Original image file retrieved 2023 from Wikimedia Commons:
+   https://commons.wikimedia.org/wiki/File:Timeline_evolution_of_life.svg
 
-   Explore by subject
-     * Health
-     * Space
-     * Physics
-     * Technology
-     * Environment
-     * Mind
-     * Humans
-     * Life
-     * Mathematics
-     * Chemistry
-     * Earth
-     * Society
+8 Science Articles on Evolution
 
-   Explore our products and services
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
+   Evolution is a cornerstone of middle and high school biology curricula,
+   but it is sometimes hard to find clear and well-designed research
+   examples that students can easily understand. This collection of
+   adapted research articles provides students with approachable,
+   empirical evidence of evolution at work in our world. Engage students
+   with standards-matched adaptations, introductory video content,
+   comprehension questions, and vocabulary to further your lesson
+   outcomes. Each adapted article also comes with additional suggestions
+   for activities to enhance student understanding and make class more
+   exciting.
 
-   Subscribe now
+1. What can tree frogs in Chernobyl tell us about radiation?
 
-   Subscribe now
+   Abstract: Have you ever heard of Chernobyl? It was a nuclear power
+   plant that released large amounts of radiation into the environment
+   after an accident. While the people nearby left the area, the wildlife
+   remained. Many plants and animals died because of the high levels of
+   radiation. But others, such as tree frogs, adapted. We collected tree
+   frogs from different areas surrounding the Chernobyl power plant. We
+   analyzed their skin coloration. We found that the frogs closer to the
+   power plant had darker skin coloration. That’s because they have higher
+   levels of melanin. Melanin is known to protect organisms from
+   radiation. We think that darker colored frogs better survived the
+   higher levels of radiation closer to the power plant.
 
-Perhaps evolution has squared that circle (3)
+   This article is suitable for middle school and lower high school
+   students, and is available in Spanish translation. It includes a Lesson
+   Idea video and an Audio Edition narrating the adapted article.
+     * Key terms: radioactivity, natural selection
+     * Scientific figures: bar graph
+     * Scientific methods: experiment, field study, observation,
+       representative sampling
 
-   Published 13 January 2021
+2. Evolution in action: are voles shrinking?
 
-   From Martin Jenkins, London, UK
+   Abstract: It is not easy being small. Especially when nature seems to
+   favor larger individuals. But why don’t all animals evolve to be
+   bigger? We studied a wild population of snow voles (a small rodent
+   species) in their alpine habitat. Genetic analysis indicated a hidden
+   evolutionary change: voles evolved to become smaller but the average
+   body size of the population stayed the same. To understand the
+   underlying causes, we separated genetic and environmental influences on
+   vole body size. We found that young voles with genes for small bodies
+   developed faster. This allowed them to survive better when
+   environmental conditions changed (earlier arrival of winter). As a
+   result, the population evolved towards a smaller body size. Our study
+   shows that populations can evolve rapidly. But without a genetic
+   perspective and understanding the underlying causes, we may not be able
+   to detect these changes.
 
-   Michael Marshall’s article on why animals don’t have wheels correctly
-   addresses the issue that they are only useful on firm, flat surfaces,
-   which are rare in nature, but perhaps misses the question: how did such
-   surfaces come to be? In other words, in terms of human technological
-   evolution, which came first, the wheel or the road?
+   This article is suitable for high school students.
+     * Key terms: climate change, natural selection
+     * Scientific figures: bar graph, line graph
+     * Scientific methods: experiment, scientific modeling
 
-   Issue no. 3317 published 16 January 2021
-   New Scientist Default Image
-     * Subscribe
-     * View in the app
-     * Buy In Print
+3. How will dragonflies adapt to a warmer Earth?
 
-   Advertisement
+   Abstract: The Earth is getting warmer, and we can see the effects of it
+   – destructive floods, severe droughts, and intense storms. Just as we
+   must look for ways to adjust to our changing environment, animals and
+   plants must also adapt if they want to survive. We wanted to know how
+   animals’ reproductive traits change to help them survive in warmer
+   climates. We looked at dragonflies because the males use dark coloring
+   on their wings to attract mates and intimidate rivals. We created a
+   database to compare dragonflies living in warm climates to those living
+   in cooler climates. We found that male dragonflies living in warmer
+   climates have less wing coloring than those living in cooler climates.
+   We also found wing ornamentation in warmer areas to be lighter in
+   color. This is because the darker coloring can overheat the dragonfly
+   and they become unable to reproduce. Lighter or reduced ornamentation
+   is naturally selected when climates are warmer.
 
-Sign up to our weekly newsletter
+   This article is available in both UPPER and LOWER reading levels, and
+   is suitable for middle school and high school students. It includes an
+   extensive Lesson Plan.
+     * Key terms: adaptation, climate change
+     * Scientific figures: line graph
+     * Scientific methods: climate scenarios, observation
 
-   Receive a weekly dose of discovery in your inbox! We'll also keep you
-   up to date with New Scientist events and special offers.
-   Sign up
+4. What can fossils tell us about the nervous system’s evolution?
 
-   Download the app
-   Download on the apple apps store Download on Google play
+   Abstract: What can we learn from fossils? We can estimate the shape and
+   size of an extinct animal. Anything else? Well, if soft tissues (like
+   the brain or muscles) fossilize, it could tell us how the animal
+   functioned or behaved. Unfortunately, soft tissue decomposes quickly
+   after an animal dies. They aren’t preserved as fossils very often.
+   That’s why we felt really lucky when we came across a fossil of an
+   extinct horseshoe crab with a preserved central nervous system (CNS).
+   We discovered that the organization of the CNS in our fossil is the
+   same as in horseshoe crabs living today. It hasn’t changed in over 300
+   million years! We also figured out how our unique fossil might have
+   formed. This could help others discover similar fossils in the future.
 
-Find us on social media
+   This article is suitable for middle school and lower high school
+   students. It includes a Lesson Idea video, and an Ask-A-Scientist
+   interview with the original researcher.
+     * Key terms: fossils, neuroscience, paleontology
+     * Scientific figures: pictograph
+     * Scientific methods: microscopy, observation
 
-     * Find us on Instagram Instagram
-     * Find us on Facebook Facebook
-     * Find us on X / Twitter X / Twitter
-     * Find us on Tiktok Tiktok
-     * Find us on LinkedIn LinkedIn
+5. Where did flying reptiles come from?
 
-Subscriptions
+   Abstract: Have you heard of flying dinosaurs named pterodactyls
+   [terr-oh-dak-tlz]? Well, you may be surprised to hear that they are not
+   technically dinosaurs. Pterodactyls, part of the group pterosaurs
+   [terr-oh-sorz], were reptiles. They were related to dinosaurs, which
+   are also reptiles, but do not belong to that group. Pterosaurs were the
+   first vertebrates that were able to fly by flapping their wings. This
+   makes them all the more interesting. Have you ever thought about how it
+   is possible that some animals started to fly? How did they get their
+   wings? The general answer is: evolution. But here the mystery deepens.
+   For a long time it seemed like there was a huge evolutionary gap
+   between pterosaurs and most other animals. How did they come about? By
+   looking at fossils, we found out that lagerpetids [la-jer-pe-tids] (a
+   small group of non-flying reptiles) are close relatives of pterosaurs.
+   Finding out about lagerpetids told us a bit about how pterosaurs
+   started to fly.
 
-     * Subscriber benefits
-     * Gift
-     * Student & graduate
-     * Educational
-     * Corporate
+   This article is suitable for middle school and lower high school
+   students. It includes an extensive Lesson Plan with slides about
+   evolution.
+     * Key terms: fossils, dinosaurs, reptiles, paleontology
+     * Scientific figures: pictograph
+     * Scientific methods: experiment, tomography scans, X-ray scanner
 
-Support
+6. Why can some monkeys live high in the mountains?
 
-     * Help
-     * About us
-     * Advertise
-     * Write for us
+   Abstract: Geladas are an unusual primate. They eat mostly grass instead
+   of fruit or meat. They are known as “bleeding heart monkeys” for the
+   bright red patch of skin on their chests. They also live high in the
+   mountains instead of in the jungle or the savanna. The air is thinner
+   high in the mountains, so it is harder to get enough oxygen. How can
+   geladas thrive in that environment? That’s what we wanted to find
+   out. We studied the DNA of wild geladas. We found a surprising
+   difference in how DNA is packaged between geladas from two different
+   regions of Ethiopia. Also, we know that some animals react to low
+   oxygen by increasing the amount of hemoglobin in their blood. But we
+   learned that geladas don’t do that. Instead, they might have evolved to
+   have larger lungs to help them get more oxygen with each breath.
 
-Tools
+   This article is suitable for high school students. It includes a Lesson
+   Idea video.
+     * Key terms: genetics, species distribution
+     * Scientific figures: map, scatter plot
+     * Scientific methods: DNA sequencing, experiment
 
-     * Events
-     * Science Jobs
-     * CoLab
-     * Syndication
-     * RSS feeds
+7. Why do some clownfish not breed?
 
-Legal and privacy
+   Abstract: Clownfish are one of the most well-known tropical fish. But
+   even though we see them on our TV screens, what do you know about them
+   in real life? They live in social groups in which individuals are
+   ranked by size (size-based dominance hierarchy). The two biggest
+   dominant individuals breed (have babies), but the smaller individuals
+   do not. So why do some clownfish forgo their own reproduction? We
+   decided to investigate the smaller clownfish. We looked at the risks
+   and rewards of moving to a different home to breed or of contesting to
+   breed in their current home. We found that it’s too risky for these
+   clownfish to move to a new home. Furthermore, they aren’t likely to
+   contest by getting bigger and potentially fight the dominants since
+   they risk being evicted from the group. So, they choose to stay put and
+   wait in the hope that they will one day be able to breed.
 
-     * Contact us
-     * Privacy policy
-     * Cookie policy
-     * Terms & conditions
-     * (BUTTON) Cookie Settings
+   This article is suitable for middle school students. It includes an
+   Ask-A-Scientist interview with the original researcher.
+     * Key terms: animal behavior, genetics
+     * Scientific figures: pictograph
+     * Scientific methods: experiment, field study, observation
 
-© Copyright New Scientist Ltd.
+8. Why do sharks sleep?
 
-   (BUTTON) Back to the top
+   Abstract: We all know what it feels like when we have not had enough
+   sleep. You might feel tired, have trouble concentrating, or even be
+   grumpy and irritable. Despite it being such an important part of our
+   daily lives, sleep still remains a bit of a mystery! To help answer the
+   question of why we sleep, scientists have started researching sleep in
+   other animals. This can help us understand how and why sleep evolved.
+   Sharks are hundreds of millions of years old. In fact, they are the
+   oldest living group of jawed vertebrates! Because of this, we think
+   they could help unlock important information about the evolution of
+   sleep. We studied the metabolic rate and behavior of draughtsboard
+   sharks (Cephaloscyllium isabellum) over a 24-hour period. Our results
+   show that when sharks sleep, they typically have a flat body posture
+   and a reduced metabolic rate. Our study supports the hypothesis that
+   the conservation of energy is a core function of sleep. It also
+   provides insight into its evolution.
+
+   This article is available in both UPPER and LOWER reading levels, and
+   is suitable for elementary school, middle school and lower high school
+   students. It includes a Lesson Idea video.
+     * Key terms: animal behavior, metabolism
+     * Scientific figures: bar graph, pictograph
+     * Scientific methods: experiment, observation
+
+That’s Not All!
+
+   Check out all of our articles on the topics:
+     * Evolution
+     * Natural Selection
+
+   Or look at these excellent resources on teaching evolution:
+     * Understanding Evolution Teaching Guide, University of California,
+       Berkeley
+     * “15 Evolutionary Gems,” Nature Education
+
+   The featured image, “Timeline of the evolution of life,” was created by
+   user LadyofHats and added to the Wikimedia Commons with Public Domain
+   Dedication in 2012.
+     * January 12, 2023
+
+   PrevPrevious IdeaMultiple Reading Levels
+   Next IdeaAsk-A-Scientist Podcast: Audio Interviews with ScientistsNext
+
+Share this Lesson Idea
+
+Check out this Related lesson idea
+
+Articles About Paleogenetics
+
+   Fossils used to map DNA across the globe
+
+Latest Scientific Articles
+
+How does your address affect your chances of being evicted?
+
+   + Audio version of article
+   + Blackboard video version of article
+   + Link to Eviction Lab interactive map lessons
+
+How can nanoparticles help coral reefs?
+
+   + Audio version of article
+   + Blackboard video version of article
+   + Article translated into Spanish and French
+
+How can super-recognizers help police investigations?
+
+   + Audio version of article
+   + Links to lessons on facial recognition and technology from Khan
+   Academy
+   + Link to test if you are a super recognizer
+
+How do some fungi turn insects into zombies?
+
+   + Audio version of article
+   + Two reading levels available
+   + Lesson idea video on Parasite Sleuth activity
+
+We want to hear from you!
+
+   If you are a teacher and you used some of our resources in class, we
+   want your feedback! Please fill out this Teacher Feedback survey!
+   Give feedback
+
+Journal funding support from:
+
+   See more
+
+Recommended by:
+
+Connect with us:
+
+   Envelope Facebook-f Twitter Linkedin Youtube Pen Donate
+
+   Science Journal for Kids is a 501(c)(3) registered non-profit
+   organization.
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MG7L3T8
+
+   IFRAME: https://sciencejournalforkids.substack.com/embed

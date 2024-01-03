@@ -1,59 +1,974 @@
-   Subscribe now
+   PMID: 36121835
 
-Evolution of the eye
+Acceptance of evolution by high school students: Is religion the key factor?
 
-   Evolution of the eye
-
-   Linda Parton / Alamy
-
-   They appeared in an evolutionary blink and changed the rules of life
-   for ever. Before eyes, life was gentler and tamer, dominated by
-   sluggish soft-bodied creatures lolling around in the sea. The invention
-   of the eye ushered in a more brutal and competitive world. Vision made
-   it possible for animals to become active hunters, and sparked an
-   evolutionary arms race that transformed the planet.
-
-   When did eyes evolve?
---
-   Advertisement
-
-   The complexity of the eye has long been an evolutionary battleground.
-   Ever since William Paley came up with the watchmaker analogy in 1802 –
-   which claimed that something as complex as a watch must have a maker –
+   Graciela da Silva Oliveira, Formal analysis, Investigation, Writing –
 --
 
-   Charles Darwin was well aware of the argument. In On the Origin of
-   Species he admitted that eyes were so complex that their evolution
-   seemed “absurd to the highest degree”. But he went on to convincingly
-   argue that it only seemed absurd. Complex eyes could have evolved from
---
-   possible path from simple to sophisticated.
-
-   Those intermediate forms have now been found. According to evolutionary
-   biologists, it would have taken less than half a million years for the
-   most rudimentary eye to evolve into a complex “camera” eye like ours.
---
-   freshwater creatures related to jellyfish. They have no eyes but will
-   contract into a ball when exposed to bright light. Hydras are
-   interesting from an evolutionary perspective because their basic
-   light-sensing equipment is very similar to that seen in other
-   evolutionary lineages, including mammals. It is based on two types of
-   protein: opsins, which change shape when light strikes them, and ion
-   channels, which respond to the shape-shifting by generating an
-   electrical signal. Genetic research suggests that all opsin/ion channel
-   systems evolved from a common ancestor similar to hydras, pointing to a
-   single evolutionary origin of all visual systems.
-
-   The next step is to evolve a small depression containing the
---
-   animal before. Unsurprisingly, their victims counter-evolved. Just a
-   few million years later, eyes were everywhere and animals were more
-   active and bristling with armour. This burst of evolutionary innovation
-   is what we now know as the Cambrian Explosion.
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
+   Find articles by Graciela da Silva Oliveira
 
 --
-   Sign up
 
-More on Evolution of the eye
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
 
-   The unlikely extremophiles lurking in your kitchen
+   ^3 Dipartimento di Sociologia e Ricerca Sociale, Università degli Studi
+--
+
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
+
+   ^5 Faculdade de Educação, Departamento de Metodologia de Ensino e
+--
+
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
+
+   ^5 Faculdade de Educação, Departamento de Metodologia de Ensino e
+--
+   Universidade Federal de Mato Grosso, UFMT, Cuiabá, Brazil
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
+   ^3 Dipartimento di Sociologia e Ricerca Sociale, Università degli Studi
+   di Trento, UniTrento, Trento, Italy
+--
+Abstract
+
+   The idea of biological evolution is not accepted by many people around
+   the world, with a large disparity amongst countries. Some factors may
+   act as obstacles to the acceptance of evolution, such as religion, a
+   lack of openness to experience, and not understanding the nature of
+   science. Although the strength of the association between evolution
+   acceptance and non-scientific factors varies among studies, it is often
+   assumed that resistance to evolution is the byproduct of a religious
+   background. Some studies are even more specific and try to associate
+   the acceptance of evolution with precise religious affiliations. We
+   aimed to explore the strength of associations among nationality,
+   religion, and the acceptance of evolution by students using multiple
+   correspondence analysis (MCA) and statistical tools, with nationwide
+   samples from two different countries. Here, we show that wider
+   sociocultural factors predict the acceptance of evolution to a higher
+   degree than a religious background. We carried out two nationwide data
+   collections that allowed us to compare differences in the acceptance of
+   evolution in Italy and Brazil by high school students who declare to
+   belong to the same religion in the two countries. Roman Catholic
+   students showed significant differences between the two countries, and
+--
+   Christians within Brazil. Our conclusions support those who argue that
+   religious affiliation is not the main factor in predicting the level of
+   evolution acceptance. The sociocultural environment and the level of
+   evolutionary knowledge seem to be more important in this regard. These
+   results open up new interpretative perspectives and provide a better
+   understanding of attitudes towards evolution.
+
+Introduction
+
+   The acceptance of evolution has been a central topic in evolution
+   education in at least the last three decades [1,2]. Researchers have
+   examined numerous factors that may act as obstacles to the acceptance
+   of evolution, such as religiosity, knowledge of evolutionary theory,
+   the understanding of the nature of science, scientific aptitudes, and
+   psychological conflicts, among others [3–6]. A major association seems
+--
+
+   A systematic literature review of the current state of research
+   regarding students’ and teachers’ acceptance of evolution across Europe
+   found that the level of acceptance of evolution in different
+   educational settings is ambiguous. The authors argue that similar
+   samples and a standardized assessment of the acceptance of evolution
+   are necessary for cross-country comparisons [7].
+
+   The use of different instruments to measure evolution acceptance could
+   be a cause of conflicting research results. A variety of tests have
+   been proposed, including the Measure of Acceptance of the Theory of
+   Evolution (MATE), which has been widely used for more than 20 years and
+   recently revised [8], the Inventory of Student Evolution Acceptance
+   (I-SEA) [9], the Generalized Acceptance of EvolutioN Evaluation (GAENE)
+   [10], etc. It should be considered that the studies cited above differ
+   in their contexts of comparison in relation to ages, countries, and
+--
+   measurement statistics. However, inconsistencies in the results were
+   found even in the analysis of the same group with different instruments
+   measuring the acceptance of evolution.
+
+   Barnes et al. [6] conducted separate analyses using six different
+   evolution acceptance instruments with the same group of students, a
+   large sample of around 2,300 university students. The instruments were
+   administered in a random order to avoid bias due to differential
+   attention and response readiness. The results were surprising and
+   showed that different instruments led to different results for the
+   measure of evolution acceptance, including conflicting ones. These
+   results may also be interpreted as an indication that some instruments
+   need methodological revisions in the search for possible distortions
+--
+
+   Additionally, the research findings revealed a complex relationship
+   between understanding evolutionary concepts (e.g. natural selection)
+   and evolution acceptance [10–13]. The same lack of consensus exists
+   when measuring the level of evolution knowledge, given that several
+   alternative assessment tools are available and may lead to different
+   results [14,15]. A study with secondary school students (aged 14–16) in
+   the United Kingdom found that teaching genetics before teaching
+   evolution had a significant impact on improving evolution understanding
+   but did not result in a significantly increased acceptance of evolution
+   [16]. This reflects a weak correlation between the knowledge and
+   acceptance of evolution, which also appears to be present in
+   undergraduate students. In Chilean students of 15–16 years old, it was
+   found that including instruction on the nature of science in the class
+   on evolution improved their acceptance significantly [17].
+
+   Kuschmierz et al. [7] identified 56 papers from the period of 2010–2020
+   regarding students’ and teachers’ knowledge and acceptance of evolution
+   across 29 European countries. However, according to the authors, the
+   research findings were hard to compare due to the application of
+--
+   data from European countries. In addition, the ambiguous results of the
+   research demonstrate multiple challenges regarding measurement of
+   evolution education, such as (a) inadequate definitions of key
+   constructs (attitudes, acceptance, knowledge, and understanding are
+   often not defined or inconsistently used in publications); (b) the
+   application of diverse measurement instruments (different evolution
+   acceptance instruments may produce different results, even when applied
+   to the same population); (c) the multidimensionality of knowledge about
+   evolution (most instruments focus on single evolutionary constructs,
+   such as natural selection and related concepts).
+
+   The authors [18] then developed an instrument to measure attitudes and
+   understanding across Europe and beyond, called the “Evolution Education
+   Questionnaire on Acceptance and Knowledge” (EEQ). The measurement
+   instrument was translated into several European languages, in the
+--
+
+   Religious beliefs are among the factors most investigated as predictors
+   to the low acceptance of evolution in several studies, especially among
+   some age groups, religious affiliations, and nationalities, mainly
+   Christian American students [10,20,21]. Barnes et al. [22] conducted a
+   study with 1898 students in eight states of the United States and found
+   that 56.5% of students perceived that evolution is atheistic, with a
+   higher percentage of Catholic and other Christian students. This
+   perception among students may lead to an apparent conflict between
+   their personal religious beliefs and evolution [23].
+
+   In addition to Christians, those of the Muslim faith have been
+   investigated, although the debate between several religions and
+   evolution is more typically addressed in Western contexts [24].
+   However, multifactorial models have found that once religiosity and
+   other measures are accounted for, the amount of variance in acceptance
+   of evolution is greatly reduced [13,25]. Mantelas and Mavrikaki [26]
+   examined the acceptance of evolution and its relationship with
+   religiosity among Greek university biology students. A rather weak
+   correlation was found between the two factors.
+
+   Evolution is controversial among both religious and non-religious
+   individuals, and inconsistent views of evolution have been evidenced in
+   both groups [24,27]. The picture appears to not be static, as a sample
+   of U.S. education professionals with a wide range of religious
+   commitments showed a significantly higher level of acceptance than
+   previous studies [28]. Moreover, the level of public acceptance of
+   evolution has increased in the United States in the last decade, and
+   education seems to play a significant role [29]. Thus, in certain
+   social contexts, religiosity may be a main component by itself, while
+   in others, evolution acceptance may depend on other factors.
+
+   There is a tendency, which cannot be taken as unanimous, that
+   associates the belief in any God (deism) as intrinsically
+   anti-evolutionist [30]. One can easily remember the several references
+   to the "Creator" in the Origin of Species, especially in its second
+   edition, showing that this direct link is far more complex than it may
+--
+   and beliefs do not allow for a narrow focus on the search for one
+   isolated variable. However, it has been often assumed that resistance
+   to evolution is somehow a byproduct of religious background, especially
+   in the United States [22,31].
+
+   Some researchers have focused closely on specific religious groups,
+   such as Pentecostal Christians, known for their literal reading of
+   sacred texts and strong opposition to evolution [32]. One study was
+   carried out in Brazil, where these religious groups have a growing
+   influence, and tried to establish a direct correlation between the
+   frequency of Pentecostal Christians and the level of rejection of
+   evolution between the students of two high schools [33]. A written
+   instrument was created, based on a well-known one [8], and 10 students
+   were invited for semi-structured interviews [33]. Although no direct
+   correlation was found, the author concluded that religious beliefs are
+   important elements that shape students’ ideas, possibly introducing
+   “constraints that might hinder the understanding of evolutionary
+   theory” [33, p. 63].
+
+   Another piece of research developed a survey instrument with a
+   nationwide sample of the British population about the general public’s
+   views of evolution. As the study had a closer focus on religion, there
+   was oversampling of five different religious affiliations: Anglicans
+   (or Episcopalians), Catholics, Muslims, Pentecostal Christians, and
+   Independent Evangelical Christians. The results showed a strong
+   rejection of evolution by Muslims, Pentecostals, and Independent
+   Evangelical Christians, contrary to the position of non-religious
+   people, Anglicans, and Catholics, who showed high agreement to
+   statements about human evolution. The study revealed that the frequency
+   of religious service attendance is a large significant predictor of
+   evolution rejection among most religious groups [24, p.88]. The general
+   conclusion was that religious affiliation and the degree to which
+   individuals participate in religious practices affect the acceptance of
+   evolution as a valid theory.
+
+   A recent study with a large sample of almost 8000 undergraduate biology
+   students in different states of the United States searched for
+   correlations between religious affiliation and variables such as the
+   acceptance and understanding of evolution. Using a Likert scale
+   instrument, they found that Muslim undergraduate students showed
+   slightly higher evolution acceptance levels than Protestant students,
+   but significantly lower levels than Catholic, Jewish, Buddhist, and
+   Hindu students [34].
+--
+   However, some researchers have been questioning the common view that
+   religious affiliation is the main factor to the acceptance of
+   evolution. They argue that it is more likely that people form beliefs
+   congruent with their broad cultural identity, which includes but is not
+   limited to religious belief [35,36]. However, most articles arguing in
+   this direction are case studies and philosophical or legal debates
+   about evolution vs creation in the school curricula, mostly in the U.S.
+   context [37]. In addition, with few exceptions, such as the reports by
+   Miller et al. [2] and Clément [36], most studies have focused on a
+--
+   number of Catholic Christians in the world, and Italy is the hub of
+   Roman Catholicism. They follow the same basic regulations from the
+   Vatican, which include explicit views on biological evolution and a
+   non-literal interpretation of sacred texts. However, there are deep
+   sociocultural differences due to many complex factors, including
+--
+   a significant rise in the creationist movement in Brazil [39]. One
+   Brazilian state minister declared in 2019 that the Evangelical Church
+   should fight against the introduction of the theory of evolution in
+   public schools, before her recent nomination [40]. Another member of
+   the federal government declared in an open ceremony that Intelligent
+   Design (ID) should be introduced in Brazil’s public schools as “a
+   counterpoint to the theory of evolution”, assuming that there would be
+   a “creationist theory” to be taught in science lessons starting at the
+   primary level [41]. Research carried out in Brazil had already showed
+--
+   Research on the public understanding of science has been frequent, with
+   nationwide surveys since 2004 [43]. However, specific research on the
+   knowledge and acceptance of evolution in Italy was scarce at that time.
+   Whereas Italy is included in broader international surveys, it accounts
+   only for a few targeted case studies that vary in types of audience and
+   goals. Despite the scarce data, researchers indicated that rejection of
+   the evolutionary theory is neither widespread nor deeply rooted in
+   Italian society [44], which was confirmed by Pew Research Center
+   reports. The same source recently confirmed the tendency of the rise of
+   the creationist perspective in Brazil within adults, with a
+   considerably lower acceptance of evolution by Christians in Brazil
+   (51%) than in Italy (74%) [45].
+
+--
+   advantage of an international project focusing on youngsters who were
+   beginning high school level in both countries, we prepared separate
+   sets of questions about evolution so that we had the very same
+   questions answered by students of the same age in the same time frame,
+   during the first months of the year 2014. Targeting students at the
+--
+   comparing the concepts of belief and acceptance. Differences between
+   them have long been discussed in the philosophical literature and the
+   specific field of evolution education [25,27,43,49]. The overall
+   picture takes belief as a subjective disposition to consider p. simply
+   as a premise under the influence of the wide cultural context. A
+--
+
+   The instrument used in the recent work by Kuschmierz et al. [19],
+   ATEVO, relies on eight items with statements about evolution, and
+   students show their degree of agreement with each of them [51]. In the
+   German context, the acceptance of evolution is defined as a “positive
+   attitude” (“positive Einstellung”) towards evolution. In this regard,
+   “attitude” (“Einstellung”) is defined as the level of association
+   between a term or fact and its subjective evaluation, in terms of
+--
+   of ATEVO test may be the result of very different processes. On the one
+   hand, “it remains unknown whether a person answers negatively for most
+   items about evolution because he/she has a ‘bad feeling’” (“schlechtes
+   Gefühl”) about evolution, in the sense of a preexisting emotional
+   refusal to think on the subject. On the other hand, the rejection may
+   have been the result of a long reflection leading to a rational
+   conclusion that evolution is not plausible [51, p. 12].
+
+   We adopted a clear definition of evolution acceptance despite the
+   complexity of the discussion on the subject in different languages,
+   taking acceptance as the expression of explicit recognition of the
+   objective validity of known scientific statements about evolution under
+   absolute anonymity. This definition considers two steps. The first is
+   associated with scientific statements about evolution, which must be
+   clear and well known, avoiding issues under discussion, for instance,
+   about the origin of life. Students must show not only a positive
+   attitude towards evolution but also express clearly that a statement
+   based on biological evolution is considered a valid premise to
+   construct a judgement about the real world.
+
+--
+   Therefore, anonymous participation must be guaranteed to every person
+   who is responding to questions about religion-related subjects, such as
+   biological evolution, especially when surveys are carried out within
+   conservative social contexts. Under secrecy, a person may accept a
+   proposition as a valid premise for argumentation, making inferences,
+--
+   environment and were told their answers would be under absolute
+   anonymity. Previous analyses of this data bank showed surprisingly high
+   mean scores of evolution acceptance within fundamentalist religious
+   groups in Italy and Brazil [54]. This was also the case in a previous
+   survey using a different methodology, carried out in 2010–11, where
+   roughly half of Evangelical high school students in Brazil declared
+   under absolute anonymity that their religion was not opposed to
+   evolution [55].
+
+   In line with the tantalizing results of the study by Barnes et al. [6]
+--
+   instrument was based on Likert scale items but allowed a separated
+   section, which we added in both countries. However, we considered a
+   different approach for these evolution items, as we were going to
+   present students with factual statements that were regarded as right or
+   wrong by scientists.
+--
+   spectrum of respondents [57]. Therefore, Likert scales may not be a
+   good choice with statements expressing well-known scientific facts. In
+   addition, in the case of theories of evolution, factuality is supported
+   by the school context in which the questionnaires were filled out. The
+   battery of items on evolution was proposed with dichotomous questions,
+   given that each of them can have minimal variability.
+
+   When evolution is considered, opinions can be expressed in terms of
+   favorable and unfavorable subjective statements, such as “There is a
+   significant body of data which supports evolutionary theory” [33],
+   “There is strong, reliable evidence to support the theory of evolution”
+   [24], or “I think there is reliable evidence to support the theory that
+   describes how humans were derived from ancestral primates” [33]. In
+--
+Survey instrument
+
+   We sought to measure evolution acceptance based on five clear
+   statements related to the evolutionary theory: Earth age, the fossil
+   record, common ancestry, and the origin of human beings. We included an
+   item about understanding, related to deep time, as it has been
+   considered a relevant barrier to evolution acceptance [59], while
+   statements about human evolution are highly controversial even amongst
+   biology teachers [60]. As mentioned before, the section of evolution
+   provided scientific statements as a separated set of items as part of a
+   longer questionnaire within the Relevance of Science Education (ROSE)
+--
+   the following year and applied in early 2014 in both countries [54].
+
+   Eight items related to evolution were offered to the students under a
+   command line asking to simply tick each of the following statements as
+   true or false, and a gentle refusal to answer the question (“I wouldn’t
+--
+     * G77—Present-day species of animals and plants originated from other
+       species of the past;
+     * G78—Evolution occurs in both plants and animals;
+     * G79—Humans are descended from other primate species;
+     * G80—The human species has inhabited planet Earth in the last
+--
+   anonymity. The instrument consisted of a section regarding personal
+   data (gender, age, living place), some socioeconomic questions, 73
+   Likert scale items, and the true/false section on evolution (G
+   Section), which is the focus of the present study (see Annex A in
+   Oliveira [63]).
+--
+   reaching 549 valid cases. However, they composed a very conservative
+   group compared to, for instance, the group in Britain who responded to
+   a survey about evolution [24], where the proportion of Anglicans and
+   Lutherans was far higher than Pentecostal Christians and Independent
+   Evangelical Christians, the two main groups in Brazil.
+--
+   themselves than among Brazilian Catholics and Brazilian non-Catholics
+   Christians. This indicated that sociocultural factors played a more
+   important role in the acceptance of evolution than religion itself. If
+   the index was lower than 1 (IntcI<1) this indicated the opposite, that
+   religion played a major role.
+--
+   Previous analyses of this sample already showed significant differences
+   between Brazilian and Italian students [54,63]. It was clear that when
+   human evolution was specifically the focus, the level of acceptance of
+   evolution was lower in both countries. The same broad results were
+   found in places where the context is particularly important for the
+   historical development of the theory of evolution, such as the
+   Galapagos Islands [72,73]. These analyses suggest that religion plays a
+   considerable role in the level of support for evolution. S1 and S2
+   Tables in the Supporting Information provide a wider view, showing that
+   the Brazilian and Italian students have very significant differences
+--
+   Perc. (%) 100.00% 100.00%
+   G78
+   (Evolution in plants and animals) True N 656 1597 0.101
+   Perc. (%) 68.19% 70.45%
+   False N 95 173
+--
+              Don’t Know             B (< 0.0005)
+   G78
+   (Evolution in plants and animals)     True
+                                        False      B (0.035)
+              Don’t Know
+--
+   Perc. (%) 100.00% 100.00% 100.00%
+   G78
+   (Evolution in plants and animals) True N 656 363 1019 0.077
+   Perc. (%) 68.19% 66.61% 67.62%
+   False N 95 74 169
+--
+              Don’t Know
+   G78
+   (Evolution in plants and animals) True
+                                     False                    A (0.029)
+              Don’t Know
+--
+   listening to the teaching of the very same Catholic religious
+   authorities in different countries, had bigger differences regarding
+   evolution acceptance from people who were brought up in the same
+   socio-cultural environment but followed different religious teachings.
+   In addition, differences in understanding tended to follow the same
+--
+   Open in a separate window
+   Fig 1
+   Multiple correspondence analysis biplot considering evolution
+   acceptance and understanding.
+
+--
+Table 5
+
+   Intercultural Index (IntcI) related to evolution acceptance.
+                                          BCat  BNCC  ICat  |ΔCat| |ΔBChr| IntcI
+   G75
+--
+Discussion
+
+   Research on evolution education faced a big challenge after the
+   surprising findings showing that different instruments lead to
+   different rates of agreement/rejection of evolution in the same student
+   population [6]. We tried to show that some instruments could have had
+   problems in terms of their methodology, implying distortions for the
+--
+   distortions can explain, at least in part, the mentioned puzzle. In
+   addition, there is not consensus in the educational community about how
+   important religion is for the acceptance of evolution.
+
+   We presented a new instrument, stating some principles on how to
+   evaluate students’ opinions concerning evolution, asking clear
+   positions about well-known statements on the subject and using
+   nationwide samples of students of the same age (around 15 years old)
+--
+   on the well-known instrument “MATE”, keeping the same wording in the
+   revised version [8] for the statement about humans, revealing
+   difficulties of evolution in 34 countries [2]. Many studies have shown
+   that when the human species is concerned, opinions about evolution tend
+   to be extreme, with some people considering evolution for all organisms
+   except our species [60]. This is perhaps the best item to test the
+   hypothesis we have been examining, as the number of respondents of both
+--
+   knowledge was found in both Christian denominations in Brazil. This not
+   only adds evidence to the importance of understanding this important
+   concept for evolution acceptance, but also shows that education and
+   religion have a strong link with nationality, adding evidence to
+   previously published studies [6,24]. In our case, Italian Catholics had
+   a higher acceptance as well as a higher level of understanding of
+   evolution than Brazilian ones. Independent recent research obtained
+   similar results, showing that Catholic and Evangelical Brazilian
+   university students had low levels of knowledge about evolution [74].
+
+   Notwithstanding this general picture found after the MCA, additional
+   evidence in numerical terms supports the idea that religion alone does
+   not play a major role in the acceptance of evolution, with the relative
+   size of differences obtained by the Intercultural Index (IntcI). It
+   tended to show small numbers (IntcI<1) in cases where religion played a
+--
+   a common ancestor. This can be regarded as a clear-cut, widely known,
+   scientific principle of common ancestry, and a basic principle for
+   biological evolution. The calculated Intercultural Index for item G79
+   (“Humans are descended from other primate species”) was high (IntcI =
+   1.889), showing that differences within Catholics were almost twice as
+--
+
+   The general picture shows that religion plays a less important role in
+   the acceptance of evolution than nationality, which should be regarded
+   as the wide socio-cultural environment, including religion and
+   education. Children develop a range of different worldviews, which can
+   affect their position towards science and scientific statements [75].
+   However, the acceptance of evolution cannot be seen as a simple output
+   of a given worldview but as a complex result of several influences.
+
+--
+   scale numbers into true/false answers. Then, the Intercultural Index
+   presented here could objectively show the relative importance of
+   religion for evolution acceptance. If our results are to be confirmed
+   in the future, this could provide considerable consequences for making
+   concrete recommendations for evolution education to religious students
+   in conservative and anti-science environments.
+
+   It is important to keep in mind that the picture presented here is only
+   one frame of a long film, as values are changing very rapidly, even in
+   religious settings. For instance, the level of acceptance of evolution
+   has improved considerably within members of some conservative Christian
+   denominations whose teachings are informed by cultural barriers to
+   evolution [35]. Unfortunately, change can also be noticed in the
+   opposite direction, with conservative anti-evolution groups and
+   religious denominations showing a growing influence around the world,
+   Brazil included [39–41,74].
+--
+
+   1. Johnson RL, Peeples EE. The role of scientific understanding in
+   college: student acceptance of evolution. Am Biol Teach. 1987; 49(2):
+   93–8. doi: 10.2307/4448445 [CrossRef] [Google Scholar]
+   2. Miller JD, Scott EC, Okamoto S. Public acceptance of evolution.
+   Science. 2006; 313(5788): 765–6. https://doi.org
+   /10.1126/science.1126746. [PubMed] [Google Scholar]
+   3. Dunk RD, Barnes ME, Reiss MJ, Alters B, Asghar A, Carter BE, et al.
+   Evolution education is a complex landscape. Nat Ecol Evol. 2019; 3(3):
+   327–329. doi: 10.1038/s41559-019-0802-9 [PubMed] [CrossRef] [Google
+   Scholar]
+   4. Mead R, Hejmadi M, Hurst LD. Scientific aptitude better explains
+   poor responses to teaching of evolution than psychological conflicts.
+   Nat Ecol Evol. 2018; 2(2): 388–394. doi: 10.1038/s41559-017-0442-x
+   [PubMed] [CrossRef] [Google Scholar]
+   5. Weisberg DS, Landrum AR, Metz SE, Weisberg M. No missing link:
+   Knowledge predicts acceptance of evolution in the United States.
+   Bioscience. 2018; 68(3): 212–222. 10.1093/biosci/biy115. [CrossRef]
+   [Google Scholar]
+   6. Barnes ME, Dunlop HM, Holt EA, Zheng Y, Brownell SE. Different
+   evolution acceptance instruments lead to different research findings.
+   Evo Edu Outreach. 2019; 12(1): 1–7. 10.1186/s12052-019-0096-z.
+   [CrossRef] [Google Scholar]
+   7. Kuschmierz P, Meneganzin A, Pinxten R, Pievani T, Cvetković D, et
+   al. Towards common ground in measuring acceptance of evolution and
+   knowledge about evolution across Europe: a systematic review of the
+   state of research. Evo Edu Outreach. 2020; 13(1): 1–24.
+   10.1186/s12052-020-00132-w. [CrossRef] [Google Scholar]
+   8. Barnes ME, Misheva T, Supriya K, Rutledge M, Brownell SE. A Revised
+   Measure of Acceptance of the Theory of Evolution: Introducing the MATE
+   2.0. CBE Life Sci Educ. 2022. Mar;21(1):ar10. doi:
+   10.1187/cbe.21-05-0127 [PMC free article] [PubMed] [CrossRef] [Google
+--
+   9. Nadelson LS, Southerland SA. Examining the interaction of acceptance
+   and understanding: How does the relationship change with a focus on
+   macroevolution? Evo Edu Outreach. 2012; 3: 82–88.
+   10.1007/s12052-009-0194-4. [CrossRef] [Google Scholar]
+   10. Smith MU, Snyder SW, Deveraux RS. The GAENE—Generalized Acceptance
+   of EvolutioN Evaluation: Development of a new measure of Evolution
+   acceptance. J Res Sci Teach. 2016; 53: 1289–1315. 10.1002/tea.21328.
+   [CrossRef] [Google Scholar]
+   11. Barnes ME, Evans EM, Hazel A, Brownell SE, Nesse RM. Teleological
+   reasoning, not acceptance of evolution, impacts students’ ability to
+   learn natural selection. Evo Edu Outreach. 2017;10(1): 1–12.
+   10.1186/s12052-017-0070-6. [CrossRef] [Google Scholar]
+   12. Sinatra GM, Southerland SA, McConaughy F, Demastes JW. Intentions
+   and beliefs in students’ understanding and acceptance of biological
+   evolution. J. Res. Sci. Teach. 2003;40(5): 510–528. 10.1002/tea.10087.
+   [CrossRef] [Google Scholar]
+   13. Hermann RS. Cognitive apartheid: on the manner in which high school
+   students understand evolution without believing in evolution. Evo Edu
+   Outreach. 2012; 5(4): 619–628. 10.1007/s12052-012-0446-6. [CrossRef]
+   [Google Scholar]
+   14. Gefaell J, Prieto T, Abdelaziz M, Álvarez I, Antón J, Arroyo J, et
+   al. Acceptance and knowledge of evolutionary theory among third-year
+   university students in Spain. PloS ONE. 2020; 15(9): e0238345. doi:
+   10.1371/journal.pone.0238345 [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   15. Nehm RH, Mead LS. Evolution assessment: introduction to the special
+   issue. Evo Edu Outreach. 2019; 12(1): 1–5. 10.1186/s12052-019-0098-x.
+   [CrossRef] [Google Scholar]
+   16. Mead R, Hejmadi M, Hurst LD. Teaching genetics prior to teaching
+   evolution improves evolution understanding but not acceptance. PLoS
+   Biol. 2017; 15(5): e2002255. doi: 10.1371/journal.pbio.2002255 [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   17. Cofré HL, Santibáñez DP, Jiménez JP, Spotorno A, Carmona F,
+   Navarrete K, et al. The effect of teaching the nature of science on
+   students’ acceptance and understanding of evolution: myth or reality?.
+   J. Biol. Educ. 2018; 52(3): 248–61. 10.1080/00219266.2017.1326968.
+   [CrossRef] [Google Scholar]
+   18. Beniermann A, Kuschmierz P, Pinxten R, Aivelo T, Bohlin G,
+   Brennecke JS, et al. Evolution Education Questionnaire on Acceptance
+   and Knowledge (EEQ)-Standardized and ready-to-use protocols to measure
+   acceptance of evolution and knowledge about evolution in an
+   international context. 2021. Zenodo. 10.5281/zenodo.4554742. [CrossRef]
+   [Google Scholar]
+   19. Kuschmierz P, Beniermann A, Bergmann A, Pinxten R, Aivelo T,
+   Berniak-Woźny J, et al. European first-year university students accept
+   evolution but lack substantial knowledge about it: a standardized
+   European cross-country assessment. Evo Edu Outreach. 2021;14(1):1–22.
+   10.1186/s12052-021-00158-8. [CrossRef] [Google Scholar]
+--
+   292–304. 10.1093/biosci/biz014. [CrossRef] [Google Scholar]
+   21. Barnes ME, Supriya K, Zheng Y, Roberts JA, Brownell SE. A new
+   measure of students’ perceived conflict between evolution and religion
+   (PCoRE) is a stronger predictor of evolution acceptance than
+   understanding or religiosity. CBE—Life Sciences Education. 2021;
+   20(3):ar42. doi: 10.1187/cbe.21-02-0024 [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   22. Barnes ME, Dunlop HM, Sinatra GM, Hendrix TM, Zheng Y, Brownell SE.
+   “Accepting evolution means you can’t believe in god”: atheistic
+   perceptions of evolution among college biology students. CBE—Life
+   Sciences Education. 2020;19(2):ar21. doi: 10.1187/cbe.19-05-0106 [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   23. Baker JO, Rogers D, Moser T. Acceptance of evolution among American
+   Mormons. J. Contemp. Relig. 2018; 33(1):123–34.
+   10.1080/13537903.2018.1408295. [CrossRef] [Google Scholar]
+   24. Unsworth A, Voas D. Attitudes to evolution among Christians,
+   Muslims and the Non- Religious in Britain: Differential effects of
+   religious and educational factors. Public Underst. Sci. 2018; 27(1):
+--
+   Scholar]
+   25. Dunk RD, Petto AJ, Wiles JR, Campbell BC. A multifactorial analysis
+   of acceptance of evolution. Evo Edu Outreach. 2017;10(1):1–8.
+   10.1186/s12052-017-0068-0. [CrossRef] [Google Scholar]
+   26. Mantelas N, Mavrikaki E. Religiosity and students’ acceptance of
+   evolution. International Journal of Science Education. 2020. Dec
+   11;42(18):3071–92. [Google Scholar]
+   27. Siani M, Yarden A. Evolution? I Don’t Believe in iJensemt. Sci
+   Educ. 2020; 29(2): 411–441. 10.1007/s11191-020-00109-7. [CrossRef]
+   [Google Scholar]
+   28. Nadelson LS, Sinatra GM. Educational professionals’ knowledge and
+   acceptance of evolution. Evol Psychol. 2009;7(4): 490–516.
+   https://doi.org/10.1177%2F147470490900700401. [Google Scholar]
+   29. Miller JD, Scott EC, Ackerman MS, Laspra B, Branch G, Polino C, et
+   al. Public acceptance of evolution in the United States, 1985–2020.
+   Public Underst. Sci. 2021. doi: 10.1177/09636625211035919 [PubMed]
+   [CrossRef] [Google Scholar]
+   30. Dawkins R. The God Delusion. New York: Random House; 2009. [Google
+   Scholar]
+   31. Coyne JA. Science, religion, and society: the problem of evolution
+   in America. Evolution. 2012; 66(8): 2654–2663. doi:
+   10.1111/j.1558-5646.2012.01664.x [PubMed] [CrossRef] [Google Scholar]
+   32. Freston P. Pentecostals and politics in Latin America: Compromise
+--
+   Pentecostalism (pp. 101–118). 2013; New York: Oxford University Press.
+   [Google Scholar]
+   33. Teixeira P. Acceptance of the theory of evolution by high school
+   students in Rio de Janeiro, Brazil: scientific aspects of evolution and
+   the biblical narrative. Int. J. Sci. Math. Educ. 2019; 41(4): 546–566.
+   10.1080/09500693.2019.1569283. [CrossRef] [Google Scholar]
+   34. Barnes ME, Roberts JA, Maas SA, Brownell SE. Muslim undergraduate
+   biology students’ evolution acceptance in the United States. PLoS ONE
+   16(8): e0255588. 10.1371/journal.pone.0255588. [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   35. Bradshaw WS, Phillips AJ, Bybee SM, Gill RA, Peck SL, Jensen JL. A
+   longitudinal study of attitudes toward evolution among undergraduates
+   who are members of the Church of Jesus Christ of Latter-day Saints.
+   PloS ONE. 2018; 13(11). doi: 10.1371/journal.pone.0205798 [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   36. Clément P. Muslim teachers’ conceptions of evolution in several
+   countries. Public Underst. Sci. 2015; 24(4):400–421. doi:
+   10.1177/0963662513494549 [PubMed] [CrossRef] [Google Scholar]
+--
+   [Google Scholar]
+   38. Bizzo NM. From Down House landlord to Brazilian high school
+   students: what has happened to evolutionary knowledge on the way?
+   Journal of Research in Science Teaching. 1994; 31(5):537–56. [Google
+   Scholar]
+   39. Oliveira AW, Cook KL. Evolution Education and the rise of the
+   creationist movement in Brazil. Lanham (MD): Lexington Books; 2019.
+   [Google Scholar]
+--
+   42. Penteado PR, Kavalco KF, Pazza R. Influence of sociocultural
+   factors and acceptance of creationism in the comprehension of
+   evolutionary biology in Freshman Brazilian students. Evol Educ
+   Outreach. 2012; 5(4): 589–594. 10.1007/s12052-012-0456-4. [CrossRef]
+   [Google Scholar]
+--
+   To Treat Disease. Pew Research Center; 1–49; 2020. [Google Scholar]
+   46. Mota HS. Evolução biológica e religião: atitudes de jovens
+   estudantes brasileiros [Biological evolution and religion: attitudes of
+   young Brazilian students]. Ph.D. thesis, University of São Paulo, 2013.
+   Available from:
+--
+   50. Cohen LJ. Belief and acceptance. Mind. 1989; 98 (391): 367–389.
+   [Google Scholar]
+   51. Beniermann A. Evolution-Von Akzeptanz und Zweifeln, Empirische Stu-
+   dienüber Einstellungen zu Evolution und Bewusstsein [Evolution–of
+   acceptance and doubts, Empirical studies on attitudes towards evolution
+   and the evolution of the human mind]. Wiesbaden: Springer Fachmedien;
+   2019. [Google Scholar]
+   52. Charles JL V. Dattalo P. Minimizing social desirability bias in
+--
+   54. Oliveira GS, Bizzo N, Pellegrini G, Mota HS. Evolução biológica
+   para os jovens brasileiros e italianos: um estudo de suas opiniões e
+   conhecimento [Biological evolution for young Brazilians and Italians: a
+   study of their opinions and knowledge]. In: Cuvi N. et al., editors.
+   Evolucionismo en América y Europa [Evolution in America and Europe].
+   Quito: Centro de Publicaciones PUCE; 2016. pp. 449–461. [Google
+   Scholar]
+   55. Bizzo N, Santos-Gouw AM, Pereira HMR. O que os jovens pensam sobre
+   evolução? [What do young people think about evolution?] Ciência Hoje.
+   2013; 300(1): 26–31. [Google Scholar]
+   56. Franzolin F, Garcia PS, Bizzo N. Amazon conservation and students’
+--
+   59. Cotner S, Brooks DC, Moore R. Is the age of the earth one of our
+   “sorest troubles?” Students’ perceptions about deep time affect their
+   acceptance of evolutionary theory. Evolution. 2010; 64(3): 858–864.
+   doi: 10.1111/j.1558-5646.2009.00911.x [PubMed] [CrossRef] [Google
+   Scholar]
+--
+   Co-operation and Development; 2012. [Google Scholar]
+   63. Oliveira GS. Estudantes e a evolução biológica: conhecimento e
+   aceitação no Brasil e Itália [Students and biological evolution:
+   knowledge and acceptance in Brazil and Italy]. Ph.D. thesis, University
+   of São Paulo. 2015. Available from:
+--
+   Oaks (CA): Sage. pp.651–657. [Google Scholar]
+   72. Oliveira GS, Bizzo N, Pellegrini G. Evolução humana e religião:
+   opiniões de Jovens Brasileiros e Italianos [Human evolution and
+   religion: opinions of young Brazilians and Italians]. Revista
+   Brasileira de Pesquisa de Educação em Ciências. 2017; 30: 135–156.
+--
+   73. Oliveira GS, Mota HS, Gouw AM, Bizzo N. Comparative studies of
+   students’ beliefs and understandings in Brazil, Italy, and Galapagos
+   Islands. In: Oliveira AW, Cook KL, editors. Evolution education and the
+   rise of the creationist movement in Brazil. Lanham (MD): Lexington
+   Books; 2019. pp. 191–208. [Google Scholar]
+   74. Demetrio GR, Jacobina UP, Barão KR. The Impact of Life Philosophy
+   and Major Field of Study on Brazilian Students’ Knowledge of Biological
+   Evolution. Sci & Educ. 2021. 10.1007/s11191-021-00286-z. [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   75. Williams JD. Belief versus acceptance: why do people not believe in
+   evolution? Bioessays. 2009; 31(11):1255–62. doi: 10.1002/bies.200900082
+   [PubMed] [CrossRef] [Google Scholar]
+   76. Smith M. Counterpoint: Belief, understanding, and the teaching of
+   evolution. J. Res. Sci. Teach. 1994; 31(5): 591–597.
+   10.1002/tea.3660310512. [CrossRef] [Google Scholar]
+     * PLoS One. 2022; 17(9): e0273929. »
+--
+   1 May 2022
+
+   PONE-D-22-03227Acceptance of Evolution by High School Students: is
+   religion the key factor?PLOS ONE
+
+--
+   Additional Editor Comments (if provided):
+
+   This ms addresses an important topic - why does evolution acceptance
+   differ? - and takes new approaches to address it.
+
+--
+   exceeds 20,000 characters)
+
+   Reviewer #1: This article examines compare acceptance of evolution in
+   high school students in Italy and Brazil, specifically looking at 1)
+   the overall differences in acceptance between countries 2) whether
+   level of acceptance is associated more strongly with a specific
+   Christian denomination (Roman Catholic) in both countries, and 3)
+   whether acceptance of evolution by both Catholic and non-Catholic
+   Christian students within each country are more similar to each other.
+   The authors found that the level of evolution acceptance is more
+   similar among students within each country than among Roman Catholics
+   in both countries. They conclude that "the sociocultural environment
+   and level of evolutionary knowledge" is more important than the
+   specific religious affiliation they studied (from the abstract), and
+   that "religion playing a less important role for the acceptance of
+   evolution that nationality" (from lines 648-649). It is an elegant
+   study and should be published.
+
+--
+   approach).
+
+   4. Since this study focuses on acceptance of evolution among Roman
+   Catholic students, the "explicit views on biological evolution"
+   referenced in 146 should be described in more detail.
+
+--
+
+   Reviewer #2: Thank you for the opportunity to read this manuscript.
+   This study follows up on prior work on evolution acceptance in Brazil
+   and Italy (“Previous analysis of this sample had already shown
+   significant differences between Brazilian and Italian students…”). The
+--
+   Line 66. The effect sizes for Barnes were not large, and the
+   instruments utilized were intentionally designed to measure different
+   aspects of evolution acceptance. It is NOT a flaw to intentionally
+   conceptualize (and operationalize) a theoretical construct in different
+   ways. Why would small differences using instruments that measure a
+--
+
+   It is not clear why the two countries are being compared if the Pew
+   studies have shown significant differences in evolution acceptance (and
+   prior work). A stronger and clearer rationale for the comparisons (in
+   light of the methodological issues noted above) needs to be made so
+--
+   are different.
+
+   The methods discuss measuring evolution acceptance, but later on the
+   discussion mentions “understanding” in several places. It was not clear
+   if there is a knowledge measure and an acceptance measure. Or are the
+--
+   in support of instrument quality needs to be expanded as it is
+   inappropriate to interpret measures unless there is a robust body of
+   evidence supporting them (see Mead et al. Evolution Education Outreach
+   on instrument quality in evolution education). Please report comparable
+   evidence types for the instrument.
+
+--
+   say that the results are well supported by evidence (which is by no
+   means clear). How does this change how biologists should approach the
+   challenge of evolution education? What are the implications for other
+   countries? How should sociocultural factors be measured and included in
+   models of acceptance?The discussion section should also include prior
+   evolution education research in nonreligious contexts such as China and
+   other international studies (please review Donnelly and Deniz Springer
+   and other studies).
+--
+   169-170) and elsewhere.
+
+   “4. Since this study focuses on acceptance of evolution among Roman
+   Catholic students, the "explicit views on biological evolution"
+   referenced in L.146 should be described in more detail”
+
+--
+
+   Answer: This reference is the Pew Research Center report, which
+   “examines public perceptions of biotechnology, evolution and the
+   relationship between science and religion. Data in this report come
+   from a survey conducted across Europe, Russia, the Americas and the
+--
+   Answer: Our study did not aim at studying deeply the variable we were
+   interested for: religion. We tried to throw light on the influence of
+   religion in evolution acceptance at a certain age level, with
+   probabilistic nationwide samples of two countries with large numbers of
+   students who declare themselves as Roman Catholic. It is a far more
+--
+   still contradictory and require further investigation. An example of
+   inconsistencies found so far is that some studies report a strong
+   relationship between evolution acceptance and religious beliefs, while
+   other studies report a weak relationship between them [6]. The use of
+   different instruments to measure evolution acceptance could be a cause
+   of such inconsistent research results."
+
+   D-“Line 66. The effect sizes for Barnes were not large, and the
+   instruments utilized were intentionally designed to measure different
+   aspects of evolution acceptance. It is NOT a flaw to intentionally
+   conceptualize (and operationalize) a theoretical construct in different
+   ways. Why would small differences using instruments that measure a
+--
+   imprecise numeric measures. Our conclusion indicates not only that
+   future research should not use Likert scaling with factual statements
+   about biological evolution, but also invites reanalysis of data banks.
+   This is precisely what we did with our own database, finding surprising
+   results.
+--
+
+   Answer: We have included five paragraphs and seven references, with
+   studies on acceptance of evolution and Christian denominations of
+   similar age level as ours in countries such as India and Chile. The
+   paragraphs and references are:
+
+   “A systematic literature review of the current state of research
+   regarding students’ and teachers’ acceptance of evolution across Europe
+   found that the level of acceptance of evolution in different
+   educational settings is ambiguous. The authors argue that similar
+   samples and a standardized assessment of the acceptance of evolution
+   are necessary for cross-country comparisons [7].
+
+--
+
+   A study with secondary school students (aged 14–16) in the United
+   Kingdom found that teaching genetics before teaching evolution had a
+   significant impact on improving evolution understanding but did not
+   result in a significantly increased acceptance of evolution [16]. This
+   reflects a weak correlation between the knowledge and acceptance of
+   evolution, which also appears to be present in undergraduate students.
+   In Chilean students of 15–16 years old, it was found that including
+   instruction on the nature of science in the class on evolution improved
+   their acceptance significantly [17].
+
+   Kuschmierz et al. (2020) [7] identified 56 papers from the period of
+   2010–2020 regarding students’ and teachers’ knowledge and acceptance of
+   evolution across 29 European countries. However, according to the
+   authors, the research findings were hard to compare due to the
+   application of different instruments and the assessment of different
+--
+   reasonably comparable data from European countries. In addition, the
+   ambiguous results of the research demonstrate multiple challenges
+   regarding measurement of evolution education, such as (a) inadequate
+   definitions of key constructs (attitudes, acceptance, knowledge, and
+   understanding are often not defined or inconsistently used in
+   publications); (b) the application of diverse measurement instruments
+   (different evolution acceptance instruments may produce different
+   results, even when applied to the same population); (c) the
+   multidimensionality of knowledge about evolution (most instruments
+   focus on single evolutionary constructs, such as natural selection and
+   related concepts).
+
+   The authors [18] then developed an instrument to measure attitudes and
+   understanding across Europe and beyond, called the “Evolution Education
+   Questionnaire on Acceptance and Knowledge” (EEQ). The measurement
+   instrument was translated into several European languages, in the
+--
+
+   F-“It is not clear why the two countries are being compared if the Pew
+   studies have shown significant differences in evolution acceptance (and
+   prior work). A stronger and clearer rationale for the comparisons (in
+   light of the methodological issues noted above) needs to be made so
+--
+   language editing has solved this problem.
+
+   H-“The methods discuss measuring evolution acceptance, but later on the
+   discussion mentions ‘understanding’ in several places. It was not clear
+   if there is a knowledge measure and an acceptance measure. Or are the
+--
+   Answer: We rephrased the parts where we present the only item that
+   relates to geological time. It is not included in the final figure,
+   which tried to show the influence of religion on evolution acceptance.
+
+   I-“Line 250. It is important to consider that Likert scales by
+--
+   full spectrum of respondents [57]. Therefore, Likert scales may not be
+   a good choice with statements expressing well-known scientific facts.
+   In addition, in the case of theories of evolution, factuality is
+   supported by the school context in which the questionnaires were filled
+   out. The battery of items on evolution was proposed with dichotomous
+   questions given that each of them can have minimal variability”.
+
+--
+   in support of instrument quality needs to be expanded as it is
+   inappropriate to interpret measures unless there is a robust body of
+   evidence supporting them (see Mead et al. Evolution Education Outreach
+   on instrument quality in evolution education). Please report comparable
+   evidence types for the instrument.”
+
+--
+   typologies of students, which were determined based on the hierarchical
+   clustering method. However, the isolation of country and religion from
+   the acceptance of evolution was yet to be done. Possibly, the results
+   published by research groups from different countries, after our data
+   collection, and the growth of conservative and anti-evolutionist
+   influence, mainly in Brazil, have been decisive to emphasize the need
+   for this particular study.
+--
+   Let’s say that the results are well supported by evidence (which is by
+   no means clear). How does this change how biologists should approach
+   the challenge of evolution education? What are the implications for
+   other countries? How should sociocultural factors be measured and
+   included in models of acceptance? The discussion section should also
+   include prior evolution education research in non-religious contexts
+   such as China and other international studies (please review Donnelly
+   and Deniz Springer and other studies).”
+--
+   article (probably Deniz, Donnelly and Yilmaz, 2008), where authors
+   discuss other components in someone’s conceptual ecology for biological
+   evolution. We believe we pointed out several implications of our
+   results, including revising databanks and methodological aspects
+   regarding items construction exploring factual scientific statements
+   about biological evolution.
+
+   Cited Bibliography (not included in the article):
+
+   Deniz, H., Donnelly, L.A. and Yilmaz, I. Exploring the factors related
+   to acceptance of evolutionary theory among Turkish preservice biology
+   teachers: Toward a more informative conceptual ecology for biological
+   evolution. Journal of Research in Science Teaching 45 (4): 420-443,
+   2008.
+
+--
+   18 Aug 2022
+
+   Acceptance of Evolution by High School Students: is religion the key
+   factor?
+
+--
+   PONE-D-22-03227R1
+
+   Acceptance of Evolution by High School Students: is religion the key
+   factor?
+

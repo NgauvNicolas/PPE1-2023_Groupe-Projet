@@ -1,1 +1,459 @@
+   #RSS
 
+   Menu
+
+Research Communities by Springer Nature
+
+   Search ____________________ (BUTTON) Search
+     * Register
+     * Sign In
+
+     * Home
+     * (BUTTON)
+       Health & Clinical Research
+          + Biomedical Research
+          + General & Internal Medicine
+          + Healthcare and Nursing
+          + Paediatrics, Reproductive Medicine & Geriatrics
+          + Pharmacy & Pharmacology
+          + Public Health
+          + Surgery
+     * (BUTTON)
+       Humanities & Social Sciences
+          + Arts and Humanities
+          + Behavioural Sciences and Psychology
+          + Business and Management
+          + Economics
+          + Education
+          + Law, Politics & International Studies
+          + Philosophy & Religion
+          + Social Sciences
+     * (BUTTON)
+       Life Sciences
+          + Agricultural and Food Science
+          + Anatomy and Physiology
+          + Bioengineering and Biotechnology
+          + Cancer
+          + Cell and Molecular Biology
+          + Ecology and Evolution
+          + Genetics and Genomics
+          + Immunology
+          + Microbiology
+          + Neuroscience
+          + Plant Science
+          + Zoology & Veterinary Science
+     * (BUTTON)
+       Mathematics, Physical & Applied Sciences
+          + Astronomy
+          + Chemistry
+          + Civil Engineering
+          + Computational Sciences
+          + Earth and Environment
+          + Electrical & Electronic Engineering
+          + Materials
+          + Mathematical and Computational Engineering applications
+          + Mathematics
+          + Mechanical Engineering
+          + Physics
+          + Statistics
+     * Protocols and Methods
+     * Research Data
+     * Sustainability
+     * About the Communities
+     * Communities Guidelines
+     * How do I create a post?
+
+   Register Sign In
+
+    1. ← Back to Behind the Paper
+    2.
+    3. The origin and evolution of woolly rhinoceros in the view of
+       ancient DNA
+
+   Springer Nature
+   Behind the Paper
+
+The origin and evolution of woolly rhinoceros in the view of ancient DNA
+
+   Woolly rhinoceros is one of the most popular species of the Ice Age,
+   which has been attracting great interests from both the scientific
+   community and the public. In recent years, technical advances in
+   ancient DNA have provided powerful tools for exploring the evolution of
+   this extinct star species.
+   Published Oct 11, 2023
+   Go to the profile of Junxia Yuan
+   Junxia Yuan and Guilian Sheng
+   2 contributors
+   Like
+   Go to the profile of Jennifer Harman
+   Go to the profile of India Ambler
+   Liked by Jennifer Harman and 1 other
+   0
+
+Read the paper
+
+   BioMed Central
+   BioMed Central BioMed Central
+
+   Ancient mitogenomes reveal a high maternal genetic diversity of
+   Pleistocene woolly rhinoceros in Northern China - BMC Ecology and
+   Evolution
+
+   Background Woolly rhinoceros (Coelodonta antiquitatis) is a typical
+   indicator of cold-stage climate that was widely distributed in Northern
+   Hemisphere during the Middle-Late Pleistocene. Although a plethora of
+   fossils have been excavated from Northern China, their phylogenetic
+   status, intraspecific diversity and phylogeographical structure are
+   still vague. Results In the present study, we generated four
+   mitogenomes from Late Pleistocene woolly rhinoceros in Northern China
+   and compared them with published data. Bayesian and network analyses
+   indicate that the analyzed individuals contain at least four maternal
+   haplogroups, and Chinese samples fall in three of them. One of our
+   samples belongs to a previously unidentified early diverging clade
+   (haplogroup D), which separated from other woolly rhinoceros around
+   0.57 Ma (95% CI: 0.76–0.41 Ma). The timing of this clade’s origin
+   coincides with the first occurrence of woolly rhinoceros, which are
+   thought to have evolved in Europe. Our other three samples cluster in
+   haplogroup C, previously only identified from one specimen from Wrangel
+   Island (ND030) and initially considered to be an isolated clade.
+   Herein, our findings suggest that ND030 is likely descended from a
+   northward dispersal of the individuals carrying haplogroup C from
+   Northern China. Additionally, Chinese woolly rhinoceros specimens
+   exhibit higher nucleotide diversity than those from Siberia. Conclusion
+   Our findings highlight Northern China as a possible refugium and a key
+   evolution center of the Pleistocene woolly rhinoceros.
+
+   The rhino family once evolved into at least 100 species, inhabited from
+   Africa across Eurasia to America, while only five critically endangered
+   species surviving at present. Among the extinct rhino species, woolly
+   rhinoceros (Coelodonta antiquitatis) is the most well-known one, which
+   became extinct at the end of the Late Pleistocene. Woolly rhinoceros is
+   an advanced species of the genus Coelodonta. The earliest
+   representative of this genus, Coelodonta thibetana (~3.7 million years
+   ago, Ma), originated in Qing-Tibetan Plateau, Southwestern China, then
+   gradually evolved into different cold-adapt forms in Northern China
+   since the start of Ice Age. Woolly rhinoceros is generally suggested as
+   a typical indicator taxa of cold environments, and once widely
+   distributed in Northern Eurasia during the Late Pleistocene. Unlike
+   mammoth, it failed to cross the Bering Land Bridge from Eurasia into
+   North America.
+
+   Figure 1. Parts of unearthed woolly rhinoceros remains from Ulanmulun
+   Paleolithic site, Inner Mongolia, Northern China. Credit: Lei Bao
+
+   Northern China is famous for “Mammuthus-Coelodonta faunas” during the
+   Late Pleistocene, and abundant woolly rhinoceros fossil materials have
+   been excavated from the Late Pleistocene strata in this region. Given
+   the early members of the genus Coelodonta originated in Northern China
+   and numerous woolly rhinoceros remains excavated in this region,
+   Northern China holds a crucial importance in the evolutionary history
+   of this genus. Paleontologists carried out a series of exploration on
+   fossil materials of Coelodonta in terms of morphological analyses, and
+   previously proposed that Chinese woolly rhinoceros possibly descended
+   from its Siberian relatives.
+
+   Figure 2. Qinggang County, Heilongjiang Province——one of the most
+   important fossil localities of “Mammuthus-Coelodonta faunas” in China.
+   Credit: Bo Xiao
+
+   In recent years, the rapid development of ancient DNA technologies,
+   especially the metagenomic technology, have greatly increased the
+   length of obtained sequences, making it possible to retrieve whole
+   genomes from fossil materials. Until present, the outcomes of
+   paleogenomic studies have fundamentally changed our understanding of
+   the evolutionary history of many extinct/extant species. Especially,
+   woolly mammoth, as one of the iconic members of
+   “Mammuthus-Coelodonta faunas”, has become a model species for ancient
+   DNA study due to its widespread distribution in Northern Hemisphere,
+   while woolly rhinoceroses has received far less attention in the
+   molecular level.
+
+   Our team has been dedicated to DNA studies of
+   Chinese Pleistocene-Holocene vertebrates over the past two decades,
+   trying to explore the evolutionary history of the analyzed populations.
+   We have focused on members of “Mammuthus-Coelodonta faunas” from
+   Northern China, such as woolly mammoth, straight-tusked elephant,
+   steppe bison, Ovodov horse, Przewalski׳s horse, red deer, roe deer,
+   tiger, and cave hyenas as well. Molecular studies suggested several
+   ancient Chinese populations showed close relationship to their Siberian
+   relatives. With regards to woolly rhinoceros, where did the Chinese
+   woolly rhinoceros come from? What is the exact phylogenetic status of
+   the Chinese woolly rhinoceros from a genetic perspective? How about the
+   genetic diversity level of Chinese individuals? To figure out problem
+   solving possibilities, we carried out ancient DNA study on Chinese
+   woolly rhinoceros individuals at about ten years ago. Unfortunately,
+   only several fragment sequences were obtained from the analyzed samples
+   at that time. However, the initial results and context of our previous
+   ancient DNA studies on other Pleistocene mammals greatly sparked our
+   interest in studying the genetic evolution of woolly rhinoceros.
+
+   Figure 3. Salawusu, Inner Mongolia, Northern China——with a high
+   proportion of woolly rhinoceros fossils from the Late Pleistocene
+   strata in this region. Credit: Taogetongqimuge
+
+   With help of our collaborators, we collected Late Pleistocene woolly
+   rhinoceros remains from seven locations distributed in Northern China.
+   We reconstructed the maternal phylogenetic trees based on the newly
+   obtained mitochondrial genomes and previous published data using
+   Bayesian and network analyses. Surprisingly, we found three Chinese
+   samples cluster with one Wrangel Island sample and form a distinct
+   maternal clade that previously proposed as an isolated lineage. Another
+   surprise comes from the appearance of the oldest mitochondrial lineage
+   of woolly rhinoceroses in Inner Mongolia, China. Moreover, the Late
+   Pleistocene woolly rhinoceros individuals in Northern China have
+   relatively high maternal genetic diversity compared with their Siberian
+   relatives.
+
+   Figure 4. Xinbarhu Left Banner, Inner Mongolia, Northern China——the
+   known habitat of the basal woolly rhinoceros lineage. Credit: Longmei
+   Bao
+
+   In summary, our new genetic data not only indicates the surprising
+   result that Northern China could be an important evolutionary center
+   for woolly rhinoceroses during the Pleistocene, but also suggests that
+   this famous extinct rhino possibly originated in this region rather
+   than in Europe that derived from fossil records. Although our
+   preliminary study has only uncovered the tip of the iceberg on the
+   evolutionary history of this rhino species, our findings herein
+   highlight that ancient DNA sequences from Chinese individuals are very
+   important for revealing the full picture of the evolution of woolly
+   rhinoceros, which will also have the enlightenment significance for
+   exploring the evolutionary history of the other members of
+   “Mammuthus-Coelodonta faunas” under the influence of global climate and
+   environmental changes in Quaternary.
+   Go to the profile of Junxia Yuan +1
+   Multiple Contributors
+   Junxia Yuan and Guilian Sheng
+   View all
+   (BUTTON) ×
+
+Contributors
+
+Author
+
+   Go to the profile of Junxia Yuan
+
+Junxia Yuan
+
+   Dr., China University of Geosciences (Wuhan)
+   Follow
+
+Contributing author
+
+   Go to the profile of Guilian Sheng
+
+Guilian Sheng (She/Her)
+
+   Prof., China University of Geosciences(Wuhan)
+   Follow
+
+Please sign in or register for FREE
+
+   If you are a registered user on Research Communities by Springer
+   Nature, please sign in
+   Sign In Register
+
+Subscribe to the Topic
+
+   Ecology
+   Life Sciences > Biological Sciences > Ecology
+     * BMC Ecology and Evolution BMC Ecology and Evolution
+
+BMC Ecology and Evolution
+       An open access, peer-reviewed journal interested in all aspects of
+       ecological and evolutionary biology.
+       More about the journal
+
+Related Collections
+
+   With collections, you can get published faster and increase your
+   visibility.
+
+Agroecology: protecting, restoring, and promoting biodiversity
+
+   The global food system is the predominant driver of biodiversity loss.
+   Food System Impacts on Biodiversity Loss, a 2021 Chatham House report,
+   supported by the UN Environment Programme (UNEP) and Compassion in
+   World Farming, estimates that agriculture alone is the main threat to
+   86% of the 28,000 species at risk of extinction. To protect, restore
+   and promote biodiversity, there is an increasing need to transition
+   towards more sustainable and resilient agri-food systems. To highlight
+   this issue and support the United Nation’s Sustainable Development
+   Goals (SGDs) 2: Zero hunger, 6: Clean water and sanitation, 12:
+   Sustainable consumption and production, 13: Climate action, 14: Life
+   below water, 15: Life on land, and 17: Partnerships for the goals, BMC
+   Ecology and Evolution has launched this collection to bring together
+   research on: · the development and implementation of sustainable
+   agricultural practices that promote healthy ecosystems, · upscaling
+   agroecological practices, · the impact of agroecology practices on
+   pollinators, · the role of consumers in agro-ecological food systems, ·
+   matter and energy flows in agroecosystems, · agroecology practices and
+   soil management, · the ecological management of plagues and diseases, ·
+   ecological restoration in agricultural landscapes, · the possible use
+   of agroecology to achieve carbon neutrality, and agroforestry.
+   (BUTTON) Show More
+
+   Publishing Model: Open Access
+
+   Deadline: Dec 27, 2023
+   Explore this collection
+
+Paleoecology of extinct species
+
+   Paleoecological studies offer captivating glimpses into long-lost
+   worlds. With recent technological advances, including new imaging and
+   DNA sequencing techniques, researchers are providing an increasingly
+   clear window to the past. BMC Ecology and Evolution has launched this
+   Collection to attract papers from this multidisciplinary field. The
+   Collection welcomes research: using micro- and macro fossils to study
+   the paleoecology and palaeontology, on the interactions between extinct
+   organisms and their environment over a variety of spatial and temporal
+   scales, using histology, imaging, chemical analysis, biomechanical
+   modeling techniques and other relevant approaches to unlock information
+   within fossils, using sedimentary ancient DNA (e.g. metabarcoding,
+   metagenomics, and target genome capturing) to gain paleoenvironmental/
+   paleoecological insights applying niche modeling, species distribution
+   modeling, and spatiotemporal modeling to investigate the distribution
+   ranges and population sizes for extinct species.
+   (BUTTON) Show More
+
+   Publishing Model: Open Access
+
+   Deadline: Dec 06, 2023
+   Explore this collection
+
+Recommended Content
+
+   Behind the Paper
+
+Bacteria provide a shuttle service for Type III Secretion System effectors
+
+   Bacteria provide a shuttle service for Type III Secretion System
+   effectors
+
+   Behind the Paper
+
+Driving and suppressing the human language network using large language
+models
+
+   Driving and suppressing the human language network using large language
+   models
+
+   Behind the Paper
+
+Wetland carbon dynamics and global warming
+
+   Wetland carbon dynamics and global warming
+
+   Behind the Paper
+
+Nanosensor Detection of Reactive Oxygen and Nitrogen Species Leakage in
+Frustrated Phagocytosis of Nanofibers
+
+   Nanosensor Detection of Reactive Oxygen and Nitrogen Species Leakage in
+   Frustrated Phagocytosis of Nanofibers
+
+   Behind the Paper
+
+T-cell stimulating vaccines empower CD3 bispecific antibody therapy in solid
+tumors
+
+   T-cell stimulating vaccines empower CD3 bispecific antibody therapy in
+   solid tumors
+   (BUTTON)
+
+Share this post
+
+   Choose a social network to share with, or copy the shortened URL to
+   share elsewhere
+
+Share with...
+
+   Twitter
+   Facebook
+   LinkedIn
+   WhatsApp
+   Email
+
+...or copy the link
+
+   https://go.nature.co
+   The origin and evolution of woolly rhinoceros in the view of ancient
+   DNA
+
+   communities.springernature.com
+
+The origin and evolution of woolly rhinoceros in the view of ancient DNA
+
+   Woolly rhinoceros is one of the most popular species of the Ice Age,
+   which has been attracting great interests from both the scientific
+   community and the public. In recent years, technical advances in
+   ancient DNA have provided powerful tools for exploring the evolution of
+   this extinct star species.
+   This is a representation of how your post may appear on social media.
+   The actual post will vary between social networks
+
+   This community is not edited and does not necessarily reflect the views
+   of Springer Nature. Springer Nature makes no representations,
+   warranties or guarantees, whether express or implied, that the content
+   on this community is accurate, complete or up to date, and to the
+   fullest extent permitted by law all liability is excluded.
+     * Website terms of use
+     * Online privacy notice
+     * Cookie policy
+     * Report content
+
+   Copyright © 2024 Springer Nature All rights reserved. Powered by
+   Zapnito.
+   Research Communities by Springer Nature
+
+Cookies
+
+   We use cookies to ensure the functionality of our website, to
+   personalize content and advertising, to provide social media features,
+   and to analyze our traffic. If you allow us to do so, we also inform
+   our social media, advertising and analysis partners about your use of
+   our website. You can decide for yourself which categories you want to
+   deny or allow. Please note that based on your settings not all
+   functionalities of the site are available.
+
+   Further information can be found in our privacy policy.
+   (BUTTON) Learn more and customise
+   (BUTTON) Reject All (BUTTON) Accept All
+   (BUTTON) ×
+
+Cookie Control
+
+   Customise your preferences for any tracking technology
+
+   The following allows you to customize your consent preferences for any
+   tracking technology used to help us achieve the features and activities
+   described below. To learn more about how these trackers help us and how
+   they work, refer to the cookie policy. You may review and change your
+   preferences at any time.
+   See the full cookie policy See the full privacy policy
+   (BUTTON) Reject All (BUTTON) Accept All
+   [X] Strictly Necessary More information
+
+   These trackers are used for activities that are strictly necessary to
+   operate or deliver the service you requested from us and, therefore, do
+   not require you to consent.
+   [ ] Advertising More information
+
+   These trackers help us to deliver personalized marketing content and to
+   operate, serve and track ads.
+   [ ] Social & Targeting More information
+
+   These trackers help us to deliver personalized marketing content to you
+   based on your behaviour and to operate, serve and track social
+   advertising.
+   [ ] Measurement More information
+
+   These trackers help us to measure traffic and analyze your behaviour
+   with the goal of improving our service.
+   [ ] Experience Enhancements More information
+
+   These trackers help us to provide a personalized user experience by
+   improving the quality of your preference management options, and by
+   enabling the interaction with external networks and platforms.
+   (BUTTON) Save and continue →

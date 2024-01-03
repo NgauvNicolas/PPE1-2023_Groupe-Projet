@@ -1,16 +1,1255 @@
-   Subscribe now
+   PMID: 28542179
 
-How could evolution arise from conscious agents?
+Teaching genetics prior to teaching evolution improves evolution
+understanding but not acceptance
 
-   Published 4 September 2019
 --
-   From Paul Mealing, Melbourne, Australia
+Rebecca Mead
 
-   Donald Hoffman claims to have used the theory of evolution by natural
-   selection to discover that what we perceive isn’t objective reality,
-   but an interface with it (3 August, p 34). He says evolution itself may
-   be just an interface projection of deeper dynamics stemming from a
-   network of conscious agents. But such agents arrive late in the fossil
-   record, so how could evolution arise before they existed?
+   The Milner Centre for Evolution, Department of Biology and
+   Biochemistry, University of Bath, Bath, England
+   Find articles by Rebecca Mead
+--
+Momna Hejmadi
 
-   Issue no. 3246 published 7 September 2019
+   The Milner Centre for Evolution, Department of Biology and
+   Biochemistry, University of Bath, Bath, England
+   Find articles by Momna Hejmadi
+--
+Laurence D. Hurst
+
+   The Milner Centre for Evolution, Department of Biology and
+   Biochemistry, University of Bath, Bath, England
+   Find articles by Laurence D. Hurst
+--
+   Author information Article notes Copyright and License information PMC
+   Disclaimer
+   The Milner Centre for Evolution, Department of Biology and
+   Biochemistry, University of Bath, Bath, England
+   University of Maine, United States of America
+--
+Abstract
+
+   What is the best way to teach evolution? As microevolution may be
+   configured as a branch of genetics, it being a short conceptual leap
+   from understanding the concepts of mutation and alleles (i.e.,
+   genetics) to allele frequency change (i.e., evolution), we hypothesised
+   that learning genetics prior to evolution might improve student
+   understanding of evolution. In the UK, genetics and evolution are
+   typically taught to 14- to 16-y-old secondary school students as
+   separate topics with few links, in no particular order and sometimes
+   with a large time span between. Here, then, we report the results of a
+   large trial into teaching order of evolution and genetics. We modified
+   extant questionnaires to ascertain students’ understanding of evolution
+   and genetics along with acceptance of evolution. Students were assessed
+   prior to teaching, immediately post teaching and again after several
+   months. Teachers were not instructed what to teach, just to teach in a
+   given order. Regardless of order, teaching increased understanding and
+   acceptance, with robust signs of longer-term retention. Importantly,
+   teaching genetics before teaching evolution has a significant (p <
+   0.001) impact on improving evolution understanding by 7% in
+   questionnaire scores beyond the increase seen for those taught in the
+   inverse order. For lower ability students, an improvement in evolution
+   understanding was seen only if genetics was taught first. Teaching
+   genetics first additionally had positive effects on genetics
+   understanding, by increasing knowledge. These results suggest a simple,
+   minimally disruptive, zero-cost intervention to improve evolution
+   understanding: teach genetics first. This same alteration does not,
+   however, result in a significantly increased acceptance of evolution,
+   which reflects a weak correlation between knowledge and acceptance of
+   evolution. Qualitative focus group data highlights the role of
+   authority figures in determination of acceptance.
+
+Author summary
+
+   What is the best way to teach evolution? We hypothesised that if
+   students know the fundamental concepts of genetics, then this might
+   help them understand evolution better. To evaluate this, we performed a
+   large trial in which pupils in United Kingdom secondary schools were
+   either taught genetics and then evolution or evolution and then
+   genetics. We found that the students being taught genetics first had a
+   5%–10% improvement in their understanding of evolution, above that
+   shown in the group taught evolution first. The change was seen in both
+   higher- and foundation-ability classes. Indeed, in the foundation
+   classes the genetics-first approach was the only approach that enabled
+   an increase in evolution understanding. Teaching genetics first comes
+   at no cost to genetics understanding (and may even improve it).
+   However, the genetics-first approach was no different from the
+   evolution-first approach in helping the acceptance of evolution.
+   Qualitative follow-up studies indicated a major role for authority
+   figures in determining acceptance, potentially explaining the weak
+   correlation between understanding and acceptance. These results suggest
+   a simple, minimally disruptive, zero-cost intervention to improve
+   evolution understanding: teach genetics first.
+
+Introduction
+
+   While Dobzhansky famously wrote, “nothing in biology makes sense except
+   in the light of evolution” [1], evolution remains one of the most
+   misunderstood topics in biology [2–4]. Despite its importance, public
+   understanding and acceptance of evolution is considered poor [5,6].
+   School-level teaching of evolution is, thus, important, at the very
+   least because this is often potentially the first formal introduction
+   many people have to the scientific understanding of the theory. There
+   are, however, concerns over its unsatisfactory teaching [5,7,8]. Many
+   studies suggest that not all teachers fully understand the theory of
+   evolution [9–15] and that some teachers incorporate alternative
+   nonscientific explanations within evolution lessons or even avoid the
+   topic completely [8,10,16,17]. Students’ grasp of evolution is often
+   poor and does not always agree with the scientific understanding
+   [18–21]. Commensurately, numerous studies report low levels of
+   understanding among first year undergraduate students [22–24]. These
+   factors likely contribute to the poor public understanding of evolution
+   reported by many researchers, including in the UK context [25,26]. This
+   tempts the question, what are the best methods to teach evolution?
+
+   This issue here is currently much debated, particularly at the
+   secondary school level (e.g. [27–29]). This is because the theory of
+   evolution can be a controversial issue [8,16,30]. Strong opposition is
+   well documented in the United States (e.g., [31–39]), but there is
+   increasing concern about the impact that religious movements or strong
+   cultural and social traditions may have on evolution education in other
+   countries, including Northern Ireland [40], Poland [41], Turkey [42],
+   and the UK [25,43]. There are also concerns that creationism has been
+--
+   to influence science lessons [25,43,44]. More generally, numerous
+   studies have focused on impediments to understanding and acceptance of
+   evolution. While religious orientation [42,45–47], prior
+   acceptance/rejection of the theory of evolution [46,48,49], and views
+   of authority figures including teachers and religious leaders
+   [16,18,48] are commonly cited reasons, reasoning skills
+   [18,19,45,48,50,51] are also considered to be of importance. However,
+   there has been relatively little work focused on improving teaching and
+   understanding of evolution. Much of the current evolution education
+   research is based on university students or teachers and may not be
+   applicable to school students. Secondary school level biology is
+--
+
+   Regardless of whether there is any real reason for concern, there is no
+   research within the UK that we are aware of that investigates evolution
+   acceptance and understanding amongst secondary school-aged students or
+   that investigates factors that might impact understanding and
+   acceptance. If concerns over evolution education are genuine, then
+   research is needed to find the best way to improve the situation. If,
+   however, there is less need for concern, UK students may provide an
+   interesting research focus as to how best to teach evolution, which
+   could be applicable not just within the UK but in countries where
+   evolution acceptance is more problematic.
+
+   As microevolution may be configured as a branch of genetics, it being a
+   short conceptual leap from understanding the concepts of mutation and
+   alleles (i.e., genetics) to allele frequency change (i.e., evolution),
+   we hypothesised that learning genetics prior to evolution might improve
+   student understanding of evolution. Prior research suggests a
+   relationship between evolution acceptance and genetics understanding,
+   or “genetic literacy,” exists [6]. This idea of a relationship between
+   knowledge of genetics and acceptance of evolution has not been widely
+   studied. It seems intuitive to hypothesise that good understanding of
+   genetics should help understanding, and possibly acceptance, of
+   evolution. DNA is the heritable material through which variation needed
+   for evolution occurs. Moreover, as basic genetics (as opposed to
+   applied genetics, genetically modified [GM] crops, cloning, etc.) is a
+   relatively neutral subject and not considered controversial in the ways
+   that evolution might be, teaching genetics first could be a means of
+   improving evolution education without any concerns over potentially
+   controversial issues.
+
+   There are supporters of linking the teaching of evolution with
+   genetics, but for the most part, this is based on opinion [28,52].
+   There are also some that do not view a role for genetics as helpful,
+--
+   argument would seem counterproductive, as the study of genetics does
+   provide further understanding of, and evidence for, the theory of
+   evolution. Moreover, Darwin’s argument for the logic of Natural
+   Selection in the early chapters of the Origin of Species specifically
+   required a heritable component [54]. There are rare examples of studies
+   in which trial teaching programmes include a sequential aspect [19],
+   but overall improvements in students’ understanding of evolution and
+   genetics may have been linked to the constructivist nature of the
+   teaching programme, rather than the order of topics or any links made
+--
+   The test that we perform is based within the UK setting. Since the
+   National Curriculum was introduced for schools in England and Wales in
+   1988, evolution has been a compulsory part of secondary science classes
+   and is currently included in GCSE (General Certificate of Education)
+   science and biology examination courses, typically taught to
+   14–16-year-olds [25,55]. This is when most students are first
+   introduced to the theory of evolution during their school education.
+   Parenthetically, this situation is changing, as evolution was
+   introduced to the primary curriculum in 2014. This does not affect the
+   students involved in this research study, but it will be very
+--
+
+   The secondary school biology GCSE courses involved in this research
+   project contain separate modules or topics featuring evolution and
+   genetics. Most of these do not specifically link evolution and
+   genetics, despite the obvious relationship between the two. According
+   to exam board specifications and many secondary school textbooks,
+   evolution is supported by fossil evidence, but there is rarely any
+   mention of genetics. Students are generally taught within “higher”- or
+   “foundation”- ability classes, and the hours of tuition and exact
+   content studied varies between these sets. Although both genetics and
+   evolution are taught to secondary school-aged students, the order of
+   these topics depends on exam boards and school or teacher preference,
+   and topics are not necessarily taught consecutively.
+
+   We hypothesise that if students learn about genetics before evolution,
+   this simple intervention could have a positive impact on learning. Our
+   motivation for this test is not simply one based on some limited prior
+--
+
+   In brief, we asked teachers to teach in 1 of 2 orders: genetics first
+   or evolution first. As it would be unethical to request some students
+   not to be taught both subjects, we have no control. Our design may be
+   considered a version of a crossover design [56]. The students were
+   tested before being taught, immediately after and then several months
+   after. Student response we define in 3 dimensions: understanding of
+   evolution, understanding of genetics, and acceptance of evolution.
+   Understanding of evolution (and genetics) refers to knowledge of a
+   subject and practical application of this knowledge (here, evolution
+   and genetics) and is different from acceptance, which refers to
+   agreement with an idea or theory or the recognition that a position is
+   valid or correct (here, the theory of evolution). The quantitative
+   tests were modifications of accepted tests of genetics understanding,
+   evolution understanding, and evolution acceptance. We followed up with
+   more limited quantitative analysis from interviews with students. With
+   a large number of classes being analysed, we presumed that our attempts
+--
+   for a higher-tier exam, or whether they are within a lower-ability set
+   and entered for a foundation-tier exam. We then ask whether teaching
+   order affects the extent of change in understanding of evolution and of
+   genetics. Importantly, we find evidence that teaching genetics first
+   improves the understanding of evolution, but also of genetics, more
+   than teaching evolution first improves both understandings. Indeed, in
+   the foundation class evolution understanding goes up only if genetics
+   is taught first. Finally, we address the issue of whether the same
+   intervention affects acceptance of evolution. We find no evidence that
+   teaching order modulates increases in evolution acceptance. This
+   possibly stems from the weak correlation between understanding of
+   evolution and acceptance. We employed a qualitative methodology to
+   explore possible reasons for this.
+
+Results
+
+Understanding of genetics and evolution
+
+Teaching has a positive impact on knowledge of evolution and genetics
+
+   If one of the purposes of education is to impart knowledge, then one
+   would hope that teaching has a positive impact on students’
+   understanding of the topics being taught. We examined whether this is
+   the case for evolution and genetics. Teaching has a positive impact on
+   knowledge of genetics, (Fig 1A, Z = 177,834 p < .001) and on knowledge
+   of evolution (Fig 1B, Z = 130,876.5, p < .001). Students’ knowledge of
+   genetics increased by 2 marks (6%) on average, and by half a mark (8%)
+   for evolution knowledge, but there was a wide range of variation.
+   Teaching only had a positive impact on the evolution knowledge of 48%
+   of students. 26% showed no change, and 26% showed a decrease in
+   understanding.
+--
+   Fig 1
+   Pre-, post-, and retention test scores for A), genetics knowledge B),
+   evolution knowledge, and C) evolution acceptance (genetics
+   knowledge—pre: n = 388, post: n = 363, retention: n = 329; evolution
+   knowledge—pre: n = 379, post: n = 346, retention: n = 310; evolution
+   acceptance—pre: n = 388, post: n = 365, retention: n = 329).
+
+   Raw data can be found in S1 and S2 Data.
+
+Higher-ability students gain more knowledge of evolution
+
+   Teaching has a positive impact on evolution understanding for
+   higher-ability students (Z = 95,800.5, p < .001) and for foundation
+   students, (Z = 2,746, p < .001). However, higher-ability students have
+   a greater level of evolution understanding before teaching (W =
+   223,415.5, p < .001) and after teaching (W = 169,066, p < .001). A
+   linked matching pairs approach has been taken to further investigate
+--
+   determined preteaching score are effectively eliminated as a covariate.
+
+   Both groups show a significant increase in understanding evolution
+   (higher: Z = 2,888.5, p < .001, lower: Z = 2,746, p < .001), but there
+   is a significant difference between the groups after teaching, with
+   higher-ability students showing a greater understanding of evolution
+   compared to those from foundation sets (W = 43761, p < .001), even when
+   students start with the same understanding of evolution. ANCOVA
+   predicting score change as a function of ability with pretest score as
+   a covariate similarly finds an affect of ability, with higher-ability
+--
+   Fig 2
+   Violin plot of the understanding of genetics for higher- and
+   foundation-ability students, pre- and post- learning about evolution
+   and genetics (higher pre: n = 1,354, lower pre: n = 358, higher post: n
+   = 1,203, lower post: n = 284).
+--
+   best for the higher-ability students.
+
+Teaching genetics first increases evolution knowledge
+
+   Does the teaching order—genetics or evolution first—make a difference
+   to learning outcome? Teaching has a positive impact on evolution
+   knowledge for those students who are taught genetics first (Z = 42,704,
+   p < .001) and for those who are taught evolution first (Z = 23,566, p <
+   .001). The 2 groups are not significantly different prior to learning
+   these topics (W = 302,352.2, p = 0.5.), but those students who were
+   taught genetics first have significantly higher post-teaching test
+   scores than those who were taught evolution first (W = 267,270, p <
+   .001). The change in scores was thus significantly different, with
+   those learning genetics first showing a greater increase in evolution
+   knowledge (W = 151,199.5, p < .001) (Fig 3). This change reflects a
+   mean difference of 0.4 marks, representing a 7% adjustment in
+   understanding. A linked approach was also utilised and confirmed these
+   findings: those students who learned genetics first showed a greater
+   increase in evolution knowledge than those who learned evolution first
+   (W = 166,702.5, p < .001). Similarly, ANCOVA with change predicted as a
+   function of order with pretest scores as a covariate find that genetics
+--
+   these p values are robust to multitest correction. We note too that
+   whether or not a teacher changed their order of teaching doesn’t
+   predict the change in evolution knowledge (W = 70,474, p = 0.25).
+   An external file that holds a picture, illustration, etc. Object name
+   is pbio.2002255.g003.jpg
+   Open in a separate window
+   Fig 3
+   Change in understanding of evolution (i.e., after teaching − before)
+   for different topic orders (genetics first: n = 779, evolution first: n
+   = 454).
+
+--
+
+   Above, we have shown that teaching genetics first appears to lead to
+   increased understanding of evolution. Does this come at a cost to
+   improvement of genetics understanding? One could reasonably argue that
+   there is no advantage to teaching genetics first if the net result is
+   an increase in evolution knowledge but at a cost of genetics
+   understanding. We find that, if anything, teaching genetics first
+   increases both genetic and evolution understanding.
+
+   Those taught using either topic order show an increase in genetics
+   knowledge (genetics first: Z = 63,098, p < .001, evolution first: Z =
+   28,941, p < .001). The 2 groups are, however, significantly different
+   both before teaching (W = 428,985, p < .001) and after (W = 352,946.5,
+--
+   Again, students taught both topic orders show a significant increase in
+   genetics understanding (genetics first: Z = 18,289, p < .001 and
+   evolution first: Z = 25,277, p < .001), but those who learn about
+   genetics first have significantly higher post-teaching test scores than
+   those students who learn about evolution first (W = 173251, p < .001).
+   The change in scores is also significantly different, with those
+   learning genetics first showing a greater increase in genetics
+--
+   ANCOVA for change in understanding of genetics with preteaching score
+   as a covariate for different topic orders (genetics first: n = 776,
+   evolution first: n = 451).
+
+   Here, we employ the subset of 4 pupils who completed all pre- and all
+   postquestionanaires. Raw data can be found in S1 and S2 Data.
+
+Acceptance of evolution
+
+   Having seen that teaching has a positive impact on understanding of
+   evolution and genetics, we now consider whether teaching has an impact
+   on acceptance of evolution. We then consider whether student ability or
+   the order in which topics are taught have any impact on evolution
+   acceptance.
+
+Teaching of evolution increases acceptance rates
+
+   The majority of students are accepting of evolution, even before
+   learning about the topic in secondary school. 78% of 1,712 students
+   accept evolution before they have learned about it. Of the remaining
+   students, 21% are undecided, and only 1% do not show acceptance towards
+   evolution. This suggests that most students are open to learning about
+   evolution in school (and indeed this was found within focus groups).
+   Education has an overall positive impact on evolution acceptance. The
+   proportion of 1,519 students who accept evolution increases to 85%,
+   with only 14% of students undecided about evolution. 1% of students
+   still have low acceptance. For definitions of acceptance
+   categorisation, see Methods.
+--
+   scores from individual students are compared. Overall, teaching has a
+   small but highly significant positive impact on students’ acceptance of
+   evolution (Z = 175,242.5, p < .001) (Fig 1C). The average change in
+   score is 2, which represents a 3% increase in acceptance. However,
+   acceptance does not increase for all students: 2/3 demonstrate a
+--
+   but it might be noteworthy that such a large proportion of students
+   show some decrease in acceptance. Overall, we see that students that
+   show larger increases in understanding of both genetics and evolution
+   show larger increases in evolution acceptance (Spearman correlations:
+   change in acceptance versus changes in genetics understanding: R[s] =
+   0.1, p < 0.0001; change in acceptance versus changes in evolution
+   understanding: R[s] = 0.07, p = 0.013). There is no significant
+   difference in the strength of these correlations (Monte Carlo
+--
+   from increased understanding.
+
+Higher-ability students have greater acceptance of evolution
+
+   Teaching has a positive impact on acceptance of evolution for both
+   higher-ability students (Z = 114,312, p < .001) and foundation-ability
+   groups of students (Z = 6,374.5, p < .001). However, higher-ability
+   students had a greater level of evolution acceptance before teaching
+   than foundation-ability students (W = 325,619.5, p < .001), as well as
+   after teaching (W = 240,955.5, p < .001) (Fig 5).
+--
+   Open in a separate window
+   Fig 5
+   Acceptance of evolution for higher- and foundation-ability students,
+   before and after learning about evolution and genetics (higher pre: n =
+   1,354, foundation pre: n = 358, higher post: n = 1,203, foundation
+   post: n = 284).
+--
+   (higher: Z = 4,765, p < .001, lower: Z = 6,337.5, p < .001). While
+   there is a significant difference between the groups after teaching
+   with higher-ability students showing a greater acceptance of evolution,
+   compared to those from lower-ability sets (W = 58,036, p = .03), this
+   result is marginal and is sensitive to Bonferonni correction.
+--
+   for pretest score (p for effect of ability, = 0.54).
+
+Topic order has no impact on evolution acceptance
+
+   Having shown that teaching order affects evolution understanding and
+   that teaching increases evolution acceptance, we now ask whether
+   teaching order affects evolution acceptance as would seem a logical
+   corollary of these 2 prior results. Students taught evolution first and
+   students taught genetics first both showed significant increase in
+   evolution acceptance after teaching (genetics first: Z = 67,718, p <
+   .001, evolution first: Z = 25,183.5, p < .001). However, these initial
+   comparisons also revealed that the 2 groups were significantly
+   different before they learned about evolution and genetics (W =
+   377,746.5, p = .005), but not significantly different after learning
+   about these topics (W = 289,152.5, p = .07). The reasons for this are
+--
+   predicted by teaching order in an ANCOVA (p = 0.85).
+
+Acceptance of evolution is more strongly correlated with genetics
+understanding than evolution understanding
+
+   Given that teaching improves evolution acceptance and understanding,
+   and teaching order makes a difference to evolution understanding, it is
+   curious that we detect no order effect on evolution acceptance. One
+   possible reason for this is that the correlation between evolution
+   understanding and acceptance is weak, and hence a small difference in
+   understanding (owing to topic order) translates into such a small
+--
+
+   Even before teaching, there is a moderate, positive relationship
+   between evolution acceptance and genetics understanding (R[s] = 0.42 p
+   < .001). Importantly, there is a strikingly weaker positive
+   relationship observed between evolution acceptance and evolution
+   understanding (R[s] = 0.24 p < .001) and between knowledge of genetics
+   and knowledge of evolution (R[s] = 0.19, p < .001). The correlation
+   between genetics understanding and evolution acceptance is
+   significantly stronger than that between evolution understanding and
+   evolution acceptance (Monte Carlo simulation, p < 0.0001). We conclude
+   that, perhaps surprisingly, genetics understanding correlates better
+   with evolution acceptance than evolution understanding does.
+
+   In order to better understand the part knowledge plays in acceptance,
+   partial correlations were calculated for the 2 principal variables. The
+   correlation between evolution acceptance and genetics knowledge, given
+   understanding of evolution, is rho = 0.39. The correlation between
+   evolution acceptance and evolution knowledge, controlling for genetics
+   knowledge, is only 0.18. Both results are highly significant (p <
+   .001). Again, the correlation between genetics knowledge and evolution
+   acceptance appears to be stronger than that between evolution knowledge
+   and evolution acceptance.
+
+   Correlations after teaching between evolution acceptance, genetics
+   understanding, and evolution understanding all appear similar to those
+   seen prior to teaching. There is significant, robust positive
+   correlation between acceptance of evolution and knowledge of genetics
+   (R[s] = 0.41 p < .001), between acceptance of evolution and knowledge
+   of evolution (R[s] = 0.27 p < .001), and between understanding of
+   evolution and knowledge of genetics (R[s] = 0.39 p < .001) after
+   teaching (Fig 6) (Correlations of all pre- and postrelationships can be
+   found in Table 1). Partial correlations, again, show very similar
+   correlations as seen previously: the correlation between evolution
+   acceptance and genetics knowledge, controlling for evolution knowledge,
+   is stronger than that between evolution acceptance and evolution
+   knowledge (Table 2). The correlation between genetics understanding and
+   evolution acceptance is again significantly stronger than that between
+   evolution understanding and evolution acceptance (Monte Carlo
+   simulation, p < 0.001).
+
+Table 1
+
+   Spearman correlations between evolution acceptance, genetics knowledge,
+   and evolution knowledge.
+
+   All correlations are highly significant (p < .001). These pretests were
+--
+   S1 and S2 Data.
+   R[s]                                         Pre  Post
+   Evolution acceptance and genetics knowledge  0.42 0.41
+   Evolution acceptance and evolution knowledge 0.24 0.27
+   Evolution knowledge and genetics knowledge   0.19 0.39
+   Open in a separate window
+
+Table 2
+
+   Partial Spearman correlations between evolution acceptance and genetics
+   knowledge, controlling for evolution knowledge and evolution acceptance
+   and evolution knowledge, controlling for genetics knowledge.
+
+   All correlations are highly significant (p < .001). Raw data can be
+   found in S1 and S2 Data.
+   R[s] Pre Post
+   Evolution acceptance and genetics knowledge, given evolution knowledge
+   0.39 0.35
+   Evolution acceptance and evolution knowledge, given genetics knowledge
+   0.18 0.14
+   Open in a separate window
+--
+   Fig 6
+
+   A. Relationship between acceptance of evolution and understanding of
+   genetics, before and after learning about evolution and genetics. B.
+   Relationship between understanding of evolution and understanding of
+   genetics, before and after learning about evolution and genetics. C.
+   Relationship between acceptance of evolution and understanding of
+   evolution, before and after learning about evolution and genetics.
+   Here, we employ the subset of data for pupils who completed all pre-
+   and all postquestionanaires. Regression lines are for indicative
+   purposes alone. Raw data can be found in S1 and S2 Data.
+
+   These results suggest that a unit increase in evolution understanding
+   is likely to have only a very small incremental effect on evolution
+   acceptance as the correlation between the 2 is weak both before and
+   after teaching. Thus, it is logically possible that a small increment
+   to evolution understanding (owing to order effects) translates as only
+   a very small increase in the weakly-correlated evolution acceptance,
+   too weak to be detectable by us. It is notable that the strongest
+   relationship is seen between evolution acceptance and genetics
+   knowledge. While causality here is unclear and may reflect little more
+   than underlying ability, this we highlight as a most enigmatic result.
+   It also lays the basis for the hypothesis that better understanding of
+   genetics may be an optimal strategy, if the desired end is increase in
+   both evolution understanding and evolution acceptance. This, we
+   suggest, is worthy of further scrutiny.
+
+Qualitative analysis suggests authority conditions acceptance
+
+   Our results show the positive impact on evolution understanding that
+   teaching has and factors that impact this—most importantly, topic
+   order. Teaching also has a positive impact on acceptance. Why, then,
+   might acceptance and understanding be so poorly correlated? Qualitative
+   data collected from focus groups suggest that not what is taught, but
+   who evolution is taught by, is more important for acceptance. Many
+   students were happy to admit that they accept evolution because it’s
+   what they had been told by their parents or taught by their teachers,
+   although a few students acknowledged that this is something most people
+--
+     —(Year 9 student)
+
+     “I don’t know if there is such evidence [for evolution], we’ve just
+     been told that this is right.”
+
+--
+   Important figures were not just people that students knew. Television
+   documentaries were commonly given as a source of information about
+   evolution, and some students felt these, and their presenters, were
+   important in helping them accept evolution:
+
+     “Even in like TV programmes they make it really convincing as well.”
+--
+     —(Year 10 student)
+
+   This student had initially felt uncomfortable about learning evolution
+   due to their religious beliefs, but having the knowledge that their
+   religion accepted evolution was of importance. It ensured that they
+   were able to learn about evolution and not cause any disruption to the
+   class. It could be argued that there are underlying issues here and
+   that, ideally, students should have a better understanding of the
+   nature of science and its differences from religion. However, if this
+   simple teacher intervention can ensure religious students are more
+   comfortable and open to learning about evolution, this may appear a
+   defensible approach to take.
+
+--
+
+   Given the key findings regarding topic order, combined with the strong
+   evidence found that ability has a big impact on evolution acceptance
+   and evolution and genetics understanding, it is important to ask
+   whether the topic order effect observed in the previous section is
+   independent of ability. This is for 2 reasons. First, there is the
+--
+   students within the 2 topic orders can be found in Table 3. From this,
+   it is clear that, for reasons unknown, foundation-ability students
+   tended to be taught evolution first. To address the statistical concern
+   as well as the pedagogical concern, analysis is therefore needed to
+   distinguish the impact of topic order from that of ability. The
+--
+
+   Proportions of higher- (n = 1,456) and foundation- (n = 430) ability
+   students taught genetics first and evolution first.
+
+   Raw data can be found in S1 and S2 Data.
+--
+                    n       %        n         %
+   Genetics first  933 64           212 49
+   Evolution first 523 36           218 51
+   Open in a separate window
+
+Teaching genetics first is best for increasing evolution knowledge for both
+higher- and foundation-ability students
+
+   Higher-ability students show significant increase in evolution
+   understanding regardless of which topic order they are taught first
+   (genetics first: Z = 33,239.5, p < .001, evolution first: Z = 15,882.5,
+   p = .004). The 2 order groups were not significantly different before
+   teaching (W = 195,495.5, p = .7), but higher-ability students who
+   learned about genetics first demonstrate greater evolution knowledge
+   after teaching than those who were taught evolution first (W =
+   1,777,056.5, p = .005). Similarly, there is a significant difference
+   between the change in scores, with those taught genetics first showing
+   the greater increase in knowledge of evolution (Fig 7.; W = 178,140, p
+   = 1.4 x 10^−5). The difference in change was, on average, a 6.4%
+   increase in knowledge of evolution.
+   An external file that holds a picture, illustration, etc. Object name
+   is pbio.2002255.g007.jpg
+   Open in a separate window
+   Fig 7
+   Change in understanding of evolution due to teaching for higher-ability
+   students taught genetics first (n = 683) and evolution first (n = 372)
+   and for foundation-ability students taught genetics first (n = 93) and
+   evolution first (n = 79).
+
+   Data plotted here is for the subset of the data in which all students
+--
+   Perhaps most striking, we find that within the foundation-ability
+   students, only those that were taught genetics first saw a significant
+   increase in evolution understanding (genetics first: Z = 599, p < .001,
+   evolution first: Z = 758, p = 0.9). Those who learned about genetics
+   first showed a greater increase in understanding compared to those who
+   were taught evolution first (Fig 7; W = 24,172, p = 0.025, sensitive to
+   Bonferonni correction). This represents a difference of about 9% in
+   change in scores.
+
+   In addition, we performed a multivariate regression to predict change
+   in evolution, understanding scores with ability and topic order as
+   factors, and pretest score as a covariate. This reveals that both topic
+   order (estimate 0.34, p < 0.001) and ability (estimate 0.28, p =
+--
+   show a significant increase in genetics understanding regardless of
+   which topic order they are taught first (genetics first: Z = 45,985, p
+   < .001, evolution first: Z = 15,202.5, p < .001). However, the 2 groups
+   are significantly different before (W = 263,571.5, p < .001) and after
+   (W = 222,113.5, p < .001) teaching. Therefore, a linked data approach
+   has been utilised to further investigate these changes. Again, both
+   linked groups show a significant increase in knowledge (genetics first:
+   Z = 10,050, p < .001, evolution first: Z = 13,372, p < .001). There is
+   a significant difference between the 2 groups after teaching (W =
+   91,467.5, p < 0.001) with those who learned about genetics first having
+   higher post-teaching scores than those who were taught evolution first.
+   Those who learned genetics first also show a greater increase in
+   knowledge than those taught evolution first (W = 70,724.5, p = .002),
+   supported also by ANCOVA (estimate 1.2, p = 1.4 x 10^−7).
+
+   Foundation-ability students also show a significant increase in
+   genetics understanding regardless of which topic order they are taught
+   first (genetics first: Z = 1,342, p < .001, evolution first: Z =
+   2,099.5, p < .001). The 2 groups were not significantly different
+   before teaching (W = 16,048.5, p = .97), but foundation-ability
+   students who learned about genetics first demonstrated greater genetics
+   knowledge than those who were taught evolution first (W = 12,162, p =
+   .002). There was a significant difference between the change in scores
+   with those taught genetics first showing the greater change in
+--
+   beneficial.
+
+Topic order has no impact on evolution acceptance in both ability groups
+
+   Above, we found no significant effect of topic order on evolution
+   acceptance. Does this apply to both ability groups? Higher-ability
+   students taught either topic order show a significant increase in
+   evolution acceptance (genetics first: Z = 47,143.5, p < .001, evolution
+   first: Z = 14,699, p < .001). The 2 groups are significantly different
+   before learning about evolution and genetics (W = 228,160, p = .01) but
+   are similar after teaching (W = 179,555, p = .05). A linked approach is
+   again used and again finds that both groups show a significant increase
+   in knowledge after teaching (genetics first: Z = 12,390.5, p < .001,
+   evolution first: Z = 14,552, p < .001). There is no significant
+   difference between the post-teaching scores of the 2 groups (W =
+   91,474, p = .06), nor is there any difference in the amount of change
+--
+
+   Similarly, foundation-ability students show a significant increase in
+   acceptance of evolution, regardless of topic order (genetics first: Z =
+   1,822, p < .001, evolution first: Z = 1,370, p < .001). The 2 groups
+   are not significantly different before (W = 14,718.5, p = .1) or after
+   (W = 10,405.5, p = .05) teaching. There was also no significant
+   difference in the amount of change between the 2 order groups (W =
+   6,856.5, p = .1). In addition, we performed a multivariate regression
+   to predict change in evolution acceptance scores with ability and topic
+   order as factors and pretest score as a covariate. This reveals that
+   neither topic order (p < 0.88) nor ability (p = 0.55) are predictors.
+--
+   with ability of students and, crucially, teaching genetics first helps
+   both ability groups with no detriment to genetics understanding. That
+   is to say, teaching genetics first increases understanding of evolution
+   and genetics for both higher- and foundation-ability students. Topic
+   order appears to have no impact on evolution acceptance, regardless of
+   academic ability.
+
+--
+
+   The previous results have all compared understanding and acceptance
+   immediately before and after students have learned about evolution and
+   genetics. In order to better understand what happens after time has
+   lapsed since teaching, we ask whether students retain this knowledge
+--
+   previously). The timing of the retention test varied between classes
+   but was generally 3 to 6 months after these topics were taught, and did
+   not correspond to any revision or examination of evolution or genetics.
+   For many students, secondary school may be the last (if not only) time
+   they learn about evolution. The responses found within these retention
+   tests may therefore be representative of students’ lasting thoughts and
+   understandings of these topics.
+--
+   representative of the larger sample.
+
+   Teaching has a positive and long-term impact on evolution acceptance,
+   genetics understanding, and evolution understanding. As previously
+   observed, students show significant increase in acceptance and
+   understanding immediately after learning about evolution and genetics
+   (evolution acceptance: Z = 8,749.5, p < .001; genetics understanding: Z
+   = 8,574.5, p < .001; evolution understanding: Z = 8,269, p < .001).
+   Perhaps surprisingly, evolution acceptance and evolution understanding
+   have not changed significantly by the time of the retention test
+   (evolution acceptance: Z = 16,879, p = .63; evolution understanding: Z
+   = 7,479; p = .054). Genetics understanding decreased significantly
+   between the post-teaching and retention tests (Z = 12,560.5, p < .048).
+--
+   times for each of the 3 scores measures. In no case did we observe
+   anything even approaching a significantly lower mean dispersion than
+   expected by chance (evolution acceptance, p = 0.77; evolution
+   knowledge, p = 0.56; genetics knowledge, p = 0.22). To check that this
+   wasn’t an artefact of high variance when there are few recorded
+   samples, we reanalysed requiring a minimum of 6 change calculations per
+   class. We again find no evidence for underdispersion (evolution
+   acceptance, p = 0.78; evolution knowledge, p = 0.58; genetics
+   knowledge, p = 0.17). Analysing each of the 3 questions stratified into
+   high and low groups similarly finds no evidence for underdispersion
+--
+   appropriate, it is also helpful to ask whether a much more conservative
+   class-level analysis provides any support for the hypothesis that
+   teaching genetics first improves evolution understanding. To address
+   this, we calculated for each class a mean change (post score −
+   prescore) for each of the 3 parameters (acceptance and understanding x
+   2). We then performed Mann Whitney U tests for each of the 3
+   parameters, comparing those classes taught evolution first with those
+   taught genetics first.
+
+--
+   student-focused analysis (just 70 classes in which we have at least 1
+   student doing all the pre tests and all the post tests), nonetheless we
+   see that teaching genetics first significantly improves evolution
+   understanding (p = 0.004), with the mean class increase in score being
+   approximately double that of the evolution-first treatment (Table 4).
+   Stratifying this by ability leads to an even more conservative test, as
+   we have only 18 qualifying foundation-ability classes. Even in this
+   stratification, however, we still see that teaching genetics first
+   improves evolution understanding compared to the opposite order,
+   although the effect is significant only in the larger sample size
+   high-ability class (p = 0.006), where “genetics-first” changes in
+   scores are over 2.5 times greater than with evolution-first (Table 4).
+   In the foundation-ability class, evolution understanding change scores
+   are improved in the genetics-first order, but not significantly so.
+   This may be a sample size issue, as with only 9 classes in each
+--
+   one. We see no evidence that genetics understanding is adversely
+   affected by being taught first (Table 4) and, again, no evidence that
+   evolution acceptance is affected by ordering (Table 4).
+
+Table 4
+--
+   order.
+
+   p-Value is from a Mann Whitney U test. Ea = Evolution acceptance, gk =
+   genetics knowledge, ek = evolution knowledge. EF = evolution first, GF
+   = Genetics first. p-Values in bold are significant after Bonferonni
+   correction. Raw data can be found in S1 and S2 Data.
+--
+
+   Our results suggest that, at least in the UK setting, teaching of
+   evolution and genetics is in a constructive position. Teaching improves
+   understanding and acceptance, these increases showing strong signs of
+   longer-term retention. Overall, evolution acceptance is high among the
+   diverse secondary school students that we sampled, increasing to 85%
+   after teaching. This being said, some students spoke in the focus
+   groups of expecting there to be more evidence for evolution than was
+   presented in their lessons, this suggesting possible improvements.
+
+   Most importantly, topic order is implicated in increasing understanding
+   of these topics: students who are taught genetics before evolution have
+   significantly greater knowledge of evolution and genetics, compared to
+   students who are taught evolution first. Importantly, this same
+   strategy appears not to be to the detriment of genetics understanding,
+   which, if anything, is also improved by teaching genetics first. This
+   suggests a simple, cost-free, minimally disruptive process to improve
+   evolution understanding: namely, teaching genetics first. Importantly,
+   too, for the foundation-ability students, only if genetics was taught
+   first do we see an improvement in evolution knowledge. Given that there
+   is so little cost in such a change, even if the results of our analysis
+   were to prove not to be replicable, we can see little-to-no downside of
+   this small switch in teaching practice. Given that teaching genetics
+   first appears to be the only strategy that improves evolution
+   understanding for those of foundation ability, we suggest that it might
+   be negligent not to adopt this practice. Given, too, the strong
+   correlation between genetics understanding and evolution acceptance, an
+   optimal method to improve understanding of genetics and evolution, as
+   well as to improve evolution acceptance, may be to concentrate more
+   effort into the teaching of the genetic concepts that underpin the
+   mechanisms of evolutionary change.
+
+Why might order matter?
+--
+   synergistic explanation might be that, as nearly all of the material
+   needed to understand allele frequency change is front loaded under the
+   banner of genetics and not under the banner of evolution, the core
+   foundational concepts were absorbed in a context that mitigates
+   belief-associated cognitive biases (e.g., confirmation bias [61]). That
+--
+   presented under the umbrella of genetics. Once accepted, the
+   cognititive dissonance [62] associated with processing information
+   under the banner “evolution” might be considerably lessened, as the
+   student has only one bit of information to process—alleles can change
+   frequency—which, additionally, follows as a logical consequence
+   (conceptual priming) of the material absorbed without confirmation
+   bias. Consistent with this, we found in qualitative data numerous
+   examples of students anxious about learning evolution because of their
+   religious beliefs, indicative of possible cognitive dissonance.
+
+   If the second explanation is correct, it might be best to teach
+   material that is evolution under the banner “genetics” or “population
+   genetics.” This “evolution by stealth” strategy could be tested by
+   presenting the same “genetics first, evolution second” material under
+   different banners. In the control, the students would be told
+   explicitly that they are now switching to studying “evolution” and in
+   the second, they would be told explicitly that they are now switching
+   to studying “population genetics.” If the result is owing to any of the
+--
+   first year university level) and also in public engagement.
+
+Why is evolution understanding and acceptance weakly coupled?
+
+   Teaching evolution and genetics results in a significant increase in
+   evolution acceptance, regardless of teaching order. While the “genetics
+   first” option had demonstrable effects on evolution understanding, the
+   same was not true for evolution acceptance. This could be explained (in
+   statistical terms) as a consequence of a decoupling of evolutionary
+   knowledge from acceptance of evolution. After partial correlation
+   control, we report a correlation between evolution understanding and
+   evolution acceptance of R = 0.18, making R^2 just ~3% (Table 2). That
+   is to say, variation in one parameter explains only 3% of the variation
+   in the other. As a consequence, assuming a causal arrow between
+   understanding and acceptance, a small but detectable increase in
+   evolution understanding owing to teaching order is expected to have, at
+   most, a miniscule effect on increased evolution acceptance, so
+   miniscule as to be beyond the resolution of this study, despite its
+   relatively large sample sizes.
+
+   Our qualitative analysis suggests coherent reasons for the decoupling
+   of evolution understanding, not least of which is what might be
+   considered “authority.” For students of a religious background, this
+   appeared to be of some importance, as might be expected given the prior
+   literature on religious-based impediments to acceptance of evolution in
+   numerous contexts. Anecdotally, it appears that simple statements
+   concerning the acceptance of evolution by key religious authority
+   figures, prior to teaching, may enable some students to approach
+   evolution as they would any other science. However, the data here are
+   anecdotal.
+
+--
+   these terms would provide more insight into relationships with
+   acceptance. Discussions with students would suggest that they know
+   evidence for evolution exists, yet few are able to describe any of this
+   evidence in any detail or even give examples. They appear to have
+   limited understanding of evidence. However, these students are still
+   accepting of evolution. This also leads to the question, what is known?
+   Are there particular areas of genetics or evolution knowledge that
+   provoke evolution acceptance? Or, indeed, are there specific aspects of
+   genetics knowledge that enrich evolution knowledge?
+
+Are we teaching foundation classes appropriately?
+
+   While teaching genetics first was the only order in which the
+   foundation students improved understanding of evolution, one possible
+   source of concern in our results is the consistency with which teaching
+   improves scores for higher-ability students more than it does for
+--
+   One hypothesis to address these observations is that, despite the fact
+   that “genetics first” was the only strategy that led to improvements of
+   evolution understanding for the foundation-ability group, what works
+   for the teaching of high-ability students may not be optimal for
+   foundation students. This in turns suggests the possibility of
+--
+   than owing to the teacher. The premise of our design was to assume that
+   with enough different teachers and classes, for every exceptional
+   teacher teaching evolution first, there would be an equally exceptional
+   one teaching genetics first. It remains a possibility that the
+   genetics-first effect was owing to especially good teachers being, by
+--
+   however, be properly randomised, because they were constrained as to
+   order (e.g., they needed more advanced warning to buy in resources).
+   However, there appear to be as many who taught evolution first as
+   taught genetics first, so we don’t expect this to be a major issue.
+   Nonetheless, this constraint means that our trial isn’t of the strict
+--
+
+   The null hypothesis (HO): there is no difference in terms of student
+   response between the genetics-then-evolution and the
+   evolution-then-genetics sequences.
+
+   The positive hypothesis (H+): there is an advantage in terms of student
+   response for genetics-then-evolution sequence over
+   evolution-then-genetics sequence.
+
+   The negative hypothesis (H−): there is an advantage in terms of student
+   response for evolution-then-genetics over genetics-then-evolution
+   sequence.
+
+   Student response we define in 3 dimensions: understanding of evolution,
+   understanding of genetics, and acceptance of evolution. In terms of the
+   student response regarding genetics understanding, we had no prior
+   supposition that order would affect its understanding and so there is
+--
+   a significant effect of any variety is searched for and a story told
+   about the significant effect. In this context, we wish to state that
+   the study design and intent were lodged with the funders, the Evolution
+   Education Trust in March 2011, the project starting several months
+   after. The project title was “The teaching of evolution and genetics:
+   an investigation into the place of knowledge about genetics in
+   accepting the theory of evolution by natural selection.”
+
+   The aim of the project was stipulated thus:
+--
+   material presented and allows rigorous evaluation of the hypothesis
+   that ‘front-loading’ the genetics component makes a difference. By
+   comparing the understanding of evolution and genetics before and after
+   the presentation of the packages, we shall be able to determine whether
+   the order of presentation of the genetics-related information has an
+--
+   In addition, we chose to nest the study in a survey of survey of
+   understanding of 14–16-year-old UK school childrens’ understanding and
+   acceptance of evolution prior to any teaching (as here reported). For
+   this, samples sizes in the thousands are the norm, and this informed
+   the choice to maximize. As a priori, the students have to be taught
+   both streams (genetics and evolution) and no information was available
+   to say if either might be better, we presumed no harm. Thus, no power
+   calculation was performed. For considerations of the ideal and
+--
+
+   Quantitative data were collected through a student questionnaire to
+   determine acceptance of evolution and understanding of genetics and
+   evolution. This was devised for GCSE-level students (14–16-year-olds)
+   who study evolution and genetics as part of their science GCSE science
+   course. An advantage of analysis of this age group is that order
+   effects may well be most easily detected if there has been little or no
+   priming. While primary school children in the UK are presently expected
+   to be taught basic genetics and evolution on the national curriculum,
+   this is a recent introduction and the cohort we analysed did not have
+   this exposure. Indeed, this academic stage was chosen as it is
+   currently the first, and perhaps only, period at which students have to
+   learn about evolution. This cohort is not self-selecting in the way
+   that a higher academic stage might be. For example, students aged from
+   16–18 and studying for a Biology A-Level qualification will already
+--
+   not have chosen to study the subject further. Therefore, in choosing to
+   study GCSE-level students, this research has involved a wide variety of
+   students, in terms of academic ability and interest in evolution and
+   science.
+
+   Where possible, the student questionnaire was used at 3 times:
+     * Pretest—prior to learning both genetics and evolution;
+     * Post-test—immediately after learning of both topics;
+     * Retention test—approximately 3 to 6 months after the teaching of
+--
+   without further intervention. However, some schools were also asked to
+   make changes to their normal teaching, such as to change the order in
+   which evolution and genetics were taught, and/or to include an activity
+   which linked the 2 topics. Due to the time constraints of teaching exam
+   specifications and limited flexibility within some school schemes of
+--
+
+   The questionnaire consists of 25 questions: 13 focus on acceptance of
+   evolution (Section A), 6 on genetics knowledge (Section B), and 6 on
+   evolution knowledge (Section C). None of the questions involve extended
+   writing and are all variations of the multiple-choice question. These
+   types of questions were chosen for their practicalities: to aid student
+--
+
+   At all stages of the questionnaire development, including a pilot
+   study, evolution and education experts were consulted from the
+   University of Bath along with practising teachers. The questionnaire
+   was designed with time constraints in mind: teachers consulted during
+--
+   The final questionnaires are presented in S7 Text.
+
+Evolution acceptance
+
+   Section A assesses students’ opinions towards evolution and consists of
+   13 Likert Scale items. These were based largely on the Measure of
+   Acceptance of the Theory of Evolution (MATE), which was developed to
+   assess biology teachers’ acceptance of evolution [64] and later,
+   undergraduate students’ acceptance of evolution [65]. The original MATE
+   instrument consists of 20 items spread disproportionately across 6
+   subsections of evolutionary concepts or aspects. It was decided that
+   this was too long for school students. Appropriate questions were
+   chosen based on their relevance to these different aspects of evolution
+   and their accessibility to school-aged students. Given that the MATE
+   has been developed and tested predominately on teachers and
+--
+   language used were needed. Where necessary, statements were reworded to
+   make them more understandable. Two items were also based on Lovely and
+   Konderick’s study [67] into undergraduate opinions of evolution. This
+   section was found to be reliable through internal consistency checks
+   (alpha 0.82, G6 0.83).
+--
+   for individual items are measured on a scale of 1 to 5, corresponding
+   to “very high acceptance,” “high acceptance,” “undecided,” “low
+   acceptance,” or “very low acceptance” of evolution. Students receive a
+   total score of between 13 and 65 (a higher score represents a higher
+   acceptance of evolution). The acceptance categories referred to here
+   are an amalgamation of the 2 “high” and “low” acceptance categories
+   (“undecided” remains unchanged) as detailed in Table 5. This is based
+--
+Table 5
+
+   Categorisation of evolution acceptance.
+   Acceptance Category Scores
+   Low                 13–32
+--
+   genetics and to add variety to the questionnaire for students.
+
+Evolution knowledge
+
+   Section C focuses on evolution knowledge and consists of 6 questions.
+   This section includes a variety of different aspects of evolution,
+   including natural selection and geological time. Most of these were
+   variations of questions used by Rutledge and Warden [49] in their
+   research into acceptance and understanding of evolution among high
+   school biology teachers. Additionally, a number of questions were
+   devised with the assistance of evolution experts. Each question was
+   scored equally with a section total out of 6.
+
+--
+               Foundation      430                22
+   Topic order Genetics first  1145               49
+               Evolution first 741                29
+   Open in a separate window
+
+--
+   Focus groups were designed to better understand the responses found in
+   the student questionnaires, i.e., why students were or were not
+   accepting of evolution; how these views related to knowledge of
+   evolution; how these related to knowledge of genetics; and what other
+   factors are important. Seventy-six students were involved in 16 focus
+   groups. These students were from 10 different schools. The largest
+--
+
+   Significance is taken at alpha <0.05. The 3 variables (change in
+   evolution acceptance, change in genetics understanding, and change in
+   evolution understanding) we consider to be 3 discrete hypotheses and
+   thus perform no multitest correction to allow for this dimension of
+   multiplicity. However, when stratified by ability, it is reasonable to
+--
+   GLAI Genetics Literacy Assessment Instrument
+   GM   genetically modified
+   MATE Measure of Acceptance of the Theory of Evolution
+
+Funding Statement
+
+   Evolution Education Trust. The funder had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+--
+
+   1. Dobzhansky T. Nothing in Biology Makes Sense Except in the Light of
+   Evolution. The American Biology Teacher. 1973;35(3):125–9. [Google
+   Scholar]
+   2. Ehrle EB. Notes on the Teaching of Evolution. The American Biology
+   Teacher. 1960;22(7):418–9. [Google Scholar]
+   3. Johnstone AH, Mahmoud NA. Isolating topics of high perceived
+--
+   1980;14(2):163–6. 10.1080/00219266.1980.10668983 [CrossRef] [Google
+   Scholar]
+   4. Dodick J, Orion N. Introducing Evolution to Non-Biology Majors via
+   the Fossil Record: A Case Study from the Israeli High School System.
+   The American Biology Teacher. 2003;65(3):185–90. [Google Scholar]
+   5. Alters BJ, Nelson CE. Perspective: Teaching Evolution in Higher
+   Education. Evolution; international journal of organic evolution.
+   2002;56(10):1891–901. [PubMed] [Google Scholar]
+   6. Miller JD, Scott EC, Okamoto S. Public Acceptance of Evolution.
+   Science. 2006;313:765–6. 10.1126/science.1126746 [PubMed] [CrossRef]
+   [Google Scholar]
+   7. Rutledge ML, Mitchell MA. High School Biology Teachers' Knowledge
+   Structure, Acceptance & Teaching of Evolution. The American Biology
+   Teacher. 2002;64(1):21–8. [Google Scholar]
+   8. Berkman MB, Plutzer E. Defeating Creationism in the Courtroom, But
+   Not in the Classroom. Science. 2011;331(6016):404–5.
+   10.1126/science.1198902 [PubMed] [CrossRef] [Google Scholar]
+   9. Zimmerman M. The Evolution-Creation Controversy: Opinions of Ohio
+   High School Biology Teachers. Ohio J Sci. 1987;87(4):115–25. [Google
+   Scholar]
+   10. Griffith JA, Brem SK. Teaching evolutionary biology: Pressures,
+   stress, and coping. Journal of Research in Science Teaching.
+   2004;41(8):791–809. 10.1002/tea.20027 [CrossRef] [Google Scholar]
+   11. Moore R. How Well Do Biology Teachers Understand the Legal Issues
+   Associated with the Teaching of Evolution? Bioscience.
+   2004;54(9):860–5. [Google Scholar]
+   12. Goldston MJD, Kyzer P. Teaching evolution: Narratives with a view
+   from three southern biology teachers in the USA. Journal of Research in
+   Science Teaching. 2009;46(7):762–90. 10.1002/tea.20289 [CrossRef]
+   [Google Scholar]
+   13. Nehm RH, Kim SY, Sheppard K. Academic preparation in biology and
+   advocacy for teaching evolution: Biology versus non-biology teachers.
+   Science Education. 2009;93(6):1122–46. 10.1002/sce.20340 [CrossRef]
+   [Google Scholar]
+   14. Sanders M, Ngxola N. Addressing teachers' concerns about teaching
+   evolution. Journal of Biological Education. 2009;43(3):121–8.
+   10.1080/00219266.2009.9656166 [CrossRef] [Google Scholar]
+   15. Trani R. I Won't Teach Evolution; It's Against my Religion. And Now
+   for the Rest of the story. The American Biology Teacher.
+   2004;66(6):419–27. [Google Scholar]
+   16. Hildebrand D, Bilica K, Capps J. Addressing controversies in
+   science education: a pragmatic approach to evolution education. Science
+   & Education. 2006;17(8–9):1033–52. 10.1007/s11191-006-9066-2 [CrossRef]
+   [Google Scholar]
+   17. Berkman MB, Pacheco JS, Plutzer E. Evolution and Creationism in
+   America’s Classrooms: A National Portrait. PLoS Biol. 2008;6(5):0920–4.
+   10.1371/journal.pbio.0060124.g001 [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   18. Woods CS, Scharmann LC. High School Students’ Perceptions of
+   Evolutionary Theory. Electronic Journal of Sciene Education. 2001;6(2).
+   [Google Scholar]
+   19. Banet E, Ayuso GE. Teaching of biological inheritance and evolution
+   of living beings in secondary school. International Journal of Science
+   Education. 2003;25(3):373–407. 10.1080/09500690210145716 [CrossRef]
+   [Google Scholar]
+   20. Farber P. Teaching Evolution and the Nature of Science. The
+   American Biology Teacher. 2003;65(5):347–54. [Google Scholar]
+   21. Andrews TM, Kalinowski ST, Leonard MJ. “Are Humans Evolving?” A
+   Classroom Discussion to Change Student Misconceptions Regarding Natural
+   Selection. Evolution: Education and Outreach. 2011;4(3):456–66.
+   10.1007/s12052-011-0343-4 [CrossRef] [Google Scholar]
+   22. Jakobi SR. “Little Monkeys on the Grass…” How People for and
+   Against Evolution Fail to Understand the Theory of Evolution.
+   Evolution: Education and Outreach. 2010;3(3):416–9.
+   10.1007/s12052-010-0214-4 [CrossRef] [Google Scholar]
+   23. Bishop BA, Anderson CW. Student Conceptions of Natural Selection
+   and its Role in Evolution. Journal of Research in Science Teaching.
+   1990;27(5):415–27. [Google Scholar]
+   24. Cunningham DL, Wescott DJ. Still More “Fancy” and “Myth” than
+   “Fact” in Students’ Conceptions of Evolution. Evolution: Education and
+   Outreach. 2009;2(3):505–17. 10.1007/s12052-009-0123-6 [CrossRef]
+   [Google Scholar]
+   25. Williams JD. Creationist Teaching in School Science: A UK
+   Perspective. Evolution: Education and Outreach. 2008;1(1):87–95.
+   10.1007/s12052-007-0006-7 [CrossRef] [Google Scholar]
+   26. British Council. Darwin Survey Reveals Divided Britain in Attitudes
+   Towards Evolution. Press Release [Internet]. 2009.
+   http://www.britishcouncil.org/darwin_now_survey_uk.pdf.
+   27. Mead LS, Branch G. Overcoming Obstacles to Evolution Education—Why
+   Bother Teaching Evolution in High School. Evolution: Education and
+   Outreach. 2011;4:114–6. [Google Scholar]
+   28. Weiss M, Dressmann DC. Aspirations and Expectations: Comparing
+   Scientist and Teacher Views as a Source of Ideas for Teaching
+   Evolution. Universal Journal of Educational Research. 2014;2(5):421–31.
+   10.13189/ujer.2014.020504 [CrossRef] [Google Scholar]
+   29. Alvarez Pérez E, Ruiz Gutiérrez R. Proposal for Teaching
+   Evolutionary Biology: A bridge between research and educational
+   practice. Journal of Biological Education. 2015;50(2):123–46.
+   10.1080/00219266.2015.1007887 [CrossRef] [Google Scholar]
+   30. Hermann RS. Breaking the Cycle of Continued Evolution Education
+   Controversy: On the Need to Strengthen Elementary Level Teaching of
+   Evolution. Evolution: Education and Outreach. 2011;4(2):267–74.
+   10.1007/s12052-011-0325-6 [CrossRef] [Google Scholar]
+   31. Shotwell TK. The Problem of Evolution. The American Biology
+   Teacher. 1965;27(10):765–9. [Google Scholar]
+   32. Aguillard D. Evolution Education in Louisiana Public Schools: A
+   Decade Following: Edwards v Aguillard. The American Biology Teacher.
+   1999;61(3):182–8. [Google Scholar]
+   33. Lerner LS. Good Science, Bad Science: Teaching Evolution in the
+   States. Thomas B Fordham Foundation; 2000. [Google Scholar]
+   34. Bybee RW. Teaching about Evolution—Old Controversy, New Chllenges.
+   Bioscience. 2001;51(4):309–12. [Google Scholar]
+   35. Borenstein J. Textbook Stickers: A Reasonable Response to
+   Evolution? Science & Education. 2006;17(8–9):999–1010.
+   10.1007/s11191-006-9032-z [CrossRef] [Google Scholar]
+   36. Bowman KL. The evolution battles in high-school science classes:
+   who is teaching what? Front Ecol Environ. 2008;6(2):69–74.
+   10.1890/070013 [CrossRef] [Google Scholar]
+   37. Scott EC, Branch G. Overcoming Obstacles to Evolution Education:
+   The OOPSIE Compromise—A Big Mistake. Evolution: Education and Outreach.
+   2008;1(2):147–9. 10.1007/s12052-008-0038-7 [CrossRef] [Google Scholar]
+   38. Miller KR. Evolution—by the (Text) Book. Evolution Education
+   Outreach. 2010;3:225–30. [Google Scholar]
+   39. Meikle WE. Banning Evolution. Evolution: Education and Outreach.
+   2011;4(3):453–5. 10.1007/s12052-011-0358-x [CrossRef] [Google Scholar]
+   40. McCrory C, Murphy C. The Growing Visibility of Creationism in
+   Northern Ireland: Are New Science Teachers Equipped to Deal with the
+   Issues? Evolution: Education and Outreach. 2009;2(3):372–85.
+   10.1007/s12052-009-0141-4 [CrossRef] [Google Scholar]
+   41. Borczyk B. Creationism and the Teaching of Evolution in Poland.
+   Evolution: Education and Outreach. 2010;3(4):614–20.
+   10.1007/s12052-010-0292-3 [CrossRef] [Google Scholar]
+   42. Deniz H, Donnelly LA, Yilmaz I. Exploring the factors related to
+   acceptance of evolutionary theory among Turkish preservice biology
+   teachers: Toward a more informative conceptual ecology for biological
+   evolution. Journal of Research in Science Teaching. 2008;45(4):420–43.
+   10.1002/tea.20223 [CrossRef] [Google Scholar]
+   43. Allgaier J. Scientific Experts and the Controversy About Teaching
+   Creation/Evolution in the UK Press. Science & Education.
+   2009;19:797–819. 10.1007/s11191-009-9195-5 [CrossRef] [Google Scholar]
+   44. Branigan T. Top school’s creationists preach value of biblical
+   story: state-funded secondary teachers do not accept findings of
+   Darwin. The Guardian. 2002. 09/03/02. [Google Scholar]
+   45. Lawson AE, Worsnop WA. Learning about Evolution and Rejecting a
+   Belief in Special Creation: Effects of Reflective Reasoning Skill,
+   Prior Knowledge, Prior Belief and Religious Commitment. Journal of
+   Research in Science Teaching. 1992;29(2):143–66. [Google Scholar]
+   46. McKeachie WJ, Lin Y-G, Strayer J. Creationist vs. Evolutionary
+   Beliefs: Effects on Learning Biology. The American Biology Teacher.
+   2002;64(3):189–92. [Google Scholar]
+   47. Yasri P, Mancy R. Understanding Student Approaches to Learning
+   Evolution in the Context of their Perceptions of the Relationship
+   between Science and Religion. International Journal of Science
+   Education. 2014;36(1):24–45. 10.1080/09500693.2012.715315 [CrossRef]
+   [Google Scholar]
+   48. Donnelly LA, Kazempour M, Amirshokoohi A. High School Students’
+   Perceptions of Evolution Instruction: Acceptance and Evolution Learning
+   Experiences. Research in Science Education. 2008;39(5):643–60.
+   10.1007/s11165-008-9097-6 [CrossRef] [Google Scholar]
+   49. Rutledge ML, Warden MA. Evolutionary Theory, the Nature of Science
+   & High School Biology Teachers: Critical Relationships. The American
+   Biology Teacher. 2000;62(1):23–31. [Google Scholar]
+--
+   in Science Teaching. 1990;27(6):589–606. [Google Scholar]
+   52. Smith JJ, Baum DA, Moore A. The Need for Molecular Genetic
+   Perspectives in Evolutionary Education (and Vice Versa). Trends Genet.
+   2009;25(10):427–9. 10.1016/j.tig.2009.09.001 [PubMed] [CrossRef]
+   [Google Scholar]
+--
+   es-2011.pdf.
+   64. Rutledge ML, Warden MA. The Development and Validation of the
+   Measure of Acceptance of the Theory of Evolution Instrument. School
+   Science and Mathematics. 1999;99(1):13–8. [Google Scholar]
+   65. Rutledge ML, Sadler KC. Reliability of the Measure of Acceptance of
+   the Theory of Evolution (MATE) Instrument with University Students. The
+   American Biology Teacher. 2007;69(6):332–5. [Google Scholar]
+   66. Rutledge ML, Sadler KC. University Students' Acceptance of
+   Biological Theories—Is Evolution Really Different? Journal of College
+   Science Teaching. 2011;41(2):38–43. [Google Scholar]
+   67. Lovely EC, Kondrick LC. Teaching Evolution: Challenging Religious
+   Preconceptions. Integr Comp Biol. 2008;48(2):164–74. Epub 2008/08/01.
+   10.1093/icb/icn026 [PubMed] [CrossRef] [Google Scholar]
+   68. Nadelson LS, Sinatra GM. Shifting Acceptance of Evolution:
+   Promising Evidence of the Influence of the Understanding Evolution
+   Website. The Researcher. 2010;23(1):13–29. [Google Scholar]
+   69. Rutledge ML. Indiana High School Biology Teachers and Evolutionary
+   Theory: Acceptance and Understanding: Ball State University; 1996.
+   70. Bowling BV, Acra EE, Wang L, Myers MF, Dean GE, Markle GC, et al.

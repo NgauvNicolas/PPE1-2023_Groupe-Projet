@@ -1,23 +1,324 @@
-   Dogs
+   PMID: 30816905
 
-Humans may have influenced evolution of dogs’ eye colour, researchers say
+Science and evolution
 
-   Dark eyes are more common in domesticated dogs, possibly because we
+   Claudia A.M. Russo^ 1 ^and Thiago André^ 2
 --
-     *
+Abstract
 
-   Human preferences for a friendly face may have steered the evolution of
-   canine eye colour, researchers have suggested.
+   Evolution is both a fact and a theory. Evolution is widely observable
+   in laboratory and natural populations as they change over time. The
+   fact that we need annual flu vaccines is one example of observable
+   evolution. At the same time, evolutionary theory explains more than
+   observations, as the succession on the fossil record. Hence, evolution
+   is also the scientific theory that embodies biology, including all
+   organisms and their characteristics. In this paper, we emphasize why
+   evolution is the most important theory in biology. Evolution explains
+   every biological detail, similar to how history explains many aspects
+   of a current political situation. Only evolution explains the patterns
+   observed in the fossil record. Examples include the succession in the
+   fossil record; we cannot find the easily fossilized mammals before 300
+--
+   Additionally, the fact that we are able to construct fairly consistent
+   phylogenetic trees using distinct genetic markers in the genome is only
+   explained by evolutionary theory. Finally, we show that the processes
+   that drive evolution, both on short and long time scales, are
+   observable facts.
+   Keywords: evolutionary theory, science, scientific method, scientific
+   theory, macroevolution
+
+   In recent years, the teaching of creationism within science curricula
+--
+   2011; Baltzley, 2016; Ross, 2017), where many bills have been submitted
+   to the Houses of Representatives encouraging teachers to express their
+   criticism about evolution. In more serious cases, such as Turkey,
+   evolution has recently been removed from the high school curriculum
+   (Kingsley, 2017), and in Brazil, intelligent design research has
+   recently reached university level (Silva, 2017). The rise of
+--
+   scientists to hastily step into the scene. With this in mind, we felt
+   compelled to address basic aspects of science and of the scientific
+   method in the evolution versus divine creation debate in a scientific
+   journal.
 
 --
-   perceive dogs with dark eyes as being more friendly.
+   discovered facts.
 
-   “I speculate that lighter irises have some evolutionary advantage for
-   wolves, but domestication has lost this selective pressure and darker
-   eyes have emerged in some primitive dogs,” said Akitsugu Konno, the
+Evolution as a fact and theory
+
+   Evolution is a population concept. An individual does not evolve; only
+   populations evolve in the face of the genetic changes accumulated from
+   one generation to the next. The flu virus evolves. This explains why
+   last years’ flu vaccine does not work on the current strain of the
+   virus: only the resistant strains of the virus survived last year’s
+   vaccine application. This is a textbook example of evolution by natural
+   selection. Genetic modifications are encountered in the resistant
+   strains; thus, evolution is a fact (Gould, 1981). Mutation, migration,
+   natural selection, and genetic drift are the evolutionary forces that
+   drive genetic changes of natural populations from one generation to the
+   next. This is known among biologists as microevolution.
+
+   On the other hand, evolutionary theory explains more than those facts
+   that we can routinely observe. This makes it a theory, but is it just a
+   theory? The word theory has distinct meanings in science and in lay
 --
-     * Dogs
-     * Pets
-     * Evolution
-     * news
+   Furthermore, the more universal the theory, the more robust it becomes
+   with time, as more tests would have been performed. According to
+   Darwin, evolutionary theory is centred around two points (Darwin,
+   1859). First, from one generation to the next, natural populations
+   change over time by a process of natural selection. Second, all
+   organisms have a common ancestor, and the time since this last common
+   ancestor lived is inversely proportional to the similarities that the
+   organisms will share today. Hence, evolutionary theory is universal
+   because it includes all (living and fossil) biological diversity and
+   has implications for all heritable characteristics of life. Since 1859,
+   evolutionary theory has become the most universal and, hence, widely
+   tested of the scientific theories in biology.
 
+--
+   have provided more details on how natural populations evolve. One
+   example is the understanding that, at the molecular level, random
+   evolution, rather than natural selection, plays the most important role
+   (Kimura, 1991). This is known as the neutral theory, which completed
+   its 50^th anniversary in 2018.
+--
+   The substance of Darwin’s original theory, however, remains. Theodosius
+   Dobzhansky (1973) shared his astonishment that Charles Darwin proposed
+   the theory of evolution without many key biological concepts, such as
+   that DNA is the molecule responsible for heredity. Half a century after
+   Dobzhansky’s paper, it remains impressive that the theory of evolution
+   still stands valid in light of the discoveries of the molecular biology
+   revolution. Each newly sequenced genome tests some aspects of Darwin’s
+   theory, and, on each case, the sequence has been consistent with
+   Darwin’s prediction of the shared evolutionary history of life. The
+   sharp increase in scope and universality of evolution has strengthened
+   Darwin’s original proposal and made evolutionary theory one of the most
+   reliable and tested theories in the natural sciences (National Academy
+   of Sciences, 2008).
+
+   Some creationists dispute this information, claiming that scientists
+   discredit data that go against evolutionary theory. Nonetheless, there
+   is no room for considering worldwide, long-lasting conspiracies in
+   science, as scientific fame and recognition come from the demolition of
+   old theories, not from adherence to them (Atkins, 1995). Indeed,
+   scientists themselves have challenged many aspects of the original
+   Darwinian theory of evolution, such as the importance of neutral
+   evolution, the discovery of epigenetics, the proposal of punctuated
+   equilibrium, etc. When these challenges were first proposed, they were
+   not ignored; they were published in top scientific journals and have
+--
+
+   Furthermore, if scientists were dishonestly accepting a false theory of
+   evolution, Lamarck’s theory of inheritance of acquired characters would
+   still be considered valid today. However, it is not. In the XIX
+   century, August Weissman (1889) removed the tails of 20 generations of
+--
+   descendants’ tails. Scientists themselves devised the scientific
+   experiment that bluntly rejected Lamarck’s proposal as a mechanism of
+   evolution (Dobzhansky, 1973). Scientists do not discredit data that
+   goes against evolution; otherwise, Lamarck’s idea would still be
+   accepted. They discredit scientific untestable theories and
+   explanations that were not gathered using the scientific method.
+--
+   Just as human history explains the geopolitical configurations of our
+   world today, modern biological systems are a direct result of their
+   evolutionary past. Hence, evolutionary theory is the cornerstone of the
+   discipline of biology (Rutledge and Warden, 2000). The discipline of
+   biology today is an instantaneous portrayal of the dynamic evolutionary
+   axis that arose with the origin of life and has been changing by
+   evolution ever since (Figure 2). With the first life, genetics,
+   ecology, biochemistry and evolution began.
+   An external file that holds a picture, illustration, etc. Object name
+   is 1415-4757-GMB-1678-4685-GMB-2018-0086-gf02.jpg
+   Open in a separate window
+   Figure 2
+   The relationship between evolution and biology. Ever since the origin
+   of life, evolutionary processes, such as mutation, selection, and
+   genetic drift, are responsible for genetic change in natural and
+   laboratory populations. Hence, biology is an instantaneous snap-shot of
+   the dynamic evolutionary axis. This simplified figure illustrates some,
+   of the many, faunal explosions that have took place since the origin of
+   life.
+
+   As a scientific theory, however, which facts does evolutionary theory
+   explain? One pivotal example is the succession in the fossil record.
+   This evolution, namely, macroevolution, explains the larger
+   evolutionary picture that is the appearance of the greater groups, such
+   as the evolution of mammals, insects, and plants. Fossilized mammals
+   are easily recognized, as they have distinct types of teeth, such as
+   molars, canines, and incisors. These vertebrates are also very likely
+--
+   2013), birds, whales (Thewissen, 2009), horses, and humans. These
+   successions in the fossil record are the most obvious evidence to
+   macroevolution (Figure 2). In fact, the entire fossil record is a set
+   of millions of intermediate fossils that provide solid evidence of how
+   macroevolution worked in the past billion years.
+
+Evolutionary processes that drive micro and macroevolution are facts
+
+   To have a better understanding of evolution, we must discuss the
+   processes that drive evolution. For this, we start by comparing
+   processes that drive microevolution with those that drive
+   macroevolution. Many of the same evolutionary processes that drive
+   microevolution also drive macroevolution, namely natural selection,
+   mutation, migration, and genetic drift. A lineage will tend to
+   diversify if it has adaptations that increase survival and reproductive
+--
+   increase population size and the geographical distribution of the
+   ancestral species that will more likely speciate into two descendant
+   species. Hence, according to this view, macroevolution is
+   microevolution on a larger scale (Zimmer, 2001), with biological
+   speciation as the only additional process (Russo et al., 2016). Through
+   speciation, one ancestral species gives rise to two descendant species
+--
+   we observe biological species with interbreeding members and
+   reproductive isolation between species is compatible with both separate
+   creation and macroevolution. So, which observable pattern would we
+   expect if many speciation events generated the vast biological
+   diversity from a single common ancestor? In this case, we would expect
+--
+   and a frog. For instance, the cellular respiration is a process shared
+   by ferns and frogs and it is an evidence of their common ancestry. Only
+   macroevolution explains well the distinct degrees of similarity between
+   these four isolated species, as the age of their last common ancestor
+   is inversely proportional to the similarity between any two species.
+--
+   we would expect if all life had a common ancestry.
+
+   Other fossil record patterns are well explained by macroevolution. For
+   instance, why do we find a major increase in mammalian fossil diversity
+   only after the disappearance of non-avian dinosaurs approximately 65
+   million years ago? The same pattern is observed in the fossil record of
+   birds. Macroevolution explains this well, as the extinction of
+   dinosaurs eliminated competition, and the surviving ancestral mammals
+   were able to increase in number and diversified through speciation,
+--
+   explanation for a natural phenomenon, we eliminate the possibility of
+   eventually being able to explain it naturally. Thus, the scientific
+   revolution begun when we eliminated the divine as a scientific
+   explanation.
+
+   Science, as a process, starts with the acceptance of our ignorance
+   about a natural phenomenon and by seeking natural explanations for it.
+   Hence, ignorance drives the engine of Science. Even if evolution were,
+   hypothetically, rejected, contested by new data, scientists would have
+   to study hard to find an alternative natural explanation that was able
+   to explain everything that evolution explains today plus the new data
+   that contested it.
+
+   Evolution is a fact and a well-supported scientific theory. It has
+   endured daily and rigorous testing, and it stands as the unifying
+   theory in biology (Rutledge and Warden, 2000). This says nothing about
+   whether God created or did not create the world, as science is unable
+   to distinguish a divinely guided evolution from a materialistic
+   evolution. God may well have created the biological world through
+   natural selection, mutation, speciation, extinction, etc. Still,
+   evolution and Science would remain unscathed as Science is not
+   concerned with why or who, but only with how.
+
+   Some creationists say that we must bring the evolution versus
+   creationist debate to the classroom and claim that the opposition to
+   the debate is anti-scientific. However, science is not about blind
+--
+
+   A recent study has suggested that science concepts, more than
+   evolutionary basics, are critical to promoting evolution (Dunk et al.,
+   2017). One way to reinforce these fundamentals would be the requirement
+   of evolution and science fundaments in admission policies for biology
+   professionals, particularly teachers (Larkin and Perry-Ryder, 2015; see
+   Rutledge and Warden, 2000 for statistics).
+--
+       sex. John Murray, London, 450 p.
+     * Dobzhansky T. Nothing in biology makes sense except in the light of
+       evolution. Am Biol Teach. 1973;75:87–91. [Google Scholar]
+       Dobzhansky T (1973) Nothing in biology makes sense except in the
+       light of evolution. Am Biol Teach 75:87-91.
+     * Dunk RDP, Petto AJ, Wiles JR, Campbell BC. A multifactorial
+       analysis of acceptance of evolution. Evol Edu Outreach. 2017;10:4.
+       [Google Scholar]
+       Dunk RDP, Petto AJ, Wiles JR and Campbell BC (2017) A
+       multifactorial analysis of acceptance of evolution. Evol Edu
+       Outreach 10:4.
+     * Futuyma DJ, Kirkpatrick M. Evolution. 4th edition. Sinauer;
+       Sunderland: 2017. p. 594. [Google Scholar]
+       Futuyma DJ and Kirkpatrick M (2017) Evolution. 4^th edition.
+       Sinauer, Sunderland, 594 p.
+     * Ghose T. Just a theory: 7 Misused Science Words. 2013. [accessed 19
+--
+       Gilbert SW (1991) Model building and a definition of science. J Res
+       Sci Teach 28:73-79.
+     * Gould SJ. Evolution as fact and theory. Discover. 1981;2:34–37.
+       [Google Scholar]
+       Gould SJ (1981) Evolution as fact and theory. Discover 2:34-37.
+     * Jackson DF, Doster EC, Meadows L, Wood T. Hearts and minds in the
+       science classroom: The education of a confirmed evolutionist. J Res
+       Sci Teach. 1995;32:585–611. [Google Scholar]
+       Jackson DF, Doster EC, Meadows L and Wood T (1995) Hearts and minds
+       in the science classroom: The education of a confirmed
+       evolutionist. J Res Sci Teach 32:585–611.
+     * Kimura M. The neutral theory of molecular evolution: A review of
+       recent evidence. Jpn J Genet. 1991;66:367–386. [PubMed] [Google
+       Scholar]
+       Kimura M (1991) The neutral theory of molecular evolution: A review
+       of recent evidence. Jpn J Genet 66:367-386. [PubMed]
+     * Kingsley P. Turkey drops evolution from curriculum, angering
+       secularists. 2017. [accessed 19 January 2019].
+       https://www.nytimes.com/2017/06/23/world/europe/turkey-evolution-hi
+       gh-school-curriculum.html.
+       Kingsley P (2017) Turkey drops evolution from curriculum, angering
+       secularists,
+       https://www.nytimes.com/2017/06/23/world/europe/turkey-evolution-hi
+       gh-school-curriculum.html (accessed 19 January 2019)
+     * Kutschera U, Elliot JM. Do mudskippers and lungfishes elucidate the
+       early evolution of four-limbed vertebrates? Evol Edu Outreach.
+       2013;6:8. [Google Scholar]
+       Kutschera U and Elliot JM (2013) Do mudskippers and lungfishes
+       elucidate the early evolution of four-limbed vertebrates? Evol Edu
+       Outreach 6:8.
+     * Larkin DB, Perry-Ryder GM. Without the light of evolution: A case
+       study of resistance and avoidance in learning to teach high school
+       biology. Sci Edu. 2015;99:549–576. [Google Scholar]
+       Larkin DB and Perry-Ryder GM (2015) Without the light of evolution:
+       A case study of resistance and avoidance in learning to teach high
+       school biology. Sci Edu 99:549–576.
+--
+       Meyer D and El-Hani C (2013) O que está em jogo no confronto entre
+       criacionismo e evolução. Filos Hist Biol 8:211-222.
+     * Miller JD, Scott EC, Okamoto S. Public acceptance of evolution.
+       Sci. 2006;313:765–766. [PubMed] [Google Scholar]
+       Miller JD, Scott EC and Okamoto S (2006) Public acceptance of
+       evolution. Sci 313:765-766. [PubMed]
+     * Miller ER, Moro PL, Cano M, Shimabukuro TT. Deaths following
+       vaccination: What does the evidence show? Vaccine.
+--
+       many species are there on Earth and in the Ocean? PLoS Biology
+       9:e1001127. [PMC free article] [PubMed]
+     * National Academy of Sciences . Science, evolution and creationism.
+       National academies; Washington: 2008. p. 88. [Google Scholar]
+       National Academy of Sciences (2008) Science, evolution and
+       creationism. National academies, Washington, 88 p. [PMC free
+       article] [PubMed]
+     * Paz-y-Miño G, Spinosa A. On the theory of evolution versus the
+       concept of evolution: Three observations. Evol Edu Outreach,
+       2011;4:308–312. [PMC free article] [PubMed] [Google Scholar]
+       Paz-y-Miño G and Spinosa A (2011) On the theory of evolution versus
+       the concept of evolution: Three observations. Evol Edu Outreach,
+       4:308-312. [PMC free article] [PubMed]
+     * Project 2061 American Association for the Advancement of Science .
+--
+       Russo CAM, Aguiar B, Voloch CM and Selvatti AP (2016) When Chinese
+       masks meet phyologenetics. Am Biol Teacher 78:241-247.
+     * Rutledge ML, Warden MA. Evolutionary theory, the nature of science
+       & High School Biology teachers: Critical relationships. Am Biol
+       Teacher. 2000;62:23–31. [Google Scholar]
+       Rutledge ML and Warden MA (2000) Evolutionary theory, the nature of
+       science & High School Biology teachers: Critical relationships. Am
+       Biol Teacher 62:23-31.
+--
+       Weismann A (1889) Essays upon Heredity and Kindred Biological
+       Problems. Clarendon, Oxford.
+     * Zimmer C. Evolution, the triumph of an idea. Harper Collins; New
+       York: 2001. p. 528. [Google Scholar]
+       Zimmer C (2001) Evolution, the triumph of an idea. Harper Collins,
+       New York, 528 p.
+     __________________________________________________________________

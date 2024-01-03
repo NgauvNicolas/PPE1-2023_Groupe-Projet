@@ -1,14 +1,394 @@
-   Subscribe now
+   PMID: 28446711
 
-Evolution in reverse is nothing surprising
+Chemical roots of biological evolution: the origins of life as a process of
+development of autonomous functional systems
 
-   Published 28 July 2021
 --
-   are no longer needed.
+Carlos Briones
 
-   The idea that evolution is unidirectional is a fallacy, as Stephen Jay
-   Gould wrote. The reality is that where there is a niche, evolution
-   often finds ways to fill it, regardless of the direction of previous
-   evolution.
+   ^3Department of Molecular Evolution, Centro de Astrobiología
+   (CSIC–INTA, Associated to NASA Astrobiology Institute), 28850 Torrejón
+   de Ardoz, Madrid, Spain
+--
+   ^2Department of Logic and Philosophy of Science, University of the
+   Basque Country, 20018 Donostia – San Sebastián, Spain
+   ^3Department of Molecular Evolution, Centro de Astrobiología
+   (CSIC–INTA, Associated to NASA Astrobiology Institute), 28850 Torrejón
+   de Ardoz, Madrid, Spain
+--
 
-   Advertisement
+   In recent years, an extension of the Darwinian framework is being
+   considered for the study of prebiotic chemical evolution, shifting the
+   attention from homogeneous populations of naked molecular species to
+   populations of heterogeneous, compartmentalized and functionally
+--
+   the individual units, which require an adequate characterization as
+   self-maintaining systems with an internal organization, and also in
+   relation to their collective and long-term evolutionary dynamics, based
+   on competition, collaboration and selection processes among those
+   complex individuals. On these lines, a concrete proposal for the set of
+--
+   autonomous functional systems, at the interface between chemistry and
+   biology, is provided.
+   Keywords: chemical evolution, natural selection, origins of life,
+   autonomous functional systems, prebiotic systems chemistry
+
+--
+   About a century and a half ago, in his book On the Origin of Species,
+   Charles R. Darwin proposed natural selection (NS) as the main driving
+   force that guides the evolution of species, conceived as a process of
+   descent with modification from a common ancestor. Today we have
+   overwhelming evidence to support that this process has been
+   continuously shaping the living world over time on the Earth and, thus,
+   it constitutes a central paradigm of biology. Darwinian evolution must
+   have started, at the latest, with the first population of living cells,
+   whose precise characteristics remain inaccessible to us, but whose
+--
+   population size/structure effects, symbiotic and mutualistic
+   relationships, lateral gene transfer and sex), past and current
+   biodiversity is therefore regarded as the outcome of evolutionary
+   dynamics based on NS from LUCA [2].
+
+--
+   that chemical level [3–5]. This widespread conception is supported by
+   two breakthroughs from last half-century molecular biology: (i) the
+   development of in vitro molecular evolution technologies, which allowed
+   to prove that populations of biopolymers with template properties
+   could, indeed, change in time under artificial selective pressure
+--
+
+   As a result, some researchers have conjectured on a possible link
+   between the emerging concept of chemical evolution and the established
+   notion of biological evolution, considered as two different stages of a
+   common natural process of matter complexification [12–15]. Uncovering
+   possible mechanisms of chemical evolution that include early or
+   minimalist versions of NS would then be crucial to understand how life
+   originated on Earth—or, eventually, in a different extraterrestrial
+   environment. Computational and theoretical studies carried out in the
+   last years support that chemical kinetics may become evolutionary
+   dynamics in populations of self-replicating molecules, or in
+   collectively autocatalytic networks [16–18]. The overall idea behind
+   these studies is that the evolutionary potential of such chemical
+   systems would result from an increase in their dynamic stability as a
+   consequence of the copying process or the cross-catalytic effects among
+--
+   stability? Is it because experimental scientists are not finding the
+   right precursors and boundary conditions? Or is it because there are
+   ‘evolutionary bottlenecks’—still to be identified and
+   characterized—that must be overcome to trigger off such a behaviour?
+   Secondly, is ‘kinetic control’ (i.e. the rate of template copying or
+--
+   ensure the necessary dynamic robustness of those prebiotic systems that
+   would, eventually, lead to the onset of open-ended, biological
+   evolution? If not, what other types of control mechanisms or basic
+   functions should be taken into account at those initial stages? More
+   precisely, regarding the emergence of Darwinian evolutionary dynamics,
+   how large must a primary ‘functional/phenotypic space’ be for NS to get
+   established, or become operational? And, finally, granted that cyclic
+--
+   for research on the origins of life [28–31]. In that context, figure 1
+   introduces our view about the main stages and bottlenecks involved in
+   the transition from chemical to biological evolution, with emphasis on
+   the evolutionary importance of establishing efficient functional
+   couplings within chemical systems, as we will argue in more detail
+   below. Of course, chemical evolutionary pathways (bottom part of the
+   figure) will surely cover a wider research area than those potentially
+   conducive to prebiotic phenomena. Nevertheless, some of them should
+--
+   difficulties in establishing the ‘liveliness’ of these intermediate
+   chemical systems, the necessity to start integrating organizational and
+   evolutionary accounts of those kinds of complex (pre-bio)molecular
+   phenomena is becoming less and less controversial, and that is
+   precisely the area on which we focus this short critical review or
+--
+
+   Scheme of the different stages and bottlenecks that could have occurred
+   during the transition from chemical to biological evolution. Among the
+   complex and interacting chemical mixtures present on early Earth, only
+   those that developed the first functional couplings were available for
+--
+   compartment, metabolism and replication (CMR) were tightly coupled. In
+   turn, only those CMR systems that became capable of open-ended
+   biological evolution (see explanation in the text) would show the
+   long-term robustness required to follow the pathway to LUCA and its
+   further diversification into the three domains of life.
+
+2. Merging systems chemistry and evolutionary theory
+
+   It is turning increasingly apparent that evolutionary theory can no
+   longer keep the ‘black box’ of individuality closed. In particular, the
+   triad ‘multiplication, variation and heredity’ cannot be simply assumed
+--
+   the way to biological phenomena should be made coherent with the
+   Darwinian framework, which explains the dynamics taking place at a
+   population level. Oversimplifications, imposing either the evolutionary
+   framework (i.e. disregarding the internal complexity of the
+   individuals) or the physiological/organizational one (i.e. disregarding
+   the power of evolutionary mechanisms), have not worked satisfactorily
+   [32,33]. Thus, the challenge for origins-of-life research is to make
+   use of systems chemistry to identify and characterize mixtures of
+--
+   (i.e. ‘proto-organisms’, taken as assemblies of different chemical
+   species with functional attributes—see below). In parallel, researchers
+   should carefully examine the evolutionary consequences of having one
+   type of individual or another in the population, in terms of the
+   competitive and selective dynamics that take place at that collective
+--
+
+   Two additional arguments can be given to support the necessity of
+   merging the new systems approach and evolutionary theory. First, all
+   known living beings are made of highly diverse and intertwined
+   components and transformation processes. Simplifying their origins to
+--
+   reductionist conjecture, which should not be taken for granted. Second,
+   in order to turn operational and lead to systems of increasing
+   complexity, evolution by NS should have required, from the beginning,
+   individuals who provide a wide enough space to express a phenotypic
+   variety [34,35]. For example, although molecular evolution through
+   artificial selection for a given phenotype (e.g. a given aptamer or an
+   engineered ribozyme) has been clearly demonstrated to take place
+--
+   have also supported, with different strength and motivations [37–40].
+   However, this is bound to pay back soon in terms of the behavioural
+   richness and evolutionary potential displayed by the more complex
+   individuals that are drawn in the process. Somehow (as we explain in
+   more detail in the sections below), reaching that initial threshold of
+   complexity would make it possible, for chemical systems that overcome a
+   first set of evolutionary bottlenecks (bottom part of figure 1) and
+   keep relatively robust dynamics, to display a wide range of chemical
+   couplings and functional behaviours that would allow them, in turn, to
+--
+   an important gap remains in our understanding of the processes that
+   could have spontaneously supported the emergence, maintenance and
+   evolutionary potential of such a precellular world. Especially, it must
+   be noted that various chemical reactions traditionally involved in the
+   artificial organic syntheses of RNA precursors are thermodynamically
+--
+   on Earth, what systems could overcome the apparent thermodynamic
+   barrier to complexification and produce the rather intricate
+   self-reproducing entities that initiated evolution in a Darwinian
+   sense? There is no current answer for this riddle; therefore, we need a
+   more general conceptual framework to understand chemical evolution. The
+   required theory should account for the increase in complexity that
+   occurred in prebiotic times, when chemistry was already complex and
+--
+   chemistry’ [28] during the last few years.
+
+3. Chemical evolution through the development of autonomous functional
+systems
+
+   Our perspective considers an extension of the Darwinian framework for
+   the study of prebiotic chemical evolution, but not in the traditional
+   way that this has been carried out within the field of origins (i.e.
+   searching for minimal self-replicating molecular systems [61–65]) or,
+   more recently, with the inclusion of compartments under a similar
+   scheme [60,66–68]. Instead, we suggest to apply an evolutionary account
+   in the context of autonomous systems that are made of diverse
+   combinations of chemical precursors (i.e. (bio)molecules and their
+--
+   enable researchers to design experiments of competition and selection
+   among different types of such individuals, in order to test their
+   actual dynamic robustness and evolutionary potential.
+
+   Central to our account is the idea of function, a key concept in
+--
+   naturalizing an organizational conception of function, endowed with
+   biological (i.e. physiological) meaning, but well-grounded in
+   evolutionary systems chemistry.
+
+   This perspective may hold some similarities with other theoretical
+   schemes recently developed with the aim to explain the evolution of
+   complex systems. Pascal et al. [14], for example, argue about a
+   sequence of stages in which chemical systems of increasing stability or
+--
+   phenomena of various kinds may synchronize and produce novel, combined
+   functional advantages, as a result of which ‘synergistic wholes’ would
+   become the actual units of evolutionary change. However, even if this
+   account of ‘function’ highlights it as a relational concept, as we do,
+   the theoretical framework where it is embedded is very different,
+   centred on the evolution of biological complexity. Corning and
+   Szathmary develop their ideas from an evolutionary theory background,
+   discarding the paradigms of ‘self-organization’ and classical
+   ‘complexity sciences’ as significant contributions to the problem. In
+--
+   With that aim, a first approximation to a theory of autonomous
+   functional systems is put forward in the next section, including
+   ingredients from evolutionary biology and also from physics and
+   chemistry, so that a better understanding about basic/minimal
+   biological organization can be reached (i.e. about the actual units of
+   life, not just about abstract ‘units of evolution’).
+
+4. Outline of a theory of autonomous functional systems
+--
+   four different though interdependent types of control mechanisms that,
+   according to our view, are fundamental requirements to assemble
+   autonomous functional systems with evolutionary potential to become
+   biological.
+   An external file that holds a picture, illustration, etc. Object name
+--
+   heterogeneity in their composition (and complexity in their dynamic
+   behaviour) would constitute proper candidates as units of selection in
+   this extended framework to conceive prebiotic chemical evolution. As a
+   result of that evolutionary process, one could envision further
+   functional diversification and more efficient integration (through new
+   coupling processes), which would confer higher dynamic robustness to
+--
+   anchored to the cell membrane [72]. Extensive experimental work during
+   the last decades suggests that, at a very primitive stage of prebiotic
+   chemical evolution, these boundaries were probably lipidic in nature,
+   yet involving much simpler molecular structures and compositions than
+   current ones [81–83].
+--
+   may have played the role of a primitive energy currency, while
+   aminoacyl adenylates would represent an activated form of amino acids
+   with a potential evolutionary connection with central molecules of the
+   current translational machinery [89,90].
+
+--
+   self-maintenance is based on far-from-equilibrium reaction cycles in
+   which there is a continuous turnover of the molecular species involved.
+   This reveals an unavoidable evolutionary bottleneck in any realistic
+   prebiotic scenario, and this is why the fourth vertex of the
+   tetrahedron, related to the capacity of controlling variability, must
+--
+   experimental work, must be carried out in order to determine how
+   prominent variability control turns out to be during the initial stages
+   of the evolutionary process, when system reproduction is probably a
+   rather stochastic event [66,91,92]. Yet, there is no doubt that it must
+   come into play, along with the implementation of mechanisms of heredity
+--
+   more robust, etc.) will remain in the population. Therefore, a
+   correlation between functional properties, coupling and integrative
+   mechanisms, NS and evolutionary dynamics should be drawn.
+
+   In this respect, our intuition is that during a first period of
+   prebiotic chemical evolution, fitness would be simply associated with
+   the dynamic stability of protocellular systems, taken as individual
+   units. Then, as a result of the collective dynamics and interactions
+--
+   The new properties of these selected individuals (e.g. more reliable
+   reproduction, higher control of variability and more efficient
+   catalysis), would, in turn, allow for new evolutionary dynamics, with a
+   stronger operational power of NS. This would get progressively closer
+   to an open-ended evolution type of process, like the one we observe in
+   the current biosphere (corresponding to the upper layer of figure 1).
+   The key evolutionary transitions that could have occurred in the
+   proposed scenario, together with the corresponding molecular entities
+   involved, are depicted in figure 3. The later stages of prebiotic
+   evolution (sketched on the right-hand side of figure 3) are also
+   relevant, but lie outside the scope of the present contribution.
+   An external file that holds a picture, illustration, etc. Object name
+--
+   Figure 3.
+
+   Scheme showing the main evolutionary transitions proposed for prebiotic
+   chemistry and the overall process of origins of life. The notion of
+   protocell populations employed here is remarkably wide, understood as
+--
+   of the process of the origins of life, which have important
+   implications for subsequent stages. Ours constitute a non-conventional
+   approach to prebiotic evolution, because it shifts the attention from
+   homogeneous populations of molecules to populations of heterogeneous,
+   compartmentalized and functionally integrated assemblies of molecules.
+--
+   characterization as self-maintaining systems with an internal
+   organization—and also in terms of their collective and long-term
+   evolutionary dynamics, based on competition, collaboration and
+   selection mechanisms that are in need of further investigation.
+
+--
+
+   The authors also thank the interdisciplinary framework provided by COST
+   Actions CM1304 (Emergence and evolution of complex chemical systems)
+   and TD1308 (Origins and evolution of life on Earth and in the
+   Universe).
+
+--
+   JF), pp. 23–56. New York, NY: Cold Spring Harbor Laboratory Press.
+   [Google Scholar]
+   5. Joyce GF. 2007. Forty years of in vitro evolution. Angew. Chem. Int.
+   Ed. 46, 6420–6436. (doi:10.1002/anie.200701369) [PubMed] [Google
+   Scholar]
+--
+   free article] [PubMed] [Google Scholar]
+   7. Spiegelman S. 1971. An approach to the experimental analysis of
+   precellular evolution. Q. Rev. Biophys. 4, 213–253.
+   (doi:10.1017/S0033583500000639) [PubMed] [Google Scholar]
+   8. Ellington AD, Szostak JW. 1990. In vitro selection of RNA molecules
+   that bind specific ligands. Nature 346, 818–822. (doi:10.1038/346818a0)
+   [PubMed] [Google Scholar]
+   9. Tuerk C, Gold L. 1990. Systematic evolution of ligands by
+   exponential enrichment: RNA ligands to bacteriophage T4 DNA polymerase.
+   Science 249, 505–510. (doi:10.1126/science.2200121) [PubMed] [Google
+--
+   Cell 35, 849–857. (doi:10.1016/0092-8674(83)90117-4) [PubMed] [Google
+   Scholar]
+   12. Szathmary E, Santos M, Fernando C. 2005. Evolutionary potential and
+   requirements for minimal protocells. Top. Curr. Chem. 259, 167–211.
+   (doi:10.1007/tcc001) [Google Scholar]
+   13. Pross A. 2012. What is life? How chemistry becomes biology. Oxford,
+   UK: Oxford University Press. [Google Scholar]
+   14. Pascal R, Pross A, Sutherland JD. 2013. Towards an evolutionary
+   theory of the origin of life based on kinetics and thermodynamics. Open
+   Biol. 3, 130156 (doi:10.1098/rsob.130156) [PMC free article] [PubMed]
+--
+   [Google Scholar]
+   17. Vasas V, Fernando C, Santos M, Kauffman S, Szathmary E. 2012.
+   Evolution before genes. Biol. Direct 7, 1 (doi:10.1186/1745-6150-7-1)
+   [PMC free article] [PubMed] [Google Scholar]
+   18. Chen IA, Nowak MA. 2012. From prelife to life: how chemical
+   kinetcis become evolutionary dynamics. Acc. Chem. Res. 45, 2088–2096.
+   (doi:10.1021/ar2002683) [PMC free article] [PubMed] [Google Scholar]
+   19. Kitano H. 2002. Systems biology: a brief overview. Science 295,
+--
+   20. Kitano H. 2002. Computational systems biology. Nature 420, 206–210.
+   (doi:10.1038/nature01254) [PubMed] [Google Scholar]
+   21. Westerhoff H, Palsson B. 2004. The evolution of molecular biology
+   into systems biology. Nat. Biotechnol. 22, 1249–1252.
+   (doi:10.1038/nbt1020) [PubMed] [Google Scholar]
+--
+   (doi:10.1007/s11084-010-9201-6) [PubMed] [Google Scholar]
+   33. Ruiz-Mirazo K, Moreno A. 2016. Reflections on the origin of life:
+   more than an evolutionary problem. Mètode 6, 151–159. [Google Scholar]
+   34. Wicken JS. 1987. Evolution, thermodynamics and information.
+   Extending the Darwinian program. Oxford, UK: Oxford University Press.
+   [Google Scholar]
+   35. Moreno A, Ruiz-Mirazo K. 2009. The problem of the emergence of
+   functional diversity in prebiotic evolution. Biol. Philos. 24, 585–605.
+   (doi:10.1007/s10539-009-9178-6) [Google Scholar]
+   36. Joyce GF. 2015. Reflections of a Darwinian engineer. J. Mol. Evol.
+--
+   [Google Scholar]
+   47. Briones C, Stich M, Manrubia SC. 2010. A model for the modular
+   evolution of RNA addressing open questions on the origin of life. Orig.
+   Life Evol. Biosph. 40, 427–430. [Google Scholar]
+   48. Pressman A, Blanco C, Chen IA. 2015. The RNA world as a model
+--
+   [Google Scholar]
+   71. Corning PA, Szathmary E. 2015. Synergistic selection: a Darwinian
+   frame for the evolution of complexity. J. Theor. Biol. 371, 45–58.
+   (doi:10.1016/j.jtbi.2015.02.002) [PubMed] [Google Scholar]
+   72. Ruiz-Mirazo K, Moreno A. 2004. Basic autonomy as a fundamental
+   aspect in the synthesis of life. Art. Life 10, 253–259.
+   (doi:10.1162/1064546041255584) [PubMed] [Google Scholar]
+   73. Ruiz-Mirazo K, Moreno A. 2012. Autonomy in evolution: from minimal
+   to complex life. Synthese 185, 21–52. (doi:10.1007/s11229-011-9874-z)
+   [Google Scholar]
+--
+   409, 387–390. (doi:10.1038/35053176) [PubMed] [Google Scholar]
+   83. Gotoh M, Sugawara A, Akiyoshi K, Matsumoto I, Ourisson G, Nakatani
+   Y. 2007. Possible molecular evolution of biomembranes: from
+   single-chain to double-chain lipids. Chem. Biodivers. 4, 837–848.
+   (doi:10.1002/cbdv.200790071) [PubMed] [Google Scholar]
+--
+   USA 101, 7965–7970. (doi:10.1073/pnas.0308045101) [PMC free article]
+   [PubMed] [Google Scholar]
+   89. Liu ZW, Beaufils D, Rossi JC, Pascal R. 2014. Evolutionary
+   importance of the intramolecular pathways of hydrolysis of phosphate
+   ester mixed anhydrides with amino acids and peptides. Sci. Rep. 4, 7440
+--
+   WM, Pinti D, Viso M), pp. 1353–1354. Heidelberg, Germany: Springer.
+   [Google Scholar]
+   94. Ganti T. 2002. On the early evolutionary origin of biological
+   periodicity. Cell. Biol. Int. 26, 729–735. (doi:10.1006/cbir.2000.0668)
+   [PubMed] [Google Scholar]

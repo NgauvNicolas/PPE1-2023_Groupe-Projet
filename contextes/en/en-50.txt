@@ -1,42 +1,754 @@
-   bodies and behaviour. It is one of the processes by which species
-   change from generation to generation, and is a crucial element of the
-   theory of evolution.
+   PMID: 35121666
 
-   A classic example of natural selection at work is the origin of
+Toward a theory of evolution as multilevel learning
+
+   Vitaly Vanchurin,^ a ,^ b ,^ 1 Yuri I. Wolf,^ a Mikhail I. Katsnelson,^
 --
-   extinction.
+Significance
 
-   There is also more to evolution than natural selection. Species can
-   change in a more undirected way by a process called genetic drift, in
-   which certain genetic variants become more common despite not having
+   Modern evolutionary theory gives a detailed quantitative description of
+   microevolutionary processes that occur within evolving populations of
+   organisms, but evolutionary transitions and emergence of multiple
+   levels of complexity remain poorly understood. Here, we establish the
+   correspondence among the key features of evolution, learning dynamics,
+   and renormalizability of physical theories to outline a theory of
+   evolution that strives to incorporate all evolutionary processes within
+   a unified mathematical framework of the theory of learning. According
+   to this theory, for example, replication of genetic material and
 --
-   on the basis of showy ornaments like peacock’s tails or complex songs.
-   Finally, many organisms have cultural behaviours such as tool use, and
-   these feed back onto traditional evolutionary processes like natural
-   selection.
+   renormalizable physical theories.
+   Keywords: theory of learning, loss function, natural selection, major
+   evolutionary transitions, origin of life
 
-   Evolution is also chaotic, meaning that the changes it produces are not
-   always predictable. This is partly because it relies on random
-   mutations to produce the raw material on which natural selection can
+Abstract
+
+   We apply the theory of learning to physically renormalizable systems in
+   an attempt to outline a theory of biological evolution, including the
+   origin of life, as multilevel learning. We formulate seven fundamental
+   principles of evolution that appear to be necessary and sufficient to
+   render a universe observable and show that they entail the major
+   features of biological evolution, including replication and natural
+   selection. It is shown that these cornerstone phenomena of biology
+   emerge from the fundamental features of learning dynamics such as the
+   existence of a loss function, which is minimized during learning. We
+   then sketch the theory of evolution using the mathematical framework of
+   neural networks, which provides for detailed analysis of evolutionary
+   phenomena. To demonstrate the potential of the proposed theoretical
+   framework, we derive a generalized version of the Central Dogma of
+   molecular biology by analyzing the flow of information during learning
+   (back propagation) and predicting (forward propagation) the environment
+   by evolving organisms. The more complex evolutionary phenomena, such as
+   major transitions in evolution (in particular, the origin of life),
+   have to be analyzed in the thermodynamic limit, which is described in
+   detail in the paper by Vanchurin et al. [V. Vanchurin, Y. I. Wolf, E.
 --
-   when they are needed.
-
-   Nowadays there is also a new force in evolution: humans. We are
-   exerting new selection pressures on many species, changing them in
-   unpredictable ways.
+   What is life? If this question is asked in the scientific rather than
+   in the philosophical context, a satisfactory answer should assume the
+   form of a theoretical model of the origin and evolution of complex
+   systems that are identified with life (1). NASA has operationally
+   defined life as follows: “Life is a self-sustaining chemical system
+   capable of Darwinian evolution” (2, 3). Apart from the insistence on
+   chemistry, long-term evolution that involves (random) mutation,
+   diversification, and adaptation is, indeed, an intrinsic, essential
+   feature of life that is not apparent in any other natural phenomena.
 --
-Humans
-
-The 2023 discoveries that made us rethink the story of human evolution
-
-   News
+   selection itself appears to be a complex rather than an elementary
+   phenomenon (4). In all evolving organisms we are aware of, for natural
+   selection to kick off and to sustain long-term evolution, an essential
+   condition is replication of a complex digital information carrier (a
+   DNA or RNA molecule). The replication fidelity must be sufficiently
 --
-Related articles
+   blocks for replication. Thus, the origin of life is a typical
+   chicken-and-egg problem (or catch-22); accurate replication is
+   essential for evolution, but the mechanisms ensuring replication
+   fidelity are themselves products of complex evolutionary processes (6,
+   7).
 
-   Evolution
+   Because genome replication that underlies natural selection is itself a
+   product of evolution, origin of life has to be explained outside of the
+   traditional framework of evolutionary biology. Modern evolutionary
+   theory, steeped in population genetics, gives a detailed and arguably,
+   largely satisfactory account of microevolutionary processes: that is,
+   evolution of allele frequencies in a population of organisms under
+   selection and random genetic drift (8, 9). However, this theory has
+   little to say about the actual history of life, especially the
+--
+   processes on the planetary scale. All these distinct levels jointly
+   constitute the hierarchical organization of the biosphere.
+   Understanding the origin and evolution of this hierarchical complexity,
+   arguably, is one of the principal goals of biology.
 
-Definition
+   In large part, evolution of the multilevel organization of biological
+   systems appears to be driven by solving optimization problems, which
+   entails conflicts or trade-offs between optimization criteria at
+   different levels or scales, leading to frustrated states, in the
+   language of physics (10–12). Two notable cases in point are
+   parasite–host arms races that permeate biological evolution and makes
+   major contributions to the diversity and complexity of life-forms
+   (13–16) and multicellular organization of complex organisms, where the
+--
 
-Evolution
+   Two tightly linked but distinct fundamental concepts that lie
+   effectively outside the canonical narrative of evolutionary biology
+   address evolution of biological complexity: major transitions in
+   evolution (MTEs) (19–21) and multilevel selection (MLS) (22–27). Each
+   MTE involves the emergence of a new level of organization, often
+   described as an evolutionary transition in individuality. A clear-cut
+   example is the evolution of multicellularity, whereby a new level of
+   selection emerges, namely selection among ensembles of cells rather
+   than among individual cells. Multicellular life-forms (even counting
+   only complex organisms with multiple cell types) evolved on many
+   independent occasions during the evolution of life (28, 29), implying
+   that emergence of new levels of complexity is a major evolutionary
+   trend rather than a rare, chance event.
 
-   Free
+--
+   formation and persistence of long-term memory: that is, history (31,
+   32). By contrast, ergodic systems have no true history because they
+   reach all possible states during their evolution (at least in the large
+   time limit), and thus, the only content of quasihistory of such systems
+   is the transition from less probable to more probable states for purely
+--
+   The origin of cells, which can and probably should be equated with the
+   origin of life, was the first and most momentous transition at the
+   onset of biological evolution, and as such, it is outside the purview
+   of evolutionary biology sensu stricto. Arguably, the theoretical
+   investigation of the origin of life can be feasible only within the
+   framework of an envelope theory that would incorporate biological
+   evolution as a special case. It is natural to envisage such a theory as
+   encompassing all nonergodic processes occurring in the universe, of
+   which life is a special case, emerging under conditions that remain to
+   be investigated and defined.
+
+   Here, in pursuit of a maximally general theory of evolution, we adopt
+   the formalism of the theory of machine learning (35). Importantly,
+   learning here is perceived in the maximally general sense as an
+--
+   (22, 37, 38). Here, we assess how far this analogy extends by
+   establishing the correspondence between key features of biological
+   evolution and concepts as well as the mathematical formalism of
+   learning theory. We make the case that loss function, which is central
+   to the learning theory, can be usefully and generally employed as the
+   equivalent of the fitness function in the context of evolution. Our
+   original motivation was to explain major features of biological
+   evolution from more general principles of physics. However, after
+   formulating such principles and embedding them within the mathematical
+   framework of learning, we find that the theory can potentially apply to
+--
+   processes that have been taking place since the big bang and chemical
+   processes that directly antedated and set the stage for the origin of
+   life. The central propositions of the evolution theory outlined here
+   include both key physical principles (namely, hierarchy of scale,
+   frequency gaps, and renormalizability) (39, 40) and major features of
+--
+   variables are digitized and acquire the replication capacity, resulting
+   in differential reproduction depending on the loss (fitness) function
+   value, which is necessary and sufficient for the onset of evolution by
+   natural selection. Subsequent evolution of life involves emergence of
+   many additional scales, which correspond to MTE. Hereafter, we use the
+   term “evolution” to describe temporal changes of living and lifelike
+   and prebiotic systems (organisms), whereas the more general term
+   “dynamics” refers to temporal processes in other physical systems.
+--
+   (41–43), but the nature of the involved emergent phenomena, to our
+   knowledge, has not been clarified until very recently (36). Here, we
+   outline a general approach to modeling and studying evolution as
+   multilevel learning, supporting the view that a distinct type of
+   physical theory, namely the theory of learning (35, 36), is necessary
+   to investigate the evolution of complex objects in the universe, of
+   which evolution of life is a specific, even if highly remarkable form.
+
+1. Fundamental Principles of Evolution
+
+   In this section, we attempt to formulate the minimal universal
+   principles that define an observable universe, in which evolution is
+   possible and perhaps, inevitable. Our analysis started from the major
+   features of biological evolution discussed in the next section and
+   proceeded toward the general principles. However, we begin the
+   discussion with the latter for the sake of transparency and generality.
+--
+   What are the requirements for a universe to be observable? The
+   possibility to make meaningful observations implies a degree of order
+   and complexity in the observed universe emerging from evolutionary
+   processes, and such evolvability itself seems to be predicated on
+   several fundamental principles. It has to be emphasized that
+--
+   even inanimate systems endowed with the ability of feedback reaction.
+   In this most general sense, observation is a prerequisite for
+   evolution. We first formulate the basic principles underlying
+   observability and evolvability and then, give the pertinent comments
+   and explanations.
+     * P1. Loss function. In any evolving system, there exists a loss
+       function of time-dependent variables that is minimized during
+       evolution.
+     * P2. Hierarchy of scales. Evolving systems encompass multiple
+       dynamical variables that change on different temporal scales (with
+--
+
+   The first principle (P1) is of special importance as the starting point
+   for a formal description of evolution as a learning process. The very
+   existence of a loss function implies that the dynamical system of the
+   universe or simpler, the universe itself is a learning (evolving)
+--
+   efficient method is selection implemented in various stochastic
+   algorithms (Markov Chain Monte Carlo, stochastic gradient descent,
+   genetic algorithms, and more). All evolution can be perceived as an
+   implementation of a stochastic learning algorithm as well. Put another
+   way, learning is optimization by trial and error, and so is evolution.
+
+   The remaining principles P2 to P7 provide sufficient conditions for
+--
+   limiting the number of relevant variables, constraining the complexity,
+   and allowing for a coarse-grained description. This principle ensures a
+   renormalizable universe capable of evolution and amenable to
+   observation. Together, P2 to P4 define a universe, in which partial or
+   approximate knowledge of the environment (in other words, coarse
+--
+   Principles P5, P6, and P7 endow evolving systems with the access to
+   more advanced algorithms for learning and predicting the environment,
+   paving the way for the evolution of complex systems, including
+   eventually, life. These principles jointly underlie the emergence of
+   the crucial phenomenon of selection (44, 45). In its simplest form,
+--
+   Generalized Central Dogma of Molecular Biology.
+
+2. Fundamental Evolutionary Phenomena
+
+   In this section, we link the fundamental principles of evolution P1 to
+   P7 formulated above to the basic phenomenological features of life (E1
+   to E10) and seek equivalencies in the theory of learning. The list
+--
+       replication of the carriers of slow-changing variables (P6), sets
+       the stage for competition between evolving entities and for the
+       onset of the ultimate evolutionary phenomenon, natural selection
+       (E6).
+
+--
+       of frustrations and the fundamental impossibility of their
+       resolution in a universally optimal manner are perpetual drivers of
+       evolution and give rise to evolutionary transitions, attaining
+       otherwise unreachable levels of complexity.
+
+--
+   structure of these systems (genes, genomes, cells, organisms, kin
+   groups, populations, species, communities, and more) and the substrate
+   the evolutionary forces act upon.
+     * 1)
+       Renormalizability of the universe (P4) implies that there is no
+--
+       was apparent to scholars from the earliest days of science.
+       However, MLS was and remains a controversial subject in
+       evolutionary biology (23, 26, 27). Intuitively and as implied by
+       the Price equation (48), MLS should emerge in all evolving systems
+       as long as the higher-level agency of selection possesses a
+--
+       particular, if organisms of a given species form populations that
+       are sufficiently distinct genetically and interact competitively,
+       population-level selection will ensue. Evolution of biological
+       systems is driven by conflicting interactions (E2) that tend to
+       lead to ever-increasing complexity (12). This trend further feeds
+       the propensity of these systems to form new levels of organization
+       and is associated with evolutionary transitions that involve the
+       advent of new units of selection at multiple levels of complexity.
+       Thus, E3 can be considered a major consequence of E2.
+--
+       The extant biological systems (cells, multicellular organisms, and
+       higher-level entities, such as populations and communities) are
+       products of about 4 billion y of the evolution of life, and as
+       such, they are highly, albeit not completely, optimized. As a
+       consequence, the typical distribution of the effects of heritable
+       changes in biological evolution comprises numerous deleterious
+       changes, comparatively rare beneficial changes and common neutral
+       changes, and those with fitness effects below the noise level (50).
+       The preponderance of neutral and slightly deleterious changes
+       provides for evolution by genetic drift whereby a population moves
+       on the same level or even slightly downward on the fitness
+       landscape, potentially reaching another region of the landscape
+--
+       organization of the universe (P2). Frustrated dynamical systems are
+       nonergodic, which from the biological perspective, means that, once
+       separated, evolutionary trajectories diverge rather than converge.
+       Because most of these trajectories traverse parts of the genotype
+       space with comparable fitness values, competition rarely results in
+--
+       generates rich diversity.
+     * 2)
+       In terms of evolutionary biology, fitness landscapes are rugged,
+       with multiple adaptive peaks of comparable fitness (53, 54), and a
+       salient trend during evolution is the spread of life-forms across
+       multiple peaks as opposed to concentrating on one or few. Evolution
+       pushes evolving organisms to explore and occupy all available
+       niches and try all possible strategies. In the context of machine
+--
+   update the genotype directly. The separation between the information
+   storage and processing subsystems is a prerequisite for efficient
+   evolution that probably emerged early on the path from prebiotic
+   entities to the emergence of life.
+     * 1)
+--
+     * 2)
+       The emergence of the separation between phenotype and genotype is a
+       crucial event in prebiotic evolution. This separation is prominent
+       in all known as well as hypothetical life-forms. Even when the
+       phenotype and genotype roles are fulfilled by chemically identical
+       molecules, as in the RNA world scenario of primordial evolution
+       (55, 56), their roles as effectors and information storage devices
+       are sharply distinct. In biological terms, the split is between
+--
+       Information copying and sharing are beneficial only if the fidelity
+       exceeds a certain threshold, sometimes called Eigen limit in
+       evolutionary biology (5–7). Nevertheless, in primitive prebiotic
+       systems, the required fidelity level could have been quite low
+       (63). For instance, even a biased chemical composition of a
+--
+       and astonishingly, the only biosphere known to us represents an
+       unbroken chain of genetic information transmission that spans about
+       4 billion y, commensurate with the stellar evolution scale.
+
+E8. Natural Selection.
+
+   Evolution by natural selection (Darwinian evolution) arises from the
+   combination of all the principles and phenomena described above. The
+   necessary and sufficient conditions for Darwinian evolution to operate
+   are 1) the existence of IPUs that are distinct from the environment and
+   from each other (E1), 2) the dependence of the stability of an IPU on
+--
+   and transfer of information among IPUs, both vertically (to progeny)
+   and horizontally. This process engenders the key feature of Darwinian
+   evolution, differential reproduction of genotypes, based on the
+   feedback from the environment transmitted through the phenotype.
+     * 1)
+       All seven fundamental principles of life-compatible universes (P1
+       to P7) are involved in enabling evolution by natural selection. The
+       very existence of units, on which selection can operate, hinges on
+       self- vs. nonself-discrimination of prebiotic IPUs (E1) and the
+--
+       IPUs to replicate (P6) and expand their memory storage (genotype;
+       P7, E6, and E7) provides them with access to hitherto unavailable
+       degrees of freedom, making evolution an open-ended process rather
+       than a quick, limited search for a local optimum.
+     * 2)
+       Evolution by natural selection is the central tenet of evolutionary
+       biology and a key part of the NASA definition of life. An important
+       note on definitions is due. We already referred to selection when
+       discussing prebiotic evolution (E1); however, the term “natural
+       (Darwinian) selection” is here reserved for the efficient form of
+       selection that emerges with the replication of dedicated
+--
+       environmental resources, such competition inevitably arises, except
+       in the unrealistic case of unlimited supply (44). With the onset of
+       Darwinian evolution, the system can be considered to cross the
+       threshold from prelife to life (64, 65). The evolutionary process
+       is naturally represented by movement of an evolving IPU in a
+       genotype space, where proximity is defined by similarity between
+       distinct genotypes and transitions correspond to elementary
+       evolutionary events: that is, mutations in the most general sense
+       (66). For any given environment, fitness—that is, a measure of the
+       ability of a genotype to produce viable offspring—can be defined
+--
+E9. Parasitism.
+
+   Parasites and host–parasite coevolution are ubiquitous across
+   biological systems at multiple levels of organization and are both
+   intrinsic to and indispensable for the evolution of life.
+     * 1)
+       Due to the flexibility of life-compatible systems (P5 and P6) and
+--
+       selection (P4). In particular, if population-level or kin-level
+       selection is sufficiently strong, mechanisms for altruistic death
+       of individual organisms apparently can be fixed in evolution (70,
+       71).
+     * 2)
+--
+       (71–73).
+
+   To conclude this section, which we titled “fundamental evolutionary
+   phenomena,” deliberately omitting “biological,” it seems important to
+   note that phenomena E1 to E7 are generic, applying to all learning
+--
+
+   In the previous sections, we formulated the seven fundamental
+   principles of evolution P1 to P7 and then, argued that the key
+   evolutionary phenomena E1 to E10 can be interpreted and analyzed in the
+   context of these principles and apparently, derived from the latter.
+   The next step is to formulate a mathematical framework that would be
+   consistent with the fundamental principles and thus, would allow us to
+   model evolutionary phenomena analytically or numerically. For
+   concreteness, the proposed framework is based on a mathematical model
+   of artificial neural networks (74, 75), but we first outline a general
+   optimization approach in a form suitable for modeling biological
+   evolution.
+
+   We are interested in the broadest class of optimization problems, where
+--
+   stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   compromise the entire learning (evolution) process: that is, result in
+   a substantial increase of the loss function value; these variables
+   correspond to deep minima of the loss function. When the basin of
+--
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   , and switching between scales is equivalent to switching between
+   different frequencies or in the context of biological evolution,
+   between different levels of organization. For any fixed
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+--
+
+   As will become evident shortly, the separation of these three classes
+   of variables and interactions between them are central to the evolution
+   and selection on all levels of organization, resulting in pervasive
+   multilevel learning and selection.
+--
+   environment changes or under the influence of other mutations, some of
+   the neutral mutations can become beneficial [a genetic phenomenon known
+   as epistasis, which is pervasive in evolution (78, 79)], and in their
+   entirety, neutral mutations form the essential reservoir of variation
+   available for adaptive evolution (80). Even which variables are
+   classified as nontrainable
+   [MATH: <mrow><mo stretchy="false">(</mo><mi
+--
+
+   Now that we described an optimization problem that is suitable for
+   modeling evolution of organisms (or populations of organisms), we can
+   construct a mathematical framework to solve such optimization problems.
+   For this purpose, we employ a mathematical theory of artificial neural
+   networks (74, 75), which is simple enough to perform calculations while
+   being consistent with all of the fundamental principles (P1 to P7), and
+   thus, it can be used for modeling evolutionary phenomena (E1 to E10).
+   We first recall a general framework of the neural network theory.
+
+--
+   4.1 represents fast, often stochastic environmental changes and the
+   corresponding fast reaction of organisms at the phenotype level,
+   whereas [4.2] reflects slower-learning dynamics of evolutionary
+   adaptation via changes in the intermediate, adaptable variables: that
+   is, the variable portion of the genome. The main learning objective is
+--
+   the same as a generation comprising from about an hour to hundreds or
+   even thousands of hours. However, fixation of mutations, which
+   represents an evolutionarily stable change at the genome level,
+   typically takes many generations and thus, always occurs orders of
+   magnitude slower than phenotype changes. Accordingly, on this
+--
+
+   To specify a microscopic loss function that would be appropriate for
+   describing evolution and thus, give a specific form to the fundamental
+   principle P1, we first note that adaptation to the environment is more
+   efficient (that is, the loss function value is smaller) for a learning
+--
+   the environment (84). In machine learning, boundary loss functions are
+   most often used in the context of supervised learning (35), and in
+   biological evolution, the “supervision” comes from the environment,
+   which the evolving system, such as an organism or a population, is
+   learning to predict.
+--
+   environments.
+
+   In the context of biological evolution, Malthusian fitness
+   [MATH: <mi mathvariant="italic">φ</mi> :MATH]
+   is defined as the expected reproductive success of a given genotype:
+--
+   For a microscopic description of learning, the proportionality constant
+   is unimportant, but as we argue in detail in the accompanying paper
+   (86), in the description of the evolutionary process from the point of
+   view of thermodynamics,
+   [MATH: <mi>T</mi> :MATH]
+   plays the role of “evolutionary temperature.”
+
+   Given a concrete mathematical model of neural networks, one might
+   wonder if all fundamental principles of evolution (P1 to P7) can be
+   derived from this model. Such derivation would comprise additional
+   evidence supporting the claim that the entire universe can be
+--
+   trainable variables (87). Additional gaps between levels of
+   organization are also expected to appear through phase transitions as
+   becomes apparent in the thermodynamic description of evolution we
+   develop in the accompanying paper (86). Renormalizability (P4) is a
+   direct consequence of the second law of learning (35), according to
+--
+   the fast-changing variables runs faster, the slow-changing variables
+   can take advantage of the fast-changing ones to accelerate computation,
+   which would be rewarded by evolution. The flow of information between
+   slow-changing and fast-changing variables in the opposite direction is
+   also beneficial because the fast-changing variables can use the
+--
+
+   Thus, the meaning of the generalized Central Dogma from the point of
+   view of the learning theory—and our theory of evolution—is that slow
+   dynamics (that is, evolution on a long timescale) should be mostly
+   independent of the fast variables. In less formal terms, slow variables
+   determine the rules of the game, and changing these rules depending on
+--
+7. Discussion
+
+   In this work, we outline a theory of evolution on the basis of the
+   theory of learning. The parallel between learning and biological
+   evolution becomes obvious as soon as the mapping between the loss
+   function and the fitness function is established (Eq. 4.6). Indeed,
+   both processes represent movement of an evolving (learning) system on a
+--
+   and downward moves also occur occasionally. However, we go beyond the
+   obvious analogy and trace a detailed correspondence between the
+   essential features of the evolutionary and learning processes.
+   Arguably, the most important fundamental commonality between evolution
+   and learning is the stratification of the trainable variables (degrees
+   of freedom) into classes that differ by the rate of change. At least in
+   complex environments, all learning is multilevel, and so is all
+   selection that is relevant for the evolutionary process. The framework
+   of evolution as learning developed here implies that evolution of
+   biological complexity would be impossible without MLS permeating the
+   entire history of life. Under this perspective, emergence of new levels
+   of organization, in learning and in evolution, and in particular, MTE
+   represent genuine phase transitions as previously suggested (41). Such
+   transitions can be analyzed consistently only in the thermodynamic
+--
+   that are too shallow to account for long-term memory that is central to
+   biology (12, 41). Thus, some generalization of the spin glass concept
+   is likely to be required for productive application in evolutionary
+   biology (95).
+
+--
+
+   A fundamental shortcoming of all these approaches is that they do not
+   include, at least not as a major component, evolutionary concepts, such
+   as natural selection. The framework of learning theory used here allows
+   us to naturally unify the descriptions of physical and biological
+--
+
+   The detailed correspondence between the key features of the processes
+   of learning and biological evolution implies that this is not a simple
+   analogy but rather, a reflection of the deep unity of evolutionary
+   processes occurring in the universe. Indeed, separation of the relevant
+   degrees of freedom into multiple temporal classes is ubiquitous in the
+--
+   Furthermore, scale separation and renormalizability appear to be
+   essential conditions for a universe to be observable. According to the
+   evolution theory outlined here, any observable universe consists of
+   systems that undergo learning or synonymously, adaptive evolution, and
+   actually, the universe itself is such a system (36). The famous dictum
+   of Dobzhansky (98), thus, can and arguably should be rephrased as
+--
+   learning.”
+
+   Within the theory of evolution outlined here, the difference between
+   life and nonliving systems, however important, can be considered as one
+   in the type and degree of optimization, so that all evolutionary
+   phenomena can be described within the same formal framework of the
+   theory of learning. Crucially, any complex optimization problem can be
+--
+   (genomes) that carry information on the operation of reproducers within
+   which they reside (99). This is also the point when natural (Darwinian)
+   selection takes off (64). Our theory of evolution implies that this
+   pivotal stage was preceded by evolution of “prelife,” which comprised
+   reproducers that lacked genomes but nevertheless, were learning systems
+   that were subject to selection for persistence. Self-reproducing
+--
+   subsequently, under selection for the ability to store, express, and
+   share information essential for the entire system. This key step
+   greatly increased the efficiency of evolution/learning and provided for
+   long-term memory that persisted throughout the history of life,
+   enabling the onset of natural selection and the unprecedented
+   diversification of life-forms (E5). It has to be emphasized that,
+   compared with the existing evolutionary models that explore replicator
+   dynamics, the learning approach described here is more microscopic in
+   that the existence of replicators is not initially assumed but rather,
+--
+   information sharing, which in the biological context, corresponds to
+   horizontal gene transfer. The essentiality of horizontal gene transfer
+   at the earliest stages of life evolution is perceived as the cause of
+   the universality of the translation machinery and genetic code in all
+   known life-forms (101). The conceptual model of the origin of life
+   implied by our learning-based theoretical framework appears to be fully
+   compatible with Gánti’s chemoton, a model of protocell emergence and
+   evolution based on autocatalytic reaction networks (102–104).
+
+   The origin of life scenario within the encompassing framework of the
+   present evolution theory, even if formulated in most general terms,
+   implies that emergence of complexity commensurate with life is a
+   general trend in the evolution of complex systems. At face value, this
+   conclusion might seem to be at odds with the magnitude of
+   complexification involved in the origin of life [suffice it to consider
+--
+
+   Evidently, the analysis presented here and in the accompanying paper
+   (86) is only an outline of a theory of evolution as learning. The
+   details and implications, including directly testable ones, remain to
+   be worked out.
+--
+References
+
+   1. Morange M., The recent evolution of the question “What is life”?
+   Hist. Philos. Life Sci. 34, 425–436 (2012). [PubMed] [Google Scholar]
+   2. Benner S. A., Defining life. Astrobiology 10, 1021–1030 (2010). [PMC
+--
+   [Google Scholar]
+   4. Koonin E. V., The Logic of Chance: The Nature and Origin of
+   Biological Evolution (FT Press, Upper Saddle River, NJ, 2011). [Google
+   Scholar]
+   5. Eigen M., Selforganization of matter and the evolution of biological
+   macromolecules. Naturwissenschaften 58, 465–523 (1971). [PubMed]
+   [Google Scholar]
+--
+   9. Lynch M., The Origins of Genome Architecture (Sinauer Associates,
+   Sunderland, MA, 2007). [Google Scholar]
+   10. Bernardes J. P., et al., The evolution of convex trade-offs enables
+   the transition towards multicellularity. Nat. Commun. 12, 4222 (2021).
+   [PMC free article] [PubMed] [Google Scholar]
+   11. Michod R. E., The group covariance effect and fitness trade-offs
+   during evolutionary transitions in individuality. Proc. Natl. Acad.
+   Sci. U.S.A. 103, 9113–9117 (2006). [PMC free article] [PubMed] [Google
+   Scholar]
+--
+   13. Forterre P., Prangishvili D., The great billion-year war between
+   ribosome- and capsid-encoding organisms (cells and viruses) as the
+   major source of evolutionary novelties. Ann. N. Y. Acad. Sci. 1178,
+   65–77 (2009). [PubMed] [Google Scholar]
+   14. Koonin E. V., Viruses and mobile elements as drivers of
+   evolutionary transitions. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+   371, 20150442 (2016). [PMC free article] [PubMed] [Google Scholar]
+   15. Koonin E. V., Makarova K. S., Wolf Y. I., Krupovic M., Evolutionary
+   entanglement of mobile genetic elements and host defence systems: Guns
+   for hire. Nat. Rev. Genet. 21, 119–131 (2020). [PubMed] [Google
+--
+   tumors. Curr. Pathobiol. Rep. 6, 201–207 (2018). [PMC free article]
+   [PubMed] [Google Scholar]
+   19. Szathmáry E., Smith J. M., The major evolutionary transitions.
+   Nature 374, 227–232 (1995). [PubMed] [Google Scholar]
+   20. Maynard Smith J., Szathmary E., The Major Transitions in Evolution
+   (Oxford University Press, Oxford, United Kingdom, 1997). [Google
+   Scholar]
+   21. Szathmáry E., Toward major evolutionary transitions theory 2.0.
+   Proc. Natl. Acad. Sci. U.S.A. 112, 10104–10111 (2015). [PMC free
+   article] [PubMed] [Google Scholar]
+--
+   learning. R. Soc. Open Sci. 6, 190202 (2019). [PMC free article]
+   [PubMed] [Google Scholar]
+   23. Okashi S., Evolution and the Levels of Selection (Oxford University
+   Press, Oxford, United Kingdom, 2006). [Google Scholar]
+   24. Brunet T. D., Doolittle W. F., Multilevel selection theory and the
+   evolutionary functions of transposable elements. Genome Biol. Evol. 7,
+   2445–2457 (2015). [PMC free article] [PubMed] [Google Scholar]
+   25. Gardner A., The genetical theory of multilevel selection. J. Evol.
+--
+   world. Nature 463, E8–E9 (2010). [PMC free article] [PubMed] [Google
+   Scholar]
+   28. Márquez-Zacarías P., et al., Evolution of cellular differentiation:
+   From hypotheses to models. Trends Ecol. Evol. 36, 49–60 (2021).
+   [PubMed] [Google Scholar]
+--
+   [PubMed] [Google Scholar]
+   30. Kramer J., Meunier J., Kin and multilevel selection in social
+   evolution: A never-ending controversy? F1000 Res. 5, 5 (2016). [PMC
+   free article] [PubMed] [Google Scholar]
+   31. Edwards S. F., Anderson P. W., Theory of spin glasses. J. Phys. F
+--
+   32. Fischer K. H., Hertz J. A., Spin Glasses (Cambridge University
+   Press, Cambridge, United Kingdom, 1993). [Google Scholar]
+   33. McLeish T. C., Are there ergodic limits to evolution? Ergodic
+   exploration of genome space and convergence. Interface Focus 5,
+   20150041 (2015). [PMC free article] [PubMed] [Google Scholar]
+--
+   Learning and Prospering in a Complex World (Basic Books, New York, NY,
+   ed. 1, 2013). [Google Scholar]
+   38. Watson R. A., Szathmáry E., How can evolution learn? Trends Ecol.
+   Evol. 31, 147–157 (2016). [PubMed] [Google Scholar]
+   39. Benfatto G., Gallavotti G., Renormalization Group (Physics Notes
+--
+   NY, 1972). [Google Scholar]
+   41. Katsnelson M. I., Wolf Y. I., Koonin E. V., Towards physical
+   principles of biological evolution. Phys. Scr. 93, 043001 (2018).
+   [Google Scholar]
+   42. Laughlin R. B., Pines D., The theory of everything. Proc. Natl.
+--
+   Scholar]
+   48. Shelton D. E., Michod R. E., Group and individual selection during
+   evolutionary transitions in individuality: Meanings and partitions.
+   Philos. Trans. R. Soc. Lond. B Biol. Sci. 375, 20190364 (2020). [PMC
+   free article] [PubMed] [Google Scholar]
+   49. Bakhtin Y., Katsnelson M. I., Wolf Y. I., Koonin E. V., Evolution
+   in the weak-mutation limit: Stasis periods punctuated by fast
+   transitions between saddle points on the fitness landscape. Proc. Natl.
+--
+   [Google Scholar]
+   50. Koonin E. V., Wolf Y. I., Constraints and plasticity in genome and
+   molecular-phenome evolution. Nat. Rev. Genet. 11, 487–498 (2010). [PMC
+   free article] [PubMed] [Google Scholar]
+   51. Wright S., Adaptation and Selection. Genetics, Paleontology and
+   Evolution (Princeton University Press, Princeton, NJ, 1949). [Google
+   Scholar]
+   52. Lynch M., et al., Genetic drift, selection and the evolution of the
+   mutation rate. Nat. Rev. Genet. 17, 704–714 (2016). [PubMed] [Google
+   Scholar]
+   53. Gavrilets S., Fitness Landscapes and the Origin of Species
+   (Princeton University Press, Princeton, NJ, 2004). [Google Scholar]
+   54. Svensson E., Calsbeek R., The Adaptive Landscape in Evolutionary
+   Biology (Oxford University Press, Oxford, United Kingdom, 2012).
+   [Google Scholar]
+   55. Joyce G. F., The antiquity of RNA-based evolution. Nature 418,
+   214–221 (2002). [PubMed] [Google Scholar]
+   56. Joyce G. F., Szostak J. W., Protocells and RNA self-replication.
+   Cold Spring Harb. Perspect. Biol. 10, a034801 (2018). [PMC free
+   article] [PubMed] [Google Scholar]
+   57. Szathmáry E., The evolution of replicators. Philos. Trans. R. Soc.
+   Lond. B Biol. Sci. 355, 1669–1676 (2000). [PMC free article] [PubMed]
+   [Google Scholar]
+--
+   64. Woese C., The universal ancestor. Proc. Natl. Acad. Sci. U.S.A. 95,
+   6854–6859 (1998). [PMC free article] [PubMed] [Google Scholar]
+   65. Woese C. R., On the evolution of cells. Proc. Natl. Acad. Sci.
+   U.S.A. 99, 8742–8747 (2002). [PMC free article] [PubMed] [Google
+   Scholar]
+--
+   68. Sagan L., On the origin of mitosing cells. J. Theor. Biol. 14,
+   255–274 (1967). [PubMed] [Google Scholar]
+   69. Embley T. M., Martin W., Eukaryotic evolution, changes and
+   challenges. Nature 440, 623–630 (2006). [PubMed] [Google Scholar]
+   70. Iranzo J., Lobkovsky A. E., Wolf Y. I., Koonin E. V., Virus-host
+--
+   71. Nedelcu A. M., Driscoll W. W., Durand P. M., Herron M. D., Rashidi
+   A., On the paradigm of altruistic suicide in the unicellular world.
+   Evolution 65, 3–20 (2011). [PubMed] [Google Scholar]
+   72. Durand P. M., The Evolutionary Origins of Life and Death
+   (University of Chicago Press, Chicago, IL, 2021). [Google Scholar]
+   73. Koonin E. V., Aravind L., Origin and evolution of eukaryotic
+   apoptosis: The bacterial connection. Cell Death Differ. 9, 394–404
+   (2002). [PubMed] [Google Scholar]
+--
+   75. Galushkin A. I., Neural Networks Theory (Springer, New York, NY,
+   2007). [Google Scholar]
+   76. Kimura M., The Neutral Theory of Molecular Evolution (Cambridge
+   University Press, Cambridge, United Kingdom, 1983). [Google Scholar]
+   77. Nei M., Selectionism and neutralism in molecular evolution. Mol.
+   Biol. Evol. 22, 2318–2342 (2005). [PMC free article] [PubMed] [Google
+   Scholar]
+--
+   model of a complex trait. eLife 10, e64740 (2021). [PMC free article]
+   [PubMed] [Google Scholar]
+   79. Sailer Z. R., Harms M. J., Molecular ensembles make evolution
+   unpredictable. Proc. Natl. Acad. Sci. U.S.A. 114, 11938–11943 (2017).
+   [PMC free article] [PubMed] [Google Scholar]
+--
+   transcription initiation in bacteria. Nat. Rev. Genet. 21, 699–714
+   (2020). [PMC free article] [PubMed] [Google Scholar]
+   83. Lynch M., Evolution of the mutation rate. Trends Genet. 26, 345–352
+   (2010). [PMC free article] [PubMed] [Google Scholar]
+   84. Friston K., Kilner J., Harrison L., A free energy principle for the
+--
+   (Harper and Row, New York, NY, 1970). [Google Scholar]
+   86. Vanchurin V., Wolf Y. I., Koonin E. V., Katsnelson M. I.,
+   Thermodynamics of evolution and the origin of life. Proc. Natl. Acad.
+   Sci. U.S.A. 119, 10.1073/pnas.2120042119 (2022). [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+--
+   [PubMed] [Google Scholar]
+   98. Dobzhansky T., Nothing in biology makes sense except in the light
+   of evolution. Am. Biol. Teach. 35, 125–129 (1973). [Google Scholar]
+   99. Copley S. D., Smith E., Morowitz H. J., The origin of the RNA
+   world: Co-evolution of genes and metabolism. Bioorg. Chem. 35, 430–443
+   (2007). [PubMed] [Google Scholar]
+   100. Kahana A., Lancet D., Self-reproducing catalytic micelles as
+   nanoscopic protocell precursors. Nat. Rev. Chem. 5, 870–878 (2021).
+   [Google Scholar]
+   101. Vetsigian K., Woese C., Goldenfeld N., Collective evolution and
+   the genetic code. Proc. Natl. Acad. Sci. U.S.A. 103, 10696–10701
+   (2006). [PMC free article] [PubMed] [Google Scholar]

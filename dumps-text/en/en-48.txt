@@ -1,293 +1,2989 @@
-   #New Scientist - Home
+   (BUTTON) Back to Top Skip to main content
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-B92N
+   U.S. flag
 
+   An official website of the United States government
+   (BUTTON) Here's how you know
+   Dot gov
+
+   The .gov means it’s official.
+   Federal government websites often end in .gov or .mil. Before sharing
+   sensitive information, make sure you’re on a federal government site.
+   Https
+
+   The site is secure.
+   The https:// ensures that you are connecting to the official website
+   and that any information you provide is encrypted and transmitted
+   securely.
+
+   NIH NLM Logo
+   Log in (BUTTON) Show account info
    (BUTTON) Close
 
-   Advertisement
+Account
 
-   Skip to content
-   Sign in
-   ____________________ (BUTTON)
-   [ ]
+   Logged in as:
+   username
+     * Dashboard
+     * Publications
+     * Account settings
+     * Log out
 
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
+   Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
 
-   Subscribe now
+   (BUTTON)
+   (BUTTON)
+   Search PMC Full-Text Archive ____________________ (BUTTON) Search in
+   PMC
+     * Advanced Search
+     * User Guide
+
    (BUTTON)
 
-   Explore by section
-     * News
-     * Features
-     * Newsletters
-     * Podcasts
-     * Video
-     * Comment
-     * Culture
-     * Crosswords
-     * |
-     * This week's magazine
-
-   Explore by subject
-     * Health
-     * Space
-     * Physics
-     * Technology
-     * Environment
-     * Mind
-     * Humans
-     * Life
-     * Mathematics
-     * Chemistry
-     * Earth
-     * Society
-
-   Explore our products and services
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
-
-   Subscribe now
-
-   Subscribe now
-
-Evolution of the eye
-
-   Evolution of the eye
-
-   Linda Parton / Alamy
-
-   They appeared in an evolutionary blink and changed the rules of life
-   for ever. Before eyes, life was gentler and tamer, dominated by
-   sluggish soft-bodied creatures lolling around in the sea. The invention
-   of the eye ushered in a more brutal and competitive world. Vision made
-   it possible for animals to become active hunters, and sparked an
-   evolutionary arms race that transformed the planet.
-
-   When did eyes evolve?
-
-   The first eyes appeared about 541 million years ago – at the very
-   beginning of the Cambrian period when complex multicellular life really
-   took off – in a group of now extinct animals called trilobites which
-   looked a bit like large marine woodlice. Their eyes were compound,
-   similar to those of modern insects. And their appearance in the fossil
-   record is strikingly sudden. Trilobite ancestors from 544 million years
-   ago don’t have eyes. So what happened in that magic million years?
-   Surely eyes, with their interconnected assemblage of retina, lens,
-   pupil and optic nerve, are just too complex to appear all of a sudden?
-
-   How did eyes evolve?
-
-   Advertisement
-
-   The complexity of the eye has long been an evolutionary battleground.
-   Ever since William Paley came up with the watchmaker analogy in 1802 –
-   which claimed that something as complex as a watch must have a maker –
-   creationists have used it to make the “argument from design”. Eyes are
-   so intricate, they say, that it stretches credibility to suggest they
-   evolved through the selection and accumulation of random mutations.
-
-   Charles Darwin was well aware of the argument. In On the Origin of
-   Species he admitted that eyes were so complex that their evolution
-   seemed “absurd to the highest degree”. But he went on to convincingly
-   argue that it only seemed absurd. Complex eyes could have evolved from
-   very simple ones by natural selection as long as each gradation was
-   useful. The key to the puzzle, Darwin said, was to find eyes of
-   intermediate complexity in the animal kingdom that would demonstrate a
-   possible path from simple to sophisticated.
-
-   Those intermediate forms have now been found. According to evolutionary
-   biologists, it would have taken less than half a million years for the
-   most rudimentary eye to evolve into a complex “camera” eye like ours.
-
-   The first step is to evolve light-sensitive cells. This appears to be a
-   trivial matter. Many single-celled organisms have eyespots made of
-   light-sensitive pigments. Some can even swim towards or away from
-   light. Such rudimentary light-sensing abilities confer an obvious
-   survival advantage.
-
-   The next step was for multicellular organisms to concentrate their
-   light-sensitive cells into a single location. Patches of photosensitive
-   cells were probably common long before the Cambrian, allowing early
-   animals to detect light and sense what direction it was coming from.
-   Such rudimentary visual organs are still used by jellyfish and
-   flatworms and other primitive groups, and are clearly better than
-   nothing.
-
-   The first eyes in nature
+     * Journal List
+     * PLoS One
+     * PMC9484648
 
-   The simplest organisms with photosensitive patches are hydras –
-   freshwater creatures related to jellyfish. They have no eyes but will
-   contract into a ball when exposed to bright light. Hydras are
-   interesting from an evolutionary perspective because their basic
-   light-sensing equipment is very similar to that seen in other
-   evolutionary lineages, including mammals. It is based on two types of
-   protein: opsins, which change shape when light strikes them, and ion
-   channels, which respond to the shape-shifting by generating an
-   electrical signal. Genetic research suggests that all opsin/ion channel
-   systems evolved from a common ancestor similar to hydras, pointing to a
-   single evolutionary origin of all visual systems.
+Other Formats
 
-   The next step is to evolve a small depression containing the
-   light-sensitive cells. This makes it easier to discriminate the
-   direction the light is coming from and hence sense movement. The deeper
-   the pit, the sharper the discrimination.
+     * PubReader
+     * PDF (942K)
 
-   Further improvement can then be made by narrowing the opening of the
-   pit so that light enters through a small aperture, like a pinhole
-   camera. With this sort of equipment it becomes possible for the retina
-   to resolve images – a vast improvement on previous models. Pinhole
-   camera eyes, lacking a lens and cornea, are found in the nautilus
-   today.
+Actions
 
-   The final big change is to evolve a lens. This probably started out as
-   a protective layer of skin that grew over the opening. But it evolved
-   into an optical instrument capable of focusing light on to the retina.
-   Once that happened, the effectiveness of the eye as an imaging system
-   went through the roof, from about 1 per cent to 100 per cent.
+     * (BUTTON) Cite
+     *
 
-   Eyes of this kind are still found in cubozoans, highly mobile and
-   venomous marine predators similar to jellyfish. They have 24 eyes
-   arranged in four clusters; 16 are simply light-sensitive pits, but one
-   pair in each cluster is complex, with a sophisticated lens, retina,
-   iris and cornea.
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
 
-   Trilobites went down a slightly different route, evolving compound eyes
-   with multiple lenses. But the basic sequence of events was the same.
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
+
+        Share
+
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
+
+     * Journal List
+     * PLoS One
+     * PMC9484648
+
+   As a library, NLM provides access to scientific literature. Inclusion
+   in an NLM database does not imply endorsement of, or agreement with,
+   the contents by NLM or the National Institutes of Health.
+   Learn more: PMC Disclaimer | PMC Copyright Notice
+
+   Logo of plosone
+
+   PLoS One. 2022; 17(9): e0273929.
+   Published online 2022 Sep 19. doi: 10.1371/journal.pone.0273929
+   PMCID: PMC9484648
+   PMID: 36121835
+
+Acceptance of evolution by high school students: Is religion the key factor?
+
+   Graciela da Silva Oliveira, Formal analysis, Investigation, Writing –
+   review & editing,^ 1 ,^ 2 Giuseppe Pellegrini, Formal analysis, Funding
+   acquisition, Investigation, Methodology, Project administration,
+   Writing – review & editing,^ 2 ,^ 3 ,^ 4 Leonardo Augusto Luvison
+   Araújo, Data curation, Funding acquisition, Writing – original draft,
+   Writing – review & editing,^ 2 ,^ 5 and Nelio Bizzo, Conceptualization,
+   Data curation, Formal analysis, Funding acquisition, Investigation,
+   Methodology, Project administration, Writing – original draft, Writing
+   – review & editing^ corresponding author ^2 ,^ 5 ,^ 6 ,^*
 
-   Trilobites weren’t the only animals to stumble across this invention,
-   although they were the first. Biologists believe that eyes evolved
-   independently on many, possibly hundreds, of occasions.
+Graciela da Silva Oliveira
 
-   And what a difference it made. In the sightless world of the Early
-   Cambrian, vision was tantamount to a superpower. Trilobites became the
-   first active predators, able to seek out and chase down prey like no
-   animal before. Unsurprisingly, their victims counter-evolved. Just a
-   few million years later, eyes were everywhere and animals were more
-   active and bristling with armour. This burst of evolutionary innovation
-   is what we now know as the Cambrian Explosion.
+   ^1 Departamento de Biologia e Zoologia, Instituto de Biociências,
+   Universidade Federal de Mato Grosso, UFMT, Cuiabá, Brazil
 
-   However, sight is not universal. Of 37 phyla of multicellular animals,
-   only six have evolved it. But these six – including our own phylum,
-   chordates, plus arthropods and molluscs – are the most abundant,
-   widespread and successful animals on the planet.
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
+   Find articles by Graciela da Silva Oliveira
 
-   Advertisement
+Giuseppe Pellegrini
 
-Sign up to our weekly newsletter
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
 
-   Receive a weekly dose of discovery in your inbox! We'll also keep you
-   up to date with New Scientist events and special offers.
-   Sign up
+   ^3 Dipartimento di Sociologia e Ricerca Sociale, Università degli Studi
+   di Trento, UniTrento, Trento, Italy
 
-More on Evolution of the eye
+   ^4 Observa–Science in Society, Vicenza, Italy
+   Find articles by Giuseppe Pellegrini
 
-   The unlikely extremophiles lurking in your kitchen
+Leonardo Augusto Luvison Araújo
 
-Environment
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
 
-The unlikely extremophiles lurking in your kitchen
+   ^5 Faculdade de Educação, Departamento de Metodologia de Ensino e
+   Educação Comparada, Universidade de São Paulo, USP, São Paulo, Brazil
+   Find articles by Leonardo Augusto Luvison Araújo
 
-   Features
+Nelio Bizzo
 
-   Subscriber-only
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
 
-   Cultured MDCK cells
+   ^5 Faculdade de Educação, Departamento de Metodologia de Ensino e
+   Educação Comparada, Universidade de São Paulo, USP, São Paulo, Brazil
 
-Life
-
-Some of our cells move – and they do it by emitting lots of chemicals
-
-   News
-
-   Subscriber-only
-
-   Alaska brown bear fishing in the Brooks River
-
-Life
-
-Fat Bear Week: How Alaska's brown bears nearly double in size
-
-   News
-
-   Free
-
-Related articles
-
-   How did life begin?
-
-Question
-
-How did life begin?
-
-   Free
-
-   Gregor Mendel
-
-People in Science
-
-Gregor Mendel
-
-   Free
-
-   Barbara McClintock
-
-People in Science
-
-Barbara McClintock
-
-   Free
-
-   Advertisement
-
-   Download the app
-   Download on the apple apps store Download on Google play
-
-Find us on social media
-
-     * Find us on Instagram Instagram
-     * Find us on Facebook Facebook
-     * Find us on X / Twitter X / Twitter
-     * Find us on Tiktok Tiktok
-     * Find us on LinkedIn LinkedIn
-
-Subscriptions
-
-     * Subscriber benefits
-     * Gift
-     * Student & graduate
-     * Educational
-     * Corporate
-
-Support
-
-     * Help
-     * About us
-     * Advertise
-     * Write for us
-
-Tools
-
-     * Events
-     * Science Jobs
-     * CoLab
-     * Syndication
-     * RSS feeds
-
-Legal and privacy
-
-     * Contact us
-     * Privacy policy
-     * Cookie policy
-     * Terms & conditions
-     * (BUTTON) Cookie Settings
-
-© Copyright New Scientist Ltd.
-
-   (BUTTON) Back to the top
+   ^6 Departamento de Ciências Exatas e da Terra, Instituto de Ciências
+   Ambientais, Químicas e Farmacêuticas, Universidade Federal de São
+   Paulo, UNIFESP, Diadema, Brazil
+   Find articles by Nelio Bizzo
+   Norman Johnson, Editor^
+   Author information Article notes Copyright and License information PMC
+   Disclaimer
+   ^1 Departamento de Biologia e Zoologia, Instituto de Biociências,
+   Universidade Federal de Mato Grosso, UFMT, Cuiabá, Brazil
+   ^2 Research Nucleus on Education, Epistemology and Outreach of
+   Evolution “Charles Darwin”, USP, São Paulo, Brazil
+   ^3 Dipartimento di Sociologia e Ricerca Sociale, Università degli Studi
+   di Trento, UniTrento, Trento, Italy
+   ^4 Observa–Science in Society, Vicenza, Italy
+   ^5 Faculdade de Educação, Departamento de Metodologia de Ensino e
+   Educação Comparada, Universidade de São Paulo, USP, São Paulo, Brazil
+   ^6 Departamento de Ciências Exatas e da Terra, Instituto de Ciências
+   Ambientais, Químicas e Farmacêuticas, Universidade Federal de São
+   Paulo, UNIFESP, Diadema, Brazil
+   University of Massachusetts, UNITED STATES
+   ^corresponding author Corresponding author.
+   Competing Interests: The authors have declared that no competing
+   interests exist.
+   * E-mail: rb.psu@ozzib, rb.psefinu@ozzib
+   Received 2022 Feb 17; Accepted 2022 Aug 17.
+   Copyright © 2022 Oliveira et al
+   This is an open access article distributed under the terms of the
+   Creative Commons Attribution License, which permits unrestricted use,
+   distribution, and reproduction in any medium, provided the original
+   author and source are credited.
+
+Associated Data
+
+   Supplementary Materials
+          S1 Table: General profile of items by questionnaire, with
+          Chi-square tests comparing Brazilian and Italian students (all
+          religions comprised). (DOCX)
+
+          pone.0273929.s001.docx (20K)
+
+          GUID: 001F409E-53BC-42BA-B96F-8E888BED411A
+
+          S2 Table: Proportion column tests for each item. (DOCX)
+
+          pone.0273929.s002.docx (16K)
+
+          GUID: EC899A0C-58B5-4AF3-841A-604D184654F3
+
+          S3 Table: Summary of the multiple correspondence analysis. MCA
+          case processing summary.
+
+          (DOCX)
+
+          pone.0273929.s003.docx (13K)
+
+          GUID: B57D7B3F-0733-446D-8D5D-168A57011A36
+
+          S4 Table: Samples of students who declared their religion in
+          Italy and Brazil. (DOCX)
+
+          pone.0273929.s004.docx (12K)
+
+          GUID: E43C9FB2-FFFA-4081-A90E-2E3B2B102790
+
+          S5 Table: MCA matrix of discrimination measures. (DOCX)
+
+          pone.0273929.s005.docx (13K)
+
+          GUID: CFFF076E-4963-4698-8087-45E5AA42149E
+
+          S1 File: Reasons to consider item G78 as an outlier. (DOCX)
+
+          pone.0273929.s006.docx (15K)
+
+          GUID: 255B211D-FA44-4EF5-BE18-230C6D23A68C
+
+          S2 File: Ancillary set of tables exploring possible bias in
+          missing cases that were not included in the multiple
+          correspondence analysis & link to database and SPSS syntaxes.
+          (DOCX)
+
+          pone.0273929.s007.docx (29K)
+
+          GUID: 5D7C149E-464D-4A17-9302-5B8386AA4B32
+
+          Attachment: Submitted filename: Responses_REV_plos_vf5.doc
+
+          pone.0273929.s008.doc (67K)
+
+          GUID: 2E072EE9-DF2A-4780-A11A-2E417A4A42A8
+
+   Data Availability Statement
+          Data are held in a public repository in the following url:
+          https://github.com/easouza85/Nelio-Bizzo-Project.
+
+Abstract
+
+   The idea of biological evolution is not accepted by many people around
+   the world, with a large disparity amongst countries. Some factors may
+   act as obstacles to the acceptance of evolution, such as religion, a
+   lack of openness to experience, and not understanding the nature of
+   science. Although the strength of the association between evolution
+   acceptance and non-scientific factors varies among studies, it is often
+   assumed that resistance to evolution is the byproduct of a religious
+   background. Some studies are even more specific and try to associate
+   the acceptance of evolution with precise religious affiliations. We
+   aimed to explore the strength of associations among nationality,
+   religion, and the acceptance of evolution by students using multiple
+   correspondence analysis (MCA) and statistical tools, with nationwide
+   samples from two different countries. Here, we show that wider
+   sociocultural factors predict the acceptance of evolution to a higher
+   degree than a religious background. We carried out two nationwide data
+   collections that allowed us to compare differences in the acceptance of
+   evolution in Italy and Brazil by high school students who declare to
+   belong to the same religion in the two countries. Roman Catholic
+   students showed significant differences between the two countries, and
+   the gap between them was wider than between Catholics and non-Catholic
+   Christians within Brazil. Our conclusions support those who argue that
+   religious affiliation is not the main factor in predicting the level of
+   evolution acceptance. The sociocultural environment and the level of
+   evolutionary knowledge seem to be more important in this regard. These
+   results open up new interpretative perspectives and provide a better
+   understanding of attitudes towards evolution.
+
+Introduction
+
+   The acceptance of evolution has been a central topic in evolution
+   education in at least the last three decades [1,2]. Researchers have
+   examined numerous factors that may act as obstacles to the acceptance
+   of evolution, such as religiosity, knowledge of evolutionary theory,
+   the understanding of the nature of science, scientific aptitudes, and
+   psychological conflicts, among others [3–6]. A major association seems
+   to exist among three main factors: the understanding of key biological
+   concepts, religious factors, and the understanding of the nature of
+   science. However, the data require further investigation.
+
+   A systematic literature review of the current state of research
+   regarding students’ and teachers’ acceptance of evolution across Europe
+   found that the level of acceptance of evolution in different
+   educational settings is ambiguous. The authors argue that similar
+   samples and a standardized assessment of the acceptance of evolution
+   are necessary for cross-country comparisons [7].
+
+   The use of different instruments to measure evolution acceptance could
+   be a cause of conflicting research results. A variety of tests have
+   been proposed, including the Measure of Acceptance of the Theory of
+   Evolution (MATE), which has been widely used for more than 20 years and
+   recently revised [8], the Inventory of Student Evolution Acceptance
+   (I-SEA) [9], the Generalized Acceptance of EvolutioN Evaluation (GAENE)
+   [10], etc. It should be considered that the studies cited above differ
+   in their contexts of comparison in relation to ages, countries, and
+   socioeconomic levels, as well as the number of data collected and
+   measurement statistics. However, inconsistencies in the results were
+   found even in the analysis of the same group with different instruments
+   measuring the acceptance of evolution.
+
+   Barnes et al. [6] conducted separate analyses using six different
+   evolution acceptance instruments with the same group of students, a
+   large sample of around 2,300 university students. The instruments were
+   administered in a random order to avoid bias due to differential
+   attention and response readiness. The results were surprising and
+   showed that different instruments led to different results for the
+   measure of evolution acceptance, including conflicting ones. These
+   results may also be interpreted as an indication that some instruments
+   need methodological revisions in the search for possible distortions
+   and biases.
+
+   Additionally, the research findings revealed a complex relationship
+   between understanding evolutionary concepts (e.g. natural selection)
+   and evolution acceptance [10–13]. The same lack of consensus exists
+   when measuring the level of evolution knowledge, given that several
+   alternative assessment tools are available and may lead to different
+   results [14,15]. A study with secondary school students (aged 14–16) in
+   the United Kingdom found that teaching genetics before teaching
+   evolution had a significant impact on improving evolution understanding
+   but did not result in a significantly increased acceptance of evolution
+   [16]. This reflects a weak correlation between the knowledge and
+   acceptance of evolution, which also appears to be present in
+   undergraduate students. In Chilean students of 15–16 years old, it was
+   found that including instruction on the nature of science in the class
+   on evolution improved their acceptance significantly [17].
+
+   Kuschmierz et al. [7] identified 56 papers from the period of 2010–2020
+   regarding students’ and teachers’ knowledge and acceptance of evolution
+   across 29 European countries. However, according to the authors, the
+   research findings were hard to compare due to the application of
+   different instruments and the assessment of different key concepts. The
+   available database was not sufficient to obtain reasonably comparable
+   data from European countries. In addition, the ambiguous results of the
+   research demonstrate multiple challenges regarding measurement of
+   evolution education, such as (a) inadequate definitions of key
+   constructs (attitudes, acceptance, knowledge, and understanding are
+   often not defined or inconsistently used in publications); (b) the
+   application of diverse measurement instruments (different evolution
+   acceptance instruments may produce different results, even when applied
+   to the same population); (c) the multidimensionality of knowledge about
+   evolution (most instruments focus on single evolutionary constructs,
+   such as natural selection and related concepts).
+
+   The authors [18] then developed an instrument to measure attitudes and
+   understanding across Europe and beyond, called the “Evolution Education
+   Questionnaire on Acceptance and Knowledge” (EEQ). The measurement
+   instrument was translated into several European languages, in the
+   various Romance, Germanic, and Slavic branches, and was recently
+   applied to 9200 first-year university students in 26 European countries
+   [19].
+
+   This is a recent initiative, and thus, due to a lack of standardized
+   assessment procedures in the existing literature, previous results
+   should be used with caution when trying to compare countries, as there
+   are several limitations, such as sampling biases, etc. [18].
+
+   Religious beliefs are among the factors most investigated as predictors
+   to the low acceptance of evolution in several studies, especially among
+   some age groups, religious affiliations, and nationalities, mainly
+   Christian American students [10,20,21]. Barnes et al. [22] conducted a
+   study with 1898 students in eight states of the United States and found
+   that 56.5% of students perceived that evolution is atheistic, with a
+   higher percentage of Catholic and other Christian students. This
+   perception among students may lead to an apparent conflict between
+   their personal religious beliefs and evolution [23].
+
+   In addition to Christians, those of the Muslim faith have been
+   investigated, although the debate between several religions and
+   evolution is more typically addressed in Western contexts [24].
+   However, multifactorial models have found that once religiosity and
+   other measures are accounted for, the amount of variance in acceptance
+   of evolution is greatly reduced [13,25]. Mantelas and Mavrikaki [26]
+   examined the acceptance of evolution and its relationship with
+   religiosity among Greek university biology students. A rather weak
+   correlation was found between the two factors.
+
+   Evolution is controversial among both religious and non-religious
+   individuals, and inconsistent views of evolution have been evidenced in
+   both groups [24,27]. The picture appears to not be static, as a sample
+   of U.S. education professionals with a wide range of religious
+   commitments showed a significantly higher level of acceptance than
+   previous studies [28]. Moreover, the level of public acceptance of
+   evolution has increased in the United States in the last decade, and
+   education seems to play a significant role [29]. Thus, in certain
+   social contexts, religiosity may be a main component by itself, while
+   in others, evolution acceptance may depend on other factors.
+
+   There is a tendency, which cannot be taken as unanimous, that
+   associates the belief in any God (deism) as intrinsically
+   anti-evolutionist [30]. One can easily remember the several references
+   to the "Creator" in the Origin of Species, especially in its second
+   edition, showing that this direct link is far more complex than it may
+   seem at a first sight. The high heterogeneity of data available and the
+   well-known methodological issues around gathering sensitive opinions
+   and beliefs do not allow for a narrow focus on the search for one
+   isolated variable. However, it has been often assumed that resistance
+   to evolution is somehow a byproduct of religious background, especially
+   in the United States [22,31].
+
+   Some researchers have focused closely on specific religious groups,
+   such as Pentecostal Christians, known for their literal reading of
+   sacred texts and strong opposition to evolution [32]. One study was
+   carried out in Brazil, where these religious groups have a growing
+   influence, and tried to establish a direct correlation between the
+   frequency of Pentecostal Christians and the level of rejection of
+   evolution between the students of two high schools [33]. A written
+   instrument was created, based on a well-known one [8], and 10 students
+   were invited for semi-structured interviews [33]. Although no direct
+   correlation was found, the author concluded that religious beliefs are
+   important elements that shape students’ ideas, possibly introducing
+   “constraints that might hinder the understanding of evolutionary
+   theory” [33, p. 63].
+
+   Another piece of research developed a survey instrument with a
+   nationwide sample of the British population about the general public’s
+   views of evolution. As the study had a closer focus on religion, there
+   was oversampling of five different religious affiliations: Anglicans
+   (or Episcopalians), Catholics, Muslims, Pentecostal Christians, and
+   Independent Evangelical Christians. The results showed a strong
+   rejection of evolution by Muslims, Pentecostals, and Independent
+   Evangelical Christians, contrary to the position of non-religious
+   people, Anglicans, and Catholics, who showed high agreement to
+   statements about human evolution. The study revealed that the frequency
+   of religious service attendance is a large significant predictor of
+   evolution rejection among most religious groups [24, p.88]. The general
+   conclusion was that religious affiliation and the degree to which
+   individuals participate in religious practices affect the acceptance of
+   evolution as a valid theory.
+
+   A recent study with a large sample of almost 8000 undergraduate biology
+   students in different states of the United States searched for
+   correlations between religious affiliation and variables such as the
+   acceptance and understanding of evolution. Using a Likert scale
+   instrument, they found that Muslim undergraduate students showed
+   slightly higher evolution acceptance levels than Protestant students,
+   but significantly lower levels than Catholic, Jewish, Buddhist, and
+   Hindu students [34].
+
+   However, some researchers have been questioning the common view that
+   religious affiliation is the main factor to the acceptance of
+   evolution. They argue that it is more likely that people form beliefs
+   congruent with their broad cultural identity, which includes but is not
+   limited to religious belief [35,36]. However, most articles arguing in
+   this direction are case studies and philosophical or legal debates
+   about evolution vs creation in the school curricula, mostly in the U.S.
+   context [37]. In addition, with few exceptions, such as the reports by
+   Miller et al. [2] and Clément [36], most studies have focused on a
+   specific culture or country, even if with large samples.
+
+   Our main research question tried to address this complex picture
+   considering the same religious affiliation in two different countries
+   with deep sociocultural differences. Catholic Christians in Italy and
+   Brazil have several similarities, including many family connections
+   owing to immigration history. Brazil is the country with the highest
+   number of Catholic Christians in the world, and Italy is the hub of
+   Roman Catholicism. They follow the same basic regulations from the
+   Vatican, which include explicit views on biological evolution and a
+   non-literal interpretation of sacred texts. However, there are deep
+   sociocultural differences due to many complex factors, including
+   education. A survey comprising 192 Brazilian students was carried out
+   in Brazil in 1990, which found a great deal of Lamarckian views [38].
+   One should also consider that in the last three decades, there has been
+   a significant rise in the creationist movement in Brazil [39]. One
+   Brazilian state minister declared in 2019 that the Evangelical Church
+   should fight against the introduction of the theory of evolution in
+   public schools, before her recent nomination [40]. Another member of
+   the federal government declared in an open ceremony that Intelligent
+   Design (ID) should be introduced in Brazil’s public schools as “a
+   counterpoint to the theory of evolution”, assuming that there would be
+   a “creationist theory” to be taught in science lessons starting at the
+   primary level [41]. Research carried out in Brazil had already showed
+   that creationism had a significant influence on young science teachers
+   [42].
+
+   Italy is a highly industrialized country within the European Union.
+   Research on the public understanding of science has been frequent, with
+   nationwide surveys since 2004 [43]. However, specific research on the
+   knowledge and acceptance of evolution in Italy was scarce at that time.
+   Whereas Italy is included in broader international surveys, it accounts
+   only for a few targeted case studies that vary in types of audience and
+   goals. Despite the scarce data, researchers indicated that rejection of
+   the evolutionary theory is neither widespread nor deeply rooted in
+   Italian society [44], which was confirmed by Pew Research Center
+   reports. The same source recently confirmed the tendency of the rise of
+   the creationist perspective in Brazil within adults, with a
+   considerably lower acceptance of evolution by Christians in Brazil
+   (51%) than in Italy (74%) [45].
+
+Methodological issues
+
+   Despite the similarities between Italy and Brazil, there is a marked
+   difference between the two sociocultural contexts. However, some
+   methodological issues should be properly addressed to avoid some
+   sources of significant bias in the statistical tools to be used. The
+   sample design was an important step, as nationwide samples best
+   represent the complexity of the several sociocultural influences. As we
+   were targeting the main religious group in both countries (Catholics),
+   no oversampling was necessary. Non-Catholic Christians would be part of
+   the sample, but no specific conclusions could be drawn considering the
+   different religious affiliations within the group.
+
+   Brazil is a country where religious practices are diverse and encompass
+   several different belief systems and traditions, which reflect elements
+   of European (Catholic and Protestant), African, Oriental, and
+   indigenous religions, among others. This diversity has its foundation
+   in the colonization process of European immigrants from 1500 onwards,
+   African descendants, and local indigenous tribes [46].
+
+   The group of non-Catholic Christians is very heterogeneous, and our
+   database aggregated several different affiliations in the two
+   countries: Orthodox, Lutheran, Presbyterian, Baptist, Adventist,
+   Jehovah’s Witnesses, Assembly of God, Christian Congregation of Brazil,
+   International of God’s Grace, World of God’s Power, and the Universal
+   Church of the Kingdom of God. Therefore, we consider that the
+   comparison between Catholics in the two countries was more suitable for
+   this study, as it is a more homogeneous group. The term “evangelical”
+   represents the universe of non-Catholic Christians considered by
+   Brazilian society as “Brazilian Protestantism”, which is constituted by
+   historical Protestants, Pentecostals, and Neo-Pentecostals and led by
+   Pentecostals, with a massive dissemination by Neo-Pentecostals. Brazil
+   is considered the country with the largest number of Roman Catholics in
+   the world. However, this hegemony has been decreasing in recent
+   decades, which reveals a changing trend in the religious composition of
+   the population [47]. Data from the population census in Brazil point to
+   the decline of the Roman Catholic religion and a continuous rise of
+   protestant groups in the last decades [48].
+
+   The age level was an essential component for sampling, as elderly
+   people tend to be more conservative than young students. Taking
+   advantage of an international project focusing on youngsters who were
+   beginning high school level in both countries, we prepared separate
+   sets of questions about evolution so that we had the very same
+   questions answered by students of the same age in the same time frame,
+   during the first months of the year 2014. Targeting students at the
+   same age level in two different countries allows for closer comparisons
+   than multi-age-wide groups. In the next section, a more detailed
+   description of the sampling procedures in both countries is given.
+
+   There is an important distinction that we must keep in mind when
+   comparing the concepts of belief and acceptance. Differences between
+   them have long been discussed in the philosophical literature and the
+   specific field of evolution education [25,27,43,49]. The overall
+   picture takes belief as a subjective disposition to consider p. simply
+   as a premise under the influence of the wide cultural context. A
+   well-known distinction is recognized between belief and conjecture
+   since the latter is not committed to sensible things and applies even
+   to the world of shadows. In this context, it is important to separate
+   the notions of belief of classical philosophers, such as Plato and
+   Aristotle, from the revision carried out by Thomas Aquinas, who
+   considers belief in terms of "thinking with assent" related to faith
+   [49]. In our theoretical framework, belief refers to the sensible world
+   only, with the reality of things that exist. However, one can take p.
+   as a belief, but it does not in itself imply an admission of the
+   objective validity of the notion under consideration. Meanwhile, to
+   accept p. implies not only recognizing the existence of some objective
+   reality but also a further step in terms of judgment, admitting p. as
+   valid under some specific circumstances; in short: “acceptance implies
+   a commitment to a policy of premising that p.” [50].
+
+   The instrument used in the recent work by Kuschmierz et al. [19],
+   ATEVO, relies on eight items with statements about evolution, and
+   students show their degree of agreement with each of them [51]. In the
+   German context, the acceptance of evolution is defined as a “positive
+   attitude” (“positive Einstellung”) towards evolution. In this regard,
+   “attitude” (“Einstellung”) is defined as the level of association
+   between a term or fact and its subjective evaluation, in terms of
+   strength (“Starke”) and/or ability to bind with other terms or ideas
+   (“Valenz”). On the opposite side, a “negative attitude” (“negative
+   Einstellung”) is seen as “rejection” (“Ablehnung”). However, the result
+   of ATEVO test may be the result of very different processes. On the one
+   hand, “it remains unknown whether a person answers negatively for most
+   items about evolution because he/she has a ‘bad feeling’” (“schlechtes
+   Gefühl”) about evolution, in the sense of a preexisting emotional
+   refusal to think on the subject. On the other hand, the rejection may
+   have been the result of a long reflection leading to a rational
+   conclusion that evolution is not plausible [51, p. 12].
+
+   We adopted a clear definition of evolution acceptance despite the
+   complexity of the discussion on the subject in different languages,
+   taking acceptance as the expression of explicit recognition of the
+   objective validity of known scientific statements about evolution under
+   absolute anonymity. This definition considers two steps. The first is
+   associated with scientific statements about evolution, which must be
+   clear and well known, avoiding issues under discussion, for instance,
+   about the origin of life. Students must show not only a positive
+   attitude towards evolution but also express clearly that a statement
+   based on biological evolution is considered a valid premise to
+   construct a judgement about the real world.
+
+   The second step refers to objective conditions in which a person may
+   admit his/her positive judgment about a certain scientific statement.
+   One may know a proposition but to refuse to show public recognition of
+   it, or, on the contrary, manifest an opinion different from his/her
+   deep feeling due to the suspicion that it may reach a wider audience.
+   The perception of secrecy in everyday life is actually a major focus of
+   concern worldwide. Strong evidence published in the literature shows
+   that anonymity reduces social desirability distortion and increases
+   self-disclosure [52,53].
+
+   Therefore, anonymous participation must be guaranteed to every person
+   who is responding to questions about religion-related subjects, such as
+   biological evolution, especially when surveys are carried out within
+   conservative social contexts. Under secrecy, a person may accept a
+   proposition as a valid premise for argumentation, making inferences,
+   deliberations, etc. as a mental, individual, and innermost act.
+   However, this may not happen if there is a perception of the
+   possibility of third parties identifying the individual opinion. This
+   means, for instance, that phone calls or traceable connections using
+   electronic devices such as smartphones could be perceived by
+   respondents as possible ways of infringing the inviolability of the
+   anonymous character of the individual manifestation.
+
+   In our case, the students answered questions in their school
+   environment and were told their answers would be under absolute
+   anonymity. Previous analyses of this data bank showed surprisingly high
+   mean scores of evolution acceptance within fundamentalist religious
+   groups in Italy and Brazil [54]. This was also the case in a previous
+   survey using a different methodology, carried out in 2010–11, where
+   roughly half of Evangelical high school students in Brazil declared
+   under absolute anonymity that their religion was not opposed to
+   evolution [55].
+
+   In line with the tantalizing results of the study by Barnes et al. [6]
+   already mentioned, our research team proposed a revision to some
+   methods adopted in the previous survey. As mentioned before, we were
+   carrying out data collection as part of an international project
+   focusing on students’ interests and attitudes on science and
+   technology, which had started in 2007 [56]. The main research
+   instrument was based on Likert scale items but allowed a separated
+   section, which we added in both countries. However, we considered a
+   different approach for these evolution items, as we were going to
+   present students with factual statements that were regarded as right or
+   wrong by scientists.
+
+   Items following the Likert attitude data consist of favorable or
+   unfavorable statements about an entity, admitting a spectrum of
+   responses ranging from strong positive to strong negative answers, with
+   a numerical scale from 1 to 5. The resulting data can be analyzed using
+   several models that underlie latent variables. However, attitudes as
+   well as response styles can affect the result. It is well known that
+   numerical comparisons rely on the degree of precision of measures, for
+   instance, to estimate the mean height of a group of people. The
+   significance of the different statistical analyses are dependent on the
+   precision of the instrument used in data collection. Likert scaling is
+   used in instruments measuring attitudes, beliefs, and opinions about
+   statements, allowing for an expression of moderation of opinion from
+   agreement to disagreement. The key is to find ways of calibrating how
+   strongly or mildly a statement should be worded. These scales are
+   therefore suitable for issues related to open constructs and less
+   suitable for scientific claims based on presumed factuality. An item
+   likely to produce extreme responses, either full agreement or strong
+   disagreement, would do a poor job of discriminating across the full
+   spectrum of respondents [57]. Therefore, Likert scales may not be a
+   good choice with statements expressing well-known scientific facts. In
+   addition, in the case of theories of evolution, factuality is supported
+   by the school context in which the questionnaires were filled out. The
+   battery of items on evolution was proposed with dichotomous questions,
+   given that each of them can have minimal variability.
+
+   When evolution is considered, opinions can be expressed in terms of
+   favorable and unfavorable subjective statements, such as “There is a
+   significant body of data which supports evolutionary theory” [33],
+   “There is strong, reliable evidence to support the theory of evolution”
+   [24], or “I think there is reliable evidence to support the theory that
+   describes how humans were derived from ancestral primates” [33]. In
+   these three examples, latent variables can be inferred in terms of
+   personal attitudes, which can range from weak to strong, and grading
+   would help to correctly appraise the level of agreement. However,
+   well-known factual scientific statements cannot be graded as weak or
+   strong scientific facts. For instance “The age of the Earth is at least
+   4 billion years” [33] or “I think that humans and apes share an ancient
+   ancestor” [15], should be recognized as sound scientific statements (or
+   not). We have here a black/white choice, and respondents would be able
+   to express their judgment about these scientific statements as true or
+   false (or declining to express their opinion). When a well-known
+   scientific statement is marked as false, this means an explicit refusal
+   to admit it as a valid premise to analyze a certain situation.
+
+   One could argue that the level of admission or rejection can also be
+   variable, but we cannot overlook the fact that respondents are aware
+   they are invited to make a judgment different from simply recognizing
+   the existence of an idea. In other words, respondents know what is
+   expected from them. The scientific statement about the age of the
+   planet is widely known, both from the scientific and the fundamentalist
+   religious points of view. When ticking “false”, the respondents are
+   confirming their rejection of a statement known to be accepted by a
+   wide scientific community. A weak disagreement in a Likert scale should
+   not be taken as equivalent as rejection, as one could say that there is
+   some disagreement regarding the presented cipher, as a professional
+   paleontologist probably would argue about the precise age of our
+   planet. This disagreement cannot be taken as similar to the one from a
+   Young Earth creationist, but in a Likert scale, both would have similar
+   scores (1 and 2 out of 5 points in the Likert scale).
+
+   Thus, in such cases, weak and strong disagreement may represent
+   completely different attitudes, but with similar numerical values,
+   undermining the measure’s precision. The option to change the
+   instrument’s true/false options could enhance measurability, a critical
+   aspect of survey sampling [58]. Thus, contrary to some of our previous
+   pieces of research, we did not adopt Likert scale items in the
+   questionnaire used in this study, which is presented below.
+
+Materials and methods
+
+Survey instrument
+
+   We sought to measure evolution acceptance based on five clear
+   statements related to the evolutionary theory: Earth age, the fossil
+   record, common ancestry, and the origin of human beings. We included an
+   item about understanding, related to deep time, as it has been
+   considered a relevant barrier to evolution acceptance [59], while
+   statements about human evolution are highly controversial even amongst
+   biology teachers [60]. As mentioned before, the section of evolution
+   provided scientific statements as a separated set of items as part of a
+   longer questionnaire within the Relevance of Science Education (ROSE)
+   project [see 56]. One seminar was held in Venice (Italy) and another in
+   Brasília (Brazil) in the year 2012, bringing together researchers from
+   both countries for the construction of the research instrument.
+   Collaborative arrangements were defined for conducting joint data
+   collection using the same instrument, whose final wording was defined
+   after fieldwork and validation with students from two high schools in
+   the following year and applied in early 2014 in both countries [54].
+
+   Eight items related to evolution were offered to the students under a
+   command line asking to simply tick each of the following statements as
+   true or false, and a gentle refusal to answer the question (“I wouldn’t
+   know how to put it”). The Italian expression (“non saprei dire”) was
+   considered similar to the Portuguese translation adopted in Brazil
+   (“não saberia dizer”). The statements are presented below, according to
+   their identification in Section G of the questionnaire, which was then
+   called the “SAPIENS Barometer” of the second round of the ROSE project
+   in Italy and Brazil. The items read as follows:
+     * G75—The formation of our planet occurred some 4.5 billion years
+       ago;
+     * G76—Fossils are evidence of living beings that lived in the past;
+     * G77—Present-day species of animals and plants originated from other
+       species of the past;
+     * G78—Evolution occurs in both plants and animals;
+     * G79—Humans are descended from other primate species;
+     * G80—The human species has inhabited planet Earth in the last
+       100,000 years;
+     * G81—Different organisms may have a common ancestor;
+     * G83—The first humans were prey to carnivorous dinosaurs.
+
+   As item G82 was inadvertently absent in the Italian questionnaire, it
+   was not considered here for comparisons between Brazilians and
+   Italians.
+
+Sample design and research ethics
+
+   Sample design is basically composed of two aspects: a selection
+   process, defining the rules and operations leading to the definition of
+   clear targets in a wide population, and the estimation process, leading
+   to sample estimates of population values [58]. These two aspects were
+   standardized in both countries since the two research teams were taking
+   part in the same international project above mentioned [56]. This
+   international project targeted students who were beginning high school
+   level for several reasons; one of them is related to the fact that at
+   this age level, moral development is already completed in most
+   cultures, predicting long-term behavior [61]. The study was conducted
+   using stratified sampling both in Italy and Brazil.
+
+   The Brazilian sample was designed as a sub-sample of the 2009 OECD-PISA
+   sample and considered characteristics such as the offering of high
+   school levels, the administrative organization of the school (public or
+   private), the location (rural or urban, including all capitals and
+   cities in the interior of each state), and the Human Development Index
+   (HDI) of the state. There were three explicit stratification variables
+   (state, grade status, and certainty), with a total of 82 explicit
+   strata, and three implicit stratification variables (origin of funding,
+   urban/rural, and HDI level) [62]. The PISA sample comprised 976 schools
+   from the 27 units of the Brazilian Federation, from which 120 schools
+   were randomly drawn, with implicit stratification to allow all
+   federation units to be part of the subsample. This total included 20
+   schools for replacement.
+
+   Parcels with paper questionnaires and instructions were sent by
+   ordinary mail to 100 schools located in 87 different municipalities all
+   around the country after phone/email contact with the schools’
+   principals [63]. Differences from the PISA procedures were explained.
+   They were to select one classroom from the first year of high school
+   (“primeiro ano do Ensino Médio”) by a random drawing. A reasonable
+   number of schools (n = 78) returned the paper questionnaires after a
+   few weeks, with short reports describing how the process was carried
+   out and a signed letter (see below). After reading the report, the
+   questionnaires were scanned for machine-reading, leading to a digital
+   database with answers for 96 items and personal and family details,
+   such as age, gender, religious membership, and socioeconomic
+   indicators. The number of students reached 2,404 from 72 municipalities
+   of 26 federative units of the country (see Appendix 1 in Oliveira [63,
+   p. 288–9]).
+
+   The sampling was carried out by the EDEVO-Darwin Research Nucleus in
+   the first half of 2014, following all the applicable ethical
+   procedures. The contact with school principals included an explanation
+   of how the school was selected, differences from OECD/PISA technical
+   procedures, the voluntary nature of participation, students’ right to
+   withdraw at any time with no penalties, and the maintenance of the
+   confidentiality of school participation and guarantee of student
+   anonymity. School principals demonstrated their accordance with the
+   ethical procedures, sending back the parcel with the questionnaires to
+   the postal address of the research nucleus by ordinary mail, together
+   with a signed letter of informed consent (see Appendix A in Pinafo [64,
+   p. 437–442]). The expected risks and benefits were explained, and
+   mutual advantages were effectively achieved [65]. The database built by
+   the EDEVO-Darwin Research Nucleus was already anonymized, and, in
+   addition, the schools were recoded to prevent identification. Very
+   similar procedures were adopted by Observa, the institution that
+   constructed the Italian database in the same time-frame (see below).
+
+   The Italian sample was designed following the stratification model,
+   with random drawings from the universe of secondary schools (n =
+   2,862), with two explicit stratification variables (geographical area,
+   Grade 2 middle school status), with a total of 18 explicit strata, and
+   two implicit stratification variables (school type, town type). The
+   official list included high schools and enrolled students in Grade 2 of
+   middle school (“secondo anno della Scuola Media di Secondo Grado”), in
+   the year 2013/2014 [66], which corresponds to the same age level of the
+   Brazilian sample.
+
+   The sampling in Italy was proportional to the number of students in the
+   grade that year in each one of the geographical areas in which the
+   country is divided, as follows: North-West (25%), North-East (18%),
+   Center (18%), South (27%), and Islands (12%). A random selection of 100
+   schools followed the above-mentioned proportions. Instead of having the
+   urban/rural school-type stratification, standard sampling procedures
+   adopted in similar surveys in Italy recommend dividing the sample into
+   two parts, drawing half of the schools from the group of regional major
+   towns (“comuni capoluogo”), and the other half from all other
+   municipalities (“territorio provinciale”) [67]. The questionnaires were
+   sent to 103 schools after 14 replacements were randomly selected,
+   having received materials in return from 99 schools from 88
+   municipalities from all geographical areas of the country, comprising
+   3503 students. Differently from what happened in Brazil, the procedures
+   for database entry from the paper questionnaires were done manually,
+   with no machine-reading.
+
+   In Italy, the questionnaires were delivered to two classrooms for each
+   selected school. The teachers explained to the students the objectives
+   of the ROSE survey in each classroom by specifying how to fill it out
+   and ensuring that the questionnaire was completely anonymous, along
+   with all the other conditions in compliance with Italian legislation at
+   the time (2014) [68]. Subsequently, after a brief introduction to the
+   questionnaire, the students filled it out in paper or in the school
+   computer lab, under teacher supervision, assuring they were working
+   individually. Regulations for research on education in Italy are
+   similar to the Brazilian ones and were followed, with no identification
+   of the students or schools in the public databank, which was merged
+   with the Brazilian one.
+
+   The aggregated databank has been used for independent analyses,
+   generating doctoral theses at different institutions and in several
+   publications [46,63,64,69]. Using an anonymous database with public
+   access, the authors did not submit the statistical analysis protocol to
+   an Institutional Research Review Board in advance.
+
+Data collection
+
+   The survey took place between March and May 2014 in both countries.
+   Paper-and-pencil questionnaires were used in both countries, as well as
+   electronic forms in some schools in Italy, all under absolute
+   anonymity. The instrument consisted of a section regarding personal
+   data (gender, age, living place), some socioeconomic questions, 73
+   Likert scale items, and the true/false section on evolution (G
+   Section), which is the focus of the present study (see Annex A in
+   Oliveira [63]).
+
+   The students had roughly the same age level in both countries, being
+   around 15 years old. Valid cases comprised only students from 14 to 16
+   years old. There was a slight difference in the gender proportion in
+   the two countries, as girls slightly outnumbered boys in Brazil (55%)
+   and Italy (52%). The declaration of religion is a sensitive issue, and
+   each country had a different presentation of the question. In Brazil,
+   there was a direct question about religious affiliation (yes/no) and 18
+   options for answers (Catholic/Orthodox/Evangelical denominations (10
+   options), Jewish/ Buddhist/African denominations (2 options),
+   Kardecist, and an “other” option). Some 12% of Brazilian students
+   declared not to follow any religion. A high proportion of Brazilian
+   religious students declared to be Catholic (56%); the largest
+   non-Catholic Christian group was the Pentecostal Christians (21%),
+   followed by Mission Evangelicals (10%), which were composed mainly of
+   Baptists (6%) and Seventh-Day Adventists (2%). The number of Orthodox,
+   Lutheran, and Anglican Christians was low, less than 1%. Other
+   religions amounted to some 13% [63].
+
+   In the Italian context, this section asked a general question about
+   religion or transcendent philosophy. Two-thirds of the students
+   declared to follow the Catholic religion (67%), and 22% declared not to
+   follow any religion or transcendent philosophy. Of the respondents, 3%
+   were non-Catholic Christians, and roughly the same were “other
+   religions” (3.5%) [48]. Therefore, the total number of Catholics in our
+   sample from the two countries was very high, reaching over 3,000 valid
+   cases. The number of Brazilian non-Catholic Christians was reasonable,
+   reaching 549 valid cases. However, they composed a very conservative
+   group compared to, for instance, the group in Britain who responded to
+   a survey about evolution [24], where the proportion of Anglicans and
+   Lutherans was far higher than Pentecostal Christians and Independent
+   Evangelical Christians, the two main groups in Brazil.
+
+Statistical and numerical analyses
+
+   All analyses were performed using the statistical software IBM SPSS
+   Statistics 26. We used Chi-square statistics to determine if there were
+   statistically significant differences between the answers from the two
+   countries, different religious affiliations in the same country, and
+   between Catholics of the two countries. Column proportion tests were
+   also performed, testing whether, for each row, the proportion of
+   respondents in one column was significantly different from the
+   proportion in the other column. For each item, a global significance
+   level of 5% was adopted. As we were working with multiple comparisons,
+   the significance level for each individual test was adjusted according
+   to the Bonferroni correction method [70] to maintain a global
+   significance of 5%. Additional tables with general results can be found
+   in the Supporting Information (S1 and S2 Tables). As the results show
+   very significant differences, we tackled the problem of association
+   among a set of variables using a multivariate method, multiple
+   correspondence analysis (MCA) [71]. Another set of tables was provided,
+   excluding the neutral option, and allowing for an exploratory graph
+   (biplot) to be drawn with the true/false answers from seven items with
+   significant values (G75, G76, G77, G79, G80, G81, and G83) from the
+   samples of the two countries. The reasons to exclude G78, taking its
+   results as outliers, are presented in the Supporting Information (S1
+   File). For this analysis, the normalization method followed the main
+   variable, using default procedures of IBM SPSS Statistics v.26. Each
+   item was recorded according to the individuals’ nationality, religion,
+   and option (true/false), generating eight labels:
+     * 1 = BC + (Brazilian Catholic who answered “True”);
+     * 2 = BC—(Brazilian Catholic who answered “False”);
+     * 3 = BNC + (Brazilian non-Catholic Christian who answered “True”);
+     * 4 = BNC—(Brazilian Christian non-Catholic who answered “False”);
+     * 5 = IC + (Italian Catholic who answered “True”);
+     * 6 = IC- (Italian Catholic who answered “False”);
+     * 7 = INC + (non-Catholic Christian Italian who answered “True”);
+     * 8 = INC- (Italian Christian non-Catholic who answered “False”).
+
+   This led to a generalization showing four clear groups of students
+   separated by both religion and nationality. The total number of
+   students in the two countries who declared their religion was 3,944,
+   but 63 had missing values in all seven items and were not considered;
+   therefore, a total of 3,881 cases were processed. S3 Table in the
+   Supporting Information shows the case-processing summary, S4 Table
+   presents the numbers of every religious group in the two countries, and
+   S5 Table shows the degree of association of each item with the two
+   dimensions of the analysis. Supporting Information (S2 File) brings a
+   detailed study of the MCA analysis (S6.1 to S6.10 Table in S2 File),
+   leading to the conclusion that there is no evidence that the MCA
+   results have any significant bias when comparing the responses of valid
+   active cases with those with missing values. In the same file, a link
+   provides access to the databank and the SPSS syntaxes.
+
+   We then estimated the differences between the Christian denominations
+   (Catholics and non-Catholics) within the same country (Brazil), such
+   that BCat—BNCat = ΔBChr. In addition, we estimated differences within
+   the same religion (Catholics) between countries (Brazil and Italy),
+   such that ICat—BCat = ΔCat. Thereupon, we created an intercultural
+   index (IntcI) to compare these differences, such that
+   [MATH: <mi mathvariant="normal">I</mi><mi
+   mathvariant="normal">n</mi><mi mathvariant="normal">t</mi><mi
+   mathvariant="normal">c</mi><mi
+   mathvariant="normal">I</mi><mo>=</mo><mo>|</mo><mi
+   mathvariant="normal">Δ</mi><mspace width="0.25em"></mspace><mi
+   mathvariant="normal">C</mi><mi mathvariant="normal">a</mi><mi
+   mathvariant="normal">t</mi><mo>|</mo><mo>/</mo><mo>|</mo><mi
+   mathvariant="normal">Δ</mi><mspace width="0.25em"></mspace><mi
+   mathvariant="normal">B</mi><mi mathvariant="normal">C</mi><mi
+   mathvariant="normal">h</mi><mi mathvariant="normal">r</mi><mo>|</mo>
+   :MATH]
+   (1)
+
+   If the intercultural index was higher than 1 (IntcI>1), this meant that
+   the Brazilian and Italian Catholics had more differences amongst
+   themselves than among Brazilian Catholics and Brazilian non-Catholics
+   Christians. This indicated that sociocultural factors played a more
+   important role in the acceptance of evolution than religion itself. If
+   the index was lower than 1 (IntcI<1) this indicated the opposite, that
+   religion played a major role.
+
+Results
+
+   Previous analyses of this sample already showed significant differences
+   between Brazilian and Italian students [54,63]. It was clear that when
+   human evolution was specifically the focus, the level of acceptance of
+   evolution was lower in both countries. The same broad results were
+   found in places where the context is particularly important for the
+   historical development of the theory of evolution, such as the
+   Galapagos Islands [72,73]. These analyses suggest that religion plays a
+   considerable role in the level of support for evolution. S1 and S2
+   Tables in the Supporting Information provide a wider view, showing that
+   the Brazilian and Italian students have very significant differences
+   (p< 0.0005) regarding their answers to all items.
+
+   Our main objective was to verify whether the answers in the same
+   religious group (Catholics) were more similar in the two countries than
+   among different denominations (Catholic and non-Catholic Christians)
+   within the same country (Brazil). Thus, we compared students from the
+   two countries who share the same religion. Table 1 presents the results
+   for each item comparing Brazilian and Italian Catholics.
+
+Table 1
+
+   Results by country (students declared as Catholics).
+   Brazil (Catholics) Italy (Catholics) p-value
+   (Chi-Square)
+   G75
+   (Planet age) True N 465 1659 < 0.0005
+   Perc. (%) 48.34% 73.57%
+   False N 77 232
+   Perc. (%) 8.00% 10.29%
+   Don’t Know N 420 364
+   Perc. (%) 43.66% 16.14%
+   Total N 962 2255
+   Perc. (%) 100.00% 100.00%
+   G76
+   (Fossils) True N 821 2175 < 0.0005
+   Perc. (%) 84.81% 95.10%
+   False N 50 49
+   Perc. (%) 5.17% 2.14%
+   Don’t Know N 97 63
+   Perc. (%) 10.02% 2.75%
+   Total N 968 2287
+   Perc. (%) 100.00% 100.00%
+   G77 (Emergence of species) True N 641 1946 < 0.0005
+   Perc. (%) 66.63% 85.24%
+   False N 95 118
+   Perc. (%) 9.88% 5.17%
+   Don’t Know N 226 219
+   Perc. (%) 23.49% 9.59%
+   Total N 962 2283
+   Perc. (%) 100.00% 100.00%
+   G78
+   (Evolution in plants and animals) True N 656 1597 0.101
+   Perc. (%) 68.19% 70.45%
+   False N 95 173
+   Perc. (%) 9.88% 7.63%
+   Don’t Know N 211 497
+   Perc. (%) 21.93% 21.92%
+   Total N 962 2267
+   Perc. (%) 100.00% 100.00%
+   G79 (Primate origin of human beings) True N 466 1926 < 0.0005
+   Perc. (%) 48.54% 84.73%
+   False N 206 133
+   Perc. (%) 21.46% 5.85%
+   Don’t Know N 288 214
+   Perc. (%) 30.00% 9.41%
+   Total N 960 2273
+   Perc. (%) 100.00% 100.00%
+   G80
+   (Age of the human species) True N 265 451 < 0.0005
+   Perc. (%) 27.72% 19.97%
+   False N 149 668
+   Perc. (%) 15.59% 29.58%
+   Don’t Know N 542 1139
+   Perc. (%) 56.69% 50.44%
+   Total N 956 2258
+   Perc. (%) 100.00% 100.00%
+   G81
+   (Common ancestor) True N 296 1370 < 0.0005
+   Perc. (%) 31.09% 60.25%
+   False N 168 260
+   Perc. (%) 17.65% 11.43%
+   Don’t Know N 488 644
+   Perc. (%) 51.26% 28.32%
+   Total N 952 2274
+   Perc. (%) 100.00% 100.00%
+   G83
+   (Human/dinosaur coexistence) True N 220 293 < 0.0005
+   Perc. (%) 22.89% 12.87%
+   False N 346 1378
+   Perc. (%) 36.00% 60.52%
+   Don’t Know N 395 606
+   Perc. (%) 41.10% 26.61%
+   Total N 961 2277
+   Perc. (%) 100.00% 100.00%
+   Open in a separate window
+
+   General profile of answers in Brazil and Italy, with Chi-square tests
+   (religious group: Catholic).
+
+   Proportion column tests were performed with the results of Table 1, and
+   very significant differences were found in almost all lines (Table 2),
+   confirming the distinct pattern shown in Table 1.
+
+Table 2
+
+   Proportion column tests by country (religious group: Catholic).
+                                                     Brazil        Italy
+                                                       (A)          (B)
+   G75
+   (Planet age)                          True                  A (< 0.0005)
+                                        False                   A (0.044)
+              Don’t Know             B (< 0.0005)
+   G76
+   (Fossils)                             True                  A (< 0.0005)
+                                        False     B (< 0.0005)
+              Don’t Know             B (< 0.0005)
+   G77
+   (Emergence of species)                True                  A (< 0.0005)
+                                        False     B (< 0.0005)
+              Don’t Know             B (< 0.0005)
+   G78
+   (Evolution in plants and animals)     True
+                                        False      B (0.035)
+              Don’t Know
+   G79
+   (Primate origin of human beings)      True                  A (< 0.0005)
+                                        False     B (< 0.0005)
+              Don’t Know             B (< 0.0005)
+   G80
+   (Age of the human species)            True     B (< 0.0005)
+                                        False                  A (< 0.0005)
+              Don’t Know              B (0.001)
+   G81
+   (Common ancestor)                     True                  A (< 0.0005)
+                                        False     B (< 0.0005)
+              Don’t Know             B (< 0.0005)
+   G83
+   (Human/dinosaur coexistence)          True     B (< 0.0005)
+                                        False                  A (< 0.0005)
+              Don’t Know             B (< 0.0005)
+   Open in a separate window
+
+   We then investigated the differences within Brazil, comparing the two
+   groups of Christians (Table 3), with further analysis of the proportion
+   column test (Table 4).
+
+Table 3
+
+   Answers of Brazilian Christians, with Chi-square tests.
+     Catholic Non-Catholic Christian Total p-value
+   (Chi-Square)
+   G75
+   (Planet age) True N 465 225 690 0.002
+   Perc. (%) 48.34% 40.98% 45.67%
+   False N 77 69 146
+   Perc. (%) 8.00% 12.57% 9.66%
+   Don’t Know N 420 255 675
+   Perc. (%) 43.66% 46.45% 44.67%
+   Total N 962 549 1511
+   Perc. (%) 100.00% 100.00% 100.00%
+   G76
+   (Fossils) True N 821 432 1253 0.012
+   Perc. (%) 84.81% 78.83% 82.65%
+   False N 50 42 92
+   Perc. (%) 5.17% 7.66% 6.07%
+   Don’t Know N 97 74 171
+   Perc. (%) 10.02% 13.50% 11.28%
+   Total N 968 548 1516
+   Perc. (%) 100.00% 100.00% 100.00%
+   G77
+   (Emergence of species) True N 641 324 965 < 0.001
+   Perc. (%) 66.63% 59.23% 63.95%
+   False N 95 93 188
+   Perc. (%) 9.88% 17.00% 12.46%
+   Don’t Know N 226 130 356
+   Perc. (%) 23.49% 23.77% 23.59%
+   Total N 962 547 1509
+   Perc. (%) 100.00% 100.00% 100.00%
+   G78
+   (Evolution in plants and animals) True N 656 363 1019 0.077
+   Perc. (%) 68.19% 66.61% 67.62%
+   False N 95 74 169
+   Perc. (%) 9.88% 13.58% 11.21%
+   Don’t Know N 211 108 319
+   Perc. (%) 21.93% 19.82% 21.17%
+   Total N 962 545 1507
+   Perc. (%) 100.00% 100.00% 100.00%
+   G79
+   (Primate origin of human beings) True N 466 161 627 < 0.0005
+   Perc. (%) 48.54% 29.38% 41.58%
+   False N 206 225 431
+   Perc. (%) 21.46% 41.06% 28.58%
+   Don’t Know N 288 162 450
+   Perc. (%) 30.00% 29.56% 29.84%
+   Total N 960 548 1508
+   Perc. (%) 100.00% 100.00% 100.00%
+   G80
+   (Age of the human species) True N 265 160 425 0.778
+   Perc. (%) 27.72% 29.41% 28.33%
+   False N 149 84 233
+   Perc. (%) 15.59% 15.44% 15.53%
+   Don’t Know N 542 300 842
+   Perc. (%) 56.69% 55.15% 56.13%
+   Total N 956 544 1500
+   Perc. (%) 100.00% 100.00% 100.00%
+   G81
+   (Common ancestor) True N 296 151 447 0.327
+   Perc. (%) 31.09% 27.86% 29.92%
+   False N 168 108 276
+   Perc. (%) 17.65% 19.93% 18.47%
+   Don’t Know N 488 283 771
+   Perc. (%) 51.26% 52.21% 51.61%
+   Total N 952 542 1494
+   Perc. (%) 100.00% 100.00% 100.00%
+   G83
+   (Human/dinosaur coexistence) True N 220 105 325 0.105
+   Perc. (%) 22.89% 19.44% 21.65%
+   False N 346 222 568
+   Perc. (%) 36.00% 41.11% 37.84%
+   Don’t Know N 395 213 608
+   Perc. (%) 41.10% 39.44% 40.51%
+   Total N 961 540 1501
+   Perc. (%) 100.00% 100.00% 100.00%
+   Open in a separate window
+
+Table 4
+
+   Proportion column tests (Brazilian Catholics and non-Catholics).
+                                             Catholic   non-Catholic Christian
+                                                (A)              (B)
+   G75
+   (Planet age)                      True   B (0.006)
+                                     False                    A (0.004)
+              Don’t Know
+   G76
+   (Fossils)                         True   B (0.003)
+                                     False
+              Don’t Know                    A (0.039)
+   G77
+   (Emergence of species)            True   B (0.004)
+                                     False                  A (< 0.0005)
+              Don’t Know
+   G78
+   (Evolution in plants and animals) True
+                                     False                    A (0.029)
+              Don’t Know
+   G79
+   (Primate origin of human beings)  True  B (< 0.0005)
+                                     False                  A (< 0.0005)
+              Don’t Know
+   G80
+   (Age of the human species)        True
+                                     False
+              Don’t Know
+   G81
+   (Common ancestor)                 True
+                                     False
+              Don’t Know
+   G83
+   (Human/dinosaur coexistence)      True
+                                     False
+              Don’t Know
+   Open in a separate window
+
+   In the first analysis of the Brazilian sample (Table 3), we found four
+   items (G78, G80, G81, and G83) with no significant differences between
+   Brazilian Catholics and Brazilian non-Catholic Christians. Two of them,
+   G80 (“Human species has inhabited planet Earth in the last 100,000
+   years”), and G81 (“Different organisms may have a common ancestor”) had
+   roughly the same answers in the two groups, with a high proportion of
+   the “I would not know how to put it”. Answers to the last item, G83
+   (“The first humans were prey to carnivorous dinosaurs”) are evidence of
+   a considerable lack of understanding about geological time in both
+   groups in Brazil.
+
+   The only truly unexpected result with Intercultural Index (IntcI)
+   values was found with item G80, which states "Human species has
+   inhabited planet Earth in the last 100,000 years", as the level of
+   agreement was lower among Italian Catholics than Brazilian ones (Tables
+   ​(Tables11 and ​and2).2). The level of disagreement (around 30%) to
+   this statement was higher than agreement (around 20%), and around 50%
+   of Catholic Italians preferred not to answer it. In Brazil, the
+   situation was also unexpected, as there were no statistically
+   significant differences between different religious denominations. The
+   abstention of Brazilian religious students was also high (around 56%)
+   and the level of disagreement in both groups was low (15%) compared to
+   the level of agreement (almost 30%). Therefore, there were significant
+   differences between Brazilian and Italian Catholics, but opposite to
+   what was expected.
+
+   In this case, Italian youngsters could have taken the statement as an
+   exact cipher to be confirmed or not, due to a refined lexicon
+   interpretation derived from literal translation. Well-informed students
+   about human paleontological details may know that the human species
+   appeared longer than 100,000 years before present, and may have decided
+   to take the statement as false, or rather to refrain from giving a
+   clear opinion. On the Brazilian side, the level of understanding about
+   paleontology was lower, as shown by the answers of item G83, leading to
+   a decreased level of criticism upon the statement, but with higher
+   abstention. The anomalous behavior of the item can also be noticed in
+   the two dimensions of the biplot graph, as the degree of association of
+   the item with the dimensions of the analysis had the lowest value (see
+   S5 Table in the Supporting Information).
+
+   Brazilian Catholics showed a significantly lower level of knowledge
+   about geological time than the Italians (Tables ​(Tables11 and
+   ​and2).2). However, there were no significant differences between the
+   two Christian denominations in Brazil (Tables ​(Tables33 and ​and4).4).
+   Thus, the reason for Italians to disagree with the statement of G80
+   could be different from that of the Brazilians, showing a polarized
+   pattern due to differences in understanding that are related to
+   education. Therefore, the answers could have resulted from their
+   different level of information, following the general pattern of the
+   two samples, and the item was not discarded.
+
+   The results tend to show that those who follow the very same religion,
+   listening to the teaching of the very same Catholic religious
+   authorities in different countries, had bigger differences regarding
+   evolution acceptance from people who were brought up in the same
+   socio-cultural environment but followed different religious teachings.
+   In addition, differences in understanding tended to follow the same
+   pattern. This hypothesis found additional support with the multiple
+   correspondence analysis (MCA), analyzing the "true" and "false" options
+   in the two religious denominations in the two countries in all items.
+   The overall picture can be seen in Fig 1.
+   An external file that holds a picture, illustration, etc. Object name
+   is pone.0273929.g001.jpg
+   Open in a separate window
+   Fig 1
+   Multiple correspondence analysis biplot considering evolution
+   acceptance and understanding.
+
+   The graph of joint categories (biplot) displays the average scores of
+   the two dimensions for individuals belonging to the four categories.
+   The origin of the graph represents an individual who belongs to the
+   most frequent category of each variable; therefore, profiles that are
+   far from the origin indicate groups that are outside of the general
+   pattern of the data. There are four clear groups of respondents,
+   showing that Catholics do not form a homogenous group. On the contrary,
+   Brazilian and Italian Catholics are far from being in the same general
+   pattern of answers, confirming what is seen in Tables ​Tables11 and
+   ​and22.
+
+   The relative numbers of “true” answers were then compared and the
+   module of the differences between Catholics in the two countries
+   originated the delta Catholics (ΔCat), as well as the differences
+   between Christian denominations in the same country (ΔBChr) used in Eq
+   1. The results can be seen in Table 5.
+
+Table 5
+
+   Intercultural Index (IntcI) related to evolution acceptance.
+                                          BCat  BNCC  ICat  |ΔCat| |ΔBChr| IntcI
+   G75
+   (Planet age)                     0.483 0.409 0.736 0.252 0.074   3.43
+   G76
+   (Fossils)                        0.848 0.788 0.911 0.103 0.059   1.72
+   G77
+   (Emergence of species)           0.666 0.592 0.852 0.186 0.074   2.51
+   G79
+   (Primate origin of human beings) 0.485 0.294 0.847 0.362 0.192   1.89
+   G80
+   (Age of the human species)       0.277 0.294 0.199 0.077 0.017   4.58
+   G81
+   (Common ancestor)                0.311 0.279 0.602 0.292 0.032   9.02
+   Open in a separate window
+
+   Table with values of relative proportion between |ΔCat| (differences of
+   agreement between Italian Catholics (ICat) and Brazilian Catholics
+   (BCat)) and |ΔBChr| (differences of agreement between Brazilian
+   Catholics (BCat) and Brazilian non-Catholic Christians (BNCC) about
+   well-known scientific statements.
+
+   These results were plotted as shown in Fig 2, which gives a better idea
+   of the general results in terms of the relative importance of religion
+   (orange polygon) and wider socio-cultural factors within each country
+   (blue polygon). The religion borderline assumes that there should be
+   small differences between the same Christian denomination (Christian
+   Catholic) in the two countries, and higher differences between the two
+   different Christian denominations. Therefore, the results appear
+   plotted inside the orange polygon. Differences in the understanding of
+   geological time followed the same pattern, with a very high score (G83
+   IntcI = 7.41), but they were not included in the same figure as they
+   are not related to acceptance (see text).
+   An external file that holds a picture, illustration, etc. Object name
+   is pone.0273929.g002.jpg
+   Open in a separate window
+   Fig 2
+   Data from Table 5 graphically displayed.
+
+   The area of the small polygon corresponds to the expected result in the
+   case that all Christians had similar answers in both countries. The
+   blue polygon indicates greater differences between Catholics in both
+   countries than differences between the two groups of Christians in the
+   same country (Brazil).
+
+Discussion
+
+   Research on evolution education faced a big challenge after the
+   surprising findings showing that different instruments lead to
+   different rates of agreement/rejection of evolution in the same student
+   population [6]. We tried to show that some instruments could have had
+   problems in terms of their methodology, implying distortions for the
+   numerical analysis, as measurements could result in some bias. These
+   distortions can explain, at least in part, the mentioned puzzle. In
+   addition, there is not consensus in the educational community about how
+   important religion is for the acceptance of evolution.
+
+   We presented a new instrument, stating some principles on how to
+   evaluate students’ opinions concerning evolution, asking clear
+   positions about well-known statements on the subject and using
+   nationwide samples of students of the same age (around 15 years old)
+   and absolute anonymity.
+
+   The results show a clear picture of the two countries, which is in line
+   with recent data [45], but with a specific focus on two groups of
+   Christians, with significant differences between Catholics in Italy and
+   Brazil. Moreover, the differences were larger between students from the
+   same Christian denomination (Roman Catholic) but different countries
+   than from different Christian denominations in the same country
+   (Brazil). The MCA found clear distinct groups of respondents. However,
+   this is simply an exploratory data technique, and the final picture
+   should be seen in a purely descriptive way, without the power of
+   indicating a precise output of a statistical test. As the number of
+   valid cases involved was not very high (n = 3,881), relative distances
+   that can be inferred should be viewed with caution (see S5 Table in
+   Supporting Information).
+
+   Item G79 ("Humans are descended from other primate species") was based
+   on the well-known instrument “MATE”, keeping the same wording in the
+   revised version [8] for the statement about humans, revealing
+   difficulties of evolution in 34 countries [2]. Many studies have shown
+   that when the human species is concerned, opinions about evolution tend
+   to be extreme, with some people considering evolution for all organisms
+   except our species [60]. This is perhaps the best item to test the
+   hypothesis we have been examining, as the number of respondents of both
+   countries was not low (n = 3,117). There was a clear shift between the
+   Roman Catholics, with a high acceptance (84.7%) and low rejection
+   (5.9%) among Italians, whereas in Brazil, the situation was very
+   different, with a significantly lower acceptance (48.5%) and higher
+   rejection (21.5%) (Table 1). Within Brazil, differences between
+   Christian denominations were lower (Table 3).
+
+   Tables ​Tables33 and ​and44 show that G81 (“Different organisms may
+   have a common ancestor”) had no significant statistical differences
+   between religious denominations in the same country, and Tables
+   ​Tables11 and ​and22 show very significant differences between Roman
+   Catholics in the two different countries. As these differences refer to
+   the very same religious denomination, which has very similar values and
+   beliefs in the two countries, it would be reasonable to expect the
+   opposite situation, with no significant differences among people who
+   follow the same religious teachings from an early age.
+
+   The level of understanding about geological time was very different
+   between Italian and Brazilian Catholics, but a similar level of low
+   knowledge was found in both Christian denominations in Brazil. This not
+   only adds evidence to the importance of understanding this important
+   concept for evolution acceptance, but also shows that education and
+   religion have a strong link with nationality, adding evidence to
+   previously published studies [6,24]. In our case, Italian Catholics had
+   a higher acceptance as well as a higher level of understanding of
+   evolution than Brazilian ones. Independent recent research obtained
+   similar results, showing that Catholic and Evangelical Brazilian
+   university students had low levels of knowledge about evolution [74].
+
+   Notwithstanding this general picture found after the MCA, additional
+   evidence in numerical terms supports the idea that religion alone does
+   not play a major role in the acceptance of evolution, with the relative
+   size of differences obtained by the Intercultural Index (IntcI). It
+   tended to show small numbers (IntcI<1) in cases where religion played a
+   major role, but the results point in the exact opposite direction, as
+   acceptance was far more similar between different religions in the same
+   country than between Catholics in the two different countries.
+
+   All IntcI values were higher than 1, reaching values as high as 9, as
+   in the case of item G81, which states that different organisms may have
+   a common ancestor. This can be regarded as a clear-cut, widely known,
+   scientific principle of common ancestry, and a basic principle for
+   biological evolution. The calculated Intercultural Index for item G79
+   (“Humans are descended from other primate species”) was high (IntcI =
+   1.889), showing that differences within Catholics were almost twice as
+   high as those between them and non-Catholic Christians in the same
+   country (Brazil).
+
+   The general picture shows that religion plays a less important role in
+   the acceptance of evolution than nationality, which should be regarded
+   as the wide socio-cultural environment, including religion and
+   education. Children develop a range of different worldviews, which can
+   affect their position towards science and scientific statements [75].
+   However, the acceptance of evolution cannot be seen as a simple output
+   of a given worldview but as a complex result of several influences.
+
+   No one doubts that literalist interpretations of sacred texts can
+   influence the learning processes of young students since early
+   childhood. The development of understanding of central concepts can be
+   seriously hampered by the influence of fundamentalist religious faith.
+   The conceptual discussion about belief, faith, and acceptance
+   [49,50,76] may be more worthwhile than creating more research
+   instruments.
+
+   The instrument presented here could be applied in different settings,
+   and research could be carried out with samples easier to obtain, not
+   necessarily nationwide ones. Databanks already providing items with
+   clear-cut scientific statements could be recoded, transforming Likert
+   scale numbers into true/false answers. Then, the Intercultural Index
+   presented here could objectively show the relative importance of
+   religion for evolution acceptance. If our results are to be confirmed
+   in the future, this could provide considerable consequences for making
+   concrete recommendations for evolution education to religious students
+   in conservative and anti-science environments.
+
+   It is important to keep in mind that the picture presented here is only
+   one frame of a long film, as values are changing very rapidly, even in
+   religious settings. For instance, the level of acceptance of evolution
+   has improved considerably within members of some conservative Christian
+   denominations whose teachings are informed by cultural barriers to
+   evolution [35]. Unfortunately, change can also be noticed in the
+   opposite direction, with conservative anti-evolution groups and
+   religious denominations showing a growing influence around the world,
+   Brazil included [39–41,74].
+
+Supporting information
+
+S1 Table
+
+   General profile of items by questionnaire, with Chi-square tests
+   comparing Brazilian and Italian students (all religions comprised).
+
+   (DOCX)
+   Click here for additional data file.^(20K, docx)
+
+S2 Table
+
+   Proportion column tests for each item.
+
+   (DOCX)
+   Click here for additional data file.^(16K, docx)
+
+S3 Table
+
+   Summary of the multiple correspondence analysis.
+
+   MCA case processing summary.
+
+   (DOCX)
+   Click here for additional data file.^(13K, docx)
+
+S4 Table
+
+   Samples of students who declared their religion in Italy and Brazil.
+
+   (DOCX)
+   Click here for additional data file.^(12K, docx)
+
+S5 Table
+
+   MCA matrix of discrimination measures.
+
+   (DOCX)
+   Click here for additional data file.^(13K, docx)
+
+S1 File
+
+   Reasons to consider item G78 as an outlier.
+
+   (DOCX)
+   Click here for additional data file.^(15K, docx)
+
+S2 File
+
+   Ancillary set of tables exploring possible bias in missing cases that
+   were not included in the multiple correspondence analysis & link to
+   database and SPSS syntaxes.
+
+   (DOCX)
+   Click here for additional data file.^(29K, docx)
+
+Acknowledgments
+
+   Data collection was possible due to the collaboration between the
+   Italian researchers of OBSERVA, Science in Society, and the Brazilian
+   researchers and staff at the School of Education (FEUSP), and
+   EDEVO-Darwin Research Nucleus (Pró-Reitoria de Pesquisa/USP). IBM SPSS
+   v.26 statistical analyses were performed by Estéfano A. de Souza. Many
+   people contributed in different regards to this research, especially P.
+   Abrantes, R. Alitto, E. Almeida, L. Bizzo, D. Borges, V. Barzotto, C.
+   Boto, T. Forato, F. Franzolin, P. Garcia, A. Gouw, S. Martorano, P.
+   Monteiro, M. Neira, I. Nogueira, M. Prestes, P. Prado, P. Sano, and H.
+   Viana. We also have to thank a number of teachers, principals,
+   students, and their families from high schools throughout Italy and
+   Brazil for their help with data collection. Access to the PISA/Brazil
+   school database was provided by the Brazilian Ministry of Education,
+   INEP/DACC.
+
+Funding Statement
+
+   GP: OBSERVA Science in Society (Vicenza/Italy – www.observa.it) NB: MEC
+   (CAPES/PAEP 6726/2012-76, Brasília, Brazil;
+   https://www.gov.br/capes/pt-br), MCTI/CNPq (308899/2011-3, 308877/2015,
+   440680/2019-0, and 309073/2020-0, Brasília, Brazil, CNPq - Conselho
+   Nacional de Desenvolvimento Científico e Tecnológico — Brasília,
+   Brazil; www.gov.br), FAPESP (proc. 2016/05843-4, São Paulo, Brazil;
+   www.fapesp.br) and NAP EDEVO-Darwin (Pro-Reitoria de Pesquisa,
+   Universidade de São Paulo – São Paulo, Brazil;
+   http://prp.usp.br/nucleos-de-apoio-a-pesquisa-naps/); LALA: FAPESP
+   (2020/07961-0 – São Paulo, Brazil; www.fapesp.br).
+
+Data Availability
+
+   Data are held in a public repository in the following url:
+   https://github.com/easouza85/Nelio-Bizzo-Project.
+
+References
+
+   1. Johnson RL, Peeples EE. The role of scientific understanding in
+   college: student acceptance of evolution. Am Biol Teach. 1987; 49(2):
+   93–8. doi: 10.2307/4448445 [CrossRef] [Google Scholar]
+   2. Miller JD, Scott EC, Okamoto S. Public acceptance of evolution.
+   Science. 2006; 313(5788): 765–6. https://doi.org
+   /10.1126/science.1126746. [PubMed] [Google Scholar]
+   3. Dunk RD, Barnes ME, Reiss MJ, Alters B, Asghar A, Carter BE, et al.
+   Evolution education is a complex landscape. Nat Ecol Evol. 2019; 3(3):
+   327–329. doi: 10.1038/s41559-019-0802-9 [PubMed] [CrossRef] [Google
+   Scholar]
+   4. Mead R, Hejmadi M, Hurst LD. Scientific aptitude better explains
+   poor responses to teaching of evolution than psychological conflicts.
+   Nat Ecol Evol. 2018; 2(2): 388–394. doi: 10.1038/s41559-017-0442-x
+   [PubMed] [CrossRef] [Google Scholar]
+   5. Weisberg DS, Landrum AR, Metz SE, Weisberg M. No missing link:
+   Knowledge predicts acceptance of evolution in the United States.
+   Bioscience. 2018; 68(3): 212–222. 10.1093/biosci/biy115. [CrossRef]
+   [Google Scholar]
+   6. Barnes ME, Dunlop HM, Holt EA, Zheng Y, Brownell SE. Different
+   evolution acceptance instruments lead to different research findings.
+   Evo Edu Outreach. 2019; 12(1): 1–7. 10.1186/s12052-019-0096-z.
+   [CrossRef] [Google Scholar]
+   7. Kuschmierz P, Meneganzin A, Pinxten R, Pievani T, Cvetković D, et
+   al. Towards common ground in measuring acceptance of evolution and
+   knowledge about evolution across Europe: a systematic review of the
+   state of research. Evo Edu Outreach. 2020; 13(1): 1–24.
+   10.1186/s12052-020-00132-w. [CrossRef] [Google Scholar]
+   8. Barnes ME, Misheva T, Supriya K, Rutledge M, Brownell SE. A Revised
+   Measure of Acceptance of the Theory of Evolution: Introducing the MATE
+   2.0. CBE Life Sci Educ. 2022. Mar;21(1):ar10. doi:
+   10.1187/cbe.21-05-0127 [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   9. Nadelson LS, Southerland SA. Examining the interaction of acceptance
+   and understanding: How does the relationship change with a focus on
+   macroevolution? Evo Edu Outreach. 2012; 3: 82–88.
+   10.1007/s12052-009-0194-4. [CrossRef] [Google Scholar]
+   10. Smith MU, Snyder SW, Deveraux RS. The GAENE—Generalized Acceptance
+   of EvolutioN Evaluation: Development of a new measure of Evolution
+   acceptance. J Res Sci Teach. 2016; 53: 1289–1315. 10.1002/tea.21328.
+   [CrossRef] [Google Scholar]
+   11. Barnes ME, Evans EM, Hazel A, Brownell SE, Nesse RM. Teleological
+   reasoning, not acceptance of evolution, impacts students’ ability to
+   learn natural selection. Evo Edu Outreach. 2017;10(1): 1–12.
+   10.1186/s12052-017-0070-6. [CrossRef] [Google Scholar]
+   12. Sinatra GM, Southerland SA, McConaughy F, Demastes JW. Intentions
+   and beliefs in students’ understanding and acceptance of biological
+   evolution. J. Res. Sci. Teach. 2003;40(5): 510–528. 10.1002/tea.10087.
+   [CrossRef] [Google Scholar]
+   13. Hermann RS. Cognitive apartheid: on the manner in which high school
+   students understand evolution without believing in evolution. Evo Edu
+   Outreach. 2012; 5(4): 619–628. 10.1007/s12052-012-0446-6. [CrossRef]
+   [Google Scholar]
+   14. Gefaell J, Prieto T, Abdelaziz M, Álvarez I, Antón J, Arroyo J, et
+   al. Acceptance and knowledge of evolutionary theory among third-year
+   university students in Spain. PloS ONE. 2020; 15(9): e0238345. doi:
+   10.1371/journal.pone.0238345 [PMC free article] [PubMed] [CrossRef]
+   [Google Scholar]
+   15. Nehm RH, Mead LS. Evolution assessment: introduction to the special
+   issue. Evo Edu Outreach. 2019; 12(1): 1–5. 10.1186/s12052-019-0098-x.
+   [CrossRef] [Google Scholar]
+   16. Mead R, Hejmadi M, Hurst LD. Teaching genetics prior to teaching
+   evolution improves evolution understanding but not acceptance. PLoS
+   Biol. 2017; 15(5): e2002255. doi: 10.1371/journal.pbio.2002255 [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   17. Cofré HL, Santibáñez DP, Jiménez JP, Spotorno A, Carmona F,
+   Navarrete K, et al. The effect of teaching the nature of science on
+   students’ acceptance and understanding of evolution: myth or reality?.
+   J. Biol. Educ. 2018; 52(3): 248–61. 10.1080/00219266.2017.1326968.
+   [CrossRef] [Google Scholar]
+   18. Beniermann A, Kuschmierz P, Pinxten R, Aivelo T, Bohlin G,
+   Brennecke JS, et al. Evolution Education Questionnaire on Acceptance
+   and Knowledge (EEQ)-Standardized and ready-to-use protocols to measure
+   acceptance of evolution and knowledge about evolution in an
+   international context. 2021. Zenodo. 10.5281/zenodo.4554742. [CrossRef]
+   [Google Scholar]
+   19. Kuschmierz P, Beniermann A, Bergmann A, Pinxten R, Aivelo T,
+   Berniak-Woźny J, et al. European first-year university students accept
+   evolution but lack substantial knowledge about it: a standardized
+   European cross-country assessment. Evo Edu Outreach. 2021;14(1):1–22.
+   10.1186/s12052-021-00158-8. [CrossRef] [Google Scholar]
+   20. Jensen JL, Manwaring KF, Gill RA, Sudweeks RS, Davies RS, Olsen JA,
+   et al. Religious affiliation and religiosity and their impact on
+   scientific beliefs in the United States. BioScience. 2019; 69(4):
+   292–304. 10.1093/biosci/biz014. [CrossRef] [Google Scholar]
+   21. Barnes ME, Supriya K, Zheng Y, Roberts JA, Brownell SE. A new
+   measure of students’ perceived conflict between evolution and religion
+   (PCoRE) is a stronger predictor of evolution acceptance than
+   understanding or religiosity. CBE—Life Sciences Education. 2021;
+   20(3):ar42. doi: 10.1187/cbe.21-02-0024 [PMC free article] [PubMed]
+   [CrossRef] [Google Scholar]
+   22. Barnes ME, Dunlop HM, Sinatra GM, Hendrix TM, Zheng Y, Brownell SE.
+   “Accepting evolution means you can’t believe in god”: atheistic
+   perceptions of evolution among college biology students. CBE—Life
+   Sciences Education. 2020;19(2):ar21. doi: 10.1187/cbe.19-05-0106 [PMC
+   free article] [PubMed] [CrossRef] [Google Scholar]
+   23. Baker JO, Rogers D, Moser T. Acceptance of evolution among American
+   Mormons. J. Contemp. Relig. 2018; 33(1):123–34.
+   10.1080/13537903.2018.1408295. [CrossRef] [Google Scholar]
+   24. Unsworth A, Voas D. Attitudes to evolution among Christians,
+   Muslims and the Non- Religious in Britain: Differential effects of
+   religious and educational factors. Public Underst. Sci. 2018; 27(1):
+   76–93. doi: 10.1177/0963662517735430 [PubMed] [CrossRef] [Google
+   Scholar]
+   25. Dunk RD, Petto AJ, Wiles JR, Campbell BC. A multifactorial analysis
+   of acceptance of evolution. Evo Edu Outreach. 2017;10(1):1–8.
+   10.1186/s12052-017-0068-0. [CrossRef] [Google Scholar]
+   26. Mantelas N, Mavrikaki E. Religiosity and students’ acceptance of
+   evolution. International Journal of Science Education. 2020. Dec
+   11;42(18):3071–92. [Google Scholar]
+   27. Siani M, Yarden A. Evolution? I Don’t Believe in iJensemt. Sci
+   Educ. 2020; 29(2): 411–441. 10.1007/s11191-020-00109-7. [CrossRef]
+   [Google Scholar]
+   28. Nadelson LS, Sinatra GM. Educational professionals’ knowledge and
+   acceptance of evolution. Evol Psychol. 2009;7(4): 490–516.
+   https://doi.org/10.1177%2F147470490900700401. [Google Scholar]
+   29. Miller JD, Scott EC, Ackerman MS, Laspra B, Branch G, Polino C, et
+   al. Public acceptance of evolution in the United States, 1985–2020.
+   Public Underst. Sci. 2021. doi: 10.1177/09636625211035919 [PubMed]
+   [CrossRef] [Google Scholar]
+   30. Dawkins R. The God Delusion. New York: Random House; 2009. [Google
+   Scholar]
+   31. Coyne JA. Science, religion, and society: the problem of evolution
+   in America. Evolution. 2012; 66(8): 2654–2663. doi:
+   10.1111/j.1558-5646.2012.01664.x [PubMed] [CrossRef] [Google Scholar]
+   32. Freston P. Pentecostals and politics in Latin America: Compromise
+   or prophetic witness? In Miller D. E., Sargeant K. H., & Flory R.
+   (Eds.), Spirit and power: The growth and global impact of
+   Pentecostalism (pp. 101–118). 2013; New York: Oxford University Press.
+   [Google Scholar]
+   33. Teixeira P. Acceptance of the theory of evolution by high school
+   students in Rio de Janeiro, Brazil: scientific aspects of evolution and
+   the biblical narrative. Int. J. Sci. Math. Educ. 2019; 41(4): 546–566.
+   10.1080/09500693.2019.1569283. [CrossRef] [Google Scholar]
+   34. Barnes ME, Roberts JA, Maas SA, Brownell SE. Muslim undergraduate
+   biology students’ evolution acceptance in the United States. PLoS ONE
+   16(8): e0255588. 10.1371/journal.pone.0255588. [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   35. Bradshaw WS, Phillips AJ, Bybee SM, Gill RA, Peck SL, Jensen JL. A
+   longitudinal study of attitudes toward evolution among undergraduates
+   who are members of the Church of Jesus Christ of Latter-day Saints.
+   PloS ONE. 2018; 13(11). doi: 10.1371/journal.pone.0205798 [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   36. Clément P. Muslim teachers’ conceptions of evolution in several
+   countries. Public Underst. Sci. 2015; 24(4):400–421. doi:
+   10.1177/0963662513494549 [PubMed] [CrossRef] [Google Scholar]
+   37. Goldstein AM, Glenn B. Complete bibliography of Eugene Scott. Evol
+   Educ Outreach. 2010; 3: 245–253. 10.1007/s12052-010-0236-y. [CrossRef]
+   [Google Scholar]
+   38. Bizzo NM. From Down House landlord to Brazilian high school
+   students: what has happened to evolutionary knowledge on the way?
+   Journal of Research in Science Teaching. 1994; 31(5):537–56. [Google
+   Scholar]
+   39. Oliveira AW, Cook KL. Evolution Education and the rise of the
+   creationist movement in Brazil. Lanham (MD): Lexington Books; 2019.
+   [Google Scholar]
+   40. Escobar H. Bolsonaro’s first moves have Brazilian scientists
+   worried. Science. 2019; 6425: 330. doi: 10.1126/science.363.6425.330
+   [PubMed] [CrossRef] [Google Scholar]
+   41. Escobar H. Brazil’s pick of a creationist to lead its higher
+   education agency rattles scientists. Science. 2020.
+   10.1126/science.abb0530. [CrossRef] [Google Scholar]
+   42. Penteado PR, Kavalco KF, Pazza R. Influence of sociocultural
+   factors and acceptance of creationism in the comprehension of
+   evolutionary biology in Freshman Brazilian students. Evol Educ
+   Outreach. 2012; 5(4): 589–594. 10.1007/s12052-012-0456-4. [CrossRef]
+   [Google Scholar]
+   43. Bucchi M, Saracino B. Annuario Scienza Tecnologia e Società 2014:
+   dieci anni di scienza nelle società [Yearbook Science, Technology and
+   Society 2014: ten years of science in society]. Bologna: Società
+   Editrice Il Mulino; 2014. [Google Scholar]
+   44. Berti AE, Barbetta V, Toneatti L. Third-graders’ conceptions about
+   the origin of species before and after instruction: An exploratory
+   study. Int. J. Sci. Math. Educ. 2017; 15(2): 215–232.
+   10.1007/s10763-015-9679-5. [CrossRef] [Google Scholar]
+   45. Funk C, Tyson A, Kennedy B, Johnson C. Biotechnology Research
+   Viewed With Caution Globally, but Most Support Gene Editing for Babies
+   To Treat Disease. Pew Research Center; 1–49; 2020. [Google Scholar]
+   46. Mota HS. Evolução biológica e religião: atitudes de jovens
+   estudantes brasileiros [Biological evolution and religion: attitudes of
+   young Brazilian students]. Ph.D. thesis, University of São Paulo, 2013.
+   Available from:
+   https://teses.usp.br/teses/disponiveis/48/48134/tde-28012014-143821/pt-
+   br.php. [Google Scholar]
+   47. Pierucci AF, Prandi R. Religious diversity in Brazil: numbers and
+   perspectives in a sociological evaluation. International sociology.
+   2000;15(4):629–39. [Google Scholar]
+   48. IBGE. (2011). Censo Demográfico 2010: Características da população
+   e dos domicílios—resultados do universo [2010 Demographic Census:
+   Characteristics of Population and Households—Universe Results]. Rio de
+   Janeiro: IBGE.
+   49. Theron S. Faith as Thinking with Assent. New Blackfriars. 2005; 86
+   (1001): 101–113. Available from http://www.jstor.org/stable/43250898.
+   [Google Scholar]
+   50. Cohen LJ. Belief and acceptance. Mind. 1989; 98 (391): 367–389.
+   [Google Scholar]
+   51. Beniermann A. Evolution-Von Akzeptanz und Zweifeln, Empirische Stu-
+   dienüber Einstellungen zu Evolution und Bewusstsein [Evolution–of
+   acceptance and doubts, Empirical studies on attitudes towards evolution
+   and the evolution of the human mind]. Wiesbaden: Springer Fachmedien;
+   2019. [Google Scholar]
+   52. Charles JL V. Dattalo P. Minimizing social desirability bias in
+   measuring sensitive topics: The use of forgiving language in item
+   development. Journal of Social Service Research. 2018; 44(4):587–99.
+   [Google Scholar]
+   53. Krumpal I. 2013. Determinants of social desirability bias in
+   sensitive surveys: a literature review. Qual Quant 47, 2025–2047.
+   10.1007/s11135-011-9640-9. [CrossRef] [Google Scholar]
+   54. Oliveira GS, Bizzo N, Pellegrini G, Mota HS. Evolução biológica
+   para os jovens brasileiros e italianos: um estudo de suas opiniões e
+   conhecimento [Biological evolution for young Brazilians and Italians: a
+   study of their opinions and knowledge]. In: Cuvi N. et al., editors.
+   Evolucionismo en América y Europa [Evolution in America and Europe].
+   Quito: Centro de Publicaciones PUCE; 2016. pp. 449–461. [Google
+   Scholar]
+   55. Bizzo N, Santos-Gouw AM, Pereira HMR. O que os jovens pensam sobre
+   evolução? [What do young people think about evolution?] Ciência Hoje.
+   2013; 300(1): 26–31. [Google Scholar]
+   56. Franzolin F, Garcia PS, Bizzo N. Amazon conservation and students’
+   interests for biodiversity: The need to boost science education in
+   Brazil. Science Advances. 2020; 6(35): eabb0110. doi:
+   10.1126/sciadv.abb0110 [PMC free article] [PubMed] [CrossRef] [Google
+   Scholar]
+   57. DeVellis R. Scale Development, Theory and Applications. 2013; Los
+   Angeles: SAGE. [Google Scholar]
+   58. Kish L. Survey sampling. 1965; New York: John Wiley & Sons. [Google
+   Scholar]
+   59. Cotner S, Brooks DC, Moore R. Is the age of the earth one of our
+   “sorest troubles?” Students’ perceptions about deep time affect their
+   acceptance of evolutionary theory. Evolution. 2010; 64(3): 858–864.
+   doi: 10.1111/j.1558-5646.2009.00911.x [PubMed] [CrossRef] [Google
+   Scholar]
+   60. Silva HM, Oliveira AW, Belloso GV, Díaz MA, Carvalho GS. Biology
+   teachers’ conceptions of Humankind Origin across secular and religious
+   countries: an international comparison. Evol Educ Outreach. 2021;
+   14(1): 1–2. 10.1186/s12052-020-00141-9. [CrossRef] [Google Scholar]
+   61. Shweder RA, Mahapatra M, Miller JG. Culture and moral judgment. In
+   Stigler JW, Shweder RA, Hewrdt G, editors. Cultural psychology: Essays
+   on comparative human development. Cambridge, England: Cambridge
+   University Press; 1990. pp. 130–204. [Google Scholar]
+   62. OECD. PISA 2009 Technical Report. Organisation for Economic
+   Co-operation and Development; 2012. [Google Scholar]
+   63. Oliveira GS. Estudantes e a evolução biológica: conhecimento e
+   aceitação no Brasil e Itália [Students and biological evolution:
+   knowledge and acceptance in Brazil and Italy]. Ph.D. thesis, University
+   of São Paulo. 2015. Available from:
+   https://teses.usp.br/teses/disponiveis/48/48134/tde-14092015-142810/pt-
+   br.php. [Google Scholar]
+   64. Pinafo, J. O que os estudantes têm a dizer sobre ciência e
+   tecnologia? Opiniões, interesses e atitudes de estudantes em dois
+   países: Brasil e Itália [What do students have to say about science and
+   technology? Opinions, interests and attitudes of students in two
+   countries: Brazil and Italy]. Ph.D. thesis, University of São Paulo,
+   2016. Available from:
+   https://teses.usp.br/teses/disponiveis/48/48134/tde-01112016-110406/pt-
+   br.php.
+   65. Oliveira GS, Pietri APZS, Bizzo N. Pesquisa Quantitativa e
+   Educação: desafios e potencialidades [Research and Quantitative
+   Education: challenges and potential]. Práxis Educacional. 2019; 15:
+   526–541. [Google Scholar]
+   66. Ministro dell’Istruzione. Focus: Sedi, alunni, classi e dotazioni
+   organiche del personale docente della scuola statale [Focus: Locations,
+   pupils, classes and staffing staff of the state school] A.S. 2013/2014.
+   2013. Available from:
+   https://www.istruzione.it/allegati/avvio_anno_scolastico2013_2014_10.pd
+   f.
+   67. Istituto Nazionale di Statistica Popolazione e famiglie. Available
+   from: https://www.istat.it/it/popolazione-e-famiglie?dati.
+   68. Italia. Decreto legislativo 30 giugno 2003, n. 196. 2003. Available
+   from:
+   https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativ
+   o:2003-0630;196!vig. [Google Scholar]
+   69. Tonin KG, Tolentino-Neto LCB, Ocampo D.M. Young Brazilians and
+   their preference for Science disciplines. Research, Society and
+   Development, 2021; 10(5), p.e8210514549. [Google Scholar]
+   70. Cabin RJ, Mitchell RJ. To Bonferroni or not to Bonferroni: when and
+   how are the questions. Bulletin of the Ecological Society of America.
+   2000; 81(3): 246–248. [Google Scholar]
+   71. Abdi H, Valentin D. Multiple Correspondence Analysis. In: Salkind
+   N, editor. 2007. Encyclopedia of Measurement and Statistics. Thousand
+   Oaks (CA): Sage. pp.651–657. [Google Scholar]
+   72. Oliveira GS, Bizzo N, Pellegrini G. Evolução humana e religião:
+   opiniões de Jovens Brasileiros e Italianos [Human evolution and
+   religion: opinions of young Brazilians and Italians]. Revista
+   Brasileira de Pesquisa de Educação em Ciências. 2017; 30: 135–156.
+   [Google Scholar]
+   73. Oliveira GS, Mota HS, Gouw AM, Bizzo N. Comparative studies of
+   students’ beliefs and understandings in Brazil, Italy, and Galapagos
+   Islands. In: Oliveira AW, Cook KL, editors. Evolution education and the
+   rise of the creationist movement in Brazil. Lanham (MD): Lexington
+   Books; 2019. pp. 191–208. [Google Scholar]
+   74. Demetrio GR, Jacobina UP, Barão KR. The Impact of Life Philosophy
+   and Major Field of Study on Brazilian Students’ Knowledge of Biological
+   Evolution. Sci & Educ. 2021. 10.1007/s11191-021-00286-z. [PMC free
+   article] [PubMed] [CrossRef] [Google Scholar]
+   75. Williams JD. Belief versus acceptance: why do people not believe in
+   evolution? Bioessays. 2009; 31(11):1255–62. doi: 10.1002/bies.200900082
+   [PubMed] [CrossRef] [Google Scholar]
+   76. Smith M. Counterpoint: Belief, understanding, and the teaching of
+   evolution. J. Res. Sci. Teach. 1994; 31(5): 591–597.
+   10.1002/tea.3660310512. [CrossRef] [Google Scholar]
+     * PLoS One. 2022; 17(9): e0273929. »
+     * Decision Letter 0
+
+   2022; 17(9): e0273929.
+   Published online 2022 Sep 19. doi: 10.1371/journal.pone.0273929.r001
+
+Decision Letter 0
+
+   Norman Johnson, Academic Editor
+   Copyright and License information PMC Disclaimer
+   Copyright © 2022 Norman Johnson
+   This is an open access article distributed under the terms of the
+   Creative Commons Attribution License, which permits unrestricted use,
+   distribution, and reproduction in any medium, provided the original
+   author and source are credited.
+
+   1 May 2022
+
+   PONE-D-22-03227Acceptance of Evolution by High School Students: is
+   religion the key factor?PLOS ONE
+
+   Dear Dr. Bizzo,
+
+   Thank you for submitting your manuscript to PLOS ONE. After careful
+   consideration, we feel that it has merit but does not fully meet PLOS
+   ONE’s publication criteria as it currently stands. Therefore, we invite
+   you to submit a revised version of the manuscript that addresses the
+   points raised during the review process.
+
+   Please submit your revised manuscript by Jun 15 2022 11:59PM. If you
+   will need more time than this to complete your revisions, please reply
+   to this message or contact the journal office at gro.solp@enosolp. When
+   you're ready to submit your revision, log on to
+   https://www.editorialmanager.com/pone/ and select the 'Submissions
+   Needing Revision' folder to locate your manuscript file.
+
+   Please include the following items when submitting your revised
+   manuscript:
+     * A rebuttal letter that responds to each point raised by the
+       academic editor and reviewer(s). You should upload this letter as a
+       separate file labeled 'Response to Reviewers'.
+     * A marked-up copy of your manuscript that highlights changes made to
+       the original version. You should upload this as a separate file
+       labeled 'Revised Manuscript with Track Changes'.
+     * An unmarked version of your revised paper without tracked changes.
+       You should upload this as a separate file labeled 'Manuscript'.
+
+   If you would like to make changes to your financial disclosure, please
+   include your updated statement in your cover letter. Guidelines for
+   resubmitting your figure files are available below the reviewer
+   comments at the end of this letter.
+
+   If applicable, we recommend that you deposit your laboratory protocols
+   in protocols.io to enhance the reproducibility of your results.
+   Protocols.io assigns your protocol its own identifier (DOI) so that it
+   can be cited independently in the future. For instructions see:
+   https://journals.plos.org/plosone/s/submission-guidelines#loc-laborator
+   y-protocols. Additionally, PLOS ONE offers an option for publishing
+   peer-reviewed Lab Protocol articles, which describe protocols hosted on
+   protocols.io. Read more information on sharing protocols at
+   https://plos.org/protocols?utm_medium=editorial-email&utm_source=author
+   letters&utm_campaign=protocols.
+
+   We look forward to receiving your revised manuscript.
+
+   Kind regards,
+
+   Norman Johnson
+
+   Academic Editor
+
+   PLOS ONE
+
+   Journal Requirements:
+
+   When submitting your revision, we need you to address these additional
+   requirements.
+
+   1. Please ensure that your manuscript meets PLOS ONE's style
+   requirements, including those for file naming. The PLOS ONE style
+   templates can be found at
+
+   https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sam
+   ple_main_body.pdf  and
+
+   https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sam
+   ple_title_authors_affiliations.pdf
+
+   Additional Editor Comments (if provided):
+
+   This ms addresses an important topic - why does evolution acceptance
+   differ? - and takes new approaches to address it.
+
+   I found the results intriguing.
+
+   Still, the reviewers noted several concerns about both the methodology
+   of the study and the presentation in the ms. I would like to see the
+   authors’ responses to these. think the Introduction can be compressed
+   somewhat without loss of information. There are sections - as noted by
+   the reviewers - that can be clarified.
+
+   In addition to the comments made by the reviewers, I think the
+   presentation of the tables can be improved. Notably, I suggest adding a
+   brief descriptor in addition to the G number in each table. So, G75
+   could be “planet age”, G76 could be “fossils”, and so on.
+
+   [Note: HTML markup is below. Please do not edit.]
+
+   Reviewers' comments:
+
+   Reviewer's Responses to Questions
+
+   Comments to the Author
+
+   1. Is the manuscript technically sound, and do the data support the
+   conclusions?
+
+   The manuscript must describe a technically sound piece of scientific
+   research with data that supports the conclusions. Experiments must have
+   been conducted rigorously, with appropriate controls, replication, and
+   sample sizes. The conclusions must be drawn appropriately based on the
+   data presented.
+
+   Reviewer #1: Yes
+
+   Reviewer #2: Partly
+
+   **********
+
+   2. Has the statistical analysis been performed appropriately and
+   rigorously?
+
+   Reviewer #1: I Don't Know
+
+   Reviewer #2: No
+
+   **********
+
+   3. Have the authors made all data underlying the findings in their
+   manuscript fully available?
+
+   The PLOS Data policy requires authors to make all data underlying the
+   findings described in their manuscript fully available without
+   restriction, with rare exception (please refer to the Data Availability
+   Statement in the manuscript PDF file). The data should be provided as
+   part of the manuscript or its supporting information, or deposited to a
+   public repository. For example, in addition to summary statistics, the
+   data points behind means, medians and variance measures should be
+   available. If there are restrictions on publicly sharing data—e.g.
+   participant privacy or use of data from a third party—those must be
+   specified.
+
+   Reviewer #1: Yes
+
+   Reviewer #2: Yes
+
+   **********
+
+   4. Is the manuscript presented in an intelligible fashion and written
+   in standard English?
+
+   PLOS ONE does not copyedit accepted manuscripts, so the language in
+   submitted articles must be clear, correct, and unambiguous. Any
+   typographical or grammatical errors should be corrected at revision, so
+   please note any specific errors here.
+
+   Reviewer #1: No
+
+   Reviewer #2: No
+
+   **********
+
+   5. Review Comments to the Author
+
+   Please use the space provided to explain your answers to the questions
+   above. You may also include additional comments for the author,
+   including concerns about dual publication, research ethics, or
+   publication ethics. (Please upload your review as an attachment if it
+   exceeds 20,000 characters)
+
+   Reviewer #1: This article examines compare acceptance of evolution in
+   high school students in Italy and Brazil, specifically looking at 1)
+   the overall differences in acceptance between countries 2) whether
+   level of acceptance is associated more strongly with a specific
+   Christian denomination (Roman Catholic) in both countries, and 3)
+   whether acceptance of evolution by both Catholic and non-Catholic
+   Christian students within each country are more similar to each other.
+   The authors found that the level of evolution acceptance is more
+   similar among students within each country than among Roman Catholics
+   in both countries. They conclude that "the sociocultural environment
+   and level of evolutionary knowledge" is more important than the
+   specific religious affiliation they studied (from the abstract), and
+   that "religion playing a less important role for the acceptance of
+   evolution that nationality" (from lines 648-649). It is an elegant
+   study and should be published.
+
+   However, I have some suggestions that I think will strengthen the
+   manuscript, listed below. Some are broader and more important, and some
+   are more minor.
+
+   1. There are many areas where the article is not clearly written, and
+   includes awkward phrasing that I am interpreting as the result of
+   English not being the authors' first language. At times this impeded my
+   ability to read and understand the article. As PLOS ONE does not
+   copyedit accepted manuscripts, I would strongly recommend that the
+   authors have a proofreader assist with this issue.
+
+   2. Throughout the paper the authors refer to "different Christian
+   religions". I have more often heard this referred to as different
+   Christian religious denominations, all falling under the single
+   religion of Christianity. The authors should consider changing this
+   accordingly.
+
+   3. There are some areas of the introduction which are repetitive (e.g.,
+   lines 98-101). I recommend that this section be condensed, and that
+   less details of previous studies be provided (e.g., lines 112-125; the
+   reader does not need to know the details of how the analysis was done -
+   the shorter description of another study in lines 126-131 is a better
+   approach).
+
+   4. Since this study focuses on acceptance of evolution among Roman
+   Catholic students, the "explicit views on biological evolution"
+   referenced in 146 should be described in more detail.
+
+   5. I am not sure that reference 35 in line 167 is the appropriate
+   reference for that information.
+
+   6. The explanation of why they had the students answer their survey
+   anonymously (lines 213-226) was interesting, but there are no citations
+   provided for their reasoning. The addition of citations would be
+   helpful, or being clear that this is opinion/conjecture. The same for
+   their reasoning about why a Likert scale is not appropriate for
+   statements expressing scientific facts, as they should not be "graded
+   as weak or strong" (lines 243-286). Basically, I would like to see some
+   references to survey design to help the reader have confidence that
+   their decisions were based on best practices or previous research. I do
+   appreciate the nuance that a Likert scale could score different
+   approaches to an answer about the age of the planet similarly thought
+   they might come from different places of disagreement - precision of
+   scientific evidence vs. a non-scientific view (lines 275-280).
+
+   7. Line 358 mentions "personal and family details" - what are these?
+   Either explain or omit this.
+
+   8. Line 610 mentions a "well-known instrument" - please include the
+   name of this instrument.
+
+   9. Mention the question number of the survey that the results described
+   beginning with line 626 come from.
+
+   10. I am concerned about the somewhat strident tone in lines 655-658
+   regarding fundamentalist religious faith - not all fundamentalist
+   religious people deny "the objective existence of well-founded
+   scientific facts". I also recommend removing the word "notorious" in
+   line 672 for the same reason.
+
+   11. Which "certain conservative religions" are being referred to in
+   lines 671-672? Be explicit.
+
+   Reviewer #2: Thank you for the opportunity to read this manuscript.
+   This study follows up on prior work on evolution acceptance in Brazil
+   and Italy (“Previous analysis of this sample had already shown
+   significant differences between Brazilian and Italian students…”). The
+   manuscript makes the claim that culture is more important than religion
+   using Catholics in Brazil and Italy. Few would doubt that culture
+   matters (or that religion matters) but the question is by how much and
+   why does this matter? The study has a very large number of
+   methodological weaknesses that need to be addressed.
+
+   Introduction
+
+   The introduction discusses how knowledge and the nature of science
+   relate to acceptance, and yet the manuscript did not seem to measure
+   these core variables. Differences in these variables between countries
+   could explain the acceptance patterns discussed. This was a confusing
+   aspect of the introduction and the study.
+
+   The introduction emphasizes “inconsistencies” and “differences” in
+   prior research findings relating to acceptance and knowledge. However,
+   the contexts of comparison (e.g., ages, countries), magnitudes of
+   differences (e.g., effect sizes), meaning of the differences in light
+   of the intended measures (e.g., instrument construct definitions), and
+   quality of the studies (e.g., sampling, measurement statistics) being
+   discussed were not carefully considered. A much more careful and
+   rigorous review of the literature is needed. The current introduction
+   does not carefully review studies with direct relevance to the
+   populations of interest.
+
+   Line 59. The claim regarding “inconsistencies” is not supported by the
+   literature. Studies examining different populations with different
+   instruments and different levels of education cannot be meaningfully
+   compared. Moreover, studies vary greatly in the quality of the measures
+   and the rigor of the analyses. Studies of the same populations using
+   the same or similar instruments demonstrate few if any differences, and
+   those that were found tend to be small effect sizes (many significant
+   differences are not meaningful, particularly when using large samples).
+   Knowledge and acceptance have a positive association and this is widely
+   supported. Claims of contradiction and inconsistency do not align with
+   the preponderance of evidence in high quality studies. We can find
+   published studies that contradict almost anything, but they tend to
+   have significant flaws. Not all studies are equal. A RCT and a static
+   descriptive finding are not of the same quality.
+
+   Line 66. The effect sizes for Barnes were not large, and the
+   instruments utilized were intentionally designed to measure different
+   aspects of evolution acceptance. It is NOT a flaw to intentionally
+   conceptualize (and operationalize) a theoretical construct in different
+   ways. Why would small differences using instruments that measure a
+   construct in slightly different ways be “surprising”? Fahrenheit and
+   Celcius are different scales of temperature–is one flawed because it
+   produces a different measure? They are based on different
+   operationalizations of theory.
+
+   This introduction could be fixed by reviewing findings from
+   high-quality studies most similar in terms of religion, age, education,
+   etc. to the new research that will be reported.
+
+   Sample
+
+   It is not clear why the two countries are being compared if the Pew
+   studies have shown significant differences in evolution acceptance (and
+   prior work). A stronger and clearer rationale for the comparisons (in
+   light of the methodological issues noted above) needs to be made so
+   that readers can see what the authors are trying to do (which is
+   interesting).
+
+   Methods
+
+   It was not clear how religious affiliation and religiosity were
+   measured–were they separate? These are two well-defined constructs that
+   are different.
+
+   The methods discuss measuring evolution acceptance, but later on the
+   discussion mentions “understanding” in several places. It was not clear
+   if there is a knowledge measure and an acceptance measure. Or are the
+   authors conflating acceptance and understanding? This was confusing.
+   (e.g., “Difference of geological time understanding followed the same
+   pattern, with a very high score”).
+
+   Line 250. It is important to consider that Likert scales by themselves
+   are not instruments or measures. Measures are derived from the scale,
+   and such scales pose many problems (e.g., non-ratio scaling) that can
+   distort inferences. The way that these issues are discussed is
+   problematic and should be revised.
+
+   Line 288. The introduction emphasizes that different instruments that
+   measure constructs in different ways produce different results, and so
+   it was surprising to read that a new instrument that has not been
+   widely used was employed in this study. How, then, can the results be
+   compared to prior work? It seems that the problems emphasized in the
+   introduction are ignored and the authors continue the tradition of
+   comparing patterns using different tools. How will this move research
+   forward? The methodological approach was puzzling. Regardless, evidence
+   in support of instrument quality needs to be expanded as it is
+   inappropriate to interpret measures unless there is a robust body of
+   evidence supporting them (see Mead et al. Evolution Education Outreach
+   on instrument quality in evolution education). Please report comparable
+   evidence types for the instrument.
+
+   The sampling methods should include information on missing data and
+   whether it was missing at random (e.g., did students of particular
+   groups have disproportionate missing data?). The participation rate
+   should be mentioned in the main text.
+
+   The data have clear nesting and HLM (hierarchical linear models) would
+   allow for the analyses of patterns within schools, regions, and
+   countries. The current methodological approach is very unusual and so a
+   rationale is needed for why MCA was used.
+
+   Why were the data on nationality and religion used to code responses
+   when it would be possible to use predictor variables contained within
+   the dataset? In other words, the analyses ignore the richness of the
+   dataset and predispose the results to the coding scheme. This is
+   problematic and poorly justified. Within- and between- group variation
+   can be modeled along with interactions.
+
+   The discussion section should emphasize why these results matter. Let’s
+   say that the results are well supported by evidence (which is by no
+   means clear). How does this change how biologists should approach the
+   challenge of evolution education? What are the implications for other
+   countries? How should sociocultural factors be measured and included in
+   models of acceptance?The discussion section should also include prior
+   evolution education research in nonreligious contexts such as China and
+   other international studies (please review Donnelly and Deniz Springer
+   and other studies).
+
+   **********
+
+   6. PLOS authors have the option to publish the peer review history of
+   their article (what does this mean?). If published, this will include
+   your full peer review and any attached files.
+
+   If you choose “no”, your identity will remain anonymous but your review
+   may still be made public.
+
+   Do you want your identity to be public for this peer review? For
+   information about this choice, including consent withdrawal, please see
+   our Privacy Policy.
+
+   Reviewer #1: No
+
+   Reviewer #2: No
+
+   [NOTE: If reviewer comments were submitted as an attachment file, they
+   will be attached to this email and accessible via the submission site.
+   Please log into your account, locate the manuscript record, and check
+   for the action link "View Attachments". If this link does not appear,
+   there are no attachment files.]
+
+   While revising your submission, please upload your figure files to the
+   Preflight Analysis and Conversion Engine (PACE) digital diagnostic
+   tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures
+   meet PLOS requirements. To use PACE, you must first register as a user.
+   Registration is free. Then, login and navigate to the UPLOAD tab, where
+   you will find detailed instructions on how to use the tool. If you
+   encounter any issues or have any questions when using PACE, please
+   email PLOS at gro.solp@serugif. Please note that Supporting Information
+   files do not need this step.
+     * PLoS One. 2022; 17(9): e0273929. »
+     * Author response to Decision Letter 0
+
+   2022; 17(9): e0273929.
+   Published online 2022 Sep 19. doi: 10.1371/journal.pone.0273929.r002
+
+Author response to Decision Letter 0
+
+   Copyright and License information PMC Disclaimer
+   PMC Copyright notice
+
+   1 Aug 2022
+
+   Additional Editor Comments
+
+   “Introduction can be compressed somewhat without loss of information”.
+
+   Answer: The introduction has been shortened based on reviewers'
+   comments. Changes are specified in the comments for reviewers.
+
+   "I think the presentation of the tables can be improved. Notably, I
+   suggest adding a brief descriptor in addition to the G number in each
+   table. So, G75 could be “planet age”, G76 could be “fossils”, and so
+   on”
+
+   Answer: As suggested, brief descriptors were added to the G number in
+   each table.
+
+   Reviewer #1
+
+   “1. There are many areas where the article is not clearly written, (…)
+   I would strongly recommend that the authors have a proofreader assist
+   with this issue”.
+
+   Answer: The article has undergone English language editing by a
+   professional reviewer (MDPI). The text has been checked for correct use
+   of grammar and common technical terms, and edited to a level suitable
+   for reporting research in a scholarly journal.
+
+   “2. Throughout the paper the authors refer to "different Christian
+   religions". I have more often heard this referred to as different
+   Christian religious denominations, all falling under the single
+   religion of Christianity”.
+
+   Answer: In fact, this is a longstanding problematic issue. Some authors
+   criticize the term “denomination”, for instance: “When we use the
+   analytical term ‘religion,’ we must not think that it refers to some
+   specific, ‘least common denominator’ super- religion or trans-
+   religious entity, which can be partitioned into ‘denominations’. No
+   such thing exists. All that exists in actuality are particular
+   religions.” (Smith, 2017, p.46). However, soon after the same author
+   recognizes that this ideal conceptual approach cannot be found in US
+   publications, which prefer to call all Christian branches “Christian
+   denominations”, as he himself used to call them (Smith, 2000). Roman
+   Catholic theologians, such as John Haught, avoid the term; in his
+   famous book “Science and Religion: From conflict to conversation”
+   (1995), he does not use the expression “Christian denominations”. Thus,
+   this way of referring to Christianity as a “trans-religious entity” is
+   widely used, as by Thomas Dixon, in his book “Science and Religion: A
+   very short introduction” (2008, Oxford University Press). Therefore, we
+   decided to modify the expression to the most used/understandable way of
+   defining religions in the US and changed all references of “Christian
+   religions” into “Christian denominations”.
+
+   “3. There are some areas of the introduction which are repetitive
+   (e.g., lines 98-101). I recommend that this section be condensed, and
+   that less details of previous studies be provided”.
+
+   Answer: We condensed the discussion in the lines indicated above (lines
+   169-170) and elsewhere.
+
+   “4. Since this study focuses on acceptance of evolution among Roman
+   Catholic students, the "explicit views on biological evolution"
+   referenced in L.146 should be described in more detail”
+
+   Answer: We included a brief description of previous studies in Brazil
+   carried out in the early 1990s, but consider that the reference that
+   was already in the text (Oliveira & Cook, 2019) addresses appropriately
+   the issue, which should be seen in a dynamic perspective.
+
+   “5. I am not sure that reference 35 in line 167 is the appropriate
+   reference for that information.”
+
+   Answer: This reference is the Pew Research Center report, which
+   “examines public perceptions of biotechnology, evolution and the
+   relationship between science and religion. Data in this report come
+   from a survey conducted across Europe, Russia, the Americas and the
+   Asia-Pacific region from October 2019 to March 2020. Surveys were
+   through face-to-face interviews in Russia, Poland, the Czech Republic,
+   India and Brazil”. The title adopted as bibliographical reference is
+   the one recommended by the report.
+
+   “6. The explanation of why they had the students answer their survey
+   anonymously (lines 213-226) was interesting, but there are no citations
+   provided for their reasoning (…) Basically, I would like to see some
+   references to survey design to help the reader have confidence that
+   their decisions were based on best practices or previous research.”
+
+   Answer: Strong pieces of evidence published in the literature shows
+   that anonymity reduces social desirability distortion and increases
+   self-disclosure. This research was part of an international project
+   originally designed back to 2004-6 relying on basic literature. Many
+   references are available in the literature and we understand that this
+   is a well established concept when sensitive issues are involved.
+   However, we included two basic references regarding more recent
+   research, addressing social desirability, including a meta-analysis
+   comprising 51 studies that included 62 independent samples and 16,700
+   unique participants.
+
+   “7. Line 358 mentions ‘personal and family details’ - what are these?
+   Either explain or omit this”.
+
+   Answer: We introduced one line explaining that the databank includes
+   students’ age, gender, religious membership, and socioeconomic
+   indicators.
+
+   “8. Line 610 mentions a "well-known instrument" - please include the
+   name of this instrument.”
+
+   Answer: We included the name of the “well known instrument” mentioned
+   in the article soon after, and a recent reference, but also rephrased
+   the first mention of it, in the introduction.
+
+   “9. Mention the question number of the survey that the results
+   described beginning with line 626 come from.”
+
+   Answer: The cited number (n=3,117) refers to G79 (“Human origins”), and
+   comprises the total number students who answered “true” or “false”
+   (“active cases”), in the group of Roman Catholics in Italy and Brazil
+   (n=2,731) (Table 1), and Non-Catholic Christians in Brazil (n=386)
+   (Table 3), so that 2,731+386=3,117. We added more details in that
+   paragraph to make it easier to trace back the numbers.
+
+   10. I am concerned about the somewhat strident tone in lines 655-658
+   regarding fundamentalist religious faith - not all fundamentalist
+   religious people deny "the objective existence of well-founded
+   scientific facts". I also recommend removing the word "notorious" in
+   line 672 for the same reason.
+
+   Answer: Both suggestions were accepted and the text was rephrased.
+
+   “11. Which "certain conservative religions" are being referred to in
+   lines 671-672? Be explicit.”
+
+   Answer: We introduced some changes in that paragraph, and kept the
+   reference, which indicates a concrete example in a given sociocultural
+   context.
+
+   Reviewer #2
+
+   A-“The introduction discusses how knowledge and the nature of science
+   relate to acceptance, and yet the manuscript did not seem to measure
+   these core variables. Differences in these variables between countries
+   could explain the acceptance patterns discussed. This was a confusing
+   aspect of the introduction and the study”.
+
+   Answer: Our study did not aim at studying deeply the variable we were
+   interested for: religion. We tried to throw light on the influence of
+   religion in evolution acceptance at a certain age level, with
+   probabilistic nationwide samples of two countries with large numbers of
+   students who declare themselves as Roman Catholic. It is a far more
+   modest objective that examining “how knowledge and the nature of
+   science relate to acceptance”. However, the introduction was
+   reformulated, trying to let our objectives clearer.
+
+   B-“The introduction emphasizes “inconsistencies” and “differences” in
+   prior research findings relating to acceptance and knowledge. However,
+   the contexts of comparison (e.g., ages, countries), magnitudes of
+   differences (e.g., effect sizes), meaning of the differences in light
+   of the intended measures (e.g., instrument construct definitions), and
+   quality of the studies (e.g., sampling, measurement statistics) being
+   discussed were not carefully considered. A much more careful and
+   rigorous review of the literature is needed. The current introduction
+   does not carefully review studies with direct relevance to the
+   populations of interest.”
+
+   Answer: There are several recent studies on the subject, with different
+   methodologies and sampling methods and we were asked to present a more
+   concise revision of previous research. As the article is not a
+   revision, we tried to meet such a query. Thus, we introduced a
+   consideration for the reader to consider the comparison contexts of the
+   previously cited studies.
+
+   C-“Line 59. The claim regarding “inconsistencies” is not supported by
+   the literature. Studies examining different populations with different
+   instruments and different levels of education cannot be meaningfully
+   compared. Moreover, studies vary greatly in the quality of the measures
+   and the rigor of the analyses.
+
+   Answer: We removed the paragraph that compares studies with different
+   populations, leaving the discussion on inconsistencies restricted to
+   the study by Barnes et al. (2019) that analyzed the same group with
+   different analysis instruments. Deleted paragraph: “"However, data are
+   still contradictory and require further investigation. An example of
+   inconsistencies found so far is that some studies report a strong
+   relationship between evolution acceptance and religious beliefs, while
+   other studies report a weak relationship between them [6]. The use of
+   different instruments to measure evolution acceptance could be a cause
+   of such inconsistent research results."
+
+   D-“Line 66. The effect sizes for Barnes were not large, and the
+   instruments utilized were intentionally designed to measure different
+   aspects of evolution acceptance. It is NOT a flaw to intentionally
+   conceptualize (and operationalize) a theoretical construct in different
+   ways. Why would small differences using instruments that measure a
+   construct in slightly different ways be “surprising”? Fahrenheit and
+   Celcius are different scales of temperature–is one flawed because it
+   produces a different measure? They are based on different
+   operationalizations of theory.
+
+   Answer: Data venia, apparently the analogy does not seem to be
+   appropriate. The mentioned piece of research found differences in the
+   very same population using elegant random methods. If one child has two
+   thermometers, one reads 35C and the other 101F, it is clear that the
+   difference is small, but it does mean something important, as they
+   point to two different realities, demanding completely different
+   procedures. It makes no sense to choose between Fahrenheit x Celsius
+   Scale thermometers in this case. There is no doubt that at least one
+   instrument is not working well (if not both!). Small differences can
+   indicate completely different realities. Our discussion focuses
+   precisely on this point, concerning the construction of instruments. We
+   argued that Likert scaling (see below) should not be used with factual
+   statements, as this brings imprecise numeric measures. “I like
+   strawberry juice” will have a far more precise measure than “strawberry
+   is a fruit” in a Likert scale item. Biologists will not fully agree,
+   but will not fully disagree either, with the second statement. The same
+   would occur with pineapples, apples and pears. However, with tomato
+   juice one could expect the opposite situation, as biologists would
+   promptly recognize it as a fruit, but as lay costumers use to find
+   tomatoes near potatoes in supermarkets, they may disagree with the
+   statement, not to mention the sonority of the two words (which is not
+   the case with Romance languages). It is not difficult to see that an
+   instrument with several such items answered by a large and diverse
+   population, in different countries, will bring a cloudy picture due to
+   imprecise numeric measures. Our conclusion indicates not only that
+   future research should not use Likert scaling with factual statements
+   about biological evolution, but also invites reanalysis of data banks.
+   This is precisely what we did with our own database, finding surprising
+   results.
+
+   E-“This introduction could be fixed by reviewing findings from
+   high-quality studies most similar in terms of religion, age, education,
+   etc. to the new research that will be reported.”
+
+   Answer: We have included five paragraphs and seven references, with
+   studies on acceptance of evolution and Christian denominations of
+   similar age level as ours in countries such as India and Chile. The
+   paragraphs and references are:
+
+   “A systematic literature review of the current state of research
+   regarding students’ and teachers’ acceptance of evolution across Europe
+   found that the level of acceptance of evolution in different
+   educational settings is ambiguous. The authors argue that similar
+   samples and a standardized assessment of the acceptance of evolution
+   are necessary for cross-country comparisons [7].
+
+   (…)
+
+   A study with secondary school students (aged 14–16) in the United
+   Kingdom found that teaching genetics before teaching evolution had a
+   significant impact on improving evolution understanding but did not
+   result in a significantly increased acceptance of evolution [16]. This
+   reflects a weak correlation between the knowledge and acceptance of
+   evolution, which also appears to be present in undergraduate students.
+   In Chilean students of 15–16 years old, it was found that including
+   instruction on the nature of science in the class on evolution improved
+   their acceptance significantly [17].
+
+   Kuschmierz et al. (2020) [7] identified 56 papers from the period of
+   2010–2020 regarding students’ and teachers’ knowledge and acceptance of
+   evolution across 29 European countries. However, according to the
+   authors, the research findings were hard to compare due to the
+   application of different instruments and the assessment of different
+   key concepts. The available database was not sufficient to obtain
+   reasonably comparable data from European countries. In addition, the
+   ambiguous results of the research demonstrate multiple challenges
+   regarding measurement of evolution education, such as (a) inadequate
+   definitions of key constructs (attitudes, acceptance, knowledge, and
+   understanding are often not defined or inconsistently used in
+   publications); (b) the application of diverse measurement instruments
+   (different evolution acceptance instruments may produce different
+   results, even when applied to the same population); (c) the
+   multidimensionality of knowledge about evolution (most instruments
+   focus on single evolutionary constructs, such as natural selection and
+   related concepts).
+
+   The authors [18] then developed an instrument to measure attitudes and
+   understanding across Europe and beyond, called the “Evolution Education
+   Questionnaire on Acceptance and Knowledge” (EEQ). The measurement
+   instrument was translated into several European languages, in the
+   various Romance, Germanic, and Slavic branches, and was recently
+   applied to 9200 first-year university students in 26 European countries
+   [19].
+
+   This is a recent initiative, and thus, due to a lack of standardized
+   assessment procedures in the existing literature, previous results
+   should be used with caution when trying to compare countries, as there
+   are several limitations, such as different age levels, and sampling
+   procedures, etc. [18].
+
+   F-“It is not clear why the two countries are being compared if the Pew
+   studies have shown significant differences in evolution acceptance (and
+   prior work). A stronger and clearer rationale for the comparisons (in
+   light of the methodological issues noted above) needs to be made so
+   that readers can see what the authors are trying to do (which is
+   interesting).”
+
+   Answer: There is divergence between the two reviewers. The Pew studies
+   were carried out with a different age level (18 years old and older),
+   with a completely different methodology. We are emphasizing the broad
+   sociocultural picture and the need of standardized methodological
+   procedures, including careful item translation, aiming at producing
+   meaningful comparisons among countries.
+
+   G-“It was not clear how religious affiliation and religiosity were
+   measured–were they separate? These are two well-defined constructs that
+   are different.”
+
+   Answer: We tried to state clearly that we compared students who
+   declared their religion, with no measure of religiosity. Possibly
+   language editing has solved this problem.
+
+   H-“The methods discuss measuring evolution acceptance, but later on the
+   discussion mentions ‘understanding’ in several places. It was not clear
+   if there is a knowledge measure and an acceptance measure. Or are the
+   authors conflating acceptance and understanding? This was confusing.
+   (e.g., “Difference of geological time understanding followed the same
+   pattern, with a very high score”)”.
+
+   Answer: We rephrased the parts where we present the only item that
+   relates to geological time. It is not included in the final figure,
+   which tried to show the influence of religion on evolution acceptance.
+
+   I-“Line 250. It is important to consider that Likert scales by
+   themselves are not instruments or measures. Measures are derived from
+   the scale, and such scales pose many problems (e.g., non-ratio scaling)
+   that can distort inferences. The way that these issues are discussed is
+   problematic and should be revised.”
+
+   Answer: We deleted the phrase “The Likert scale is considered a good
+   instrument to estimate the degree of agreement (or disagreement) about
+   statements expressing opinions.”, and inserted a more precise
+   description of our main criticism of previous instruments:
+
+   “Likert scaling is used in instruments measuring attitudes, beliefs,
+   and opinions about statements, allowing expression of moderation of
+   opinion from agreement to disagreement. The key point is finding ways
+   of calibrating how strongly or mildly a statement should be worded.
+   These scales are therefore suitable for issues related to open
+   constructs and less for scientific claims based on presumed factuality.
+   An item likely to produce extreme responses, either full agreement or
+   strong disagreement, would do a poor job of discriminating across the
+   full spectrum of respondents [57]. Therefore, Likert scales may not be
+   a good choice with statements expressing well-known scientific facts.
+   In addition, in the case of theories of evolution, factuality is
+   supported by the school context in which the questionnaires were filled
+   out. The battery of items on evolution was proposed with dichotomous
+   questions given that each of them can have minimal variability”.
+
+   A previous answer (#D) brought additional elements for this discussion,
+   but may not be relevant in the context of the manuscript, considering
+   writing style and content.
+
+   K-“ Line 288. The introduction emphasizes that different instruments
+   that measure constructs in different ways produce different results,
+   and so it was surprising to read that a new instrument that has not
+   been widely used was employed in this study. How, then, can the results
+   be compared to prior work? It seems that the problems emphasized in the
+   introduction are ignored and the authors continue the tradition of
+   comparing patterns using different tools. How will this move research
+   forward? The methodological approach was puzzling. Regardless, evidence
+   in support of instrument quality needs to be expanded as it is
+   inappropriate to interpret measures unless there is a robust body of
+   evidence supporting them (see Mead et al. Evolution Education Outreach
+   on instrument quality in evolution education). Please report comparable
+   evidence types for the instrument.”
+
+   Answer: The issue of comparison was already addressed (see above). In
+   addition, we state clearly that our instrument was based on previous
+   ones, and not exactly a brand new one, although we did not use Likert
+   scale.
+
+   L-“ The sampling methods should include information on missing data and
+   whether it was missing at random (e.g., did students of particular
+   groups have disproportionate missing data?). The participation rate
+   should be mentioned in the main text.”
+
+   Answer: This criticism was, in fact, the most profound and challenging
+   one. Our database was searched on five occasions, including the
+   doctoral thesis of a specialist in statistics, who studied precisely
+   the existing clusters. However, as it is a relatively large database,
+   at least in the context of the ROSE Project, the groupings always
+   present overlaps that do not allow to figure out so clearly the image
+   revealed by the MCA study, focusing on the same religion in the two
+   countries. It led us to perform the easy-to-understand numerical
+   calculations that resulted in the polygon image. Although we had no
+   evidence that the missing cases could be biased, it was necessary to
+   carry out a specific study. Thus, a new analysis of the database was
+   performed and, now, we can categorically state that there are no
+   elements that indicate any bias in the missing cases of the MCA. A new
+   set of tables was added to Supplemental Materials (S2 File). A
+   paragraph with the conclusion of the analysis was included and reads:
+
+   “The detailed analysis of the occurrence of missing values allows us to
+   conclude that there is no indication that the MCA results have any
+   significant bias when comparing the responses of valid active cases
+   with those with missing values.”
+
+   We included the participation rate in the main text, and kept the
+   summary and matrix of the MCA as supplementary materials. We are very
+   grateful for the observation, which disturbed our sleep for a few days,
+   but which, in the end, made our conclusions more solid.
+
+   M-“The data have clear nesting and HLM (hierarchical linear models)
+   would allow for the analyses of patterns within schools, regions, and
+   countries. The current methodological approach is very unusual and so a
+   rationale is needed for why MCA was used.”
+
+   Answer: As mentioned in the previous answer, usual tests were performed
+   on five doctoral theses, which resulted in several articles. However,
+   it was not clear that the differences between Roman Catholic students
+   from the two countries could be greater than the differences between
+   them and Non-Catholic Christian denominations in the same country.
+
+   N-“Why were the data on nationality and religion used to code responses
+   when it would be possible to use predictor variables contained within
+   the dataset? In other words, the analyses ignore the richness of the
+   dataset and predispose the results to the coding scheme. This is
+   problematic and poorly justified. Within- and between- group variation
+   can be modeled along with interactions.”
+
+   Answer: As mentioned in the previous answers, the richness of the data
+   was studied in five doctoral theses, which resulted in several
+   articles. One of them (Ocampo & Tolentino Neto, 2020) found different
+   typologies of students, which were determined based on the hierarchical
+   clustering method. However, the isolation of country and religion from
+   the acceptance of evolution was yet to be done. Possibly, the results
+   published by research groups from different countries, after our data
+   collection, and the growth of conservative and anti-evolutionist
+   influence, mainly in Brazil, have been decisive to emphasize the need
+   for this particular study.
+
+   O-“The discussion section should emphasize why these results matter.
+   Let’s say that the results are well supported by evidence (which is by
+   no means clear). How does this change how biologists should approach
+   the challenge of evolution education? What are the implications for
+   other countries? How should sociocultural factors be measured and
+   included in models of acceptance? The discussion section should also
+   include prior evolution education research in non-religious contexts
+   such as China and other international studies (please review Donnelly
+   and Deniz Springer and other studies).”
+
+   Answer: We included new references, but could not include the mentioned
+   article (probably Deniz, Donnelly and Yilmaz, 2008), where authors
+   discuss other components in someone’s conceptual ecology for biological
+   evolution. We believe we pointed out several implications of our
+   results, including revising databanks and methodological aspects
+   regarding items construction exploring factual scientific statements
+   about biological evolution.
+
+   Cited Bibliography (not included in the article):
+
+   Deniz, H., Donnelly, L.A. and Yilmaz, I. Exploring the factors related
+   to acceptance of evolutionary theory among Turkish preservice biology
+   teachers: Toward a more informative conceptual ecology for biological
+   evolution. Journal of Research in Science Teaching 45 (4): 420-443,
+   2008.
+
+   Dixon, Thomas. Science and Religion: A very short introduction. Oxford:
+   Oxford University Press, 2008.
+
+   Haught, John F. Science and Religion: from conflict to conversation.
+   Mahwah (NJ): Paulist Press, 1995.
+
+   Ocampo, D; Tolentino-Neto. As diferentes tipologias que descrevem o
+   interesse dos jovens brasileiors pelas ciências [The different
+   typologies describing the interest of Brazilian youth in Science].
+   Amazônia/Revista de Educação em Ciência e Matemática 16(37): 164-176,
+   2020. [available from:
+   https://www.periodicos.ufpa.br/index.php/revistaamazonia/article/view/8
+   660/6696>.].
+
+   Smith, Christian. Religion: What it is, How it works, and Why it
+   Matters. Princeton (NJ): Princeton University Press, 2017.
+
+   Smith, Christian, Christian America? What evangelicals really want.
+   Berkeley: California University Press, 2000.
+
+Attachment
+
+   Submitted filename: Responses_REV_plos_vf5.doc
+   Click here for additional data file.^(67K, doc)
+     * PLoS One. 2022; 17(9): e0273929. »
+     * Decision Letter 1
+
+   2022; 17(9): e0273929.
+   Published online 2022 Sep 19. doi: 10.1371/journal.pone.0273929.r003
+
+Decision Letter 1
+
+   Norman Johnson, Academic Editor
+   Copyright and License information PMC Disclaimer
+   Copyright © 2022 Norman Johnson
+   This is an open access article distributed under the terms of the
+   Creative Commons Attribution License, which permits unrestricted use,
+   distribution, and reproduction in any medium, provided the original
+   author and source are credited.
+
+   18 Aug 2022
+
+   Acceptance of Evolution by High School Students: is religion the key
+   factor?
+
+   PONE-D-22-03227R1
+
+   Dear Dr. Bizzo,
+
+   We’re pleased to inform you that your manuscript has been judged
+   scientifically suitable for publication and will be formally accepted
+   for publication once it meets all outstanding technical requirements.
+
+   Within one week, you’ll receive an e-mail detailing the required
+   amendments. When these have been addressed, you’ll receive a formal
+   acceptance letter and your manuscript will be scheduled for
+   publication.
+
+   An invoice for payment will follow shortly after the formal acceptance.
+   To ensure an efficient process, please log into Editorial Manager at
+   http://www.editorialmanager.com/pone/, click the 'Update My
+   Information' link at the top of the page, and double check that your
+   user information is up-to-date. If you have any billing related
+   questions, please contact our Author Billing department directly at
+   gro.solp@gnillibrohtua.
+
+   If your institution or institutions have a press office, please notify
+   them about your upcoming paper to help maximize its impact. If they’ll
+   be preparing press materials, please inform our press team as soon as
+   possible -- no later than 48 hours after receiving the formal
+   acceptance. Your manuscript will remain under strict press embargo
+   until 2 pm Eastern Time on the date of publication. For more
+   information, please contact gro.solp@sserpeno.
+
+   Kind regards,
+
+   Norman Johnson
+
+   Academic Editor
+
+   PLOS ONE
+
+   Additional Editor Comments (optional):
+
+   The author addressed concerns of reviewers to my satisfaction.
+
+   Reviewers' comments:
+     * PLoS One. 2022; 17(9): e0273929. »
+     * Acceptance letter
+
+   2022; 17(9): e0273929.
+   Published online 2022 Sep 19. doi: 10.1371/journal.pone.0273929.r004
+
+Acceptance letter
+
+   Norman Johnson, Academic Editor
+   Copyright and License information PMC Disclaimer
+   Copyright © 2022 Norman Johnson
+   This is an open access article distributed under the terms of the
+   Creative Commons Attribution License, which permits unrestricted use,
+   distribution, and reproduction in any medium, provided the original
+   author and source are credited.
+
+   23 Aug 2022
+
+   PONE-D-22-03227R1
+
+   Acceptance of Evolution by High School Students: is religion the key
+   factor?
+
+   Dear Dr. Bizzo:
+
+   I'm pleased to inform you that your manuscript has been deemed suitable
+   for publication in PLOS ONE. Congratulations! Your manuscript is now
+   with our production department.
+
+   If your institution or institutions have a press office, please let
+   them know about your upcoming paper now to help maximize its impact. If
+   they'll be preparing press materials, please inform our press team
+   within the next 48 hours. Your manuscript will remain under strict
+   press embargo until 2 pm Eastern Time on the date of publication. For
+   more information please contact gro.solp@sserpeno.
+
+   If we can help with anything else, please email us at gro.solp@enosolp.
+
+   Thank you for submitting your work to PLOS ONE and supporting open
+   access.
+
+   Kind regards,
+
+   PLOS ONE Editorial Office Staff
+
+   on behalf of
+
+   Dr. Norman Johnson
+
+   Academic Editor
+
+   PLOS ONE
+     __________________________________________________________________
+
+   Articles from PLOS ONE are provided here courtesy of PLOS
+     __________________________________________________________________
+
+Other Formats
+
+     * PubReader
+     * PDF (942K)
+
+Actions
+
+     * (BUTTON) Cite
+     *
+
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
+
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
+
+        Share
+
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
+
+   (BUTTON) [x]
+   Cite
+   (BUTTON) Copy Download .nbib .nbib
+   Format: [NLM]
+
+   Follow NCBI
+
+   Connect with NLM
+     *
+     *
+     *
+
+   National Library of Medicine
+   8600 Rockville Pike
+   Bethesda, MD 20894
+
+   Web Policies
+   FOIA
+   HHS Vulnerability Disclosure
+
+   Help
+   Accessibility
+   Careers
+     * NLM
+     * NIH
+     * HHS
+     * USA.gov

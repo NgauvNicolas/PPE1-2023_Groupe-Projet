@@ -1,23 +1,899 @@
-   Subscribe now
 
-Human evolution
+   Logo of springeropen
+   Evolution
 
-   The story of human evolution begins in Africa 7 million years ago
+   Evolution (N Y). 2020; 13(1): 23.
+   Published online 2020 Nov 23. doi: 10.1186/s12052-020-00137-5
+   PMCID: PMC7683450
+   PMID: 33269052
 
-   Anthropological models
+Illuminating the complexities of conflict with evolution: validation of the
+scales of evolutionary conflict measure (SECM)
 
-   Anthropological models based on fossils from the human evolutionary
-   tree.
+   Gena C. Sbeglia^ corresponding author ^1 and Ross H. Nehm^2
+--
+Gena C. Sbeglia
+
+   ^1Department of Ecology and Evolution, Stony Brook University, Stony
+   Brook, NY 11794 USA
+   Find articles by Gena C. Sbeglia
+--
+Ross H. Nehm
+
+   ^2Department of Ecology and Evolution, Program in Science Education,
+   Stony Brook University, Stony Brook, NY 11794 USA
+   Find articles by Ross H. Nehm
+   Author information Article notes Copyright and License information PMC
+   Disclaimer
+   ^1Department of Ecology and Evolution, Stony Brook University, Stony
+   Brook, NY 11794 USA
+   ^2Department of Ecology and Evolution, Program in Science Education,
+   Stony Brook University, Stony Brook, NY 11794 USA
+   Gena C. Sbeglia, Email: ude.koorbynots@ailgebs.aneg.
+--
+Background
+
+   Although personal, familial, and community conflict with evolution have
+   been documented in the literature, these scales require
+   conceptualization as a construct and operationalization as a measure.
+   The Scales of Conflict with Evolution Measure (SECM) instrument was
+   developed in response to these needs. Using a construct validity
+   framework, the content, internal structure, convergent, and substantive
+--
+   Equation Modeling (SEM), and follow up questioning. The conceptual
+   utility of the instrument was explored by examining whether it added
+   explanatory insights into evolution acceptance above and beyond
+   religiosity, evolution knowledge, and background variables.
+
+Results
+
+   A literature review and expert consultation indicated that construct
+   of evolutionary conflict perception should (i) encompass the
+   hierarchical nature of human social structures (personal, family,
+   community) and (ii) probe conflict as it relates to human values,
+--
+   operationalized as a nine-item rating scale measure. Using Rasch
+   analyses of SECM responses from a diverse sample of > 1000 students
+   studying evolution, the instrument met criteria of robust measurement,
+   including: fit to model expectations; three-dimensional structure; high
+   reliability; good rating scale function; measurement invariance with
+--
+   personal conflict, with family showing a stronger and modest impact,
+   and (ii) personal conflict had a significant and modest causal impact
+   on evolution acceptance above and beyond the contributions of
+   religiosity, evolution knowledge, and background variables.
+
+Conclusion
+
+   The SECM is an easy-to-administer instrument to measure conflict with
+   evolution and is supported by several forms of validity evidence. The
+   SECM has potential for facilitating measurement of
+   evolutionary conflict in educational settings, thereby raising
+   instructor awareness of conflict levels in students, promoting rigorous
+   evaluations of educational interventions designed to reduce conflict,
+   and fostering conceptual advances in the field of evolution education.
+   Future work is needed to gather additional forms of validity evidence
+   and to test current validity claims in additional participant samples.
+   SECM measures should also be incorporated into more complex SEM models
+   that treat evolution knowledge and religiosity as part of the
+   structural paths to evolution acceptance. Such models could provide
+   insights into the most worthwhile targets for the development of
+   educational interventions to mitigate conflict at multiple scales.
+   Keywords: Conflict, Acceptance, Evolution, Religiosity, Psychometrics,
+   Instrument, Validation
 
 --
-   Sign up
 
-More on Human evolution
-
-   A bearded seal on the ice in Svalbard
+   The idea that individuals may harbor feelings of conflict with
+   evolutionary principles, and that such conflict may be linked to their
+   acceptance of evolution, has been discussed in the literature for
+   decades (e.g., Clough 1994; Dagher and BouJaoude 1997; Graves 2019;
+   Nehm et al. 2009; Scharmann and Harris 1992; Turner 1978). Many
+   qualitative studies (and a few quantitative ones) confirm that feelings
+   of conflict are an important variable to consider in the complex web of
+   factors accounting for evolution acceptance (e.g., Barnes et al. 2020;
+   Clough 1994; Ha et al. 2012; Konnemann et al. 2018; Nehm et al. 2009;
+   Scharmann and Harris 1992). Conflict with evolution may be
+   characterized in many ways: by its presence (i.e., yes, no), magnitude
+   (high, low), sources (e.g., religion, societal implications), scales
 --
-Humans
+   Konnemann et al. 2018; Mead et al. 2015; Nehm et al. 2009; Rissler et
+   al. 2014; Scharmann and Harris 1992). Despite widespread recognition of
+   its importance for evolution education research and practice, only a
+   few studies in evolution education have empirically quantified conflict
+   (e.g., Barnes et al. 2020; Konnemann et al. 2018; Nehm and Schonfeld
+   2007), which is undoubtedly related to the paucity of
+   easy-to-administer assessment tools for this topic (cf. Nehm and Mead
+   2019). Developing robust measures of conflict with evolutionary ideas
+   could: facilitate more frequent measurement in educational settings,
+   raise instructor awareness of conflict levels in students, and foster
+--
+   conflict (e.g., Ha et al. 2015; Nehm et al. 2009; Scharmann and Harris
+   1992). Such a measure could also lead to conceptual advances in the
+   field of evolution education, as discussed below.
 
-The 2023 discoveries that made us rethink the story of human evolution
+   First, feelings of conflict may impact evolution acceptance in ways
+   that have not been precisely accounted for in prior work. For example,
+   religiosity and evolution knowledge are commonly explored contributors
+   to evolution acceptance (Mead et al. 2015; e.g., Bailey et al. 2011;
+   Barone et al. 2014; Dagher and BouJaoude 1997; Deniz et al. 2008; Dunk
+   et al. 2017; Glaze et al. 2014; Heddy and Nadelson 2013; Lombrozo et
+--
+   (e.g., Barnes and Brownell 2017; Glaze et al. 2014; Rissler et al.
+   2014). However, while it has been shown that individuals may be
+   conflicted about evolution because of their religious beliefs and
+   cultures, they may also be conflicted for many other reasons (and
+   religious respondents may not be conflicted at all). Nehm et al.
+   (2009), for example, found that conflict with evolution had only a
+   modest relationship with religiosity and was more strongly associated
+   with degree of acceptance (Nehm et al. 2009). Additionally,
+   cross-cultural studies in non-religious societies (e.g., China) have
+   found only moderate levels of overall evolution acceptance (Ha et al.
+   2019). Studies such as these indicate that the relationships between
+   religiosity and acceptance require further scrutiny. This work also
+   suggests that conflict with evolution has the potential to be important
+   as (i) a mediator of the relationship between evolution acceptance and
+   religiosity, and (ii) a unique explanatory factor of acceptance that
+   encompasses a more expansive range of conflict measures beyond those
+--
 
-   News
+   Second, broadening the scope of conflict measurement (i.e., perceived
+   family and community conflict with evolution in addition to personal
+   conflict) could reveal contributors to personal conflict as well as
+   their interrelationships. Prior work suggests that the attitudes
+   perceived to be held by members of one’s social groups (e.g., family,
+   friends, teachers, church members) impact personal conflict with–and
+   acceptance of–evolution (e.g., Barnes et al. 2017b; Donnelly et al.
+   2009; Hill 2014; Winslow et al. 2011). Affinity towards certain social
+   groups (e.g., one’s community) could therefore be an important
+   contributor to one’s personal conflict with evolution (e.g., personal
+   level conflict). Individuals could have different causes of personal
+   conflict (e.g., familial, community, religiosity, low evolution
+   knowledge, combinations thereof), which could in turn contribute to
+   different magnitudes of perceived conflict and evolution acceptance.
+   Measuring perceptions of conflict at the family and community scale
+   could therefore help to reveal important and measurable indirect causes
+   of the observed differences in evolution acceptance that have been
+   documented among demographic groups (see Bailey et al. 2011; Metzger et
+   al. 2018; Sbeglia and Nehm 2018). In other words, it is possible that
+--
+   into an appropriate model, it would reveal their unique impacts on
+   personal conflict, and could show that religiosity alone has a smaller
+   relationship (direct or indirect) with evolution acceptance than is
+   currently thought. Therefore, the SECM allows researchers to test if a
+   respondent’s social relationships are additional important contributors
+   (direct or indirect) to personal conflict and evolution acceptance.
+   Overall, much more needs to be known about perceptions of personal,
+   familial, and community conflict and their potential interactions with
+--
+
+   In summary, greater understanding of the scales of conflict with
+   evolutionary ideas has potential for advancing conceptual understanding
+   within the evolution education research community and for enhancing
+   educational practices and outcomes relating to evolution (e.g.,
+   reducing student conflict magnitudes). The Scale of Evolutionary
+   Conflict Measure (SECM) was developed as a first step towards advancing
+   work in this area. Below we begin with a description of the conceptual
+--
+Conceptual framework: measurement
+
+   Evolution education researchers have approached the measurement of
+   latent constructs (like conflict) from different conceptual and
+   methodological perspectives (see Nehm and Mead 2019). Indeed, many
+   types of reliability and validity evidence may be used to support
+   claims about what evolution education instruments are able to measure
+   (Campbell and Nehm 2013; Messick 1995). Validity and reliability
+   evidence for the SECM was gathered in alignment with the Standards for
+--
+   robust measures of the desired latent construct (AERA et al. 2014). A
+   latent construct is a feature that cannot be directly observed (e.g.,
+   evolution acceptance, perceptions of conflict, religiosity). In order
+   to generate robust measurement of a latent construct, specific
+   characteristics of the underlying data must be present. These
+--
+   single topics or identities (e.g., those related to religion) given
+   that too little is currently known about the diverse array of possible
+   ways that conflict with evolution may manifest itself within
+   respondents (Brem et al. 2003). We discuss the details of these core
+   attributes below.
+--
+Scales of conflict: Personal, family, community
+
+   An individual’s perception of conflict with evolution is likely to be
+   situated within broader social contexts, and prior work suggests that
+   the attitudes that are thought to be held by members of one’s social
+   group (e.g., family, friends, teachers, church members) impact personal
+   conflict with evolution (e.g., Barnes et al. 2017b; Donnelly et al.
+   2009; Hill 2014; Winslow et al. 2011). Barnes et al. (2017b), for
+   example, found that parental attitudes towards evolution were strongly
+   associated with evolution acceptance. Likewise, Winslow et al. (2011)
+   demonstrated that parents, and to a lesser extent church members, were
+   strongly associated with personal views of evolution. Hill (2014) found
+   that adolescent respondents who identified as religiously-devoted
+   creationists were twice as likely to increase acceptance of evolution
+   in early adulthood if they had friend networks in which not all members
+   shared the respondent’s religious ideal type (religious ideal type is a
+--
+   2014). These studies suggest that the social groups to which
+   individuals belong are related to personal conflict and overall
+   acceptance of evolution.
+
+   This prior work motivated the conceptualization of the construct
+   ‘perception of evolutionary conflict’ at multiple, broadly defined
+   social scales, namely: personal, family, and community. These three
+   scales seek to capture the diversity of group memberships that a person
+--
+   perspectives, and engage in joint action in geographical locations or
+   settings” (p. 1929). While the associations of family and community
+   with perceptions of conflict and evolution acceptance have been
+   advanced in the literature, researchers have yet to (i) develop
+   measurement instruments that include such relationships or (ii)
+--
+
+   For each scale (personal, family, community), the perception of
+   conflict with evolution was conceptualized as a construct that can be
+   operationalized using several interrelated but distinct variables.
+   Three variables from prior work (e.g., Barnes et al. 2017a, b; Brem et
+--
+   context and may be connected to broader aspects of identity. While
+   relatively little work has focused on the non-religious aspects of
+   beliefs, culture, and values as they relate to evolution acceptance
+   (Brem et al. 2003 is an important exception), substantial work has been
+   carried out on these elements (and their connections to identity) more
+--
+   1995; Southerland et al. 2001). Students hold beliefs about many
+   topics, but religious beliefs in particular have been suggested to be
+   strongly associated with perceptions of evolutionary conflict (Barnes
+   et al. 2017a, 2017b; Rissler et al. 2014; Truong et al. 2018).
+   Religious beliefs refer to the “specific beliefs one holds about the
+   existence and influence of a deity” (Barnes and Brownell 2017, p. 3).
+   Although evolution is often presented as incompatible with religious
+   beliefs (e.g., Coyne 2015; Dawkins 2009), authors have shown that
+   interventions designed to highlight their compatibility were associated
+--
+   assumptions about social complexity, spirituality, perceived fate
+   control, cynicism, and rewards. A person’s culture may bear on
+   perceptions of conflict with evolution if evolutionary theory is viewed
+   as incompatible with shared assumptions or norms within their group,
+   especially if a particular group enforces strict adherence to these
+   norms. In particular, evolutionary ideas have been perceived to be at
+   odds with one’s religious culture (defined as “the sociocultural norms
+   that individuals experience related to religion.” [Barnes and Brownell
+--
+   the literal vs. non-literal interpretations of religious texts could
+   explain the association between individuals’ perceptions of conflict
+   with evolution and their specific religious affiliation (Dagher and
+   BouJaoude 1997). Interventions designed to highlight the compatibility
+   between evolutionary ideas and the perceptions of leaders of religious
+   communities have been shown to be associated with an increase in
+   acceptance (e.g., Manwaring et al. 2015). Other groups may also
+--
+   ethnicity and race are intimately related to, or are a part of the
+   broader concept of culture (Causadias et al. 2018), and some race
+   groups have been found to have lower levels of evolution acceptance
+   than others (Bailey et al. 2011; Metzger et al. 2018; Sbeglia and Nehm
+   2018). Unfortunately, few studies disaggregate evolution acceptance by
+   race (Mead et al. 2015) and it is not currently known how the
+   documented differences in acceptance relate to the magnitude or nature
+   of perceived conflict with evolution. Nevertheless, although culture is
+   known to be an important factor shaping perceptions, the assumption
+   that the role of culture is stronger for minority than majority groups
+--
+   thought and action [idea of agency]”). These values are well-aligned
+   with some of the negative perceived societal implications of
+   evolutionary theory outlined and observed by Brem et al. (2003),
+   including the naive perception that evolution implies a lack of control
+   or self-determination and justifies selfishness and racial or ethnic
+   discrimination. In one study, for example, the majority (56% and 65%,
+   respectively) of college students reported that accepting evolutionary
+   ideas makes it easier to justify racism and ethnic discrimination and
+   harder to think of people as determining their own fate (Brem et al.
+   2003). In summary, the literature supports the roles of beliefs,
+   cultures, and values in the conceptualization of perceptions of
+   conflict with evolution.
+
+Research questions
+--
+       constructs?
+    4. Do measures of conflict derived from the SECM contribute to the
+       explanation of evolution acceptance above and beyond the
+       contributions of religiosity and evolution knowledge?
+
+Materials
+--
+   university in the northeastern United States (N = 1179 for the pre-test
+   [~ 90% participation rate]). All students were enrolled in introductory
+   biology courses in which evolution was a major theme (nearly all units
+   connected to evolution in some way). Participants were asked to self
+   report background characteristics including age, gender, ethnicity or
+   racial identity (White, Asian, or underrepresented minority [URM,
+--
+   and had representation from diverse backgrounds (in terms of race,
+   ethnicity, and gender [see Table ​Table1]).1]). The sample was also
+   chosen because evolution was a core idea in the courses, and
+   accordingly was anticipated to spur thinking about evolution. In both
+   semesters, the nature of science and evolution instruction occurred
+   within the first few weeks of the semester. The pre-survey took place
+   during the nature of science unit but before the evolution unit.
+
+Table 1
+--
+
+   A literature review as well as faculty experts from two fields
+   (evolution education and social psychology) were used to conceptualize
+   a three-scale construct (i.e., perceptions of personal, family, and
+   community conflict), each of which was operationalized using three
+   closed-response items designed to capture perceptions of conflict at
+   each scale between evolutionary ideas and (i) values, (ii) culture, and
+   (iii) beliefs (n = 9 items total). Specifically, each of the nine items
+   of the SECM had the following structure:
+
+   Stem: Evolutionary ideas are at odds or in conflict with…
+
+   Scale: …[my, my family’s, my community’s]…
+--
+   We administered a survey to students at the beginning and end of the
+   semester in Fall 2019 and the beginning of the semester in Spring 2020.
+   The survey included instruments that measure perceptions of evolution
+   conflict (SECM), evolution acceptance (Inventory of Student Evolution
+   Acceptance [I-SEA], Nadelson and Southerland, 2012), evolution
+   knowledge (Conceptual Assessment of Natural Selection [CANS],
+   Kalinowski et al. 2016), religiosity (Cohen et al. 2008), and
+--
+I-SEA
+
+   The I‐SEA measures evolution acceptance (Nadelson and Southerland
+   2012). It contains three item sets (eight items each, 24 total), each
+   representing a different evolutionary scale or taxon: microevolution,
+   macroevolution, and human evolution. The scale and taxonomic
+   differences among item sets may be considered surface features that are
+   irrelevant to expert-like evolutionary reasoning (Nehm and Ha 2011).
+   The items have a five‐option response format (strongly disagree [SD],
+   disagree [D], undecided [U], agree [A], and strongly agree [SA]).
+   Responses were coded from 0–4, with 4 representing the highest
+   evolution acceptance. Items with negative valences were reverse-coded
+   as appropriate. When necessary, adjacent categories were collapsed for
+   those items in which one or more categories lacked responses. Existing
+--
+   taxon to allow students to reason across biological contexts, and to
+   address misconceptions best suited to particular cases (e.g., role of
+   use and disuse, evolution in plants vs. animals, evolution in relation
+   to human disease; see Nehm et al. 2012). Some of the item clusters
+   contain items that are parallel in form but differ in taxon. The items
+--
+   structure validity (e.g., relationships with other variables) (Aron et
+   al. 1992). We modified the instrument to measure respondents' perceived
+   compatibility between their family and evolution ideas (Fig. 2).
+   Respondents in our sample were asked, “Which of the 7 pictures below
+   best describes how compatible you think your family is with
+   evolutionary ideas and concepts?”.
+   An external file that holds a picture, illustration, etc. Object name
+   is 12052_2020_137_Fig2_HTML.jpg
+--
+
+   Example answer options of the modified IOS item to measure respondents'
+   perceived compatibility between their family and evolution ideas.
+   Survey respondents selected one of 7 pairs of overlapping circles
+
+--
+   Schoot et al. 2015). While test respondents are often expected to show
+   a change in their amount of a particular latent trait through time
+   (e.g., knowledge of evolution before and after taking a biology
+   course), the underlying measurement structure of the instrument must
+   remain stable in order for a comparison of latent measures to be
+--
+
+   To address RQ3, we correlated latent measures of each respondent’s
+   perception of their family’s conflict with evolution ideas (i.e., SECM
+   Family item set) with the modified IOS item using a Spearman
+   correlation. As described above, the modified IOS item asked about
+   perceived compatibility between respondents’ families and their
+   evolutionary ideas.
+
+RQ4: Does the SECM contribute to the explanation of evolution acceptance
+above and beyond the contributions of religiosity and evolution knowledge?
+
+   To address RQ4, we shifted our approach from a Rasch framework to a
+--
+   members of a particular group may align their perceptions and
+   perspectives with those of the group (Kahan et al. 2007), which is a
+   phenomenon that has been explicitly connected to evolution acceptance,
+   evolution rejection, and science denial more broadly (Walker et al.
+   2017^1). Furthermore, exposures to social groups during
+   human development are thought to calibrate peoples' perceptual systems
+--
+   social identity (e.g., the ideas and perspectives held by the social
+   group with which one identifies) may have a causal relationship with
+   one’s personal perceptions of conflict with evolution. Other aspects of
+   identity (e.g., one’s values, cultures, and beliefs) may be indicative
+   of (i.e. manifestations of) one’s latent level of perceived conflict
+   with evolution.
+
+Description of the measurement model
+--
+   were modeled among items with parallel forms, and among items that
+   focused on the same taxon. Taxon is a feature of instrument items that
+   has been hypothesized to impact evolutionary reasoning and test
+   performance (Kalinowski et al. 2016; Opfer et al. 2012). The I-SEA was
+   modeled as three factors (microevolution, macroevolution, and human
+   evolution) as recommended by the instrument’s authors (Nadelson and
+   Southerland, 2012), and error covariances were modeled among items with
+   negative valence, among items about human microevolution, and among
+   items about human macroevolution, all of which have been hypothesized
+   as possible additional dimensions within the instrument (see Sbeglia
+   and Nehm 2019). Religiosity was modeled as one factor and error
+--
+   latent traits of family and community conflict perception were modeled
+   as being causal to personal conflict perception, and personal conflict
+   perception was modeled as causal to the three scales of evolution
+   acceptance. Family and community conflict were allowed to covary and
+   the three factors of evolution acceptance were allowed to covary.
+   Background variables (i.e., plan, prior biology coursework, level, ELL
+   status, reading and writing ability, gender, race), evolution
+   knowledge, and religiosity were modeled as having structural paths to
+   all factors within the model, which removes the linear effects of these
+--
+   With these controls in place, we estimated the significance of the
+   causal paths among the scales of conflict, and between the personal
+   conflict and the scales of evolution acceptance by generating
+   asymptotic standard errors of parameter estimates using the Delta
+   method (Rosseel 2020b). This analysis allowed the investigation of the
+   unique contribution of the causal paths between the SECM and evolution
+   acceptance, above and beyond religiosity and evolution knowledge (RQ3).
+
+Fit statistics
+--
+   The mean of raw SECM scores was 1.99/6 (sd = 2.09) for personal
+   conflict, 2.60/6 (sd = 2.42) for family conflict, and 2.51/6 (sd =
+   2.16) for community conflict. The three faculty experts in evolution
+   education and social psychology agreed that the items in the SECM were
+   clearly worded and appropriately connected to and representative of the
+   construct and the existing literature. The mean raw score of the I-SEA
+   was 26.57/32 (sd = 4.5) for microevolution, 25.62/32 (sd = 4.24) for
+   macroevolution, and 24.69/32 (sd = 5.52) for human evolution. The mean
+   raw score for the CANS was 10.69/24 (sd = 4.68), and religiosity was
+   15.97/36 (sd = 10.18). Below we answer each of our research questions
+--
+RQ1: Does the SECM adhere to well-accepted criteria of robust measurement?
+
+   We used responses on the SECM to model evolutionary conflict perception
+   as a one-dimensional and as a three-dimensional construct (i.e., a
+   separate construct for personal conflict, family conflict, and
+--
+
+   The SECM demonstrated acceptable precision and high reliability in its
+   measurement of perceptions of conflict with evolution. The Wright map
+   indicated that respondents were variable in their latent levels of the
+   construct at all scales, and the Thurstonian thresholds spanned much of
+--
+   thresholds for all items within each scale were generally well-spaced
+   at the higher end of the trait (i.e., at intermediate and high levels
+   of the perception of conflict with evolution), producing only small
+   gaps in measurement (see thresholds 2–4). However, the thresholds at
+   the lower end of the trait (i.e., at low levels of perceived conflict
+   with evolution) had larger gaps among them, likely resulting in less
+   precise measurement (see thresholds 1–2). Although the precision with
+   which respondents could be clustered into bins at the lower end of the
+--
+
+   We found no evidence of DIF across time for any scale of
+   evolutionary conflict in the SECM (t-ratio < 2 for all interactions
+   between items and time), suggesting measurement invariance for time in
+   our sample. Therefore, the SECM appeared to measure the same construct
+--
+   There was a significant positive correlation between the latent
+   measures of each respondent’s perception of their family’s conflict
+   with evolution ideas (i.e., SECM Family item set) and the modified
+   Inclusion of Others in Self [IOS] item (Spearman correlation: r = 0.50,
+   p < 0.001).
+
+RQ4: Do measures of conflict derived from the SECM contribute to the
+explanation of evolution acceptance above and beyond the contributions of
+religiosity and evolution knowledge?
+
+   We used SEM (specifically LVPM) to evaluate the hypothesized causal
+   relationships among the SECM scales, and between the SECM and evolution
+   acceptance (Fig. 6). Our measurement model had acceptable fit to the
+   data (see Table ​Table3)3) and no posteriori changes to the model were
+--
+
+   Latent variable path model with standardized path coefficients (B).
+   Evolution knowledge, religiosity, and background variables were modeled
+   as having causal links (to each SECM factor (i.e., personal
+   conflict, family conflict, community conflict) and each I-SEA factor
+   (i.e., microevolution acceptance, macroevolution acceptance, human
+   evolution acceptance) (represented here by a box with arrows emerging
+   from it), which effectively controlled for the effects of these
+   variables on all path coefficients. Assuming a correct underlying
+   model, the path coefficients shown in the model reflect the magnitude
+   of the causal impact of these variables, holding all other variables
+   constant (including evolution knowledge, religiosity, and background
+   variables). The disturbances for each factor are represented by a
+   circled D. Significance levels: * < 0.05; ** < 0.01; *** < 0.001
+--
+   Assuming a correct underlying model, the perceptions of family and
+   community positively impacted perceptions of personal conflict with
+   evolution, which subsequently negatively impacted evolution acceptance.
+   Specifically, controlling for all other modeled variables (including
+   background variables, religiosity and evolution knowledge), a one
+   standard deviation increase in perceptions of family conflict and
+   community conflict caused, on average, a 0.54 and 0.15 standard
+--
+   acceptance (Fig. 6, Table ​Table4).4). Therefore, personal conflict had
+   a moderately-sized causal impact on all scales of acceptance that was
+   above and beyond the contributions of evolution knowledge and
+   religiosity.
+
+--
+   Personal conflict ~  Community conflict 0.142 0.030 4.700  < 0.001
+   0.148
+   Microevolution acceptance ~  Personal conflict − 0.311 0.028 − 11.040
+   < 0.001 − 0.467
+   Macroevolution acceptance ~  Personal conflict − 0.321 0.028 − 11.559
+   < 0.001 − 0.476
+   Human evolution acceptance ~  Personal conflict − 0.518 0.031 − 16.731
+   < 0.001 − 0.588
+   Open in a separate window
+--
+
+   The purpose of this study was to advance empirical and conceptual work
+   in evolution education by developing an instrument capable of
+   productively measuring perceptions of conflict with evolution (SECM).
+   Below we discuss findings regarding validity evidence and instrument
+   functioning and the potential of the SECM to clarify the factors
+   impacting evolution acceptance. Table ​Table55 summarizes the findings
+   according to validity evidence category.
+
+--
+
+   Multiple scales and variables relating to the perception of conflict
+   with evolution have been proposed in the literature over the past
+   several decades. The development of the SECM involved content domain
+   delineation, construct conceptualization, and operationalization as a
+--
+   The items were also found to be measurement invariant across time,
+   suggesting that respondents interpreted items similarly before and
+   after evolution instruction. Therefore, the SECM could be used to make
+   meaningful inferences about changes in perceptions of conflict with
+   evolution in response to instruction or targeted interventions. Several
+   researchers have proposed frameworks for guiding the development of
+   interventions that target the compatibility of evolution and religion
+   (e.g., Barnes and Brownell 2017) and the bounded nature of science
+   (e.g., Nelson et al. 2019). Results from researchers who have
+   implemented curricular interventions aimed at reducing conflict
+   (particularly between religion and evolution) suggest that it is a
+   malleable trait that can be successfully impacted by instruction (e.g.,
+   Barnes and Brownell 2017; Nehm and Schonfeld 2007; Truong et al. 2018).
+--
+   and modestly with the Inclusion of Others in Self (IOS) instrument,
+   which measured the perception of compatibility between family and
+   evolutionary ideas. This modest correlation provides convergent
+   validity evidence for the SECM, but also suggests that the perception
+   of conflict (or incompatibility) (targeted by the SECM) and the
+   perception of compatibility (targeted by the IOS) are not necessarily
+   direct opposites of one another from a measurement perspective. More
+   work on the perception of compatibility (or harmony) with evolution
+   could offer different inferences and is clearly warranted.
+
+--
+   be valuable for other aspects of the SECM.
+
+Using the SECM to advance evolution education research
+
+   In order to illustrate how the SECM could advance understanding of the
+   complex web of variables connected to evolution acceptance, SEM was
+   used to evaluate hypothesized causal relationships among the SECM
+   scales, and between the SECM and evolution acceptance. Several other
+   variables shown to be important in the literature (e.g., knowledge,
+   religiosity) were also collected to examine if and how the SECM
+--
+   conflict, with family showing a stronger and modest impact, and (ii)
+   personal conflict had a significant and modest causal impact on all
+   scales of evolution acceptance above and beyond the contributions of
+   religiosity, evolution knowledge, and background variables. We discuss
+   the implications of each of these findings below.
+
+   It is notable that both family and community conflict had unique casual
+   impacts on personal perceptions of conflict with evolution. Few studies
+   have directly compared the strength of the association of community and
+   family on personal conflict. Studies that have collected data at both
+--
+   as key roles in determining their perspectives on STEM-related career
+   choice. Therefore, taken together, these studies suggest that
+   perceptions of community conflict with evolution may be an important
+   contributor to the personal conflict perception of URMs. Furthermore,
+   if the experience of conflict within the classroom is generally agreed
+--
+   the differential contributors to personal conflict should be an
+   important target for study and intervention. Reducing perceived
+   conflict with evolution may therefore be an important goal that extends
+   beyond its relationship with evolution acceptance. This is an avenue of
+   research that has not to our knowledge been explored empirically.
+
+--
+   these reasons, conflict may negatively impact students’ well-being and
+   academic performance. We therefore join other authors (e.g., Mead et
+   al. 2015) in advocating for the disaggregation of data in evolution
+   education by key identity variables (such as race) that could
+   contribute to feelings of conflict and exclusion.
+
+   We also report that personal conflict had a significant and modest
+   causal impact on all scales of evolution acceptance above and beyond
+   the contributions of religiosity, evolution knowledge, and background
+   variables. Human evolution acceptance showed the largest impact of
+   personal conflict, which indicated that while the perception of
+   conflict with evolution was important for all scales of evolution
+   acceptance, it may be most important for the acceptance of human
+   evolution. These results suggest that the perception of conflict with
+   evolution may in fact impact evolution acceptance in a manner that is
+   not accounted for by other available variables. These results do not
+   suggest that all theoretically important variables have been accounted
+--
+   could be an important contributor to perceptions of conflict.^2 As a
+   next step, researchers could consider incorporating the SECM into more
+   complicated SEM models that treat evolution knowledge and religiosity
+   (as well as other theoretically important variables, such as religious
+   denomination [see Jensen et al. 2019^3]) as part of the structural
+--
+
+   The SECM is a first (and admittedly incomplete) step towards more
+   completely operationalizing and measuring conflict with evolution;
+   different conceptual frameworks and measurement approaches than we have
+   used may be equally valuable. Although our psychometric work was fairly
+--
+   extent to which the outcomes or benefits proposed by the test are
+   realized (AERA et al. 2014). For example, if decreasing the perception
+   of conflict with evolution decreases anxiety, increases feelings of
+   belonging in the classroom, and increases evolution acceptance, then
+   reducing conflict through targeted interventions should display these
+   outcomes. Furthermore, if low evolution acceptance and the perception
+   of conflict with evolution are barriers for students persisting in
+   biology majors and seeking evolution-related careers, level of conflict
+   should be a significant indirect or direct predictor of these outcomes.
+   Clearly, this study is one very small step towards advancing work on
+   measuring conflict with evolution.
+
+Conclusion
+
+   This paper introduced the SECM, an easy-to-administer instrument
+   designed to measure perceptions of conflict with evolution at multiple
+   scales. The SECM embodies three attributes discussed in the literature:
+   (i) it addresses the hierarchical nature of human social structures
+--
+   the subscales may be implemented separately or together, and used in
+   several theory-driven orientations. Generating robust measures of the
+   perception of conflict with evolution using the SECM has the potential
+   for advancing understanding of the factors accounting for evolution
+   acceptance, and for informing practices and outcomes relating to
+   evolution education.
+
+Supplementary information
+--
+       doi: 10.18848/1836-6236/CGP/v02i03/51265. [CrossRef] [Google
+       Scholar]
+     * Barnes ME, Dunlop HM, Sinatra GM, Hendrix TM. “Accepting evolution
+       means you can’t believe in god”: atheistic perceptions of evolution
+       among college biology students. CBE Life Sci Educ. 2020
+       doi: 10.1187/cbe.19-05-0106. [PMC free article] [PubMed] [CrossRef]
+       [Google Scholar]
+     * Barnes ME, Brownell SE. A call to use cultural competence when
+       teaching evolution to religious college students: introducing
+       religious cultural competence in evolution education (ReCCEE) CBE
+       Life Sci Educ. 2017 doi: 10.1187/cbe.17-04-0062. [PMC free article]
+       [PubMed] [CrossRef] [Google Scholar]
+     * Barnes ME, Elser J, Brownell SE. Impact of a short evolution module
+       on students’ perceived conflict between religion and evolution. Am
+       Biol Teacher. 2017;79:104–111. doi: 10.1525/abt.2017.79.2.104.
+       [CrossRef] [Google Scholar]
+     * Barnes ME, Evans EM, Hazel A, Brownell SE, Nesse RM. Teleological
+       reasoning, not acceptance of evolution, impacts students’ ability
+       to learn natural selection. Evol Educ Outreach. 2017;10:7.
+       doi: 10.1186/s12052-017-0070-6. [CrossRef] [Google Scholar]
+--
+       doi: 10.1187/cbe.16-04-0153. [PMC free article] [PubMed] [CrossRef]
+       [Google Scholar]
+     * Barone LM, Petto AJ, Campbell BC. Predictors of evolution
+       acceptance in a museum population. Evol Educ Outreach. 2014;7:1–11.
+       doi: 10.1186/s12052-014-0023-2. [CrossRef] [Google Scholar]
+--
+       doi: 10.1037/0033-295X.110.2.203. [PubMed] [CrossRef] [Google
+       Scholar]
+     * Brem SK, Ranney M, Schindel J. Perceived consequences of evolution:
+       college students perceive negative personal and social impact in
+       evolutionary theory. Sci Educ. 2003;87:181–206.
+       doi: 10.1002/sce.10105. [CrossRef] [Google Scholar]
+     * Causadias JM. Do we overemphasize the role of culture in the
+--
+       Sci Educ. 2016 doi: 10.1187/cbe.16-01-0036. [PMC free article]
+       [PubMed] [CrossRef] [Google Scholar]
+     * Clough MP. Diminish students' resistance to biological evolution.
+       Am Biol Teacher. 1994;56:409–415. doi: 10.2307/4449871. [CrossRef]
+       [Google Scholar]
+--
+       [Google Scholar]
+     * Dagher ZR, BouJaoude S. Scientific views and religious beliefs of
+       college students: the case of biological evolution. J Res Sci
+       Teach. 1997;34:429–445.
+       doi: 10.1002/(SICI)1098-2736(199705)34:5<429::AID-TEA2>3.0.CO;2-S.
+--
+       Scholar]
+     * Deniz H, Donnelly LA, Yilmaz I. Exploring the factors related to
+       acceptance of evolutionary theory among Turkish preservice biology
+       teachers: toward a more informative conceptual ecology for
+       biological evolution. J Res Sci Teach. 2008;45:420–443.
+       doi: 10.1002/tea.20223. [CrossRef] [Google Scholar]
+     * Dewsbury BM, Taylor C, Reid A, Viamonte C. Career choice among
+--
+       [PubMed] [CrossRef] [Google Scholar]
+     * Donnelly LA, Kazempour M, Amirshokoohi A. High school students’
+       perceptions of evolution instruction: acceptance and evolution
+       learning experiences. Res Sci Educ. 2009;39:643–660.
+       doi: 10.1007/s11165-008-9097-6. [CrossRef] [Google Scholar]
+     * Dunk RDP, Petto AJ, Wiles JR, Campbell BC. A multifactorial
+       analysis of acceptance of evolution. Evol Educ Outreach. 2017
+       doi: 10.1186/s12052-017-0068-0. [CrossRef] [Google Scholar]
+     * Gelfand MJ, Nishii LH, Raver JL. On the nature and importance of
+--
+       doi: 10.1037/0021-9010.91.6.1225. [PubMed] [CrossRef] [Google
+       Scholar]
+     * Glaze AL, Goldston MJ, Dantzler J. Evolution in the southeastern
+       USA: factors influencing acceptance and rejection in pre-service
+       science teachers. Int J Sci Math Educ. 2014;13:1189–1209.
+--
+       1993;13:21–43. doi: 10.1177/0272431693013001002. [CrossRef] [Google
+       Scholar]
+     * Graves J. African Americans in evolutionary science: where we have
+       been, and what's next. Evol Educ Outreach. 2019;12:18.
+       doi: 10.1186/s12052-019-0110-5. [CrossRef] [Google Scholar]
+     * Griffith JA, Brem SK. Teaching evolutionary biology: pressures,
+       stress, and coping. J Res Sci Teach. 2004;41:791–809.
+       doi: 10.1002/tea.20027. [CrossRef] [Google Scholar]
+--
+       [CrossRef] [Google Scholar]
+     * Ha M, Baldwin BC, Nehm RH. The long-term impacts of short-term
+       professional development: science teachers and evolution. Evol Educ
+       Outreach. 2015;8:11–34. doi: 10.1186/s12052-015-0040-9. [CrossRef]
+       [Google Scholar]
+     * Ha M, Haury DL, Nehm RH. Feeling of certainty: uncovering a missing
+       link between knowledge and acceptance of evolution. J Res Sci
+       Teach. 2012;49:95–121. doi: 10.1002/tea.20449. [CrossRef] [Google
+       Scholar]
+     * Ha M, Wei X, Wang J, Hou D, Nehm RH. Chinese pre-service biology
+       teachers’ evolutionary knowledge, reasoning patterns, and
+       acceptance levels. Int J Sci Educ. 2019;41:628–651.
+       doi: 10.1080/09500693.2019.1572936. [CrossRef] [Google Scholar]
+--
+       [Google Scholar]
+     * Heddy BC, Nadelson LS. A global perspective of the variables
+       associated with acceptance of evolution. Evol Educ Outreach.
+       2012;5:412–418. doi: 10.1007/s12052-012-0423-0. [CrossRef] [Google
+       Scholar]
+     * Hill JP. Rejecting evolution: the role of religion, education, and
+       social networks. J Sci Study Relig. 2014;53(3):575–594.
+       doi: 10.1111/jssr.12127. [CrossRef] [Google Scholar]
+--
+     * Konnemann C, Höger C, Asshoff R, Hammann M, Rieß W. A role for
+       epistemic insight in attitude and belief change? Lessons from a
+       cross-curricular course on evolution and creation. Res Sci Educ.
+       2018;48(6):1187–1204. doi: 10.1007/s11165-018-9783-y. [CrossRef]
+       [Google Scholar]
+--
+       Publishing; 2010. [Google Scholar]
+     * Lombrozo T, Thanukos A, Weisberg M. The importance of understanding
+       the nature of science for accepting evolution. Evol Educ Outreach.
+       2008;1:290–298. doi: 10.1007/s12052-008-0061-8. [CrossRef] [Google
+       Scholar]
+--
+       Scholar]
+     * Manwaring KF, Jensen JL, Gill RA, Bybee SM. Influencing highly
+       religious undergraduate perceptions of evolution: Mormons as a case
+       study. Evo Edu Outreach. 2015;8:23. doi: 10.1186/s12052-015-0051-6.
+       [CrossRef] [Google Scholar]
+--
+       pp. 2828–2840. [Google Scholar]
+     * Mead LS, Clarke JB, Forcino F, Graves JL. Factors influencing
+       minority student decisions to consider a career in evolutionary
+       biology. Evol EducOutreach. 2015;8:1–11.
+       doi: 10.1186/s12052-015-0034-7. [CrossRef] [Google Scholar]
+--
+       doi: 10.1037/0003-066X.50.9.741. [CrossRef] [Google Scholar]
+     * Metzger K, Montplaisir D, Haines D, Nickodem K. Investigating
+       undergraduate health sciences students’ acceptance of evolution
+       using MATE and GAENE. Evol Educ Outreach. 2018;11:10.
+       doi: 10.1186/s12052-018-0084-8. [CrossRef] [Google Scholar]
+--
+       [Google Scholar]
+     * Nadelson LS, Southerland S. A more fine-grained measure of
+       student’s acceptance of evolution: Development of the Inventory of
+       Student Evolution Acceptance–I-SEA. Int J Sci Educ.
+       2012;34:1637–1666. doi: 10.1080/09500693.2012.702235. [CrossRef]
+       [Google Scholar]
+     * Nehm RH, Ha M. Item feature effects in evolution assessment.
+       Journal of Research in Science Teaching. 2011;48:237–256.
+       doi: 10.1002/tea.20400. [CrossRef] [Google Scholar]
+     * Nehm RH, Mead LS. Evolution assessment: introduction to the special
+       issue. Evol Educ Outreach. 2019;12:7.
+       doi: 10.1186/s12052-019-0098-x. [CrossRef] [Google Scholar]
+     * Nehm RH, Schonfeld IS. Does increasing biology teacher knowledge of
+       evolution and the nature of science lead to greater preference for
+       the teaching of evolution in schools? J Sci Teacher Educ.
+       2007;18:699–723. doi: 10.1007/s10972-007-9062-7. [CrossRef] [Google
+       Scholar]
+     * Nehm RH, Kim SY, Sheppard K. Academic preparation in biology and
+       advocacy for teaching evolution: biology versus non-biology
+       teachers. Sci Educ. 2009;93:1122–1146. doi: 10.1002/sce.20340.
+       [CrossRef] [Google Scholar]
+--
+       doi: 10.1525/abt.2012.74.2.6. [CrossRef] [Google Scholar]
+     * Nelson CE, Scharmann LC, Beard J, Flammer LI. The nature of science
+       as a foundation for fostering a better understanding of evolution.
+       Evol Educ Outreach. 2019;12:6. doi: 10.1186/s12052-019-0100-7.
+       [CrossRef] [Google Scholar]
+--
+       Test. Int J Sci Educ. 2010;10:1373–1405. [Google Scholar]
+     * Opfer JE, Nehm RH, Ha M. Cognitive foundations for science
+       assessment design: knowing what students know about evolution. J
+       Res Sci Teach. 2012;49:744–777. doi: 10.1002/tea.21028. [CrossRef]
+       [Google Scholar]
+     * Paz-y-Miño CG, Espinosa A. New England faculty and college students
+       differ in their views about evolution, creationism, intelligent
+       design, and religiosity. Evol Educ Outreach. 2011;4:323–342.
+       doi: 10.1007/s12052-010-0298-x. [PMC free article] [PubMed]
+       [CrossRef] [Google Scholar]
+     * Paz-y-Minos G, Espinosa A. Acceptance of evolution increases with
+       student academic level: a comparison between a secular and
+       religious college. Evol Educ Outreach. 2009;2:655–675.
+--
+       [CrossRef] [Google Scholar]
+     * Rissler LJ, Duncan SI, Caruso NM. The relative importance of
+       religion and education on university students’ views of evolution
+       in the Deep South and state science standards across the United
+       States. Evol Educ Outreach. 2014;7:24.
+--
+       version 2.10. https://CRAN.R-project.org/package=TAM; 2018.
+     * Romine WL, Walter EM, Bosse E, Todd AN. Understanding patterns of
+       evolution acceptance—a new implementation of the measure of
+       acceptance of the theory of evolution. Journal of Research in
+       Science Teaching. 2017;54:642–671. doi: 10.1002/tea.21380.
+       [CrossRef] [Google Scholar]
+--
+     * Rosseel Y. The lavaan tutorial. Belgium: Ghent University; 2020.
+       [Google Scholar]
+     * Sbeglia GC, Nehm RH. Measuring evolution acceptance using the
+       GAENE: Influences of gender, race, degree plan, and instruction.
+       Evol Educ Outreach. 2018 doi: 10.1186/s12052-018-0091-9. [CrossRef]
+       [Google Scholar]
+     * Sbeglia GC, Nehm RH. Do you see what I-SEA? A Rasch analysis of the
+       psychometric properties of the inventory of student evolution
+       acceptance. Sci Educ. 2019;103:287–316. doi: 10.1002/sce.21494.
+       [CrossRef] [Google Scholar]
+     * Scharmann LC, Harris WM. Teaching evolution: understanding and
+       applying the nature of science. J Res Sci Teach. 1992;29:375–388.
+       doi: 10.1002/tea.3660290406. [CrossRef] [Google Scholar]
+--
+       Scholar]
+     * Sinclair A, Pendarvis MP, Baldwin B. The relationship between
+       college zoology students’ beliefs about evolutionary theory and
+       religion. J Res Dev Educ. 1997;30:118–125. [Google Scholar]
+     * Smith MU, Siegel H, McInerney JD. Foundational issues in evolution
+       education. Sci Educ. 1995;4:23–46. doi: 10.1007/BF00486589.
+       [CrossRef] [Google Scholar]
+--
+       doi: 10.1177/0146167201275007. [CrossRef] [Google Scholar]
+     * Truong JM, Barnes ME, Brownell SE. Can six minutes of culturally
+       competent evolution education reduce students’ level of perceived
+       conflict between evolution and religion? Am Biol Teacher.
+       2018;80:106–115. doi: 10.1525/abt.2018.80.2.106. [CrossRef] [Google
+       Scholar]
+--
+       student acceptance of politically controversial scientific
+       conclusions? Res Teach. 2017;47(2):46–56. [Google Scholar]
+     * Winslow MW, Staver JR, Scharmann LC. Evolution and personal
+       religious belief: Christian university biology-related majors’
+       search for reconciliation. J Res Sci Teach. 2011;48:1026–1049.
+--
+     __________________________________________________________________
+
+   Articles from Evolution are provided here courtesy of Springer
+     __________________________________________________________________
+

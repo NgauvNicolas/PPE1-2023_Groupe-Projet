@@ -1,143 +1,360 @@
-   #New Scientist - Home
+   ____________________ (BUTTON)
+     * Games
+     * Featured
+     * Pop culture
+     * Writing tips
+     *
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-B92N
-
-   (BUTTON) Close
+   (BUTTON)
+   (BUTTON)
+     * Games
+          + Daily Crossword
+          + Word Puzzle
+          + Word Finder
+          + All games
+     * Featured
+          + Word of the Day
+          + Synonym of the Day
+          + Word of the Year
+          + New words
+          + Language stories
+          + All featured
+     * Pop culture
+          + Slang
+          + Emoji
+          + Memes
+          + Acronyms
+          + Gender and sexuality
+          + All pop culture
+     * Writing tips
+          + Grammar Coach™
+          + Writing hub
+          + Grammar essentials
+          + Commonly confused
+          + All writing tips
+     * Account
 
    Advertisement
+   (BUTTON) Skip to
 
-   Skip to content
-   Sign in
-   ____________________ (BUTTON)
-   [ ]
-
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
-
-   Subscribe now
+   Skip to
+   (BUTTON)
    (BUTTON)
 
-   Explore by section
-     * News
-     * Features
-     * Newsletters
-     * Podcasts
-     * Video
-     * Comment
-     * Culture
-     * Crosswords
-     * |
-     * This week's magazine
-
-   Explore by subject
-     * Health
-     * Space
-     * Physics
-     * Technology
-     * Environment
-     * Mind
-     * Humans
-     * Life
-     * Mathematics
-     * Chemistry
-     * Earth
-     * Society
-
-   Explore our products and services
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
-
-   Subscribe now
-
-   Subscribe now
-
-How can evolution happen without external reality?
-
-   Published 4 March 2020
-
-   From Paul Mealing, Melbourne, Australia
-
-   Your collection of articles on reality was informative (1 February, p
-   39). Most provocative was Alison George reporting Donald Hoffman’s
-   claim that nothing we perceive resembles reality and we are “born with
-   a virtual reality headset on”. He says evolution gave us this to
-   simplify things so we had “what we need to play the game of life”, and
-   that what we perceive is an abstract data structure that represents
-   something that “doesn’t even exist in space and time”. The implication
-   that evolution therefore doesn’t occur in space and time creates
-   problems for me. Hoffman goes on to say that evolution has shaped us to
-   see things that we have to take seriously, to see what we need to stay
-   alive, but that “does not, logically, permit us to say that we’re
-   seeing the truth”.
-
-   But evolution occurs by natural selection, which requires an
-   environment for biological agents to interact with. Assuming that we
-   are born with such a VR headset, the “data structure” it creates must
-   surely closely resemble the external environment it interacts with in
-   space and time – otherwise we wouldn’t survive.
-
-   Issue no. 3272 published 7 March 2020
-   New Scientist Default Image
-     * Subscribe
-     * View in the app
-     * Buy In Print
+   noun (1)
+   as in development, progress
 
    Advertisement
 
-Sign up to our weekly newsletter
+   View definitions for evolution
 
-   Receive a weekly dose of discovery in your inbox! We'll also keep you
-   up to date with New Scientist events and special offers.
-   Sign up
+evolution
 
-   Download the app
-   Download on the apple apps store Download on Google play
+   (BUTTON)
+   (BUTTON)
 
-Find us on social media
+   noun as in development, progress
+   (BUTTON) Compare Synonyms
+   (BUTTON) Synonyms (BUTTON) Antonyms
 
-     * Find us on Instagram Instagram
-     * Find us on Facebook Facebook
-     * Find us on X / Twitter X / Twitter
-     * Find us on Tiktok Tiktok
-     * Find us on LinkedIn LinkedIn
+   Strongest matches
+     * change
+     * enlargement
+     * expansion
+     * growth
+     * progression
+     * transformation
 
-Subscriptions
+   Strong matches
+     * flowering
+     * increase
+     * maturation
+     * unfolding
 
-     * Subscriber benefits
-     * Gift
-     * Student & graduate
-     * Educational
-     * Corporate
+   Weak matches
+     * evolvement
+     * natural process
+     * working out
 
-Support
+Discover More
 
-     * Help
-     * About us
-     * Advertise
-     * Write for us
+Related Words
 
-Tools
+   Words related to evolution are not direct synonyms, but are associated
+   with the word evolution. Browse related words to learn more about word
+   associations.
+   development
 
-     * Events
-     * Science Jobs
-     * CoLab
-     * Syndication
-     * RSS feeds
+   nounas in growth
+     * adding to
+     * addition
+     * adulthood
+     * advance
+     * advancement
+     * advancing
+     * augmentation
+     * augmenting
+     * boost
+     * buildup
+     * chrysalis
+     * developing
+     * elaborating
+     * enlargement
+     * evolution
+     * evolvement
+     * evolving
+     * expansion
+     * flowering
+     * hike
+     * improvement
+     * increase
+     * increasing
+     * making progress
+     * maturation
+     * maturing
+     * maturity
+     * ongoing
+     * ontogenesis
+     * ontogeny
+     * perfecting
+     * progress
+     * progression
+     * reinforcement
+     * reinforcing
+     * ripening
+     * spread
+     * spreading
+     * unfolding
+     * unraveling
+     * upgrowth
+     * upping
 
-Legal and privacy
+   emergence
 
-     * Contact us
-     * Privacy policy
-     * Cookie policy
-     * Terms & conditions
-     * (BUTTON) Cookie Settings
+   nounas in rise
+     * appearance
+     * development
+     * emanation
+     * evolution
+     * issue
+     * materialization
 
-© Copyright New Scientist Ltd.
+   evolvement
 
-   (BUTTON) Back to the top
+   nounas in development
+     * evolution
+     * growth
+     * maturation
+     * progress
+     * progression
+     * transformation
+     * unfolding
+
+   expansion
+
+   nounas in growth
+     * amplification
+     * augmentation
+     * breadth
+     * development
+     * diffusion
+     * dilation
+     * distance
+     * distension
+     * enlargement
+     * evolution
+     * expanse
+     * extension
+     * increase
+     * inflation
+     * magnification
+     * maturation
+     * multiplication
+     * opening out
+     * space
+     * spread
+     * stretch
+     * swelling
+     * unfolding
+     * unfurling
+
+   formation
+
+   nounas in composition, establishment
+     * accumulation
+     * architecture
+     * arrangement
+     * compilation
+     * configuration
+     * constitution
+     * construction
+     * creation
+     * crystallization
+     * deposit
+     * design
+     * development
+     * dispersal
+     * disposition
+     * embodiment
+     * evolution
+     * fabrication
+     * figure
+     * forming
+     * generation
+     * genesis
+     * grouping
+     * induction
+     * makeup
+     * manufacture
+     * order
+     * organization
+     * pattern
+     * production
+     * rank
+     * structure
+     * synthesis
+
+   Viewing 5/27 related words
+   (BUTTON) Show 10 more
+
+   Advertisement
+
+Discover More
+
+Example Sentences
+
+   Their evolution has been going on for longer than I ever expected, and
+   I am very proud of it.
+   From Eater
+
+   Fortune Connect is the next step in the evolution of our purpose.
+   From Fortune
+
+   So we have evolution to thank for shielding us from complete
+   self-knowledge.
+   From Nautilus
+
+   Through a gradual evolution, over many years of trial and error, we
+   found an approach for making this work.
+   From Freakonomics
+
+   Convergent evolution means there aren't even very many double-deckers
+   left, and most planes carry their engines under the wings.
+   From Ars Technica
+
+   Human evolution has left men as deeply wired for emotional connections
+   to children as women are.
+   From The Daily Beast
+
+   This view is known as “theistic evolution” and is widely embraced by
+   educated evangelicals.
+   From The Daily Beast
+
+   The moment where they enter the spirit portal symbolizes their
+   evolution from being friends to being a couple.
+   From The Daily Beast
+
+   The traditional wisdom is “action is character,” and their evolution is
+   one, with a slight edge to character.
+   From The Daily Beast
+
+   The evolution of style is oft studied but rarely understood in any
+   comprehensive manner.
+   From The Daily Beast
+
+   The evolution theory alleges that they were evolved, slowly, by natural
+   processes out of previously existing matter.
+   From Project Gutenberg
+
+   To fix on any one stage in such an evolution, detach it, affirm it, is
+   to wrest a true scripture to its destruction.
+   From Project Gutenberg
+
+   The biological doctrine of evolution was misinterpreted and misapplied
+   to social policy.
+   From Project Gutenberg
+
+   In the flowers, both by day and night, there is a constant absorption
+   of oxygen, and evolution of carbonic acid.
+   From Project Gutenberg
+
+   That at some period of Man's gradual evolution from the brute, God
+   found Man guilty of some sin, and cursed him.
+   From Project Gutenberg
+
+Synonym of the day
+
+   December 30, 2023Which one is a synonym for decision?
+   resolutionmotivationcranium
+   Get the answer
+
+   Start each day with the Synonym of the Day in your inbox!
+   ____________________
+   (BUTTON) Sign Up
+
+   By clicking "Sign Up", you are accepting Dictionary.com Terms &
+   Conditions and Privacy Policies.
+
+   On this page you'll find 48 synonyms, antonyms, and words related to
+   evolution, such as: change, enlargement, expansion, growth,
+   progression, and transformation.
+
+   From Roget's 21st Century Thesaurus, Third Edition Copyright © 2013 by
+   the Philip Lief Group.
+
+   Advertisement
+   carambola ad carousel
+
+   Advertisement
+
+   Advertisement
+
+   Browse
+     #
+     aa
+     bb
+     cc
+     dd
+     ee
+     ff
+     gg
+     hh
+     ii
+     jj
+     kk
+     ll
+     mm
+     nn
+     oo
+     pp
+     qq
+     rr
+     ss
+     tt
+     uu
+     vv
+     ww
+     xx
+     yy
+     zz
+
+   [ab34ff65bbd3138890c7.svg] [e8d8d7d566d7f7f23acd.svg]
+   [63571b52499ec491a39b.svg]
+     About
+     Careers
+     Shop
+
+     Contact us
+     Advertise with us
+     Cookies, terms, & privacy
+     (BUTTON) Do not sell my info
+
+   Follow us
+
+   Get the Synonym of the Day every day!
+   ____________________ (BUTTON) Sign up
+
+   By clicking "Sign Up", you are accepting Dictionary.com Terms &
+   Conditions and Privacy Policies.
+   My account
+   © 2023 Dictionary.com, LLC

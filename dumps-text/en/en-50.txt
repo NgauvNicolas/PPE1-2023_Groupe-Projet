@@ -1,245 +1,2387 @@
-   #New Scientist - Home
+   (BUTTON) Back to Top Skip to main content
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-B92N
+   U.S. flag
 
+   An official website of the United States government
+   (BUTTON) Here's how you know
+   Dot gov
+
+   The .gov means it’s official.
+   Federal government websites often end in .gov or .mil. Before sharing
+   sensitive information, make sure you’re on a federal government site.
+   Https
+
+   The site is secure.
+   The https:// ensures that you are connecting to the official website
+   and that any information you provide is encrypted and transmitted
+   securely.
+
+   NIH NLM Logo
+   Log in (BUTTON) Show account info
    (BUTTON) Close
 
-   Advertisement
+Account
 
-   Skip to content
-   Sign in
-   ____________________ (BUTTON)
-   [ ]
+   Logged in as:
+   username
+     * Dashboard
+     * Publications
+     * Account settings
+     * Log out
 
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
+   Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
 
-   Subscribe now
+   (BUTTON)
+   (BUTTON)
+   Search PMC Full-Text Archive ____________________ (BUTTON) Search in
+   PMC
+     * Advanced Search
+     * User Guide
+
    (BUTTON)
 
-   Explore by section
-     * News
-     * Features
-     * Newsletters
-     * Podcasts
-     * Video
-     * Comment
-     * Culture
-     * Crosswords
-     * |
-     * This week's magazine
-
-   Explore by subject
-     * Health
-     * Space
-     * Physics
-     * Technology
-     * Environment
-     * Mind
-     * Humans
-     * Life
-     * Mathematics
-     * Chemistry
-     * Earth
-     * Society
-
-   Explore our products and services
-     * Shop
-     * Courses
-     * Events
-     * Tours
-     * Jobs
-
-   Subscribe now
-
-   Subscribe now
-
-Natural selection
-
-   The process by which some organisms in a population survive and
-   reproduce, while others do not, based on their bodies and behaviour
-
-   By Michael Marshall
-
-   giraffes
-
-   Masai giraffe (Giraffa camelopardalis tippelskirchi), four giraffes
-   stand in savannah, Kenya, Masai Mara National Park
+     * Journal List
+     * Proc Natl Acad Sci U S A
+     * v.119(6); 2022 Feb 8
+     * PMC8833143
 
-   blickwinkel/F. Stober/Alamy
+Other Formats
+
+     * PubReader
+     * PDF (692K)
+
+Actions
 
-   Natural selection is the process by which some organisms in a
-   population survive and reproduce, while others do not, based on their
-   bodies and behaviour. It is one of the processes by which species
-   change from generation to generation, and is a crucial element of the
-   theory of evolution.
+     * (BUTTON) Cite
+     *
 
-   A classic example of natural selection at work is the origin of
-   giraffes’ long necks. The ancestors of modern giraffes were animals
-   similar to deer or antelope, with necks of ordinary length. However,
-   because the trees in their habitat were tall, those giraffes with
-   slightly longer necks had an advantage over their shorter-necked
-   fellows. The longer-necked giraffes reproduced more, so in the next
-   generation longer necks were more common. Over many generations this
-   process produced giraffes as they are today.
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
 
-   This process of natural selection was first described by Charles Darwin
-   in 1859 in On the Origin of Species. It helps explain how the many
-   varied species on Earth could be descended from a single ancestral
-   species.
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
 
-   Natural selection is sometimes summed up as “survival of the fittest”.
-   This is true but can be misleading. The word “fittest” does not
-   necessarily refer to physical fitness. Rather, it means how well-suited
-   an organism is to its environment and lifestyle. The fittest organisms
-   are not necessarily the fastest or strongest: often they are the most
-   cooperative.
+        Share
 
-   Advertisement
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
 
-   Natural selection can produce surprising results. It can produce more
-   complex organisms, for example creating multicellular organisms from
-   single-celled ones, but it can also simplify: for example, fish species
-   that live in dark caves lose their eyes. Furthermore, when
-   circumstances change natural selection can swiftly reverse course.
-
-   However, natural selection has its limits. In particular, because it is
-   not guided by a consciousness, it has no foresight and can lead species
-   to evolve down paths that seem advantageous but actually lead to
-   extinction.
-
-   There is also more to evolution than natural selection. Species can
-   change in a more undirected way by a process called genetic drift, in
-   which certain genetic variants become more common despite not having
-   any particular advantage. When a species is not under strong selection,
-   genes can vary more freely and this sometimes leads to the emergence of
-   remarkable new traits. There is also sexual selection, in which animals
-   choose their potential mates not because of their actual fitness, but
-   on the basis of showy ornaments like peacock’s tails or complex songs.
-   Finally, many organisms have cultural behaviours such as tool use, and
-   these feed back onto traditional evolutionary processes like natural
-   selection.
-
-   Evolution is also chaotic, meaning that the changes it produces are not
-   always predictable. This is partly because it relies on random
-   mutations to produce the raw material on which natural selection can
-   act. More controversially, it has been argued that natural selection
-   has a kind of memory that allows it to swiftly recreate old solutions
-   when they are needed.
-
-   Nowadays there is also a new force in evolution: humans. We are
-   exerting new selection pressures on many species, changing them in
-   unpredictable ways.
-
-   Advertisement
-
-Sign up to our weekly newsletter
-
-   Receive a weekly dose of discovery in your inbox! We'll also keep you
-   up to date with New Scientist events and special offers.
-   Sign up
-
-More on Natural selection
-
-   A bearded seal on the ice in Svalbard
-
-Life
-
-Arctic seals have weird bones in their noses that help them stay warm
-
-   News
-
-   Free
-
-Humans
-
-Genome analysis reveals genetic diversity of Indigenous Australians
-
-   News
-
-   Subscriber-only
-
-Humans
-
-The 2023 discoveries that made us rethink the story of human evolution
-
-   News
-
-   Free
-
-Related articles
-
-   Evolution
-
-Definition
-
-Evolution
-
-   Free
-
-   Genetics
-
-Definition
-
-Genetics
-
-   Free
-
-   Alexander von Humboldt
-
-People in Science
-
-Alexander von Humboldt
-
-   Free
-
-   Advertisement
-
-   Download the app
-   Download on the apple apps store Download on Google play
-
-Find us on social media
-
-     * Find us on Instagram Instagram
-     * Find us on Facebook Facebook
-     * Find us on X / Twitter X / Twitter
-     * Find us on Tiktok Tiktok
-     * Find us on LinkedIn LinkedIn
-
-Subscriptions
-
-     * Subscriber benefits
-     * Gift
-     * Student & graduate
-     * Educational
-     * Corporate
-
-Support
-
-     * Help
-     * About us
-     * Advertise
-     * Write for us
-
-Tools
-
-     * Events
-     * Science Jobs
-     * CoLab
-     * Syndication
-     * RSS feeds
-
-Legal and privacy
-
-     * Contact us
-     * Privacy policy
-     * Cookie policy
-     * Terms & conditions
-     * (BUTTON) Cookie Settings
-
-© Copyright New Scientist Ltd.
-
-   (BUTTON) Back to the top
+     * Journal List
+     * Proc Natl Acad Sci U S A
+     * v.119(6); 2022 Feb 8
+     * PMC8833143
+
+   As a library, NLM provides access to scientific literature. Inclusion
+   in an NLM database does not imply endorsement of, or agreement with,
+   the contents by NLM or the National Institutes of Health.
+   Learn more: PMC Disclaimer | PMC Copyright Notice
+
+   Logo of pnas
+
+   Proc Natl Acad Sci U S A. 2022 Feb 8; 119(6): e2120037119.
+   Published online 2022 Feb 4. doi: 10.1073/pnas.2120037119
+   PMCID: PMC8833143
+   PMID: 35121666
+
+Toward a theory of evolution as multilevel learning
+
+   Vitaly Vanchurin,^ a ,^ b ,^ 1 Yuri I. Wolf,^ a Mikhail I. Katsnelson,^
+   c and Eugene V. Koonin^ a ,^ 1
+
+Vitaly Vanchurin
+
+   ^aNational Center for Biotechnology Information, National Library of
+   Medicine, Bethesda, MD 20894;
+
+   ^bDuluth Institute for Advanced Study, Duluth, MN 55804;
+   Find articles by Vitaly Vanchurin
+
+Yuri I. Wolf
+
+   ^aNational Center for Biotechnology Information, National Library of
+   Medicine, Bethesda, MD 20894;
+   Find articles by Yuri I. Wolf
+
+Mikhail I. Katsnelson
+
+   ^cInstitute for Molecules and Materials, Radboud University, Nijmegen
+   6525AJ, The Netherlands
+   Find articles by Mikhail I. Katsnelson
+
+Eugene V. Koonin
+
+   ^aNational Center for Biotechnology Information, National Library of
+   Medicine, Bethesda, MD 20894;
+   Find articles by Eugene V. Koonin
+   Author information Article notes Copyright and License information PMC
+   Disclaimer
+   ^aNational Center for Biotechnology Information, National Library of
+   Medicine, Bethesda, MD 20894;
+   ^bDuluth Institute for Advanced Study, Duluth, MN 55804;
+   ^cInstitute for Molecules and Materials, Radboud University, Nijmegen
+   6525AJ, The Netherlands
+   ^1To whom correspondence may be addressed. Email:
+   moc.liamg@niruhcnav.ylativ or vog.hin.mln.ibcn@ninook.
+   Contributed by Eugene V. Koonin; received November 2, 2021; accepted
+   January 3, 2022; reviewed by Steven Frank and Eörs Szathmáry
+
+   Author contributions: V.V., Y.I.W., M.I.K., and E.V.K. designed
+   research; V.V. performed research; and V.V., Y.I.W., and E.V.K. wrote
+   the paper.
+   Accepted 2022 Jan 3.
+   Copyright © 2022 the Author(s). Published by PNAS.
+   This open access article is distributed under Creative Commons
+   Attribution License 4.0 (CC BY).
+
+Associated Data
+
+   Supplementary Materials
+          Supplementary File.
+
+          pnas.2120037119.sapp.pdf (580K)
+
+          GUID: FC05BE8F-B101-491F-8107-FD1EC8F9447E
+
+   Data Availability Statement
+          There are no data underlying this work.
+
+Significance
+
+   Modern evolutionary theory gives a detailed quantitative description of
+   microevolutionary processes that occur within evolving populations of
+   organisms, but evolutionary transitions and emergence of multiple
+   levels of complexity remain poorly understood. Here, we establish the
+   correspondence among the key features of evolution, learning dynamics,
+   and renormalizability of physical theories to outline a theory of
+   evolution that strives to incorporate all evolutionary processes within
+   a unified mathematical framework of the theory of learning. According
+   to this theory, for example, replication of genetic material and
+   natural selection readily emerge from the learning dynamics, and in
+   sufficiently complex systems, the same learning phenomena occur on
+   multiple levels or on different scales, similar to the case of
+   renormalizable physical theories.
+   Keywords: theory of learning, loss function, natural selection, major
+   evolutionary transitions, origin of life
+
+Abstract
+
+   We apply the theory of learning to physically renormalizable systems in
+   an attempt to outline a theory of biological evolution, including the
+   origin of life, as multilevel learning. We formulate seven fundamental
+   principles of evolution that appear to be necessary and sufficient to
+   render a universe observable and show that they entail the major
+   features of biological evolution, including replication and natural
+   selection. It is shown that these cornerstone phenomena of biology
+   emerge from the fundamental features of learning dynamics such as the
+   existence of a loss function, which is minimized during learning. We
+   then sketch the theory of evolution using the mathematical framework of
+   neural networks, which provides for detailed analysis of evolutionary
+   phenomena. To demonstrate the potential of the proposed theoretical
+   framework, we derive a generalized version of the Central Dogma of
+   molecular biology by analyzing the flow of information during learning
+   (back propagation) and predicting (forward propagation) the environment
+   by evolving organisms. The more complex evolutionary phenomena, such as
+   major transitions in evolution (in particular, the origin of life),
+   have to be analyzed in the thermodynamic limit, which is described in
+   detail in the paper by Vanchurin et al. [V. Vanchurin, Y. I. Wolf, E.
+   V. Koonin, M. I. Katsnelson, Proc. Natl. Acad. Sci. U.S.A. 119,
+   10.1073/pnas.2120042119 (2022)].
+
+   What is life? If this question is asked in the scientific rather than
+   in the philosophical context, a satisfactory answer should assume the
+   form of a theoretical model of the origin and evolution of complex
+   systems that are identified with life (1). NASA has operationally
+   defined life as follows: “Life is a self-sustaining chemical system
+   capable of Darwinian evolution” (2, 3). Apart from the insistence on
+   chemistry, long-term evolution that involves (random) mutation,
+   diversification, and adaptation is, indeed, an intrinsic, essential
+   feature of life that is not apparent in any other natural phenomena.
+   The problem with this definition, however, is that natural (Darwinian)
+   selection itself appears to be a complex rather than an elementary
+   phenomenon (4). In all evolving organisms we are aware of, for natural
+   selection to kick off and to sustain long-term evolution, an essential
+   condition is replication of a complex digital information carrier (a
+   DNA or RNA molecule). The replication fidelity must be sufficiently
+   high to provide for the differential replication of emerging mutants
+   and survival of the fittest ones (this replication fidelity level is
+   often referred to as Eigen threshold) (5). In modern organisms,
+   accurate replication is ensured by elaborate molecular machineries that
+   include not only replication and repair enzymes but also, the entire
+   metabolic network of the cell, which supplies energy and building
+   blocks for replication. Thus, the origin of life is a typical
+   chicken-and-egg problem (or catch-22); accurate replication is
+   essential for evolution, but the mechanisms ensuring replication
+   fidelity are themselves products of complex evolutionary processes (6,
+   7).
+
+   Because genome replication that underlies natural selection is itself a
+   product of evolution, origin of life has to be explained outside of the
+   traditional framework of evolutionary biology. Modern evolutionary
+   theory, steeped in population genetics, gives a detailed and arguably,
+   largely satisfactory account of microevolutionary processes: that is,
+   evolution of allele frequencies in a population of organisms under
+   selection and random genetic drift (8, 9). However, this theory has
+   little to say about the actual history of life, especially the
+   emergence of new levels of biological complexity, and nothing at all
+   about the origin of life.
+
+   The crucial feature of biological complexity is its hierarchical
+   organization. Indeed, multilevel hierarchies permeate biology: from
+   small molecules to macromolecules; from macromolecules to functional
+   complexes, subcellular compartments, and cells; from unicellular
+   organisms to communities, consortia, and multicellularity; from simple
+   multicellular organisms to highly complex forms with differentiated
+   tissues; and from organisms to communities and eventually, to
+   eusociality and to complex biocenoses involved in biogeochemical
+   processes on the planetary scale. All these distinct levels jointly
+   constitute the hierarchical organization of the biosphere.
+   Understanding the origin and evolution of this hierarchical complexity,
+   arguably, is one of the principal goals of biology.
+
+   In large part, evolution of the multilevel organization of biological
+   systems appears to be driven by solving optimization problems, which
+   entails conflicts or trade-offs between optimization criteria at
+   different levels or scales, leading to frustrated states, in the
+   language of physics (10–12). Two notable cases in point are
+   parasite–host arms races that permeate biological evolution and makes
+   major contributions to the diversity and complexity of life-forms
+   (13–16) and multicellular organization of complex organisms, where the
+   tendency of individual cells to reproduce at the highest possible rate
+   is countered by the control of cell division imposed at the organismal
+   level (17, 18).
+
+   Two tightly linked but distinct fundamental concepts that lie
+   effectively outside the canonical narrative of evolutionary biology
+   address evolution of biological complexity: major transitions in
+   evolution (MTEs) (19–21) and multilevel selection (MLS) (22–27). Each
+   MTE involves the emergence of a new level of organization, often
+   described as an evolutionary transition in individuality. A clear-cut
+   example is the evolution of multicellularity, whereby a new level of
+   selection emerges, namely selection among ensembles of cells rather
+   than among individual cells. Multicellular life-forms (even counting
+   only complex organisms with multiple cell types) evolved on many
+   independent occasions during the evolution of life (28, 29), implying
+   that emergence of new levels of complexity is a major evolutionary
+   trend rather than a rare, chance event.
+
+   The MLS remains a controversial concept, presumably because of the link
+   to the long-debated subject of group selection (27, 30). However, as a
+   defining component of MTE, MLS appears to be indispensable. A proposed
+   general mechanism behind the MTE, formulated by analogy with the
+   physical theory of the origin of patterns (for example, in glass-like
+   systems), involves competing interactions at different levels and the
+   frustrated states, such interactions cause (12). In the physical theory
+   of spin glasses, frustrations result in nonergodicity and enable
+   formation and persistence of long-term memory: that is, history (31,
+   32). By contrast, ergodic systems have no true history because they
+   reach all possible states during their evolution (at least in the large
+   time limit), and thus, the only content of quasihistory of such systems
+   is the transition from less probable to more probable states for purely
+   combinatorial reasons: that is, entropy increase (33). As emphasized in
+   Schroedinger’s seminal book (34), even if only in general terms, life
+   is based on “negentropic” processes, and frustrations at different
+   levels are necessary for these processes to take off and persist (12).
+
+   The origin of cells, which can and probably should be equated with the
+   origin of life, was the first and most momentous transition at the
+   onset of biological evolution, and as such, it is outside the purview
+   of evolutionary biology sensu stricto. Arguably, the theoretical
+   investigation of the origin of life can be feasible only within the
+   framework of an envelope theory that would incorporate biological
+   evolution as a special case. It is natural to envisage such a theory as
+   encompassing all nonergodic processes occurring in the universe, of
+   which life is a special case, emerging under conditions that remain to
+   be investigated and defined.
+
+   Here, in pursuit of a maximally general theory of evolution, we adopt
+   the formalism of the theory of machine learning (35). Importantly,
+   learning here is perceived in the maximally general sense as an
+   objective process that occurs in all evolving systems, including but
+   not limited to biological ones (36). As such, the analogy between
+   learning and selection appears obvious. Both types of processes involve
+   trial and error and acceptance or rejection of the results based on
+   some formal criteria; in other words, both are optimization processes
+   (22, 37, 38). Here, we assess how far this analogy extends by
+   establishing the correspondence between key features of biological
+   evolution and concepts as well as the mathematical formalism of
+   learning theory. We make the case that loss function, which is central
+   to the learning theory, can be usefully and generally employed as the
+   equivalent of the fitness function in the context of evolution. Our
+   original motivation was to explain major features of biological
+   evolution from more general principles of physics. However, after
+   formulating such principles and embedding them within the mathematical
+   framework of learning, we find that the theory can potentially apply to
+   the entire history of the evolving universe (36), including physical
+   processes that have been taking place since the big bang and chemical
+   processes that directly antedated and set the stage for the origin of
+   life. The central propositions of the evolution theory outlined here
+   include both key physical principles (namely, hierarchy of scale,
+   frequency gaps, and renormalizability) (39, 40) and major features of
+   life (such as MLS, persistence of genetic parasites, and programmed
+   cell death).
+
+   We show that learning in a complex environment leads to separation of
+   scales, with trainable variables splitting into at least two classes:
+   faster- and slower-changing ones. Such separation of scales underlies
+   all processes that involve the formation of complex structure in the
+   universe from the scale of an atom to that of clusters of galaxies. We
+   argue that, for the emergence of life, at least three temporal scales,
+   which correspond to environmental, phenotypic, and genotypic variables,
+   are essential. In evolving learning systems, the slowest-changing
+   variables are digitized and acquire the replication capacity, resulting
+   in differential reproduction depending on the loss (fitness) function
+   value, which is necessary and sufficient for the onset of evolution by
+   natural selection. Subsequent evolution of life involves emergence of
+   many additional scales, which correspond to MTE. Hereafter, we use the
+   term “evolution” to describe temporal changes of living and lifelike
+   and prebiotic systems (organisms), whereas the more general term
+   “dynamics” refers to temporal processes in other physical systems.
+
+   At least since the publication of Schroedinger’s book, the possibility
+   has been discussed that, although life certainly obeys the laws of
+   physics, a different class of laws unique to biology could exist.
+   Often, this putative physics of life is associated with emergence
+   (41–43), but the nature of the involved emergent phenomena, to our
+   knowledge, has not been clarified until very recently (36). Here, we
+   outline a general approach to modeling and studying evolution as
+   multilevel learning, supporting the view that a distinct type of
+   physical theory, namely the theory of learning (35, 36), is necessary
+   to investigate the evolution of complex objects in the universe, of
+   which evolution of life is a specific, even if highly remarkable form.
+
+1. Fundamental Principles of Evolution
+
+   In this section, we attempt to formulate the minimal universal
+   principles that define an observable universe, in which evolution is
+   possible and perhaps, inevitable. Our analysis started from the major
+   features of biological evolution discussed in the next section and
+   proceeded toward the general principles. However, we begin the
+   discussion with the latter for the sake of transparency and generality.
+
+   What are the requirements for a universe to be observable? The
+   possibility to make meaningful observations implies a degree of order
+   and complexity in the observed universe emerging from evolutionary
+   processes, and such evolvability itself seems to be predicated on
+   several fundamental principles. It has to be emphasized that
+   “observation” and “learning” here by no means imply “mind” or
+   “consciousness” but a far more basic requirement. To learn and survive
+   in an environment, a system (or observer) must predict, with some
+   minimal but sufficient degree of accuracy, the response of that
+   environment to various actions and to be able to choose such actions
+   that are compatible with the observer’s continued existence in that
+   environment. In this sense, any life-form is an observer, and so are
+   even inanimate systems endowed with the ability of feedback reaction.
+   In this most general sense, observation is a prerequisite for
+   evolution. We first formulate the basic principles underlying
+   observability and evolvability and then, give the pertinent comments
+   and explanations.
+     * P1. Loss function. In any evolving system, there exists a loss
+       function of time-dependent variables that is minimized during
+       evolution.
+     * P2. Hierarchy of scales. Evolving systems encompass multiple
+       dynamical variables that change on different temporal scales (with
+       different characteristic frequencies).
+     * P3. Frequency gaps. Dynamical variables are split among distinct
+       levels of organization separated by sufficiently wide frequency
+       gaps.
+     * P4. Renormalizability. Across the entire range of organization of
+       evolving systems, a statistical description of faster-changing
+       (higher-frequency) variables is feasible through the
+       slower-changing (lower-frequency) variables.
+     * P5. Extension. Evolving systems have the capacity to recruit
+       additional variables that can be utilized to sustain the system and
+       the ability to exclude variables that could destabilize the system.
+     * P6. Replication. In evolving systems, replication and elimination
+       of the corresponding information-processing units (IPUs) can take
+       place on every level of organization.
+     * P7. Information flow. In evolving systems, slower-changing levels
+       absorb information from faster-changing levels during learning and
+       pass information down to the faster levels for prediction of the
+       state of the environment and the system itself.
+
+   The first principle (P1) is of special importance as the starting point
+   for a formal description of evolution as a learning process. The very
+   existence of a loss function implies that the dynamical system of the
+   universe or simpler, the universe itself is a learning (evolving)
+   system (36). Effectively, here we assume that stability or survival of
+   any subsystem of the universe is equivalent to solving an optimization
+   or learning problem in the mathematical sense and that there is always
+   something to learn. Crucially, for solving complex optimization
+   problems dependent on many variables, the best and in fact, the only
+   efficient method is selection implemented in various stochastic
+   algorithms (Markov Chain Monte Carlo, stochastic gradient descent,
+   genetic algorithms, and more). All evolution can be perceived as an
+   implementation of a stochastic learning algorithm as well. Put another
+   way, learning is optimization by trial and error, and so is evolution.
+
+   The remaining principles P2 to P7 provide sufficient conditions for
+   observers of our type (that is, complex life-forms) to evolve within a
+   learning system. In particular, P2, P3, and P4 comprise the necessary
+   conditions for observability of a universe by any observer, whereas P5,
+   P6, and P7 represent the defining conditions for the origin of life of
+   our type (hereafter, we omit the qualification for brevity). More
+   precisely, P2 and P3 provide for the possibility of at least a simple
+   form of learning of the environment (fast-changing variables) by an
+   observer (slow-changing variables) and hence, the emergence of complex
+   organization of the slow-changing variables. P4 corresponds to the
+   physical concept of renormalizability, or renormalization group (39,
+   40), whereby the same macroscopic equations, albeit with different
+   parameters, govern processes at different levels or scales, thus
+   limiting the number of relevant variables, constraining the complexity,
+   and allowing for a coarse-grained description. This principle ensures a
+   renormalizable universe capable of evolution and amenable to
+   observation. Together, P2 to P4 define a universe, in which partial or
+   approximate knowledge of the environment (in other words, coarse
+   graining) is both attainable and useful for the survival of evolving
+   systems (observers). In a universe where P4 does not apply (that is,
+   one with nonrenormalizable physical laws), what happens at the
+   macroscopic level will critically depend on the details of the
+   processes at the microlevel. In a universe where P2 and P3 do not
+   apply, the separation of the micro- and macrolevels itself would not be
+   apparent. In such a universe, it would be impossible to survive without
+   first discovering fundamental physical laws, whereas living organisms
+   on our planet have evolved for billions of years before starting to
+   study quantum physics.
+
+   Principles P5, P6, and P7 endow evolving systems with the access to
+   more advanced algorithms for learning and predicting the environment,
+   paving the way for the evolution of complex systems, including
+   eventually, life. These principles jointly underlie the emergence of
+   the crucial phenomenon of selection (44, 45). In its simplest form,
+   selection is for stability and persistence of evolving, learning
+   systems (46). Learning and survival are tightly linked because survival
+   is predicated on the system’s ability to extract information from the
+   environment, and this ability depends on the stability of the system on
+   timescales required for learning. Roughly, a system cannot survive in a
+   world where the properties of the environment change faster than the
+   evolving system can learn them. According to P5, evolving systems
+   consume resources (such as food), which themselves could be produced by
+   other evolving systems, to be utilized as building blocks and energy
+   sources, which are required for learning. This principle embodies
+   Schroedinger’s vision that “organisms feed on negentropy” (34). Under
+   P6, replication of the carriers of slowly changing variables becomes
+   the basis of long-term persistence and memory in evolving systems. This
+   principle can be viewed as a learning algorithm built on P3, whereby
+   the timescales characteristic of an individual organism and of
+   consecutive generations are separated. This principle excludes from
+   consideration certain imaginary forms of life: for example, Stanislav
+   Lem’s famous Solaris (47). Finally, P7 describes how information flows
+   between different levels in the multilevel learning, giving rise to a
+   generalized Central Dogma of molecular biology, which is discussed in
+   Generalized Central Dogma of Molecular Biology.
+
+2. Fundamental Evolutionary Phenomena
+
+   In this section, we link the fundamental principles of evolution P1 to
+   P7 formulated above to the basic phenomenological features of life (E1
+   to E10) and seek equivalencies in the theory of learning. The list
+   below is organized by first formulating a biological feature, and then,
+   it is organized by 1) tracing the connections to the fundamental
+   principles and 2) adding more general comments.
+
+E1. IPUs.
+
+   Discrete IPUs (that is, self- vs. nonself-differentiation and
+   discrimination) exist at all levels of organization. All biological
+   systems at all levels of organization, such as genes, cells, organisms,
+   populations, and so on up to the level of the entire biosphere, possess
+   some degree of self-coherence that separates them, first and foremost,
+   from the environment at large and from other similar-level IPUs.
+     * 1)
+       The existence of IPUs is predicated on the fundamental principles
+       P1 to P4. The wide range of temporal scales (P2) in dynamical
+       systems and gaps between the scales (P3) naturally enable the
+       separation of slower- and faster-changing components. In
+       particular, renormalizability (P4) applies to the hierarchy of
+       IPUs. The statistical predictability of the higher frequencies
+       allows the IPUs to decrease the loss function of the lower
+       frequencies, despite the much slower reaction times.
+     * 2)
+       Separation of (relatively) slow-changing prebiological IPUs from
+       the (typically) fast-changing environment kicked off the most
+       primitive form of prebiological selection: selection for stability
+       and persistence (survivor bias). More stable, slower-changing IPUs
+       win in the competition and accumulate over time, increasing the
+       separation along the temporal axis as the boundary between the IPUs
+       and the environment grows sharper. Additional key phenomena, such
+       as utilization of available environmental resources (P5) and the
+       stimulus–response mode of information exchange (P7), stem from the
+       flow of matter and information across this boundary and the ensuing
+       separation of internal and external physicochemical processes.
+       Increasing self- vs. nonself-differentiation, combined with
+       replication of the carriers of slow-changing variables (P6), sets
+       the stage for competition between evolving entities and for the
+       onset of the ultimate evolutionary phenomenon, natural selection
+       (E6).
+
+E2. Frustration.
+
+   All complex, dynamical systems face multidimensional and multiscale
+   optimization problems, which generically lead to frustration resulting
+   from conflicting objectives at different scales. This is a key,
+   intrinsic feature of all such systems and a major force driving the
+   advent of increasing multilevel complexity (12). Frustration is an
+   extremely general physical phenomenon that is by no account limited to
+   biology but rather, occurs already in much simpler physical systems,
+   such as spin and structural glasses, the behavior of which is
+   determined by competing interactions so that a degree of complexity is
+   attained (31, 32).
+     * 1)
+       The multiscale organization of the universe (P2) provides the
+       physical foundation for the ubiquity of frustrated states that
+       typically arises whenever there is a conflict (trade-off) between
+       short- and long-range optimization problems. Frustrated
+       interactions yield multiwell potential landscapes, in which no
+       single state is substantially fitter than numerous other local
+       optima. Multiparameter and multiscale optimization of the loss
+       function on such a landscape involves nonergodic
+       (history-dependent) dynamics, which is characteristic of complex
+       systems.
+     * 2)
+       IPUs face conflicting interactions starting from the most primitive
+       prebiological state (12). Indeed, the separation of any system from
+       the environment immediately results in the conflict of
+       permeability; a stronger separation enhances the self- vs.
+       nonself-differentiation and thus, increases the stability of the
+       system, but it compromises information and matter exchange with the
+       environment, limiting the potential for growth. In biology,
+       virtually all aspects of the organismal architecture and operation
+       are subject to such frustrations or trade-offs: the conflict
+       between the fidelity and speed of information transmission at all
+       levels, between specialization and generalism, between the
+       individual- and population-level benefits, and more. The ubiquity
+       of frustrations and the fundamental impossibility of their
+       resolution in a universally optimal manner are perpetual drivers of
+       evolution and give rise to evolutionary transitions, attaining
+       otherwise unreachable levels of complexity.
+
+   There are two distinct types of frustrations, spatial and temporal.
+   Spatial frustration is similar to the frustration that is commonly
+   analyzed in condensed matter systems, such as spin glasses (31, 32). In
+   this case, the spatially local and nonlocal interacting terms have
+   opposite signs so that the equilibrium state is determined by the
+   balance between the terms. In neural networks, a neuron (like a single
+   spin) might have a local objective (such as binary classification of
+   incoming signals) but is also a part of a neural network (like a spin
+   network), which has its own global objective (such as predicting its
+   boundary conditions). For a particular neuron, optimization of the
+   local objective can conflict with the global objective, causing spatial
+   frustration. Temporal frustration emerges because in the context of
+   multilevel learning, the same neuron becomes a part of higher-level
+   IPUs that operate at different temporal scales (frequencies). Then, the
+   optimal state of the neuron with respect to an IPU operating at a given
+   timescale can differ from the optimal state of the same neuron with
+   respect to another IPU operating at a different timescale (36).
+   Similarly to the spatial frustrations, temporal frustrations cannot be
+   completely resolved, but an optimal balance between different spatial
+   and temporal scales is achievable and represents a local equilibrium of
+   the learning system.
+
+E3. Multilevel Hierarchy.
+
+   The hierarchy of multiple levels of organization is an intrinsic,
+   essential feature of evolving biological systems in terms of both the
+   structure of these systems (genes, genomes, cells, organisms, kin
+   groups, populations, species, communities, and more) and the substrate
+   the evolutionary forces act upon.
+     * 1)
+       Renormalizability of the universe (P4) implies that there is no
+       inherently preferred level of organization, for which everything
+       above and below would behave as a homogenous ensemble. Even if some
+       levels of organization come into existence before others (for
+       example, organisms before genes or unicellular organisms before
+       multicellular ones), the other levels will necessarily emerge and
+       consolidate subsequently.
+     * 2)
+       The hierarchy of the structural organization of biological systems
+       was apparent to scholars from the earliest days of science.
+       However, MLS was and remains a controversial subject in
+       evolutionary biology (23, 26, 27). Intuitively and as implied by
+       the Price equation (48), MLS should emerge in all evolving systems
+       as long as the higher-level agency of selection possesses a
+       sufficient degree of self- vs. nonself-differentiation. In
+       particular, if organisms of a given species form populations that
+       are sufficiently distinct genetically and interact competitively,
+       population-level selection will ensue. Evolution of biological
+       systems is driven by conflicting interactions (E2) that tend to
+       lead to ever-increasing complexity (12). This trend further feeds
+       the propensity of these systems to form new levels of organization
+       and is associated with evolutionary transitions that involve the
+       advent of new units of selection at multiple levels of complexity.
+       Thus, E3 can be considered a major consequence of E2.
+
+E4. Near Optimality.
+
+   Stochastic optimization or the use of stochastic optimization
+   algorithms is the only feasible approach to complex optimization, but
+   it guarantees neither finding the globally optimal solution nor
+   retention of the optimal configuration when and if it is found. Rather,
+   stochastic optimization tends to rapidly find local optima and keeps
+   the system in their vicinity, sustaining the value of the loss function
+   at a near-optimal level.
+     * 1)
+       According to P1, the dynamics of a learning (that is,
+       self-optimizing) system is defined by a loss function (35, 36).
+       When there is a steep gradient in the loss function, a system
+       undergoing stochastic optimization rapidly descends in the right
+       direction. However, because of frustrations that inevitably arise
+       from interactions in a complex system, actual local peaks on the
+       landscape are rarely reached, and the global peak is effectively
+       unreachable. Learning systems tend to get stalled near local saddle
+       points where changes along most of the dimensions either lead “up”
+       or are “flat” in terms of the loss function, with only a small
+       minority of the available moves decreasing the loss function (49).
+     * 2)
+       The extant biological systems (cells, multicellular organisms, and
+       higher-level entities, such as populations and communities) are
+       products of about 4 billion y of the evolution of life, and as
+       such, they are highly, albeit not completely, optimized. As a
+       consequence, the typical distribution of the effects of heritable
+       changes in biological evolution comprises numerous deleterious
+       changes, comparatively rare beneficial changes and common neutral
+       changes, and those with fitness effects below the noise level (50).
+       The preponderance of neutral and slightly deleterious changes
+       provides for evolution by genetic drift whereby a population moves
+       on the same level or even slightly downward on the fitness
+       landscape, potentially reaching another region of the landscape
+       where beneficial mutations are available (51, 52).
+
+E5. Diversity of Near-Optimal Solutions.
+
+   Solutions on the loss function landscapes that arise in complex
+   optimization problems span numerous local peaks of comparable heights.
+     * 1)
+       The existence of multiple peaks of comparable heights in the loss
+       function landscapes is a fundamental physical property of
+       frustrated systems (E2), whereas the pervasiveness of frustration
+       itself is a consequence of the multiscale and multilevel
+       organization of the universe (P2). Frustrated dynamical systems are
+       nonergodic, which from the biological perspective, means that, once
+       separated, evolutionary trajectories diverge rather than converge.
+       Because most of these trajectories traverse parts of the genotype
+       space with comparable fitness values, competition rarely results in
+       complete dominance of one lineage over the others but rather,
+       generates rich diversity.
+     * 2)
+       In terms of evolutionary biology, fitness landscapes are rugged,
+       with multiple adaptive peaks of comparable fitness (53, 54), and a
+       salient trend during evolution is the spread of life-forms across
+       multiple peaks as opposed to concentrating on one or few. Evolution
+       pushes evolving organisms to explore and occupy all available
+       niches and try all possible strategies. In the context of machine
+       learning, identical neural networks can start from the same initial
+       state but for example, under the stochastic gradient descent
+       algorithm, would generically evolve toward different local minima.
+       Thus, the diversity of solutions is a generic property of learning
+       systems. More technically, the diversification is due to the
+       entropy production through the dynamics of the neutral trainable
+       variables (see the next section).
+
+E6. Separation of Phenotype from Genotype.
+
+   This quintessential feature of life embodies two distinct (albeit
+   inseparable in known organisms) symmetry-breaking phenomena: 1)
+   separation between dedicated digital information storage media (stable,
+   rarely updatable, tending to distributions with discrete values) and
+   mostly analog processing devices and 2) asymmetry of the information
+   flow within the IPUs whereby the genotype provides “instructions” for
+   the phenotype, whereas the phenotype largely loses the ability to
+   update the genotype directly. The separation between the information
+   storage and processing subsystems is a prerequisite for efficient
+   evolution that probably emerged early on the path from prebiotic
+   entities to the emergence of life.
+     * 1)
+       The separation between phenotype and genotype extends the scale
+       separation on the intra-IPU level as follows from the fundamental
+       principles P1 to P4. Intermediate-frequency components of an IPU
+       (phenotype) buffer the slowest components from direct interaction
+       with the environment (the highest-frequency variables), further
+       increasing the stability of the slowest components and making them
+       suitable for long-term information storage. As the temporal scales
+       separate further, the interactions between them change. Asymmetric
+       information flow (P7) stabilizes the system, enabling long-term
+       preservation of information (genotype) while retaining the reactive
+       flexibility of the faster-changing components (phenotype).
+     * 2)
+       The emergence of the separation between phenotype and genotype is a
+       crucial event in prebiotic evolution. This separation is prominent
+       in all known as well as hypothetical life-forms. Even when the
+       phenotype and genotype roles are fulfilled by chemically identical
+       molecules, as in the RNA world scenario of primordial evolution
+       (55, 56), their roles as effectors and information storage devices
+       are sharply distinct. In biological terms, the split is between
+       replicators (that is, the digital information carriers [genomes])
+       and reproducers (57–59), the analog devices (cells, organisms) that
+       host the replicators, supply them with building blocks (P5), and
+       themselves reproduce (P6) under the replicators’ instruction (P7).
+       Although the genotype/phenotype separation is a major staple of
+       life, it is in itself insufficient to qualify an IPU as a life-form
+       (computers and record players, in which the separation between
+       information storage and operational parts is prominent and
+       essential, clearly are not life, even though invented by advanced
+       organisms). The asymmetry of information flow between genotype and
+       phenotype (P7) is the most general form of the phenomenon known as
+       the Central Dogma of molecular biology: the unidirectional flow of
+       information from nucleic acids to proteins as originally formulated
+       by Crick (60). This asymmetry is also prominent in other
+       information-processing systems, in particular computers. Indeed,
+       von Neumann architecture computers have inherently distinct memory
+       and processing units, with the instruction flow from the former to
+       the latter (61, 62). It appears that any advanced
+       information-processing systems are endowed with this property.
+
+E7. Replication.
+
+   Emergence of long-term digital storage devices, that is genomes
+   consisting of RNA or DNA (E6) provides for long-term information
+   preservation, facilitates adaptive reactions to changes in the
+   environment, and promotes the stability of IPUs to the point where (at
+   least in chemical systems) it is limited by the energy of the chemical
+   bonds rather than the energy of thermal fluctuations. Obviously,
+   however, as long as this information is confined to a single IPU, it
+   will disappear with the inevitable eventual destruction of that IPU.
+   Should this be the case, other IPUs of similar architecture would need
+   to accumulate a comparable amount of information from scratch to reach
+   the same level of stability. Thus, copying and sharing information are
+   essential for long-term (effectively, indefinite) persistence of IPUs.
+     * 1)
+       The fundamental principle P6 postulates the existence of mechanisms
+       for information copying and elimination. If genomic information can
+       be replicated, even most primitive sharing mechanisms (such as
+       physical splitting of an IPU under forces of surface tension) would
+       result (even if not reliably) in the emergence of distinct IPUs
+       preloaded with information that was amassed by their progenitor(s).
+       This process short circuits learning and allows the information to
+       accumulate at timescales far exceeding the characteristic lifetimes
+       of individual IPUs.
+     * 2)
+       Information copying and sharing are beneficial only if the fidelity
+       exceeds a certain threshold, sometimes called Eigen limit in
+       evolutionary biology (5–7). Nevertheless, in primitive prebiotic
+       systems, the required fidelity level could have been quite low
+       (63). For instance, even a biased chemical composition of a
+       hydrophobic droplet could enhance the stability of the descendant
+       droplets and thus, endow them with an advantage in the selection
+       for persistence. However, once relatively sophisticated mechanisms
+       of information copying and sharing emerge or more precisely, when
+       replicators become information storage devices, the overall
+       stability of the system can increase by orders of magnitude. To wit
+       and astonishingly, the only biosphere known to us represents an
+       unbroken chain of genetic information transmission that spans about
+       4 billion y, commensurate with the stellar evolution scale.
+
+E8. Natural Selection.
+
+   Evolution by natural selection (Darwinian evolution) arises from the
+   combination of all the principles and phenomena described above. The
+   necessary and sufficient conditions for Darwinian evolution to operate
+   are 1) the existence of IPUs that are distinct from the environment and
+   from each other (E1), 2) the dependence of the stability of an IPU on
+   the information it contains (that is, the phenotype–genotype feedback;
+   E6), and 3) the ability of IPUs to make copies of embedded information
+   and share it with other IPUs (E7). When these three conditions are met,
+   the relative frequencies of the more stable IPUs will increase with
+   time via attrition of the less stable ones (survival of the fittest)
+   and transfer of information among IPUs, both vertically (to progeny)
+   and horizontally. This process engenders the key feature of Darwinian
+   evolution, differential reproduction of genotypes, based on the
+   feedback from the environment transmitted through the phenotype.
+     * 1)
+       All seven fundamental principles of life-compatible universes (P1
+       to P7) are involved in enabling evolution by natural selection. The
+       very existence of units, on which selection can operate, hinges on
+       self- vs. nonself-discrimination of prebiotic IPUs (E1) and the
+       emergence of shareable information storage (E6 and E7). The crucial
+       step to biology is the emergence of the link between the loss
+       function (P1), on the one hand, and the existence of the IPUs (P2,
+       P3, P4, and E1), on the other hand. Consumption of (limited)
+       external resources (P5) entails competition between IPUs that share
+       the same environment and turns mere shifts of the relative
+       frequencies into true “survival of the fittest.” The ability of the
+       IPUs to replicate (P6) and expand their memory storage (genotype;
+       P7, E6, and E7) provides them with access to hitherto unavailable
+       degrees of freedom, making evolution an open-ended process rather
+       than a quick, limited search for a local optimum.
+     * 2)
+       Evolution by natural selection is the central tenet of evolutionary
+       biology and a key part of the NASA definition of life. An important
+       note on definitions is due. We already referred to selection when
+       discussing prebiotic evolution (E1); however, the term “natural
+       (Darwinian) selection” is here reserved for the efficient form of
+       selection that emerges with the replication of dedicated
+       information storage devices (P6 and E6). Differential reproduction,
+       whereby the environment provides feedback on the fitness of
+       genotypes while acting on phenotypes, turns into Darwinian survival
+       of the fittest in the presence of competition. When IPUs depend on
+       environmental resources, such competition inevitably arises, except
+       in the unrealistic case of unlimited supply (44). With the onset of
+       Darwinian evolution, the system can be considered to cross the
+       threshold from prelife to life (64, 65). The evolutionary process
+       is naturally represented by movement of an evolving IPU in a
+       genotype space, where proximity is defined by similarity between
+       distinct genotypes and transitions correspond to elementary
+       evolutionary events: that is, mutations in the most general sense
+       (66). For any given environment, fitness—that is, a measure of the
+       ability of a genotype to produce viable offspring—can be defined
+       for each point in the genotype space, forming a multidimensional
+       fitness landscape (53, 54). Selection creates a bias for
+       preferential fixation of mutations that increase fitness, even if
+       the mutations themselves occur completely randomly.
+
+E9. Parasitism.
+
+   Parasites and host–parasite coevolution are ubiquitous across
+   biological systems at multiple levels of organization and are both
+   intrinsic to and indispensable for the evolution of life.
+     * 1)
+       Due to the flexibility of life-compatible systems (P5 and P6) and
+       the symmetry breaking in the information flow (P7) combined with
+       the inherent tendency of life to diversify (E5), parts of the
+       system inevitably settle on a parasitic state: that is, scavenging
+       information and matter from the host without making a positive
+       contribution to its fitness.
+     * 2)
+       From the biological perspective, parasites evolve to minimize their
+       direct interface with the environment and conversely, maximize
+       their interaction with the host; in other words, the host replaces
+       most of the environment for the parasite. Parasites inevitably
+       emerge and persist in biological systems because of two reasons. 1)
+       The parasitic state is reachable via an entropy-increasing step and
+       therefore, is highly probable (16), and 2) highly efficient
+       antiparasite immunity is costly (67). The cost of immunity reflects
+       another universal trade-off analogous to the trade-off between
+       information transfer fidelity and energy expenditure; in both
+       cases, an infinite amount of energy is required to reach a zero
+       error rate or a parasite-free state. From a complementary
+       standpoint, parasites inevitably evolve as cheaters in the game of
+       life that exploit the host as a resource, without expending energy
+       on resource production. Short-term, parasites reduce the host
+       fitness by both direct drain on its resources and various indirect
+       effects, including the cost of defense. However, in a longer-term
+       perspective, parasites make up a reservoir for recruitment of new
+       functions (especially, but far from exclusively, for defense) by
+       the hosts (14, 15). The host–parasite relationship can evolve
+       toward transition to a mutually beneficial, symbiotic lifestyle
+       that can further progress to mutualism and in some cases, complete
+       integration as exemplified by the origin of essential endosymbiotic
+       organelles in eukaryotes, mitochondria, and chloroplasts (68, 69).
+       Parasites emerge at similar levels of biological organization
+       (organisms parasitizing other organisms) or across levels (genetic
+       elements parasitizing organismal genomes or cell clones
+       parasitizing multicellular organisms).
+
+E10. Programmed Death.
+
+   Programmed (to various degrees) death is an intrinsic feature of life.
+     * 1)
+       Replication and elimination of IPUs (P6) and utilization of
+       additional degrees of freedom (P5) form the foundation for the
+       phenomenon of programmed death. At some levels of organization (for
+       example, intragenomic), the ability to add and eliminate units
+       (such as genes) for the benefit of the higher-level systems (such
+       as organisms) provides an obvious path of optimization. Elimination
+       of units could be, in principle, completely random, but selection
+       (E8) generates a sufficiently strong feedback to facilitate and
+       structure the loss process (for example, purging low-fitness genes
+       via homologous recombination or altruistic suicide of infected or
+       otherwise impaired cells). The same forces operate at least at the
+       cell level and conceivably, at all levels of organization and
+       selection (P4). In particular, if population-level or kin-level
+       selection is sufficiently strong, mechanisms for altruistic death
+       of individual organisms apparently can be fixed in evolution (70,
+       71).
+     * 2)
+       Programmed death is a prominent case of minimization of the
+       higher-level (for example, organismal) loss function at the cost of
+       increasing the lower-level loss function (such as that of
+       individual cells). Although (tightly controlled) programmed cell
+       death was originally discovered in multicellular organisms and has
+       been thought to be limited to these complex life-forms, altruistic
+       cell suicide now appears to be a universal biological phenomenon
+       (71–73).
+
+   To conclude this section, which we titled “fundamental evolutionary
+   phenomena,” deliberately omitting “biological,” it seems important to
+   note that phenomena E1 to E7 are generic, applying to all learning
+   systems, including purely physical and prebiotic ones. However, the
+   onset of natural selection (E8) marks the origin of life, so that the
+   phenomena E8 to E10 belong in the realm of biology.
+
+3. Optimization and Scale Separation in Evolving Systems
+
+   In the previous sections, we formulated the seven fundamental
+   principles of evolution P1 to P7 and then, argued that the key
+   evolutionary phenomena E1 to E10 can be interpreted and analyzed in the
+   context of these principles and apparently, derived from the latter.
+   The next step is to formulate a mathematical framework that would be
+   consistent with the fundamental principles and thus, would allow us to
+   model evolutionary phenomena analytically or numerically. For
+   concreteness, the proposed framework is based on a mathematical model
+   of artificial neural networks (74, 75), but we first outline a general
+   optimization approach in a form suitable for modeling biological
+   evolution.
+
+   We are interested in the broadest class of optimization problems, where
+   the loss (or cost) function
+   [MATH: <mrow><mi>H</mi><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow></mrow> :MATH]
+   is minimized with respect to some trainable variables,
+   [MATH: <mrow><mi mathvariant="bold">q</mi><mo>=</mo><mrow><mo
+   stretchy="true">(</mo><mrow><msup><mi
+   mathvariant="bold">q</mi><mrow><mo stretchy="false">(</mo><mi
+   mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup><mo>,</mo><msup><mi
+   mathvariant="bold">q</mi><mrow><mo stretchy="false">(</mo><mi
+   mathvariant="bold-italic">a</mi><mo
+   stretchy="false">)</mo></mrow></msup><mo>,</mo><mo> </mo><msup><mi
+   mathvariant="bold">q</mi><mrow><mo stretchy="false">(</mo><mi
+   mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow><mo
+   stretchy="true">)</mo></mrow><mo>,</mo></mrow> :MATH]
+   [3.1]
+
+   for a given training set of nontrainable variables,
+   [MATH: <mrow><mi mathvariant="bold">x</mi><mo>=</mo><mrow><mo
+   stretchy="true">(</mo><mrow><msup><mi
+   mathvariant="bold">x</mi><mrow><mo stretchy="false">(</mo><mi
+   mathvariant="bold-italic">o</mi><mo
+   stretchy="false">)</mo></mrow></msup><mo>,</mo><msup><mi
+   mathvariant="bold">x</mi><mrow><mo stretchy="false">(</mo><mi
+   mathvariant="bold-italic">e</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow><mo
+   stretchy="true">)</mo></mrow><mo>.</mo></mrow> :MATH]
+   [3.2]
+
+   Near a local minimum, the first derivatives of the average loss
+   function with respect to trainable variables
+   [MATH: <mi mathvariant="bold">q</mi> :MATH]
+   are small, and the depth of the minimum usually depends on the second
+   derivatives. In particular, the second derivative can be large for the
+   effectively constant degrees of freedom,
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   ; small for adaptable degrees of freedom,
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">a</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   ; or near zero for symmetries or neutral directions
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   . The separation of the neutral directions
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   into a special class of variables simply means that some of the
+   trainable variables can be changed without affecting the learning
+   outcome: that is, the value of the loss function. Put another way,
+   neutral changes are always possible. The neutral directions
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   are the fastest changing among the trainable variables because
+   fluctuations resulting in their change are, in general, fully
+   stochastic. On the other end of the spectrum of variables, even minor
+   changes to the effectively constant variables
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   compromise the entire learning (evolution) process: that is, result in
+   a substantial increase of the loss function value; these variables
+   correspond to deep minima of the loss function. When the basin of
+   attraction of a minimum is deep and narrow, the system stays in its
+   bottom for a long time, and then, to describe such a state, it is
+   sufficient to use discrete information (that is, to indicate that the
+   system stays in a given minimum) rather than to list all specific
+   values of the coordinates in a multidimensional space.
+
+   In a generic optimization problem, the dynamics of both trainable and
+   nontrainable variables involves a broad distribution of characteristic
+   timescales
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   , and switching between scales is equivalent to switching between
+   different frequencies or in the context of biological evolution,
+   between different levels of organization. For any fixed
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   , all variables can be partitioned into three classes depending on how
+   fast they change with respect to the specified timescale:
+     * fast-changing nontrainable variables that characterize an organism
+       [MATH: <mo> </mo><mo>(</mo><msup><mi
+       mathvariant="bold">x</mi><mrow><mo stretchy="true">(</mo><mi
+       mathvariant="bold-italic">o</mi><mo
+       stretchy="true">)</mo></mrow></msup><mo>)</mo> :MATH]
+       and its environment
+       [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+       stretchy="false">(</mo><mi mathvariant="bold-italic">e</mi><mo
+       stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+       and change on timescales
+       [MATH: <mo>≪</mo><mi mathvariant="italic">τ</mi> :MATH]
+       ;
+     * intermediate-changing adaptable variables
+       [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+       stretchy="false">(</mo><mi mathvariant="bold-italic">a</mi><mo
+       stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+       or neutral directions
+       [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+       stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+       stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+       that change on timescales ~
+       [MATH: <mi>τ</mi> :MATH]
+       ; and
+     * slow-changing variables, which are the degrees of freedom
+       [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+       stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+       stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+       that have already been well trained and are effectively constant
+       (at or near equilibrium), only changing on timescales
+       [MATH: <mo>≫</mo><mi mathvariant="italic">τ</mi> :MATH]
+       .
+
+   As will become evident shortly, the separation of these three classes
+   of variables and interactions between them are central to the evolution
+   and selection on all levels of organization, resulting in pervasive
+   multilevel learning and selection.
+
+   Depending on the considered timescale
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   (or as a result of environmental changes), the same dynamical degree of
+   freedom can be assigned to different classes of variables: that is,
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">o</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   ,
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">e</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   ,
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   ,
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">a</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   , or
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   . For example, on the shortest timescale, which corresponds to the
+   lifetime of an individual organism (one generation), the adaptable
+   variables are the phenotypic traits that quickly respond to
+   environmental changes, whereas the slowest, near-constant variables are
+   the genomic sequences (genotype) that change minimally if at all. On
+   longer timescales, corresponding to thousands or millions of
+   generations, fast-evolving portions of the genome become adaptable
+   variables, whereas the conserved core of the genome remains in the
+   near-constant class (50). Analogously, the neutral directions
+   correspond either to nonconsequential phenotypic changes or to neutral
+   genomic mutations, depending on the timescale. It is well known that
+   the overwhelming majority of the mutations are either deleterious and
+   therefore, eliminated by purifying selection or (nearly) neutral and
+   thus, can be either lost or fixed via drift (76, 77). However, when the
+   environment changes or under the influence of other mutations, some of
+   the neutral mutations can become beneficial [a genetic phenomenon known
+   as epistasis, which is pervasive in evolution (78, 79)], and in their
+   entirety, neutral mutations form the essential reservoir of variation
+   available for adaptive evolution (80). Even which variables are
+   classified as nontrainable
+   [MATH: <mrow><mo stretchy="false">(</mo><mi
+   mathvariant="bold">x</mi><mo stretchy="false">)</mo></mrow> :MATH]
+   depends on the timescale
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   . For example, if a learning system was trained for a sufficiently long
+   time, some of the trainable variables
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">a</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   or
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   might have already equilibrated and become nontrainable.
+
+4. The Neural Network Framework
+
+   Now that we described an optimization problem that is suitable for
+   modeling evolution of organisms (or populations of organisms), we can
+   construct a mathematical framework to solve such optimization problems.
+   For this purpose, we employ a mathematical theory of artificial neural
+   networks (74, 75), which is simple enough to perform calculations while
+   being consistent with all of the fundamental principles (P1 to P7), and
+   thus, it can be used for modeling evolutionary phenomena (E1 to E10).
+   We first recall a general framework of the neural network theory.
+
+   Consider a learning system represented as a neural network, with the
+   state vector described by trainable variables
+   [MATH: <mi mathvariant="bold">q</mi> :MATH]
+   (which describe a collective notation for weight matrix
+   [MATH: <mover accent="true"><mi>w</mi><mo>^</mo></mover> :MATH]
+   and bias vector
+   [MATH: <mi mathvariant="bold">b</mi> :MATH]
+   ) and nontrainable variables
+   [MATH: <mi mathvariant="bold">x</mi> :MATH]
+   (which describe the current state vector of individual neurons). In the
+   biological context,
+   [MATH: <mi mathvariant="bold">x</mi> :MATH]
+   collectively represent the current state of the organism
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">o</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   and of its environment
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">e</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   , and
+   [MATH: <mi mathvariant="bold">q</mi> :MATH]
+   determines how
+   [MATH: <mi mathvariant="bold">x</mi> :MATH]
+   changes with time, in particular, how the organism reacts to
+   environmental challenges. The nontrainable variables are modeled as
+   changing in discrete time steps
+   [MATH: <mrow><msub><mtext>x</mtext><mi>i</mi></msub><mrow><mo
+   stretchy="true">(</mo><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><msub><mi>f</mi><mi>i</mi></msub
+   ><mrow><mo stretchy="true">(</mo><mrow><munder><mstyle
+   displaystyle="true"><mo>∑</mo></mstyle><mi>j</mi></munder><msub><mi>w</
+   mi><mrow><mi>i</mi><mi>j</mi></mrow></msub><msub><mi>x</mi><mi>j</mi></
+   msub><mo stretchy="false">(</mo><mi>t</mi><mo
+   stretchy="false">)</mo><mo>+</mo><msub><mi>b</mi><mi>i</mi></msub></mro
+   w><mo stretchy="true">)</mo></mrow><mo>,</mo></mrow> :MATH]
+   [4.1]
+
+   where
+   [MATH: <mrow><msub><mi>f</mi><mi>i</mi></msub><mo
+   stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo></mrow>
+   :MATH]
+   ’s are some nonlinear activation functions (for example, hyperbolic
+   tangent or rectifier activation functions). The trainable variables are
+   modeled as changing according to the gradient descent (or stochastic
+   gradient descent) algorithm
+   [MATH: <mrow><msub><mi>q</mi><mi>i</mi></msub><mrow><mo
+   stretchy="true">(</mo><mrow><mi>t</mi><mo>+</mo><mn>1</mn></mrow><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><msub><mi>q</mi><mi>i</mi></msub
+   ><mrow><mo stretchy="true">(</mo><mi>t</mi><mo
+   stretchy="true">)</mo></mrow><mo>−</mo><mi
+   mathvariant="italic">γ</mi><mfrac><mrow><mo>∂</mo><mi>H</mi><mo
+   stretchy="false">(</mo><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="true">(</mo><mi>t</mi><mo
+   stretchy="true">)</mo></mrow><mo>,</mo><mi
+   mathvariant="bold">q</mi><mrow><mo stretchy="true">(</mo><mi>t</mi><mo
+   stretchy="true">)</mo></mrow><mo
+   stretchy="false">)</mo></mrow><mrow><mo>∂</mo><msub><mi>q</mi><mi>i</mi
+   ></msub></mrow></mfrac><mo>,</mo></mrow> :MATH]
+   [4.2]
+
+   where
+   [MATH: <mi mathvariant="italic">γ</mi> :MATH]
+   is the learning rate parameter and
+   [MATH: <mrow><mi>H</mi><mo stretchy="false">(</mo><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi mathvariant="bold">q</mi><mo
+   stretchy="false">)</mo></mrow> :MATH]
+   is a suitably defined loss function (Eqs. 4.3 and 4.4). In other words,
+   [MATH: <mi mathvariant="bold">q</mi> :MATH]
+   are “gross” or “main” variables, which determine the rules of dynamics,
+   and the dynamics of all other variables
+   [MATH: <mi mathvariant="bold">x</mi> :MATH]
+   is governed by these rules, per Eq. 4.1. In the biological context, Eq.
+   4.1 represents fast, often stochastic environmental changes and the
+   corresponding fast reaction of organisms at the phenotype level,
+   whereas [4.2] reflects slower-learning dynamics of evolutionary
+   adaptation via changes in the intermediate, adaptable variables: that
+   is, the variable portion of the genome. The main learning objective is
+   to adjust the trainable variables such that the average loss function
+   is minimized subject to boundary conditions (also known as the training
+   dataset), which in our case, is modeled as a time sequence of the
+   environmental variables.
+
+   For example, on a single-generation timescale, the fast-changing
+   variables represent the environment
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">e</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   and nontrainable variables associated with organisms
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">o</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   , the intermediate-changing variables represent adaptive
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">a</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   and neutral
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   phenotype changes, and the slow-changing variables
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   represent the genotype (SI Appendix, Fig. S1).
+
+   The temporal-scale separation in biology is readily apparent in all
+   organisms. Indeed, consequential changes in the environment
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">e</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   often occur on the scale of milliseconds to seconds, triggering
+   physical changes within organisms
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">o</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   at matching timescales. In response, individual organisms respond with
+   phenotypic changes both adaptive
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">a</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   and neutral
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">n</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   on the scale of minutes to hours, exploiting their genetically encoded
+   phenotypic plasticity. A paradigmatic example is induction of bacterial
+   operons in response to a change in the chemical composition of the
+   environment, such as the switch from glucose to galactose as the
+   primary nutrient (81, 82). In contrast, changes in the genome
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="false">(</mo><mi mathvariant="bold-italic">c</mi><mo
+   stretchy="false">)</mo></mrow></msup></mrow> :MATH]
+   take much longer. Mutations typically occur at rates of about 1 to 10
+   per genome replication cycle (83), which for unicellular organisms, is
+   the same as a generation comprising from about an hour to hundreds or
+   even thousands of hours. However, fixation of mutations, which
+   represents an evolutionarily stable change at the genome level,
+   typically takes many generations and thus, always occurs orders of
+   magnitude slower than phenotype changes. Accordingly, on this
+   timescale, any changes in the genome represent the third layer in the
+   network, the slowly changing variables.
+
+   To specify a microscopic loss function that would be appropriate for
+   describing evolution and thus, give a specific form to the fundamental
+   principle P1, we first note that adaptation to the environment is more
+   efficient (that is, the loss function value is smaller) for a learning
+   system, such as an organism, that can predict the state of its
+   environment with a smaller error. Then, the relevant quantity is the
+   so-called “boundary” loss function defined as the sum of squared
+   errors,
+   [MATH: <mrow><msub><mi>H</mi><mi>e</mi></msub><mrow><mo
+   stretchy="true">(</mo><mrow><mi mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>≡</mo><mfrac><mn>1</mn><mn>2</mn></mfr
+   ac><munder><mstyle
+   displaystyle="true"><mo>∑</mo></mstyle><mrow><mi>i</mi><mo>∈</mo><mi
+   mathvariant="normal">E</mi></mrow></munder><msup><mrow><mrow><mo
+   stretchy="true">(</mo><mrow><msubsup><mi>x</mi><mi>i</mi><mrow><mo
+   stretchy="false">(</mo><mi>e</mi><mo
+   stretchy="false">)</mo></mrow></msubsup><mo>−</mo><msub><mi>f</mi><mi>i
+   </mi></msub><mo stretchy="false">(</mo><msup><mi
+   mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo>,</mo><mi
+   mathvariant="bold">q</mi><mo stretchy="false">)</mo></mrow><mo
+   stretchy="true">)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow>
+   :MATH]
+   [4.3]
+
+   where the summation is taken only over the boundary (or environmental)
+   nontrainable variables. It is helpful to think of the boundary loss
+   function as the mismatch between the actual state of the environment
+   and the state that would be predicted by the neural network if the
+   environmental dynamics was switched off. In neuroscience, boundary loss
+   is closely related to the surprise (or prediction error) associated
+   with predictions of sensations, which depend on an internal model of
+   the environment (84). In machine learning, boundary loss functions are
+   most often used in the context of supervised learning (35), and in
+   biological evolution, the “supervision” comes from the environment,
+   which the evolving system, such as an organism or a population, is
+   learning to predict.
+
+   Another possibility for a learning system is to search for the minimum
+   of the “bulk” loss function, which is defined as the sum of squared
+   errors over all neurons:
+   [MATH: <mrow><mi>H</mi><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfr
+   ac><munder><mstyle
+   displaystyle="true"><mo>∑</mo></mstyle><mi>i</mi></munder><msup><mrow><
+   mrow><mo
+   stretchy="true">(</mo><mrow><msub><mi>x</mi><mi>i</mi></msub><mo>−</mo>
+   <msub><mi>f</mi><mi>i</mi></msub><mo stretchy="false">(</mo><msup><mi
+   mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo>,</mo><mi
+   mathvariant="bold">q</mi><mo stretchy="false">)</mo></mrow><mo
+   stretchy="true">)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow>
+   :MATH]
+   [4.4]
+
+   The bulk loss function assumes extra cost incurred by changing the
+   states of organismal neurons,
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   : that is, rewarding stationary states. In the limit of a very large
+   number of environmental neurons, the two loss functions are
+   indistinguishable,
+   [MATH: <mrow><mi>H</mi><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>≈</mo><msub><mi>H</mi><mi>e</mi></msub
+   ><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow></mrow> :MATH]
+   , but bulk loss is easier to handle mathematically (the details of
+   boundary and bulk loss functions are addressed in ref. 35).
+
+   More generally, in addition to the “kinetic” term [4.4], the loss
+   function can include a “potential” term
+   [MATH: <mrow><mi>V</mi><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow></mrow> :MATH]
+   :
+   [MATH: <mrow><mi>H</mi><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfr
+   ac><munder><mstyle
+   displaystyle="true"><mo>∑</mo></mstyle><mi>i</mi></munder><msup><mrow><
+   mrow><mo
+   stretchy="true">(</mo><mrow><msub><mi>x</mi><mi>i</mi></msub><mo>−</mo>
+   <msub><mi>f</mi><mi>i</mi></msub><mo stretchy="false">(</mo><msup><mi
+   mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo>,</mo><mi
+   mathvariant="bold">q</mi><mo stretchy="false">)</mo></mrow><mo
+   stretchy="true">)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>V</m
+   i><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>.</mo></mrow> :MATH]
+   [4.5]
+
+   The kinetic term in [4.5] reflects the ability of organisms
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   to predict the changes in the state of the given environment
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   over time, whereas the potential term reflects their compatibility with
+   a given environment and hence, the capacity to choose among different
+   environments.
+
+   In the context of biological evolution, Malthusian fitness
+   [MATH: <mi mathvariant="italic">φ</mi> :MATH]
+   is defined as the expected reproductive success of a given genotype:
+   that is, the rate of change of the prevalence of the given genotype in
+   an evolving population (85). However, in the context of the theory of
+   learning, the loss function must be identified with additive fitness:
+   that is,
+   [MATH: <mrow><mi>H</mi><mrow><mo stretchy="true">(</mo><mrow><mi
+   mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><mo>−</mo><mi>T</mi><mi>log</mi>
+   <mo> </mo><mi mathvariant="italic">φ</mi><mrow><mo
+   stretchy="true">(</mo><mrow><mi mathvariant="bold">x</mi><mo>,</mo><mi
+   mathvariant="bold">q</mi></mrow><mo
+   stretchy="true">)</mo></mrow><mo>.</mo></mrow> :MATH]
+   [4.6]
+
+   For a microscopic description of learning, the proportionality constant
+   is unimportant, but as we argue in detail in the accompanying paper
+   (86), in the description of the evolutionary process from the point of
+   view of thermodynamics,
+   [MATH: <mi>T</mi> :MATH]
+   plays the role of “evolutionary temperature.”
+
+   Given a concrete mathematical model of neural networks, one might
+   wonder if all fundamental principles of evolution (P1 to P7) can be
+   derived from this model. Such derivation would comprise additional
+   evidence supporting the claim that the entire universe can be
+   adequately described as a neural network (36). Clearly, the existence
+   of a loss function (P1) follows automatically because learning of any
+   neural network is always described relative to a specified loss
+   function (Eq. 4.4 or 4.5). The other six principles also seem to
+   naturally emerge from the learning dynamics of neural networks. In
+   particular, the hierarchy of scales (P2) and frequency gaps (P3) are
+   generic consequences of the learning dynamics, whereby a system that
+   involves a wide range of variables changing at different rates is
+   attracted toward a self-organized critical state of slow-changing
+   trainable variables (87). Additional gaps between levels of
+   organization are also expected to appear through phase transitions as
+   becomes apparent in the thermodynamic description of evolution we
+   develop in the accompanying paper (86). Renormalizability (P4) is a
+   direct consequence of the second law of learning (35), according to
+   which entropy of a system (and consequently, complexity of neural
+   network or rank of its weight matrix) decreases with learning. This
+   phenomenon was observed in neural network simulations (35) and is the
+   exact type of dynamics that can make the system renormalizable even if
+   it started off as a highly entangled (large rank of weight matrix),
+   nonrenormalizable neural network. The extension (P5) and replication
+   (P6) principles simply indicate that additional variables can lead to
+   either increase or decrease in the value of the loss function (35). It
+   is also important to note that in neural networks, an additional
+   computational advantage (“quantum advantage”) can be achieved if the
+   number of IPUs can vary (88). Therefore, to achieve such an advantage,
+   a system must learn how to replicate and eliminate its IPUs (P6).
+   Finally, in Generalized Central Dogma of Molecular Biology, we
+   illustrate how Fourier transform (or more generally, wavelet transform)
+   of the environmental degrees of freedom can be used for learning the
+   environment and how the inverse transform can be used for predicting
+   it. Thus, to be able to predict the environment (and hence, to be
+   competitive), any evolving system must learn the mechanism behind such
+   asymmetric information flow (P7).
+
+5. Multilevel Learning
+
+   In the previous sections, we argued that the learning process naturally
+   divides all the dynamical variables into three distinct classes:
+   fast-changing ones,
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   and
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   ; intermediate-changing ones,
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>a</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   and
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>n</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   (
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>n</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   being faster than
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>a</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   ); and slow-changing ones,
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>c</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   (SI Appendix, Fig. S1). Evidently, this separation of variables depends
+   on the timescale
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   during which the system is observed, and variables migrate between
+   classes when
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   is increased or decreased (SI Appendix, Fig. S2). The longer the time,
+   the more variables reach equilibrium and therefore, can be modeled as
+   nontrainable and fast changing,
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   , and the fewer variables remain slowly varying and can be modeled as
+   effectively constant
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>c</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   . In other words, many variables that are nearly constant at short
+   timescales migrate to the intermediate class at longer timescales,
+   whereas variables from the intermediate class migrate to the fast
+   class.
+
+   In biological terms, if we consider learning dynamics on the timescale
+   of one generation, then
+   [MATH: <mrow><mo> </mo><msup><mi
+   mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>a</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   and
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>n</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   represent phenotype variables, and
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>c</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   represents genotype variables; however, on much longer timescales of
+   multiple generations, the learning dynamics of populations (or
+   communities) of organisms becomes relevant. On such timescales, the
+   genotype variables acquire dynamics, with purifying and positive
+   selection getting into play, whereas the phenotype variables
+   progressively equilibrate. There is a clear connection between learning
+   dynamics, including that in biological systems, and renormalizability
+   of physical theories (P4). Indeed, from the point of view of an
+   efficient learning algorithm, the parameters controlling learning
+   dynamics, such as effective learning (or information-processing) rate
+   [MATH: <mi mathvariant="italic">γ</mi> :MATH]
+   , can vary from one timescale to another (for example, from individual
+   organisms to populations or communities of organisms), but the general
+   principles as well as specific dependencies captured in the equations
+   above that govern the learning dynamics on different timescales remain
+   the same. We refer to this universality of the learning process on
+   different timescales and partitioning of the variables into temporal
+   classes as multilevel learning.
+
+   More precisely, multilevel learning is a property of learning systems,
+   which allows for the basic equations of learning, such as [4.4], to
+   remain the same on all levels of organization but for the parameters,
+   which describe the dynamics such as
+   [MATH: <mi>γ</mi><mo>(</mo><mi mathvariant="italic">τ</mi><mo>)</mo>
+   :MATH]
+   , to depend on the level or on the timescale
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   . For example, if the effective learning (or information-processing)
+   rate
+   [MATH: <mi>γ</mi><mo>(</mo><mi mathvariant="italic">τ</mi><mo>)</mo>
+   :MATH]
+   decreases with timescale
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   , then the local processing time, which depends on
+   [MATH: <mi>γ</mi><mo>(</mo><mi mathvariant="italic">τ</mi><mo>)</mo>
+   :MATH]
+   , runs differently for different trainable variables: slower for
+   slow-changing variables (or larger
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   ) and faster for fast-changing ones (or smaller
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   ). For such a system, the concept of global time (that is, the same
+   time for all variables) becomes irrelevant and should be replaced with
+   the proper or local time, which is defined for each scale
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   separately:
+   [MATH: <msub><mi>t</mi><mi
+   mathvariant="italic">τ</mi></msub><mo>∝</mo><mi>γ</mi><mo>(</mo><mi
+   mathvariant="italic">τ</mi><mo>)</mo><mi>t</mi><mo>.</mo> :MATH]
+   [5.1]
+
+   This effect closely resembles time dilation phenomena in physics,
+   except that in special and general relativity, time dilation is linked
+   with the possibility of movement between slow and fast clocks (or
+   variables) (89). To illustrate the role time dilation plays in biology,
+   consider only two types of variables: slow changing and fast changing.
+   Then, the slow variables should be able to “outsource” certain
+   computational tasks to faster variables. Because the local clock for
+   the fast-changing variables runs faster, the slow-changing variables
+   can take advantage of the fast-changing ones to accelerate computation,
+   which would be rewarded by evolution. The flow of information between
+   slow-changing and fast-changing variables in the opposite direction is
+   also beneficial because the fast-changing variables can use the
+   slow-changing variables to store useful information for future
+   retrieval: that is, the slow variables function as long-term memory. In
+   the next section, we show that such cooperation between slow- and
+   fast-changing variables, which is a concrete manifestation of principle
+   P7, corresponds to a crucial biological phenomenon as the Central Dogma
+   of molecular biology (60).
+
+6. Generalized Central Dogma of Molecular Biology
+
+   In terms of learning theory, the two directions of the asymmetric
+   information flow (P7) represent learning the state of the environment
+   and predicting the state of the environment from the results of
+   learning. For learning, information is passed from faster variables to
+   slower variables, and for predicting, information flows in the opposite
+   direction from slower variables to the faster ones. A more formal
+   analysis of the asymmetric information flows (or a generalized Central
+   Dogma) can be carried out by forward propagation (from slow variables
+   to fast variables) and back propagation (from fast variables to slow
+   variables) of information within the framework of the mathematical
+   model of neural networks developed in the previous sections (SI
+   Appendix, Fig. S3).
+
+   Consider nontrainable environmental variables that change continuously
+   with time
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo
+   stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow>
+   :MATH]
+   , while the learning objective of an organism is to predict
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo
+   stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow>
+   :MATH]
+   at time
+   [MATH: <mi>t</mi><mo>></mo><mi mathvariant="italic">τ</mi> :MATH]
+   given that it was observed for time
+   [MATH: <mn>0</mn><mo><</mo><mi>t</mi><mo><</mo><mi
+   mathvariant="italic">τ</mi> :MATH]
+   . Thus, the organism has to extrapolate the function
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo
+   stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow>
+   :MATH]
+   for
+   [MATH: <mi>t</mi><mo>></mo><mi mathvariant="italic">τ</mi> :MATH]
+   , and to do so, it should be able to store and retrieve the values of
+   the Fourier coefficients
+   [MATH: <msup><mi
+   mathvariant="bold">q</mi><mi>k</mi></msup><mo>=</mo><mfrac><mn>1</mn><m
+   i mathvariant="italic">τ</mi></mfrac><msubsup><mo>∫</mo><mn>0</mn><mi
+   mathvariant="italic">τ</mi></msubsup><mrow><mi>d</mi><mi>t</mi><mo>
+   </mo><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo>(</mo><mi>t</mi><mo>)</mo><msup
+   ><mi>e</mi><mrow><mo>−</mo><mi>i</mi><mn>2</mn><mi>π</mi><msub><mi>f</m
+   i><mi>k</mi></msub><mi>t</mi></mrow></msup></mrow><mo>,</mo> :MATH]
+   [6.1]
+
+   or more generally, wavelet coefficients
+   [MATH: <msup><mi
+   mathvariant="bold">q</mi><mi>k</mi></msup><mo>=</mo><mfrac><mn>1</mn><m
+   i mathvariant="italic">τ</mi></mfrac><msubsup><mo>∫</mo><mn>0</mn><mi
+   mathvariant="italic">τ</mi></msubsup><mrow><mi>d</mi><mi>t</mi><mo>
+   </mo><msub><mi>W</mi><mi>k</mi></msub><mo>(</mo><mi
+   mathvariant="italic">τ</mi><mo>−</mo><mi>t</mi><mo>)</mo><mo>
+   </mo><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo>(</mo><mi>t</mi><mo>)</mo><msup
+   ><mi>e</mi><mrow><mo>−</mo><mi>i</mi><mn>2</mn><mi>π</mi><msub><mi>f</m
+   i><mi>k</mi></msub><mi>t</mi></mrow></msup></mrow><mo>,</mo> :MATH]
+   [6.2]
+
+   for suitably defined window functions
+   [MATH: <mrow><msub><mi>W</mi><mi>i</mi></msub></mrow> :MATH]
+   . Then, a prediction could be made by extrapolating
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup><mo
+   stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow>
+   :MATH]
+   using the inverse transformation
+   [MATH: <msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo>(</mo><mi>t</mi><mo>+</mo><mi>δ
+   </mi><mo>)</mo><mo>≈</mo><mn>2</mn><munderover><mo>∑</mo><mrow><mi>k</m
+   i><mo>=</mo><msub><mi>k</mi><mrow><mi>m</mi><mi>i</mi><mi>n</mi></mrow>
+   </msub></mrow><msub><mi>k</mi><mrow><mi>m</mi><mi>a</mi><mi>x</mi></mro
+   w></msub></munderover><mi>Re</mi><mo> </mo><mo>(</mo><msup><mi
+   mathvariant="bold">q</mi><mi>k</mi></msup><msup><mi>e</mi><mrow><mi>i</
+   mi><mn>2</mn><mi>π</mi><msub><mi>f</mi><mi>k</mi></msub><mi>δ</mi></mro
+   w></msup><mo>)</mo><mo>,</mo> :MATH]
+   [6.3]
+
+   for some
+   [MATH: <mrow><mi mathvariant="italic">δ</mi><mo>></mo><mn>0</mn></mrow>
+   :MATH]
+   , which is not too large compared with
+   [MATH: <mi mathvariant="italic">τ</mi> :MATH]
+   . However, in general, the total number of (Fourier or wavelet)
+   coefficients
+   [MATH: <msup><mi mathvariant="bold">q</mi><mi>k</mi></msup> :MATH]
+   would be countably infinite. Therefore, any finite-size organism has to
+   “decide” which frequencies to observe (and remember) and which ones to
+   filter out (and “forget”).
+
+   Let us assume that the organism “decided” to only observe/remember
+   discrete frequencies
+   [MATH: <msub><mi>f</mi><mi
+   mathvariant="italic">min</mi></msub><mo>≡</mo><msub><mi>f</mi><msub><mi
+   >k</mi><mi
+   mathvariant="italic">min</mi></msub></msub><mo>,</mo><mo>…</mo><mo>,</m
+   o><msub><mi>f</mi><msub><mi>k</mi><mi
+   mathvariant="italic">max</mi></msub></msub><mo>≡</mo><msub><mi>f</mi><m
+   i mathvariant="italic">max</mi></msub><mo>,</mo> :MATH]
+   [6.4]
+
+   and forget everything else. Then, to predict the state of the
+   environment [6.3] and as a result, minimize the loss function [4.5],
+   the organism should be able to store, retrieve, and adjust information
+   about coefficients
+   [MATH: <msup><mi mathvariant="bold">q</mi><mi>k</mi></msup> :MATH]
+   in some adaptable trainable variables
+   [MATH: <mrow><msup><mi mathvariant="bold">q</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>a</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   .
+
+   Given this simple model, we can study the flow of information between
+   different nontrainable variables of the organism
+   [MATH: <mrow><msup><mi mathvariant="bold">x</mi><mrow><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></mrow></msup></mrow> :MATH]
+   . To this end, it is convenient to organize the variables as
+   [MATH: <mi mathvariant="bold">x</mi><mo>=</mo><mrow><mo
+   stretchy="true">(</mo><msup><mi mathvariant="bold">x</mi><mrow><mo
+   stretchy="true">(</mo><mi>o</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo>,</mo><msup><mi
+   mathvariant="bold">x</mi><mrow><mo stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><mrow><mo
+   stretchy="true">(</mo><msub><mi
+   mathvariant="bold">x</mi><msub><mi>k</mi><mi
+   mathvariant="italic">min</mi></msub></msub><mo>,</mo><mo>…</mo><mo>,</m
+   o><msub><mi mathvariant="bold">x</mi><msub><mi>k</mi><mi
+   mathvariant="italic">max</mi></msub></msub><mo>,</mo><msup><mi
+   mathvariant="bold">x</mi><mrow><mo stretchy="true">(</mo><mi>e</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo
+   stretchy="true">)</mo></mrow><mo>,</mo> :MATH]
+   [6.5]
+
+   where
+   [MATH: <msub><mi
+   mathvariant="bold">x</mi><mi>k</mi></msub><mo>(</mo><mi>t</mi><mo>+</mo
+   ><mi>δ</mi><mo>)</mo><mo>≈</mo><mn>2</mn><munderover><mo>∑</mo><mrow><m
+   i>l</mi><mo>=</mo><msub><mi>k</mi><mrow><mi>m</mi><mi>i</mi><mi>n</mi><
+   /mrow></msub></mrow><mi>k</mi></munderover><mi>Re</mi><mo> </mo><mo>(</
+   mo><msup><mi
+   mathvariant="bold">q</mi><mi>l</mi></msup><msup><mi>e</mi><mrow><mi>i</
+   mi><mn>2</mn><mi>π</mi><msub><mi>f</mi><mi>l</mi></msub><mi>δ</mi></mro
+   w></msup><mo>)</mo><mo>,</mo> :MATH]
+   [6.6]
+
+   and assume that the relevant information about
+   [MATH: <mrow><msup><mi
+   mathvariant="bold">q</mi><mi>i</mi></msup></mrow> :MATH]
+   ’s is stored in the adaptable trainable variables
+   [MATH: <msup><mi mathvariant="bold">q</mi><mrow><mo
+   stretchy="true">(</mo><mi>a</mi><mo
+   stretchy="true">)</mo></mrow></msup><mo>=</mo><mrow><mo
+   stretchy="true">(</mo><msup><mi
+   mathvariant="bold">q</mi><msub><mi>k</mi><mi
+   mathvariant="italic">min</mi></msub></msup><mo>,</mo><mo>…</mo><mo>,</m
+   o><msup><mi mathvariant="bold">q</mi><msub><mi>k</mi><mi
+   mathvariant="italic">max</mi></msub></msup><mo
+   stretchy="true">)</mo></mrow><mo>.</mo> :MATH]
+   [6.7]
+
+   In the estimate of
+   [MATH: <msub><mi
+   mathvariant="bold">x</mi><mi>k</mi></msub><mo>(</mo><mi>t</mi><mo>+</mo
+   ><mi>δ</mi><mo>)</mo> :MATH]
+   in Eq. 6.6, all the higher-frequency modes are assumed to average to
+   zero as is often the case if we are only interested in the timescale
+   [MATH:
+   <msubsup><mi>f</mi><mi>k</mi><mrow><mo>−</mo><mn>1</mn></mrow></msubsup
+   > :MATH]
+   . A better estimate can be obtained using, once again, the ideas of the
+   renormalization group flow following the fundamental principle P4. To
+   make learning (and thus, survival) efficient, truncation of the set of
+   variables relevant for learning is crucial. The main point is that the
+   higher-frequency modes can still contribute statistically, and then, an
+   improved estimate of
+   [MATH: <msub><mi
+   mathvariant="bold">x</mi><mi>k</mi></msub><mo>(</mo><mi>t</mi><mo>+</mo
+   ><mi>δ</mi><mo>)</mo> :MATH]
+   would be obtained by appropriately modifying the values of the
+   coefficients
+   [MATH: <msup><mi mathvariant="bold">q</mi><mi>k</mi></msup> :MATH]
+   . Either way, in order to make an actual prediction, the organism
+   should first calculate
+   [MATH: <msub><mi
+   mathvariant="bold">x</mi><mi>k</mi></msub><mo>(</mo><mi>t</mi><mo>+</mo
+   ><mi>δ</mi><mo>)</mo> :MATH]
+   for small
+   [MATH: <msub><mi>f</mi><mi>k</mi></msub> :MATH]
+   and then, pass the result to the next level to calculate
+   [MATH: <msub><mi
+   mathvariant="bold">x</mi><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></m
+   sub><mo>(</mo><mi>t</mi><mo>+</mo><mi>δ</mi><mo>)</mo> :MATH]
+   for larger
+   [MATH:
+   <msub><mi>f</mi><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></msub>
+   :MATH]
+   and so on. Such computations can be described by a simple mapping
+   [MATH: <msub><mi
+   mathvariant="bold">x</mi><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></m
+   sub><mrow><mo stretchy="true">(</mo><mi>t</mi><mo>+</mo><mi>δ</mi><mo
+   stretchy="true">)</mo></mrow><mo>=</mo><msub><mi
+   mathvariant="bold">x</mi><mi>k</mi></msub><mrow><mo
+   stretchy="true">(</mo><mi>t</mi><mo>+</mo><mi>δ</mi><mo
+   stretchy="true">)</mo></mrow><mo>+</mo><mn>2</mn><mi>Re</mi><mo> </mo><
+   mo>(</mo><msup><mi
+   mathvariant="bold">q</mi><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></m
+   sup><msup><mi>e</mi><mrow><mi>i</mi><mn>2</mn><mi>π</mi><msub><mi>f</mi
+   ><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow></msub><mi>δ</mi></mrow></m
+   sup><mo>)</mo><mo>,</mo> :MATH]
+   [6.8]
+
+   which can be interpreted as passage of data from one layer to another
+   in a deep, multilayer neural network (SI Appendix, Fig. S2). Eq. 6.8
+   implies that, during the predicting phase, relevant information only
+   flows from variables encoding low frequencies to variables encoding
+   high frequencies but not in the reverse direction. In other words, in
+   the process of predicting the environment, information propagates from
+   slower variables to faster variables: that is, from genotype to
+   phenotype or from nucleic acids to proteins (hence, the Central Dogma).
+   Because only the fast variables change in this process, the prediction
+   of the state of the environment is rapid, as it is indeed required to
+   be for the organism survival. Conversely, in the process of learning
+   the environment, information is back propagated in the opposite
+   direction: that is, from faster to slower variables. However, this back
+   propagation is not a microscopic reversal of the forward propagation
+   but a distinct, much slower process (given that changes in slow
+   variables are required) that involves mutation and selection.
+
+   Thus, the meaning of the generalized Central Dogma from the point of
+   view of the learning theory—and our theory of evolution—is that slow
+   dynamics (that is, evolution on a long timescale) should be mostly
+   independent of the fast variables. In less formal terms, slow variables
+   determine the rules of the game, and changing these rules depending on
+   the results of some particular games would be detrimental for the
+   organism. Optimization within the space of opportunities constrained by
+   temporally stable rules is advantageous compared with optimization
+   without such constraints. The trade-off between global and local
+   optimization is a general, intrinsic property of frustrated systems
+   (E2). For the system to function efficiently, the impact of local
+   optimization on the global optimization should be restricted. The
+   separation of the long-term and short-term forms of memory through
+   different elemental bases (nucleic acids vs. proteins) serves this
+   objective.
+
+7. Discussion
+
+   In this work, we outline a theory of evolution on the basis of the
+   theory of learning. The parallel between learning and biological
+   evolution becomes obvious as soon as the mapping between the loss
+   function and the fitness function is established (Eq. 4.6). Indeed,
+   both processes represent movement of an evolving (learning) system on a
+   fitness (loss function) landscape, where adaptive (learning), upward
+   moves are most consequential, although neutral moves are most common,
+   and downward moves also occur occasionally. However, we go beyond the
+   obvious analogy and trace a detailed correspondence between the
+   essential features of the evolutionary and learning processes.
+   Arguably, the most important fundamental commonality between evolution
+   and learning is the stratification of the trainable variables (degrees
+   of freedom) into classes that differ by the rate of change. At least in
+   complex environments, all learning is multilevel, and so is all
+   selection that is relevant for the evolutionary process. The framework
+   of evolution as learning developed here implies that evolution of
+   biological complexity would be impossible without MLS permeating the
+   entire history of life. Under this perspective, emergence of new levels
+   of organization, in learning and in evolution, and in particular, MTE
+   represent genuine phase transitions as previously suggested (41). Such
+   transitions can be analyzed consistently only in the thermodynamic
+   limit, which is addressed in detail in the accompanying paper (86).
+
+   The origin of complexity and long-term memory from simple fundamental
+   physical laws is one of the hardest problems in all of science. One
+   popular approach is synergetics pioneered by Haken (91, 92) and the
+   related nonequilibrium thermodynamics founded by Prigogine and Stengers
+   (93) that employ mathematical tools of the theory of dynamical systems,
+   such as theory of bifurcations and analysis of attractors. However,
+   these concepts appear to be too general and oversimplified to usefully
+   analyze biological phenomena, which are far more complex than
+   “dissipative structures” that are central to nonequilibrium
+   thermodynamics, such as, for example, autowave chemical reactions.
+
+   An alternative is the approach based on the theory of spin glasses (43,
+   94), which employs the mathematical apparatus of statistical physics
+   and seems to provide a deeper insight into the origin of complexity.
+   However, the energy landscape of spin glasses contains too many minima
+   that are too shallow to account for long-term memory that is central to
+   biology (12, 41). Thus, some generalization of the spin glass concept
+   is likely to be required for productive application in evolutionary
+   biology (95).
+
+   A popular and promising approach is self-organized criticality (SOC), a
+   concept developed by Bak et al. (96, 97). Although relevant in
+   biological contexts (12), SOC, by definition, implies self-similarity
+   between different levels of organization, whereas biologically relevant
+   complexity is rather associated with distinct emergent phenomena at
+   different spatiotemporal scales (90).
+
+   A fundamental shortcoming of all these approaches is that they do not
+   include, at least not as a major component, evolutionary concepts, such
+   as natural selection. The framework of learning theory used here allows
+   us to naturally unify the descriptions of physical and biological
+   phenomena in terms of optimization by trial and error and loss
+   (fitness) functions. Indeed, a key point of the present analysis is
+   that most of our general principles apply to both living and nonliving
+   systems.
+
+   The detailed correspondence between the key features of the processes
+   of learning and biological evolution implies that this is not a simple
+   analogy but rather, a reflection of the deep unity of evolutionary
+   processes occurring in the universe. Indeed, separation of the relevant
+   degrees of freedom into multiple temporal classes is ubiquitous in the
+   universe from composite subatomic particles, such as protons, to atoms,
+   molecules, life-forms, planetary systems, and galaxy clusters. If the
+   entire universe is conceptualized as a neural network (36), all these
+   systems can be considered emerging from the learning dynamics.
+   Furthermore, scale separation and renormalizability appear to be
+   essential conditions for a universe to be observable. According to the
+   evolution theory outlined here, any observable universe consists of
+   systems that undergo learning or synonymously, adaptive evolution, and
+   actually, the universe itself is such a system (36). The famous dictum
+   of Dobzhansky (98), thus, can and arguably should be rephrased as
+   “[n]othing in the world is comprehensible except in the light of
+   learning.”
+
+   Within the theory of evolution outlined here, the difference between
+   life and nonliving systems, however important, can be considered as one
+   in the type and degree of optimization, so that all evolutionary
+   phenomena can be described within the same formal framework of the
+   theory of learning. Crucially, any complex optimization problem can be
+   addressed only with a stochastic learning algorithm: hence, the
+   ubiquity of selection. Origin of life can then be conceptualized within
+   the framework of multilevel learning as we explicitly show in the
+   accompanying paper (86). The point when life begins can be naturally
+   associated with the emergence of a distinct class of slowly changing
+   variables that are digitized and thus, can be accurately replicated;
+   these digital variables store and supply information for forward
+   propagation to predict the state of the environment. In biological
+   terms, this focal point corresponds to the advent of replicators
+   (genomes) that carry information on the operation of reproducers within
+   which they reside (99). This is also the point when natural (Darwinian)
+   selection takes off (64). Our theory of evolution implies that this
+   pivotal stage was preceded by evolution of “prelife,” which comprised
+   reproducers that lacked genomes but nevertheless, were learning systems
+   that were subject to selection for persistence. Self-reproducing
+   micelles that harbor autocatalytic protometabolic reaction networks
+   appear to be plausible models of such primordial reproducers (100). The
+   first replicators (RNA molecules) would evolve within these
+   reproducers, perhaps, initially, as molecular parasites (E9) but
+   subsequently, under selection for the ability to store, express, and
+   share information essential for the entire system. This key step
+   greatly increased the efficiency of evolution/learning and provided for
+   long-term memory that persisted throughout the history of life,
+   enabling the onset of natural selection and the unprecedented
+   diversification of life-forms (E5). It has to be emphasized that,
+   compared with the existing evolutionary models that explore replicator
+   dynamics, the learning approach described here is more microscopic in
+   that the existence of replicators is not initially assumed but rather,
+   appears as an emergent property of multilevel learning dynamics. For
+   learning to be efficient, the capacity of the system to add new
+   adaptable variables is essential. In biological terms, this implies
+   expandability of the genome (that is, the ability to add new genes),
+   which necessitated the transition from RNA to DNA as the genome
+   substrate given the apparent intrinsic size constraints on replicating
+   RNA molecules. Another essential condition for efficient learning is
+   information sharing, which in the biological context, corresponds to
+   horizontal gene transfer. The essentiality of horizontal gene transfer
+   at the earliest stages of life evolution is perceived as the cause of
+   the universality of the translation machinery and genetic code in all
+   known life-forms (101). The conceptual model of the origin of life
+   implied by our learning-based theoretical framework appears to be fully
+   compatible with Gánti’s chemoton, a model of protocell emergence and
+   evolution based on autocatalytic reaction networks (102–104).
+
+   The origin of life scenario within the encompassing framework of the
+   present evolution theory, even if formulated in most general terms,
+   implies that emergence of complexity commensurate with life is a
+   general trend in the evolution of complex systems. At face value, this
+   conclusion might seem to be at odds with the magnitude of
+   complexification involved in the origin of life [suffice it to consider
+   the complexity of the translation system (7)] and the uniqueness of
+   this event, at least on Earth and probably, on a much greater cosmic
+   scale. Nevertheless, the origin of life appears to be an expected
+   outcome of learning subject to the relevant constraints, such as the
+   presence of the required chemicals in sufficient concentrations. Such
+   constraints would make life a rare phenomenon but likely far from
+   unique on the scale of the universe. The universe is sometimes claimed
+   to be fine-tuned for the existence of life (105). What we posit here is
+   that the universe is self-tuned for life emergence.
+
+   Evidently, the analysis presented here and in the accompanying paper
+   (86) is only an outline of a theory of evolution as learning. The
+   details and implications, including directly testable ones, remain to
+   be worked out.
+
+Supplementary Material
+
+Supplementary File
+
+   Click here to view.^(580K, pdf)
+
+Acknowledgments
+
+   E.V.K. is grateful to Dr. Purificacion Lopez-Garcia for essential
+   discussions and critical reading of the manuscript. V.V. was supported
+   in part by the Foundational Questions Institute and the Oak Ridge
+   Institute for Science and Education. Y.I.W. and E.V.K. are supported by
+   the Intramural Research Program of the NIH.
+
+Footnotes
+
+   Reviewers: S.F., University of California, Irvine; and E.S., Parmenides
+   Foundation.
+
+   The authors declare no competing interest.
+
+   This article contains supporting information online at
+   https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2120037119/-/DCSuppl
+   emental.
+
+Data Availability
+
+   There are no data underlying this work.
+
+References
+
+   1. Morange M., The recent evolution of the question “What is life”?
+   Hist. Philos. Life Sci. 34, 425–436 (2012). [PubMed] [Google Scholar]
+   2. Benner S. A., Defining life. Astrobiology 10, 1021–1030 (2010). [PMC
+   free article] [PubMed] [Google Scholar]
+   3. Trifonov E. N., Vocabulary of definitions of life suggests a
+   definition. J. Biomol. Struct. Dyn. 29, 259–266 (2011). [PubMed]
+   [Google Scholar]
+   4. Koonin E. V., The Logic of Chance: The Nature and Origin of
+   Biological Evolution (FT Press, Upper Saddle River, NJ, 2011). [Google
+   Scholar]
+   5. Eigen M., Selforganization of matter and the evolution of biological
+   macromolecules. Naturwissenschaften 58, 465–523 (1971). [PubMed]
+   [Google Scholar]
+   6. Penny D., An interpretative review of the origin of life research.
+   Biol. Philos. 20, 633–671 (2005). [Google Scholar]
+   7. Wolf Y. I., Koonin E. V., On the origin of the translation system
+   and the genetic code in the RNA world by means of natural selection,
+   exaptation, and subfunctionalization. Biol. Direct 2, 14 (2007). [PMC
+   free article] [PubMed] [Google Scholar]
+   8. Hartl D. L., Clark A. G., Principles of Population Genetics (Sinauer
+   Associates, Sunderland, MA, ed. 4, 2006). [Google Scholar]
+   9. Lynch M., The Origins of Genome Architecture (Sinauer Associates,
+   Sunderland, MA, 2007). [Google Scholar]
+   10. Bernardes J. P., et al., The evolution of convex trade-offs enables
+   the transition towards multicellularity. Nat. Commun. 12, 4222 (2021).
+   [PMC free article] [PubMed] [Google Scholar]
+   11. Michod R. E., The group covariance effect and fitness trade-offs
+   during evolutionary transitions in individuality. Proc. Natl. Acad.
+   Sci. U.S.A. 103, 9113–9117 (2006). [PMC free article] [PubMed] [Google
+   Scholar]
+   12. Wolf Y. I., Katsnelson M. I., Koonin E. V., Physical foundations of
+   biological complexity. Proc. Natl. Acad. Sci. U.S.A. 115, E8678–E8687
+   (2018). [PMC free article] [PubMed] [Google Scholar]
+   13. Forterre P., Prangishvili D., The great billion-year war between
+   ribosome- and capsid-encoding organisms (cells and viruses) as the
+   major source of evolutionary novelties. Ann. N. Y. Acad. Sci. 1178,
+   65–77 (2009). [PubMed] [Google Scholar]
+   14. Koonin E. V., Viruses and mobile elements as drivers of
+   evolutionary transitions. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+   371, 20150442 (2016). [PMC free article] [PubMed] [Google Scholar]
+   15. Koonin E. V., Makarova K. S., Wolf Y. I., Krupovic M., Evolutionary
+   entanglement of mobile genetic elements and host defence systems: Guns
+   for hire. Nat. Rev. Genet. 21, 119–131 (2020). [PubMed] [Google
+   Scholar]
+   16. Koonin E. V., Wolf Y. I., Katsnelson M. I., Inevitability of the
+   emergence and persistence of genetic parasites caused by thermodynamic
+   instability of parasite-free states. Biol. Direct 12, 31 (2017). [PMC
+   free article] [PubMed] [Google Scholar]
+   17. Nelson P., Masel J., Intercellular competition and the
+   inevitability of multicellular aging. Proc. Natl. Acad. Sci. U.S.A.
+   114, 12982–12987 (2017). [PMC free article] [PubMed] [Google Scholar]
+   18. Boddy A. M., Huang W., Aktipis A., Life history trade-offs in
+   tumors. Curr. Pathobiol. Rep. 6, 201–207 (2018). [PMC free article]
+   [PubMed] [Google Scholar]
+   19. Szathmáry E., Smith J. M., The major evolutionary transitions.
+   Nature 374, 227–232 (1995). [PubMed] [Google Scholar]
+   20. Maynard Smith J., Szathmary E., The Major Transitions in Evolution
+   (Oxford University Press, Oxford, United Kingdom, 1997). [Google
+   Scholar]
+   21. Szathmáry E., Toward major evolutionary transitions theory 2.0.
+   Proc. Natl. Acad. Sci. U.S.A. 112, 10104–10111 (2015). [PMC free
+   article] [PubMed] [Google Scholar]
+   22. Czégel D., Zachar I., Szathmáry E., Multilevel selection as
+   Bayesian inference, major transitions in individuality as structure
+   learning. R. Soc. Open Sci. 6, 190202 (2019). [PMC free article]
+   [PubMed] [Google Scholar]
+   23. Okashi S., Evolution and the Levels of Selection (Oxford University
+   Press, Oxford, United Kingdom, 2006). [Google Scholar]
+   24. Brunet T. D., Doolittle W. F., Multilevel selection theory and the
+   evolutionary functions of transposable elements. Genome Biol. Evol. 7,
+   2445–2457 (2015). [PMC free article] [PubMed] [Google Scholar]
+   25. Gardner A., The genetical theory of multilevel selection. J. Evol.
+   Biol. 28, 305–319 (2015). [PMC free article] [PubMed] [Google Scholar]
+   26. Jeler C., Explanatory goals and explanatory means in multilevel
+   selection theory. Hist. Philos. Life Sci. 42, 36 (2020). [PubMed]
+   [Google Scholar]
+   27. Wade M. J., et al., Multilevel and kin selection in a connected
+   world. Nature 463, E8–E9 (2010). [PMC free article] [PubMed] [Google
+   Scholar]
+   28. Márquez-Zacarías P., et al., Evolution of cellular differentiation:
+   From hypotheses to models. Trends Ecol. Evol. 36, 49–60 (2021).
+   [PubMed] [Google Scholar]
+   29. Niklas K. J., Newman S. A., The many roads to and from
+   multicellularity. J. Exp. Bot. 71, 3247–3253 (2020). [PMC free article]
+   [PubMed] [Google Scholar]
+   30. Kramer J., Meunier J., Kin and multilevel selection in social
+   evolution: A never-ending controversy? F1000 Res. 5, 5 (2016). [PMC
+   free article] [PubMed] [Google Scholar]
+   31. Edwards S. F., Anderson P. W., Theory of spin glasses. J. Phys. F
+   Met. Phys. 5, 965–974 (1975). [Google Scholar]
+   32. Fischer K. H., Hertz J. A., Spin Glasses (Cambridge University
+   Press, Cambridge, United Kingdom, 1993). [Google Scholar]
+   33. McLeish T. C., Are there ergodic limits to evolution? Ergodic
+   exploration of genome space and convergence. Interface Focus 5,
+   20150041 (2015). [PMC free article] [PubMed] [Google Scholar]
+   34. Schroedinger E., What is Life? The Physical Aspect of the Living
+   Cell (Trinity College Press, Dublin, Ireland, 1944). [Google Scholar]
+   35. Vanchurin V., Towards a theory of machine learning. Mach. Learn.
+   Sci. Technol. 2, 035012 (2021). [Google Scholar]
+   36. Vanchurin V., The world as a neural network. Entropy (Basel) 22,
+   E1210 (2020). [PMC free article] [PubMed] [Google Scholar]
+   37. Valiant L., Probably Approximately Correct: Nature’s Algorithms for
+   Learning and Prospering in a Complex World (Basic Books, New York, NY,
+   ed. 1, 2013). [Google Scholar]
+   38. Watson R. A., Szathmáry E., How can evolution learn? Trends Ecol.
+   Evol. 31, 147–157 (2016). [PubMed] [Google Scholar]
+   39. Benfatto G., Gallavotti G., Renormalization Group (Physics Notes
+   Book 1) (Princeton University Press, Princeton, NJ, 2020). [Google
+   Scholar]
+   40. Goldenfeld N., Lectures on Phase Transitions and the
+   Renormalization Group (Frontiers in Physics) (Addison-Wesley, New York,
+   NY, 1972). [Google Scholar]
+   41. Katsnelson M. I., Wolf Y. I., Koonin E. V., Towards physical
+   principles of biological evolution. Phys. Scr. 93, 043001 (2018).
+   [Google Scholar]
+   42. Laughlin R. B., Pines D., The theory of everything. Proc. Natl.
+   Acad. Sci. U.S.A. 97, 28–31 (2000). [PMC free article] [PubMed] [Google
+   Scholar]
+   43. Laughlin R. B., Pines D., Schmalian J., Stojkovic B. P., Wolynes
+   P., The middle way. Proc. Natl. Acad. Sci. U.S.A. 97, 32–37 (2000).
+   [PMC free article] [PubMed] [Google Scholar]
+   44. Darwin C., On the Origin of Species (A. F. Murray, London, United
+   Kingdom, 1859). [Google Scholar]
+   45. Dobzhansky T., Genetics and the Origin of Species (Columbia
+   University Press, New York, NY, ed. 2, 1951). [Google Scholar]
+   46. Doolittle W. F., Inkpen S. A., Processes and patterns of
+   interaction as units of selection: An introduction to ITSNTS thinking.
+   Proc. Natl. Acad. Sci. U.S.A. 115, 4006–4014 (2018). [PMC free article]
+   [PubMed] [Google Scholar]
+   47. Lem S., Solaris (Pro Auctore Wojciech Zemek, ed. 2, 2014). [Google
+   Scholar]
+   48. Shelton D. E., Michod R. E., Group and individual selection during
+   evolutionary transitions in individuality: Meanings and partitions.
+   Philos. Trans. R. Soc. Lond. B Biol. Sci. 375, 20190364 (2020). [PMC
+   free article] [PubMed] [Google Scholar]
+   49. Bakhtin Y., Katsnelson M. I., Wolf Y. I., Koonin E. V., Evolution
+   in the weak-mutation limit: Stasis periods punctuated by fast
+   transitions between saddle points on the fitness landscape. Proc. Natl.
+   Acad. Sci. U.S.A. 118, e2015665118 (2021). [PMC free article] [PubMed]
+   [Google Scholar]
+   50. Koonin E. V., Wolf Y. I., Constraints and plasticity in genome and
+   molecular-phenome evolution. Nat. Rev. Genet. 11, 487–498 (2010). [PMC
+   free article] [PubMed] [Google Scholar]
+   51. Wright S., Adaptation and Selection. Genetics, Paleontology and
+   Evolution (Princeton University Press, Princeton, NJ, 1949). [Google
+   Scholar]
+   52. Lynch M., et al., Genetic drift, selection and the evolution of the
+   mutation rate. Nat. Rev. Genet. 17, 704–714 (2016). [PubMed] [Google
+   Scholar]
+   53. Gavrilets S., Fitness Landscapes and the Origin of Species
+   (Princeton University Press, Princeton, NJ, 2004). [Google Scholar]
+   54. Svensson E., Calsbeek R., The Adaptive Landscape in Evolutionary
+   Biology (Oxford University Press, Oxford, United Kingdom, 2012).
+   [Google Scholar]
+   55. Joyce G. F., The antiquity of RNA-based evolution. Nature 418,
+   214–221 (2002). [PubMed] [Google Scholar]
+   56. Joyce G. F., Szostak J. W., Protocells and RNA self-replication.
+   Cold Spring Harb. Perspect. Biol. 10, a034801 (2018). [PMC free
+   article] [PubMed] [Google Scholar]
+   57. Szathmáry E., The evolution of replicators. Philos. Trans. R. Soc.
+   Lond. B Biol. Sci. 355, 1669–1676 (2000). [PMC free article] [PubMed]
+   [Google Scholar]
+   58. Szathmáry E., Maynard Smith J., From replicators to reproducers:
+   The first major transitions leading to life. J. Theor. Biol. 187,
+   555–571 (1997). [PubMed] [Google Scholar]
+   59. Adamski P., et al., From self-replication to replicator systems en
+   route to de novo life. Nat. Rev. Chem. 4, 386–403 (2020). [Google
+   Scholar]
+   60. Crick F., Central dogma of molecular biology. Nature 227, 561–563
+   (1970). [PubMed] [Google Scholar]
+   61. Davis M., The Universal Computer: The Road from Leibniz to Turing
+   (W. W. Norton & Co., New York, NY, 2010). [Google Scholar]
+   62. Von Neumann J., First draft of a report on the EDVAC (1945).
+   https://web.archive.org/web/20130314123032/qss.stanford.edu/~godfrey/vo
+   nNeumann/vnedvac.pdf. Accessed 27 September 2021.
+   63. Kun A., Santos M., Szathmáry E., Real ribozymes suggest a relaxed
+   error threshold. Nat. Genet. 37, 1008–1011 (2005). [PubMed] [Google
+   Scholar]
+   64. Woese C., The universal ancestor. Proc. Natl. Acad. Sci. U.S.A. 95,
+   6854–6859 (1998). [PMC free article] [PubMed] [Google Scholar]
+   65. Woese C. R., On the evolution of cells. Proc. Natl. Acad. Sci.
+   U.S.A. 99, 8742–8747 (2002). [PMC free article] [PubMed] [Google
+   Scholar]
+   66. Smith J. M., Natural selection and the concept of a protein space.
+   Nature 225, 563–564 (1970). [PubMed] [Google Scholar]
+   67. Iranzo J., Cuesta J. A., Manrubia S., Katsnelson M. I., Koonin E.
+   V., Disentangling the effects of selection and loss bias on gene
+   dynamics. Proc. Natl. Acad. Sci. U.S.A. 114, E5616–E5624 (2017). [PMC
+   free article] [PubMed] [Google Scholar]
+   68. Sagan L., On the origin of mitosing cells. J. Theor. Biol. 14,
+   255–274 (1967). [PubMed] [Google Scholar]
+   69. Embley T. M., Martin W., Eukaryotic evolution, changes and
+   challenges. Nature 440, 623–630 (2006). [PubMed] [Google Scholar]
+   70. Iranzo J., Lobkovsky A. E., Wolf Y. I., Koonin E. V., Virus-host
+   arms race at the joint origin of multicellularity and programmed cell
+   death. Cell Cycle 13, 3083–3088 (2014). [PMC free article] [PubMed]
+   [Google Scholar]
+   71. Nedelcu A. M., Driscoll W. W., Durand P. M., Herron M. D., Rashidi
+   A., On the paradigm of altruistic suicide in the unicellular world.
+   Evolution 65, 3–20 (2011). [PubMed] [Google Scholar]
+   72. Durand P. M., The Evolutionary Origins of Life and Death
+   (University of Chicago Press, Chicago, IL, 2021). [Google Scholar]
+   73. Koonin E. V., Aravind L., Origin and evolution of eukaryotic
+   apoptosis: The bacterial connection. Cell Death Differ. 9, 394–404
+   (2002). [PubMed] [Google Scholar]
+   74. Haykin S. S., Neural Networks: A Comprehensive Foundation (Prentice
+   Hall, New York, NY, 1999). [Google Scholar]
+   75. Galushkin A. I., Neural Networks Theory (Springer, New York, NY,
+   2007). [Google Scholar]
+   76. Kimura M., The Neutral Theory of Molecular Evolution (Cambridge
+   University Press, Cambridge, United Kingdom, 1983). [Google Scholar]
+   77. Nei M., Selectionism and neutralism in molecular evolution. Mol.
+   Biol. Evol. 22, 2318–2342 (2005). [PMC free article] [PubMed] [Google
+   Scholar]
+   78. Reddy G., Desai M. M., Global epistasis emerges from a generic
+   model of a complex trait. eLife 10, e64740 (2021). [PMC free article]
+   [PubMed] [Google Scholar]
+   79. Sailer Z. R., Harms M. J., Molecular ensembles make evolution
+   unpredictable. Proc. Natl. Acad. Sci. U.S.A. 114, 11938–11943 (2017).
+   [PMC free article] [PubMed] [Google Scholar]
+   80. Wagner A., Neutralism and selectionism: A network-based
+   reconciliation. Nat. Rev. Genet. 9, 965–974 (2008). [PubMed] [Google
+   Scholar]
+   81. Miller J. H., The Operon (Cold Spring Harbor Laboratory Press, Cold
+   Spring Harbor, NY, 1980). [Google Scholar]
+   82. Mejía-Almonte C., et al., Redefining fundamental concepts of
+   transcription initiation in bacteria. Nat. Rev. Genet. 21, 699–714
+   (2020). [PMC free article] [PubMed] [Google Scholar]
+   83. Lynch M., Evolution of the mutation rate. Trends Genet. 26, 345–352
+   (2010). [PMC free article] [PubMed] [Google Scholar]
+   84. Friston K., Kilner J., Harrison L., A free energy principle for the
+   brain. J. Physiol. Paris 100, 70–87 (2006). [PubMed] [Google Scholar]
+   85. Crow J. F., Kimura M., Introduction to Population Genetics Theory
+   (Harper and Row, New York, NY, 1970). [Google Scholar]
+   86. Vanchurin V., Wolf Y. I., Koonin E. V., Katsnelson M. I.,
+   Thermodynamics of evolution and the origin of life. Proc. Natl. Acad.
+   Sci. U.S.A. 119, 10.1073/pnas.2120042119 (2022). [PMC free article]
+   [PubMed] [CrossRef] [Google Scholar]
+   87. Katsnelson M. I., Vanchurin V., Westerhout T., Self-organized
+   criticality in neural networks. arXiv [Preprint] (2021).
+   https://arxiv.org/abs/2107.03402 (Accessed 22 January 2022).
+   88. Katsnelson M. I., Vanchurin V., Quantumness in neural networks.
+   Found. Phys. 51, 94 (2021). [Google Scholar]
+   89. Carroll S. M., Spacetime and Geometry: An Introduction to General
+   Relativity (Addison-Wesley, San Francisco, CA, 2004). [Google Scholar]
+   90. Bagrov A. A., Iakovlev I. A., Iliasov A. A., Katsnelson M. I.,
+   Mazurenko V. V., Multiscale structural complexity of natural patterns.
+   Proc. Natl. Acad. Sci. U.S.A. 117, 30241–30251 (2020). [PMC free
+   article] [PubMed] [Google Scholar]
+   91. Haken H., Synergetics, an Introduction: Nonequilibrium Phase
+   Transitions and Self-Organization in Physics, Chemistry, and Biology
+   (Springer, New York, NY, 1983). [Google Scholar]
+   92. Haken H., Advanced Synergetics: Instability Hierarchies of
+   Self-Organizing Systems and Devices (Springer, New York, NY, 1994).
+   [Google Scholar]
+   93. Prigogine I. R., Stengers I., Order out of Chaos (Bantam, London,
+   United Kingdom, 1984). [Google Scholar]
+   94. Mezard M., Parisi G., Virasoro M. A., Eds., Spin Glass Theory and
+   Beyond (World Scientific, Singapore, 1987). [Google Scholar]
+   95. Kolmus A., Katsnelson M. I., Khajetoorians A. A., Kappen H. J.,
+   Atom-by-atom construction of attractors in a tunable finite size spin
+   array. New J. Phys. 22, 023038 (2020). [Google Scholar]
+   96. Bak P., How Nature Works. The Science of Self-Organized Criticality
+   (Springer, New York, NY, 1996). [Google Scholar]
+   97. Bak P., Tang C., Wiesenfeld K., Self-organized criticality: An
+   explanation of the 1/f noise. Phys. Rev. Lett. 59, 381–384 (1987).
+   [PubMed] [Google Scholar]
+   98. Dobzhansky T., Nothing in biology makes sense except in the light
+   of evolution. Am. Biol. Teach. 35, 125–129 (1973). [Google Scholar]
+   99. Copley S. D., Smith E., Morowitz H. J., The origin of the RNA
+   world: Co-evolution of genes and metabolism. Bioorg. Chem. 35, 430–443
+   (2007). [PubMed] [Google Scholar]
+   100. Kahana A., Lancet D., Self-reproducing catalytic micelles as
+   nanoscopic protocell precursors. Nat. Rev. Chem. 5, 870–878 (2021).
+   [Google Scholar]
+   101. Vetsigian K., Woese C., Goldenfeld N., Collective evolution and
+   the genetic code. Proc. Natl. Acad. Sci. U.S.A. 103, 10696–10701
+   (2006). [PMC free article] [PubMed] [Google Scholar]
+   102. Gánti T., Chemoton Theory: Theory of Living Systems (Kluwer
+   Academic, Plenum, New York, NY, 2004). [Google Scholar]
+   103. Szathmáry E., Life: In search of the simplest cell. Nature 433,
+   469–470 (2005). [PubMed] [Google Scholar]
+   104. Zachar I., Fedor A., Szathmáry E., Two different template
+   replicators coexisting in the same protocell: Stochastic simulation of
+   an extended chemoton model. PLoS One 6, e21380 (2011). [PMC free
+   article] [PubMed] [Google Scholar]
+   105. Dicke R. H., Dirac’s cosmology and Mach’s principle. Nature 192,
+   440–441 (1961). [Google Scholar]
+     __________________________________________________________________
+
+   Articles from Proceedings of the National Academy of Sciences of the
+   United States of America are provided here courtesy of National Academy
+   of Sciences
+     __________________________________________________________________
+
+Other Formats
+
+     * PubReader
+     * PDF (692K)
+
+Actions
+
+     * (BUTTON) Cite
+     *
+
+   (BUTTON) Collections
+   Add to Collections
+     * ( ) Create a new collection
+     * (*) Add to an existing collection
+
+   Name your collection: ____________________
+   Name must be less than characters
+   Choose a collection:
+   Unable to load your collection due to an error
+   Please try again
+   (BUTTON) Add (BUTTON) Cancel
+
+        Share
+
+     *
+     *
+     * (BUTTON)
+       Permalink
+       https://www.ncbi.nlm (BUTTON) Copy
+
+        RESOURCES
+
+     * (BUTTON) Similar articles
+     * (BUTTON) Cited by other articles
+     * (BUTTON) Links to NCBI Databases
+
+   (BUTTON) [x]
+   Cite
+   (BUTTON) Copy Download .nbib .nbib
+   Format: [NLM]
+
+   Follow NCBI
+
+   Connect with NLM
+     *
+     *
+     *
+
+   National Library of Medicine
+   8600 Rockville Pike
+   Bethesda, MD 20894
+
+   Web Policies
+   FOIA
+   HHS Vulnerability Disclosure
+
+   Help
+   Accessibility
+   Careers
+     * NLM
+     * NIH
+     * HHS
+     * USA.gov

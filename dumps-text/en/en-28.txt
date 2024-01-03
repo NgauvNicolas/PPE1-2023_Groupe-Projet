@@ -38,7 +38,7 @@ Science X Account
    [INS: :INS]
      * (BUTTON)
      * share this!
-     * 162
+     * 197
      * Twit
      * Share
      * Email
@@ -282,7 +282,7 @@ Looking forward
    change
      __________________________________________________________________
 
-   168 shares
+   203 shares
      * Facebook
      * Twitter
      * Email
@@ -296,14 +296,14 @@ Looking forward
 Globular cluster VVV CL002 is falling down to the galactic center, study
 finds
 
-   1 hour ago
+   3 hours ago
 
    0
 
 Lake fish in New York are losing habitat due to two threats associated with
 climate change, study shows
 
-   22 hours ago
+   Jan 2, 2024
 
    0
 
@@ -327,63 +327,59 @@ First pulsar detected in globular cluster GLIMPSE-C01
    0
      __________________________________________________________________
 
-Globular cluster VVV CL002 is falling down to the galactic center, study
-finds
+Chicken whisperers: Humans crack the clucking code
+
+   10 minutes ago
+
+Evolution is not as random as previously thought, finds new study
+
+   13 minutes ago
+
+Magnetic fields in the cosmos: Dark matter could help us discover their
+origin
 
    1 hour ago
 
-Pathogenic bacteria use molecular 'shuttle services' to fill their injection
-apparatus with the right product
+On-demand conformation of an artificial cytoskeleton
 
-   4 hours ago
+   1 hour ago
 
-What makes urine yellow? Scientists discover the enzyme responsible
+Survival of the fittest: Words like 'sex' and 'fight' are most likely to
+stand the test of time
 
-   4 hours ago
+   1 hour ago
 
-New research shows 'juvenile' T. rex fossils are a distinct species of small
-tyrannosaur
+How cells accurately assemble complex machinery
 
-   14 hours ago
+   1 hour ago
 
-Using electricity, scientists find promising new method of boosting chemical
-reactions
+Cracking the secrets of virus 'uncoating' may help fight infections
 
-   16 hours ago
+   1 hour ago
 
-California singing fish's midbrain may serve as a model for how mammals
-control vocal expressions
+Microbial awakening restructures high-latitude food webs as permafrost thaws
 
-   16 hours ago
+   1 hour ago
 
-How tomato plants use their roots to ration water during drought
+Non-toxic quantum dots pave the way towards CMOS shortwave infrared image
+sensors for consumer electronics
 
-   16 hours ago
+   1 hour ago
 
-Targeted household cleaning can reduce toxic chemicals post-wildfire,
-research shows
+Early primates likely lived in pairs, research suggests
 
-   16 hours ago
-
-Astrophysicists explore links between atmospheric oxygen and detecting
-extraterrestrial technology on distant planets
-
-   17 hours ago
-
-Study: From NYC to DC and beyond, cities on the East Coast are sinking
-
-   17 hours ago
+   1 hour ago
      __________________________________________________________________
 
 Relevant PhysicsForums posts
 
 In praise of Pandas
 
-   15 hours ago
+   17 hours ago
 
 How does one check life signs of an insect?
 
-   17 hours ago
+   19 hours ago
 
 How a-priori intelligence is even possible?
 
@@ -433,27 +429,27 @@ Rethinking boundaries in a warming world
 
 Recommended for you
 
+Microbial awakening restructures high-latitude food webs as permafrost thaws
+       1 hour ago
+
+Early primates likely lived in pairs, research suggests
+       1 hour ago
+
+New research shows 'juvenile' T. rex fossils are a distinct species of small
+tyrannosaur
+       16 hours ago
+
+'Nutritional quality must be at the heart of climate-smart agriculture,'
+researchers say
+       Jan 2, 2024
+
 New high-speed video system uses sensors, infrared illumination to track
 insects in large wild areas
        Jan 2, 2024
 
-New research shows 'juvenile' T. rex fossils are a distinct species of small
-tyrannosaur
-       14 hours ago
-
 Lake fish in New York are losing habitat due to two threats associated with
 climate change, study shows
-       22 hours ago
-
-Matabele ants recognize infected wounds and treat them with antibiotics
-       22 hours ago
-
-'Nutritional quality must be at the heart of climate-smart agriculture,'
-researchers say
-       21 hours ago
-
-Unraveling the evolutionary origins of umami and sweet taste preferences
-       Dec 29, 2023
+       Jan 2, 2024
 
    IFRAME:
    //js.trendmd.com/trendmd.amp.html?title=Evolution%20might%20stop%20huma
