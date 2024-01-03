@@ -1,4 +1,523 @@
+   #top search
 
-   REFRESH(0 sec):
-   https://medlineplus.gov/genetics/understanding/mutationsanddisorders/ev
-   olution/
+   Phys.org
+   (BUTTON) Topics
+     * Week's top
+     * Latest news
+     * Unread news
+     * Subscribe
+
+   ____________________ (BUTTON)
+
+   (BUTTON)
+
+Science X Account
+
+   ____________________
+   ____________________
+   [X] Remember me
+   (BUTTON) Sign In
+
+   Click here to sign in with or
+
+   Forget Password?
+   Not a member? Sign up
+
+   Learn more
+
+     * Nanotechnology
+     * Physics
+     * Earth
+     * Astronomy & Space
+     * Chemistry
+     * Biology
+     * Other Sciences
+     * Medical Xpress Medicine
+     * Tech Xplore Technology
+
+   [INS: :INS]
+     * (BUTTON)
+     * share this!
+     * 132
+     * Twit
+     * Share
+     * Email
+
+    1. Home
+    2. Biology
+    3. Evolution
+
+    1. Home
+    2. Biology
+    3. Molecular & Computational biology
+
+     *
+     *
+     *
+     __________________________________________________________________
+
+   December 29, 2023
+   Editors' notes
+
+   This article has been reviewed according to Science X's editorial
+   process and policies. Editors have highlighted the following attributes
+   while ensuring the content's credibility:
+
+   fact-checked
+
+   peer-reviewed publication
+
+   proofread
+
+Unraveling the evolutionary origins of umami and sweet taste preferences
+
+   by Kindai University
+   Unraveling the evolutionary origins of umami and sweet taste
+   preferences A new study led by researchers from Kindai University
+   identified five new groups of umami and sweet taste receptors within
+   the TAS1R family (TAS1R 4, 5, 6, 7, and 8) and also diversity in TAS1R2
+   and TAS1R3 genes. Credit: Hidenori Nishihara from Kindai University
+
+   The perception of taste is one of the most important senses and helps
+   us identify beneficial foods and avoid harmful substances. For
+   instance, our fondness for sweet and savory foods results from our need
+   to consume carbohydrates and proteins. Given their importance as an
+   evolutionary trait, researchers around the world are investigating how
+   taste receptors originated and evolved over a period of time. Obtaining
+   these insights into the feeding behavior of organisms can help them
+   paint a picture of the history of life on Earth.
+
+   One of the important tastes in our taste palette is umami, or the
+   savory taste, which is associated with proteins that form a vital part
+   of the diets of many organisms. The taste receptor type 1 (T1R) detects
+   sweet and umami tastes among mammals. This taste receptor is encoded by
+   the TAS1R, a family of genes, including TAS1R1, TAS1R2, and TAS1R3, and
+   comes from a common ancestor of bony vertebrates.
+
+   However, this gene pattern is not observed in coelacanth and
+   cartilaginous fishes, where "taxonomically unplaced" TAS1R genes have
+   been identified, suggesting an incomplete understanding of the
+   evolutionary history of taste receptors.
+
+   Now, however, a research team led by Associate Professor Hidenori
+   Nishihara from Kindai University and Professor Yoshiro Ishimaru from
+   Meiji University, Japan, have identified five new, previously
+   undiscovered groups within the TAS1R family. This discovery is a result
+   of a genome-wide survey of jawed vertebrates including all major fish
+   groups.
+
+   The study, published in Nature Ecology & Evolution on December 13,
+   2023, includes the contributions of Senior Assistant Professor Yasuka
+   Toda from Meiji University, Professor Masataka Okabe from The Jikei
+   University School of Medicine, Professor Shigehiro Kuraku from the
+   National Institute of Genetics, and Project Associate Professor Shinji
+   Okada from The University of Tokyo.
+   [INS: :INS]
+
+   "Our study revealed that as compared to most modern vertebrates, the
+   vertebrate ancestor possessed more T1Rs. These findings challenge the
+   paradigm that only three T1R family members have been retained during
+   evolution," says Prof. Nishihara.
+   Unraveling the evolutionary origins of umami and sweet taste
+   preferences The color key indicates the names of the various T1R
+   members. Filled, colored circles on the branches indicate the presence
+   of the TAS1R members, whereas open circles indicate their absence.
+   Arrowheads above open circles indicate that the TAS1R member was lost
+   at the branch. Credit: Hidenori Nishihara from Kindai University
+
+   The novel taste receptor genes, named TAS1R4, TAS1R5, TAS1R6, TAS1R7,
+   and TAS1R8 by the researchers, were categorized based on their
+   distribution among species with a common ancestor. The researchers
+   found TAS1R4 genes to be present in lizards, axolotl, lungfishes,
+   coelacanth, bichir, and cartilaginous fishes, but absent in mammals,
+   birds, crocodilians, turtles, and teleost fishes. In addition, axolotl,
+   lungfishes, and coelacanth were found to have TAS1R5.
+
+   The researchers observed a close evolutionary relationship between
+   TAS1R5, TAS1R1, and TAS1R2, indicating a shared ancestry between these
+   genes. The cartilaginous fishes possess TAS1R6 exclusively. Notably,
+   the researchers found that TAS1R6 evolved from the same ancestral gene
+   that led to TAS1R1, TAS1R2, and TAS1R5 genes. While axolotl and lizards
+   possess TAS1R7, bichir and lungfishes possess TAS1R8. The researchers
+   determined that these two genes originated in the common ancestor of
+   jawed vertebrates.
+
+   In addition to these new genes, the study revealed diversity in the
+   existing TAS1R genes. For instance, they found that TAS1R3 of bony
+   vertebrates could be divided into TAS1R3A and TAS1R3B. TAS1R3A was
+   present in tetrapods and lungfishes, while TAS1R3B was identified in
+   amphibians, lungfishes, coelacanths, and ray-finned fishes.
+   Additionally, the genome survey found TAS1R2 to have diversified into
+   two distinct groups (TAS1R2A and TAS1R2B), challenging the conventional
+   idea that TAS1R2 forms a single gene group.
+
+   "We found that the TAS1R phylogenetic tree comprises of a total of 11
+   TAS1R clades, revealing an unexpected gene diversity," adds Prof.
+   Nishihara.
+
+   The findings also suggest that the first TAS1R gene appeared in jawed
+   vertebrates around 615–473 million years ago. The gene then underwent
+   several duplications to produce nine taste receptor genes (TAS1R1,2A,
+   2B, 3A, 3B, 4, 5, 7, and 8) in the common ancestor of bony vertebrates.
+   Over time, some of these genes were lost in different lineages, with
+   mammals and teleosts retaining only three TAS1Rs (TAS1R1, TAS1R2A, and
+   TAS1R3A in mammals).
+
+   In addition to shedding light on the evolutionary history, the findings
+   also have practical applications. Explaining these to us, Prof.
+   Nishihara says, "These findings make it easier for us to deduce the
+   taste preferences of diverse vertebrates. This, in turn, can have
+   potential applications such as the development of pet foods and
+   attractants tailored to the preferences of fish, amphibians, and
+   reptiles."
+
+   More information: Hidenori Nishihara et al, A vertebrate-wide catalogue
+   of T1R receptors reveals diversity in taste perception, Nature Ecology
+   & Evolution (2023). DOI: 10.1038/s41559-023-02258-8
+
+   Journal information: Nature Ecology & Evolution
+
+   Provided by Kindai University
+   Citation: Unraveling the evolutionary origins of umami and sweet taste
+   preferences (2023, December 29) retrieved 3 January 2024 from
+   https://phys.org/news/2023-12-unraveling-evolutionary-umami-sweet.html
+   This document is subject to copyright. Apart from any fair dealing for
+   the purpose of private study or research, no part may be reproduced
+   without the written permission. The content is provided for information
+   purposes only.
+     __________________________________________________________________
+
+   Explore further
+   Evolution of taste: Study discovers bitter taste receptor in sharks
+     __________________________________________________________________
+
+   133 shares
+     * Facebook
+     * Twitter
+     * Email
+
+   Feedback to editors
+
+     * Featured
+     * Last Comments
+     * Popular
+
+Globular cluster VVV CL002 is falling down to the galactic center, study
+finds
+
+   1 hour ago
+
+   0
+
+Lake fish in New York are losing habitat due to two threats associated with
+climate change, study shows
+
+   22 hours ago
+
+   0
+
+New high-speed video system uses sensors, infrared illumination to track
+insects in large wild areas
+
+   Jan 2, 2024
+
+   0
+
+New ultra-short period binary discovered
+
+   Jan 2, 2024
+
+   0
+
+First pulsar detected in globular cluster GLIMPSE-C01
+
+   Dec 30, 2023
+
+   0
+     __________________________________________________________________
+
+Globular cluster VVV CL002 is falling down to the galactic center, study
+finds
+
+   1 hour ago
+
+Pathogenic bacteria use molecular 'shuttle services' to fill their injection
+apparatus with the right product
+
+   4 hours ago
+
+What makes urine yellow? Scientists discover the enzyme responsible
+
+   4 hours ago
+
+New research shows 'juvenile' T. rex fossils are a distinct species of small
+tyrannosaur
+
+   14 hours ago
+
+Using electricity, scientists find promising new method of boosting chemical
+reactions
+
+   16 hours ago
+
+California singing fish's midbrain may serve as a model for how mammals
+control vocal expressions
+
+   16 hours ago
+
+How tomato plants use their roots to ration water during drought
+
+   16 hours ago
+
+Targeted household cleaning can reduce toxic chemicals post-wildfire,
+research shows
+
+   16 hours ago
+
+Astrophysicists explore links between atmospheric oxygen and detecting
+extraterrestrial technology on distant planets
+
+   17 hours ago
+
+Study: From NYC to DC and beyond, cities on the East Coast are sinking
+
+   17 hours ago
+     __________________________________________________________________
+
+Relevant PhysicsForums posts
+
+In praise of Pandas
+
+   15 hours ago
+
+How does one check life signs of an insect?
+
+   17 hours ago
+
+How a-priori intelligence is even possible?
+
+   Jan 1, 2024
+
+An anaerobic denitrification question
+
+   Jan 1, 2024
+
+What are mesocarnivore/hypocarnivore/omnivore?
+
+   Dec 30, 2023
+
+What do large moles on the body indicate?
+
+   Dec 30, 2023
+
+   More from Biology and Medical
+     __________________________________________________________________
+
+   [INS: :INS]
+
+     *
+
+Related Stories
+
+Evolution of taste: Study discovers bitter taste receptor in sharks
+       Nov 13, 2023
+
+Researchers solve puzzle of water-to-land transition of vertebrates
+       Feb 26, 2021
+
+Common ancestors of bats were omnivorous, according to resurrection of
+ancestral sweet receptors
+       Aug 8, 2023
+
+Evolutionary biologists solve puzzle of evolutionary relationships among
+vertebrates
+       Jul 24, 2017
+
+Inside the shark nursery: The evolution of live birth in cartilaginous fish
+       Mar 16, 2023
+
+Researchers establish basis of development of vertebrate limb muscles in
+cartilaginous fishes
+       Oct 2, 2017
+     *
+
+Recommended for you
+
+Pathogenic bacteria use molecular 'shuttle services' to fill their injection
+apparatus with the right product
+       4 hours ago
+
+What makes urine yellow? Scientists discover the enzyme responsible
+       4 hours ago
+
+Evolution might stop humans from solving climate change, researchers say
+       18 hours ago
+
+New research shows 'juvenile' T. rex fossils are a distinct species of small
+tyrannosaur
+       14 hours ago
+
+California singing fish's midbrain may serve as a model for how mammals
+control vocal expressions
+       16 hours ago
+
+Novel approach uses ionic liquids for diverse aptamer applications
+       19 hours ago
+
+   IFRAME:
+   //js.trendmd.com/trendmd.amp.html?title=Unraveling%20the%20evolutionary
+   %20origins%20of%20umami%20and%20sweet%20taste%20preferences&url=https%3
+   A%2F%2Fphys.org%2Fnews%2F2023-12-unraveling-evolutionary-umami-sweet.ht
+   ml&journalId=62675
+
+   Load comments (0)
+
+Let us know if there is a problem with our content
+
+   (BUTTON)
+
+   Use this form if you have come across a typo, inaccuracy or would like
+   to send an edit request for the content on this page. For general
+   inquiries, please use our contact form. For general feedback, use the
+   public comments section below (please adhere to guidelines).
+
+   Please select the most appropriate category to facilitate processing of
+   your request
+   [-- please select one --______]
+   Your message to the editors
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Your email (only if you want to be contacted back) ____________________
+   (BUTTON) Send Feedback
+
+   Thank you for taking time to provide your feedback to the editors.
+
+   Your feedback is important to us. However, we do not guarantee
+   individual replies due to the high volume of messages.
+
+E-mail the story
+
+Unraveling the evolutionary origins of umami and sweet taste preferences
+
+   (BUTTON)
+   Your friend's email ____________________
+   Your email ____________________
+   [ ] I would like to subscribe to Science X Newsletter. Learn more
+   Your name ____________________
+
+Note
+
+   Your email address is used only to let the recipient know who sent the
+   email. Neither your address nor the recipient's address will be used
+   for any other purpose. The information you enter will appear in your
+   e-mail message and is not retained by Phys.org in any form.
+   Your message
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Send
+
+   (BUTTON)
+
+   (BUTTON)
+
+Newsletter sign up
+
+   Get weekly and/or daily updates delivered to your inbox. You can
+   unsubscribe at any time and we'll never share your details to third
+   parties.
+   ____________________
+   (BUTTON) Subscribe
+
+   More information Privacy policy
+
+   (BUTTON)
+
+Donate and enjoy an ad-free experience
+
+   We keep our content available to everyone. Consider supporting
+   Science X's mission by getting a premium account.
+   Remove ads
+   Maybe later
+
+   Medical Xpress
+
+Medical Xpress
+
+   Medical research advances and health news
+   Tech Xplore
+
+Tech Xplore
+
+   The latest engineering, electronics and technology advances
+   Science X
+
+Science X
+
+   The most comprehensive sci-tech news coverage on the web
+
+Newsletters
+
+   ____________________
+   (BUTTON) Subscribe
+   Science X Daily and the Weekly Email Newsletter are free features that
+   allow you to receive your favorite sci-tech news updates in your email
+   inbox
+
+Follow us
+
+     *
+     *
+     *
+     *
+
+     * Top
+     * Home
+     * Search
+     * Mobile version
+
+     * Help
+     * FAQ
+     * About
+     * Contact
+
+     * Science X Account
+     * Premium Account
+     * Archive
+     * News wire
+
+     * Android app
+     * iOS app
+     * RSS feeds
+     * Push notification
+
+   © Phys.org 2003 - 2024 powered by Science X Network
+   Privacy policy Terms of use
+
+   (BUTTON)
+
+E-mail newsletter
+
+   ____________________
+   (BUTTON) Subscribe
+
+Follow us
+
+     *
+     *
+     *
+     *
+
+   It appears that you are currently using Ad Blocking software. What are
+   the consequences? (BUTTON) ×
+
+   Quantcast

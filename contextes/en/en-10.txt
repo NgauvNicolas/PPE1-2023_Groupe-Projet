@@ -1,2 +1,193 @@
+   Search Search
 
-   REFRESH(0 sec): https://boardgamegeek.com/boardgame/155703/evolution
+   evolution___________
+   (BUTTON) (BUTTON) English (BUTTON)
+   {{word}} {{#beta}} Beta{{/beta}}
+--
+   {{/preferredDictionaries}}
+
+                        Meaning of evolution in English
+
+   evolution
+   noun [ U ]
+   uk
+--
+   the way in which living things change and develop over millions of
+   years:
+   Darwin's theory of evolution
+   B2
+   a gradual process of change and development:
+   the evolution of language
+
+   More examplesFewer examples
+     * Religious traditionalists objected to theories of evolution being
+       taught in schools.
+     * We watched a documentary about the story of human evolution over
+       the last three million years.
+     * The new telescope has helped us to understand more about the
+       evolution of the universe.
+     * This product was an extremely significant step in the evolution of
+       computer games.
+     * Natural selection is seen as the force which directs the course of
+       evolution by preserving those traits best adapted to survive.
+
+   SMART Vocabulary: related words and phrases
+--
+   You can also find related words, phrases, and synonyms in the topics:
+   Change and changes
+   (Definition of evolution from the Cambridge Advanced Learnerʼs
+   Dictionary & Thesaurus © Cambridge University Press)
+
+evolution | American Dictionary
+
+   evolution
+   noun [ U ]
+   us
+--
+   a gradual process of change and development
+   biology
+   Evolution is the process by which the physical characteristics of types
+   of creatures change over time, new types of creatures develop, and
+   others disappear.
+   (Definition of evolution from the Cambridge Academic Content Dictionary
+   © Cambridge University Press)
+
+evolution | Business English
+
+   evolution
+   noun [ U or C ]
+   uk
+--
+   Add to word list Add to word list
+   a gradual process of change and development:
+   the evolution of sth The evolution of modern management began in the
+   last decades of the nineteenth century.
+   evolution from sth to/into sth As CEO he has overseen the company’s
+   evolution from a small agency into a top-rated global firm.
+   (Definition of evolution from the Cambridge Business English Dictionary
+   © Cambridge University Press)
+
+Examples of evolution
+
+   evolution
+   We describe the different kinds of dynamic behavior observed, and we
+   characterize the bifurcations that mark the transitions between
+   qualitatively different time evolutions.
+   From the Cambridge English Corpus
+   Literary scholars, borrowing evolution's discursive vocabulary of
+   "species," "morphology," and "inheritance," often foregrounded
+   precisely these quasi-botanical questions of form, structure, and
+   genres.
+   From the Cambridge English Corpus
+   Before analysing these evolutions, it is necessary to set out the
+   linguistic usage within the beylical court.
+   From the Cambridge English Corpus
+   Color is fundamentally concrete, material, and deeply embedded in the
+   lives, ecologies, and evolutions of the organisms that perceive it.
+   From the Cambridge English Corpus
+   In this survey we will examine only the case of discrete evolutions of
+   the form (2.11).
+   From the Cambridge English Corpus
+   We speculate, nonetheless, that different types of raphe might lead to
+   different evolutions of aortic stenosis.
+   From the Cambridge English Corpus
+   Different temporal evolutions of genetic structure have been detected.
+   From the Cambridge English Corpus
+   Getting to the year 3000: can global bioethics overcome evolution's
+   fatal flaw?
+   From the Cambridge English Corpus
+   The process produced good continuous evolutions and transformations of
+   the graphic image which were well controlled.
+   From the Cambridge English Corpus
+   The volumes become larger or smaller in their course of time evolutions
+   if they experience some compressibility.
+   From the Cambridge English Corpus
+   During both evolutions, we keep track of the fresh variables created in
+   the machines in order to define the appropriate -renaming.
+   From the Cambridge English Corpus
+   All these local evolutions are considered to occur simultaneously,
+   entwined in a parallel (global) step.
+   From the Cambridge English Corpus
+   Resources are the necessary prerequisites for system evolutions.
+   From the Cambridge English Corpus
+   In fact, the notion of randomness lies at the centre of dynamic
+   unpredictability: a deterministic system is unpredictable precisely
+   when it presents random evolutions.
+   From the Cambridge English Corpus
+   Figure 1 shows the time evolutions of the electron density and the
+   temperature.
+   From the Cambridge English Corpus
+   See all examples of evolution
+   These examples are from corpora and from sources on the web. Any
+   opinions in the examples do not represent the opinion of the Cambridge
+   Dictionary editors or of Cambridge University Press or its licensors.
+
+Collocations with evolution
+
+evolution
+
+   These are words often used in combination with evolution.
+
+   Click on a collocation to see more examples of it.
+   adaptive evolution
+   The population ecology of contemporary adaptations: what empirical
+   studies reveal about conditions that promote adaptive evolution.
+   From the Cambridge English Corpus
+   biological evolution
+   This difference becomes apparent after a long period of biological
+   evolution.
+   From the Cambridge English Corpus
+   chemical evolution
+   The efficiency of the mechanism may be one of the selection factors at
+   some stages of the chemical evolution in the aquifer.
+   From the Cambridge English Corpus
+   These examples are from corpora and from sources on the web. Any
+   opinions in the examples do not represent the opinion of the Cambridge
+   Dictionary editors or of Cambridge University Press or its licensors.
+   See all collocations with evolution
+   What is the pronunciation of evolution?
+
+   B2,B2
+
+Translations of evolution
+
+   in Chinese (Traditional)
+--
+   vývoj…
+   See more
+   udvikling, evolution…
+   See more
+   evolusi…
+--
+   perkembangan, evolusi…
+   See more
+   die Entwicklung, die Evolution…
+   See more
+   utvikling [masculine], evolusjon [masculine], utvikling…
+--
+   evoking
+   evolute BETA
+   evolution
+   evolutionarily
+   evolutionary
+   evolutionary biology BETA
+   evolutionary track BETA
+
+   {{#randomImageQuizHook.isQuiz}}
+--
+   {{/randomImageQuizHook.isQuiz}}
+
+More meanings of evolution
+
+   All
+     * anti-evolution
+     * brand evolution
+     * parallel evolution
+
+   See all meanings
+--
+   My word lists
+
+   Add evolution to one of your lists below, or create a new one.
+   (BUTTON)
+   ____________________

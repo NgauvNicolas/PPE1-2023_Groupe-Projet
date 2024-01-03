@@ -1,2 +1,32 @@
+    3. Educational Resources
+    4. Talking Glossary of Genomic and Genetic Terms
+    5. Evolution
 
-   REFRESH(0 sec): https://www.theguardian.com/science/evolution
+   Home
+--
+   NHGRI logo
+
+   Evolution_hero
+
+​Evolution
+
+   updated: December 29, 2023
+--
+Definition
+
+   Evolution, as related to genomics, refers to the process by which
+   living organisms change over time through changes in the genome. Such
+   evolutionary changes result from mutations that produce genomic
+   variation, giving rise to individuals whose biological functions or
+   physical traits are altered. Those individuals who are best at adapting
+--
+   divergent functions or physical characteristics or may even evolve into
+   a different species.
+   Evolution
+
+Narration
+
+   Evolution. Studying the science of evolution can completely transform
+   our understanding of the subject of history. Evolution is, in a way,
+   the history of all living organisms on Earth. And the timescale for
+   appreciating that history is just so many orders of magnitude greater
