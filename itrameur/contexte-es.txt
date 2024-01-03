@@ -295,15 +295,16 @@
    #Escuela Particular Arrayan » Feed Escuela Particular Arrayan » Feed de
    los comentarios Escuela Particular Arrayan » Comentario Cómo los
    Cambios en la Sociedad han evoluciónado a lo Largo del Tiempo del feed
-   alternate alternate alternate
+   alternate alternate
 
 --
-     * Escuela Particular Arrayan
+     Uncategorized
 
-Cómo los Cambios en la Sociedad han evoluciónado a lo Largo del Tiempo
+     Cómo los Cambios en la Sociedad han evoluciónado a lo Largo del
+   Tiempo
 
-   por twpe1
---
+    Cómo los Cambios en la Sociedad han evoluciónado a lo Largo del Tiempo
+
    A lo largo de la historia, la sociedad ha experimentado numerosos
    cambios y transformaciones. Desde los primeros asentamientos humanos
    hasta la actualidad, la evolución de la sociedad ha sido constante y ha
@@ -437,17 +438,19 @@ Más artículos relacionados:
 
      * como-la-sociedad-ha-evoluciónado-a-traves-de-los-cambios Cómo la
        Sociedad ha evoluciónado a través de los Cambios
+     * ¿Que-es-la-historia-universal-o-mundial ¿Qué es la historia
+       universal o mundial?
+--
+     * ¿Cuales-son-los-tres-periodos-en-los-que-se-divide-la-prehistoria
+       ¿Cuáles son los tres periodos en los que se divide…
      * como-la-escritura-fue-creada-una-mirada-historica-a-la-evolución-de
        -la-escritura Cómo la Escritura Fue Creada: Una Mirada Histórica a…
-     * ¿Que-es-y-que-estudia-la-historia ¿Qué es y que estudia la
+     * ¿Cuales-son-las-4-etapas-de-la-tecnologia ¿Cuáles son las 4 etapas
 --
-     * ¿Cuales-son-las-5-etapas-de-la-historia-de-la-humanidad ¿Cuáles son
-       las 5 etapas de la historia de la humanidad?
-     * los-valores-en-la-sociedad-moderna-como-evoluciónan-y-adaptarse-a-l
-       os-cambios-actuales Los Valores en la Sociedad Moderna: Cómo
-       evoluciónan…
-     * ¿Que-tiempo-puede-durar-un-periodo-historico ¿Qué tiempo puede
-       durar un periodo histórico?
+     * Escuela Particular Arrayan
+     * Uncategorized
+     * Cómo los Cambios en la Sociedad han evoluciónado a lo Largo del
+       Tiempo
 </text>
 </page> §
 <page="es-13">
@@ -455,13 +458,16 @@ Más artículos relacionados:
    #Escuela Particular Arrayan » Feed Escuela Particular Arrayan » Feed de
    los comentarios Escuela Particular Arrayan » Comentario Cómo la
    Escritura Fue Creada: Una Mirada Histórica a la evolución de la
-   Escritura. del feed alternate alternate alternate
+   Escritura. del feed alternate alternate
 
 --
-     * Escuela Particular Arrayan
+     Uncategorized
 
-Cómo la Escritura Fue Creada: Una Mirada Histórica a la evolución de la
-Escritura.
+     Cómo la Escritura Fue Creada: Una Mirada Histórica a la evolución de
+   la Escritura.
+
+   Cómo la Escritura Fue Creada: Una Mirada Histórica a la evolución de la
+                                   Escritura.
 
 --
    años. Desde las primeras formas de escritura en el mundo antiguo, hasta
@@ -537,26 +543,16 @@ Más artículos relacionados:
        Descubriendo la Escritura: Los Orígenes de la…
      * como-ha-evoluciónado-la-escritura-a-lo-largo-de-la-historia Cómo ha
        evoluciónado la Escritura a lo Largo de la Historia
-     * explorando-la-historia-de-la-escritura-un-analisis-de-la-cultura-en
-       -la-que-se-desarrollo Explorando la Historia de la Escritura: Un
+     * descubriendo-el-origen-de-los-primeros-sistemas-de-escritura-una-mi
+       rada-historica Descubriendo el Origen de los Primeros Sistemas de…
+--
+     * Escuela Particular Arrayan
+     * Uncategorized
+     * Cómo la Escritura Fue Creada: Una Mirada Histórica a la evolución
+       de la Escritura.
 </text>
 </page> §
 <page="es-14">
-<text>
-   16 Marzo 2017
-
-Experta analiza evolución de la sociedad chilena en las últimas cuatro
-décadas
-
---
-   que ocurrió lentamente, al menos en los últimos 40 años”.
-   Para la socióloga, de esta manera los procesos van cambiando y los
-   individuos deben enfrentar un mundo social distinto, que evolucióna.
-   “Se transforma lo que uno puede esperar, las formas de relación que uno
-   encuentra admisibles, desde el punto de vista de lo que cada quien cree
-</text>
-</page> §
-<page="es-15">
 <text>
      * Identifícate
 
@@ -635,9 +631,9 @@ Las teorías del conflicto. Conflicto social y conflicto generacional
           + Julián de Ajuriagerra
 </text>
 </page> §
-<page="es-16">
+<page="es-15">
 <text>
-       [X]
+   Más información
 
 evoluciónismo social
 
@@ -707,7 +703,7 @@ evoluciónismo social
 
 --
 
-   Rosario Peiró, 08 de octubre, 2021
+   Rosario Peiró , 08 de octubre, 2021
    evoluciónismo social. Economipedia.com
 
 Artículos recomendados
@@ -718,10 +714,10 @@ Artículos recomendados
        social?
      * ¿Para qué sirve el evoluciónismo social?
 
-Footer
+   Footer
 </text>
 </page> §
-<page="es-17">
+<page="es-16">
 <text>
       Cambios en la sociedad y evolución en la investigación de mercado
 
@@ -770,7 +766,7 @@ Cambios en la sociedad y evolución en la investigación de mercado
    relativo consenso que alcanza el grupo. Pasar del consenso al
 </text>
 </page> §
-<page="es-18">
+<page="es-17">
 <text>
    #alternate alternate alternate alternate Cirion Technologies » Feed
    Cirion Technologies » Feed de los comentarios Cirion Technologies »
@@ -841,17 +837,9 @@ IA, ¿la Quinta Revolución Industrial?
    ChatGPT y de Bard, la humanidad y la tecnología han evoluciónado
    juntas. Los seres humanos moldean la tecnología para su beneficio, y la
    tecnología moldea a los humanos y su estilo de vida. Durante un largo
---
-
-   11/05/2020
-   Evolutiva o Revoluciónaria: la Innovación debe involucrar a toda la
-   Organización
-
-Evolutiva o Revoluciónaria: la Innovación debe involucrar a toda la
-Organización
 </text>
 </page> §
-<page="es-19">
+<page="es-18">
 <text>
    #culturas » Sociedad civil y democracia. evolución histórica RSS de los
    comentarios Al-Nahda de la persecución al difícil reto de ejercer el
@@ -871,51 +859,7 @@ Organización
    la buena gobernanza. Se puede afirmar incluso que durante el periodo
 </text>
 </page> §
-<page="es-1">
-<text>
-    3. Educational Resources
-    4. Glosario parlante de términos genómicos y genéticos
-    5. evolución
-
-   Home
---
-   Evolution_hero
-
-​evolución
-
-   updated: November 30, 2023
---
-Definición
-
-   La evolución, en relación con la genómica, se refiere al proceso por el
-   cual los organismos vivos cambian con el tiempo a través de cambios en
-   el genoma. Esos cambios evolutivos ocurren por mutaciones que producen
---
-   los individuos menos adaptados. Por lo tanto, con sucesivas
-   generaciones (que en algunos casos abarcan millones de años), una
-   especie puede evoluciónar para asumir funciones o características
-   físicas divergentes o, incluso, puede evoluciónar en una especie
-   diferente.
-
-Narración
-
-   La evolución, como Darwin la describió en "El Origen de las Especies"
-   en 1859, tiene varios componentes, tres para ser exactos. En primer
-   lugar, la evolución propone que todos los organismos descienden de un
-   ancestro común, o por lo menos de un conjunto muy pequeño de ancestros
-   comunes - todavía se debate sobre esto, pero probablemente fuera un
-   antepasado único común. En segundo lugar la evolución dice que hay
-   cambios graduales en el tiempo, que sabemos que se deben a mutaciones
-   en el ADN. Y en tercer lugar, pero muy importante, la selección natural
---
-   producen, dan lugar a especies que tienen habilidades particulares para
-   sobrevivir en el nicho concreto que el entorno les ha proporcionado.
-   Así que poniendo esas tres cosas juntas... tenemos la evolución.
-
-Search
-</text>
-</page> §
-<page="es-20">
+<page="es-19">
 <text>
    rápido se quedará tu ordenador obsoleto cuando sólo pasen meses.
 
@@ -950,7 +894,51 @@ Search
    El siglo XX.
 </text>
 </page> §
-<page="es-21">
+<page="es-1">
+<text>
+    3. Educational Resources
+    4. Glosario parlante de términos genómicos y genéticos
+    5. evolución
+
+   Home
+--
+   Evolution_hero
+
+​evolución
+
+   updated: December 29, 2023
+--
+Definición
+
+   La evolución, en relación con la genómica, se refiere al proceso por el
+   cual los organismos vivos cambian con el tiempo a través de cambios en
+   el genoma. Esos cambios evolutivos ocurren por mutaciones que producen
+--
+   los individuos menos adaptados. Por lo tanto, con sucesivas
+   generaciones (que en algunos casos abarcan millones de años), una
+   especie puede evoluciónar para asumir funciones o características
+   físicas divergentes o, incluso, puede evoluciónar en una especie
+   diferente.
+
+Narración
+
+   La evolución, como Darwin la describió en "El Origen de las Especies"
+   en 1859, tiene varios componentes, tres para ser exactos. En primer
+   lugar, la evolución propone que todos los organismos descienden de un
+   ancestro común, o por lo menos de un conjunto muy pequeño de ancestros
+   comunes - todavía se debate sobre esto, pero probablemente fuera un
+   antepasado único común. En segundo lugar la evolución dice que hay
+   cambios graduales en el tiempo, que sabemos que se deben a mutaciones
+   en el ADN. Y en tercer lugar, pero muy importante, la selección natural
+--
+   producen, dan lugar a especies que tienen habilidades particulares para
+   sobrevivir en el nicho concreto que el entorno les ha proporcionado.
+   Así que poniendo esas tres cosas juntas... tenemos la evolución.
+
+Search
+</text>
+</page> §
+<page="es-20">
 <text>
 
 EL MUNDO EN APRIETOS
@@ -986,104 +974,7 @@ En 2023 estamos más cerca de la próxima revolución tecnológica.
    Impulsados por la carrera tecnológica global, nuestros hijos heredarán
 </text>
 </page> §
-<page="es-22">
-<text>
-
-   - Publicidad -
-   Inicio Modo de vida Toda la Historia sobre la evolución de la
-   Tecnología
-
-     * Modo de vida
-
-Toda la Historia sobre la evolución de la Tecnología
-
-   14 marzo, 2019
---
-   significan «discurso sobre las artes». Apareció por primera vez en
-   inglés en el siglo XVII con un significado similar al griego y, a
-   principios del siglo XX evoluciónó a un concepto más amplio que
-   abarcaba procesos, instrumentos y máquinas. A mediados del siglo XX, la
-   «tecnología» adquirió el significado que aún prevalece hoy en día: los
---
-
-   En la práctica, ¿qué significa esto? Empezando por el fuego y la rueda
-   y pasando por la revolución industrial hasta llegar a las innovaciones
-   tan rápidas que vivimos hoy, es imposible separar la evolución del ser
-   humano del desarrollo de la tecnología.
-
-evolución de los Ordenadores
-
-   Los antiguos ordenadores ocupaban salas e incluso edificios completos
---
-   Apple, cuyos ordenadores creados por el consumidor resultaron en un
-   gran éxito, pero fue el IBM PC, lanzado en 1981, el que finalmente
-   revoluciónaría la industria debido a su arquitectura «abierta».
-
-evolución del Teléfono
-
-   El teléfono es quizá de los avances tecnológicos más importantes de
---
-
-   El teléfono, inventado entre los años 60 y 70 del siglo XIX,
-   revoluciónó la comunicación personal al permitir que dos personas
-   separadas por miles de kilómetros hablaran como si estuvieran en la
-   misma habitación. El inventor Alexander Graham Bell y el ingeniero
---
-   1946 en los Estados Unidos, no fue hasta el 3 de abril de 1973 que
-   apareció el primer teléfono móvil, cuando Motorola presentó una
-   innovación que revoluciónaría la forma en que los humanos se
-   comunicaban. El DynaTAC, considerado el primer teléfono móvil del
-   mundo, pesaba unos 2,5 kg y la batería duraba menos de 10 horas.
---
-   que nos comunicamos.
-
-evolución de la Televisión
-
-   Ver la televisión era un acto social que se hacía en familia Ver la
---
-   entretenimiento.
-
-Revolución Tecnológicas
-
-   Hoy en día tenemos todo un mundo nuevo al alcance de nuestras manos Hoy
---
-   para sacar la comida de su alcance; plantas o partes de animales para
-   refugiarse o para camuflarse. Este fue el primer paso en la gran
-   evolución de la tecnología.
-
-   Como esta historia comienza hace más de setenta mil años, es muy
-   difícil hablar de las grandes evolución tecnológicas del hombre,
-   porque es necesario mencionar épocas como la Edad Media y la Antigüedad
-   (Grecia y Roma), por ejemplo. Sin embargo, no es posible ignorar la
-   Revolución Industrial (1750-1900). Para darle un contexto de su
-   importancia, antes de la Revolución Industrial alrededor del 80% de la
-   población mundial vivía de la agricultura, mientras que hoy, en los
-   Estados Unidos de América, menos del 1% de su población se dedicaba a
---
-   Tecnología.
-
-   La Revolución Industrial comenzó en 1750 y tuvo lugar en todo el mundo,
-   pero surgió en Europa, más concretamente en Inglaterra. Con la creación
-   de la máquina de vapor, por ejemplo, muchas industrias evoluciónaron
-   rápidamente, como la industria textil, con fábricas de algodón cada vez
-   más eficientes, y la industria del transporte, con la aparición de los
---
-
-   Prácticamente todas las innovaciones que se produjeron después de 1900
-   se debieron a la Revolución Industrial: el hecho de que se tenga
-   electricidad, de que se puedan comer moras en febrero, de que se viva
-   lejos de una granja o de que se conduzca un coche se debe a la
-   Revolución Industrial. Sin embargo, a pesar de los enormes avances
-   tecnológicos logrados hasta 1900, en las décadas siguientes no se
-   dieron más logros. El avión, el cohete y las sondas espaciales, los más
---
-
-   Te ayudamos a responder esta pregunta: observa la imagen y asóciala con
-   la evolución del ser humano desde el origen de la vida y su relación
-   con el desarrollo histórico de la tecnología.
-</text>
-</page> §
-<page="es-23">
+<page="es-21">
 <text>
    #alternate alternate alternate Boletín BIREME/OPS/OMS » Feed Boletín
    BIREME/OPS/OMS » Comments Feed Boletín BIREME/OPS/OMS » La evolución
@@ -1123,7 +1014,7 @@ La evolución tecnológica
      *
 </text>
 </page> §
-<page="es-24">
+<page="es-22">
 <text>
    2018
 
@@ -1148,7 +1039,7 @@ Transformación Digital y evolución tecnológica, una apuesta imprescindible
    para las empresas, y de hecho tiene todo el potencial para cambiar el
 </text>
 </page> §
-<page="es-25">
+<page="es-23">
 <text>
    Los grandes cambios nacieron en la mente de algunos pocos genios
 
@@ -1171,7 +1062,7 @@ Una evolución acelerada
    como los Homo sapiens modernos y primitivos o incluso los neandertales,
 </text>
 </page> §
-<page="es-26">
+<page="es-24">
 <text>
    Título:
 
@@ -1192,7 +1083,7 @@ vida del producto
    de la menor resistencia tecnológica de los discos artificiales
 </text>
 </page> §
-<page="es-27">
+<page="es-25">
 <text>
      * CEOE News
      * Opinión
@@ -1221,7 +1112,7 @@ La evolución tecnológica
    todos: ciudadanos, empresas y Administraciones Públicas.
 </text>
 </page> §
-<page="es-28">
+<page="es-26">
 <text>
 Historia de la Tecnología Historia de la Tecnología
 
@@ -1269,7 +1160,7 @@ Revolución Industrial
    siéntate a mirarlo con tranquilidad:
 </text>
 </page> §
-<page="es-29">
+<page="es-27">
 <text>
    El blog de SelfBank by Singular Bank
 
@@ -1305,6 +1196,66 @@ Qué evolución tecnológica hemos vivido en los últimos 15 años
    En 2007, Steve Jobs presentó el primer iPhone, clave en la evolución de
    los smartphones posteriores e inicio de la aceptación masiva de las
    pantallas táctiles. A día de hoy, ¿quién no tiene un móvil con este
+</text>
+</page> §
+<page="es-28">
+<text>
+Blog Información
+
+¿Nos atropella la velocidad de la evolución tecnológica? Los riesgos en la
+capacidad de aprendizaje que influyen en los profesionales del futuro.
+
+--
+
+   2. El daño de la tecnología por el uso diario. Quienes nacimos antes de
+   la era de internet y hemos visto su veloz evolución, lo sospechábamos:
+   internet daña nuestras mentes. Sin embargo, hemos olvidado este riesgo
+   ante la falta de evidencia y estudios concretos que nos permitan
+--
+
+   En la película de Stanley Kubrick: 2001 Odisea del Espacio, el
+   ordenador de la nave espacial ha evoluciónado tanto que ahora tiene
+   sentimientos y…comienza a tener miedo. Ya nos acercamos a estos
+   extremos en la evolución de la robótica. La evolución nos da, pero
+   también nos quita y no son pocas las consecuencias sobre la salud de
+   las personas. La dependencia tecnológica, que ya se considera en si
+--
+     __________________________________________________________________
+
+   3. Los riesgos en la capacidad de aprendizaje. La evolución de la
+   técnica ha ido modificando nuestro cerebro sin apenas darnos cuenta.
+   Los sistemas de posicionamiento global (GPS) nos limitan la capacidad
+</text>
+</page> §
+<page="es-29">
+<text>
+La tribuna
+
+evolución tecnológica vs. involución del hombre
+
+
+--
+
+   La tecnología juega actualmente un papel fundamental en nuestras vidas,
+   es un hito en constante evolución. La usamos en cada contexto de
+   nuestro día a día, y ha pasado de ser un lujo a convertirse en una
+   necesidad. Pero corremos el riesgo de olvidarnos de cuidar la mejor
+   tecnología de la que disponemos: nosotros, el ser humano, una 'máquina'
+   que también debemos ir mejorando y que debe seguir evoluciónando, y no
+   involucionando como parece.
+
+--
+
+   Merece la pena pararnos y hacernos algunas reflexiones: ¿Hasta qué
+   punto el vertiginoso avance y la imparable evolución que estamos
+   viviendo está afectando a la esencia de la vida humana? ¿No es la
+   tecnología, en muchas ocasiones, un arma de doble filo? ¿Y no es verdad
+--
+   Además de todo esto, tenemos que considerar el descuido ecológico y
+   maltrato que estamos causando a nuestro planeta, con lo que podemos
+   concluir que la evolución brilla por su ausencia. Sí es cierto que hay
+   muchas personas en el mundo que están siendo conscientes de ello y ya
+   están trabajando para romper esa tendencia materialista, suicida y
 </text>
 </page> §
 <page="es-2">
@@ -2501,7 +2452,7 @@ Véase también[editar]
      * evolución humana
      * evolución convergente
      * Evidencia de antepasado común
-     * Sociedad Española de Biología Evolutiva (SESBE)
+     * Selección natural
 --
        the Proceedings of the Linnean Society of London. Zoology 3:
        45-62.
@@ -2693,7 +2644,7 @@ Enlaces externos[editar]
 
    Obtenido de
    «https://es.wikipedia.org/w/index.php?title=evolución_biológica&amp;oldid=1
-   55684422»
+   55920236»
 
 --
      * Paleontología
@@ -2704,66 +2655,6 @@ Enlaces externos[editar]
 </text>
 </page> §
 <page="es-30">
-<text>
-Blog Información
-
-¿Nos atropella la velocidad de la evolución tecnológica? Los riesgos en la
-capacidad de aprendizaje que influyen en los profesionales del futuro.
-
---
-
-   2. El daño de la tecnología por el uso diario. Quienes nacimos antes de
-   la era de internet y hemos visto su veloz evolución, lo sospechábamos:
-   internet daña nuestras mentes. Sin embargo, hemos olvidado este riesgo
-   ante la falta de evidencia y estudios concretos que nos permitan
---
-
-   En la película de Stanley Kubrick: 2001 Odisea del Espacio, el
-   ordenador de la nave espacial ha evoluciónado tanto que ahora tiene
-   sentimientos y…comienza a tener miedo. Ya nos acercamos a estos
-   extremos en la evolución de la robótica. La evolución nos da, pero
-   también nos quita y no son pocas las consecuencias sobre la salud de
-   las personas. La dependencia tecnológica, que ya se considera en si
---
-     __________________________________________________________________
-
-   3. Los riesgos en la capacidad de aprendizaje. La evolución de la
-   técnica ha ido modificando nuestro cerebro sin apenas darnos cuenta.
-   Los sistemas de posicionamiento global (GPS) nos limitan la capacidad
-</text>
-</page> §
-<page="es-31">
-<text>
-La tribuna
-
-evolución tecnológica vs. involución del hombre
-
-
---
-
-   La tecnología juega actualmente un papel fundamental en nuestras vidas,
-   es un hito en constante evolución. La usamos en cada contexto de
-   nuestro día a día, y ha pasado de ser un lujo a convertirse en una
-   necesidad. Pero corremos el riesgo de olvidarnos de cuidar la mejor
-   tecnología de la que disponemos: nosotros, el ser humano, una 'máquina'
-   que también debemos ir mejorando y que debe seguir evoluciónando, y no
-   involucionando como parece.
-
---
-
-   Merece la pena pararnos y hacernos algunas reflexiones: ¿Hasta qué
-   punto el vertiginoso avance y la imparable evolución que estamos
-   viviendo está afectando a la esencia de la vida humana? ¿No es la
-   tecnología, en muchas ocasiones, un arma de doble filo? ¿Y no es verdad
---
-   Además de todo esto, tenemos que considerar el descuido ecológico y
-   maltrato que estamos causando a nuestro planeta, con lo que podemos
-   concluir que la evolución brilla por su ausencia. Sí es cierto que hay
-   muchas personas en el mundo que están siendo conscientes de ello y ya
-   están trabajando para romper esa tendencia materialista, suicida y
-</text>
-</page> §
-<page="es-32">
 <text>
        producir un determinado producto.
 
@@ -2787,7 +2678,7 @@ Origen y evolución de la tecnología
        industria. Las nuevas tecnologías son aquellas que surgen después
 </text>
 </page> §
-<page="es-33">
+<page="es-31">
 <text>
    lógica del desarrollo tecnológico en la historia de Occidente. La
    cuestión central que el texto aborda es esta: ¿La técnica se desarrolla
@@ -3099,7 +2990,7 @@ Origen y evolución de la tecnología
           Crítica, 1991, pp. 14ss.
 </text>
 </page> §
-<page="es-34">
+<page="es-32">
 <text>
    #rhsaludable » Feed rhsaludable » Feed de los comentarios rhsaludable »
    Comentario El mundo está cambiando: evolución Tecnológica versus
@@ -3147,7 +3038,7 @@ Trackbacks/Pingbacks
        fue publicado en […]
 </text>
 </page> §
-<page="es-35">
+<page="es-33">
 <text>
 
    Te explicamos cómo fue la historia de la tecnología, sus causas y su
@@ -3244,7 +3135,7 @@ Línea de tiempo de la historia de la tecnología
    Ícono de categoría Cultura y Sociedad
 </text>
 </page> §
-<page="es-36">
+<page="es-34">
 <text>
      Tecnología
 
@@ -3346,7 +3237,7 @@ Recomendado
    Tipos de tecnología
 </text>
 </page> §
-<page="es-37">
+<page="es-35">
 <text>
    Biodiversidad COBCM Divulgación
 
@@ -3396,7 +3287,7 @@ La evolución d. D. (Después de Darwin)
    fósil.
 </text>
 </page> §
-<page="es-38">
+<page="es-36">
 <text>
    #Hipertextual » Feed Hipertextual » Feed de los comentarios
    Hipertextual » Comentario La teoría de la evolución, explicada de forma
@@ -3547,7 +3438,7 @@ La teoría de la evolución, explicada de forma simple y sencilla
      * Twitter
 </text>
 </page> §
-<page="es-39">
+<page="es-37">
 <text>
    #Sosteniblepedia (es) Canal Atom de Sosteniblepedia
 
@@ -3608,6 +3499,179 @@ evolución
    «https://www.sosteniblepedia.org/index.php?title=evolución&amp;oldid=1952»
 
 Menú de navegación
+</text>
+</page> §
+<page="es-38">
+<text>
+
+   Bizitzaren sorrera. Eboluzioaren teoriaEl origen de la vida. Teoría de
+   la evolución
+
+     * Temas de estudio/
+--
+     * Biología/
+     * Biología: fundamentos/
+     * El origen de la vida. Teoría de la evolución/
+
+   Icon aside
+--
+          + Biología
+               o Biología: fundamentos
+                    # El origen de la vida. Teoría de la evolución
+                    # Clasificación y filogenia de los seres vivos
+                    # Los niveles de organización de la vida
+--
+          + Biología
+               o Biología: fundamentos
+                    # El origen de la vida. Teoría de la evolución
+                    # Clasificación y filogenia de los seres vivos
+                    # Los niveles de organización de la vida
+--
+   Hechos que sostienen la teoría de Darwin
+   Cuvier
+   Jirafa y evolución
+
+El origen de la vida. Teoría de la evolución
+
+   La vida se caracteriza por su diversidad, que se pone de manifiesto en
+--
+   como son las reacciones químicas, los sistemas de reproducción, la
+   organización celular o los mecanismos genéticos. La teoría de la
+   evolución permite aunar estas dos características, mostrando a los
+   seres vivos como descendientes de una forma fundamental de vida.
+
+El fijismo y el evoluciónismo
+
+     * El fijismo considera que las especies han permanecido invariables
+--
+       científicos más destacados que apoyaron esta imagen inmovilista de
+       la naturaleza fueron Linneo y Cuvier.
+     * El evoluciónismo considera la existencia de un proceso de evolución
+       mediante el cual los seres vivos se han ido diversificando a partir
+       de un antepasado. La teoría de la evolución constata el hecho de la
+       evolución, relata su historia e intenta explicar sus causas,
+       descifrando los mecanismos biológicos que actúan en la misma. Todos
+       los científicos aceptan hoy en día la teoría de la evolución; la
+       discusión, por tanto, no reside en si hay o no evolución, sino en
+       cómo se produce.
+
+El evoluciónismo según Lamarck
+
+   La primera teoría evoluciónista suficientemente elaborada fue
+   presentada por el francés Jean-Baptiste de Monet, caballero de Lamarck,
+   en 1809. Las principales ideas lamarquistas pueden resumirse en:
+--
+   individual pueda alterar el ADN y hacerse hereditario.
+
+evoluciónismo según Darwin
+
+   En 1859, el inglés Charles Darwin propuso una nueva teoría de la
+   evolución, recogida en su libro El origen de las especies. Un año antes
+   había publicado una serie de artículos junto a Alfred Wallace,
+   investigador que había llegado independientemente a las mismas
+--
+   darwinista sufrió ciertas modificaciones, fundamentadas en la
+   comprensión de la genética, dando lugar al neodarwinismo o teoría
+   sintética de la evolución.
+
+   La teoría sintética de la evolución integra la genética mendeliana y la
+   selección natural de Darwin, proponiendo además los siguientes
+   mecanismos:
+--
+   cerrar ventana
+     * Biología: fundamentos
+          + El origen de la vida. Teoría de la evolución
+          + Clasificación y filogenia de los seres vivos
+          + Bizitzaren antolamendu-mailak
+</text>
+</page> §
+<page="es-39">
+<text>
+   Shutterstock / 19 STUDIO
+
+La evolución es un hecho tan indiscutible como que la Tierra no es plana
+
+   Publié: 14 juin 2021, 22:02 CEST
+--
+    1. Ester Lázaro Lázaro
+       Investigadora Científica de los Organismos Públicos de
+       Investigación. Especializada en evolución de virus, Centro de
+       Astrobiología (INTA-CSIC)
+    2. Andrés Barbosa
+       Investigador Científico, ecología, evolución y conservación, Museo
+       Nacional de Ciencias Naturales (MNCN-CSIC)
+    3. Borja Milá
+--
+
+   Nos ha sorprendido leer un artículo donde un conocido escritor niega la
+   evolución biológica, ignorando la evidencia científica. No es nuestra
+   intención antagonizar con dicho autor ni discutir uno por uno los
+   muchos errores que contiene su texto.
+--
+   La estrategia es siempre la misma: ignorar los últimos 150 años de
+   investigación para atacar ideas decimonónicas de la teoría de la
+   evolución, en un intento por arrastrar al lector a la errónea
+   conclusión de que reglas sencillas no pueden explicar hechos complejos,
+   de que un sistema con errores no puede nunca crear algo que nos
+   maraville y que, por tanto, debe existir un Creador.
+
+   ¿Qué puede llevar a personas cultas a negar un hecho (la evolución) tan
+   científicamente probado como que la tierra no es plana? En este
+   artículo exploramos brevemente algunos de los malentendidos más comunes
+   sobre la evolución, a la luz de la ciencia.
+
+La vida es extraordinariamente compleja y diversa
+--
+   bacterias, o algunas en que procesos de reordenación cromosómica
+   provocan cambios bruscos). Esta es una de las razones que esgrime el
+   creacionismo para negar la evolución biológica. Pero ese argumento es
+   algo equivalente a negar la existencia de los átomos simplemente porque
+   no los vemos.
+--
+   resistentes a los antibióticos y la selección de variantes virales con
+   mayor capacidad de transmisión o resistentes a la respuesta inmune no
+   son sino ejemplos de la evolución.
+
+¿Tiene la evolución algún objetivo?
+
+   Otra razón que puede llevar a la negación de la evolución es pensar que
+   esta no tiene un objetivo predeterminado.
+
+--
+   a reinar sobre el resto.
+
+   El hecho de que la evolución ofrezca explicaciones a cuestiones como de
+   dónde venimos o cómo somos y funcionamos parece muy perturbador, pero
+   es cierto que somos una especie biológica sometida a las mismas fuerzas
+--
+
+   Por último, entre los argumentos que se esgrimen en contra de la
+   evolución, uno de los más destacados se refiere a la aparente
+   dificultad para explicar aumentos en la complejidad a través de cambios
+   pequeños y graduales.
+
+   Es cierto que hay grandes transiciones en la evolución de la
+   complejidad que nos parecen difíciles de explicar de ese modo. La
+   aparición de la célula eucariótica, la reproducción sexual y la
+--
+   beneficio celular.
+
+   La conclusión es que la evolución es un hecho. La vida que existe en la
+   Tierra está en continuo cambio. Negarlo por falta de conocimiento no
+   puede sino alimentar teorías que dificultan el avance científico y el
+--
+   acientíficas, cambiaremos nuestras convicciones cuando los hechos lo
+   demuestren. Lo hemos hecho numerosas veces, pues las ideas
+   evoluciónistas también evoluciónan.
+     * biodiversidad
+     * evolución
+     * vida
+     * evolución humana
+     * El origen de las especies
+     * mutación
+     * evoluciónismo
+
+Notre audience
 </text>
 </page> §
 <page="es-3">
@@ -3774,179 +3838,6 @@ Bibliografía[editar]
 </page> §
 <page="es-40">
 <text>
-
-   Bizitzaren sorrera. Eboluzioaren teoriaEl origen de la vida. Teoría de
-   la evolución
-
-     * Temas de estudio/
---
-     * Biología/
-     * Biología: fundamentos/
-     * El origen de la vida. Teoría de la evolución/
-
-   Icon aside
---
-          + Biología
-               o Biología: fundamentos
-                    # El origen de la vida. Teoría de la evolución
-                    # Clasificación y filogenia de los seres vivos
-                    # Los niveles de organización de la vida
---
-          + Biología
-               o Biología: fundamentos
-                    # El origen de la vida. Teoría de la evolución
-                    # Clasificación y filogenia de los seres vivos
-                    # Los niveles de organización de la vida
---
-   Hechos que sostienen la teoría de Darwin
-   Cuvier
-   Jirafa y evolución
-
-El origen de la vida. Teoría de la evolución
-
-   La vida se caracteriza por su diversidad, que se pone de manifiesto en
---
-   como son las reacciones químicas, los sistemas de reproducción, la
-   organización celular o los mecanismos genéticos. La teoría de la
-   evolución permite aunar estas dos características, mostrando a los
-   seres vivos como descendientes de una forma fundamental de vida.
-
-El fijismo y el evoluciónismo
-
-     * El fijismo considera que las especies han permanecido invariables
---
-       científicos más destacados que apoyaron esta imagen inmovilista de
-       la naturaleza fueron Linneo y Cuvier.
-     * El evoluciónismo considera la existencia de un proceso de evolución
-       mediante el cual los seres vivos se han ido diversificando a partir
-       de un antepasado. La teoría de la evolución constata el hecho de la
-       evolución, relata su historia e intenta explicar sus causas,
-       descifrando los mecanismos biológicos que actúan en la misma. Todos
-       los científicos aceptan hoy en día la teoría de la evolución; la
-       discusión, por tanto, no reside en si hay o no evolución, sino en
-       cómo se produce.
-
-El evoluciónismo según Lamarck
-
-   La primera teoría evoluciónista suficientemente elaborada fue
-   presentada por el francés Jean-Baptiste de Monet, caballero de Lamarck,
-   en 1809. Las principales ideas lamarquistas pueden resumirse en:
---
-   individual pueda alterar el ADN y hacerse hereditario.
-
-evoluciónismo según Darwin
-
-   En 1859, el inglés Charles Darwin propuso una nueva teoría de la
-   evolución, recogida en su libro El origen de las especies. Un año antes
-   había publicado una serie de artículos junto a Alfred Wallace,
-   investigador que había llegado independientemente a las mismas
---
-   darwinista sufrió ciertas modificaciones, fundamentadas en la
-   comprensión de la genética, dando lugar al neodarwinismo o teoría
-   sintética de la evolución.
-
-   La teoría sintética de la evolución integra la genética mendeliana y la
-   selección natural de Darwin, proponiendo además los siguientes
-   mecanismos:
---
-   cerrar ventana
-     * Biología: fundamentos
-          + El origen de la vida. Teoría de la evolución
-          + Clasificación y filogenia de los seres vivos
-          + Bizitzaren antolamendu-mailak
-</text>
-</page> §
-<page="es-41">
-<text>
-   Shutterstock / 19 STUDIO
-
-La evolución es un hecho tan indiscutible como que la Tierra no es plana
-
-   Publié: 14 juin 2021, 22:02 CEST
---
-    1. Ester Lázaro Lázaro
-       Investigadora Científica de los Organismos Públicos de
-       Investigación. Especializada en evolución de virus, Centro de
-       Astrobiología (INTA-CSIC)
-    2. Andrés Barbosa
-       Investigador Científico, ecología, evolución y conservación, Museo
-       Nacional de Ciencias Naturales (MNCN-CSIC)
-    3. Borja Milá
---
-
-   Nos ha sorprendido leer un artículo donde un conocido escritor niega la
-   evolución biológica, ignorando la evidencia científica. No es nuestra
-   intención antagonizar con dicho autor ni discutir uno por uno los
-   muchos errores que contiene su texto.
---
-   La estrategia es siempre la misma: ignorar los últimos 150 años de
-   investigación para atacar ideas decimonónicas de la teoría de la
-   evolución, en un intento por arrastrar al lector a la errónea
-   conclusión de que reglas sencillas no pueden explicar hechos complejos,
-   de que un sistema con errores no puede nunca crear algo que nos
-   maraville y que, por tanto, debe existir un Creador.
-
-   ¿Qué puede llevar a personas cultas a negar un hecho (la evolución) tan
-   científicamente probado como que la tierra no es plana? En este
-   artículo exploramos brevemente algunos de los malentendidos más comunes
-   sobre la evolución, a la luz de la ciencia.
-
-La vida es extraordinariamente compleja y diversa
---
-   bacterias, o algunas en que procesos de reordenación cromosómica
-   provocan cambios bruscos). Esta es una de las razones que esgrime el
-   creacionismo para negar la evolución biológica. Pero ese argumento es
-   algo equivalente a negar la existencia de los átomos simplemente porque
-   no los vemos.
---
-   resistentes a los antibióticos y la selección de variantes virales con
-   mayor capacidad de transmisión o resistentes a la respuesta inmune no
-   son sino ejemplos de la evolución.
-
-¿Tiene la evolución algún objetivo?
-
-   Otra razón que puede llevar a la negación de la evolución es pensar que
-   esta no tiene un objetivo predeterminado.
-
---
-   a reinar sobre el resto.
-
-   El hecho de que la evolución ofrezca explicaciones a cuestiones como de
-   dónde venimos o cómo somos y funcionamos parece muy perturbador, pero
-   es cierto que somos una especie biológica sometida a las mismas fuerzas
---
-
-   Por último, entre los argumentos que se esgrimen en contra de la
-   evolución, uno de los más destacados se refiere a la aparente
-   dificultad para explicar aumentos en la complejidad a través de cambios
-   pequeños y graduales.
-
-   Es cierto que hay grandes transiciones en la evolución de la
-   complejidad que nos parecen difíciles de explicar de ese modo. La
-   aparición de la célula eucariótica, la reproducción sexual y la
---
-   beneficio celular.
-
-   La conclusión es que la evolución es un hecho. La vida que existe en la
-   Tierra está en continuo cambio. Negarlo por falta de conocimiento no
-   puede sino alimentar teorías que dificultan el avance científico y el
---
-   acientíficas, cambiaremos nuestras convicciones cuando los hechos lo
-   demuestren. Lo hemos hecho numerosas veces, pues las ideas
-   evoluciónistas también evoluciónan.
-     * biodiversidad
-     * evolución
-     * vida
-     * evolución humana
-     * El origen de las especies
-     * mutación
-     * evoluciónismo
-
-Notre audience
-</text>
-</page> §
-<page="es-42">
-<text>
      * Biología
 
      Genética y evolución
@@ -4009,7 +3900,7 @@ La evolución
    del ADN que puede dar lugar a un polipéptido alterado.
 
    La evolución actúa sobre esta variación de los rasgos observables.
-   Diferentes procesos evolutivos, como la Selección natural, el
+   Diferentes procesos evolutivos, como la selección natural, el
    apareamiento selectivo o la deriva genética dan lugar a que algunos
 --
    mayor aptitud. Este es un ejemplo del proceso de selección natural.
@@ -4082,10 +3973,10 @@ evolución en tiempo real
 
    También podemos observar la evolución en tiempo real. Por ejemplo,
    organismos que evoluciónan rápidamente, como las bacterias, siguen
-   evoluciónando y adaptándose a los Antibióticos que utilizamos contra
+   evoluciónando y adaptándose a los antibióticos que utilizamos contra
    ellas. Ahora hay muchas cepas de superbacterias, que se han adaptado
    para resistir y sobrevivir a compuestos (medicamentos) antimicrobianos
-   (Antibióticos).
+   (antibióticos).
 
 Tipos de evolución
 
@@ -4204,38 +4095,21 @@ Preguntas frecuentes sobre La evolución
    genética. La evolución actúa sobre esta variación de los rasgos
    observables.
 
-   Cuestionario final de La evolución
-
-La evolución Quiz - Teste dein Wissen
-
-   Pregunta
 --
-   Pregunta
-
-   Verdadero o falso. La especiación se produce a través de la evolución.
-
-   Mostrar respuesta
---
-   Answer
-
-   Porque sin la variación genética, una población no podría evoluciónar
-   en respuesta al entorno cambiante y, como resultado, podría tener un
-   mayor riesgo de extinción.
---
-   través de la selección natural. ( ) Ser genéticamente diferentes y,
-   luego, aislarse reproductivamente.
+   ( ) Aislamiento reproductivo y, luego, acumular diferencias genéticas a
+   través de la selección natural.
    Aprende con 144 tarjetas de La evolución en la aplicación StudySmarter
    gratis
 
 --
-   bosque que está dividido en dos por un pequeño río. ( ) Una población
-   de aves insulares que tiene acceso a una variedad de dietas y hábitats.
+   que está dividido en dos por un pequeño río. ( ) Una especie de
+   angiosperma distribuida a ambos lados de una cordillera montañosa.
    Aprende con 144 tarjetas de La evolución en la aplicación StudySmarter
    gratis
 
 --
    pionera?
-   (*) Asexual ( ) Extremófilo ( ) Es carnívora ( ) Productor primario
+   (*) Productor primario ( ) Extremófilo ( ) Es carnívora ( ) Asexual
    Aprende con 144 tarjetas de La evolución en la aplicación StudySmarter
    gratis
 
@@ -4245,12 +4119,6 @@ millones de tarjetas y mucho más!
 Aprende con 144 tarjetas de La evolución en la aplicación StudySmarter gratis
 
    Regístrate con email
---
-   ¿Ya tienes una cuenta? Iniciar sesión
-   REGISTRARSE REGISTRARSE
-   Aprende con 144 tarjetas de La evoluciónn la aplicación StudySmarter
-   gratis
-   ¡Buen trabajo!
 --
    Siguiente
 
@@ -4265,11 +4133,14 @@ Aprende con 144 tarjetas de La evolución en la aplicación StudySmarter gratis
    Regístrate con email REGISTRARSE REGISTRARSE
 --
    ¿Ya tienes una cuenta? Iniciar sesión
-
+   Open in App
    Conoce más sobre La evolución
-     * Organización de la vida
+     * Historia de la vida en la tierra
+     * Sistema inmune
      * Células
---
+     * Genética y evolución
+
+   Guardar artículo
    60%
 
    de los usuarios no aprueban el cuestionario de La evolución... ¿Lo
@@ -4283,9 +4154,9 @@ Conoce más sobre Genética y evolución
    PCR Empieza a estudiar
 </text>
 </page> §
-<page="es-43">
+<page="es-41">
 <text>
-     * ____________________ Submit
+     * ____________________ s
 
 ¿Qué es la evolución humana?
 
@@ -4360,7 +4231,7 @@ Entradas relacionadas
 
    La semana pasada pulicamos un estudio sobre la evolución humana y la
    concepción cognitiva de la realidad. Un estudio de…
-   48
+   49
 --
    42
    06 Oct 2017
@@ -4371,7 +4242,7 @@ Entradas relacionadas
    82
 </text>
 </page> §
-<page="es-44">
+<page="es-42">
 <text>
    La evolución es importante, pero podría no ser lo que pensamos
    Agustín Fuentes
@@ -4723,7 +4594,7 @@ Entradas relacionadas
    los humanos. Finalmente, la cuarta idea nos recuerda que no debemos
 </text>
 </page> §
-<page="es-45">
+<page="es-43">
 <text>
      Biología
 
@@ -4833,7 +4704,7 @@ evolución es igual a selección natural"
    (BUTTON) Compartir
 </text>
 </page> §
-<page="es-46">
+<page="es-44">
 <text>
                                    evolución
 
@@ -4862,7 +4733,7 @@ Bienvenid@s
    Creative Commons License
 </text>
 </page> §
-<page="es-47">
+<page="es-45">
 <text>
 
 
@@ -5107,7 +4978,7 @@ Bienvenid@s
    Mayr, E. (1998). Así es la biología. Madrid: Debate.
 </text>
 </page> §
-<page="es-48">
+<page="es-46">
 <text>
    Definición de
 
@@ -5229,7 +5100,7 @@ El trabajo de Mendel para entender la evolución
      * Teoría
 </text>
 </page> §
-<page="es-49">
+<page="es-47">
 <text>
      * Twitter
 
@@ -5308,7 +5179,7 @@ Historia de la evolución
 
    Los cambios biológicos han existido desde tiempos remotos y han
 --
-   necesidad de crear las colonias. Ezoic
+   necesidad de crear las colonias.
 
 La evolución del hombre
 
@@ -5349,7 +5220,7 @@ Especies que evoluciónaron
 
 Teoría de la evolución
 
-   La teoría de la evolución se llevó a cabo por un grupo de
+   Ezoic La teoría de la evolución se llevó a cabo por un grupo de
    investigadores naturalistas que reunieron información sobre la flora y
    la fauna de diversas zonas del planeta. Estos contaban con un conjunto
 --
@@ -5427,7 +5298,7 @@ evolución del internet
 
    Para nadie es un secreto que el internet se ha convertido en una red
 --
-   Ezoic
+   almacenar datos de todo tipo y que es accesible a cualquier público.
 
    A lo largo de la evolución del internet, el espacio informático ha sido
    impulsado por investigadores, pedagogos y distintos individuos para
@@ -5477,7 +5348,7 @@ evolución del teléfono
    sociedad, el administrativo, el de la salud y el científico.
 
 --
-   Mostrar Más
+   Ezoic
 
 Preguntas Frecuentes sobre la evolución
 
@@ -5515,9 +5386,148 @@ Preguntas Frecuentes sobre la evolución
 
    Pérez, Mariana . ( Última edición: 14 de junio de 2023 a las 5:14 pm).
    Definición de evolución. Recuperado de:
-   https://conceptodefinicion.de/evolución/. Consultado el 27 de noviembre
-   de 2023
+   https://conceptodefinicion.de/evolución/. Consultado el 2 de enero de
+   2024
    (BUTTON) Copiar copy
+</text>
+</page> §
+<page="es-48">
+<text>
+   ____________________ (BUTTON)
+
+Qué es la evolución
+
+   Equipo de Enciclopedia Significados
+--
+   Creado y revisado por nuestros expertos
+
+   La evolución es el cambio que se produce de un estado a otro en un
+   objeto o sujeto, como producto de un proceso de transformación
+   progresiva. Puede referirse a cambios genéticos en una especie, al
+--
+   de un objeto y de la naturaleza en general.
+
+   Etimológicamente, la palabra evolución proviene de la expresión latina
+   evolutio, conformada por la contracción del vocablo ex, que quiere
+   decir 'hacia fuera', con la conjugación del verbo volvere, que quiere
+   decir 'dar vueltas'.
+
+   Algunos sinónimos o términos relacionados con evolución son:
+   transformación, desarrollo, variación, alteración, cambio, crecimiento,
+   avance, mejoría, movimiento o progreso.
+--
+   La palabra se usa frecuentemente para aludir al perfeccionamiento
+   cualitativo de una persona, situación, contexto histórico, objeto, etc.
+   Por lo tanto, son comunes expresiones como evolución personal,
+   evolución tecnológica, evolución científica, evolución económica, etc.
+
+evolución en biología
+
+   En la biología, la evolución se relaciona concretamente con el estudio
+   de los procesos de transformación de las especies, esto es, los
+   procesos de adaptación y mutación genética que generan cambios
+   estructurales en los seres vivos. Es decir, el concepto de evolución en
+   la naturaleza se define como los cambios en los registros genéticos de
+   una población biológica (animal o vegetal) a través de las
+   generaciones.
+
+Teoría de la evolución de las especies
+
+   La teoría de la evolución de las especies fue presentada por Charles R.
+   Darwin y Alfred Wallace en el año 1859, en un libro titulado El origen
+   de las especies. Fue precedido por las investigaciones y teorías de
+--
+
+   Según los autores, el ser humano (homo sapiens) es el resultado de la
+   evolución de otras especies como el homo erectus y el homo habilis,
+   afirmación que desafiaba la teoría creacionista imperante en el siglo
+   XIX. Darwin postulaba también que la evolución de las especies era
+   resultado de la selección natural y la adaptación.
+
+   Hoy en día, existen sobre la mesa diferentes hipótesis sobre las causas
+   de la evolución. Estas son:
+    1. La selección natural: teoría de la evolución por selección natural
+       y adaptación (tesis de Darwin).
+    2. La reducción de la población: menor variedad de genes.
+--
+    5. El flujo genético: migración de genes a otros lugares.
+
+   Vea más detalles sobre la Teoría de la evolución.
+
+evolución convergente y divergente
+
+   En el estudio de la evolución de las especies se habla de evolución
+   convergente y divergente. La evolución convergente se produce cuando
+   dos especies de diferente origen filogenético, evoluciónan hasta
+   generar estructuras o elementos semejantes. Por ejemplo: tanto
+   colibríes como mariposas desarrollaron el mismo tipo de lengua para
+   extraer néctar de las flores.
+
+   La evolución divergente es aquella en la cual las especies con un
+   origen común pero que han sido separadas, evoluciónan de forma desigual
+   para adaptarse rápidamente a las condiciones ambientales, sea a través
+   de mutaciones o de selección natural. por ejemplo, aquellos mamíferos
+--
+     * Darwinismo
+
+   Cómo citar: Editorial, Equipo (24/08/2022). "Qué es la evolución. En:
+   Significados.com. Disponible en:
+   https://www.significados.com/evolución/ Consultado:
+   (BUTTON) Compartir
+   (BUTTON) Mandar
+--
+   editar todos los contenidos.
+   Otros contenidos que pueden ser de tu interés
+     * Teoría de la evolución
+     * Significado de Adaptación
+     * Significado de Darwinismo
+</text>
+</page> §
+<page="es-49">
+<text>
+     * BBC Extra
+
+Cómo Darwin y la teoría de la evolución están cambiando la medicina
+
+   Científica mira por el microscopio.
+--
+
+   La biología evolutiva está avanzando para entender cómo funciona el
+   pricipio de evolución en nuestro organismo.
+
+   Article information
+--
+   medicina evolutiva, a veces también conocida como medicina darwiniana,
+   una disciplina relativamente nueva y en crecimiento que aplica la
+   teoría de la evolución a cuestiones sobre la salud y las enfermedades
+   humanas.
+
+--
+   Si bien la mayoría de las investigaciones médicas modernas se centran
+   en las causas físicas y moleculares de las enfermedades, la medicina
+   evolutiva intenta comprender por qué podríamos haber evoluciónado para
+   ser susceptibles a las enfermedades en primer lugar, y cómo podemos
+   utilizar la evolución para combatirlas.
+   Doctora atiende a una paciente durante una quimioterapia.
+
+--
+
+   Un estudio reciente destacó la capacidad casi "infinita" de las células
+   cancerosas para evoluciónar y sobrevivir.
+
+   Cuando un paciente recibe terapia farmacológica, por ejemplo, se
+--
+
+   El uso generalizado de antibióticos ha llevado inadvertidamente a las
+   bacterias a evoluciónar y crear resistencia. Además, las bacterias
+   también desarrollan resistencia de otros modos, desde el intercambio de
+   material genético hasta acumulando mutaciones aleatorias.
+--
+   enfoques diferentes para descomponer estas vías.
+
+   "Si queremos resolver este problema, necesitamos entender la evolución
+   y luego ir tras los puntos débiles", dice Andrew Read, director de los
+   Institutos Huck de Ciencias de la Vida de la Universidad Penn State.
 </text>
 </page> §
 <page="es-4">
@@ -5615,150 +5625,11 @@ Implicaciones teóricas[editar]
 
    Obtenido de
    «https://es.wikipedia.org/w/index.php?title=evolución_tecnológica&amp;oldid
-   =155219332»
+   =155988644»
    Categorías:
 </text>
 </page> §
 <page="es-50">
-<text>
-   ____________________ (BUTTON)
-
-Qué es la evolución
-
-   Equipo Editorial
---
-   Creado y revisado por nuestros expertos
-
-   La evolución es el cambio que se produce de un estado a otro en un
-   objeto o sujeto, como producto de un proceso de transformación
-   progresiva. Puede referirse a cambios genéticos en una especie, al
---
-   de un objeto y de la naturaleza en general.
-
-   Etimológicamente, la palabra evolución proviene de la expresión latina
-   evolutio, conformada por la contracción del vocablo ex, que quiere
-   decir 'hacia fuera', con la conjugación del verbo volvere, que quiere
-   decir 'dar vueltas'.
-
-   Algunos sinónimos o términos relacionados con evolución son:
-   transformación, desarrollo, variación, alteración, cambio, crecimiento,
-   avance, mejoría, movimiento o progreso.
---
-   La palabra se usa frecuentemente para aludir al perfeccionamiento
-   cualitativo de una persona, situación, contexto histórico, objeto, etc.
-   Por lo tanto, son comunes expresiones como evolución personal,
-   evolución tecnológica, evolución científica, evolución económica, etc.
-
-evolución en biología
-
-   En la biología, la evolución se relaciona concretamente con el estudio
-   de los procesos de transformación de las especies, esto es, los
-   procesos de adaptación y mutación genética que generan cambios
-   estructurales en los seres vivos. Es decir, el concepto de evolución en
-   la naturaleza se define como los cambios en los registros genéticos de
-   una población biológica (animal o vegetal) a través de las
-   generaciones.
-
-Teoría de la evolución de las especies
-
-   La teoría de la evolución de las especies fue presentada por Charles R.
-   Darwin y Alfred Wallace en el año 1859, en un libro titulado El origen
-   de las especies. Fue precedido por las investigaciones y teorías de
---
-
-   Según los autores, el ser humano (homo sapiens) es el resultado de la
-   evolución de otras especies como el homo erectus y el homo habilis,
-   afirmación que desafiaba la teoría creacionista imperante en el siglo
-   XIX. Darwin postulaba también que la evolución de las especies era
-   resultado de la selección natural y la adaptación.
-
-   Hoy en día, existen sobre la mesa diferentes hipótesis sobre las causas
-   de la evolución. Estas son:
-    1. La selección natural: teoría de la evolución por selección natural
-       y adaptación (tesis de Darwin).
-    2. La reducción de la población: menor variedad de genes.
---
-    5. El flujo genético: migración de genes a otros lugares.
-
-   Vea más detalles sobre la Teoría de la evolución.
-
-evolución convergente y divergente
-
-   En el estudio de la evolución de las especies se habla de evolución
-   convergente y divergente. La evolución convergente se produce cuando
-   dos especies de diferente origen filogenético, evoluciónan hasta
-   generar estructuras o elementos semejantes. Por ejemplo: tanto
-   colibríes como mariposas desarrollaron el mismo tipo de lengua para
-   extraer néctar de las flores.
-
-   La evolución divergente es aquella en la cual las especies con un
-   origen común pero que han sido separadas, evoluciónan de forma desigual
-   para adaptarse rápidamente a las condiciones ambientales, sea a través
-   de mutaciones o de selección natural. por ejemplo, aquellos mamíferos
---
-     * Darwinismo
-
-   Cómo citar: Editorial, Equipo (24/08/2022). "Qué es la evolución. En:
-   Significados.com. Disponible en:
-   https://www.significados.com/evolución/ Consultado:
-   (BUTTON) Compartir
-   (BUTTON) Mandar
---
-     * Desarrollo
-     * Significado de Adaptación
-     * Teoría de la evolución
-     * Crecimiento
-     * Qué es la Psicologia
-</text>
-</page> §
-<page="es-51">
-<text>
-     * BBC Extra
-
-Cómo Darwin y la teoría de la evolución están cambiando la medicina
-
-   Científica mira por el microscopio.
---
-
-   La biología evolutiva está avanzando para entender cómo funciona el
-   pricipio de evolución en nuestro organismo.
-
-   Article information
---
-   medicina evolutiva, a veces también conocida como medicina darwiniana,
-   una disciplina relativamente nueva y en crecimiento que aplica la
-   teoría de la evolución a cuestiones sobre la salud y las enfermedades
-   humanas.
-
---
-   Si bien la mayoría de las investigaciones médicas modernas se centran
-   en las causas físicas y moleculares de las enfermedades, la medicina
-   evolutiva intenta comprender por qué podríamos haber evoluciónado para
-   ser susceptibles a las enfermedades en primer lugar, y cómo podemos
-   utilizar la evolución para combatirlas.
-   Doctora atiende a una paciente durante una quimioterapia.
-
---
-
-   Un estudio reciente destacó la capacidad casi "infinita" de las células
-   cancerosas para evoluciónar y sobrevivir.
-
-   Cuando un paciente recibe terapia farmacológica, por ejemplo, se
---
-
-   El uso generalizado de antibióticos ha llevado inadvertidamente a las
-   bacterias a evoluciónar y crear resistencia. Además, las bacterias
-   también desarrollan resistencia de otros modos, desde el intercambio de
-   material genético hasta acumulando mutaciones aleatorias.
---
-   enfoques diferentes para descomponer estas vías.
-
-   "Si queremos resolver este problema, necesitamos entender la evolución
-   y luego ir tras los puntos débiles", dice Andrew Read, director de los
-   Institutos Huck de Ciencias de la Vida de la Universidad Penn State.
-</text>
-</page> §
-<page="es-52">
 <text>
      * BBC Extra
 
@@ -5843,7 +5714,7 @@ sobre nuestros ancestros
        29 agosto 2019
 </text>
 </page> §
-<page="es-53">
+<page="es-51">
 <text>
    ____________________ [BUTTON Input] (not implemented)_____
 
@@ -5876,9 +5747,7 @@ Charles Darwin, el padre de la evolución
    gran valor sobre el origen de los atolones.
 
    Charles Darwin está considerado el Padre de la evolución y es uno de
-   los científicos más relevantes de la historia Charles Darwin está
-   considerado el Padre de la evolución y es uno de los científicos más
-   relevantes de la historia
+   los científicos más relevantes de la historia
 
 --
 
@@ -5920,7 +5789,7 @@ Ideas principales de la Teoría de la evolución:
        ámbito acogió con cierto escepticismo los descubrimientos de
 </text>
 </page> §
-<page="es-54">
+<page="es-52">
 <text>
    Historia
 
@@ -6016,7 +5885,7 @@ Con el reciente descubrimiento del 'Homo Naledi', posiblemente venga bien
      * Gente y Cultura
 </text>
 </page> §
-<page="es-55">
+<page="es-53">
 <text>
           + Origen del Universo
           + Naturaleza y persona
@@ -6781,7 +6650,7 @@ Teoría de la evolución
        2001.
 </text>
 </page> §
-<page="es-56">
+<page="es-54">
 <text>
    Lección 1: Selección natural
    (BUTTON)
@@ -6895,7 +6764,7 @@ La selección natural y la evolución de las especies
    de la selección natural puede explicar la adaptación que existe entre
 </text>
 </page> §
-<page="es-57">
+<page="es-55">
 <text>
    marzo - abril 2011
 
@@ -7113,7 +6982,7 @@ La evolución del evoluciónismo
      __________________________________________________________________
 </text>
 </page> §
-<page="es-58">
+<page="es-56">
 <text>
    #Dciencia » Feed Dciencia » Feed de los comentarios Dciencia »
    Comentario La evolución, conceptos básicos del feed alternate alternate
@@ -7313,9 +7182,15 @@ About the Author: Daniel Campo
        […] https://www.dciencia.es/que-es-la-evolución-conceptos/ […]
    28. yilmari 2020/03/04 at 1:33 am - Reply
        bueno.. me encanta .
+--
+Related Posts
+
+Las Islas Galápagos, el laboratorio natural de la evolución
+
+   14 diciembre, 2023|0 Comments
 </text>
 </page> §
-<page="es-59">
+<page="es-57">
 <text>
      * Learn Evolution
 
@@ -7396,50 +7271,7 @@ evolución 101!
           + Examinando la complejidad
 </text>
 </page> §
-<page="es-5">
-<text>
-   Seminarios IADIZA-IANIGLA
-
-La evolución de la Sociedad Humana
-
-   El miércoles 20 de julio, Ignacio Gómez Portillo (CONICET - FCEN,
-   UNCuyo), brindará una charla titulada: "La evolución de la Sociedad
-   Humana". La misma será a partir de las 12.00 hs. en la Sala
-   Latinoamericana del CCT Mendoza.
---
-
-   La cooperación está presente en toda forma de vida conocida y, por lo
-   tanto, comprender su evolución es esencial para una correcta
-   comprensión de la naturaleza. Desde que Darwin publicó el Origen de las
-   Especies, la selección natural ha mostrado ser el más poderoso y
---
-   cualquiera capaz de hacerlo.
-
-   Por tanto, cómo pudo la cooperación evoluciónar por selección natural?
-   Cómo pudo evoluciónar la vida? Cómo es posible que haya evoluciónado la
-   Sociedad Humana?.En esta presentación, comenzaré introduciendo las
-   teorías tradicionales sobre el problema de la cooperación.
-
-   Con estas, explicaré la evolución de una significativa parte de las
-   interacciones humana actuales. Sin embargo, ninguna de estas teorías
-   permite explicar la Sociedad Humana como una sola entidad. Tomando esto
-   como motivación, introduciré una teoría reciente que explica la
-   evolución de sociedades culturales a partir de elementos generales de
-   las sociedades humanas. Luego introduciré distintas mutaciones para
-   integrar todas las teorías en una y así, explicar la evolución de
-   nuestra sociedad. No obstante, los mecanismos para la evolución de
-   cooperación fallan cuando las mutaciones son ampliamente consideradas.
-   Esto es consistente con el hecho de que todo organismo muere luego de
-   algún tiempo. La cooperación evolucióna superando esta limitación
-   inherente mediante la reproducción de los sistemas cooperativos.
-
-   En resumen, haré un repaso de la literatura sobre el problema de la
-   cooperación para explicar la evolución de la Sociedad Humana.
-
-También te puede interesar:
-</text>
-</page> §
-<page="es-60">
+<page="es-58">
 <text>
    InicioBiología
 
@@ -7509,7 +7341,7 @@ evolución
 
    evolución. Autor: Equipo editorial, Etecé. De: Argentina. Para:
    Concepto.de. Disponible en: https://concepto.de/evolución/. Última
-   edición: 5 de agosto de 2021. Consultado: 03 de diciembre de 2023
+   edición: 5 de agosto de 2021. Consultado: 01 de enero de 2024
 
 --
    Teoría de Darwin
@@ -7519,7 +7351,7 @@ evolución
    Teoría de Lamarck
 </text>
 </page> §
-<page="es-61">
+<page="es-59">
 <text>
    ryLevel1]=ACTUALIDAD&amp;pageData[categoryLevel2]=Ciencia y
    Ecolog%C3%ADa&amp;pageData[contentTitle]=Cient%C3%ADficos descubren una
@@ -7629,7 +7461,50 @@ Hallan ley perdida de la naturaleza que amplía la evolución
    leyes de la naturaleza a través del espacio y el tiempo.
 </text>
 </page> §
-<page="es-62">
+<page="es-5">
+<text>
+   Seminarios IADIZA-IANIGLA
+
+La evolución de la Sociedad Humana
+
+   El miércoles 20 de julio, Ignacio Gómez Portillo (CONICET - FCEN,
+   UNCuyo), brindará una charla titulada: "La evolución de la Sociedad
+   Humana". La misma será a partir de las 12.00 hs. en la Sala
+   Latinoamericana del CCT Mendoza.
+--
+
+   La cooperación está presente en toda forma de vida conocida y, por lo
+   tanto, comprender su evolución es esencial para una correcta
+   comprensión de la naturaleza. Desde que Darwin publicó el Origen de las
+   Especies, la selección natural ha mostrado ser el más poderoso y
+--
+   cualquiera capaz de hacerlo.
+
+   Por tanto, cómo pudo la cooperación evoluciónar por selección natural?
+   Cómo pudo evoluciónar la vida? Cómo es posible que haya evoluciónado la
+   Sociedad Humana?.En esta presentación, comenzaré introduciendo las
+   teorías tradicionales sobre el problema de la cooperación.
+
+   Con estas, explicaré la evolución de una significativa parte de las
+   interacciones humana actuales. Sin embargo, ninguna de estas teorías
+   permite explicar la Sociedad Humana como una sola entidad. Tomando esto
+   como motivación, introduciré una teoría reciente que explica la
+   evolución de sociedades culturales a partir de elementos generales de
+   las sociedades humanas. Luego introduciré distintas mutaciones para
+   integrar todas las teorías en una y así, explicar la evolución de
+   nuestra sociedad. No obstante, los mecanismos para la evolución de
+   cooperación fallan cuando las mutaciones son ampliamente consideradas.
+   Esto es consistente con el hecho de que todo organismo muere luego de
+   algún tiempo. La cooperación evolucióna superando esta limitación
+   inherente mediante la reproducción de los sistemas cooperativos.
+
+   En resumen, haré un repaso de la literatura sobre el problema de la
+   cooperación para explicar la evolución de la Sociedad Humana.
+
+También te puede interesar:
+</text>
+</page> §
+<page="es-60">
 <text>
      *
 
@@ -7653,7 +7528,7 @@ Museo de la evolución Puebla
        Volver arriba
 </text>
 </page> §
-<page="es-63">
+<page="es-61">
 <text>
    ____________________
 
@@ -7702,7 +7577,7 @@ Selección natural
    tiempo. Pues para ello, Darwin se basó en varias observaciones:
 </text>
 </page> §
-<page="es-64">
+<page="es-62">
 <text>
    (BUTTON) Buscar
      * Institucional
@@ -7725,7 +7600,7 @@ evolución Histórica
    Su funcionamiento fue reglamentado en junio de 2006 por el Decreto N°
 </text>
 </page> §
-<page="es-65">
+<page="es-63">
 <text>
 
    Universitat Autònoma de Barcelona >gt; Estudios >gt; Grado >gt; Oferta de grados
@@ -7742,7 +7617,7 @@ Mínor en evolución y Paleontología Humana
    en Cataluña es muy incipiente.
 </text>
 </page> §
-<page="es-66">
+<page="es-64">
 <text>
    (BUTTON)
 
@@ -7790,7 +7665,7 @@ Dibujar historias, explicar la evolución
 Un diálogo entre ilustración y ciencia
 </text>
 </page> §
-<page="es-67">
+<page="es-65">
 <text>
    (BUTTON)
 
@@ -7987,7 +7862,7 @@ de octubre, 2014
        de Experientia […]
 </text>
 </page> §
-<page="es-68">
+<page="es-66">
 <text>
      * Ecología y medio ambiente
      * Seres vivos
@@ -8048,14 +7923,14 @@ Controversias sobre la evolución
    que entres en nuestra categoría de Seres vivos.
    Teoría de Lamarck: qué es, importancia y ejemplo
 --
-   Tundra: características, clima, tipos, flora y fauna
+   Contaminación por basura: causas, consecuencias y soluciones
    5.
    Mecanismos de la evolución
    6.
-   Bosques tropicales: características, flora y fauna
+   Bosque
 --
    8.
-   Ciclo del oxígeno: qué es y etapas
+   Tipos y clasificación de los hongos
    Consecuencias de la evolución
    Consecuencias de la evolución
    evolución de las plantas y su origen
@@ -8066,7 +7941,7 @@ Controversias sobre la evolución
    Las 4 Teorías más Aceptadas del Origen del Hombre
 --
    información en cualquier momento, poniéndote en contacto con Red Link
-   To Media SL (info@linktomedia.net)
+   To Media SL ([email protected])
    La evolución
    []
    []
@@ -8080,6 +7955,76 @@ Controversias sobre la evolución
      * La evolución
 
    Volver arriba
+</text>
+</page> §
+<page="es-67">
+<text>
+   Variantes y la salud →
+
+   ¿Cómo se involucran las variantes genéticas en la evolución?
+
+   Usted esta aquí:
+   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
+   evolución/
+
+¿Cómo se involucran las variantes genéticas en la evolución?
+
+   Para usar las funciones de compartir de esta páginas, por favor,
+   habilite JavaScript.
+
+   La evolución es el proceso por el cual las poblaciones de organismos
+   cambian a través de las generaciones. Las variaciones genéticas son las
+   causas de estos cambios. Estas variantes pueden surgir de variaciones
+--
+   vuelve tan diferente que se considera una nueva especie.
+
+   No todas las variaciones influyen en la evolución. Solo las variantes
+   hereditarias, que ocurren en los óvulos o en los espermatozoides,
+   pueden transmitirse a las generaciones futuras y contribuir
+   potencialmente a la evolución. Algunas variaciones ocurren durante la
+   vida de una persona en solo algunas de las células del cuerpo y no son
+   hereditarias, por lo que la selección natural no puede influir. Además,
+--
+     * ¿Qué son las enfermedad complejas o multifactoriales?
+     * ¿Qué significa tener una predisposición genética a una enfermedad?
+     * ¿Cómo se involucran las variantes genéticas en la evolución?
+     * ¿Qué información pueden entregar las estadísticas sobre una
+       afección genética?
+</text>
+</page> §
+<page="es-68">
+<text>
+   Variantes y la salud →
+
+   ¿Cómo se involucran las variantes genéticas en la evolución?
+
+   Usted esta aquí:
+   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
+   evolución/
+
+¿Cómo se involucran las variantes genéticas en la evolución?
+
+   Para usar las funciones de compartir de esta páginas, por favor,
+   habilite JavaScript.
+
+   La evolución es el proceso por el cual las poblaciones de organismos
+   cambian a través de las generaciones. Las variaciones genéticas son las
+   causas de estos cambios. Estas variantes pueden surgir de variaciones
+--
+   vuelve tan diferente que se considera una nueva especie.
+
+   No todas las variaciones influyen en la evolución. Solo las variantes
+   hereditarias, que ocurren en los óvulos o en los espermatozoides,
+   pueden transmitirse a las generaciones futuras y contribuir
+   potencialmente a la evolución. Algunas variaciones ocurren durante la
+   vida de una persona en solo algunas de las células del cuerpo y no son
+   hereditarias, por lo que la selección natural no puede influir. Además,
+--
+     * ¿Qué son las enfermedad complejas o multifactoriales?
+     * ¿Qué significa tener una predisposición genética a una enfermedad?
+     * ¿Cómo se involucran las variantes genéticas en la evolución?
+     * ¿Qué información pueden entregar las estadísticas sobre una
+       afección genética?
 </text>
 </page> §
 <page="es-69">
@@ -8140,624 +8085,6 @@ Controversias sobre la evolución
    de la evolución darwiniana, y las propiedades de VN (la ley de la
    rentabilidad, la del interés compuesto, las fórmulas de depreciación,
    etc.) son leyes que cumplen aproximadamente las sociedades biológicas
-</text>
-</page> §
-<page="es-70">
-<text>
-     * Ecología y medio ambiente
-     * Seres vivos
-     * La evolución
-
-La evolución
-
-   Por Equipo de redacción. 21 octubre 2022
-   La evolución
-
-   La evolución son una serie de cambios que se acumulan en una población
-   de organismos a través del tiempo, lo que da lugar a la descendencia
-   con modificaciones genéticas. Es un proceso biológico lento y
---
-   simiescos y, por eso, comparte muchas características con los
-   chimpancés y otros primates. Si quieres saber más, no te pierdas este
-   artículo de BIOenciclopedia sobre la evolución.
-   También te puede interesar: Mecanismos de la evolución
-   Índice
-    1. Qué es la evolución
-    2. Teoría de la evolución
-    3. Mecanismos de la evolución
-    4. Controversias sobre la evolución
-
---
-   complejos.
-
-Teoría de la evolución
-
-   El naturalista inglés Charles Darwin es reconocido por haber enunciado
---
-   Aristóteles, pero no llamó especialmente la atención hasta que
-   Darwin publicó su libro "El origen de las especies" (1859), donde
-   introdujo su teoría evoluciónista.
-
-   De acuerdo con esta teoría, todas las especies que existen han
-   evoluciónado de formas de vida muy simples que se desarrollaron hace
-   más de 3,000 millones de años. Se cree que antes de que la vida
-   existiese, los elementos químicos se hallaban dispersos en la Tierra y
---
-   heredarse genéticamente.
-
-Mecanismos de la evolución
-
-   Todos los seres vivos están en evolución constante y esto se debe a
---
-   Dichos mecanismos no ocurren al mismo tiempo, sino que pueden
-   presentarse en casos específicos. No obstante, la selección natural
-   es el principal mecanismo por el cual evoluciónan los seres vivos de
-   una población.
-   La evolución - Mecanismos de la evolución
-
-Controversias sobre la evolución
---
-   modifica de forma natural.
-
-   Si deseas leer más artículos parecidos a La evolución, te recomendamos
-   que entres en nuestra categoría de Seres vivos.
-   Teoría de Lamarck: qué es, importancia y ejemplo
---
-   Tundra: características, clima, tipos, flora y fauna
-   5.
-   Mecanismos de la evolución
-   6.
-   Bosques tropicales: características, flora y fauna
---
-   8.
-   Ciclo del oxígeno: qué es y etapas
-   Consecuencias de la evolución
-   Consecuencias de la evolución
-   evolución de las plantas y su origen
-   evolución de las plantas y su origen
-   Teoría celular: postulados, origen y evolución
-   Teoría celular: postulados, origen y evolución
-   Las 4 Teorías más Aceptadas del Origen del Hombre
-   Las 4 Teorías más Aceptadas del Origen del Hombre
---
-   información en cualquier momento, poniéndote en contacto con Red Link
-   To Media SL (info@linktomedia.net)
-   La evolución
-   []
-   []
-   1 de 2
-   La evolución
-     __________________________________________________________________
-
---
-     * Ecología y medio ambiente
-     * Seres vivos
-     * La evolución
-
-   Volver arriba
-</text>
-</page> §
-<page="es-71">
-<text>
-   Variantes y la salud →
-
-   ¿Cómo se involucran las variantes genéticas en la evolución?
-
-   Usted esta aquí:
-   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
-   evolución/
-
-¿Cómo se involucran las variantes genéticas en la evolución?
-
-   Para usar las funciones de compartir de esta páginas, por favor,
-   habilite JavaScript.
-
-   La evolución es el proceso por el cual las poblaciones de organismos
-   cambian a través de las generaciones. Las variaciones genéticas son las
-   causas de estos cambios. Estas variantes pueden surgir de variaciones
---
-   vuelve tan diferente que se considera una nueva especie.
-
-   No todas las variaciones influyen en la evolución. Solo las variantes
-   hereditarias, que ocurren en los óvulos o en los espermatozoides,
-   pueden transmitirse a las generaciones futuras y contribuir
-   potencialmente a la evolución. Algunas variaciones ocurren durante la
-   vida de una persona en solo algunas de las células del cuerpo y no son
-   hereditarias, por lo que la selección natural no puede influir. Además,
---
-     * ¿Qué son las enfermedad complejas o multifactoriales?
-     * ¿Qué significa tener una predisposición genética a una enfermedad?
-     * ¿Cómo se involucran las variantes genéticas en la evolución?
-     * ¿Qué información pueden entregar las estadísticas sobre una
-       afección genética?
-</text>
-</page> §
-<page="es-72">
-<text>
-     *
-
-Museo de la evolución Puebla
-
-   Av. Ejército de Oriente, esq. Cazadores de Morelia S/N, Unidad Cívica 5
---
-       los robots de spam. Necesita tener JavaScript habilitado para poder
-       verlo.
-       El Museo de la evolución Puebla abarca desde la historia del cosmos
-       hasta las eras geológicas de la Tierra, pasando por el Big Bang y
-       la creación del ser humano. Es un recinto que se especializa en
-       nuestra evolución y todo lo que nos rodea.
-       Son más de 10 mil 500 metros cuadrados de exhibición, distribuidos
-       en cuatro fabulosas salas, que exploran los 14 mil millones de años
---
-       calentamiento global, la responsabilidad humana y los cambios de
-       temperatura mundial, con el propósito de reflexionar sobre la
-       especie humana y su lugar en la evolución.
-       COMPARTE
-       Volver arriba
-</text>
-</page> §
-<page="es-73">
-<text>
-   ____________________
-
-¿Qué es la Teoría de Darwin? evolución y selección natural
-
-   Oct 14, 2021 | Sin categoría
---
-   de la historia de la humanidad. El naturalista británico, Charles
-   Darwin, habla del concepto de la selección natural para explicar la
-   causa de la evolución. En este blog explicaremos en qué consiste
-   exactamente esta teoría. ¡Sigue leyendo para descubrirlo! Además, si
-   quieres ampliar tus conocimientos, puedes especializarte con nuestros
---
-
-     * ¿Qué es la Teoría de Darwin?
-          + evolución
-          + Selección natural
-               o Características hereditarias
---
-   desarrolladas por el naturalista británico, Charles Darwin. Su teoría
-   explica el origen de la diversidad de la vida. Y por lo tanto del rol
-   de la selección natural sobre el proceso de la evolución biológica.
-
-   El conjunto de estas teorías científicas, conocidas también como
---
-   donde salen sus dos ideas fundamentales:
-
-evolución
-
-   La teoría de la evolución propone que las especies cambian con el
-   tiempo. Que las especies nuevas provienen de especies preexistentes. Y
-   que todas las especies comparten un ancestro común.
---
-   Eso significa que cada especie tiene su propio conjunto de diferencias
-   heredables, es decir, genéticas. Por lo tanto, considera que las
-   especies que han poblado y pueblan el plantea Tierra han evoluciónado a
-   través del tiempo. Y así, es cómo han transmitido a sus descendientes
-   diversas variaciones genéticas. Y, además, en caso de que estas sean
---
-Selección natural
-
-   Darwin, además de proponer que los organismos evoluciónaban, también
-   ofreció un mecanismo para dicha evolución, la selección natural. Esta
-   teoría explicaba cómo podían evoluciónar las poblaciones. Es decir,
-   cómo estas se adecuaban para vivir en sus entornos con el paso del
-   tiempo. Pues para ello, Darwin se basó en varias observaciones:
-</text>
-</page> §
-<page="es-74">
-<text>
-   (BUTTON) Buscar
-     * Institucional
-          + Creación y evolución histórica
-          + Cometidos
-          + Plan estratégico
---
-     * Inicio
-     * Institucional
-     * Creación y evolución histórica
-
-Creación y evolución histórica
-
-     *
---
-   legalmente a la AGESIC
-
-evolución Histórica
-
-   Su funcionamiento fue reglamentado en junio de 2006 por el Decreto N°
-</text>
-</page> §
-<page="es-75">
-<text>
-
-   Universitat Autònoma de Barcelona >gt; Estudios >gt; Grado >gt; Oferta de grados
-   >gt; Mínors >gt; Mínor en evolución y Paleontología Humana
-
-Mínor en evolución y Paleontología Humana
-
-     * Información general
---
-   de la paleontología humana. Esta disciplina no tiene una docencia
-   reglada y es un campo muy atractivo para los estudiantes de geología,
-   arqueología y biociencias que desean especializarse en evolución
-   humana. Representa un valor añadido ya que la oferta de esta temática
-   en Cataluña es muy incipiente.
-</text>
-</page> §
-<page="es-76">
-<text>
-   (BUTTON)
-
-                            Pensar la evolución hoy
-
-   22 — 24 noviembre 2021
---
-   especies, una obra capital para la ciencia moderna que unificó el
-   estudio de las diversas formas de vida de nuestro planeta. Contenía la
-   base de la teoría de la evolución, que sacudió a la comunidad
-   científica y a toda la sociedad al anunciar que compartimos un ancestro
-   común con todas las especies vivas. Más de ciento sesenta años después,
-   a pesar de las controversias que generó entre sus contemporáneos, la
-   teoría de la evolución continúa interpelando a la sociedad y tejiendo
-   perspectivas para afrontar retos globales vinculados a la crisis
-   climática, la salud pública o la vida en los entornos humanos. Divulgar
---
-   habitamos? ¿Cuáles son los caminos que tiene que recorrer para reforzar
-   el diálogo con la sociedad? ¿Cuál es el legado de la teoría de la
-   evolución y qué formas adopta en la actualidad? ¿De qué manera puede
-   ayudarnos a pensar cómo hacer frente a preguntas clave de nuestro
-   presente?
---
-   portrait=0&amp;sidedock=0&amp;dnt=1
-
-Dibujar historias, explicar la evolución
-
-   Un diálogo entre ilustración y ciencia
-
-   Tres científicos y tres ilustradores dialogan, desde sus lenguajes,
-   sobre tres conceptos vinculados a la teoría de la evolución.
-
-   Ver el vídeo
---
-   Compartiendo notas
-
-   ¿Qué nos puede decir el estudio de la evolución humana sobre nuestra
-   condición? ¿Es la creatividad tan importante en el paradigma científico
-   como en el artístico? La paleontóloga Leslea Hlusko conversa con la
---
-   24 noviembre 2021 Debates
-
-Dibujar historias, explicar la evolución
-
-Un diálogo entre ilustración y ciencia
-</text>
-</page> §
-<page="es-77">
-<text>
-   (BUTTON)
-
-De la evolución
-
-Experientia docet
---
-
-   Si bien se pueden buscar antecedentes en la antigua Grecia, el hecho
-   cierto es que lo que hoy llamamos evolución en biología, la idea de que
-   todos los seres vivos provienen de un antepasado común y que la
-   diversidad de especies se debe a cambios heredados en las poblaciones
---
-   XVIII.
-
-   La palabra “evolución”, sin embargo, ya se venía empleando desde el
-   siglo XVII para referirse al desarrollo embrionario del individuo, sin
-   referencia alguna a la herencia. En este sentido “evolución”
-   significaba habitualmente el desarrollo de partes preexistentes en el
-   embrión, tal y como lo concebían los seguidores del preformismo.
---
-   Entre 1802 y 1820 Jean-Baptiste Lamarck combinó varios de estos temas
-   para producir la primera hipótesis sistemática, si bien no siempre
-   clara, del cambio orgánico (en esos años la palabra “evolución” en su
-   significado actual sólo está documentada en los trabajos de
-   Julien-Joseph Virey). Alrededor de 1830 Étienne e Isidore Geoffroy
---
-   Charles Lyell discutió las ideas de Lamarck desde un punto de vista
-   crítico en sus textos geológicos de comienzos de los años treinta del
-   XIX, donde usaba evolución en su sentido actual por primera vez en
-   lengua inglesa. Estos libros de Lyell fueron estudiados en profundidad
-   por Charles Darwin. Las ideas lamarckianas, combinadas con
---
-   especies derivasen de una (o unas pocas) forma de vida. Tanto en los
-   círculos científicos, como en los periodísticos y a nivel popular la
-   cuestión a debatir era la “evolución”. Darwin evitaba esta palabra,
-   optando por “descendencia con modificación”. Tanto el filósosfo Herbert
-   Spencer como otros tantos seguidores de Darwin se decantaban claramente
-   por “evolución”, y no ocultaban que su preferencia se basaba en sus
-   profundas implicaciones para una visión de la naturaleza que ponía el
-   énfasis en el cambio gradual y progresivo como resultado de la
---
-   perdidos” (olvidando en cierto modo lo que significan gradual y
-   progresivo) en el registro fósil que un consenso respecto a las causas
-   de la evolución. Alrededor de 1900, entre otras hipótesis, el
-   darwinismo, el neolamarckismo y la ortogénesis competían como
-   explicaciones del cambio evolutivo.
---
-   concepto de Darwin de selección natural con la genética. Desde los años
-   cuarenta del siglo XX la inmensa mayoría de los científicos cuando
-   hablan de evolución se refieren a la evolución neodarwinista.
-
-   Sin embargo, desde mediados de los años sesenta empezaron a
-   incorporarse nuevas aproximaciones al estudio de la evolución
-   biológica, incorporando herramientas y conceptos provenientes de la
-   ecología evolutiva, la paleontología y, muy especialmente, de la
---
-
-   Así, el hecho de que la variación genética, algunas veces, no esté
-   correlacionada con el éxito reproductivo y la evolución adaptativa (y,
-   por tanto, parezca “neutral” con respecto a la selección natural) llevó
-   a algunos biólogos, como Motō Kimura, a desarrollar a comienzos de 1964
-   la teoría neutralista de la evolución molecular. La teoría afirma que
-   buena parte del cambio evolutivo observado a nivel molecular ocurre por
-   una deriva genética aleatoria, independiente de la selección natural.
---
-
-   Desde los años sesenta del siglo XX, el interés en la cuestión de la
-   evolución de la especie humana tomó nuevo impulso. El hallazgo de
-   nuevos especímenes fósiles, al comienzo en África, pero después en Asia
-   (Flores, Denisova) o Europa (Atapuerca); el estudio del ADN
---
-     * Experientia docet
-
-   De la evolución
-
-Suscribirme
---
-     *
-
-La evolución de la vida inteligente: ¿Azar o necesidad?
-       ¿Es inevitable la evolución de la vida inteligente? ¿O es
-       improbable? Hoy los biólogos tienen claro que la concepción popular
-       […]
-     *
-
-Dani y Fiti sobre la teoría de la evolución
-       Hasta en las situaciones más insospechadas pueden surgir dudas
-       científicas, y si no, que se lo pregunten a Dani y […]
-     *
-
-Activa Tu Neurona – evolución Humana
-       El director del Centro Nacional de Investigación sobre evolución
-       Humana (CENIEH ) nos recibió en su despacho para hablar con […]
-
---
-       4. Hace tiempo (2009) publicaste un artículo* en el que, según unas
-       investigaciones, parecían ponerse en cuestión las bases de la
-       psicología evoluciónista. ¿Cuál es tu intuición acerca de esta
-       «disciplina»?
-       Salud y gracias de antemano.
-       * «Las estrategias de emparejamiento de los hadza, ¿un nuevo
-       hachazo a la psicología evoluciónista?»:
-       http://www.experientiadocet.com/2009/11/las-estrategias-de-empareja
-       miento-de.html
---
-            en una serie de ensayos que se publicaron en una revista
-            literaria, corresponde a una posición política que emplea
-            elementos de la teoría de la evolución distintos a los del
-            darwinismo social. Ni uno ni otra son, como ya he dicho,
-            ciencia.
---
-                 Kropotkin.
-                 Escribió un libro, «El apoyo mutuo: un factor en la
-                 evolución», basado en investigaciones en Siberia (él era
-                 geografo y fue a cartografiar varias zonas).
-                 Después, es cierto, se utiliza de una forma política el
---
-                 además se usa con tintes políticos, en respuesta al
-                 darwinismo social, el propio concepto tiene un carácter
-                 científico, es una extensión de la «teoría» la evolución
-                 de Darwin.
-                 Como dije en el anterior comentario, con este concepto,
---
-       Avatar de jose
-       Ameno resumen.
-       Yo le añadiría un párrafo sobre la evolución por simbiosis, creo
-       que es ampliamente aceptado sobre cómo se formaron las células
-       eucariotas.
---
-       Avatar de César Tomé
-       Simbiogénesis, epigenética, Margulis y demás.
-       Cualquiera que lea el texto y entienda de evolución y su historia,
-       echará en falta estas y otras muchísimas cosas (por citar sólo una,
-       a Wallace). Esta presentación histórica del concepto de evolución
-       es muy lineal y no pretende, ni mucho menos, agotar el tema del que
-       se pueden escribir libros no precisamente pequeños. La idea, dentro
---
-       tomo la libertad de escribir al entender que esto es un cuaderno de
-       divulgación.
-       Vaya por delante que me asumo y acepto la evolución como teoría que
-       explica cómo han evoluciónado las especies; en todo caso quiero
-       utilizar el ejemplo de la girafa del compañero (entiendo que
-       nagacionista de la evolución) SÓCRATES; solo lo utilizo como
-       ejemplo, no porque comparta la negación.
-       ¿Hay una explicación para torpes de cómo la siguiente girafa
-       consigue aumentar su cuello? es decir, me parece obvio que a la
-       girafa le viene bien pero no sé cómo consigue ordenar a sus células
-       que evoluciónn, es decir, no entiendo esa relación. Si lo
-       reducimos a nivel celular las células del cuello de la girafa no
-       deberían tener como objetivo reproducirse más o alinearse de tal
---
-       ver como esas células sin conciencia se disponen de ese modo. Hasta
-       me parecería razonable que fuera un tema de ensayo y error
-       (evolución del más fuerte); las células mutan aleatoriamente y las
-       girafas con cuellos gordos o barrigas grandes mueren y se quedan
-       las de cuello largo. Pero si esto es así, habría restos de millones
-       de girafas distintas (que igual es así) hasta que se hubiera dado
-       la buena tal cual la vemos ahora. De todos modos si fuera esto
-       último más que evolución (en la que yo entiendo cierta
-       intencionalidad por sobrevivir) sería pura casualidad, es decir, no
-       sería el más fuerte quien sobrevive, sino quien ha tenido más
---
-            largos, los que tengan descendencia, que hereda esas
-            características.
-            Este efecto a lo largo de muuuuuuchos años ->gt; evolución lenta
-            y gradual hacia una especie con el cuello muy largo.
-            Por cierto, hay que tener mucho cuidado cuando se habla de
-            evolución, no es correcto decir cosas como «¿Hay una
-            explicación para torpes de cómo la siguiente girafa consigue
-            aumentar su cuello?». La Jirafa no quiere aumentar su cuello,
-            ella no sabe que está evoluciónando ni tiene capacidad para
-            hacerlo. Un individuo no evolucióna, lo hace la especie, o si
-            nos ponemos estupendos, las poblaciones.
-            Espero haberte ayudado, que alguien me corrija si me confundo
---
-     *
-
-Dani y Fiti sobre la teoría de la evolución | Dani y Fiti | Cuaderno de
-Cultura Científica 28 de febrero, 2014
-       […] Para saber más, puedes leer en el Cuaderno De la evolución […]
-     *
-
-Para entender la paleoantropología. 2ª parte: La evolución | Afán por saber 6
-de marzo, 2014
-       […] Anotación de César Tomé para el Cuaderno de Cultura Científica
-       sobre la evolución. […]
-     *
-
---
-Lo Mejor de la Semana (9-15 de febrero) | Hablando de Ciencia | Artículos 12
-de octubre, 2014
-       […] nuevo en el CCC. la entrada relativa a la evolución de la mano
-       de Experientia […]
-</text>
-</page> §
-<page="es-78">
-<text>
-     * Ecología y medio ambiente
-     * Seres vivos
-     * La evolución
-
-La evolución
-
-   Por Equipo de redacción. 21 octubre 2022
-   La evolución
-
-   La evolución son una serie de cambios que se acumulan en una población
-   de organismos a través del tiempo, lo que da lugar a la descendencia
-   con modificaciones genéticas. Es un proceso biológico lento y
---
-   simiescos y, por eso, comparte muchas características con los
-   chimpancés y otros primates. Si quieres saber más, no te pierdas este
-   artículo de BIOenciclopedia sobre la evolución.
-   También te puede interesar: Mecanismos de la evolución
-   Índice
-    1. Qué es la evolución
-    2. Teoría de la evolución
-    3. Mecanismos de la evolución
-    4. Controversias sobre la evolución
-
---
-   complejos.
-
-Teoría de la evolución
-
-   El naturalista inglés Charles Darwin es reconocido por haber enunciado
---
-   Aristóteles, pero no llamó especialmente la atención hasta que
-   Darwin publicó su libro "El origen de las especies" (1859), donde
-   introdujo su teoría evoluciónista.
-
-   De acuerdo con esta teoría, todas las especies que existen han
-   evoluciónado de formas de vida muy simples que se desarrollaron hace
-   más de 3,000 millones de años. Se cree que antes de que la vida
-   existiese, los elementos químicos se hallaban dispersos en la Tierra y
---
-   heredarse genéticamente.
-
-Mecanismos de la evolución
-
-   Todos los seres vivos están en evolución constante y esto se debe a
---
-   Dichos mecanismos no ocurren al mismo tiempo, sino que pueden
-   presentarse en casos específicos. No obstante, la selección natural
-   es el principal mecanismo por el cual evoluciónan los seres vivos de
-   una población.
-   La evolución - Mecanismos de la evolución
-
-Controversias sobre la evolución
---
-   modifica de forma natural.
-
-   Si deseas leer más artículos parecidos a La evolución, te recomendamos
-   que entres en nuestra categoría de Seres vivos.
-   Teoría de Lamarck: qué es, importancia y ejemplo
---
-   Tundra: características, clima, tipos, flora y fauna
-   5.
-   Mecanismos de la evolución
-   6.
-   Bosques tropicales: características, flora y fauna
---
-   8.
-   Ciclo del oxígeno: qué es y etapas
-   Consecuencias de la evolución
-   Consecuencias de la evolución
-   evolución de las plantas y su origen
-   evolución de las plantas y su origen
-   Teoría celular: postulados, origen y evolución
-   Teoría celular: postulados, origen y evolución
-   Las 4 Teorías más Aceptadas del Origen del Hombre
-   Las 4 Teorías más Aceptadas del Origen del Hombre
---
-   información en cualquier momento, poniéndote en contacto con Red Link
-   To Media SL (info@linktomedia.net)
-   La evolución
-   []
-   []
-   1 de 2
-   La evolución
-     __________________________________________________________________
-
---
-     * Ecología y medio ambiente
-     * Seres vivos
-     * La evolución
-
-   Volver arriba
-</text>
-</page> §
-<page="es-79">
-<text>
-   Variantes y la salud →
-
-   ¿Cómo se involucran las variantes genéticas en la evolución?
-
-   Usted esta aquí:
-   https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/
-   evolución/
-
-¿Cómo se involucran las variantes genéticas en la evolución?
-
-   Para usar las funciones de compartir de esta páginas, por favor,
-   habilite JavaScript.
-
-   La evolución es el proceso por el cual las poblaciones de organismos
-   cambian a través de las generaciones. Las variaciones genéticas son las
-   causas de estos cambios. Estas variantes pueden surgir de variaciones
---
-   vuelve tan diferente que se considera una nueva especie.
-
-   No todas las variaciones influyen en la evolución. Solo las variantes
-   hereditarias, que ocurren en los óvulos o en los espermatozoides,
-   pueden transmitirse a las generaciones futuras y contribuir
-   potencialmente a la evolución. Algunas variaciones ocurren durante la
-   vida de una persona en solo algunas de las células del cuerpo y no son
-   hereditarias, por lo que la selección natural no puede influir. Además,
---
-     * ¿Qué son las enfermedad complejas o multifactoriales?
-     * ¿Qué significa tener una predisposición genética a una enfermedad?
-     * ¿Cómo se involucran las variantes genéticas en la evolución?
-     * ¿Qué información pueden entregar las estadísticas sobre una
-       afección genética?
 </text>
 </page> §
 <page="es-7">
@@ -8912,7 +8239,7 @@ Entradas recientes
 Comentarios recientes
 --
      * Comentarios
-     * Seguir Siguiendo
+     * Suscribirse Suscrito
           + evolución DE LA SOCIEDAD HUMANA
             ____________________
             (Suscríbeme) Suscríbeme
@@ -8921,7 +8248,7 @@ Comentarios recientes
      *
           + evolución DE LA SOCIEDAD HUMANA
           + Personalizar
-          + Seguir Siguiendo
+          + Suscribirse Suscrito
 </text>
 </page> §
 <page="es-9">

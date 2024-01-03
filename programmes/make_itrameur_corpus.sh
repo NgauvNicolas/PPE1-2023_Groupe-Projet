@@ -22,9 +22,9 @@ langue=$2
 
 # Crée ou réecrit avec > le fichier dans le dossier itrameur selon dumps-text ou contextes
 
-if [[ $dossier == 'contextes' ]]; then
+if [[ $dossier == "contextes/$langue" ]]; then
 	echo "<lang=\"$langue\">" > "../itrameur/contexte-$langue.txt"
-elif [[ $dossier == 'dumps-text' ]]; then
+elif [[ $dossier == "dumps-text/$langue" ]]; then
 	echo "<lang=\"$langue\">" > "../itrameur/dump-$langue.txt"
 fi
 
@@ -34,10 +34,10 @@ do
   # Extraction du nom du fichier sans l'extension .txt
 	page_n=$(basename -s .txt $chemin)
 
-	if [[ $dossier == 'contextes' ]]; then
+	if [[ $dossier == "contextes/$langue" ]]; then
 		echo "<page=\"$page_n\">" >> "../itrameur/contexte-$langue.txt"
 		echo "<text>" >> "../itrameur/contexte-$langue.txt"
-	elif [[ $dossier == 'dumps-text' ]]; then
+	elif [[ $dossier == "dumps-text/$langue" ]]; then
 		echo "<page=\"$page_n\">" >> "../itrameur/dump-$langue.txt"
 		echo "<text>" >> "../itrameur/dump-$langue.txt"
 	fi
@@ -60,11 +60,11 @@ do
 	fi
 
 
-	if [[ $dossier == 'contextes' ]]; then
+	if [[ $dossier == "contextes/$langue" ]]; then
 		echo "$contenu" >> "../itrameur/contexte-$langue.txt"
 		echo "</text>" >> "../itrameur/contexte-$langue.txt"
 		echo "</page> §" >> "../itrameur/contexte-$langue.txt"
-	elif [[ $dossier == 'dumps-text' ]]; then
+	elif [[ $dossier == "dumps-text/$langue" ]]; then
 		echo "$contenu" >> "../itrameur/dump-$langue.txt"
 		echo "</text>" >> "../itrameur/dump-$langue.txt"
 		echo "</page> §" >> "../itrameur/dump-$langue.txt"
@@ -72,9 +72,9 @@ do
 
 done
 
-if [[ $dossier == 'contextes' ]]; then
+if [[ $dossier == "contextes/$langue" ]]; then
 	echo "</lang>" >> "../itrameur/contexte-$langue.txt"
-elif [[ $dossier == 'dumps-text' ]]; then
+elif [[ $dossier == "dumps-text/$langue" ]]; then
 	echo "</lang>" >> "../itrameur/dump-$langue.txt"
 fi
 
