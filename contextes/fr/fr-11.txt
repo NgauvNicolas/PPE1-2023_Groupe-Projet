@@ -1,74 +1,130 @@
-   Sciences
+               o Suivre l’économie française
+               o Connaître les entreprises
+               o Observer l'évolution de la société
+               o Réaliser le recensement de la population
+               o Décrire et analyser les régions et les territoires
+--
+France, portrait social Édition 2019
 
-L'évolution humaine en sept questions
-
-La découverte d'Homo naledi, un nouvel ancêtre humain, a fait beaucoup de
+   Une édition avec des éclairages consacrés à l’évolution de la société
+   française depuis 40 ans : démographie, évolution du temps de travail,
+   mobilité sociale, inégalités de niveau de vie et redistribution,
+   opinions et préoccupations des Français.
 --
 
-   La découverte d’Homo naledi, dernière branche en date de notre arbre
-   généalogique, ravive le débat sur l’évolution humaine, et impose un
-   rappel des bases que nous avons tous oubliées. Voici les réponses à
-   quelques questions courantes.
-
-
-   Pourquoi les scientifiques sont-ils certains que l’évolution humaine a
-   bien eu lieu ?
-
+Éclairages
+          + Quarante ans d’évolution de la démographie française : le
+            vieillissement de la population s’accélère avec l’avancée en
+            âge des baby-boomers
 --
-   fortement que nous avons un ancêtre commun. De plus, des milliers de
-   fossiles indiquent l’existence d’espèces marquant une progression vers
-   l’être humain dans l’évolution de notre lignée après sa séparation
-   d’avec les autres grands singes puis, plus tard, d’avec les chimpanzés
-   et les bonobos.
+            heures, mais avec des horaires moins réguliers et plus
+            contrôlés
+          + La mobilité sociale des femmes et des hommes : évolutions
+            entre 1977 et 2015
+          + Quarante ans d’inégalités de niveau de vie et de
 --
-   Les biologistes ont observé d’autres espèces évoluer, à la fois sur le
-   terrain et en laboratoire. L’émergence de microbes résistants aux
-   antibiotiques est une forme d’évolution. De plus, les éleveurs
-   pratiquent l’évolution en permanence : il suffit de réfléchir à
-   l’incroyable diversité des races de chiens créées à partir des loups.
-
-
-   L’évolution contredit-elle la Bible ?
-
-   Oui, si vous croyez en une interprétation littéraire de la Bible. Elle
+Dossiers
+          + De la rupture conjugale à une éventuelle remise en couple :
+            l’évolution des niveaux de vie des familles monoparentales
+            entre 2010 et 2015
+          + L’imposition conjointe des couples mariés et pacsés organise
+--
+   particulièrement à partir des années 1990 : le travail, la famille, les
+   loisirs, la sociabilité amicale sont autant de domaines qu’ils jugent
+   désormais essentiels à leur quotidien. Cette évolution peut aussi être
+   reliée à la progression des ménages constitués d’une personne seule, du
+   fait du développement du célibat, des séparations et du vieillissement
 --
 
+   Néanmoins, les Français portent un regard plus sombre que par le passé
+   sur l’évolution de leur niveau de vie : en 1979, 46 % d’entre eux
+   disaient qu’il s’était amélioré depuis une dizaine d’années ; ils ne
+   sont plus que 24 % en 2019. Les jeunes Français âgés de 18 à 24 ans se
+--
+       manquer de temps pour les activités autres que le travail et les
+       tâches domestiques
+    5. Les Français plus pessimistes sur l’évolution de leur niveau de vie
+       en 2019 qu’en 1979
+    6. L’écart de perception sur le sentiment de restriction budgétaire se
+--
+   marché du travail, mais comment les opinions des Français ont-elles
+   évolué vis-à-vis de l’emploi des femmes ? Quel regard portent désormais
+   les Français sur la famille ? Sont-ils satisfaits de l’évolution de
+   leur niveau de vie et de leur temps libre ? Santé, sécurité : quelles
+   sont les nouvelles inquiétudes ? L’enquête Conditions de vie et
+--
+   d’un échantillon de personnes qui résident en France (sources) permet
+   de répondre à certaines de ces questions, offrant ainsi un regard sur
+   les évolutions des modes de vie et des valeurs.
 
-   Mais alors, comment est-ce que ça marche, l’évolution ?
-
-   L’ADN qui compose nos gènes et ceux de tous les organismes sur Terre, à
+Les opinions en faveur du travail des femmes ont progressé dans tous les
 --
 
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   graphique[Graphique -Figure 1 - Évolution depuis 1979 des opinions à l’égar
+   d du travail des femmesgure 1
 
-   Quelles sont les plus grandes étapes de l’évolution humaine ?
+tableauFigure - Évolution depuis 1979 des opinions à l’égard du travail des femmes
+femmes
 
-   La lignée humaine s’est séparée de celle des grands singes il y a au
+   en %
+
+   CAPTION: Figure 1 - Évolution depuis 1979 des opinions à l’égard du
+   travail des femmes (en %) - Lecture : en 2019, 74 % des personnes
+   estiment que les femmes devraient travailler quand elles le désirent.
 --
-   000 ans. Une théorie affirme que l’invention de la cuisson nous a
-   permis de récupérer plus d’énergie dans la viande, ce qui aurait
-   alimenté l’évolution spectaculaire du cerveau humain. L’augmentation de
-   la taille du cerveau et la dextérité des mains ont l’une après l’autre
-   contribué aux développements de caractéristiques typiques des humains,
+       1979-2019.
+
+graphiqueFigure 1 - Évolution depuis 1979 des opinions à l’égard du travail
+des femmes
+
+--
+   En quarante ans, la structure de la population a changé : le niveau de
+   diplôme a progressé, la population a vieilli. Une analyse toutes choses
+   égales par ailleurs permet de mesurer ce qui relève d’une évolution
+   générale des opinions de ce qui est directement lié aux changements
+   dans la structure de la population. Elle confirme qu’un changement des
+   représentations concernant le libre choix d’une vie active pour les
+   femmes s’est effectivement opéré dans le temps, au-delà de l’impact
+   qu’ont pu avoir les diverses évolutions socio-démographiques. Ainsi,
+   toutes choses égales par ailleurs, les Français sont 5,2 fois plus
+   souvent favorables au travail des femmes dans la dernière décennie que
 --
 
-   Il existe la preuve génétique et fossile que jusqu’à récemment,
-   l’évolution humaine a eu lieu en Afrique. Ce qu’on ne sait pas en
-   revanche, c’est si les premiers Homo sont apparus dans le sud ou dans
-   l’est de l’Afrique. Il est important de savoir où notre espèce a
+   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
+   graphique[Graphique -Figure 3 - Évolution depuis 1979 du sentiment que 
+   « la famille est le seul endroit où l'on se sente bien et détendu du »]
+
+tableauFigure 3 - Évolution depuis 1979 du sentiment que « la famille est le
+seul endroit où l'on se sente bien et détendu »
+
+   en %
+
+   CAPTION: Figure 3 - Évolution depuis 1979 du sentiment que « la famille
+   est le seul endroit où l'on se sente bien et détendu » (en %) - Lecture
+   : en 2019, 59 % des personnes se disent en accord avec l'idée que « la
+--
+       1979-2019.
+
+graphiqueFigure 3 - Évolution depuis 1979 du sentiment que « la famille est
+le seul endroit où l'on se sente bien et détendu »
+
+--
+       1979-2019.
+
+   Cette évolution peut aussi être reliée à la progression du célibat et
+   des séparations. En 2019, seuls 45 % des célibataires qui ne vivent pas
+   en couple pensent que la famille est « le seul endroit où l’on se sent
 --
 
-
-   L’évolution est-elle terminée pour nous et les autres singes ?
-
-   Certainement pas. Les humains continuent d’évoluer, mais pour l’instant
-   cette évolution est guidée autant par notre culture et la technologie,
-   que nous avons inventées, que par notre biologie. Les autres animaux,
-   dont les singes, continuent également leur évolution, et en particulier
-   à notre époque à cause des énormes changements provoqués dans leur
-   environnement par les humains.
+   En quarante ans, les écarts catégoriels se sont considérablement
+   réduits (figure 4). Ce rapprochement est le fruit d’évolutions
+   contrastées : les catégories les moins centrées sur la famille s’en
+   sont rapprochées tandis que les plus enthousiastes sont désormais plus
+   ouvertes à d’autres sphères, ce qui provient à la fois d’une évolution
+   de chaque catégorie dans son rapport à la famille, mais aussi de
+   changements socio-démographiques au sein des différents groupes
 --
-     * Préhistoire
-     * Sciences
-     * Évolution
-     * Biologie
-     * Histoire
+   parmi les endroit où l’on se sente bien et détendu » en 1979 et 2019 s
+   elon les caractéristiques socio-démographiques la famille est le seul en
+   évolutiondroit où l’on se sente bien et détendu » en 1979 et 2019 se

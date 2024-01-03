@@ -1,29 +1,122 @@
-               o Suivre l’économie française
-               o Connaître les entreprises
-               o Observer l'évolution de la société
-               o Réaliser le recensement de la population
-               o Décrire et analyser les régions et les territoires
+   Med Sci (Paris) 2010 ; 26 : 526–528
+
+L’évolution Biologique
+
+Grande oubliée de l’enseignement médical et base rationnelle d’une politique
+de santé
+
+Evolutionary biology, the great forgotten in medical education, and rationale
+for health policy
+
 --
 
-Population
-               o Évolution de la population
-               o Population par âge
-               o Mariages – Pacs – Divorces
+   Le but de cette mise au point est d’essayer de réconcilier médecine et
+   évolution biologique, de contribuer à la promotion de l’enseignement
+   qui en découle et d’en proposer les éléments comme outils pour la
+   rationalisation de la politique de santé. Par médecine évolutionniste,
+   on entend tout ce qui résulte du conflit entre notre génome tel qu’il a
+   été façonné par un environnement souvent hostile durant des millions
 --
-   progression des importations dans cette zone (+ 1,5 %) est supérieure à
-   celle des exportations (+ 0,2 %) alors que vers les marchés des pays
-   tiers, les évolutions sont respectivement de – 0,6 % et + 0,4 %.
+   genome-wide association (GWA).
 
-   La dégradation du solde des échanges de viandes et produits à base de
+   Considérer le fait médical à la lueur de l’évolution peut être une
+   nouvelle manière d’établir les prémisses d’une politique de santé
+   globalisée.
+
+   Randolph Nesse, qui est le fondateur de la médecine évolutionniste
+   (dite aussi médecine darwinienne), a récemment publié dans la revue
+   Proc Natl Acad Sci USA un plaidoyer, inhabituel dans ce journal, en
+   faveur de l’enseignement de la biologie de l’évolution dans les
+   facultés de médecine. Ce plaidoyer est soutenu et illustré par les
+   contributions d’un grand nombre de biologistes célèbres qui fournissent
+   un nombre impressionnant d’exemples de ce qui pourrait être enseigné
+   [1]. Cet article souligne, à bon escient, le fait que seule l’évolution
+   permet de situer à la fois l’homme et les divers agents infectieux qui
+   sont en symbiose avec lui dans le contexte historique qui est le leur
+   [2]. Seule la connaissance de l’évolution et des différentes forces qui
+   l’ont assurée permet de comprendre comment interagissent les trois
+   partenaires du fait médical, à savoir l’environnement^2, le génotype
+   qui est la propriété de tout un chacun et le phénotype final qui, en
+   médecine, est le trait, le signe clinique [3]. Comme le souligne Nesse,
+   dans les facultés de médecine, l’évolution n’est pas enseignée comme
+   une discipline à part entière. Cette lacune affecte les pays
+   anglo-saxons, pour lesquels on pourrait invoquer la forte influence des
 --
-Tableaux et graphiques
+   Par nécessité, la politique de santé est souvent dirigée par
+   l’actualité. Elle ne repose habituellement pas sur une vue rationnelle
+   et globalisée de l’évolution de la santé publique telle qu’elle est
+   conduite par les changements environnementaux que nous subissons et qui
+   entrent souvent en conflit avec un génotype nettement plus stable^3.
+   Ces changements sont explosifs à l’échelle du temps biologique, même si
+   la perception que nous en avons est plus progressive. Le conflit entre
+   les deux paramètres définit la médecine évolutionniste [1, 3, 7, 8]
+   quoique de façon un peu inappropriée^4. Notre politique de santé paraît
+   souvent comme un patchwork déclenché : par de longues habitudes
+--
+   aurait-il pas une manière plus efficace de planifier le futur ?
 
-tableauFigure 1 – Évolution de la production des industries alimentaires, de
-boissons et du tabac
+   Réconcilier la médecine avec l’évolution biologique dans ce qu’elle a
+   de plus darwinien (c’est-à-dire quand elle a trait à la pression
+   sélective et non au seul hasard) peut avoir un impact sur les
+   fondements scientifiques de la médecine [3]. En cette année où nous
+   venons de célébrer le 200^e anniversaire de Charles Darwin, regarder
+   l’évolution actuelle de la médecine au travers du prisme de la biologie
+   de l’évolution et en incluant les données fournies par l’histoire de la
+   vie est l’un des moyens de mieux anticiper l’évolution de la santé
+   publique [1, 3, 7, 8]. Ce n’est pas le seul, bien évidemment, mais cet
+   outil n’est jamais évoqué dans les sphères décisionnelles où il devrait
+--
+   L’émergence de nouvelles maladies infectieuses, qui fait en ce moment
+   la une de la grande presse, est un problème classique. Ces émergences,
+   l’évolution des résistances bactériennes, parasitaires et virales,
+   l’évolution de l’efficacité des vaccins, ne sont qu’une des
+   démonstrations que le processus évolutif est continu. Les traitements
+   anti-infectieux auxquels on doit les premiers bonds spectaculaires de
+--
+   connaît le mécanisme (le détecteur étant NOD1 [nucleotide-binding
+   oligomerization domain-containing protein 1] et le produit détecté issu
+   de la bactérie étant un peptidoglycane). Connaître l’évolution de cette
+   symbiose est indispensable pour donner une réponse aux questions
+   posées.
+--
+   biologie de la thermogenèse comme la physiopathologie du choc thermique
+   deviendront rapidement des priorités [3]. Des exemples plus complexes
+   existent : le cancer considéré comme une forme accélérée de l’évolution
+   [16], l’athérosclérose considérée comme une maladie à la fois
+   métabolique et inflammatoire [17, 18] et l’histoire des gènes
+--
 
-   CAPTION: Évolution de la production des industries alimentaires, de
-   boissons et du tabac
+   Même si cette stabilité est assez relative, le génotype humain porte en
+   effet la marque d’évolutions récentes [5], cette variabilité est
+   probablement plus importante si l’on veut considérer l’épigénome qui
+   est encore en cours de décryptage [6].
+--
 
-   Production en millions d'euros Évolution 18/17 en %
-   2017 valeur 2018 volume Indice valeur Indice volume Indice prix
-   Transform. & conserv. viande & préparation prod. à base de viande
+   « Médecine darwinienne » sous-entend explicitement que le seul moteur
+   de l’évolution est la pression sélective. L’évolution est certes
+   conduite par la nécessité, mais elle l’est également par le hasard des
+   dérives génétiques. Le débat est au cœur de la biologie de l’évolution
+   en 2010, il est loin d’être simple et d’être clos.
+   ^5
+--
+Références
+
+    1. Nesse RM, Bergstrom CT, Ellison PT, et al. Making evolutionary
+       biology a basic science for medicine. Proc Natl Acad Sci USA 2010;
+       107 (suppl. 1) : 1800–7. [Google Scholar]
+    2. Lecointre G. Guide critique de l’évolution. Paris : Belin, 2009.
+       [Google Scholar]
+    3. Swynghedauw B. Quand le gène est en conflit avec son environnement.
+--
+       [Google Scholar]
+    5. Hawks J, Wang ET, Cochran GM, et al. Recent acceleration of human
+       adaptive evolution. Proc Natl Acad Sci USA 2007; 52 : 20753–8.
+       [Google Scholar]
+    6. Lister R, Pelizzola M, Dowen RH, et al. Human DNA methylomes at
+       base resolution show widespread epigenomic differences. Nature
+       2009; 462 : 15–322. [Google Scholar]
+    7. Stearns SC, Koella JC. Evolution in health and disease, 2^e ed.
+       Oxford (UK) : Oxford University Press, 2007. [Google Scholar]
+    8. Gluckman P, Beedle A, Hanson M. Principles of evolutionary
+       medicine. Oxford (UK) : Oxford University Press, 2009.
+       [Google Scholar]

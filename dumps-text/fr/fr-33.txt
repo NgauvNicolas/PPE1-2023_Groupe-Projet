@@ -1,299 +1,1578 @@
-   #Tout Pour Manager » Flux Tout Pour Manager » Flux des commentaires
-   Tout Pour Manager » Evolution sociétale qui implique des changements
-   pour le management Flux des commentaires alternate alternate alternate
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
 
-   Aller au contenu (Pressez Entrée)
-   Tout Pour Manager
+   Aller au contenu
 
-   Tout Pour Manager
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
 
-   Un réseau d'experts à votre service
-   (BUTTON)
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
 
-   (BUTTON) Rechercher : ____________________ Rechercher
-     * Outils et logiciels
-          + Qualité
-          + Projet
-          + Management
-          + CRM
-          + GED
-          + RH
-     * Base documentaire
-          + Le point de vues des experts
-     * Mon réseau
-     * Ecoles
-     * Contactez-nous
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1Histoire
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 1.1Période gallo-romaine
+               o 1.1.1Rome antique
+               o 1.1.2Débuts du christianisme
+          + 1.2L'évolution du mariage dans une société chrétienne
+               o 1.2.1Le mariage religieux
+               o 1.2.2Le mariage au Moyen Âge
+               o 1.2.3Les pratiques à l'Époque moderne
+               o 1.2.4Le mariage sous la Révolution française
+               o 1.2.5Le mariage sous le Consulat et l'Empire
+               o 1.2.6De 1816 aux années 1880
+               o 1.2.7Le mariage durant la IIIème République et le régime
+                 de Vichy
+               o 1.2.8Le mariage durant les IVème et Vème Républiques
+     * 2Le mariage civil aujourd’hui
+       (BUTTON) Afficher / masquer la sous-section Le mariage civil
+       aujourd’hui
+          + 2.1Définition du mariage en droit contemporain
+          + 2.2Cérémonie
+          + 2.3Données statistiques
+               o 2.3.1Mariages et nuptialité
+               o 2.3.2Tendances récentes
+               o 2.3.3Les mariages suivant les nationalités
+          + 2.4Conditions et procédures
+               o 2.4.1Conditions
+                    # 2.4.1.1L'âge
+                    # 2.4.1.2Mariage des couples homosexuels
+                    # 2.4.1.3Personnes trans
+               o 2.4.2Procédure
+     * 3Le mariage civil en droit français
+       (BUTTON) Afficher / masquer la sous-section Le mariage civil en
+       droit français
+          + 3.1Conditions de fond
+               o 3.1.1Conditions physiologiques
+               o 3.1.2Conditions psychologiques
+               o 3.1.3Conditions sociologiques
+          + 3.2Conditions de formes
+               o 3.2.1Formalités antérieures
+                    # 3.2.1.1Remise de pièces
+                    # 3.2.1.2Audition des futurs époux^[CC 12]
+                    # 3.2.1.3Publications^[CC 13]
+               o 3.2.2Célébration du mariage^[CC 14]
+          + 3.3Sanctions des conditions de formation du mariage
+               o 3.3.1Les oppositions (sanctions préventives)
+                    # 3.3.1.1Titulaires du droit d'opposition
+                    # 3.3.1.2Forme
+                    # 3.3.1.3Effets
+                    # 3.3.1.4Mainlevée de l'opposition
+                    # 3.3.1.5Les nullités du mariage
+          + 3.4Les effets du mariage
+               o 3.4.1Rapports personnels entre époux
+                    # 3.4.1.1Devoirs réciproques des époux
+                    # 3.4.1.2Direction conjointe de la famille^[CC 23]
+               o 3.4.2Rapports pécuniaires entre époux
+                    # 3.4.2.1Devoir de secours
+                    # 3.4.2.2Contribution des époux aux charges du mariage
+                    # 3.4.2.3Pouvoirs des époux
+                    # 3.4.2.4Sauvegarde des intérêts essentiels de la
+                      famille
+               o 3.4.3La famille : filiation et héritage
+          + 3.5Le divorce
+          + 3.6La séparation de corps ou de fait
+     * 4Annulation de mariage en France
+     * 5Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 5.1Bibliographie
+          + 5.2Articles connexes
+          + 5.3Liens externes
+     * 6Notes et références
+       (BUTTON) Afficher / masquer la sous-section Notes et références
+          + 6.1Notes
+          + 6.2Références
+               o 6.2.1Code civil
+               o 6.2.2Autres sources
+
+   [ ] Basculer la table des matières
+
+Mariage en France
+
+   [ ] 1 langue
+     * English
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Pour un article plus général, voir Mariage.
+   Droit des personnes en France
+
+   CAPTION: Personnalité juridique
+
+     * Types de personnalités : Personne physique, personne morale (voir
+       droit des sociétés)
+     * Acquisition de la personnalité : Naissance, conception
+     * Perte de la personnalité : Absence, Disparition, Mort
+     * Individualisation de la personne (état civil) : Domicile, Sexe,
+       Nationalité, Nom
+     * Caractères de la personnalité : Indisponibilité, imprescriptibilité
+
+   CAPTION: Droit des incapacités
+
+   Protection des mineurs
+     * Majorité civile en France
+     * Sexuelle
+     * Émancipation d'un mineur
+
+   Protection des majeurs
+     * Régimes de protection :
+          + Tutelle
+          + Curatelle
+          + Sauvegarde de justice
+          + Habilitation familiale
+     * Autre :
+          + Mandat de protection future
+          + Conseil de famille
+
+   CAPTION: Droits de la personnalité
+
+   Droit...
+     * à la vie
+     * au respect de son corps
+     * au respect de sa dignité
+     * à l'honneur
+     * au respect de la vie privée
+     * à l'image
+     * au secret de sa correspondance
+
+   modifier Consultez la documentation du modèle
+
+   Le mariage en France est une institution contractuelle^[1],
+   c'est-à-dire à la fois une institution et un contrat^[2]^,^[1] qui
+   permet à deux personnes de s'unir pour vivre en commun et fonder une
+   famille^[3].
+
+   Les articles 143 et suivants du Code civil régissent le mariage civil
+   qui est la consécration par le droit du couple. Depuis 1999, il existe
+   aussi les statuts du concubinage et du pacte civil de solidarité
+   (PACS).
+
+   Les institutions religieuses organisent le mariage religieux qui n'est
+   pas reconnu par le droit.
+
+Histoire[modifier | modifier le code]
+
+Période gallo-romaine[modifier | modifier le code]
+
+Rome antique[modifier | modifier le code]
+
+   Pour les Romains, le mariage est une obligation du citoyen qui permet
+   l'organisation d'un lien d'alliance et donc de disposer de son
+   patrimoine. À ce titre, il fait une différence entre les « justae
+   nuptiae » (Justes Noces) et le « matrimonium non legitimum »^[4].
+
+   Pour qu'il y ait justae nuptiae, il fallait d'une part le consentement
+   des parties intéressées, et d'autre part posséder la capacité de
+   contracter un mariage ou « conubium ». Pour obtenir cette « capacité de
+   contracter un mariage », il fallait que les deux époux soient citoyens
+   romains, issus de classes sociales déterminées et qu'ils aient atteint
+   l'âge nubile de douze ans pour les filles et quatorze ans pour les
+   garçons. En l'absence de conubium, on se trouvait en présence d'un
+   matrimonium non legitimum qui concernait les esclaves et les
+   étrangers^[4].
+
+Débuts du christianisme[modifier | modifier le code]
+
+   Avec l'arrivée de la religion chrétienne, les mœurs ne changent pas
+   immédiatement.
+
+   À l'époque dite des Pères de l'Église (II^e au VI^e siècle ), il n'y a
+   pas de rite spécifique de mariage au sein de l'Église. Les chrétiens se
+   marient suivant les coutumes de leur région. La présence du prêtre
+   n'est pas obligatoire et peu pratiquée^[5].
+
+   Les chrétiens prennent plus tard l'habitude de faire bénir leurs unions
+   par leur prêtre, mais son intervention n'officialisait toujours pas le
+   mariage, celui-ci résultant toujours de l'unique et seule volonté des
+   époux. Un tel mariage pouvait alors constamment être remis en doute et
+   quand l'un des conjoints voulait le nier, l'autre se trouvait le plus
+   souvent dans l'impossibilité d'apporter la preuve contraire, sauf
+   lorsqu'un écrit avait été signé. À défaut, il ne restait plus que la
+   preuve « par témoins », toujours suspecte^[6].
+
+L'évolution du mariage dans une société chrétienne[modifier | modifier le
+code]
+
+Le mariage religieux[modifier | modifier le code]
+
+   Articles détaillés : Sacrement de mariage, Mariage chrétien et Mariage
+   catholique.
+
+   Très tôt, l'Église interdit le divorce et cherche à faire respecter le
+   lien conjugal en entourant sa formation de solennité et de publicité.
+   Le mariage religieux se répand progressivement à partir du IX^e siècle.
+   Les époux se donnent mutuellement le sacrement du mariage en présence
+   du prêtre qui bénit leur union. À partir du X^e siècle, l'exigence de
+   la célébration publique du mariage est habituelle^[6].
+
+   À partir du XII^e siècle, le prêtre bénit et remet l'anneau, mais ce
+   n'est qu'en 1215^[7] que le mariage est intégré dans la liste des
+   sacrements de l'Église. Ce n'est ainsi qu'au XIII^e siècle que le
+   mariage à l'Église devient une pratique courante^[8]. C'est le seul
+   sacrement à ne pas être administré par un ministre ordonné (prêtre ou
+   diacre) qui, au regard des dispositions du canon 1108 (nouveau code de
+   droit canonique édition 1983), est un assistant au mariage. Il est
+   précisé que « par assistant au mariage, on entend seulement, la
+   personne qui, étant présente, demande la manifestation du consentement
+   des contractants, et la reçoit au nom de l'Église ».
+
+Le mariage au Moyen Âge[modifier | modifier le code]
+
+   L'Église catholique romaine est au Moyen Âge présente dans tous les
+   aspects de la vie. Le mariage n'échappe pas à cette règle.Les évêques
+   doivent concilier l'exigence de chasteté comme idéal de perfection et
+   les besoins plus terrestres des humains.^[réf. nécessaire] Au
+   VI^e siècle, l'évêque Césaire d'Arles condamne sévèrement les pratiques
+   conjugales des gallo-romains et tente d'imposer à ses ouailles des
+   périodes d'abstinence pendant le Carême et pendant les jours qui
+   précèdent la communion. Il enseigne que la sexualité n'est
+   véritablement juste, même au sein d'un couple marié, que pour la
+   procréation^[9].
+
+   La conception du mariage est par ailleurs un point de friction entre
+   l'Église et les guerriers francs. Ces derniers, bien que catholiques,
+   veulent conserver leurs coutumes germaniques - rapt, concubinage,
+   répudiation - alors que l'Église entend imposer l'indissolubilité du
+   couple, sauf cas exceptionnels : inceste, non consommation du
+   mariage.^[réf. nécessaire]
+
+   Charlemagne, fervent catholique, n'en mène pas moins une vie privée qui
+   ne se conforme pas aux prescriptions de l'Église. Il n'a jamais conclu
+   de mariage devant un prêtre mais s'est toujours conformé aux coutumes
+   germaniques pour ses trois mariages successifs. Il a vécu, après son
+   troisième veuvage, avec quatre concubines en même
+   temps^[10]^[source insuffisante]. Cela illustre bien les difficultés
+   que l'Église a eu pour imposer son point de vue sur le mariage.
+
+   C'est pourtant à l'époque carolingienne que l'Église catholique achève
+   la formation de la doctrine canonique sur le mariage, doctrine qu'elle
+   impose peu à peu en pays franc comme dans le reste de l'Occident. C'est
+   cette doctrine qui est encore officiellement celle de l'Église
+   catholique : le mariage doit être public, précédé de la publication des
+   bans, et avoir l'autorisation des parents. Seul le mariage béni par un
+   prêtre est reconnu par l'Église. Ceci n'empêche pas la persistance des
+   mariages coutumiers ou par simple consentement mutuel jusqu'à la fin du
+   Moyen Âge.
+
+   Le mariage a pour but de perpétuer la cellule familiale et son lignage.
+   Il est l'objet de tractations entre les familles. Dans le Nord de la
+   France, les stratégies matrimoniales des familles nobles sont
+   relativement simples : essayer de marier les filles, trouver à l'aîné
+   des garçons une union avantageuse, et évincer les autres garçons du
+   lignage pour éviter la dispersion des biens. L'Église défend une notion
+   plus individuelle du mariage. De plus, elle lutte contre les pratiques
+   endogamiques en interdisant les mariages entre parents jusqu'au
+   septième degré inclus. Dans le monde étroit du Moyen Âge où paysans et
+   citadins quittent rarement les limites du village ou du quartier,
+   c'était rendre le mariage singulièrement difficile et par contre-coup
+   favoriser le concubinage. Au XIII^e siècle, l'Église recule
+   l'interdiction au quatrième degré, ce qui correspond plus au genre de
+   vie de l'époque qui voyait beaucoup de mariages consanguins dans les
+   familles royales et aristocratiques.^[réf. nécessaire]
+
+   La forte mortalité inhérente à cette époque, comme la nécessité de
+   vivre à deux pour pouvoir assumer la survie de la cellule familiale,
+   expliquent le grand nombre de remariages pour les hommes comme pour les
+   femmes. Un trop grand nombre d'enfants est autant une menace pour la
+   survie de la famille que la solitude. La nécessité d'être deux pour
+   faire face à la charge de travail d'une exploitation familiale peut se
+   transformer en véritable malédiction en cas de trop grande fertilité du
+   couple ; d'où le recours aux potions pour avorter ou à l'étouffement
+   "malencontreux" du nouveau-né couché dans le lit conjugal. Le taux de
+   nuptialité est intimement lié à la conjoncture économique ; celui-ci
+   diminue aussi fortement que le taux de mortalité augmente au cours des
+   années de disette ou de famine. Quand la nourriture redevient
+   suffisante, le nombre de mariages connait une forte augmentation, suivi
+   de près par un pic des naissances.^[réf. nécessaire]
+
+Les pratiques à l'Époque moderne[modifier | modifier le code]
+
+   Le mariage et le couple à l'Époque moderne ont donné lieu à de
+   nombreuses études qui permettent de montrer la prédominance du mariage
+   comme genre de vie. Alors que dix à douze pour cent des ruraux sont
+   célibataires, ils sont un peu plus nombreux en ville où l'on voit un
+   grand nombre de déracinés, de domestiques et de couvents. En outre, les
+   gens du peuple se marient tard, 25-26 ans pour les femmes, 26-27 ans
+   pour les hommes. Ces mariages tardifs, vu l'espérance de vie, sont liés
+   au souci de limiter les naissances en raccourcissant la période de
+   fertilité du couple. Seules les classes dominantes se marient jeunes,
+   surtout les filles. Le nombre des naissances hors mariage comme celui
+   des conceptions pré-nuptiales est remarquablement faible dans les
+   campagnes.^[réf. nécessaire]
+
+   À l'Époque moderne, on se marie en dehors des périodes interdites par
+   l'Église (le Carême et l'Avent) et aussi en dehors des périodes de
+   grands travaux agricoles. Le mois de mai, mois consacré à la Sainte
+   Vierge est réputé porter malheur. Les noces sont célébrées chez les
+   parents de la promise. Le dépouillement quasi exhaustif des registres
+   paroissiaux d'état civil de l'époque a montré que les paysans se
+   marient avec un conjoint habitant à moins de 20 km de leur domicile
+   alors que dans les villes le brassage est plus important. Mais surtout,
+   on se marie dans son milieu professionnel ou social et, seules les
+   élites de la noblesse et de la bourgeoisie pratiquent l'exogamie
+   sociale ; le mariage est pour elles un moyen d'élargir leurs alliances
+   économiques et sociales.^[réf. nécessaire]
+
+   En 1579, Henri III promulgue l'Ordonnance de Blois qui impose des
+   normes sur le mariage (4 témoins, publication des bans, consentement
+   des parents, ...) et charge le clergé de la tenue du registre des
+   mariages pour le compte de l'Etat.
+
+Le mariage sous la Révolution française[modifier | modifier le code]
+
+   Articles détaillés : Histoire de l'état civil en France et Régime
+   concordataire français.
+
+   Contrairement à une idée répandue, la distinction entre mariage civil
+   et mariage religieux n'a pas été introduite en France à la suite de la
+   Révolution française, mais deux ans plus tôt, à la demande des
+   protestants, par l'Édit de Versailles (ou «édit de tolérance») de
+   novembre 1787 du roi Louis XVI^[11]. La question suscitait alors un
+   large débat, avec des interventions telles celles du juriste Portalis.
+   En effet, jusque-là seul le clergé tenait les registres d'état civil.
+   Dès lors, depuis la révocation de l'édit de Nantes en 1685, les 750 000
+   protestants français doivent soit se marier devant l'Église catholique,
+   soit se marier clandestinement, mais alors le mariage n'a aucune valeur
+   légale^[12].
+
+   Après le schisme provoquée par la constitution civile du clergé (17
+   juillet 1790), seul le clergé constitutionnel pouvait légalement tenir
+   les registres paroissiaux d'état civil. Cependant, un grand nombre de
+   mariages étaient célébrés par les prêtres réfractaires, sans autorité
+   légale, et les non catholiques (protestants, juifs, athées…) ne
+   figuraient toujours pas sur l'état civil.
+
+   L'article VII de la Constitution française du 3 septembre 1791 ne
+   reconnait le mariage que comme contrat civil, les registres d'état
+   civil étant confiés aux autorités municipales^[13]. Ce texte reconnait
+   indirectement le caractère dissoluble du mariage, qui n'est plus
+   considéré comme un sacrement conféré par l’Église.
+
+   L'Assemblée législative vote la loi autorisant le divorce le 20
+   septembre 1792^[14]. Il faut attendre cette même loi du 20 septembre
+   1792, pour que celui-ci soit laïcisé, passant sous le contrôle de
+   l'État ( [15px-Wikisource-logo.svg.png] Voir le texte sur Wikisource).
+   La Convention nationale définit ainsi le mariage le 21 août 1793 : « Le
+   mariage est une convention, par laquelle l'homme et la femme
+   s'engagent, sous l'autorité de la loi, à vivre ensemble, à nourrir et
+   élever les enfants qui peuvent naître de leur union ».
+
+   Les règles du mariage sont assouplies ; il y a beaucoup moins de cas
+   d'empêchement, il n'y a plus de période religieuse comme le Carême ou
+   l'Avent où se marier est interdit. Comme tout contrat, le mariage peut
+   être rompu. La loi d'août 1792 prévoit plusieurs cas de divorce : la
+   démence, l'emprisonnement pour crime, l'abandon du foyer conjugal, les
+   mauvais traitements physiques ou moraux. Les conventionnels ont même
+   prévu le divorce par consentement mutuel, cependant la procédure est
+   longue et on ne trouve dans l'état civil que peu d'actes de
+   conciliation devant le maire se concluant ou non par le divorce.
+
+   Par une proclamation du 22 janvier 1793, le Conseil exécutif interdit
+   au clergé de tenir ou participer à l'établissement des actes d'Etat
+   civil^[15]. Des jugements de tribunaux obligent des curés à marier
+   leurs confrères et des évêques sont emprisonnés pour s'être opposés à
+   ces mariages. Le 19 juillet 1793, un décret punit de déportation les
+   évêques qui commettent ce délit^[16].
+
+Le mariage sous le Consulat et l'Empire[modifier | modifier le code]
+
+   La laïcisation de l'état civil sera maintenue sous le régime
+   concordataire. La loi du 18 germinal an X (8 avril 1802) instituant le
+   régime concordataire impose aussi que le mariage civil doit
+   obligatoirement précéder le mariage religieux (article 54 des articles
+   organiques).
+
+   En nette réaction, le code Napoléon, promulgué en 1804, place la femme
+   sous la tutelle financière et administrative de son mari. Les
+   conditions du divorce se restreignent, et l'infidélité de la femme est
+   punie plus sévèrement que celle du mari, par le Code pénal de 1810 qui,
+   là où il punit la femme adultère et son complice de trois mois à deux
+   ans d'emprisonnement, ne prévoit qu'une amende en cas d'adultère du
+   mari, dans le cas où il y a entretien de la concubine au domicile
+   conjugal^[17].
+
+   Le Code pénal de 1810 sanctionne d'une amende un ministre du culte qui
+   aurait procédé au mariage religieux avant le mariage civil (article
+   199). La première récidive est punie d'un emprisonnement de 2 à 5 ans,
+   et la seconde récidive est punie par la déportation (article 200)^[18].
+
+De 1816 aux années 1880[modifier | modifier le code]
+
+   Durant la Restauration, le Code civil-y compris les dispositions
+   relatives au mariage, donc-ne connaît que peu d'évolutions^[19] ;
+   toutefois, le divorce est supprimé en 1816^[20] et la loi du 16 avril
+   1832 autorise les dispenses de mariage entre beaux-frères et
+   belles-soeurs^[19]. Selon l'historien du droit Jean-Louis Halpérin,
+   "après l’abolition du divorce en 1816, la période qui s’étend jusqu’aux
+   années 1880 paraît correspondre à l’apogée du mariage bourgeois et de
+   l’ordre familial"^[21].
+
+Le mariage durant la IIIème République et le régime de Vichy[modifier |
+modifier le code]
+
+   Le divorce fut réintroduit par la loi du 27 juillet 1884, dite "loi
+   Naquet"^[22].
+
+   Dans la loi de séparation des Églises et de l'État de 1905, les
+   articles 199 et 200 du code pénal de 1810 imposant l'antériorité du
+   mariage civil sur le mariage religieux ne sont finalement pas abrogés
+   malgré la proposition d'amendement des prêtres-députés Gayraud et
+   Lamire^[23]^,^[24].
+
+   A compter de la loi du 21 juillet 1907, tous les majeurs de plus de
+   vingt-et-un ans peuvent se marier sans l'autorisation de leurs
+   parents ; pour Jean-Louis Halpérin, cette mesure participe d'une
+   contractualisation du mariage^[25]. Dans un objectif nataliste, le
+   délai de viduité fut réduit par la loi du 9 décembre 1922 et la loi du
+   17 juillet 1927 prévu qu'en cas de dissentiment de la mère et du père
+   au sujet du mariage du mineur, il y avait consentement-mettant fin aux
+   pouvoirs particuliers dont jouissait jusqu'à présent le père, dans ce
+   domaine^[26]. Le nombre de mariages, après avoir augmenté durant le
+   début du XXème siècle, baissa durant l'entre-deux-guerres^[27]. Des
+   évolutions, concernant les droits des femmes mariées eurent également
+   lieu : la loi du 13 juillet 1907 permit aux femmes mariées de disposer
+   de leur salaire^[28] ; la loi du 18 février 1838 supprima le devoir
+   d'obéissance au mari^[29]. Durant le régime de Vichy, les conditions du
+   divorce furent durcies par la loi du 2 avril 1941-il devait y avoir
+   "une violation grave et renouvelée des devoirs et obligations résultant
+   du mariage et rendant intolérable le maintien du lien conjugal"^[30].
+
+Le mariage durant les IVème et Vème Républiques[modifier | modifier le code]
+
+   Le droit du mariage ne connut que peu d'évolutions, durant la IVème
+   République^[31]. Durant la Vème République, la loi du 13 juillet 1965
+   fit de la communauté réduite aux acquêts le régime matrimonial
+   applicable aux époux, à défaut de stipulations contractuelles
+   contraires^[32]. En outre, elle fit disparaître quasi totalement
+   l'incapacité des femmes mariées^[33]. La loi du 11 juillet 1975 admit
+   le divorce par consentement mutuel. Un divorce pour rupture de la vie
+   commune fut également créé^[34]. Pour le civiliste Xavier Labbée, cette
+   réforme a été le à l'origine d'un processus de contractualisation du
+   mariage^[35]. André Castaldo et Jean-Philippe Lévy affirment, dans leur
+   Histoire du droit civil, que cette réforme fut-avec celle de 1972,
+   instituant une égalité entre enfants naturels et enfants légitimes-le
+   point de départ de la diminution de l'importance du mariage^[36]. Après
+   cette loi, le nombre de divorces crut considérablement-il y en eut 102
+   432 en 1984^[37]. A partir de 1985, 30 % des mariages furent affectés
+   par le divorce^[38]. Le nombre de mariages, quant à lui, baissa-passant
+   de 393 686 en 1970 à 255 200 en 1993^[38]. Dans les années 2010, le
+   mariage poursuivit son évolution : une loi du 17 mai 2013 admit le
+   mariage des couples de même sexe ; le divorce par consentement mutuel
+   déjudiciarisé fut admis par la loi du 18 novembre 2016^[39].
+
+Le mariage civil aujourd’hui[modifier | modifier le code]
+
+   [220px-Mariages_et_pacs_de_2008_%C3%A0_2018.svg.png] Évolution du
+   nombre de pacs et de mariages civils entre 2008 et 2018 d'après
+   l'Insee.
+
+Définition du mariage en droit contemporain[modifier | modifier le code]
+
+   Le mariage est un acte juridique solennel par lequel deux individus
+   s'unissent et dont les effets sont fixés par la loi. Le mariage est
+   aussi une institution et non pas un simple contrat car les époux ne
+   peuvent aménager librement ses effets et ne peuvent le résilier à leur
+   guise^[3]. Toutefois, ce dernier point est à nuancer depuis
+   l'introduction du divorce sans juge^[40].
+
+Cérémonie[modifier | modifier le code]
+
+   Devant l'officier d'état civil, les futurs époux font serment de
+   respect, secours et assistance. Les articles du code civil qui sont
+   énoncés le jour du mariage^[CC 1] :
+     * article 212 : Les époux se doivent mutuellement respect, fidélité,
+       secours, assistance ;
+     * article 213 : Les époux assurent ensemble la direction morale et
+       matérielle de la famille. Ils pourvoient à l'éducation des enfants
+       et préparent leur avenir ;
+     * article 214, premier alinéa : Si les conventions matrimoniales ne
+       règlent pas la contribution des époux aux charges du mariage, ils y
+       contribuent à proportion de leurs facultés respectives ;
+     * article 215, premier alinéa : Les époux s'obligent mutuellement à
+       une communauté de vie ;
+     * article 371-1 : L'autorité parentale est un ensemble de droits et
+       de devoirs ayant pour finalité l'intérêt de l'enfant. Elle
+       appartient aux parents jusqu'à la majorité ou l'émancipation de
+       l'enfant pour le protéger dans sa sécurité, sa santé et sa
+       moralité, pour assurer son éducation et permettre son
+       développement, dans le respect dû à sa personne. Les parents
+       associent l'enfant aux décisions qui le concernent, selon son âge
+       et son degré de maturité.
+
+   [170px-Mariage_10e_arrondissement_de_Paris.jpg] Un mariage à la mairie
+   du 10^e arrondissement de Paris, en septembre 2007.
+
+Données statistiques[modifier | modifier le code]
+
+   En 2004, 266 000 mariages ont été célébrés, contre 300 000 en 2000.
+   Cela correspond à un taux de nuptialité de 4,3 pour mille. En décembre
+   2002, l'Insee constatait que « Les enfants assistent aux noces de leurs
+   parents dans trois mariages sur dix »^[41].
+
+   Le nombre de mariages est estimé à 241 000 en 2011. Il continue de
+   baisser depuis le pic de l’an 2000 malgré quelques années de pause
+   (2005, 2007 ou 2010). Pour contractualiser une union, de plus en plus
+   de Français préfèrent le Pacte civil de solidarité (PACS)^[42].
+
+   En 2011, l'âge moyen lors du premier mariage est de 30 ans pour les
+   femmes et de 32 ans pour les hommes. Vingt ans auparavant, c'était
+   respectivement 26 et 28 ans^[43].
+
+   En 2016^[44], la tendance à la baisse se poursuit. 225 612 mariages de
+   personnes de sexe différent sont célébrés et 7 113 mariages concernent
+   des personnes de même sexe. Le taux de nuptialité est de 3,5. 18 % des
+   mariés de 2016 étaient divorcés. Parmi ces remariés, un tiers a divorcé
+   depuis moins de 5 ans.
+
+   14 % des mariages célébrés sont des mariages mixtes (un des conjoints
+   est français et l'autre est étranger).
+
+Mariages et nuptialité[modifier | modifier le code]
+
+   Année Mariages hétérosexuels Taux de nuptialité
+   (pour 1000 habitants) Mariages homosexuels
+   2004 278 439 4,5
+   2005 283 036 4,5
+   2006 273 914 4,3
+   2007 273 669 4,3
+   2008 265 404 4,1
+   2009 251 478 3,9
+   2010 251 654 3,9
+   2011 236 826 3,6
+   2012 245 930 3,8
+   2013 231 225 3,5 7 367
+   2014 230 770 3,5 10 522
+   2015 228 565 3,5 7 751
+   2016 225 612 - 7 113
+   2017 226 671 - 7 244
+   2018 228 349 - 6 386
+   2019 (P) 221 000 - 6 000
+
+   À partir de 2013 : avec mariages de personnes de même
+   sexe^[45]^,^[46]^,^[47]
+
+Tendances récentes[modifier | modifier le code]
+
+   Ces dernières années l'indicateur conjoncturel de primo-nuptialité (ou
+   somme des premiers mariages réduits) a évolué comme suit pour chaque
+   sexe (les taux représentent le nombre de premiers mariages pour 10 000
+   personnes) :
+                                         Années
+               1994  1995  1996  1997  1998  1999  2000  2001  2002  2003
+   Hommes      4 837 4 854 5 318 5 418 5 231 5 566 5 803 5 715 5 531 5 453
+   --Âge moyen  28,7  28,9  29,4  29,6  29,8  29,9  30,2  30,2  30,4  30,6
+   Femmes      4 953 4 971 5 467 5 593 5 421 5 797 6 045 5 959 5 749 5 659
+   --Âge moyen    27    27    27    28    28    28    28    28    28    29
+
+   En d'autres termes, si la tendance de 2003 se maintient indéfiniment,
+   54,53 % des hommes (taux de 2003) contracteraient mariage un jour ou
+   encore 45,47 % d'entre eux ne se mariant jamais resteraient ainsi
+   célibataires, et l'âge moyen au premier mariage sera de 30,6 ans. Quant
+   aux femmes, 56,59 % d'entre elles se marieraient un jour.
+
+Les mariages suivant les nationalités[modifier | modifier le code]
+
+   Article connexe : Mariages mixtes en France.
+
+   Si le nombre de mariages semble s'être stabilisé ces dernières années
+   on constate un accroissement important parmi ceux-ci d'unions entre
+   français(es) et étrangers(ères).
+   Année Total
+   mariages Deux conjoints
+   français Deux conjoints
+   étrangers Mariages
+   mixtes Seule l'épouse
+   est étrangère Seul l'époux
+   est étranger Total épouse
+   étrangère
+   1997 283 984 254 020 5 237 24 727 10 916 13 811 16 153
+   1998 271 361 239 704 5 658 25 999 11 604 14 395 17 262
+   1999 286 191 250 252 5 897 30 042 13 638 16 404 19 535
+   2000 297 922 256 787 6 550 34 585 15 387 19 198 21 937
+   2001 288 255 241 129 7 281 39 845 17 397 22 448 24 678
+   2002 279 087 226 758 7 892 44 437 18 822 25 615 26 714
+   2003 275 963 220 598 8 565 46 800 19 539 27 261 28 104
+   2004 271 598 220 649 8 326 42 623 18 505 24 118 26 831
+   2005 276 303 225 425 8 382 42 496 18 710 23 786 27 092
+
+   Source : Insee^[48].
+   Cette section ne cite pas suffisamment ses sources (avril 2020).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Après un maximum en l'an 2000, une nette baisse des mariages s'est
+   profilée. Mais celle-ci n'affecte que les couples dont les deux
+   conjoints sont Français. En 2005, cette catégorie perd ainsi 31 362
+   unions sur les 256 500 de trois ans auparavant, soit une perte de plus
+   ou moins 12 %. Mais il en va tout autrement des mariages entre
+   étrangers et des mariages mixtes. Ce sont ces derniers d'autre part qui
+   progressent le plus depuis l'année 1997. Ainsi les unions dont l'épouse
+   est étrangère passent de 16 000 à 27 000, soit un accroissement de 70 %
+   en huit ans, ce qui est remarquable. Certes tous ces mariages ne sont
+   pas des premiers mariages entre jeunes époux, mais un bond aussi
+   étonnant souligne l'importance du regroupement familial et de
+   l'ensemble de la migration de conjoints ayant eu lieu ces dernières
+   années. En effet, bien des jeunes gens et jeunes filles ont émigré en
+   France avant leur majorité et se retrouvent actuellement nubiles et
+   prêts à procréer. Ce phénomène est étroitement lié à la hausse des
+   naissances de mères étrangères (et surtout afro-asiatiques^[49])
+   observée durant la même période, et dont il est le moteur principal
+   (voir plus loin : chapitre sur la natalité).
+
+   Les jeunes filles maghrébines ou turques par exemple, venues nombreuses
+   en France dans les dernières années, se sont unies à un conjoint
+   immigré maghrébin et étranger comme elles, ou souvent à un époux de
+   nationalité française mais de même origine qu'elles. En 1995 déjà, les
+   unions mixtes sont loin d'être exceptionnelles chez les jeunes des
+   familles originaires d'Algérie ou du Maroc et progressent avec la
+   génération née en France : la moitié des garçons et le quart des filles
+   d'origine algérienne vivent avec un conjoint français, né de deux
+   parents nés en France^[50]. Depuis lors ce phénomène s'est encore
+   accentué. Ces mêmes observations peuvent être faites pour d'autres
+   communautés immigrées de France, telles les Turcs, les Portugais, les
+   Tunisiens, les Vietnamiens, les autres Africains, etc. Il est logique
+   qu'une partie des mariages mixtes où seul le conjoint masculin est
+   étranger, et aussi des mariages où les deux conjoints sont français,
+   soient conclus par des jeunes issus de l'immigration, mais ont été
+   masqués par les naturalisations. Il en va de même des naissances issues
+   de ces mariages. Et donc une partie de l'impact de l'immigration sur le
+   chiffre des naissances est également comprise dans la rubrique
+   « naissances de mère française ».
+
+   Mais il y a plus : une analyse fine de l'immigration des conjoint(e)s,
+   fait apparaître une forte hausse depuis la fin du XX^e siècle de
+   l'immigration de conjoints de Français qui s'unissent à un(e)
+   Français(e) sans antécédents migratoires récents. Et ceci autant pour
+   les conjoints migrants masculins que féminins (voir plus loin dans le
+   chapitre concernant la natalité : la natalité des couples français,
+   étrangers et mixtes). Au total il semble évident qu'un vaste phénomène
+   de mélange des diverses communautés française et étrangères est en
+   cours en ce moment.
+
+   On perçoit ici combien les statistiques basées exclusivement sur la
+   nationalité de la mère sont incomplètes et combien plus proches de la
+   réalité sont les statistiques néerlandaises, basées elles sur la notion
+   d'allochtone qui prend en considération également l'origine du père
+   pour dénombrer et classifier les immigrés de la deuxième génération.
+   (Voir l'article démographie des Pays-Bas)
+
+   Enfin, l'évolution récente des mariages en France, caractérisée par une
+   baisse des mariages entre Français et une hausse des mariages dont
+   l'épouse est étrangère, implique une poursuite, au-delà de l'année
+   2003, de la hausse des naissances de mère étrangère constatée de 1997 à
+   2003, et ce malgré les nombreuses naturalisations contribuant à masquer
+   partiellement le phénomène, ce qui est confirmé par les dernières
+   données (95 500 naissances de mère étrangère en 2006 contre 87 650 en
+   2003).
+
+Conditions et procédures[modifier | modifier le code]
+
+Conditions[modifier | modifier le code]
+
+   Article détaillé : Empêchement à mariage (France).
+   Article détaillé : Mariage posthume.
+
+   Le mariage est contracté par deux personnes de sexe différent ou de
+   même sexe^[51].
+
+   Il faut au préalable réunir des conditions psychologiques tenant au
+   consentement des époux qui doit être libre, éclairé et exempt de tout
+   vice.
+
+L'âge[modifier | modifier le code]
+
+   Article détaillé : Nubilité.
+
+   Depuis une loi du 4 avril 2006^[52], un mariage ne peut être contracté
+   avant l'âge de 18 ans^[CC 2].
+
+   Toutefois, l'article 145 du Code civil^[CC 3] consacre une dérogation
+   qui pourra être accordée par le procureur de la République pour
+   « motifs graves ». Il s'agit en général de l'état de grossesse de la
+   mineure mais les circonstances sont laissées à l'appréciation
+   souveraine du procureur.
+
+   Auparavant l'âge de nubilité de la femme était de quinze ans
+   révolus^[CC 4], toutefois la majorité matrimoniale étant égale à la
+   majorité civile, l'autorisation de leurs parents était nécessaire, même
+   dans le cas de mineurs émancipés.
+
+Mariage des couples homosexuels[modifier | modifier le code]
+
+   Article détaillé : Mariage homosexuel en France.
+
+   Le mariage des couples de personnes de même sexe est possible en France
+   depuis le 17 mai 2013^[53].
+
+Personnes trans[modifier | modifier le code]
+
+   Avant la loi n^o 2013-40 du 17 mai 2013 ouvrant le mariage aux couples
+   de personnes de même sexe, dit « mariage pour tous », la France
+   autorisait le mariage des personnes trans uniquement dans le cadre d'un
+   mariage hétérosexuel (c'est-à-dire d'un couple formé d'une femme et
+   d'un homme), et uniquement après un changement de sexe sur les
+   registres de l'état civil, impliquant une opération chirurgicale.
+
+   La Cour européenne des droits de l'homme a reconnu dans l'arrêt Goodwin
+   c. Royaume-Uni (2002) que le sexe « psychologique et social » (le
+   genre) doit primer sur le sexe biologique lorsque certaines conditions
+   sont remplies^[54].
+
+   L'ouverture du mariage aux couples de personnes de même sexe par la loi
+   n^o 2013-404 du 17 mai 2013, permet aux personnes trans de se marier
+   avec une personne de l'autre ou du même sexe, sans discrimination.
+
+Procédure[modifier | modifier le code]
+
+   Le mariage est célébré par un officier d'état civil de la commune de
+   résidence de l'un des deux époux.
+
+   Les époux doivent faire publier les bans, qui consistent en une affiche
+   informant les tiers du projet de mariage^[CC 5]. La célébration du
+   mariage ne peut avoir lieu qu'au moins dix jours après la publication
+   des bans. En pratique, il est conseillé de déposer le dossier complet à
+   la mairie deux mois avant la date prévue pour le mariage.
+
+   Le certificat prénuptial n'est plus obligatoire lors de la publication
+   des bans depuis le 1^er janvier 2008.
+
+   En cas de mariage entre un Français et un étranger, l'officier d'état
+   civil peut décider de s'entretenir avec les conjoints afin de
+   déterminer s'il n'y a pas un risque de mariage blanc. Il ne peut
+   toutefois pas refuser de célébrer le mariage si l'étranger est en
+   situation irrégulière.
+
+Le mariage civil en droit français[modifier | modifier le code]
+
+Conditions de fond[modifier | modifier le code]
+
+Conditions physiologiques[modifier | modifier le code]
+
+   Nubilité : dix-huit ans révolus depuis la loi n^o 2006-399 du 4 avril
+   2006^[52]. Jusqu'à cette date, l'âge minimum était de 18 ans pour les
+   hommes et de 15 ans pour les femmes^[55]. Cependant en demandant au
+   procureur de la République, une dispense est possible pour motif
+   grave^[CC 6] ; par exemple : en cas de grossesse de la femme^[56]. À
+   cette dispense s'ajoute le consentement des parents au mariage (le
+   dissentiment valant consentement)^[CC 7].
+
+   Certificat prénuptial en France : il n'est plus obligatoire depuis le
+   1^er janvier 2008 à la suite de la modification de l'article 63 du code
+   civil^[CC 8].
+
+Conditions psychologiques[modifier | modifier le code]
+
+     * Consentement des futurs époux
+          + Consentement conscient et sérieux
+          + Consentement exempt de vice
+               o Violence, physique ou morale^[CC 9]
+               o Erreur sur l'identité (physique ou civile) ou sur les
+                 qualités essentielles de la personne ^[CC 10]
+     * Consentement des familles des futurs époux
+          + Mineurs de moins de 18 ans
+          + Majeurs incapables
+
+Conditions sociologiques[modifier | modifier le code]
+
+     * Absence d'un mariage antérieur non dissout
+     * Absence de lien de parenté ou d'alliance (voir inceste#La loi
+       française)
+
+   La sanction du non remplissage de l'une de ces conditions est la
+   nullité, selon les cas absolue ou relative.
+
+Conditions de formes[modifier | modifier le code]
+
+Formalités antérieures[modifier | modifier le code]
+
+Remise de pièces[modifier | modifier le code]
+
+   Dans tous les cas, on doit remettre les pièces suivantes à l'officier
+   de l'état civil :
+     * copie de l'acte de naissance délivré depuis moins de trois mois^[CC
+       11] ;
+     * preuve de l'identité de chaque époux ;
+     * preuve du domicile de chaque époux.
+
+   Documents complémentaires dans les cas particuliers :
+     * autorisation familiale au mariage d'un incapable ;
+     * si remariage, document attestant la dissolution du précédent
+       mariage ;
+     * s'il y a eu dispense, document accordant dispense ;
+     * certificat attestant la publication des bans dans une autre
+       commune ;
+     * certificat du notaire attestant l'existence d'un contrat de
+       mariage.
+
+Audition des futurs époux^[CC 12][modifier | modifier le code]
+
+Publications^[CC 13][modifier | modifier le code]
+
+     * affiche annonçant le projet de mariage doit être apposée pendant
+       les 10 jours précédant le mariage à la mairie du lieu de mariage et
+       aux mairies du domicile de chaque époux ;
+     * dispense possible pour cause grave peut être accordée par le
+       procureur de la République
+
+Célébration du mariage^[CC 14][modifier | modifier le code]
+
+     * Tout ministre d'un culte qui procédera, de manière habituelle
+       (c'est-à-dire à partir de la seconde fois^[Note 1]^,^[57]^,^[58]),
+       aux cérémonies religieuses de mariage sans que ne lui ait été
+       justifié l'acte de mariage préalablement reçu par les officiers de
+       l'état civil sera puni d'un an d'emprisonnement et de 7 500 euros
+       d'amende^[CC 15].
+     * lieu
+          + à la mairie du lieu où l'un des époux a son domicile ou sa
+            résidence établie par un mois d'habitation, continue à la date
+            de la publication ;
+          + en cas d'empêchement grave et sur réquisition du procureur de
+            la République, le mariage peut être célébré au domicile ou à
+            la résidence de l'un des époux ;
+     * Formes de la célébration^[CC 16]
+          + célébration publique (portes ouvertes)
+          + présence de deux à quatre témoins
+          + l'officier d'état civil donne lecture des articles 212, 213,
+            214 et 215 du Code civil^[CC 17] (obligations des époux) ;
+            recueille l'autorisation des parents (si nécessaire) et le
+            consentement des époux.
+          + l'acte de mariage est signé par les époux, les témoins,
+            éventuellement les personnes ayant autorisé le mariage, et
+            l'officier de l'état civil.
+          + En temps de guerre et sous certaines conditions, le mariage
+            par procuration est possible pour les marins, les militaires
+            et les personnes employées à la suite des armées ou embarquées
+            à bord des bâtiments de l'État^[CC 18].
+          + Enfin, un mariage posthume peut être prononcé, sous de
+            strictes conditions et après avis favorable du Président de la
+            République.
+
+Sanctions des conditions de formation du mariage[modifier | modifier le code]
+
+Les oppositions (sanctions préventives)[modifier | modifier le code]
+
+Titulaires du droit d'opposition[modifier | modifier le code]
+
+     * Ascendants peuvent former une opposition pour tous motifs légaux et
+       n'engagent jamais leur responsabilité (même si le motif est
+       mensonger). Il appartient aux parents, et à défaut aux
+       grands-parents, si les parents sont tous deux décédés ou hors
+       d'état de manifester leur volonté.
+     * Conjoints non divorcé de l'un des futurs époux peut invoquer la
+       bigamie.
+     * Certains collatéraux
+     * Tuteur avec autorisation du conseil de famille dans les mêmes
+       conditions que les collatéraux.
+     * Ministère public peut faire opposition s'il existe un empêchement
+       dont la transgression heurte l'ordre public; dans tous les cas où
+       il pourrait demander la nullité du mariage (exemple : indice de
+       mariage blanc).
+
+Forme[modifier | modifier le code]
+
+   L'opposition se fait par acte d'huissier signifié à chacun des époux et
+   à l'officier de l'état civil.
+
+Effets[modifier | modifier le code]
+
+   Tant que la mainlevée de l'opposition n'a pas été obtenue, l'officier
+   de l'état civil ne peut célébrer le mariage. Mais au bout d'un an
+   l'opposition cesse à moins qu'elle ne soit renouvelée.
+
+Mainlevée de l'opposition[modifier | modifier le code]
+
+     * l'opposition peut être levée par l'opposant (mainlevée
+       volontaire) ;
+     * sinon l'un des futurs époux doit saisir le tribunal de grande
+       instance pour obtenir après avoir prouvé l'inexistence de
+       l'empêchement allégué, la mainlevée judiciaire de l'opposition.
+
+Les nullités du mariage[modifier | modifier le code]
+
+   Article détaillé : Empêchement à mariage (France).
+     * Les nullités relatives^[CC 19]
+     * Les nullités absolues
+     * Effets de la nullité de mariage
+
+Les effets du mariage[modifier | modifier le code]
+
+   Article connexe : Droit des régimes matrimoniaux en France.
+
+Rapports personnels entre époux[modifier | modifier le code]
+
+Devoirs réciproques des époux[modifier | modifier le code]
+
+     * Devoir de communauté de vie ou de cohabitation^[CC 20] ;
+          + Communauté de résidence : exception^[CC 21] ;
+          + Les séparations amiables ne sont pas valables, ainsi chaque
+            époux peut demander à reprendre la vie commune à tout moment,
+            et l'autre doit s'y soumettre ;
+          + Cas de cessation de la communauté de vie ;
+               o Cessation provisoire ;
+          + Procédure de divorce ;
+          + Procédure de séparation de corps ;
+               o Cessation définitive ;
+          + À la suite d'un jugement de séparation de corps ;
+          + À la suite d'un divorce ;
+     * Devoir de fidélité^[CC 22]
+          + Le devoir conjugal, aussi appelé devoir charnel.
+          + L'adultère constitue la violation de ce devoir ;
+     * Devoir d'assistance ;
+          + Soins personnels au conjoint malade ou âgé ;
+          + Soutien moral au conjoint en difficulté ;
+     * Devoir de respect^[52].
+
+Direction conjointe de la famille^[CC 23][modifier | modifier le code]
+
+     * Choix de la résidence familiale^[CC 24] ;
+     * L'éducation et l'entretien de leur(s) enfant(s) mineur(s).
+
+Rapports pécuniaires entre époux[modifier | modifier le code]
+
+Devoir de secours[modifier | modifier le code]
+
+   Le devoir de secours subsiste en cas de divorce pour rupture de la vie
+   commune à la charge du demandeur.
+     * Fournir à son conjoint dans le besoin ce qui est nécessaire à son
+       existence, dont l'obligation alimentaire;
+     * S'il y a vie commune ;
+          + Contribuer aux charges du mariage ;
+     * S'il n'y a plus de vie commune ;
+          + Elle s'exécute sous forme de pension alimentaire ;
+
+Contribution des époux aux charges du mariage[modifier | modifier le code]
+
+   Cette contribution est proportionnelle aux ressources de chacun^[CC
+   25], à défaut le conjoint qui refuserait de s'y soumettre peut y être
+   contraint judiciairement.
+     * Entretien du ménage ;
+     * Éducation des enfants.
+
+Pouvoirs des époux[modifier | modifier le code]
+
+     * Entretien du ménage ;
+     * Protection du logement de la famille et des meubles meublants^[CC
+       26] ;
+     * Libre exercice de toute profession^[CC 27] ;
+     * Pouvoirs sur les biens personnels (chaque époux administre, oblige
+       et aliène seul ses biens personnels^[CC 28] ;
+     * Comptes bancaires, chaque époux peut se faire tout compte de dépôt
+       et tout compte de titres en son nom personnel sans le consentement
+       de l'autre^[CC 29] ;
+     * Pouvoir de disposer des meubles^[CC 30].
+
+Sauvegarde des intérêts essentiels de la famille[modifier | modifier le code]
+
+     * Possibilité pour l'un des époux d'agir sans le consentement ou le
+       concours de l'autre^[CC 31] ;
+          + Lorsque l'autre époux est hors-d'état de manifester sa
+            volonté ;
+          + Si le refus de l'autre de consentir à l'acte est injustifié.
+            Dans ce cas l'époux peut être autorisé par la justice de
+            passer seul cet acte ;
+     * Représentation judiciaire^[CC 32] ;
+          + Lorsqu'un des époux est hors-d'état de manifester sa volonté,
+            l'autre peut se faire habiliter par la justice pour le
+            représenter ;
+               o Représentation générale ;
+               o Représentation pour certains actes particuliers ;
+     * Mise en péril des intérêts de la famille^[CC 33]. Si les intérêts
+       de la famille sont mis en péril par l'un des époux qui manque ainsi
+       à ses devoirs, le juge aux affaires familiales peut prescrire des
+       mesures urgentes (restrictions des pouvoirs de l'époux fautif).
+       Elles sont ordonnées pour au maximum trois ans.
+
+La famille : filiation et héritage[modifier | modifier le code]
+
+   Articles connexes : Filiation et Droit des successions en France.
+
+   Sous l'Ancien Régime, les enfants nés hors mariage (les « bâtards »,
+   qu'ils soient naturels ou adultérins) n'héritaient ni ne pouvaient
+   laisser d'héritage^[59]. En même temps qu'elle supprimait le droit
+   d'aînesse, la Révolution accorda à l'enfant naturel l'égalité des
+   droits (à hériter) avec les enfants légitimes, et à l'enfant adultérin
+   le tiers de la part qu'il aurait eue s'il avait été légitime^[59].
+   Cette réforme fut modérée par le Code Napoléon qui accorda à l'enfant
+   naturel le tiers de la part qu'il aurait eue s'il avait été légitime,
+   et rien à l'enfant adultérin^[59]. En 1896, la Troisième République
+   accorde à l'enfant naturel simple la moitié (et non plus le tiers) de
+   l'héritage qu'il aurait eu autrement (loi du 25 mars 1896)^[59]. En
+   outre, à l'époque, l'enfant naturel ne pouvait hériter que de sa mère
+   ou de son père, voire de ses frères et sœurs, mais pas de ses
+   grands-parents^[59].
+
+   L'enfant adultérin, quant à lui, ne pouvait toujours rien réclamer en
+   justice, ni filiation, ni héritage, ni pension alimentaire, situation
+   qui perdura durant toute l'entre-deux-guerres^[59]. La loi du 15
+   décembre 1904 et celle du 7 novembre 1907 permettaient toutefois à sa
+   mère de le légitimer, après remariage, avec son nouveau mari^[59]
+   (ancien article 331 du Code civil). Après guerre, une loi de 1955 lui
+   permet d'ester en justice afin d'obtenir une pension alimentaire, sans
+   que sa filiation ne soit cependant établie^[59].
+
+   La situation de la veuve (ou du veuf), qui était considérée par le Code
+   Napoléon comme successeur irrégulier, venant juste avant l'État, fut
+   améliorée par la loi du 9 mars 1891, qui confère au conjoint survivant
+   l’usufruit du quart des biens du conjoint prédécédé en présence
+   d’enfants et de la moitié dans le cas contraire. L'une des raisons de
+   cette réforme réside dans la détérioration de la situation des veuves,
+   en ville, par rapport à la campagne où elles pouvaient bénéficier de
+   l'assistance de leurs enfants.
+
+   La loi de 1964 sur la tutelle et la loi de 1970 sur l'autorité
+   parentale avaient rapproché la situation des enfants nés dans le cadre
+   du mariage et des enfants nés hors mariage, tout en maintenant une
+   certaine inégalité. La loi n^o 72-3 du 3 janvier 1972^[60], préparée
+   par le ministre René Pleven et l'ancien garde des Sceaux Jean Foyer,
+   rapporteur du projet de loi à l'Assemblée nationale, assimila
+   complètement la situation de l'enfant naturel et de l'enfant légitime,
+   en déclarant : « L'enfant naturel a en général les mêmes droits et les
+   mêmes devoirs que l'enfant légitime ; il entre dans la famille de son
+   auteur^[59] ». L'enfant adultérin, quant à lui, a gagné les droits à
+   établir sa filiation et il est considéré à part entière comme un membre
+   de la famille. Jusqu'en 2001, l'enfant adultérin voyait ses droits
+   amputés de moitié dans la succession du parent à l’origine de
+   l'adultère^[61]^,^[62].
+
+   Depuis le droit romain, tout enfant né dans le cadre du mariage
+   bénéficie d'une présomption automatique de paternité : le droit assume
+   que le mari est le père. Toutefois, la loi de 1972 a aussi permis le
+   désaveu de paternité en cas d'impossibilité biologique ; on a
+   aujourd'hui recours aux tests ADN pour vérifier celle-ci, qui n'étaient
+   autorisés qu'en cas de présomptions et d'indices graves selon lesquels
+   il y aurait eu adultère^[59]. La loi de 1972 a aussi innové par rapport
+   au Code Napoléon en permettant à la femme de contester la paternité en
+   cas de remariage^[59]. Une femme mariée peut aussi déclarer son enfant
+   à son nom, en omettant d'inscrire le nom de son mari, ce qui en fait un
+   « enfant naturel adultérin »^[59].
+
+   En cas de procréation médicalement assistée avec tiers donneur (IAD),
+   il ne peut pas y avoir de désaveu de paternité si le mari a consenti à
+   celle-ci devant un juge ou un notaire (sauf s'il réussit à prouver que
+   le consentement est vicié : en ce cas, la filiation est annulée pour
+   cause de dol)^[59]. En outre, le don de sperme est, en accord avec la
+   loi de bioéthique de 1994, anonyme et aucune filiation ne peut être
+   établie avec le donneur^[59].
+
+Le divorce[modifier | modifier le code]
+
+   Articles détaillés : Divorce, Procédure de divorce et Loi autorisant le
+   divorce en France.
+
+La séparation de corps ou de fait[modifier | modifier le code]
+
+   Article détaillé : Séparation de corps en France.
+
+   Prévue par les articles 296 et suivants du Code civil, la séparation de
+   corps est une situation juridique résultant d'un jugement qui met fin à
+   l'obligation de vie commune. Il ne faut pas confondre avec la
+   séparation de fait qui n'a aucune valeur juridique et qui est
+   uniquement caractérisée par l'absence de vie commune.
+
+Annulation de mariage en France[modifier | modifier le code]
+
+   Article détaillé : Annulation de mariage en France.
+
+   En 2004, la Justice française a annulé 737 mariages, soit 60,9 % des
+   1 210 requêtes d'annulation ; dans 59,5 % des cas, il s'agit
+   d'annulations pour mariage blanc demandées par le procureur de la
+   République ; dans 18,8 % des cas, il s'agit d'annulation pour bigamie.
+   L'« erreur sur les qualités essentielles du conjoint » représente 8 %
+   des annulations. Il s'agit généralement de la découverte après le
+   mariage que le conjoint est divorcé, qu'il a menti sur sa nationalité,
+   qu'il fait l'objet d'une mesure de curatelle ou qu'il n'est pas apte à
+   avoir des relations sexuelles normales^[63]^,^[64]. La même année, il y
+   a eu 130 000 divorces prononcés et 272 000 mariages^[65].
+
+   L'affaire de l'annulation d'un mariage pour erreur sur la virginité de
+   l'épouse fut qualifiée par certains journaux de « première » en
+   France^[66], la chancellerie ayant quant à elle affirmé n'avoir « pas
+   le souvenir » d'une annulation pour mensonge sur la virginité.
+   Cependant les cas d'annulation de mariage pour mensonge sur une des
+   « qualités » de l'un des époux ne sont pas rares^[67].
+
+   À l'inverse, le tribunal de grande instance du Mans, avait refusé
+   l'annulation d'un mariage le 18 mars 1965^[68]. La différence des deux
+   jugements provient peut-être du fait que l'article 180 du Code civil
+   permettait en 1965 l'annulation uniquement en cas d'erreur sur la
+   personne ; il a été modifié en 1975^[69] pour autoriser l'annulation en
+   cas d'erreur sur la personne ou sur ses qualités essentielles^[70].
+
+Voir aussi[modifier | modifier le code]
+
+Bibliographie[modifier | modifier le code]
+
+     * Jean Claude Bologne, Histoire du mariage en Occident, Paris,
+       Hachette, coll. « Pluriel », 1997, 478 p. (ISBN 2-01-278922-6)
+     * Jean Carbonnier, Droit et passion du droit sous la V^e République,
+       Paris, Flammarion, 1996.
+     * Jean-Luc Chabot, Philippe Didier et Jérôme Ferrand, Le Code civil
+       et les Droits de l’homme, Paris, L'Harmattan, 2005, 442 p.
+       (ISBN 2-7475-8893-9)
+     * Jean Chélini, Histoire religieuse de l’Occident médiéval, Paris,
+       Hachette, 1991
+     * Robert Fossier, Enfance de l’Europe, Paris, Presses universitaires
+       de France, 1982
+     * Pierre Goubert et Daniel Rouche, Les Français et l’Ancien Régime,
+       Paris, Armand Colin, 1984
+     * Jean-Louis Halpérin, Histoire du droit privé français depuis 1804,
+       Paris, Presses universitaires de France, coll. « Quadrige », 2001,
+       2^e éd. (1^re éd. 1996), 478 p. (ISBN 2-01-278922-6)
+     * Jacques Houdaille, « La nuptialité sous la Révolution et
+       l’Empire », Population, vol. 37, n^o 1,‎ janvier-février 1982,
+       p. 160-167 (ISSN 0032-4663, lire en ligne)
+     * Michel Mourre, Dictionnaire encyclopédique d’histoire, Paris,
+       Bordas, 1978
+     * Michel Péronnet, Les 50 mots clefs de la Révolution française,
+       Paris, Privat, 1983 (ISBN 978-2-7089-1966-2)
+
+Articles connexes[modifier | modifier le code]
+
+     * Nuptialité en France
+     * Mariage • Mariage civil • Mariage religieux
+     * Empêchement au mariage
+     * Mariage homosexuel en France
+     * Pacte civil de solidarité • Concubinage
+     * Droit comparé du mariage franco-algérien
+     * Mariage dans la tradition juive
+     * Citoyennes Révolutionnaires (1789-1795)
+
+Liens externes[modifier | modifier le code]
 
      *
-
      *
-
-   Rechercher : ____________________ Rechercher
-   Tout Pour Manager
-
-   Tout Pour Manager
-
-   Un réseau d'experts à votre service
-
-   (BUTTON) Menu principal
-     * Outils et logiciels
-          + Qualité
-          + Projet
-          + Management
-          + CRM
-          + GED
-          + RH
-     * Base documentaire
-          + Le point de vues des experts
-     * Mon réseau
-     * Ecoles
-     * Contactez-nous
-
-     * 6 décembre 2013
-     * toutpourmanager
-     * Base documentaire
-     * Management
-
-Evolution sociétale qui implique des changements pour le management
-
-   Gary Hamel, spécialiste du management de réputation mondiale, parle
-   dans son livre « La fin du Management », (NB : titre original « The
-   future of management »), d’une nécessaire réinvention du management.
-   Cette réinvention du management s’explique notamment par l’évolution
-   sociétale et le fonctionnement humain.
-
-   L’homme et son conditionnement
-
-
-
-   Un être humain est d’emblée soumis à un bain historique, un bain
-   culturel, un bain social, un bain familial, qui vont, très largement,
-   contribuer à forger ses propres croyances, de manière le plus souvent
-   inconsciente, dans son milieu, là où il est.
-
-
-   L’être humain se contente de ce qui lui est inculqué, de ce qui lui est
-   perceptible. Rares sont les gens ressentant le besoin de sortir de
-   cette espèce de conditionnement, bien involontaire, et souhaitant
-   expérimenter, explorer autre chose que l’habitude.
-
-
-   Mais, depuis peu, au vu de la civilisation, les circonstances de la vie
-   (et surtout depuis une génération ou deux) sont profondément
-   différentes, et cela dans tous les pays : ce qui était acquis se trouve
-   facilement remis en question. Plus souvent qu’avant, on change de
-   partenaire, on change de travail, on change de région, on change
-   d’avis, aussi. Tout cela est, somme toute, assez récent, par rapport à
-   la fixité des croyances qui pouvaient exister et conditionner la vie
-   d’un être humain, depuis sa naissance jusqu’à sa mort.
-
-
-
-   De l’évolution chez l’homme
-
-
-
-   Et puis, le monde dit moderne a fait apparaître de nouvelles habitudes
-   qui  sont, pour la plupart, issues de ce qui est appelé la technique,
-   la technologie ou la science. Ces nouvelles habitudes ont eu pour
-   vocation de faciliter la vie ordinaire, de la rendre moins prenante,
-   afin de libérer du temps pour autre chose, cette libération du temps
-   entraîne de nouveaux besoins, de nouveaux désirs et de nouveautés à
-   explorer.
-
-   Que cela s’appelle les vacances, que cela s’appelle la télévision, que
-   cela s’appelle l’informatique, la musique, la voiture, tout ce qui a
-   permit de sortir du cadre habituel, tel qu’il était conçu voilà encore
-   cent ans. Ainsi, l’ensemble de nos besoins s’est déployé sur quelque
-   chose de différent. Ce quelque chose de différent est venu compléter ou
-   modifier ce qui était commun pour tout être humain sur cette planète.
-
-
-   Parallèlement à cela, tout ce qui est lié aux sens, tels que  la vision
-   et l’audition, est  devenu de plus en plus important dans la vie. Les
-   villes sont devenues éclairées, les lumières sont partout. Le bruit est
-   devenu une constante : le bruit des véhicules, le « bruit » des ondes
-   passant par des boîtes comme la radio, la télévision, les moteurs.
-
-
-   Un ensemble de choses nouvelles est apparu, venant captiver l’homme et
-   lui donnant un sentiment de liberté, créant des nouveaux besoins
-   profondément différents, appelés divertissements, loisirs, vacances,
-   tout ce qui pouvait, en quelque sorte, attirer par le désir, attirer
-   par tout ce qui était lié au besoin de posséder telle chose ou telle
-   chose et de vivre, là aussi, telle chose ou telle chose, liée à ces
-   nouvelles technologies et à ces nouveaux moyens qui sont devenus
-   présents dans le monde moderne, depuis le début de l’ère industrielle.
-
-
-   En conséquence, l’être humain s’est peu à peu accoutumé à de nouveaux
-   systèmes de croyances, à de nouvelles impulsions de désir. Ces
-   impulsions de désir sont devenues plus flagrantes.
-
-   Avec la primauté de l’image, l’effet est beaucoup plus immédiat et
-   rapide. En effet, il y a toujours eu des écrivains qui ont rapporté des
-   carnets de voyage, mais ces carnets de voyage ont rarement donné
-   l’envie de se rendre sur place. Par contre l’image, elle, accomplit
-   beaucoup mieux ce dessein : l’image de quelque chose à acheter, l’image
-   de quoi que ce soit vient, en quelque sorte, stimuler ce qui est appelé
-   un désir, amenant  à toujours plus de matérialité.
-
-
-
-   Le besoin de sens évolue aussi
-
-
-
-   L’ensemble de ces nouveaux moyens a permis à l’humain d’élargir sa
-   connaissance extérieure de ce Monde, mais a également entraîné une
-   déconnection de son être  profond, d’où le besoin actuel, de plus en
-   plus prégnant, de recherche de sens.
-
-
-   Les époques glorieuses de la chimie et des connaissances scientifiques,
-   censées apporter, à leur début, toutes les réponses à l’être humain, en
-   ont apportées, mais, malheureusement, elles se sont trouvées très vite
-   limitées par les conséquences que l’on voit aujourd’hui. Ces
-   conséquences font apparaître des maladies nouvelles, des troubles
-   nouveaux, sans que jamais l’homme ne se pose la question de la
-   causalité de ces éléments nouveaux. Nous sommes également abreuvés
-   d’images venant d’horizons divers et variés nous montrant toute la
-   misère du monde, or  comme le dit Ralph Snyderman, professeur de
-   médecine et ancien président de la Duke University… «  Nos cerveaux ne
-   sont probablement pas conçus pour ingurgiter tant de souffrance, nous
-   souhaitons tous trouver des moyens pour diminuer la souffrance, et nous
-   savons tous que la technologie n’y suffira pas ».
-
-   Parallèlement à cela, le besoin de sens a évolué. L’homme a eu besoin
-   de s’émanciper des modèles dits traditionnels, religieux et de
-   découvrir des lois nouvelles sur sa façon de fonctionner. Ainsi sont
-   apparus, petit à petit, des modèles de compréhension psychologiques et
-   spirituels. Et bien sûr, toute avancée, quelle qu’elle soit (qu’elle
-   soit technologique, sociale ou spirituelle), était censée amener une
-   libération de l’homme, ou en tout cas, une satisfaction plus grande
-   d’une soif légitime de connaissances.
-
-
-   Des besoins nouveaux, mais de compréhension de la vie sont apparus. Les
-   conclusions de certains scientifiques (physique quantique, biologie
-   cellulaire, anthropologie, astrophysique …) ont rejoint les
-   enseignements des sages de divers horizons et de tout temps (religion,
-   artistes,…) et des civilisations anciennes, démontrant ainsi que la vie
-   a pu se développer, s’exprimer, s’harmoniser, selon des principes
-   différents de ceux de la société moderne occidentale et que celle-ci
-   peut en tirer profit pour mieux vivre son quotidien.
-
-
-
-   Intégration au management
-
-
-
-   De plus en plus d’êtres humains prennent conscience de cette évolution,
-   la vivent, des femmes et des hommes qui se retrouvent dans nos
-   entreprises.
-
-    Le manager doit intégrer ces nouvelles donnes et adapter son
-   management, car comme le dit Jacques ATTALI : « On voit se dessiner un
-   monde de plus en plus mobile, changeant, précaire, instable. Jamais le
-   travail des hommes n’aura évolué autant qu’il se trouvera modifié au
-   cours des cinquante prochaines années », p.147 Extrait du livre «
-   L’avenir du travail » – Ed. Fayard et Institut Manpower, 2007.
-
-
-   La relation à l’autorité, la relation avec son travail, la relation
-   avec ses collègues doit prendre en compte cette évolution, c’est le
-   début d’un nouveau paradigme pouvant aboutir à une coopération pleine
-   et entière en entreprise.
-
-   « L’autorité, ça se prend, ça ne se réclame pas comme des billes
-   perdues », nous dit Hervé BAZIN (écrivain – 1911 -1996). Auparavant
-   l’autorité et le pouvoir était réunis, ce n’est plus le cas. Les
-   tendances lourdes sociétales entraînent des changements de
-   comportements, des attentes autres des salariés, que les managers
-   doivent inclure et comprendre pour être performants.
-
-
-   Comprendre déjà comment le rôle des croyances chez les individus donne
-   l’obligation aux managers de trouver des clés nouvelles pour améliorer
-   la communication dans l’entreprise et favoriser l’émergence de la
-   coopération et de l’intelligence collective, attente de plus en plus
-   nécessaires à l’implication des salariés et nécessaires au
-   développement de l’entreprise.
-
-   Pour les entreprises, le rôle du DRH, partenaire du PDG et du DG pour
-   la définition et la mise en place de la politique RH, sera de favoriser
-   la vraie écoute dans les échanges, de faciliter la communication
-   verticale et horizontale, de gérer les liens entre les salariés et les
-   générations dans les équipes.
-
-
-   L’auteur
-
-   J’ai une expérience de 15 années comme dirigeant d’entreprises, de 10
-   années de missions en entreprise et de 15 années dans la formation en
-   management, notamment dans les fonctions d’animateur de club et
-   d’animateur régional APM.
-
-
-   Etant à un carrefour d’informations sur le management, étant un
-   passionné de l’homme et de l’entreprise, j’ai décidé, il y a cinq ans,
-   de proposer aux entreprises et organisations une démarche innovante
-   pour améliorer les pratiques en management (formation et services
-   complémentaires), que j’ai intitulée « Libérer de Nouveaux Potentiels
-   dans l’Entreprise »;
-
-         MPC – Louis ORVAIN – Formation innovante en management
-
-                      lorvain@potentiels-entreprise.eu
-
-   http://www.potentiels-entreprise.eu/
-
-Navigation de l’article
-
-   Leyton & Associés
-   DOSSIER – GRH – Les réactions de frustration de vos employés
-
-Catégories
-
-     * Base documentaire (100)
-     * Ecoles (50)
-     * Entreprises (70)
-     * GED (7)
-     * Le point de vues des experts (42)
-     * Les dossiers du web (237)
-     * Les guides de démarrage (7)
-     * Management (21)
-     * Nos livres blancs (2)
-     * Nos offres de formation (1)
-     * Organisme de financement (14)
-     * Outils et logiciels (39)
-     * Projet (11)
-     * Qualité (10)
-     * RH (4)
-
-Articles récents
-
-     * Comment manager l’innovation ?
-     * Management de projet et management de connaissance pour développer
-       l’innovation
-     * DOSSIER – Approche collaborative : EXEMPLE BTP
-     * Management de l’innovation : un enjeu stratégique
-     * Comment réussir la mise en place de la veille dans une entreprise ?
-
-Étiquettes
-
-   abc/abm activity based costing amélioration des processus Benchmarking
-   bonnes pratiques BSC certification Collaboratif Conseil contrôle
-   budgétaire Contrôle de gestion CRM ERP GED Gestion connaissance Gestion
-   de projet gestion des ressources financière gestion des ressources
-   humaines gestion des risques gestion prévisionnelle des emplois et des
-   compétences intranet intranet qualité ISO 9001 iso 9001 version 2015
-   Knowledge Management lean logiciel qualité Management management de la
-   performance management des processus Manager l'innovation marketing
-   Méthodologie Optimisation production organisation performance
-   industrielle Pilotage Pilotage de production Processus Production
-   qualité tableau de bord Veille Veille documentaire WorkFlow
-
-   Copyright © 2022 Tout Pour ManagerElegant Pin Développé par Rara
-   ThemePropulsé par : WordPress
+     *
+     *
+     * Historique du mariage en France de la période romaine à la
+       Révolution
+     * Constitution du dossier de mariage
+
+Notes et références[modifier | modifier le code]
+
+Notes[modifier | modifier le code]
+
+    1. ↑ Il s'agit d'une infraction d'habitude, que la seule occurrence
+       d'un unique acte isolé ne suffit pas à établir. Selon une thèse de
+       droit de 2011 consacrée à L'habitude en droit pénal, "le principe
+       de suffisance de deux comportements semble être une solution
+       constante, inlassablement répétée, de façon positive ou négative"
+       pour établir l'infraction d'habitude.
+
+Références[modifier | modifier le code]
+
+Code civil[modifier | modifier le code]
+
+    1. ↑ art. 75 du C. civil.
+    2. ↑ art. 144 du C. civil.
+    3. ↑ art. 145 du C. civil.
+    4. ↑ Article 144 du Code Civil du 27 mars 1803 sur Légifrance.
+    5. ↑ article 63.
+    6. ↑ Art. 145 du C. Civil.
+    7. ↑ Art. 148 C.Civil.
+    8. ↑ article 63 du code civil.
+    9. ↑ Art. 180 § 1 du C. civil.
+   10. ↑ Art. 180 § 2 du C. civil.
+   11. ↑ art. 70 du C. civil.
+   12. ↑ art. 63 du C. civil.
+   13. ↑ art. 63 & 64 du C. civil.
+   14. ↑ art. 74 et suivants du C. civil.
+   15. ↑ art. 433-21 du C. Pénal.
+   16. ↑ art. 165 du C. civil.
+   17. ↑ articles 212, 213, 214 et 215 du C. civil.
+   18. ↑ art. 96-1 du C. civil.
+   19. ↑ art. 180, 181, 182 et 183 du C. civil.
+   20. ↑ art. 215 § 1 du C. civil.
+   21. ↑ art. 108 du C. civil.
+   22. ↑ art. 212 du C. civil.
+   23. ↑ art. 213 du C. civil.
+   24. ↑ art. 215 § 2 du C. civil.
+   25. ↑ art. 214 du C. civil.
+   26. ↑ art. 215 § 3 du C. civil.
+   27. ↑ Art. 223 du C. civil.
+   28. ↑ ;art. 225 du C. civil.
+   29. ↑ Art. 221 du C. civil.
+   30. ↑ Art. 222 du C. civil.
+   31. ↑ Art. 217 du C. civil.
+   32. ↑ Art. 219 § 1 du C. civil.
+   33. ↑ Art. 220-1 du C. civil.
+
+Autres sources[modifier | modifier le code]
+
+    1. ↑ ^a et b Yvaine Buffelan-Lanore et Virginie Larribau-Terneyre,
+       Droit civil. Introduction. Biens. Personnes. Famille (22ème
+       édition), Dalloz, p. 657
+    2. ↑ François Terré, Charlotte Goldie-Genicon et Dominique Fenouillet,
+       Droit civil La famille (9ème édition), Dalloz
+       (ISBN 978-2-247-16104-1), p. 73-74
+    3. ↑ ^a et b Serge Braudo, « Mariage », sur Dictionnaire juridique.
+    4. ↑ ^a et b Antiquit@s, « Les aspects juridiques du mariage romain »,
+       in Famille et parenté,
+       http://elearning.unifr.ch/antiquitas/fiches.php?id_fiche=205 accédé
+       le 28 novembre 2012.
+    5. ↑ Histoire du mariage catholique, site du diocèse de Nanterre
+       (Consulté le 11/02/2007).
+    6. ↑ ^a et b Historique du mariage en France de la période romaine à
+       la Révolution (consulté le 11/02/2007).
+    7. ↑ À l'occasion du IV^e concile du Latran, voir ici, site du diocèse
+       de Nanterre (Consulté le 11/02/2007).
+    8. ↑ Michel Sot, "Pourquoi se marier à l'église", L'Histoire, juin
+       1999, [lire en ligne]
+    9. ↑ A. Malnory, Saint-Césaire, Bouillon, 1894 lire en ligne sur
+       Gallica, page 236.
+   10. ↑ Einhardi, Vita Karoli Magni, sur Noctes Gallicanae (consulté le
+       14/02/2007).
+   11. ↑ Édit du roi Louis XVI, alinéa XII, [lire en ligne].
+   12. ↑ «Mariage protestant à domicile», L'Histoire, février 2016 [lire
+       en ligne]
+   13. ↑ « Baudouin: Collection Baudouin », sur
+       collection-baudouin.univ-paris1.fr (consulté le 17 avril 2019).
+   14. ↑ Dominique Dessertine, Divorcer à Lyon sous la Révolution et
+       l’Empire, Lyon, Presses universitaires de Lyon, 1981, 394 p.
+   15. ↑ Danièle Munari et Jean Luquet, « L'Etat civil en Savoie »,
+       patrimoines.savoie.fr,‎ octobre 2022, p. 8 (lire en ligne)
+   16. ↑ Albert Mathiez, La Révolution française, vol. 2, Paris, Denoël,
+       1985, 248 p., p. 45
+   17. ↑ André Castaldo et Jean-Philippe Lévy, Histoire du droit civil
+       (2ème édition), Dalloz, 2010, 1644 p., p. 128-129
+   18. ↑ « Code pénal de 1810 (Texte intégral - État lors de sa
+       promulgation en 1810) : Livre III - Titre Premier (Articles 75 à
+       294) », sur ledroitcriminel.fr (consulté le 7 juin 2023).
+   19. ↑ ^a et b Jean-Louis Halpérin, Histoire du droit privé français
+       depuis 1804, Presses universitaires de France, 2012 (lire en
+       ligne), p. 38-39
+   20. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis 1804
+       (lire en ligne), p. 77
+   21. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 108
+   22. ↑ André Castaldo et Jean-Philippe Lévy, Histoire du droit civil
+       (2ème édition), Dalloz, p. 147
+   23. ↑ Jean Baubérot, « Le paradoxe d’un « miracle » laïque : une
+       séparation où tout le monde est mécontent… et content ! », dans La
+       loi de 1905 n'aura pas lieu. Histoire politique de Séparations des
+       Églises (1902-1908), Éditions de la Maison des sciences de l’homme,
+       2021 (ISBN 978-2-7351-2784-9, DOI 10.4000/books.editionsmsh.50272,
+       lire en ligne), p. 299–334
+   24. ↑ « Assemblée nationale - Séparation des Églises et de l'État »,
+       sur assemblee-nationale.fr (consulté le 21 octobre 2023).
+   25. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 213
+   26. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 213-214
+   27. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 214
+   28. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 217
+   29. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 218
+   30. ↑ André Castaldo et Jean-Philippe Lévy, Histoire du droit civil
+       (2ème édition), Dalloz, p. 67
+   31. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France, 2012 (lire en ligne),
+       p. 307-309
+   32. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France, 2012 (lire en ligne),
+       p. 315
+   33. ↑ André Castaldo et Jean-Philippe Lévy, Histoire du droit civil
+       (2ème édition), Dalloz, p. 137
+   34. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France, p. 322
+   35. ↑ Xavier Labbée, « L'infidélité conventionnelle dans le mariage »,
+       Recueil Dalloz,‎ 16 mars 2000
+   36. ↑ André Castaldo et Jean-Philippe Lévy, Histoire du droit civil
+       (2ème édition), Dalloz, p. 69
+   37. ↑ Jean-Louis Halpérin, Histoire du droit privé français depuis
+       1804, Presses universitaires de France (lire en ligne), p. 323
+   38. ↑ ^a et b Jean-Louis Halpérin, Histoire du droit privé français
+       depuis 1804, Presses universitaires de France (lire en ligne),
+       p. 325
+   39. ↑ Yvaine Buffelan Lanore et Virginie Larribau-Terneyre, Droit
+       civil. Introduction, biens, personnes, famille, Dalloz, p. 636
+   40. ↑ Adeline Gouttenoire, Michel Farge et Patrick Courbe, Droit de la
+       famille. Droit interne, européen et international (8ème édition),
+       Dalloz, p. 31
+   41. ↑ Insee, Communiqué de presse du 27 décembre 2002, [lire en ligne].
+   42. ↑ Insee - La fécondité reste élevée.
+   43. ↑ « Insee - Population - Bilan démographique 2015 - Nuptialité ».
+   44. ↑ « Les mariages en 2016 - État civil - Insee Résultats », sur
+       insee.fr, 1^er mars 2018.
+   45. ↑ Insee - Mariages et nuptialité
+   46. ↑ « Bilan démographique 2017 - Insee Première - 1683 », sur
+       insee.fr (consulté le 29 juillet 2018).
+   47. ↑ « Bilan démographique 2019 - Insee Première - 1789 », sur
+       insee.fr (consulté le 17 janvier 2020).
+   48. ↑ Insee T9 - Mariages suivant les nationalités combinées des deux
+       époux [xls]
+   49. ↑ Insee - La population française en 2003 par C. Beaumel, L.
+       Richet-Mastain et M. Vatan (page 25 - tableau 38) [PDF]
+   50. ↑ INED - démographe française Michèle Tribalat dans Population et
+       Société n°300 (avril 1995) [PDF]
+   51. ↑ Loi n^o 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de
+       personnes de même sexe.
+   52. ↑ ^a b et c Loi n^o 2006-399 du 4 avril 2006 « renforçant la
+       prévention et la répression des violences au sein du couple ou
+       commises contre les mineurs ».
+   53. ↑ « La loi sur le mariage homosexuel promulguée au Journal
+       officiel ».
+   54. ↑ Gowin c. Royaume_Uni (au principal et satisfaction équitable),
+       n^o 28957/95, CEDH 2002-I [lire en ligne]
+   55. ↑ Christine Mateus, « Jusqu’en 2006... l’âge minimum du mariage
+       était encore de 15 ans pour les femmes », sur leparisien.fr, 28
+       février 2021 (consulté le 7 mars 2021).
+   56. ↑ Yvaine Buffelan-Lanore et Virginie Larribau-Terneyre, Droit
+       civil. Introduction. Biens. Personnes. Famille (22ème édition),
+       Dalloz, p. 663
+   57. ↑ « » Le mariage, normes religieuses et droit français, quelques
+       exemples d’interactions | Revue des droits et libertés
+       fondamentaux », sur revuedlf.com (consulté le 17 octobre 2023).
+   58. ↑ Charlotte Claverie-Rousset, L'habitude en droit pénal (thèse de
+       doctorat en Droit), Bordeaux, Université Montesquieu, 2011, 515 p.
+       (lire en ligne)
+   59. ↑ ^a b c d e f g h i j k l m et n Jean Carbonnier, Droit et passion
+       du droit sous la V^e République, 1996, p. 241-268
+   60. ↑ Loi du 3 janvier 1972 sur la filiation.
+   61. ↑ « Succession : l'égalité de l'enfant adultérin »^(Archive.org •
+       Wikiwix • Archive.is • Google • Que faire ?), 17 avril 2013.
+   62. ↑ Serge Braudo, « Enfant adultérin », sur Dictionnaire juridique.
+   63. ↑ « Vierge : être ou ne pas être ? », Claire Deysson et Virginie
+       Tullat avec la collaboration de maître Jean-Paul Ravalec, Le
+       village de la justice, 30 mai 2008, sur le site
+       village-justice.com.
+   64. ↑ « Mariage annulé pour mensonge sur la virginité : pas de
+       "souvenir" d'un précédent », Agence France Presse, 29 mai 2008.
+   65. ↑ Bernard Gorce et Gwenaëlle Moulins, « L’annulation d’un mariage
+       pour « mensonge » de l’épouse suscite la controverse », sur le site
+       du quotidien La Croix, 1^er juin 2008 (consulté le 1^er juin 2008).
+   66. ↑ « Un mariage annulé pour défaut de virginité », jeudi 29 mai 2008
+       sur le site leparisien.fr.
+   67. ↑ « L'annulation d'un mariage à Lille, pour mensonge sur la
+       virginité de l'épouse, suscite de vives réactions », sur le site du
+       quotidien Le Monde, 30 mai 2008 (consulté le 30 mai 2008).
+   68. ↑ il avait indiqué : « Attendu que si le dol ne constitue pas une
+       cause de nullité de mariage, la jurisprudence récente étend la
+       notion d'erreur sur la personne ; que toutefois l'erreur sur la
+       fortune, l'intelligence, le caractère, la race, la religion, la
+       virginité ou la grossesse de la femme, la santé de l'époux, ne
+       paraît pas devoir être retenue comme cause de nullité », voir
+       JurisClasseur Notarial Répertoire > V° Mariage, > Fasc. 10 :
+       MARIAGE. – Conditions à réunir dans la personne des époux > II. -
+       Conditions résultant de la dimension personnelle du mariage : le
+       consentement des époux > B. - Existence du consentement > 3° Vices
+       du consentement, b) Erreur dans la personne (date de fraîcheur : 25
+       septembre 2002) ; renvoyant à Gaz. Pal. 1965, 2, p. 12 et à D.
+       1966, p. 203, note Pradel.
+   69. ↑ Article 5 de la loi n^o 75-617 du 11 juillet 1975 portant réforme
+       du divorce.
+   70. ↑ Christelle Chalas, « Correction des cas pratiques sur les
+       fiançailles et le mariage »^(Archive.org • Wikiwix • Archive.is •
+       Google • Que faire ?), sur univ-paris8.fr, Université Paris VIII,
+       2006/2007 (consulté le 5 juin 2008).
+
+   v · m
+   Droit de la famille
+   Couple
+     * Concubinage
+     * Fiançailles
+     * Partenariat enregistré
+     * Union civile
+     * Mariage
+          + annulation
+          + civil
+          + religieux
+
+   Développement
+     * Adoption
+          + simple
+          + plénière
+          + internationale
+          + homoparentale
+          + kafala
+     * Filiation
+          + légitime
+          + adultérine
+          + naturelle
+          + présomption de paternité
+          + reconnaissance
+          + possession d'état
+     * Action alimentaire
+
+   Organisation
+     * Régime matrimonial
+
+   Désagrégation
+     * Divorce (sans égard à la faute)
+     * Séparation de corps
+     * Prestation compensatoire
+
+   v · m
+   Droit de la famille en France
+   Couple
+     * Concubinage
+     * Fiançailles
+     * Mariage civil
+          + homosexuel
+          + empêchement
+          + annulation
+     * Pacte civil de solidarité (PACS)
+
+   Développement
+     * Adoption
+          + simple
+          + plénière
+          + internationale
+          + homoparentale
+     * Filiation
+          + légitime
+          + naturelle
+     * Présomption de paternité
+     * Reconnaissance
+     * Possession d'état
+     * Actions judiciaires
+     * Action alimentaire
+     * Accord du conjoint
+
+   Organisation
+     * Autorité parentale
+     * Obligation alimentaire
+     * régimes matrimoniaux
+
+   Désagrégation
+   Divorce :
+     * Procédure
+     * Loi
+     * Motifs
+          + consentement mutuel
+          + acceptation du principe de la rupture
+          + faute
+          + altération définitive du lien conjugal
+
+   Organisation
+     * Séparation de corps
+     * Prestation compensatoire en droit français
+
+     * icône décorative Portail du droit français
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Mariage_en_France&oldid=21
+   0370643 ».
+   Catégories :
+     * Mariage en France
+     * Droit en France
+     * Religion en France
+
+   Catégories cachées :
+     * Article contenant un lien mort
+     * Article utilisant une Infobox
+     * Page utilisant un sommaire limité
+     * Article à référence nécessaire
+     * Article à référence insuffisante
+     * Article manquant de références depuis avril 2020
+     * Article manquant de références/Liste complète
+     * Page utilisant un modèle Bases inactif
+     * Article utilisant le modèle Dictionnaires inactif
+     * Page utilisant le modèle Autorité inactif
+     * Portail:Droit français/Articles liés
+     * Portail:Droit/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:France/Articles liés
+     * Portail:Europe/Articles liés
+
+     * La dernière modification de cette page a été faite le 8 décembre
+       2023 à 20:34.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu

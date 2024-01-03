@@ -1,352 +1,355 @@
    #alternate
 
-   Afis Science - Association française pour l'information scientifique
-   Association Française pour l’Information Scientifique
-
-     * L’association
-          + Qu’est-ce que l’AFIS ?
-          + Communiqués
-          + Agenda
-          + Liens internationaux
-          + Adhérer
-          + Contact
-     * ARTICLES
-          + Éditoriaux
-          + Notes de lecture
-          + Science et esprit critique
-          + Intégrité scientifique
-          + Sornettes sur Internet
-          + Un monde fou, fou, fou
-          + Regards sur la science
-          + Articles par thème
-     * REVUE
-          + Le dernier numéro
-          + Tous les numéros
-          + S'abonner
-     * BOUTIQUE
-     * LIBRAIRIE
-     * VIDÉOS
-     * Recherche
-
-   Afis facebook Afis twitter Afis Youtube Afis Android Afis ios Afis RSS
-   Mon compte
-
-   Accueil / L’évolution explique-t-elle les faits sociaux ?
-
-L’évolution explique-t-elle les faits sociaux ?
-
-   Publié en ligne le 10 février 2021 - Évolution et faits sociaux -
-   L'évolution explique-t-elle les faits sociaux ?
-   Introduction du dossier
-
-   Peut-on expliquer les comportements humains et les faits sociaux en
-   invoquant un processus évolutif qui aurait déterminé, selon une chaîne
-   de causalités bien définie, leur apparition et leur perpétuation ? La
-   question relève de la recherche scientifique et concerne des
-   disciplines variées (anthropologie, biologie, psychologie, écologie,
-   sociologie…). Elle présente aussi d’inévitables répercussions dans le
-   débat public, parce qu’elle rencontre des interrogations sur la nature
-   de certaines caractéristiques de nos sociétés présentes ou de leur
-   passé récent. Ces interrogations concernent par exemple les inégalités
-   liées au genre, les inégalités de richesse, ou même – à des époques que
-   l’on peut espérer révolues – les spéculations concernant des inégalités
-   de « race » venant justifier des politiques de persécution. Sur tous
-   ces sujets, des théories invoquant la description scientifique (ou
-   supposée telle) de l’évolution de certains traits (sociaux,
-   biologiques) ont pu être invoquées, soit pour justifier un état de
-   fait, soit au contraire pour le combattre. Ainsi, il existerait un
-   « paradoxe nordique » concernant les différences de genre [1] : selon
-   une explication de ce paradoxe, les femmes seraient déterminées à
-   choisir d’autres métiers que les hommes par leur simple constitution
-   biologique, au-delà même des déterminations sociales et culturelles. A
-   contrario, le militantisme communiste, qui postule l’avènement
-   nécessaire d’un stade historique rendant caduc le régime de production
-   capitaliste, a pensé trouver confirmation de sa conception de
-   l’histoire dans les thèses évolutionnistes de l’anthropologue Lewis
-   Morgan. (voir l’encadré ci-dessous).
-   Social ou biologique : un faux dilemme ?
-
-   Dans le débat public, les théories évolutionnistes sur les faits
-   sociaux sont parfois présentées sous l’angle d’une opposition binaire
-   entre explications sociales et explications biologiques. Il y aurait
-   d’un côté des partisans d’une origine purement sociale des phénomènes
-   (position que certains qualifient parfois de « constructivisme
-   social »), de l’autre des partisans d’une origine purement biologique
-   des phénomènes. Les seconds sont généralement accusés de
-   « réductionnisme » : ils réduiraient à de simples déterminations
-   biologiques les phénomènes étudiés, en éludant l’influence éventuelle
-   de facteurs sociaux mal élucidés. Un tel débat fait rage, dans les
-   médias et les réseaux sociaux, concernant les inégalités entre hommes
-   et femmes.
-
-   Cependant, il faut souligner que cette opposition entre deux types
-   d’explications, outre qu’elle est théâtralisée par les engagements
-   idéologiques des uns et des autres, est potentiellement fallacieuse. En
-   effet, les deux types de détermination peuvent parfaitement être à
-   l’œuvre simultanément. La question posée doit alors se ramener, plus
-   modestement, à la pertinence de chaque explication selon le contexte
-   précis dans lequel le phénomène est étudié.
-
-   Par analogie, prenons l’exemple du mouvement d’un ballon de football.
-   Si l’on veut décrire le mouvement de ce ballon sur un plan lisse suite
-   à une impulsion initiale (par exemple un coup de pied de footballeur)
-   et en fonction de divers obstacles, les lois de la mécanique
-   newtonienne sont l’outil adapté. Mais si l’on veut décrire le mouvement
-   de ce ballon tout au long d’un match précis, l’explication pertinente
-   fera peut-être appel à une analyse de la configuration tactique des
-   deux équipes, du style de jeu propre à chacune (avec peut-être une
-   tradition à rechercher dans l’histoire du club), ou bien des conditions
-   économiques d’exercice de l’activité de footballeur (et de leur impact
-   sur, par exemple, la préparation physique et la motivation à gagner).
-   Pourtant, dans ce deuxième cas, le ballon continue bien d’être soumis
-   aux lois de la mécanique newtonienne : l’explication sociale ne nie en
-   rien le déterminisme mécanique du mouvement.
-
-   De même, si l’on soupçonne une détermination biologique à l’œuvre dans
-   un fait social (ce qui sera fréquemment le cas, puisque tout
-   comportement humain est ancré, en dernière instance, dans un substrat
-   biologique), cela n’empêche pas de rechercher également des
-   déterminations liées aux institutions, aux traditions et aux multiples
-   interdépendances dans lesquelles nous sommes insérés et qui nous
-   poussent à nous conduire d’une certaine façon. Ceci d’autant plus que
-   les sociétés humaines contemporaines sont extrêmement complexes et
-   qu’il paraît improbable qu’elles n’aient aucune influence propre sur
-   certains plans (comme par exemple les inégalités de genre) ; et que,
-   par ailleurs, la biologie a du mal à rendre compte des différences
-   entre sociétés et des changements sociaux au sein d’une même espèce,
-   Homo sapiens.
-
-   Enfin, il faut remarquer que si l’influence du biologique sur le social
-   est une évidence, l’influence réciproque peut également exister. Ainsi,
-   le social (au sens le plus large : économie, pratiques alimentaires,
-   etc.) peut exercer une pression évolutive sur le biologique par le
-   biais de la sélection naturelle. Une telle pression est envisagée pour
-   expliquer la prévalence de la persistance de la lactase chez les
-   humains de certaines régions du globe : le développement du
-   pastoralisme et l’accès à une ressource alimentaire nouvelle (le lait
-   des animaux d’élevage) auraient favorisé la sélection d’individus
-   assimilant mieux le lait à l’âge adulte.
-
-   Science et pseudo-sciences ne se positionne pas dans ces débats
-   politiques, moraux et philosophiques. À travers ce dossier, nous nous
-   contentons de proposer un bref tour d’horizon, forcément partiel, des
-   questionnements scientifiques sur le sujet de possibles explications
-   évolutionnistes des faits sociaux.
-
-   Ces tentatives d’explications sont multiples. D’une part, elles font
-   appel à des disciplines et des temporalités différentes (certaines sur
-   un temps très long à l’échelle de l’évolution biologique des espèces,
-   d’autres sur un temps plus court à l’échelle de l’évolution des formes
-   sociales et culturelles). D’autre part, la plupart de ces théories
-   restent débattues, pas forcément sur le plan de l’établissement des
-   faits, mais plutôt de leur interprétation et des enseignements que l’on
-   peut espérer en tirer.
-
-   Les découvertes récentes en paléoanthropologie, mais aussi le réexamen
-   poussé, grâce à de nouvelles techniques, de découvertes anciennes, ont
-   donné lieu à de nombreuses spéculations sur les caractéristiques des
-   sociétés anciennes : non seulement les sociétés humaines du
-   Paléolithique, mais aussi celles de nos ancêtres biologiques comme Homo
-   erectus. Les spécialistes du domaine pensent désormais que ces sociétés
-   de chasseurs-collecteurs étaient fondées sur la coopération pour le
-   partage des ressources alimentaires et pour la prise en charge des
-   enfants. Des déterminants anciens, comme la bipédie, la grande taille
-   de son cerveau et le dilemme obstétrical qui s’ensuit, auraient induit
-   l’Homme à constituer des sociétés caractérisées par un certain degré
-   d’« altruisme », aussi relatif et insuffisant puisse-t-il
-   éventuellement paraître à nos yeux (voir l’article « Bipédie, gros
-   cerveau, grand-mère et forte cohésion sociale : des spécificités
-   humaines ? » de Florent Détroit).
-   Évolutionnisme et jeu vidéo
-
-   Indépendamment des débats politiques auxquels il est mêlé,
-   l’évolutionnisme se retrouve aussi dans la culture populaire. Il est un
-   élément essentiel, entre autres, de la célèbre série de jeux vidéo
-   Civilization. Chacune des parties en présence (contrôlée par un joueur
-   humain ou par l’ordinateur) y joue une nation qui, tout en guerroyant
-   et commerçant, cherche à avancer le plus loin possible le long d’un
-   graphe orienté, au sens mathématique du mot^ 1. Chaque nœud du graphe
-   représente une avancée technique ou politique majeure conditionnée par
-   les précédentes. Dans cette vision simplificatrice et souvent
-   fantaisiste, le communisme dépend de l’invention du libéralisme et de
-   la méthode scientifique, tandis que la chimie ne peut venir qu’après la
-   maîtrise de l’ingénierie et de la poudre à canon (exemples tirés du jeu
-   Civilization IV).
-
-   Une discipline née vers la fin des années 1980, la psychologie
-   évolutionniste, tente par d’autres moyens de mettre en évidence
-   l’influence de l’évolution biologique sur l’apparition de certains
-   fondements supposés universels de nos comportements, par-delà les
-   cultures et l’histoire humaine (voir l’article « La biologie
-   permet-elle d’expliquer le social ? » de Laurent Cordonier). Ces bases
-   seraient logées dans la constitution de notre cerveau et de ses
-   « modules » prenant en charge les différentes fonctions de la cognition
-   (voir l’article « Fonctions et mécanismes de la cognition sociale » de
-   Christophe Heintz). Les différentes versions de ces théories
-   évolutionnistes sont plus ou moins radicales dans leur prétention à
-   expliquer l’histoire des sociétés et la persistance apparente de
-   certains traits de comportements, notamment l’aptitude au raisonnement
-   (voir l’article « La raison est-elle un produit de l’évolution ? » de
-   Pascal Engel).
-
-   Un autre type d’approche évolutionniste s’intéresse non pas à
-   l’apparition de traits biologiques déterminant des comportements
-   sociaux, mais au changement des formes sociales – au sens le plus large
-   du terme – indépendamment de tout changement biologique. Par exemple,
-   pourquoi au sein de la même espèce (Homo sapiens) et sans différence
-   biologique notable, a-t-on vu des sociétés passer d’une organisation de
-   chasseurs-collecteurs à un mode de vie basé sur l’agriculture et la
-   sédentarisation, puis à une concentration urbaine et à la constitution
-   de véritables États ? Et pourquoi le chemin allant dans le sens inverse
-   n’est-il presque jamais parcouru (un très rare exemple est celui des
-   indiens Guayaki d’Amérique du Sud, qui selon Pierre Clastres auraient
-   été contraints d’abandonner l’agriculture suite à l’invasion européenne
-   [2]) ? Ces interrogations sont plus anciennes que celles concernant
-   l’évolution biologique des espèces ; mais c’est à partir du
-   XIX^esiècle, avec les travaux de Lewis Morgan, que des théories
-   scientifiques prennent corps à ce sujet. Passionnément discuté et
-   parfois ostracisé, ce type d’explication des faits sociaux continue
-   aujourd’hui de faire l’objet de recherches (voir les articles
-   « Anthropologie et évolution sociale » et « Penser l’évolution
-   sociale : quelques mauvais procès faits à l’évolutionnisme » de
-   Christophe Darmangeat).
-
-   Contrairement à la façon dont elles sont parfois présentées, les
-   théories que l’on retrouvera ici ne sont ni entièrement assurées, ni
-   entièrement démenties. Ce dossier présente plutôt un aperçu de la
-   science « en train de se faire », dans toute son incertitude, avec ses
-   possibles impasses et ses désaccords inévitables.
-   Références
-
-   1 | Sørensen AE, “Gender segregation in the Nordic labour market”,
-   février 2019. Sur nordics.info
-   2 | Clastres P, Chronique des indiens Guayaki, Plon, 1972.
-
-   ^1 Ce graphe est souvent improprement appelé « arbre technologique » :
-   d’abord il ne remplit pas les conditions mathématiques d’un arbre,
-   ensuite il ne fait pas intervenir que des changements technologiques.
-
-Publié dans le n° 335 de la revue
-     __________________________________________________________________
-
-Partager cet article
-
-   [partage-facebook.png] [partage-twitter.png] [partage-linkedin.png]
-   [partage-mail.png]
-     __________________________________________________________________
-
-L' auteur
-
-   portrait de l'auteur de cet article Antoine Pitrou
-
-Antoine Pitrou
-
-   Ingénieur en informatique et membre du Comité de Rédaction de Science &
-   Pseudo-Sciences.
-   Plus d'informations
-     __________________________________________________________________
-
-Évolution et faits sociaux
-
-   L'évolution explique-t-elle les faits sociaux ?
-
-L’évolution explique-t-elle les faits sociaux ?
-
-   Le 10 février 2021
-   De l'humour dans la recherche scientifique
-
-De l’humour dans la recherche scientifique
-
-   Le 19 juillet 2022
-   Risque de morsure de chien, ou le retour de la science
-
-Risque de morsure de chien, ou le retour de la science
-
-   Le 31 mai 2022
-   La Science face à la conscience… animale
-
-La Science face à la conscience… animale
-
-   Le 18 septembre 2021
-   L'effet Macbeth : to be or not to be...washed ?
-
-L’effet Macbeth : to be or not to be...washed ?
-
-   Le 8 juin 2021
-   Penser l'évolution sociale : quelques mauvais procès faits à
-   l'évolutionnisme
-
-Penser l’évolution sociale : quelques mauvais procès faits à l’évolutionnisme
-
-   Le 5 juin 2021
-
-Les articles les plus lus
-
-   Le nuage de Tchernobyl qui s'arrête à la frontière : une fable sans
-   cesse réitérée
-
-Le nuage de Tchernobyl qui s’arrête à la frontière : une fable sans cesse
-réitérée
-
-   Le 22 mars 2021 - Science et médias
-   Coronavirus : un nouveau paradoxe pour l'homéopathie
-
-Coronavirus : un nouveau paradoxe pour l’homéopathie
-
-   Le 6 mars 2020 - Homéopathie
-   Coronavirus – comment s'informer ?
-
-Coronavirus – comment s’informer ?
-
-   Le 11 mai 2020 - Covid-19
-   Iridologie : de la poudre aux yeux
-
-Iridologie : de la poudre aux yeux
-
-   Le 4 avril 2020 - Médecines alternatives
-   Troubles de l'attention et hauts potentiels intellectuels
-
-Troubles de l’attention et hauts potentiels intellectuels
-
-   Le 22 juillet 2023 - HPI-surdoués
-     __________________________________________________________________
-
-Notes de lectures
-
-   La vraie nature de la bête humaine
-
-La vraie nature de la bête humaine
-
-   Cyrille Barrette
-   Justice et guerre en Australie aborigène
-
-Justice et guerre en Australie aborigène
-
-   Christophe Darmangeat
-   L'Arche de Darwin
-
-L’Arche de Darwin
-
-   James Morrow
-   Cavanna, paléontologue !
-
-Cavanna, paléontologue !
-
-   Pascal Tassy
-   Néandertal
-
-Néandertal
-
-   Marylène Patou-Mathis et Pascal Depaepe (dir.)
-   Fabricants d'intox
-
-Fabricants d’intox
-
-   Christian Harbulot
-   Toutes les notes de lecture
-
-     * Qui sommes-nous ?
-     * Plan du site
-     * Liens favoris
-     * Contact
-     * Mentions
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T46S53C
+
+   [svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3Z
+   nIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OS
+   A5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd
+   mciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJv
+   a2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0
+   iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+]
+
+   (BUTTON) (BUTTON) ✕
+   (BUTTON)
+   x Définitions Conjugaison Grammaire Blog Jeux Podcasts et vidéos
+   Catalogue
+   ____________________ (BUTTON) ✖ (BUTTON)
+
+   Le blog Dis-moi Robert Blog Le mot du jour Top 10 des mots Jeux
+   Podcasts et vidéos
+
+   Email catcher
+
+                                   évolution
+
+   définitiondéf.synonymessyn.combinaisonscombi.exemplesex.17^e siècle17^e
+   s.
+
+Définition
+
+Définition de évolution ​​​ Votre navigateur ne prend pas en charge audio.
+nom féminin
+
+   Mouvement réglé de troupes.
+   au pluriel Suite de mouvements variés. Les évolutions d'un avion, d'une
+   danseuse.
+   Suite de transformations dans un même sens ; transformation graduelle
+   assez lente. ➙ changement. Considérer les choses dans leur évolution.
+   ➙ devenir, mouvement. L'évolution des mœurs. Évolution économique,
+   sociale par des réformes (opposé à révolution). Métier en (pleine)
+   évolution. Changement dans le caractère, les conceptions (d'une
+   personne, d'un groupe). Une lente évolution. L'évolution d'une maladie.
+   ➙ cours, processus.
+   Transformation progressive d'une espèce vivante en une autre. Évolution
+   continue par hérédité des caractères acquis. Théories de l'évolution.
+   ➙ évolutionnisme, transformisme ; darwinisme. Évolution discontinue par
+   mutations*.
+
+   définitiondéf.synonymessyn.combinaisonscombi.exemplesex.17^e siècle17^e
+   s.
+
+Synonymes
+
+Synonymes de évolution nom féminin
+
+   mouvement, [Militaire] manœuvre
+
+   changement, bouleversement, développement, métamorphose, modification,
+   transformation
+
+   déroulement, histoire, marche, tournure
+
+   progrès, avancement, cours, processus, progression
+
+   variation, courbe
+
+   définitiondéf.synonymessyn.combinaisonscombi.exemplesex.17^e siècle17^e
+   s.
+
+Combinaisons
+
+Mots qui s'emploient fréquemment avec évolution
+
+verbe + évolution
+
+   accélérer + évolution
+   accompagner + évolution
+   amorcer + évolution
+   analyser + évolution
+   anticiper + évolution
+   arrêter + évolution
+   assurer + évolution
+   bloquer + évolution
+   comprendre + évolution
+   compromettre + évolution
+   conditionner + évolution
+   connaître + évolution
+   contrarier + évolution
+   contrecarrer + évolution
+   contrôler + évolution
+   encadrer + évolution
+   enrayer + évolution
+   entraîner + évolution
+   entraver + évolution
+   examiner + évolution
+
+   favoriser + évolution
+   freiner + évolution
+   induire + évolution
+   infléchir + évolution
+   influencer + évolution
+   interrompre + évolution
+   jalonner + évolution
+   maîtriser + évolution
+   marquer + évolution
+   mesurer + évolution
+   modéliser + évolution
+   montrer + évolution
+   observer + évolution
+   organiser + évolution
+   permettre + évolution
+   planifier + évolution
+   poursuivre + évolution
+   préfigurer + évolution
+   prévoir + évolution
+   ralentir + évolution
+   refléter + évolution
+   régir + évolution
+   retarder + évolution
+   retracer + évolution
+   simuler + évolution
+   subir + évolution
+   suivre + évolution
+   surveiller + évolution
+   traduire + évolution
+   visualiser + évolution
+
+évolution + adjectif
+
+   belle évolution
+   évolution accélérée
+   évolution actuelle
+   évolution biologique
+   évolution chronique
+   évolution climatique
+   évolution conjoncturelle
+   évolution considérable
+   évolution continue
+   évolution contrastée
+   évolution convergente
+   évolution cosmique
+   évolution dangereuse
+   évolution défavorable
+   évolution démographique
+   évolution désastreuse
+   évolution divergente
+   évolution dramatique
+   évolution durable
+   évolution économique
+   évolution en cours
+   évolution en dents de scie
+   évolution encourageante
+   évolution favorable
+   évolution formidable
+   évolution forte
+   évolution future
+   évolution générale
+   évolution graduelle
+   évolution heureuse
+   évolution historique
+   évolution importante
+   évolution inattendue
+   évolution incertaine
+   évolution inéluctable
+   évolution inévitable
+   évolution inquiétante
+   évolution institutionnelle
+   évolution intéressante
+   évolution lente
+   évolution linguistique
+   évolution littéraire
+   évolution logique
+   évolution marquante
+   évolution naturelle
+   évolution nécessaire
+   évolution négative
+   évolution nette
+   évolution normale
+   évolution notable
+   évolution organique
+   évolution perceptible
+   évolution permanente
+   évolution perpétuelle
+   évolution physiologique
+   évolution politique
+   évolution positive
+   évolution possible
+   évolution préoccupante
+   évolution prévisible
+   évolution professionnelle
+   évolution profonde
+   évolution progressive
+   évolution psychologique
+   évolution qualitative
+   évolution rapide
+   évolution récente
+   évolution régressive
+   évolution régulière
+   évolution significative
+   évolution sociale
+   évolution sociétale
+   évolution sociologique
+   évolution spectaculaire
+   évolution spontanée
+   évolution structurelle
+   évolution stylistique
+   évolution technique
+   évolution technologique
+   évolution tendancielle
+   évolution ultérieure
+   longue évolution
+   pleine évolution
+   réelle évolution
+   véritable évolution
+
+évolution + verbe
+
+   évolution + affecter
+   évolution + commencer
+   Afficher toutRéduire
+
+   définitiondéf.synonymessyn.combinaisonscombi.exemplesex.17^e siècle17^e
+   s.
+
+Exemples
+
+Phrases avec le mot évolution
+
+   Cette évolution dans le secteur public néerlandais correspond à ce que
+   l'on trouve dans la littérature concernée.Revue Internationale des
+   Sciences Administratives, 2009, Sandra Groeneveld (Cairn.info)
+   Cette évolution dans la formation des professionnels n'est pas isolée
+   du contexte économique.Travail et Apprentissages, 2015, Pierre Lecefel
+   (Cairn.info)
+   C'est une évolution positive et je dirai que cette évolution est
+   adéquate en l'état actuel des choses.Europarl
+   Notamment parce qu'ils ne disposent pas de marqueur pour suivre
+   l'évolution de la qualité des ovules.Ça m'intéresse, 28/09/2021,
+   « Comment prévenir la baisse de la fertilité ? »
+   La prime évolue en fonction de l'évolution du cours d'un titre ou du
+   taux sans risque.Capital, 12/10/2020, « Prime de risque : définition et
+   calcul »
+   Mais on ne peut exclure une évolution politique dans laquelle
+   s'inventent ou se relancent d'autres logiques que
+   populistes.Ouest-France, 30/06/2021
+   L'évolution du roman historique est complète ; il a donné tous ses
+   fruits, et nous pouvons conclure.Louis Maigron (1866-1954)
+   Il ne perd pas pour autant de vue l'évolution de la situation dans la
+   partie française de l'île.Géo, 21/03/2019, « Haïti : comment la liberté
+   fut arrachée par le feu… »
+   L'évolution du secteur fait craindre pour l'avenir mais la société
+   tente de trouver des solutions pour s'en sortir.Ouest-France, Aurore
+   COUÉ, 22/07/2016
+   De gros écarts de tarifs, comme d'évolution de ces mêmes frais.Capital,
+   24/11/2020, « Services bancaires : ces frais qui augmentent
+   discrètement »
+   L'occasion aussi de se rendre compte de son évolution et de ses
+   transformations au fil des décennies.Ouest-France, Mathis PIVETTE,
+   10/09/2020
+   Cette évolution correspond à une individualisation des objectifs de ses
+   salariés, de son temps de travail, et in fine de sa rémunération.Revue
+   française de gestion, 2006, Aline Scouarnec, François Silva
+   (Cairn.info)
+   Cette évolution correspond non seulement à un mouvement politique, mais
+   également à une rationalisation de l'organisation sociale.Revue
+   Française de Droit Constitutionnel, 2011, HUGUES RABAULT (Cairn.info)
+   Cette durabilité des pratiques se traduit par une faible évolution des
+   temps de collecte.Responsabilité et environnement, 2008, Harold Levrel,
+   Meriem Bouamrane, Lamine Kane (Cairn.info)
+   Que faire pour éviter une évolution grave du papillomavirus ?Ça
+   m'intéresse, 09/09/2021, « Est-ce que c'est grave d'avoir un
+   papillomavirus ? »
+   Finalement, les espèces les plus vulnérables sont celles qui ne
+   présentent aucun signe d'évolution.Géo, 19/05/2020, « Eléphants sans
+   défenses : comment l'homme a influencé l'évolution des… »
+   Cette évolution correspond à celle de la mémoire historique en vogue
+   dans les années 1990.Revue d'études comparatives Est-Ouest, 2010,
+   Agnieszka Niewiedzial (Cairn.info)
+   Aujourd'hui, le secteur est en constante évolution avec les nouvelles
+   technologies qui facilitent le travail.Ouest-France, Aurore COUÉ,
+   22/07/2016
+   Le but est de comprendre et de suivre l'évolution de leurs populations
+   sur tout le département.Ouest-France, Morgane GUIOMARD, 04/07/2020
+   Il faut encore travailler à l'amélioration de la transparence du marché
+   par l'évolution des systèmes de vente.Ouest-France, David LE TIEC,
+   20/09/2017
+   Afficher toutRéduire
+
+   Ces exemples proviennent de sites partenaires externes. Ils sont
+   sélectionnés automatiquement et ne font pas l’objet d’une relecture par
+   les équipes du Robert. En savoir plus.
+
+   définitiondéf.synonymessyn.combinaisonscombi.exemplesex.17^e siècle17^e
+   s.
+
+Dictionnaire universel de Furetière (1690)
+
+Définition ancienne de EVOLUTION s. f.
+
+   Terme militaire, qui se dit des changements qui se font, lors qu'on
+   range des soldats en bataille, ou qu'on leur fait faire l'exercice.
+   C'est par les evolutions qu'on change la forme & la disposition d'une
+   bataille & d'un escadron selon la disposition du terrain, soit pour
+   attaquer, soit pour se deffendre. Les evolutions se font par
+   conversions, contremarches, doublements de rangs ou de files, &c.
+
+   Ces définitions du XVII^e siècle, qui montrent l'évolution de la langue
+   et de l'orthographe françaises au cours des siècles, doivent être
+   replacées dans le contexte historique et sociétal dans lequel elles ont
+   été rédigées. Elles ne reflètent pas l’opinion du Robert ni de ses
+   équipes. En savoir plus.
+
+   (*) ( ) ( )
+   Jeux Jeu-concours : testez vos connaissances sur le rugby !
+   Jeu-concours : testez vos connaissances sur le rugby !
+
+   Testez-vous en répondant à ce questionnaire !
+   11/08/2023
+   …
+   tendances
+   Mots les plus recherchés
+   1
+   seoir
+   2
+   karma
+   3
+   yao
+   4
+   client
+   5
+   auspices
+   6
+   rie
+   7
+   vœu
+   8
+   amer
+   9
+   wali
+   10
+   woke
+   Sur les 7 derniers jours
+
+   IFRAME:
+   https://editis.qualifioapp.com/20/4179AACD-3E36-4A39-AC47-54F208D09661/
+   v1.cfm?id=4179AACD-3E36-4A39-AC47-54F208D09661
+
+   IFRAME: https://www.lerobert.com/newsletter-dis-moi-robert
+
+   Tous les mots commençant par # A B C D E F G H I J K L M N O P Q R S T
+   U V W X Y Z
+
+   Questions fréquentes Espace partenaires Ressources éducatives
+
+   © Le Robert Charte de protection des données personnelles Mentions
+   légales Gestion des cookies CGU Le Robert et Google

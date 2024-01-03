@@ -1,48 +1,202 @@
-   comprendre son passé et donc quels ont été les modes de transport dans
-   l’histoire de l’humanité jusqu’à aujourd’hui et les liens étroits entre
-   la mobilité et les évolutions sociétales et inversement.
+          + Santé
+          + Développement
+          + Évolution
+          + Écologie
+          + Manipulations en SVT
+--
+          + Santé
+          + Développement
+          + Évolution
+          + Écologie
+          + Manipulations en SVT
+--
+     * Contact
 
-   Pour cette raison nous abordons ici l’histoire de la mobilité et les
+L'évolution culturelle
+
+Fil d'Ariane
+--
+     * Planet-Vie
+     * Tous les contenus
+     * Évolution
+     * L'évolution culturelle
+
+   Article
+
+L'évolution culturelle
+
+   Une autre forme d'hérédité et de diversité biologique
+--
+   chez des invertébrés. Ainsi, le processus culturel qui génère une autre
+   forme d'hérédité apparaît-il comme étant un processus très général
+   d'hérédité qui est donc susceptible d'avoir participé à l'évolution
+   d'un très grand nombre d'espèces probablement depuis des millions
+   d'années. Le processus culturel constitue donc un formidable processus
+--
+   depuis le début du troisième millénaire. Un des domaines concerné est
+   celui de l'existence de l'hérédité culturelle. Pour bien comprendre
+   l'importance de la question de l'évolution culturelle, il nous faut non
+   seulement comprendre l'hérédité, mais aussi son rôle dans le vivant et
+   l'évolution. Comme le concept même d'hérédité est en train de changer
+   rapidement, nous commencerons par le discuter.
+
+--
+   parent-enfant c'est étudier les sources de variation phénotypique.
+   D'autre part, la ressemblance parent-enfant est au cœur même de
+   l'évolution que ce soit par sélection naturelle ou par dérive. En
+   effet, depuis Darwin [3] la sélection naturelle est définie comme un
+   processus qui s'enclenche inévitablement dès lors que deux conditions
+--
+   moyens ou les petits. Cette deuxième clause est ce que l'on dénomme la
+   pression de sélection. Cependant, ces deux conditions ne conduiront à
+   évolution que si une troisième condition est remplie, à savoir que (c)
+   le trait soit héritable, c’est-à-dire que la variation sur le trait
+   soit transmise à la descendance (par exemple dans le cas de la taille,
+--
+   qui réduit l'hérédité à la seule séquencique. En effet, il ressort de
+   ces multiples découvertes que la vision séquencique de l'hérédité et de
+   l'évolution ne permet pas d'expliquer toute la complexité du vivant4.
+   De nombreux arguments permettent aujourd'hui d'affirmer que la
+   ressemblance parent-enfant ne repose pas uniquement sur le transfert de
+--
+   élargissement de notre conception de l'hérédité des différences
+   (appelée héritabilité inclusive) a le potentiel de fortement modifier
+   notre vision du fonctionnement du vivant et de son évolution car, comme
+   nous l'avons vu plus haut, l'hérédité des différences est la condition
+   centrale pour que la sélection naturelle conduise à l'évolution.
+
+   La mise en évidence du fait que la ressemblance parent-enfant ne repose
+--
+       recommande cependant la version publiée en anglais trois ans plus
+       tard, beaucoup plus complète et qui inclut un chapitre sur
+       l'évolution culturelle [5]. (Note de l’éditeur : le terme fitness
+       peut également se traduire par valeur sélective)
+    3. 3 Alors que le concept initial de gène était très large,
+--
+       même sujet, et davantage destiné aux scientifiques, enseignants et
+       étudiants en biologie, intitulé Au-delà du 'Gène égoïste': la
+       Synthèse Inclusive de l'évolution qui devrait être publié fin 2021
+       chez Actes Sud.
+
+--
+   pensions, ou qu’elle résulte de phénomènes de convergence entre les
+   différents groupes étudiés. Dans la première hypothèse, la culture
+   pourrait donc avoir participé à l'hérédité et l'évolution depuis des
+   millions d'années et ceci chez un panel d'animaux bien plus varié que
+   nous ne pouvions l'imaginer.
+--
+   conséquence de l'existence d'une composante culturelle dans la
+   ressemblance parent-enfant est qu'il est nécessaire de revoir la
+   définition de l'évolution. Alors que classiquement l'évolution est
+   définie comme « le processus par lequel la fréquence des variants
+   génétiques change au cours du temps », il nous faut maintenant adopter
+   une définition plus inclusive qui incorpore l'ensemble des processus
+   participant à la ressemblance parent-enfant. Pour cela il suffit
+   d'enlever un seul mot: « l'évolution est le processus par lequel la
+   fréquence des variants change au cours du temps »1 [49].
+
+   Dans cette nouvelle définition de l'évolution, le mot variant inclus
+   tous les variant possibles, dont bien entendu les variants séquenciques
+   (c'est-à-dire dans la séquence nucléotidique de l'ADN). Mais il inclut
+   aussi le rôle de toute une série de variants phénotypiques non
+   génétiques mais néanmoins transmis entre générations, et dont le rôle
+   majeur (et largement sous-estimé) dans l'hérédité et l'évolution est
+   actuellement mis au jour. Ces variants peuvent être épigénétiques,
+   cytoplasmiques, microbiotiques, culturels, et écologiques, ou dus à des
+--
+   qu'elles sont en partie inclusivement héritables), ces variants sont
+   susceptibles d'évoluer dans le temps par l'effet de la sélection
+   naturelle ou de la dérive, et donc de participer à l'évolution.
+
+   Enfin, alors que nous savons depuis longtemps que le comportement
+   participe à l'évolution en permettant aux organismes de s'adapter
+   rapidement aux changements dans leur environnement, il apparaît
+   aujourd'hui que le comportement constitue aussi un important acteur
+   d'hérédité ayant des propriétés de transmission très originales (intra
+   mais aussi inter lignées familiales) qui sont susceptibles d'affecter
+   le fonctionnement même de l'évolution. De plus, plusieurs auteurs
+   ([50-53] ; pour une revue, voir [54]) ont insisté sur la nécessité de
+   prendre en compte les variants culturels dans toutes nos politiques de
 --
 
-   Une vidéo imagée de « The Atlantic » en anglais propose une animation
-   de l’évolution de la mobilité dans l’histoire de l’humanité plus
-   exhaustive : https://youtu.be/FaLCQo8NJFA
+   2. Danchin, É., et al. (2011) Beyond DNA: integrating inclusive
+   inheritance into an extended theory of evolution. Nature Rev Genet 12,
+   475-486.
 
 --
-   Mais c’est en Cornouailles, en 1804 que la locomotive à vapeur
-   construite par Richard Trevithick apparaitra. Elle jouera un rôle
-   fondamental dans la révolution industrielle en Angleterre.
+   6. Danchin, É., et al. (2019) Early in life effects and heredity:
+   reconciling neo-Darwinism with neo-Lamarckism under the banner of the
+   inclusive evolutionary synthesis. Phil. Trans. R. Soc. B 374, 20180113.
 
-   Par ailleurs, l'invention du chemin de fer et le développement du
---
+   7. Bonduriansky, R., and Day, T. (2018) Extended Heredity: A New
+   Understanding of Inheritance and Evolution. Princeton University Press.
 
-   Progressivement, la voiture ne deviendra plus seulement un objet de
-   luxe. L’automobile a révolutionné le transport et entraîné de profonds
-   changements sociaux notamment dans le rapport des individus à l’espace.
-
---
-   formulées.
-
-   La révolution industrielle aidant, c’est au XIXème siècle que l’étude
-   des engins volants donne lieu à des applications pratiques.
+   8. Pigliucci, M., and Müller, G.B. (2010) Evolution, the extended
+   synthesis. MIT Press.
 
 --
-   de faire du commerce : la mondialisation des productions.
 
-   C’est aussi une révolution sociale avec l’internationalisation des
-   entreprises et la multiplication des échanges humains : voyages
-   d’affaires mais aussi démocratisation des déplacements loisirs
+   11. Danchin, É., et al. (2019) Epigenetically-Facilitated mutational
+   assimilation: Epigenetics as a hub within the Inclusive Evolutionary
+   Synthesis. Biol Rev 94, 259-282.
+
+   12. Lu, Q., and Bourrat, P. (2017) The evolutionary gene and the
+   extended evolutionary synthesis. British J Phil Sci 69, 775-800.
+
+   13. Huneman, P., and Whalsh, D.M. (2017) Challenging the Modern
 --
-   Préambule sur la place du numérique dans nos vies
 
-   Lorsque l’on parlait hier de révolution industrielle, nous parlons
-   aujourd’hui de révolution numérique. La digitalisation est un des
-   aspects majeurs du monde d’aujourd’hui et de demain dans les
-   changements de pratiques de la mobilité.
+   17. Avital, E., and Jablonka, E. (2000) Animal Traditions. Behavioural
+   Inheritance in Evolution. Cambridge University Press.
+
+   18. Whiten, A., et al. (1999) Culture in chimpanzees. Nature 399,
+   682-685.
+
+   19. Whiten, A. (2017) Culture extends the scope of evolutionary biology
+   in the great apes. Proc Nat Acad Sci USA 114, 7790-7797.
+
 --
-   seulement les nouvelles formes de mobilité qui influencent nos modes de
-   vie mais aussi le numérique présent dans toutes nos activités.
-   La révolution de l'usage du mobile La révolution de l'usage du mobile
 
-   Le monde du business travel en pleine mutation
+   23. van Schaik, C.P., et al. (2003) Orangutan cultures and the
+   evolution of material culture. Science 299, 102-105.
+
+   24. van de Waal, E., et al. (2013) Potent Social Learning and
+--
+
+   34. Danchin, É., et al. (2004) Public information: from nosy neighbors
+   to cultural evolution. Science 305, 487-491.
+
+   35. Von Frisch, K. (1974) Decoding the language of the bee. Science
+--
+   over generations. Science 362, 998-999.
+
+   48. Boyd, R., and Richerson, P.J. (1985) Culture and the evolutionary
+   process. Chicago University Press.
+
+--
+       humaines (des types de poterie, les citations des brevets, et les
+       prénoms aux États-Unis) un des modèles classiques de la synthèse
+       moderne de l'évolution. Un des jeux de données qu'il utilise
+       comporte 6,3 millions de données, une taille d'échantillon qui ne
+       pourra jamais être atteinte en génétique. Bentley montre que la
+--
+   Auteur(s)/Autrice(s)
+   Étienne Danchin
+   Spécialiste de l'évolution et de l'hérédité non génétique. Il a dirigé
+   le laboratoire Évolution & diversité biologique (EDB-Toulouse), et le
+   LabEx TULIP dont le but est d'intégrer toute la biologie en une
+   nouvelle synthèse inclusive de l'évolution.
+   Éditeur(s)/Éditrice(s)
+   Pascal Combemorel
+--
+   Article
+
+Vers un remaniement de la théorie de l’évolution ?
+
+   14.09.23 — Par Cyril Langlois
+--
+
+   Animaux Cellules et molécules Champignons Développement Écologie
+   Évolution Génétique Manipulations en laboratoire Manipulations en SVT
+   Microbiologie Santé Thèmes transversaux Végétaux
+     * Événements

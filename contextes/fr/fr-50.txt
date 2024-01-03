@@ -1,54 +1,64 @@
-          + Enveloppes fluides externes, climats
-          + Pédologie, sédimentologie, cycles élémentaires
-          + Biosphère, origine et évolution des êtres vivants
-          + Planétologie, astronomie
-          + Géologie appliquée
---
+     * Société
 
-   Datation de la formation de la Terre : de l'usage des récits de la
-   création, aux approches scientifiques qualitatives (évolution
-   biologique et observations géologiques) puis quantitatives (lois de la
-   thermique et radioactivité).
---
-   de nombreux philosophes de la Grèce classique (Aristote…), la Terre
-   avait toujours existé. Le bouddhisme ne s'intéresse pas à l'origine du
-   monde, mais à son évolution. Pour les trois religions monothéistes,
-   (par ordre chronologique d'apparition, judaïsme, christianisme, et
-   islam), il y a un même récit de la création de la Terre, des astres et
---
-   strates et leur comparaison avec les êtres vivants actuels montraient
-   que les êtres vivants évoluaient au cours du temps. Et comme
-   l'évolution est insensible sur plusieurs millénaires (comme le montre
-   la comparaison entre les animaux actuels et les animaux momifiés par
-   les Égyptiens, cf. L'évolution est un phénomène lent), il fallait des
-   centaines de millions d'années pour “transformer” les animaux anciens
-   en animaux actuels.
---
+Évolution du niveau de vie : qui sont les gagnants et les perdants depuis 2010 ?
 
-   Ce sont, entre autres, les observations faites au cours de ce voyage
-   qui ont permis à Darwin non pas de démontrer l'Évolution (il n'y avait
-   plus de doute chez les vrais naturalistes du milieu du XIX^e), mais
-   d'en proposer un mécanisme.
---
-   sédimentation…) avec des temps plus courts en faisant appel à des
-   « catastrophes », des « déluges », brèves périodes avec érosion,
-   sédimentation et évolution très rapides.
+   De nombreux Français estiment que leur pouvoir d’achat est en baisse,
+   paradoxalement aux chiffres des études et instituts. France Stratégie
+   s’est donnée comme défi de faire une photographie réaliste de
+   l’évolution du niveau de vie depuis 2010.
 
-   Le défaut de ces approches naturalistes, c'était d'être relativement
---
-   autour de 20 à 40 Ma s'établit dans la communauté des physiciens des
-   années 1890.
-   Évolution de la température interne de la Terre en fonction de la
-   profondeur
+   Antonin ALBERT , le mercredi 11 janvier 2023
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
-   Source - © 2014 Pierre Thomas
-
-   Figure 8. Évolution de la température interne de la Terre en fonction
-   de la profondeur
+   Évolution du niveau de vie : qui sont les gagnants et les perdants
+   depuis 2010 ?
 
 --
-   Mots-clés
-          âge de la Terre, géochronologie, refroidissement de la Terre,
-          radiochronologie, météorite, évolution biologique
+   Français considère que son pouvoir d’achat baisse. Cette impression de
+   décalage a été le point de départ de la nouvelle étude de France
+   Stratégie sur l’évolution du niveau de vie des ménages, depuis 2010.
 
-   Voir aussi
+   « Notre méthode, qui repose sur des données en panel peu exploitées,
+   permet de s’approcher de la façon dont l’évolution du niveau de vie est
+   perçue par les Français, en complément des analyses traditionnelles
+   macroéconomiques ou axées sur l’effet des réformes fiscales sur le
+--
+   Société et Politiques sociales de France Stratégie.
+
+   L’analyse consiste à suivre sur toute la décennie l’évolution de la
+   situation d’un certain nombre de personnes — celles nées entre 1941 et
+   1980, qui avaient donc entre 30 et 69 ans en 2010 — et à observer
+   l’évolution de leur pouvoir d’achat en comparant la dynamique de leur
+   niveau de vie et celle des prix.
+
+Des différences importantes entre classes d’âge
+
+   Il est vrai, l’évolution du niveau de vie tend plutôt vers
+   l’augmentation que vers la baisse. Mais cette tendance générale ne
+   s‘applique pas à toutes les générations. La hausse du pouvoir d’achat
+--
+Les trajectoires fortement liées au cycle de vie
+
+   Ces évolutions différenciées entre classes d’âge ne sont pas
+   spécifiques à la décennie 2010. Elles sont en grande partie liées au
+   cycle de vie. Les actifs, plus jeunes, voient en général leur niveau de
+--
+   facteurs qui influent sur le pouvoir d’achat : un « effet revenu », qui
+   correspond au changement de niveau de vie explicable simplement par
+   l’évolution des revenus primaires ; un « effet famille », qui
+   correspond à l’évolution du nombre d’unités de consommation du ménage
+   et un « effet redistribution », qui correspond à l’évolution du solde
+   entre impôts payés et prestations sociales reçues.
+
+--
+   aux niveaux de vie de leur ménage. Ils sont calculés selon la méthode
+   retenue par l’Insee, mais en tenant compte en plus de la taxe foncière
+   sur la résidence principale et de l’ISF. L’évolution des prix est prise
+   en compte, tous les montants présentés dans cette note étant en euros
+   constants de 2019, en niveaux mensuels et par unité de consommation.
+--
+   France Stratégie vient de publier une note sur les données relatives à
+   la mobilité sociale en France, difficilement accessibles et
+   complexifiant les évolutions temporelles tout comme les comparaisons
+   avec d'autres pays.
+

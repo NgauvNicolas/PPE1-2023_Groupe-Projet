@@ -1,779 +1,474 @@
-   false
+   EDP Sciences logo
+     * Journals
+     * Books
+     * Conferences
 
-   Veuillez-patienter...
+   0
+     * English (UK)
+     * Français (FR)
 
-     Aller au contenu
+   Subscriber Authentication Point
+     * Sign in with login/password
+     * Your subscription
 
-   Aide Accès sourds et malentendants
-   Recherche
-   accueil /static/img/logo_com_externe_semi_bold.png
-   /static/img/logo-insee-header.png
-   English
-   Presse
+   EDPS Account
+     * Login
+
+   médecine/sciences
+     * All issues
+     * Thematic issues
+     * Special edition
+     * Series
+
+   Search
    Menu
-     * Menu
-     * Blog
-     * Espace presse
-     * Aide
-     * Accès sourds et malentendants
-     * English
+     * Browse
+          + All issues
+          + Thematic issues
+          + Special edition
+          + m/s series
+          + m/s videos
+     * About m/s
+          + History
+          + Aims and Scope
+          + Editorial team and Scientific board
+          + Permission to reuse
+          + Indexed in
+          + Hosted and distributed by
+     * Author information
+          + Instruction for authors
+          + Online submission
+          + Copyright transfer
+     * Reader's services
+     * Subscriber information
 
-   Veuillez-patienter... ____________________ (BUTTON)
+   ____________________ (search)
+   Advanced Search
+   Home All issues Volume 26 / No 5 (Mai 2010) Med Sci (Paris), 26 5
+   (2010) 526-528 Full HTML
+     * Browse
+          + All issues
+          + Thematic issues
+          + Special edition
+          + m/s series
+          + m/s videos
+     * About m/s
+          + History
+          + Aims and Scope
+          + Editorial team and Scientific board
+          + Permission to reuse
+          + Indexed in
+          + Hosted and distributed by
+     * Author information
+          + Instruction for authors
+          + Online submission
+          + Copyright transfer
+     * Reader's services
+     * Subscriber information
+
+   Free Access
+        Issue
+   Med Sci (Paris)
+   Volume 26, Number 5, Mai 2010
+       Page(s)      526 - 528
+       Section      Repères
+         DOI        https://doi.org/10.1051/medsci/2010265526
+   Published online 15 May 2010
+     * Haut de page
+     * La nouvelle infectiologie
+     * Les infections, les maladies auto-immunes et allergiques
+     * Équilibre métabolique
+     * Conflit d’intérêts
+     * Références
+
+   Med Sci (Paris) 2010 ; 26 : 526–528
+
+L’évolution Biologique
+
+Grande oubliée de l’enseignement médical et base rationnelle d’une politique
+de santé
+
+Evolutionary biology, the great forgotten in medical education, and rationale
+for health policy
+
+   Bernard Swynghedauw^*
+
+   Inserm U942, Hôpital Lariboisière, 41, boulevard de la Chapelle, 75475
+   Paris Cedex 10, France
+
+   ^* bernard.swynghedauw@inserm.fr
+
+   Le but de cette mise au point est d’essayer de réconcilier médecine et
+   évolution biologique, de contribuer à la promotion de l’enseignement
+   qui en découle et d’en proposer les éléments comme outils pour la
+   rationalisation de la politique de santé. Par médecine évolutionniste,
+   on entend tout ce qui résulte du conflit entre notre génome tel qu’il a
+   été façonné par un environnement souvent hostile durant des millions
+   d’années et l’environnement actuel qui a été modifié par l’activité
+   humaine dans ce qu’elle a à la fois de bénéfique et de délétère.
+
+   Le fait médical est le résultat d’un conflit génome/environnement. Dans
+   la très grande majorité des maladies dites communes, le tableau
+   clinique est défini par un conflit entre ces deux critères. Trois
+   exemples ont été choisis pour illustrer ces conflits. (1) La nouvelle
+   infectiologie qui n’est plus seulement une lutte contre les pathogènes,
+   mais aussi une étude de notre symbiose avec les bactéries
+   commensales^1. (2) Le lien entre la diminution des infections et
+   l’accroissement exponentiel de l’incidence des maladies auto-immunes et
+   allergiques. L’un des mécanismes proposés met en cause des éléments
+   contre-régulateurs comme l’interleukine (IL)-10. (3) L’épidémie
+   d’obésité et de diabète de type 2 qui se développe en ce moment doit
+   être considérée comme le résultat d’un conflit entre un environnement
+   trop riche en calories et des variants des gènes régulant l’appétit,
+   variants qui sont en train d’être recensés par les études de
+   genome-wide association (GWA).
+
+   Considérer le fait médical à la lueur de l’évolution peut être une
+   nouvelle manière d’établir les prémisses d’une politique de santé
+   globalisée.
+
+   Randolph Nesse, qui est le fondateur de la médecine évolutionniste
+   (dite aussi médecine darwinienne), a récemment publié dans la revue
+   Proc Natl Acad Sci USA un plaidoyer, inhabituel dans ce journal, en
+   faveur de l’enseignement de la biologie de l’évolution dans les
+   facultés de médecine. Ce plaidoyer est soutenu et illustré par les
+   contributions d’un grand nombre de biologistes célèbres qui fournissent
+   un nombre impressionnant d’exemples de ce qui pourrait être enseigné
+   [1]. Cet article souligne, à bon escient, le fait que seule l’évolution
+   permet de situer à la fois l’homme et les divers agents infectieux qui
+   sont en symbiose avec lui dans le contexte historique qui est le leur
+   [2]. Seule la connaissance de l’évolution et des différentes forces qui
+   l’ont assurée permet de comprendre comment interagissent les trois
+   partenaires du fait médical, à savoir l’environnement^2, le génotype
+   qui est la propriété de tout un chacun et le phénotype final qui, en
+   médecine, est le trait, le signe clinique [3]. Comme le souligne Nesse,
+   dans les facultés de médecine, l’évolution n’est pas enseignée comme
+   une discipline à part entière. Cette lacune affecte les pays
+   anglo-saxons, pour lesquels on pourrait invoquer la forte influence des
+   créationnistes, mais aussi des pays comme le nôtre où la même influence
+   est faible avec une portée plus large, comme le souligne Pascal Picq
+   [4].
+
+   Par nécessité, la politique de santé est souvent dirigée par
+   l’actualité. Elle ne repose habituellement pas sur une vue rationnelle
+   et globalisée de l’évolution de la santé publique telle qu’elle est
+   conduite par les changements environnementaux que nous subissons et qui
+   entrent souvent en conflit avec un génotype nettement plus stable^3.
+   Ces changements sont explosifs à l’échelle du temps biologique, même si
+   la perception que nous en avons est plus progressive. Le conflit entre
+   les deux paramètres définit la médecine évolutionniste [1, 3, 7, 8]
+   quoique de façon un peu inappropriée^4. Notre politique de santé paraît
+   souvent comme un patchwork déclenché : par de longues habitudes
+   largement éprouvées, comme la pratique de l’hygiène ; par des données
+   épidémiologiques solidement établies, comme la campagne
+   anti-sédentarité ; ou par des réactions rapides – dites de précaution –
+   d’actualité, comme celles, récentes, en réponse à la diffusion de
+   nouvelles souches virales. Il n’est évidemment pas question de remettre
+   en cause l’efficacité de cette manière d’agir, mais quelle en est la
+   cohérence scientifique ? Quel est le rationnel existant par exemple
+   entre les mutations des virus et la prévalence de l’obésité, et n’y
+   aurait-il pas une manière plus efficace de planifier le futur ?
+
+   Réconcilier la médecine avec l’évolution biologique dans ce qu’elle a
+   de plus darwinien (c’est-à-dire quand elle a trait à la pression
+   sélective et non au seul hasard) peut avoir un impact sur les
+   fondements scientifiques de la médecine [3]. En cette année où nous
+   venons de célébrer le 200^e anniversaire de Charles Darwin, regarder
+   l’évolution actuelle de la médecine au travers du prisme de la biologie
+   de l’évolution et en incluant les données fournies par l’histoire de la
+   vie est l’un des moyens de mieux anticiper l’évolution de la santé
+   publique [1, 3, 7, 8]. Ce n’est pas le seul, bien évidemment, mais cet
+   outil n’est jamais évoqué dans les sphères décisionnelles où il devrait
+   l’être.
+
+   Trois exemples illustrent cette manière nouvelle d’envisager le conflit
+   gène/environnement.
+
+La nouvelle infectiologie
+
+   L’émergence de nouvelles maladies infectieuses, qui fait en ce moment
+   la une de la grande presse, est un problème classique. Ces émergences,
+   l’évolution des résistances bactériennes, parasitaires et virales,
+   l’évolution de l’efficacité des vaccins, ne sont qu’une des
+   démonstrations que le processus évolutif est continu. Les traitements
+   anti-infectieux auxquels on doit les premiers bonds spectaculaires de
+   la durée de vie moyenne se doivent bien évidemment de suivre le
+   mouvement ; l’innovation thérapeutique doit précéder, ou tout au moins
+   suivre très vite, les conséquences phénotypiques de la sélection par
+   pression sélective (celles induites par les antibiotiques par exemple)
+   ou par le seul hasard (ce qui peut être le cas des nouvelles
+   infections) [9].
+
+   Les bactéries ne sont habituellement considérées que comme agents
+   pathogènes, et pour le médecin, bactéries, virus et parasites sont des
+   ennemis, et leur éradication est une priorité de l’acte médical et de
+   la recherche en pharmacologie et épidémiologie. Cette façon de voir les
+   choses est, bien évidemment, encore d’actualité, et il n’est pas
+   question de baisser les bras devant les grandes épidémies en cours ou à
+   venir, mais il existe une autre manière de considérer les bactéries :
+   les voir essentiellement comme des symbiontes. Considérer les bactéries
+   dans leurs aspects commensaux est en revanche une démarche récente
+   [10–12]. Les bactéries vivent en symbiose avec tous les êtres vivants^5
+   dont elles affectent le développement, le métabolisme [11], la
+   reproduction, la spéciation et surtout l’immunité [12], mais tous les
+   intermédiaires existent entre ce type de bactéries dites commensales et
+   les bactéries pathogènes.
+
+   Les bactéries du tube digestif jouent, par leur abondance (10^14), leur
+   plasticité et leurs propriétés, un rôle important de déterminant de la
+   « bonne forme » de l’individu. Leur activité pose au moins trois
+   questions. (1) Comment notre organisme les empêche-t-il de passer la
+   barrière épithéliale ? (2) Quelle est l’importance de leur rôle comme
+   complément métabolique ? (3) Quels sont les mécanismes déterminants qui
+   relient le microbiome à notre système immunitaire local et surtout
+   systémique ? La plus célèbre des symbioses est bien entendu celle qui
+   concerne notre estomac et Helicobacter pylori. Les recherches qui ont
+   fait suite à la découverte de cette bactérie illustrent bien la manière
+   dont ce type de symbiose peut être actuellement envisagé, puisqu’on en
+   connaît le mécanisme (le détecteur étant NOD1 [nucleotide-binding
+   oligomerization domain-containing protein 1] et le produit détecté issu
+   de la bactérie étant un peptidoglycane). Connaître l’évolution de cette
+   symbiose est indispensable pour donner une réponse aux questions
+   posées.
+
+Les infections, les maladies auto-immunes et allergiques
+
+   Le processus évolutif n’a, par définition, aucune finalité et on doit
+   considérer la politique de l’hygiène en tenant compte du dérèglement du
+   système immunitaire qu’elle ne peut manquer d’induire [13]. L’incidence
+   des infections et autres parasitoses est corrélée négativement avec
+   celle de l’asthme, des iléites (inflammation de la dernière partie de
+   l’intestin grêle) comme dans la maladie de Crohn, du diabète de type 1
+   et de bien d’autres maladies auto-immunes et allergiques. Le conflit
+   génotype/environnement est ici presque exemplaire. Le décryptage récent
+   des polymorphismes par analyse des GWA permet maintenant de connaître
+   les génotypes associés à ces affections communes, même si le mécanisme
+   qui lie le génotype et le nouvel environnement n’est pas encore connu
+   de façon précise. Il est certain que, dans ce domaine, il faut
+   réfléchir de manière moins unidirectionnelle qu’on ne le fait
+   actuellement. L’émergence de nouvelles infections posera-t-elle dans
+   l’avenir plus de problèmes que n’en pose déjà la disparition des
+   anciennes ? Rien de moins évident [14].
+
+Équilibre métabolique
+
+   La prévention de l’obésité et la promotion d’une activité physique
+   régulière sont déjà des objectifs de santé. Le retour à une balance
+   métabolique plus conforme à celle de nos ancêtres et à notre patrimoine
+   génétique, c’est-à-dire une alimentation moins excessive, plus riche en
+   fruits et légumes, plus pauvre en sel, et le retour à une activité
+   physique plus régulière sont en premier lieu des indicateurs des
+   limites métaboliques de notre capital génétique. Ces indicateurs
+   pourraient constituer le socle scientifique rationnel d’une politique
+   de santé. Ils doivent être recherchés dans notre passé, même lointain.
+   Là aussi l’analyse globale du génome fournit une impressionnante liste
+   de polymorphismes. Tout le monde est confronté à McDonald’s, mais seuls
+   les possesseurs de certains allèles à expression hypothalamique
+   deviennent obèses [15].
+
+   La déviation est clairement comportementale et porte essentiellement
+   sur l’appétit ou la satiété. Comprendre comment l’insuline et la
+   leptine peuvent induire des changements comportementaux culturels aussi
+   complexes et aussi intégrés que ceux liés à l’appétit et à la satiété
+   est un chapitre encore en plein développement. Il est bien d’autres
+   déviations : la dépense énergétique basale ou dépendante de l’exercice
+   physique, la thermogenèse, le niveau de plusieurs hormones et, dans une
+   moindre mesure, la régulation de la croissance et de la reproduction,
+   mais leur mise en jeu est encore peu documentée.
+
+   De très nombreux autres exemples peuvent être donnés. Sauf changement
+   radical, bien improbable, dans les politiques mondiales concernant les
+   émissions de gaz à effet de serre, on peut s’attendre à la fois à une
+   élévation moyenne de la température externe et un accroissement de la
+   fréquence et de la gravité des vagues de chaleur. Pour ces raisons, la
+   biologie de la thermogenèse comme la physiopathologie du choc thermique
+   deviendront rapidement des priorités [3]. Des exemples plus complexes
+   existent : le cancer considéré comme une forme accélérée de l’évolution
+   [16], l’athérosclérose considérée comme une maladie à la fois
+   métabolique et inflammatoire [17, 18] et l’histoire des gènes
+   contrôlant les métabolismes des médicaments [19].
+
+Conflit d’intérêts
+
+   L’auteur déclare n’avoir aucun conflit d’intérêts concernant les
+   données publiées dans cet article.
+   _____________________
+
+   ^1
+
+   Les bactéries commensales sont adaptées pour vivre des déchets qui se
+   trouvent à l’extérieur de nos tissus (comme la peau et les muqueuses de
+   la bouche, de la gorge et du reste du système digestif).
+   ^2
+
+   Environnement entendu au sens large du terme, ce qui inclut à la fois
+   le climat, la température externe, mais aussi le mode alimentaire, les
+   conditions sociales et économiques dans lesquelles nous vivons et les
+   différentes agressions virales, bactériennes et parasitaires avec
+   lesquelles nous devons coexister.
+   ^3
+
+   Même si cette stabilité est assez relative, le génotype humain porte en
+   effet la marque d’évolutions récentes [5], cette variabilité est
+   probablement plus importante si l’on veut considérer l’épigénome qui
+   est encore en cours de décryptage [6].
+   ^4
+
+   « Médecine darwinienne » sous-entend explicitement que le seul moteur
+   de l’évolution est la pression sélective. L’évolution est certes
+   conduite par la nécessité, mais elle l’est également par le hasard des
+   dérives génétiques. Le débat est au cœur de la biologie de l’évolution
+   en 2010, il est loin d’être simple et d’être clos.
+   ^5
+
+   Ce type de symbiose existe dans tout le règne animal, avec plusieurs
+   exemples qui ont été étudiés en détail comme le couple calmar/bactéries
+   vibrio fischeri, la bactérie étant responsable d’un avantage évolutif
+   majeur : la fluorescence du calmar.
+
+Références
+
+    1. Nesse RM, Bergstrom CT, Ellison PT, et al. Making evolutionary
+       biology a basic science for medicine. Proc Natl Acad Sci USA 2010;
+       107 (suppl. 1) : 1800–7. [Google Scholar]
+    2. Lecointre G. Guide critique de l’évolution. Paris : Belin, 2009.
+       [Google Scholar]
+    3. Swynghedauw B. Quand le gène est en conflit avec son environnement.
+       Une introduction à la médecine darwinienne. Bruxelles : De Boeck,
+       2009. [Google Scholar]
+    4. Picq P. Pour une nouvelle pédagogie des sciences de la vie et de la
+       terre. Débats, horizons. Le Monde, 20 décembre 2009, p. 19.
+       [Google Scholar]
+    5. Hawks J, Wang ET, Cochran GM, et al. Recent acceleration of human
+       adaptive evolution. Proc Natl Acad Sci USA 2007; 52 : 20753–8.
+       [Google Scholar]
+    6. Lister R, Pelizzola M, Dowen RH, et al. Human DNA methylomes at
+       base resolution show widespread epigenomic differences. Nature
+       2009; 462 : 15–322. [Google Scholar]
+    7. Stearns SC, Koella JC. Evolution in health and disease, 2^e ed.
+       Oxford (UK) : Oxford University Press, 2007. [Google Scholar]
+    8. Gluckman P, Beedle A, Hanson M. Principles of evolutionary
+       medicine. Oxford (UK) : Oxford University Press, 2009.
+       [Google Scholar]
+    9. Guégan JF, Choisy M. Introduction à l’épidémiologie intégrative des
+       maladies infectieuses et parasitaires. Bruxelles : De Boeck, 2009.
+       [Google Scholar]
+   10. Sansonetti PJ. War and peace at mucosal surfaces. Nat Rev Immunol
+       2004; 4 : 953–64. [Google Scholar]
+   11. Delzenne NM, Cani PD. Implication de la flore intestinale dans le
+       métabolisme énergétique. Med Sci (Paris) 2008; 24 : 505–10.
+       [Google Scholar]
+   12. Villani AC, Franchimont D. La reconnaissance des bactéries de la
+       flore intestinale. Un important facteur de risque pour la maladie
+       de Crohn. Med Sci (Paris) 2010; 26 : 36–27. [Google Scholar]
+   13. Bach JF. The effect of infections on susceptibility to autoimmune
+       and allergic diseases. N Engl J Med 2002; 347 : 911–20.
+       [Google Scholar]
+   14. Yazdanbakhsh M, Kremaner PG, van Ree R. Allergy, parasites, and the
+       hygiene hypothesis. Science 2002; 296 : 490–4. [Google Scholar]
+   15. O’Rahilly S. Human genetics illuminates the paths to metabolic
+       disease. Nature 2009; 462 : 307–14. [Google Scholar]
+   16. Stratton MR, Campbell PJ, Futreal A. The cancer genome. Nature
+       2009; 458 : 719–24. [Google Scholar]
+   17. Steinberg D. Atherogenesis in perspective: hypercholesterolemia and
+       inflammation as partners in crime. Nat Med 2002; 8 : 1211–7.
+       [Google Scholar]
+   18. Varthaman A, Khallou-Laschet J, Thaunat O, et al. L’athérogenèse.
+       Une maladie immunitaire. Med Sci (Paris) 2008; 24 : 169–75.
+       [Google Scholar]
+   19. Nebert DW. Polymorphisms in drug-metabolizing enzymes: what is
+       their clinical relevance and why do they exist ? Am J Hum Genet
+       1997; 60 : 265–71. [Google Scholar]
+
+   © 2010 médecine/sciences - Inserm / SRMS
+   (BUTTON) Current usage metrics (BUTTON) About article metrics (BUTTON)
+   Return to article
+
+   Current usage metrics show cumulative count of Article Views (full-text
+   article views including HTML views, PDF and ePub downloads, according
+   to the available data) and Abstracts Views on Vision4Press platform.
+
+   Data correspond to usage on the plateform after 2015. The current usage
+   metrics is available 48-96 hours after online publication and is
+   updated daily on week days.
+
+   Initial download of the metrics may take a while.
+   Homepage
+   Table of Contents
+   Previous articleNext article
+
+Article contents
+
+     * Abstract
+     * Full HTML
+     * PDF (59.69 KB)
+     * References
+
+Database links
+
+     * PubMed Record
+
+Metrics
+
+     * Show article metrics
+
+Services
+
+     * Articles citing this article
+       CrossRef (2)
+     * Same authors
+       - Google Scholar
+       - EDP Sciences database
+       - PubMed
+     * Recommend this article
+     * Send to my Kindle
+     * Download citation
+
+Related Articles
+
+   Quand le gène est en conflit avec son environnement — Une introduction
+   à la médecine darwinienne (Bernard Swynghedauw)
+   Med Sci (Paris) 2010 ; 26 : 433–434
+   Fæces vivos docent — Microbiome intestinal ancien et problématiques
+   médicales contemporaines
+   Med Sci (Paris) 2017 ; 33 : 984–990
+   Des communautés de phages divergentes contrôlent-elles la microflore
+   intestinale ?
+   Med Sci (Paris) 2011 ; 27 : 229–231
+   Les enjeux médicaux et sociétaux du microbiote
+   Med Sci (Paris) 2016 ; 32 : 1003–1008
+   Les défis du microbiote
+   Med Sci (Paris) 2016 ; 32 : 919–920
+   (BUTTON) More
+
+Bookmarking
+
      *
-     * Statistiques et études
-       Cherchez vos statistiques par…
-          + Thèmes
-               o Économie - conjoncture - comptes nationaux
-               o Démographie
-               o Entreprises
-               o Plus de thèmes…
-          + Niveaux géographiques
-               o France
-               o Toutes les régions ou tous les départements
-               o Toutes les communes
-               o Plus de niveaux géographiques…
-          + Catégories
-               o Données
-               o Publications
-               o Plus de catégories…
-          + Collections
-               o Insee Première
-               o Notes et points de conjoncture
-               o Plus de collections…
-     * Définitions, méthodes et qualité
-          + Définitions
-               o Toutes les définitions des concepts
-          + Sources statistiques et indicateurs
-               o Liste des sources statistiques
-               o Liste des indicateurs
-               o Documentation complémentaire sur le recensement
-          + La qualité dans le Service statistique public (SSP)
-               o Le cadre de référence
-               o La gouvernance
-               o La politique et la stratégie qualité du SSP
-               o Les engagements européens
-          + Nomenclatures
-               o Nomenclature d’activités française
-               o Nomenclature agrégée - NA, 2008
-               o Classification des produits française
-               o Classification des fonctions de consommation des ménages
-               o Catégories juridiques
-               o Nomenclatures des professions et catégories
-                 socioprofessionnelles
-          + Géographie administrative et d'étude
-               o Recherche sur une zone géographique
-               o Historique des communes
-               o Téléchargement
-               o Communes nouvelles
-               o Codification des collectivités et territoires français
-                 d’outre-mer
-               o Codification des pays et territoires étrangers
-               o Collectivités territoriales à statut particulier
-          + Modèles, méthodes et outils statistiques
-               o Les modèles statistiques
-               o Les outils statistiques
-               o Méthodologie statistique
-          + Courrier des statistiques
-          + Open Data, données RDF et espace XML
-               o Diffusion des bases de données
-               o Utilisation des formats de diffusion
-               o Catalogue des API de l'Insee
-     * Services
-          + Réviser une pension, un loyer, bail ou contrat
-               o Réviser une pension alimentaire
-               o Réviser un loyer d'habitation
-               o Réviser un bail commercial ou professionnel
-               o Indexer un contrat
-               o Convertisseur franc-euro
-          + Consulter les indices et séries chronologiques
-               o Recherche d'indices et de séries chronologiques
-               o Utilisation du service web SDMX
-               o Tables de passage
-               o Historique des actualités
-          + Sirene
-               o Obtenir un avis de situation au répertoire Sirene
-               o Demander la modification de son statut de diffusion
-               o Demander la modification du code APE
-               o Immatriculation, cessation ou modification des données au
-                 répertoire Sirene
-               o Obtenir sa catégorie d'entreprise
-               o Consulter et télécharger la base Sirene
-               o Identifiant unique des intervenants sur les marchés
-                 financiers (LEI)
-               o Demander son habilitation ProConnect
-               o Foire aux questions sur le répertoire Sirene
-               o Réponses à vos questions sur le répertoire Sirene
-          + Découvrir, apprendre, enseigner
-          + Répondre à une enquête de l'Insee
-               o Enquêtes auprès des particuliers
-               o Enquêtes auprès des entreprises
-               o Vrai ou faux enquêteur de l’Insee, fraude, malveillance :
-                 comment vérifier ?
-          + Consulter les agendas de diffusion
-               o Agenda des indicateurs
-               o Agenda des publications
-               o Publications les plus récentes
-               o Évènements annoncés à la Une du site
-          + Gérer les répertoires des personnes physiques
-               o Recueil des données d'état civil
-               o Le Répertoire électoral unique
-               o Dématérialisation des échanges de données
-               o Nombre de décès quotidiens par département
-               o Fichiers des personnes décédées depuis 1970
-          + Bibliothèque de l’Insee Alain Desrosières
-               o Portail documentaire et catalogue
-               o La Bibliothèque numérique de la statistique publique
-               o Contacter la bibliothèque
-          + Commander une prestation, acheter une publication
-               o Diffusion sur mesure
-               o Acheter nos publications
-          + Nous suivre
-               o Lettres d'information
-               o Abonnements aux lettres d'information et aux avis
-                 de parution
-               o Abonnement aux flux RSS
-               o L'Insee sur les médias sociaux
-               o Insee Mobile
-          + Aide
-               o Réponses à vos questions sur le répertoire Sirene
-               o Réponses à vos questions
-               o L’Insee est accessible aux personnes malentendantes ou
-                 sourdes avec Acceo
-          + Espace presse
-               o Événements presse
-               o Calendrier des publications
-               o Communiqués de presse nationaux
-               o Communiqués de presse régionaux
-     * L'Insee et la statistique publique
-          + L'Insee
-               o Connaître l'Insee
-               o Travailler à l'Insee
-               o Colloques, séminaires et salons
-               o Un peu d'histoire
-               o Rapports d'activité
-          + Les activités de l'Insee
-               o Suivre l’économie française
-               o Connaître les entreprises
-               o Observer l'évolution de la société
-               o Réaliser le recensement de la population
-               o Décrire et analyser les régions et les territoires
-               o Gérer des grands répertoires
-               o Diffuser et valoriser ses productions
-               o Perfectionner ses méthodes et évaluer la qualité
-               o Contribuer à la construction de la statistique européenne
-                 et internationale
-          + La statistique publique
-               o Cadre juridique et institutionnel
-               o Le service statistique public
-               o Secret statistique
-               o Protection des données personnelles
-               o Accès aux données publiques
-               o Accès aux documents administratifs
-          + La construction de la statistique européenne
-               o Les producteurs de statistiques européennes en France
-               o Textes juridiques de la gouvernance
-                 statistique européenne
-               o Les règlements cadres et sectoriels
-          + Mesure de la qualité de service
-               o Les indicateurs de qualité du programme Transparence
-               o Résultats des enquêtes de satisfaction
-          + Services publics+ : un service public plus proche, plus
-            simple, plus efficace
-
-    1. Accueil
-    2. Statistiques et études
-    3. Tableaux de l'économie française
-
-Tableaux de l'économie française Édition 2020
-
-   Les Tableaux de l'économie française s'adressent à tous ceux qui
-   souhaitent disposer d'un aperçu rapide et actuel sur la situation
-   économique, démographique et sociale de la France.
-   Insee Références
-   Paru le :Paru le27/02/2020
-   Découvrir la collection
-   Version imprimable
-   (pdf, 8 Mo)
-   Tableaux de l'Économie Française- Février 2020
-
-   Retrouvez ces informations actualisées en continu dans le Tableau de
-   bord de l’économie française.
-     * Présentation
-
-   Consulter
-   Sommaire
-   false
+     *
+     *
+     *
      *
 
-Territoire – Population
-          +
+     * Reader's services
+     * Email-alert
 
-Territoire
-               o Pays du Monde
-               o Union européenne
-               o Régions – Départements
-               o Villes et communes de France
-          +
+médecine/sciences
 
-Développement durable
-               o Environnement
-               o Utilisation des ressources
-               o Changement climatique et effet de serre
-          +
-
-Population
-               o Évolution de la population
-               o Population par âge
-               o Mariages – Pacs – Divorces
-               o Ménages – Familles
-               o Natalité – Fécondité
-               o Espérance de vie – Mortalité
-               o Étrangers – Immigrés
-               o Femmes et hommes
+   Chief editor: Jean-Luc Teillaud - Deputy-chief editor: Thierry Jouault
+   Chief copy editor: François Flori - Associate editor: Jean-Pierre
+   Hardelin - Editorial board
+   ISSN: 0767-0974 - eISSN: 1958-5381
+   © médecine/sciences - Inserm
+   All rights reserved
+     *
+     *
+     *
      *
 
-Emploi – Revenus
-          +
-
-Travail – Emploi
-               o Population active
-               o Chômage
-               o Politiques d'emploi
-               o Durée et organisation du temps de travail
-               o Emploi de la fonction publique
-               o Emploi par âge
-               o Emploi par activité
-          +
-
-Revenus – Salaires
-               o Salaires dans les entreprises
-               o Salaires dans la fonction publique
-               o Salaire minimum – Coût du travail
-               o Revenus des ménages
-               o Niveaux de vie – Pauvreté
-               o Retraites
-               o Protection et aide sociale
-     *
-
-Conditions de vie – Société
-          +
-
-Consommation
-               o Consommation des ménages
-               o Équipement des ménages
-               o Multimédias
-               o Culture-Loisirs-Sports
-          +
-
-Logement
-               o Logement
-               o Propriétaires – Locataires
-          +
-
-Justice
-               o Criminalité – Délinquance
-               o Justice
-          +
-
-Santé – Handicap – Dépendance
-               o Maladies – Accidents
-               o Personnels et équipements de santé
-               o Dépenses de santé
-               o Personnes handicapées
-               o Personnes âgées dépendantes
-          +
-
-Enseignement – Éducation
-               o Élèves et établissements des 1ᵉʳ et 2ⁿᵈ degrés
-               o Enseignement supérieur
-               o Investissement dans l'éducation
-               o Niveaux de formation
-     *
-
-Économie – Finances
-          +
-
-Économie générale
-               o Principaux indicateurs économiques
-               o Croissance – Productivité
-               o Production des branches
-               o Prix à la consommation
-               o Indicateurs de richesse nationale
-          +
-
-Monnaie – Marchés financiers
-               o Monnaie – Crédit
-               o Épargne – Patrimoine
-               o Bourse – Marchés financiers
-          +
-
-Finances publiques
-               o Dette et déficit publics
-               o Prélèvements obligatoires
-               o Dépense publique
-               o Finances publiques locales
-               o Union monétaire européenne
-          +
-
-Échanges extérieurs
-               o Importations – Exportations
-               o Solde des échanges extérieurs
-               o Échanges bilatéraux
-               o Investissements internationaux
-     *
-
-Système productif
-          +
-
-Entreprises
-               o Démographie des sociétés et des EI
-               o Caractéristiques des entreprises
-               o Catégories d'entreprises
-               o Entreprises publiques
-               o Artisanat
-          +
-
-Recherche – Innovation
-               o Recherche & Développement
-               o Innovation
-          +
-
-Agriculture – Pêche
-               o Production et valeur ajoutée agricoles
-               o Exploitations agricoles
-               o Pêche – Aquaculture
-          +
-
-Industrie – Construction
-               o Industrie
-               o Industrie agroalimentaire
-               o Industrie automobile
-               o Construction
-          +
-
-Énergie
-               o Bilan énergétique
-               o Pétrole – Charbon
-               o Électricité – Gaz naturel
-          +
-
-Commerce – Services
-               o Commerce
-               o Services marchands
-               o Banques – Assurances
-               o Communication
-               o Audiovisuel
-               o Tourisme
-               o Transports de voyageurs
-               o Transports de marchandises
-
-   (BUTTON) SOMMAIRE
-   (BUTTON)
-   (BUTTON)
-   (BUTTON) CONTENU
-
-Industrie agroalimentaire
-
-   Insee Références
-
-   Paru le :27/02/2020
-   Version imprimable
-   (pdf, 424 Ko)
-   Données
-   (xlsx, 13 Ko)
-     * Consulter
-     * Documentation
-
-   Consultation de la publication ou de la documentation qui lui est
-   associée [Consulter____]
-   Sommaire
-    1. Présentation
-    2. Tableaux et graphiques
-
-Présentation
-
-   En 2018, la production en volume de la branche de l’ industrie
-   agroalimentaire (IAA) recule (– 0,8 %) tandis que l’industrie
-   manufacturière continue de progresser (+ 0,5 %). Malgré la hausse de la
-   fabrication de boissons (+ 1,8 %), l’activité des IAA est tirée à la
-   baisse par celle des produits alimentaires (– 1,1 %). Le repli
-   s’inscrit dans un contexte de perte de dynamisme de cette filière
-   depuis 2011.
-
-   Ainsi, la production de produits laitiers est particulièrement affectée
-   par la baisse de la consommation en lait, fromage et produits ultra
-   frais et par des stocks européens importants de poudre de lait. La
-   production industrielle des produits à base de fruits et légumes
-   décroît après la forte hausse de 2017. Il en est de même des autres
-   produits alimentaires en lien avec, d’une part, le repli des cacao,
-   chocolat et produits de confiserie et, d’autre part, l’incidence de la
-   contamination de la poudre infantile à la salmonelle.
-
-   À l’inverse, la production de viandes et produits à base de viandes se
-   redresse surtout grâce à la filière aviaire après deux années de
-   pandémie de grippe aviaire. La transformation et conservation de
-   poissons bénéficie d’une demande mondiale porteuse. La hausse des
-   boissons résulte des eaux de table, bières et boissons alcooliques
-   distillées alors même que la production de champagne recule. Enfin, la
-   fabrication d’aliments pour animaux, et plus particulièrement d’animaux
-   de ferme, profite du manque de fourrage lié à la sécheresse estivale.
-
-   Les produits agroalimentaires sont consommés majoritairement par les
-   ménages, suivis par les consommations intermédiaires et les
-   exportations. En 2018, la consommation effective des ménages décroît
-   (– 1,0 %), après trois années consécutives de hausse. En particulier,
-   les ménages consomment moins de produits à base de tabac et de viandes
-   et produits à base de viandes. Quant aux consommations intermédiaires
-   qui fournissent principalement l’industrie alimentaire, elles demeurent
-   en hausse (+ 0,8 %).
-
-   En 2018, l’excédent commercial en produits agroalimentaires se
-   détériore (5,9 milliards d’euros après 6,2 milliards en 2017) et
-   traduit le décrochage des positions de la France en Europe. La
-   progression des importations dans cette zone (+ 1,5 %) est supérieure à
-   celle des exportations (+ 0,2 %) alors que vers les marchés des pays
-   tiers, les évolutions sont respectivement de – 0,6 % et + 0,4 %.
-
-   La dégradation du solde des échanges de viandes et produits à base de
-   viandes, produits laitiers et autres produits alimentaires est
-   toutefois compensée par la hausse de l’excédent des boissons, la baisse
-   des importations de produits à base de tabac et la réduction du déficit
-   des préparations à base de poissons, des huiles et graisses végétales
-   et animales et des produits issus de la boulangerie et pâtes
-   alimentaires.
-
-Tableaux et graphiques
-
-tableauFigure 1 – Évolution de la production des industries alimentaires, de
-boissons et du tabac
-
-   CAPTION: Évolution de la production des industries alimentaires, de
-   boissons et du tabac
-
-   Production en millions d'euros Évolution 18/17 en %
-   2017 valeur 2018 volume Indice valeur Indice volume Indice prix
-   Transform. & conserv. viande & préparation prod. à base de viande
-   32 077 32 567 0,1 1,5 -1,4
-   Transform. & conserv. poisson, crustacés & mollusques 3 736 3 858 1,1
-   3,3 -2,1
-   Transformation et conservation de fruits et légumes 6 676 6 416 -3,1
-   -3,9 0,8
-   Fabrication d’huiles et graisses végétales et animales 5 098 4 987 -5,0
-   -2,2 -2,9
-   Fabrication de produits laitiers 25 859 24 972 -3,0 -3,4 0,4
-   Travail des grains ; fabrication de produits amylacés 5 860 5 778 -1,8
-   -1,4 -0,5
-   Fabrication produits boulangerie-pâtisserie & pâtes alimentaires 26 931
-   26 672 0,4 -1,0 1,3
-   Fabrication d'autres produits alimentaires 20 459 19 792 -6,3 -3,3 -3,1
-   Fabrication d'aliments pour animaux 10 199 10 291 1,5 0,9 0,6
-   Fabrication de boissons 20 425 20 798 1,5 1,8 -0,3
-   Fabrication de produits à base de tabac 250 252 6,8 0,7 6,1
-   Total 157 570 156 384 -1,3 -0,8 -0,5
-     * Source : Insee, comptes nationaux, base 2014.
-
-     * Graphique
-     * Tableau
-
-   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
-   graphique[Graphique -Commerce extérieur des produits agroalimentaires de
-    2000 à 202018]
-
-tableauFigure 2 – Commerce extérieur des produits agroalimentaires de 2000 à
-2018
-
-   en milliards d'euros
-
-   CAPTION: Commerce extérieur des produits agroalimentaires de 2000 à
-   2018 (en milliards d'euros)
-
-        Exportations (Fab) Importations (Caf) Solde (Caf - Fab)
-   2000 28,1               20,9               7,2
-   2001 28,4               22,1               6,2
-   2002 29,3               22,7               6,5
-   2003 29,2               22,6               6,6
-   2004 29,5               23,4               6,1
-   2005 30,4               24,2               6,2
-   2006 33,0               25,8               7,1
-   2007 35,1               28,1               7,0
-   2008 36,9               31,1               5,8
-   2009 33,6               29,6               4,0
-   2010 37,0               30,9               6,1
-   2011 42,0               34,8               7,2
-   2012 43,3               36,1               7,2
-   2013 44,3               37,5               6,7
-   2014 43,9               37,8               6,1
-   2015 45,3               38,7               6,6
-   2016 45,3               39,6               5,7
-   2017 48,3               42,1               6,2
-   2018 48,4               42,5               5,9
-     * Source : Insee, comptes nationaux, base 2014.
-
-graphiqueFigure 2 – Commerce extérieur des produits agroalimentaires de 2000
-à 2018
-
-     * Source : Insee, comptes nationaux, base 2014.
-
-tableauFigure 3 – Solde du commerce extérieur des produits agroalimentaires
-selon l'origine et la destination en 2018
-
-   en millions d'euros
-
-   CAPTION: Solde du commerce extérieur des produits agroalimentaires
-   selon l'origine et la destination en 2018 (en millions d'euros)
-
-                                                            UE   Hors UE Total
-                     Exportations (Fab)                   29 203 19 179  48 382
-                     Importations (Caf)                   32 394 10 095  42 489
-                      Solde (Caf-Fab)                     -3 191 9 084   5 893
-   Solde des échanges par secteur d'activité (NAF rév. 2)
-        Transform. & conserv. viande & prép. viande       -1 909 572     -1 337
-        Transform. & conserv. poisson, crust., etc.       -830   -2 442  -3 272
-        Transform. et conserv. de fruits et légumes       -2 376 -625    -3 001
-        Fab. huiles et graisses végétales & animales      -1 029 -1 195  -2 224
-              Fabrication de produits laitiers            514    1 970   2 484
-         Travail des grains ; fab. prdts. amylacés        735    115     850
-           Fab. prdts. boulangerie-pâtis. & pâtes         -623   407     -216
-             Fab. autres produits alimentaires            60     295     355
-            Fabrication d'aliments pour animaux           511    619     1 130
-                  Fabrication de boissons                 3 263  9 365   12 628
-          Fabrication de produits à base de tabac         -1 507 3       -1 504
-     * Source : Insee, comptes nationaux, base 2014.
-
-     * Graphique
-     * Tableau
-
-   Affichage de l’onglet contenant le tableau ou de l’onglet contenant le
-   phique -Valeur ajoutée de l'industre de l'industrie agroalimentaire dans
-    quelques pays de l’Union européenne]
-
-tableauFigure 4 – Valeur ajoutée de l'industrie agroalimentaire dans quelques
-pays de l’Union européenne
-
-   en milliards d’euros courants
-
-   CAPTION: Valeur ajoutée de l'industrie agroalimentaire dans quelques
-   pays de l’Union européenne (en milliards d’euros courants)
-
-                 2000 2017
-     Allemagne   36   46
-       France    34   44
-   Royaume-Uni^1 34   33
-       Italie    22   28
-      Espagne    15   26
-     * 1. Donnée 2016.
-     * Source : Eurostat (extraction du 4 octobre 2019).
-
-graphiqueFigure 4 – Valeur ajoutée de l'industrie agroalimentaire dans
-quelques pays de l’Union européenne
-
-     * 1. Donnée 2016.
-     * Source : Eurostat (extraction du 4 octobre 2019).
-
-Avertissement
-
-   Sauf mention contraire, les données nationales se réfèrent à la France
-   métropolitaine et aux cinq départements d’outre-mer (sauf mention
-   contraire Mayotte est inclus dans les données de la France).
-
-   Les données chiffrées sont parfois arrondies (selon les règles
-   mathématiques). Le résultat arrondi d’une combinaison de données
-   chiffrées (qui fait intervenir leurs valeurs réelles) peut se trouver
-   légèrement différent de celui que donnerait la combinaison de leurs
-   valeurs arrondies.
-
-   Les comparaisons internationales s’appuient en général sur les données
-   issues d’organismes internationaux (Eurostat, ONU, etc.) qui peuvent
-   diverger des sources produites par les instituts nationaux de
-   statistiques, notamment pour l’Insee, pour les données françaises. En
-   effet, ces organismes effectuent souvent des ajustements de champ ou de
-   méthode, d’ampleur souvent réduite, afin de produire des données
-   comparables d’un pays à l’autre.
-
-   Sauf précision contraire, les indicateurs relatifs à l’Union européenne
-   (UE) figurant dans cet ouvrage portent sur l’UE à 28.
-
-Définitions
-
-   Production (au sens de la comptabilité nationale) : activité exercée
-   sous le contrôle et la responsabilité d'une unité institutionnelle qui
-   combine des ressources en main-d'œuvre, capital et biens et services
-   pour fabriquer des biens ou fournir des services, et résultat de cette
-   activité. Les processus purement naturels sans intervention ou contrôle
-   humain ne font pas partie de la production.
-
-   Branche d’activité : regroupe des unités de production homogènes,
-   c'est-à-dire qui fabriquent des produits (ou produisent des services)
-   qui appartiennent au même item de la nomenclature d'activité économique
-   considérée. Au contraire, un secteur regroupe des entreprises classées
-   selon leur activité principale.
-
-   Industries agroalimentaires (IAA) : correspondent aux divisions 10, 11
-   et 12 de la nomenclature NAF rév. 2. Les données prennent en compte
-   l'artisanat commercial.
-
-   Consommation intermédiaire : valeur des biens et services transformés
-   ou entièrement consommés au cours du processus de production. L’usure
-   des actifs fixes mis en oeuvre n’est pas prise en compte ; elle est
-   enregistrée dans la consommation de capital fixe.
-
-   Consommation effective des ménages : inclut tous les biens et services
-   acquis par les ménages résidents pour la satisfaction de leurs besoins,
-   que ces acquisitions aient fait ou non l'objet d'une dépense de leur
-   part. La consommation effective des ménages comprend donc, en plus des
-   biens et des services acquis par leurs propres dépenses de consommation
-   finale, les biens et les services qui, ayant fait l'objet de dépenses
-   de consommation individuelle des administrations publiques ou des
-   ISBLSM, donnent lieu à des transferts sociaux en nature de leur part
-   vers les ménages.
-
-   Fab (franco à bord) : prix d’un bien à la frontière du pays exportateur
-   ou prix d’un service fourni à un non-résident. Il comprend la valeur
-   des biens ou des services au prix de base, des services de transport et
-   de distribution jusqu’à la frontière, les impôts moins les subventions.
-
-   Caf (coût, assurance, fret) : prix d’un bien à la frontière du pays
-   importateur ou prix d’un service fourni à un résident avant
-   acquittement de tous les impôts et droits sur les importations et
-   paiement de toutes les marges commerciales et de transport dans le
-   pays.
-
-   Secteur d’activité : regroupe des entreprises de fabrication, commerce
-   ou service qui ont la même activité principale (au regard de la
-   nomenclature d’activité économique considérée). L'activité d'un secteur
-   n'est donc pas tout à fait homogène et comprend des productions ou
-   services secondaires qui relèveraient d'autres items de la nomenclature
-   que celui du secteur considéré. Au contraire, une branche regroupe des
-   unités de production homogènes.
-
-Pour en savoir plus
-
-   « Les entreprises en France », Insee Références, édition 2019.
-
-   Ouvrir dans un nouvel onglet « Productions commercialisées des
-   industries agroalimentaires 2018 », Agreste Chiffres et données n° 10,
-   juillet 2019.
-
-   « L’économie française », Insee Références, édition 2019.
-
-   Ouvrir dans un nouvel onglet « L’innovation dans les entreprises
-   agroalimentaires », Agreste Les Dossiers n° 3, juin 2019.
-
-Définitions
-
-   Production (au sens de la comptabilité nationale) : activité exercée
-   sous le contrôle et la responsabilité d'une unité institutionnelle qui
-   combine des ressources en main-d'œuvre, capital et biens et services
-   pour fabriquer des biens ou fournir des services, et résultat de cette
-   activité. Les processus purement naturels sans intervention ou contrôle
-   humain ne font pas partie de la production.
-
-   Branche d’activité : regroupe des unités de production homogènes,
-   c'est-à-dire qui fabriquent des produits (ou produisent des services)
-   qui appartiennent au même item de la nomenclature d'activité économique
-   considérée. Au contraire, un secteur regroupe des entreprises classées
-   selon leur activité principale.
-
-   Industries agroalimentaires (IAA) : correspondent aux divisions 10, 11
-   et 12 de la nomenclature NAF rév. 2. Les données prennent en compte
-   l'artisanat commercial.
-
-   Consommation intermédiaire : valeur des biens et services transformés
-   ou entièrement consommés au cours du processus de production. L’usure
-   des actifs fixes mis en oeuvre n’est pas prise en compte ; elle est
-   enregistrée dans la consommation de capital fixe.
-
-   Consommation effective des ménages : inclut tous les biens et services
-   acquis par les ménages résidents pour la satisfaction de leurs besoins,
-   que ces acquisitions aient fait ou non l'objet d'une dépense de leur
-   part. La consommation effective des ménages comprend donc, en plus des
-   biens et des services acquis par leurs propres dépenses de consommation
-   finale, les biens et les services qui, ayant fait l'objet de dépenses
-   de consommation individuelle des administrations publiques ou des
-   ISBLSM, donnent lieu à des transferts sociaux en nature de leur part
-   vers les ménages.
-
-   Fab (franco à bord) : prix d’un bien à la frontière du pays exportateur
-   ou prix d’un service fourni à un non-résident. Il comprend la valeur
-   des biens ou des services au prix de base, des services de transport et
-   de distribution jusqu’à la frontière, les impôts moins les subventions.
-
-   Caf (coût, assurance, fret) : prix d’un bien à la frontière du pays
-   importateur ou prix d’un service fourni à un résident avant
-   acquittement de tous les impôts et droits sur les importations et
-   paiement de toutes les marges commerciales et de transport dans le
-   pays.
-
-   Secteur d’activité : regroupe des entreprises de fabrication, commerce
-   ou service qui ont la même activité principale (au regard de la
-   nomenclature d’activité économique considérée). L'activité d'un secteur
-   n'est donc pas tout à fait homogène et comprend des productions ou
-   services secondaires qui relèveraient d'autres items de la nomenclature
-   que celui du secteur considéré. Au contraire, une branche regroupe des
-   unités de production homogènes.
-
-     * Nos sites partenaires
-
-     * Système Statistique Européen
-     * Apprendre avec les données de l'Insee
-     * Réseau Quetelet
-     * Centre d'Accès Sécurisé Distant aux données (CASD)
-     * site data.gouv
-     * Services Publics +
-
-Abonnez-vous
-
-   Avis de parution
-
-Nous suivre
-
-Contact
-
-   Aide et contact
-     * Statistiques et études
-     * Définitions, méthodes et qualité
-          + Définitions
-          + Sources statistiques et indicateurs
-          + La qualité dans le Service statistique public (SSP)
-          + Nomenclatures
-          + Géographie administrative et d'étude
-          + Modèles, méthodes et outils statistiques
-          + Courrier des statistiques
-          + Open Data, données RDF et espace XML
-     * Services
-          + Réviser une pension, un loyer, bail ou contrat
-          + Consulter les indices et séries chronologiques
-          + Sirene
-          + Découvrir, apprendre, enseigner
-          + Répondre à une enquête de l'Insee
-          + Consulter les agendas de diffusion
-          + Gérer les répertoires des personnes physiques
-          + Bibliothèque de l’Insee Alain Desrosières
-          + Commander une prestation, acheter une publication
-          + Nous suivre
-          + Aide
-          + Espace presse
-     * L'Insee et la statistique publique
-          + L'Insee
-          + Les activités de l'Insee
-          + La statistique publique
-          + La construction de la statistique européenne
-          + Mesure de la qualité de service
-          + Services publics+ : un service public plus proche, plus
-            simple, plus efficace
-
-     * Système Statistique Européen
-     * Apprendre avec les données de l'Insee
-     * Réseau Quetelet
-     * Centre d'Accès Sécurisé Distant aux données (CASD)
-     * site data.gouv
-     * Services Publics +
-
-     * Mentions légales et crédits
-     * Conditions d'utilisation de nos données
-     * Accessibilité : partiellement conforme
-     * Accès sourds et malentendants
-     * Sécurité
-     * Plan du site
-
-   Haut de page
+   EDP Sciences
+     * Mentions légales
+     * Advertisers information
+     * Contact us
+     * Privacy policy
+
+   A Vision4Press website

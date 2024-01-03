@@ -1,474 +1,995 @@
-   EDP Sciences logo
-     * Journals
-     * Books
-     * Conferences
+   #RSS alternate alternate alternate alternate alternate alternate
+   Contents Préface. Les moteurs immobiles de la mobilité Celui qui court
+   plus vite avance-t-il davantage ? Vitesse, mobilité et inégalités
+   sociales Introduction RDF Bibliontology Search on OpenEdition
 
-   0
-     * English (UK)
-     * Français (FR)
+   Version classiqueVersion mobile
+   Presses universitaires de Rennes
 
-   Subscriber Authentication Point
-     * Sign in with login/password
-     * Your subscription
+Presses universitaires de Rennes
 
-   EDPS Account
-     * Login
+     * Accueil
+     * Histoire
+     * Bretagne
+     * Géographie sociale
+     * Interférences
 
-   médecine/sciences
-     * All issues
-     * Thematic issues
-     * Special edition
-     * Series
+   OpenEdition Books Presses universitaires de Rennes Histoire De
+   l'histoire des transports à l'... La révolution des transports et l...
+   Celui qui court plus vite avance-t-il davantage ? Vitesse, mobilité...
+   Introduction
 
-   Search
-   Menu
-     * Browse
-          + All issues
-          + Thematic issues
-          + Special edition
-          + m/s series
-          + m/s videos
-     * About m/s
-          + History
-          + Aims and Scope
-          + Editorial team and Scientific board
-          + Permission to reuse
-          + Indexed in
-          + Hosted and distributed by
-     * Author information
-          + Instruction for authors
-          + Online submission
-          + Copyright transfer
-     * Reader's services
-     * Subscriber information
+De l'histoire des transports à l'histoire de la mobilité ?
 
-   ____________________ (search)
-   Advanced Search
-   Home All issues Volume 26 / No 5 (Mai 2010) Med Sci (Paris), 26 5
-   (2010) 526-528 Full HTML
-     * Browse
-          + All issues
-          + Thematic issues
-          + Special edition
-          + m/s series
-          + m/s videos
-     * About m/s
-          + History
-          + Aims and Scope
-          + Editorial team and Scientific board
-          + Permission to reuse
-          + Indexed in
-          + Hosted and distributed by
-     * Author information
-          + Instruction for authors
-          + Online submission
-          + Copyright transfer
-     * Reader's services
-     * Subscriber information
+    |
+   Vincent Guigueno
+   ,
+   Mathieu Flonneau
 
-   Free Access
-        Issue
-   Med Sci (Paris)
-   Volume 26, Number 5, Mai 2010
-       Page(s)      526 - 528
-       Section      Repères
-         DOI        https://doi.org/10.1051/medsci/2010265526
-   Published online 15 May 2010
-     * Haut de page
-     * La nouvelle infectiologie
-     * Les infections, les maladies auto-immunes et allergiques
-     * Équilibre métabolique
-     * Conflit d’intérêts
-     * Références
+Deuxième partie. Rythmes, vitesses et mobilités
 
-   Med Sci (Paris) 2010 ; 26 : 526–528
+   La révolution des transports et l’accélération de la France (1770-1870)
+   Rechercher dans le livre ____________________ OK
+   Table des matières
+   Citer Partager
+   Cité par
+   page d’information recensé par
 
-L’évolution Biologique
+La révolution des transports et l’accélération de la France (1770-1870)
 
-Grande oubliée de l’enseignement médical et base rationnelle d’une politique
-de santé
+   Christophe Studeny
+   p. 117-133
+   Texte Bibliographie Auteur
 
-Evolutionary biology, the great forgotten in medical education, and rationale
-for health policy
+Texte intégral
 
-   Bernard Swynghedauw^*
+   « I bid the postillion go on with the chaise to Moulines— and La Fleur
+   to bespeak my supper— and that I would walk after him. »
+   Laurence Sterne, A Sentimental Journey
+   through France and Italy, 1768.
 
-   Inserm U942, Hôpital Lariboisière, 41, boulevard de la Chapelle, 75475
-   Paris Cedex 10, France
+   1Dans ses souvenirs d’enfance, Michelet décrit sa première sortie hors
+   de Paris, pour des vacances dans les Ardennes, avec la découverte
+   progressive des horizons nouveaux derrière la vitre des portières ; au
+   début du XIX^e siècle, le voyage en messagerie est scandé par de
+   longues journées de route : « Les diligences, comme on sait, marchaient
+   encore fort lentement à cette époque, raconte-t-il, Je ne m’en
+   plaignais pas. C’est la seule façon de voyager avec profit. Depuis
+   qu’on a créé les chemins de fer, on passe, on s’éblouit, on a le
+   vertige et tout échappe. » En août 1835, il relate dans son Journal la
+   succession plus rapide des étapes sur la route d’Aquitaine : parti le
+   mardi matin par les diligences royales, il dîne à Orléans, déjeune à
+   Tours, passe à Châtellerault, arrive à Poitiers le mercredi à cinq
+   heures. Deux ans plus tard, il profite des progrès des performances
+   postales pour activer son retour ; depuis Bruges il écrit à Lille à un
+   de ses élèves pour qu’il lui retienne une place dans la malle-poste de
+   Paris, afin de gagner douze heures sur le temps de parcours. À la fin
+   de sa vie, après avoir longuement parcouru la diversité des paysages
+   français depuis les sièges des attelages, puis la banquette des
+   compartiments, il explique comment le train des choses humaines semble
+   suivre le « crescendo de l’activité moderne ». Dans les premières pages
+   de son Histoire du XIXè siècle il s’étonne ainsi du déroulement de la
+   marche du monde : « Un des faits aujourd’hui les plus graves, les moins
+   remarqués, écrit-il en 1872, c’est que l’allure du temps a tout a fait
+   changé. Il a doublé le pas d’une manière étrange. »
 
-   ^* bernard.swynghedauw@inserm.fr
+   2Une étude de la vitesse montre ainsi comment, de 1770 à 1870, la
+   révolution des transports a bouleversé le rapport espace-temps, et
+   transformé radicalement l’étalon de la durée des trajets, qui passe du
+   jour à l’heure comme repère. Le déplacement progressif du rythme du pas
+   au trot s’emballe ensuite jusqu’au plafond du galop, pour être rompu
+   brutalement par la propulsion à toute vapeur, provoquant l’inexorable
+   accélération de la France.
 
-   Le but de cette mise au point est d’essayer de réconcilier médecine et
-   évolution biologique, de contribuer à la promotion de l’enseignement
-   qui en découle et d’en proposer les éléments comme outils pour la
-   rationalisation de la politique de santé. Par médecine évolutionniste,
-   on entend tout ce qui résulte du conflit entre notre génome tel qu’il a
-   été façonné par un environnement souvent hostile durant des millions
-   d’années et l’environnement actuel qui a été modifié par l’activité
-   humaine dans ce qu’elle a à la fois de bénéfique et de délétère.
+Un monde à l’aune du pas
 
-   Le fait médical est le résultat d’un conflit génome/environnement. Dans
-   la très grande majorité des maladies dites communes, le tableau
-   clinique est défini par un conflit entre ces deux critères. Trois
-   exemples ont été choisis pour illustrer ces conflits. (1) La nouvelle
-   infectiologie qui n’est plus seulement une lutte contre les pathogènes,
-   mais aussi une étude de notre symbiose avec les bactéries
-   commensales^1. (2) Le lien entre la diminution des infections et
-   l’accroissement exponentiel de l’incidence des maladies auto-immunes et
-   allergiques. L’un des mécanismes proposés met en cause des éléments
-   contre-régulateurs comme l’interleukine (IL)-10. (3) L’épidémie
-   d’obésité et de diabète de type 2 qui se développe en ce moment doit
-   être considérée comme le résultat d’un conflit entre un environnement
-   trop riche en calories et des variants des gènes régulant l’appétit,
-   variants qui sont en train d’être recensés par les études de
-   genome-wide association (GWA).
+   3Dans l’île d’Utopie, Thomas More fixe la distance limite idéale entre
+   les villes à la capacité d’un jour de marche : depuis des millénaires,
+   la réalité des transports et le rythme de la vie restent alignés sur la
+   cadence du pas. Le traité de métrologie de Paucton, en 1780, estime la
+   journée ordinaire de chemin à 40 000 pas l’été, 48 000 pour un
+   cavalier. À cette allure, selon Cassini, un carrosse mettrait deux ans
+   pour effectuer le tour de la Terre. On peut ainsi évaluer l’horizon
+   quotidien d’un bon marcheur à 60 000 pas, environ huit heures de route,
+   à raison de 7 500 pas par heure en moyenne, avec l’estimation globale
+   d’un pas moyen à 0,9 mètre, environ un yard. Le calcul arrondi en
+   lieues (autour de 4 kilomètres approximativement, cet étalon variant
+   fréquemment d’une région à l’autre) ou le kilométrage, ramené au rayon
+   d’une cinquantaine de kilomètres, ne convient pas d’emblée. L’approche
+   première, intuitive, des distances est liée à l’effort du piéton ou du
+   cheval, une référence concrète, musculaire selon l’état des routes et
+   le climat. L’épaisseur des distances se jauge en foulées, avec une
+   longueur d’étape parcourue entre le lever et le coucher du soleil, pour
+   une civilisation entière au rythme du pas.
 
-   Considérer le fait médical à la lueur de l’évolution peut être une
-   nouvelle manière d’établir les prémisses d’une politique de santé
-   globalisée.
+   4Selon cette approche, on peut considérer ainsi l’éloignement sensible
+   des villes à partir de Paris (tableau 1). À plus de 200 000 foulées,
+   Châlons-sur-Marne, Le Havre ou Valenciennes ; autour de 500 000 pas :
+   La Rochelle, Angoulême, Lyon, Mulhouse, plus de 800 000 pour Biarritz
+   ou Montpellier, un million de pas environ pour se rendre à Nice ou
+   Perpignan. Pour parcourir la France, d’Ouest en Est, ou du Nord au Sud,
+   de Brest à Strasbourg ou de Lille à Nice, il faut compter environ 1 200
+   000 pas, une trentaine de journées. À pied, Narcisse Faucheur rappelle
+   la durée d’une traversée du pays pour un fantassin, chargé de son
+   équipement : quarante jours de marche rapide, comme en charrette à un
+   cheval pour Louis Avril, de Muret à Lille, un parcours de 250 lieues.
+   Les déplacements ordinaires pour la grande majorité se réalisent dans
+   un rayon de 500 enjambées dans les villes, un parcours journalier de
+   quelques milliers de pas en campagne.
+   Agrandir Original (jpeg, 353k)
 
-   Randolph Nesse, qui est le fondateur de la médecine évolutionniste
-   (dite aussi médecine darwinienne), a récemment publié dans la revue
-   Proc Natl Acad Sci USA un plaidoyer, inhabituel dans ce journal, en
-   faveur de l’enseignement de la biologie de l’évolution dans les
-   facultés de médecine. Ce plaidoyer est soutenu et illustré par les
-   contributions d’un grand nombre de biologistes célèbres qui fournissent
-   un nombre impressionnant d’exemples de ce qui pourrait être enseigné
-   [1]. Cet article souligne, à bon escient, le fait que seule l’évolution
-   permet de situer à la fois l’homme et les divers agents infectieux qui
-   sont en symbiose avec lui dans le contexte historique qui est le leur
-   [2]. Seule la connaissance de l’évolution et des différentes forces qui
-   l’ont assurée permet de comprendre comment interagissent les trois
-   partenaires du fait médical, à savoir l’environnement^2, le génotype
-   qui est la propriété de tout un chacun et le phénotype final qui, en
-   médecine, est le trait, le signe clinique [3]. Comme le souligne Nesse,
-   dans les facultés de médecine, l’évolution n’est pas enseignée comme
-   une discipline à part entière. Cette lacune affecte les pays
-   anglo-saxons, pour lesquels on pourrait invoquer la forte influence des
-   créationnistes, mais aussi des pays comme le nôtre où la même influence
-   est faible avec une portée plus large, comme le souligne Pascal Picq
-   [4].
+   Tableau 1. – Voyager en France au rythme du marcheur : en pas et en
+   jours.
 
-   Par nécessité, la politique de santé est souvent dirigée par
-   l’actualité. Elle ne repose habituellement pas sur une vue rationnelle
-   et globalisée de l’évolution de la santé publique telle qu’elle est
-   conduite par les changements environnementaux que nous subissons et qui
-   entrent souvent en conflit avec un génotype nettement plus stable^3.
-   Ces changements sont explosifs à l’échelle du temps biologique, même si
-   la perception que nous en avons est plus progressive. Le conflit entre
-   les deux paramètres définit la médecine évolutionniste [1, 3, 7, 8]
-   quoique de façon un peu inappropriée^4. Notre politique de santé paraît
-   souvent comme un patchwork déclenché : par de longues habitudes
-   largement éprouvées, comme la pratique de l’hygiène ; par des données
-   épidémiologiques solidement établies, comme la campagne
-   anti-sédentarité ; ou par des réactions rapides – dites de précaution –
-   d’actualité, comme celles, récentes, en réponse à la diffusion de
-   nouvelles souches virales. Il n’est évidemment pas question de remettre
-   en cause l’efficacité de cette manière d’agir, mais quelle en est la
-   cohérence scientifique ? Quel est le rationnel existant par exemple
-   entre les mutations des virus et la prévalence de l’obésité, et n’y
-   aurait-il pas une manière plus efficace de planifier le futur ?
+   5La limite usuelle de soixante mille pas concerne également l’essentiel
+   des cavaliers et des passagers de voitures. Au Moyen Âge, les
+   procureurs du roi couvrent en moyenne cette distance quotidienne pour
+   venir de leur ville au Parlement de Paris. L’abbé Locatelli, en barque,
+   en carrosse, en poste, réalise des étapes de 6 à 17 lieues, tout comme
+   Arthur Young dans son tour de France sur sa jument ou Benjamin Constant
+   en 1791 trottant seize à quatorze lieues par jour : ces cavaliers
+   dépassent peu les piétons. Le cheval ou la voiture préservent de la
+   boue des chemins, pas de la lenteur. Gauthier de Brécy essaie de relier
+   Épernay à Tronchoy, trente lieues en trois jours, à franc étrier. De
+   Reims à Châlons, l’arrivée de la pluie ralentit son projet. Il arrive
+   le premier soir sans s’être arrêté, épuisé, tellement collé sur son
+   cheval qu’il ne peut faire aucun mouvement, ses bottes tellement
+   remplies d’eau qu’on est obligé de les lui enlever sur son cheval.
 
-   Réconcilier la médecine avec l’évolution biologique dans ce qu’elle a
-   de plus darwinien (c’est-à-dire quand elle a trait à la pression
-   sélective et non au seul hasard) peut avoir un impact sur les
-   fondements scientifiques de la médecine [3]. En cette année où nous
-   venons de célébrer le 200^e anniversaire de Charles Darwin, regarder
-   l’évolution actuelle de la médecine au travers du prisme de la biologie
-   de l’évolution et en incluant les données fournies par l’histoire de la
-   vie est l’un des moyens de mieux anticiper l’évolution de la santé
-   publique [1, 3, 7, 8]. Ce n’est pas le seul, bien évidemment, mais cet
-   outil n’est jamais évoqué dans les sphères décisionnelles où il devrait
-   l’être.
+   6En voiture, à la fin de l’Ancien Régime, les onze lieues de Craon à
+   Angers représentent une affaire sérieuse : deux grands jours de route.
+   La première journée, après six lieues en charrette à bœufs, s’arrête au
+   Lion-d’Angers, à l’auberge de la Boule d’or, dans l’unique chambre à
+   quatre lits. Le lendemain, départ de bonne heure dans une voiture à
+   deux roues, tirée par un cheval dans les côtes de Grilleul, pour
+   atteindre Angers à la tombée de la nuit. La charrette à bœufs reste
+   longtemps le seul moyen de transport dans les environs de Segré ; quand
+   les châtelains l’utilisent, ils font placer sur de la paille des
+   fauteuils en velours d’Utrecht, mais restent liés à la lenteur
+   générale. Madame de Maintenon passe les sept lieues de Dinant à Namur,
+   en juin 1693, enfermée onze heures et demie de suite en carrosse, elle
+   arrive accablée de migraine et d’épuisement. Madame du Deffand parvient
+   à destination, bien cahotée mais sans trop de fatigue, le 2 juillet
+   1742 : « Il n’y a que pour quinze heures de chemin de Paris à Forges,
+   écrit-elle, Nous fîmes hier dix-sept lieues en neuf heures de temps et
+   aujourd’hui onze en six heures et demie. » L’abbé Lebeuf, marcheur
+   infatigable, qui compte les pas d’un lieu à un autre pour comparer avec
+   les distances inscrites sur les itinéraires, reconnaît que rester dans
+   un coche du matin au soir pour effectuer un trajet de quatre lieues,
+   c’est assez ennuyant. Il préférerait souvent aller à pied, si le temps
+   et le chemin le permettaient, mais en bien des circonstances, lorsque
+   la terre est grasse ou le climat hostile, il faut accepter l’ennuyeuse
+   voiture. Tous les témoignages traduisent la patience et la résignation
+   nécessaires aux délais de voyage, l’endurance aussi du passager, tel
+   Diderot, en juillet 1759, qui condense le trajet Paris-Langres en
+   vingt-quatre heures de route continue.
 
-   Trois exemples illustrent cette manière nouvelle d’envisager le conflit
-   gène/environnement.
+   7Dans la France parcourue au petit trot, en 1765, L’indicateur fidèle
+   de Michel et Desnos témoigne sur la plupart des grandes routes d’une
+   moyenne identique, 40 à 50 km par jour, au rythme de la foulée, en
+   coche ou carrosse public. Le voyage se compte en journées, d’étape en
+   étape, ponctué d’arrêts forcés pour les repas dans les auberges, de
+   haltes pour la nuit. Six jours depuis Paris pour atteindre Langres,
+   Dijon, Vienne, Châteauroux, douze jours pour aller à Saintes, Marseille
+   (une semaine de route depuis Paris pour atteindre Laval, Angers,
+   Poitiers, Valence ou Metz), plus de deux semaines pour aller à Nice ou
+   Montauban (carte 1). En 1736, lorsque Johann Georg Wille à Strasbourg
+   rate le départ du coche pour Paris, parti depuis longtemps, il doit
+   marcher sans s’arrêter et parvient à rejoindre le coche dans la cour de
+   l’auberge de Saverne, à sept lieues du départ. Le lendemain, lorsque le
+   soleil rend l’intérieur de la voiture trop étouffant, les passagers
+   sortent et suivent à l’ombre du coche, qui dépasse rarement l’allure du
+   marcheur.
+   Agrandir Original (jpeg, 94k)
 
-La nouvelle infectiologie
+   Carte 1. – Le rayon d’action en 1765.
+   Temps de parcours en coche ou carrosse public depuis Paris, de 3 à 12
+   jours.
+   Source : L’indicateur fidèle, de Michel et Desnos, 1765.
 
-   L’émergence de nouvelles maladies infectieuses, qui fait en ce moment
-   la une de la grande presse, est un problème classique. Ces émergences,
-   l’évolution des résistances bactériennes, parasitaires et virales,
-   l’évolution de l’efficacité des vaccins, ne sont qu’une des
-   démonstrations que le processus évolutif est continu. Les traitements
-   anti-infectieux auxquels on doit les premiers bonds spectaculaires de
-   la durée de vie moyenne se doivent bien évidemment de suivre le
-   mouvement ; l’innovation thérapeutique doit précéder, ou tout au moins
-   suivre très vite, les conséquences phénotypiques de la sélection par
-   pression sélective (celles induites par les antibiotiques par exemple)
-   ou par le seul hasard (ce qui peut être le cas des nouvelles
-   infections) [9].
+À la cadence du trot
 
-   Les bactéries ne sont habituellement considérées que comme agents
-   pathogènes, et pour le médecin, bactéries, virus et parasites sont des
-   ennemis, et leur éradication est une priorité de l’acte médical et de
-   la recherche en pharmacologie et épidémiologie. Cette façon de voir les
-   choses est, bien évidemment, encore d’actualité, et il n’est pas
-   question de baisser les bras devant les grandes épidémies en cours ou à
-   venir, mais il existe une autre manière de considérer les bactéries :
-   les voir essentiellement comme des symbiontes. Considérer les bactéries
-   dans leurs aspects commensaux est en revanche une démarche récente
-   [10–12]. Les bactéries vivent en symbiose avec tous les êtres vivants^5
-   dont elles affectent le développement, le métabolisme [11], la
-   reproduction, la spéciation et surtout l’immunité [12], mais tous les
-   intermédiaires existent entre ce type de bactéries dites commensales et
-   les bactéries pathogènes.
+   8Bientôt la France veut doubler le pas, quand l’Angleterre améliore ses
+   routes et réduit ses distances. Turgot, proche du mouvement
+   progressiste, de l’Encyclopédie, des physiocrates, centralise en 1775
+   la régie des messageries afin de stimuler la circulation à l’échelle du
+   pays. La première diligence, qui part le 1^er avril 1776, remplace les
+   voitures publiques en usage par des turgotines légères, commodes et
+   bien suspendues, à huit places et sept à huit chevaux, ou quatre places
+   et quatre à six chevaux. Les maîtres de poste détiennent une
+   responsabilité centrale : ils doivent tenir prêts leurs chevaux et
+   postillons, et surveillent chaque passage en inscrivant de poste en
+   poste, les heures d’arrivée et de départ, afin de contrôler
+   l’exactitude du service. La nouvelle organisation prévoit aussi des
+   berlines à quatre places pour des voyageurs désirant les utiliser
+   privativement, à des horaires non réglés. Tout doit être mis en œuvre
+   pour la célérité publique. Dans toutes les villes situées sur les
+   grandes routes, le nouveau service avive le mouvement de propagation
+   des voyageurs.
 
-   Les bactéries du tube digestif jouent, par leur abondance (10^14), leur
-   plasticité et leurs propriétés, un rôle important de déterminant de la
-   « bonne forme » de l’individu. Leur activité pose au moins trois
-   questions. (1) Comment notre organisme les empêche-t-il de passer la
-   barrière épithéliale ? (2) Quelle est l’importance de leur rôle comme
-   complément métabolique ? (3) Quels sont les mécanismes déterminants qui
-   relient le microbiome à notre système immunitaire local et surtout
-   systémique ? La plus célèbre des symbioses est bien entendu celle qui
-   concerne notre estomac et Helicobacter pylori. Les recherches qui ont
-   fait suite à la découverte de cette bactérie illustrent bien la manière
-   dont ce type de symbiose peut être actuellement envisagé, puisqu’on en
-   connaît le mécanisme (le détecteur étant NOD1 [nucleotide-binding
-   oligomerization domain-containing protein 1] et le produit détecté issu
-   de la bactérie étant un peptidoglycane). Connaître l’évolution de cette
-   symbiose est indispensable pour donner une réponse aux questions
-   posées.
+   9Les diligences opèrent une cassure de la proximité en franchissant le
+   seuil du pas. De Paris à Troyes une berline publique à six places en
+   1756 gagne d’abord quelques heures sur le délai habituel, puis joint
+   Paris à Reims en trente-huit heures en 1762, avec deux arrêts et un
+   repos de huit heures à Villers-Cotterêts la nuit, à l’allure de la
+   poste le jour en chevaux de relais. Voilà le secret de ces vélocités :
+   de meilleures voitures, la marche la nuit aux approches de Paris et le
+   support de la poste aux chevaux, utilisée par le courrier, mais trop
+   chère pour les voyageurs. La diligence de Reims peut réduire son temps
+   de parcours à vingt heures. Belle performance : plus de 170 000 pas en
+   un jour, autant que les meilleurs cavaliers du Moyen Âge. Partie de
+   Paris le vendredi à onze heures du soir, elle s’arrête au repas de midi
+   à Soissons, atteint Reims à sept heures du soir, au train soutenu de
+   huit kilomètres en une heure, pour un trajet effectué deux fois la
+   semaine. Selon l’Almanach Royal de 1780, depuis leur mise en place les
+   turgotines ont rapetissé de moitié l’éloignement de certaines grandes
+   villes : la séparation entre Paris et Besançon passe de huit quatre
+   jours, entre Paris et Dijon de six à trois jours, à Bordeaux de onze à
+   cinq jours et demi. De 1765 à 1780, le resserrement de l’horizon
+   parisien est spectaculaire : le Parlement de Rennes, à l’arrière-plan
+   de huit journées de carrosse, se place à trois jours des barrières de
+   la capitale. Les abbayes de Caen, à cinq jours de coche, se rapprochent
+   à deux jours de diligence. Laon et Saint-Quentin, longtemps à trois
+   journées de carrosse viennent à un jour des boutiques du Palais-Royal.
+   L. -S. Mercier se plaint de ces machines monstrueuses, chargées de
+   monde, de coffres, elles font un bruit tumultueux, terrible. L’allure
+   du transport l’emporte sur le confort ; l’administration selon lui
+   semble considérer le passager comme un colis supplémentaire. Bérenger
+   en 1787 résume ces avantages et inconvénients : « Vous vous ennuierez
+   moins, mais vous vous fatiguerez davantage. » Même si, désormais, le
+   temps c’est de l’argent, Benjamin Franklin en 1785, malade, préfère
+   pourtant sept jours de litière de Paris au Havre à l’inconfort de
+   trente-six heures de diligence.
 
-Les infections, les maladies auto-immunes et allergiques
+   10L’étoile de grandes routes royales, de quarante-deux pieds de large,
+   distribuées autour de Paris, n’est guère modifiée par la Révolution ou
+   l’Empire. En 1820, on peut constater l’absence d’un véritable réseau
+   national. Le territoire français consiste en organisations régionales
+   reliées par une route unique, de qualité variable : au total 22
+   départements généralement bien pavés, 26 départements de voies
+   empierrées en assez bon état, 17 département de voies en mauvais état,
+   21 départements aux routes fortement lacunaires, dans le Midi, les
+   zones montagneuses et le centre de la France. Dès lors, avec la
+   progression du budget de l’État et des départements destiné aux routes
+   royales et départementales, des travaux permettent de développer
+   l’entretien, la mise en place de nouveaux tracés, pour arriver en 1835
+   à un ensemble de 42 000 km de routes entretenues, carrossables en toute
+   saison. Le procédé mis au point dans le comté de Bristol par le
+   surintendant MacAdam permet de maintenir à l’état sec un sol égalisé,
+   asséché, décapé de la terre végétale, avec trois couches de pierres
+   cassées, calibrées pour laisser pénétrer les eaux pluviales. La voie
+   nivelée, aplanie, se propage sur des routes mieux repérées avec le
+   développement à hauteur de cocher de poteaux indicateurs.
 
-   Le processus évolutif n’a, par définition, aucune finalité et on doit
-   considérer la politique de l’hygiène en tenant compte du dérèglement du
-   système immunitaire qu’elle ne peut manquer d’induire [13]. L’incidence
-   des infections et autres parasitoses est corrélée négativement avec
-   celle de l’asthme, des iléites (inflammation de la dernière partie de
-   l’intestin grêle) comme dans la maladie de Crohn, du diabète de type 1
-   et de bien d’autres maladies auto-immunes et allergiques. Le conflit
-   génotype/environnement est ici presque exemplaire. Le décryptage récent
-   des polymorphismes par analyse des GWA permet maintenant de connaître
-   les génotypes associés à ces affections communes, même si le mécanisme
-   qui lie le génotype et le nouvel environnement n’est pas encore connu
-   de façon précise. Il est certain que, dans ce domaine, il faut
-   réfléchir de manière moins unidirectionnelle qu’on ne le fait
-   actuellement. L’émergence de nouvelles infections posera-t-elle dans
-   l’avenir plus de problèmes que n’en pose déjà la disparition des
-   anciennes ? Rien de moins évident [14].
+   11En 1830, les deux grandes entreprises qui assurent les grandes lignes
+   les plus fréquentées entre Paris et les villes françaises sont les
+   Messageries royales et les messageries Laffitte et Caillard. Elles se
+   partagent le territoire national par un accord de juin 1827 et
+   utilisent souvent d’énormes véhicules, de véritables maisons roulantes.
+   Les voitures jaunes de Laffitte et Caillard peuvent emmener,
+   officiellement, jusqu’à dix-huit passagers, en réalité leurs impériales
+   sont souvent surchargées. L’infraction au décret du 28 août 1808, qui
+   contraint les conducteurs à n’accepter que trois personnes sur les
+   banquettes d’impériale, est courante, périodiquement condamnée par les
+   circulaires de police. On compte parfois jusqu’à cinq ou six personnes
+   en trop sur ces impériales. Avec la surcharge en voyageurs, en
+   marchandises, si fréquente en période de foires et marché, les voitures
+   pèsent souvent plus de 7 000 kg (5 000 kg pour la voiture, plus le
+   poids des voyages, les bagages et colis).
 
-Équilibre métabolique
+   12La diligence de première classe, très lourde, contenant normalement
+   vingt et une personnes au maximum, emmène parfois plus de trente
+   clients. C’est une masse énorme qui étonne les voyageurs anglais ou
+   américains habitués au stage-coach plus réduit. Ces touristes en
+   parlent comme d’un navire, Longfellow évoque le cheval de Troie,
+   Stendhal l’arche de Noé. La voiture de deuxième classe, prévue pour
+   seize passagers, est plus commode, plus légère. Les haltes s’abrègent,
+   réduites peu à peu au minimum. Les horaires des messageries royales, de
+   1800 à 1840, montrent un raccourcissement continuel des délais : il ne
+   faut plus qu’une demi-journée depuis Paris pour atteindre Orléans ou
+   Rouen, trois journées pour Besançon, trois et demie pour Genève, quatre
+   et demie pour Toulouse. En 1842, un rapport établit les performances
+   des voitures des Messageries royales : 9 km/h en moyenne. Les arrêts
+   pour les repas représentent environ 6 % du temps de parcours, soit deux
+   heures d’arrêt au total sur le trajet de Paris à Calais, Lille, Nantes
+   ou Strasbourg, trois heures d’arrêt de Paris à Besançon, Mulhouse, Lyon
+   ou Bordeaux. Toutes les pauses sont raccourcies. En 1841, Mrs Eames
+   constate que le conducteur n’accorde pas plus de cinq à dix minutes
+   pour prendre un dîner payé trois ou quatre francs, aussi cher qu’un
+   repas complet. F. Soulié en 1844 remarque que l’habitué des voyages en
+   diligence se trouble peu des interruptions de repas, il mange vite et
+   met le dessert dans ses poches. Autre principe de rendement, en France,
+   il n’y a qu’un seul point de départ ou d’arrivée, évitant ainsi la
+   tournée des hôtels ou auberges.
 
-   La prévention de l’obésité et la promotion d’une activité physique
-   régulière sont déjà des objectifs de santé. Le retour à une balance
-   métabolique plus conforme à celle de nos ancêtres et à notre patrimoine
-   génétique, c’est-à-dire une alimentation moins excessive, plus riche en
-   fruits et légumes, plus pauvre en sel, et le retour à une activité
-   physique plus régulière sont en premier lieu des indicateurs des
-   limites métaboliques de notre capital génétique. Ces indicateurs
-   pourraient constituer le socle scientifique rationnel d’une politique
-   de santé. Ils doivent être recherchés dans notre passé, même lointain.
-   Là aussi l’analyse globale du génome fournit une impressionnante liste
-   de polymorphismes. Tout le monde est confronté à McDonald’s, mais seuls
-   les possesseurs de certains allèles à expression hypothalamique
-   deviennent obèses [15].
+   13Ce qui caractérise ce moyen de transport, c’est l’allure du trot, la
+   seule autorisée sur les routes. L’ordonnance de 1820, après le décret
+   de 1808 insiste sur ce point : il est expressément défendu de conduire
+   au galop, et autrement qu’au petit trot dans les villes ou villages, au
+   pas dans les rues étroites. Un contraste important, que masquent les
+   calculs de moyennes, est celui qu’entraînent les pentes. Comme le
+   remarque un touriste, J. P. Hiester, à la montée il faut parfois
+   quitter sa banquette, pour grimper à pied, et une fois au sommet, on
+   reprend place pour une descente à toute vitesse, souvent au grand
+   galop. Charles Baudelaire enfant, en 1832 relate les joies d’un grand
+   voyage à Lyon, les fréquentes montées, on met jusqu’à dix ou onze
+   chevaux pour gravir une côte. À l’approche de Chalon, il descend de
+   voiture et court loin devant. Tout en accélérant le rythme du
+   transport, la diligence permet de maintenir le contact avec
+   l’environnement familier. Emma Bovary, dans l’Hirondelle, connaît la
+   route d’un bout à l’autre : « Elle savait qu’après un herbage il y
+   avait un poteau, ensuite une grange ou une cahute de cantonnier ;
+   quelquefois même, afin de se faire des surprises, elle fermait les
+   yeux. Mais elle ne perdait jamais le sentiment net de la distance à
+   parcourir. »
 
-   La déviation est clairement comportementale et porte essentiellement
-   sur l’appétit ou la satiété. Comprendre comment l’insuline et la
-   leptine peuvent induire des changements comportementaux culturels aussi
-   complexes et aussi intégrés que ceux liés à l’appétit et à la satiété
-   est un chapitre encore en plein développement. Il est bien d’autres
-   déviations : la dépense énergétique basale ou dépendante de l’exercice
-   physique, la thermogenèse, le niveau de plusieurs hormones et, dans une
-   moindre mesure, la régulation de la croissance et de la reproduction,
-   mais leur mise en jeu est encore peu documentée.
+Au galop de la poste
 
-   De très nombreux autres exemples peuvent être donnés. Sauf changement
-   radical, bien improbable, dans les politiques mondiales concernant les
-   émissions de gaz à effet de serre, on peut s’attendre à la fois à une
-   élévation moyenne de la température externe et un accroissement de la
-   fréquence et de la gravité des vagues de chaleur. Pour ces raisons, la
-   biologie de la thermogenèse comme la physiopathologie du choc thermique
-   deviendront rapidement des priorités [3]. Des exemples plus complexes
-   existent : le cancer considéré comme une forme accélérée de l’évolution
-   [16], l’athérosclérose considérée comme une maladie à la fois
-   métabolique et inflammatoire [17, 18] et l’histoire des gènes
-   contrôlant les métabolismes des médicaments [19].
+   14Rappelant les difficultés des déplacements anciens en Angleterre,
+   Thomas de Quincey constate en 1833 la recherche croissante d’efficacité
+   des transports et l’accélération de la mobilité générale outre-Manche :
+   le changement de chevaux, qui nécessitait au début du siècle au moins
+   une demi-heure ne demande plus qu’une minute. En mail-coach, il raconte
+   par la suite l’expérience grisante du mouvement rapide des attelages et
+   vante la gloire du mouvement. Mr Pickwick, en chaise de poste, éprouve
+   ce sentiment nouveau de fuite accélérée du paysage lors d’une course
+   rapide, les champs, les arbres et les haies semblent fuir derrière
+   comme un tourbillon.
 
-Conflit d’intérêts
+   15Après le premier sursaut des diligences, l’organisation postale va
+   provoquer dans les grandes villes la révolution de la vitesse,
+   modifiant les habitudes séculaires. En France, la loi du 23-24 juillet
+   1793 établit le service des malles-poste sur quarante lignes,
+   remplaçant les anciennes voitures par des véhicules suspendus,
+   couverts, à deux roues et trois chevaux. L’article III de cette loi
+   établit qu’elles devront aller au moins deux lieues par heure, leur
+   marche ne sera interrompue ni jour ni nuit. Les assemblées
+   révolutionnaires, par le comité des transports, des postes et
+   messageries, réclament la vitesse pour la plus grande accélération des
+   affaires sur toute l’étendue de la République. Cependant, le service
+   postal reste encore peu performant. En 1814, la moyenne horaire
+   nationale plafonne à 7 km/h, l’organisation du service, modifiée en
+   1818, entraîne des progrès sensibles. La malle-poste possède le
+   privilège du galop, faveur confirmée par les ordonnances de 1820 et
+   1837, elle détient le monopole de la vitesse. Elle a en outre priorité
+   sur toute voiture à l’arrivée aux relais. La concurrence avec elle
+   devient impossible. Vers 1830, les places ne sont pourtant pas toutes
+   prises, leur prix très élevé n’intéresse qu’une élite bourgeoise avant
+   tout (médecins, avocats, notaires, banquiers, marchands de chevaux,
+   architectes…) ou représentants de l’État (ambassadeurs, ministres,
+   préfets, officiers, députés) selon un sondage effectué d’après les
+   listes de voyageurs établies par l’administration.
 
-   L’auteur déclare n’avoir aucun conflit d’intérêts concernant les
-   données publiées dans cet article.
-   _____________________
+   16Depuis 1819, une solide voiture jaune à quatre roues, bâchée de cuir
+   avec trois places dans le coupé plus un siège dans le cabriolet à côté
+   du cocher, emmené par quatre ou cinq chevaux de trait léger, fonce à
+   une moyenne générale de 13 kilomètres à l’heure. Dernier
+   perfectionnement, les briskas, calèches légères remplacent parfois, à
+   partir du juillet 1839, les anciens modèles. En 1834, on compte 1548
+   relais et 19 850 chevaux pour les quinze lignes de première section, au
+   départ de Paris, ou celles de deuxième section, partant de Province.
+   Agent de relation essentiel, elles propagent les quotidiens, les
+   nouvelles de toutes parts, avant l’usage du télégraphe optique, et même
+   lorsque celui-ci est en place. En 1841, les dépêches en provenance de
+   Toulon, Perpignan ou Bayonne parviennent par télégraphe jusqu’à Lyon,
+   Bordeaux ou Dijon pour être souvent apportées à Paris par le courrier.
 
-   ^1
+   17L’accélération est importante, par l’amélioration progressive du
+   réseau routier national, et le perfectionnement des véhicules, par
+   l’augmentation du nombre de chevaux aux relais et le nombre de ces
+   relais, le souci d’exactitude, l’usage continuel du galop, sans aucun
+   arrêt ni le jour ni la nuit, excepté un changement d’attelage limité à
+   cinq minutes. H. Wright, voyageur américain à travers l’Europe, est
+   étonné de l’efficacité de l’organisation, pas un geste inutile, pas un
+   moment perdu. Mais le voyageur doit rester assis toute la durée du
+   trajet. Stendhal constate ainsi cet enfermement : « Trois jours de
+   Paris à Marseille ! C’est beau, mais aussi l’homme est réduit à l’état
+   d’animal, on mange du pâté ou l’on dort la moitié de la journée. » Le
+   docteur P. Ménière quitte Paris le vendredi 15 février 1833 à six
+   heures du soir, assis à côté du conducteur. Samedi : Châtellerault,
+   Poitiers. Dimanche : il traverse la Dordogne, galope pour arriver à
+   Bordeaux à huit heures du soir après « cinquante heures de prison »
+   dans un cabriolet ouvert à toutes les intempéries. Auguste Comte, dans
+   ses tournées d’examinateur pour l’École polytechnique prévoit à
+   l’avance tous ses déplacements pour aller voir son ami Valat à Bordeaux
+   et revenir aussitôt à Paris, il calcule au plus juste les horaires de
+   la poste pour profiter d’un abonnement au théâtre à Paris. Dans les
+   romans de Flaubert la malle-poste symbolise le plus souvent un rêve
+   d’évasion vers les lointains.
 
-   Les bactéries commensales sont adaptées pour vivre des déchets qui se
-   trouvent à l’extérieur de nos tissus (comme la peau et les muqueuses de
-   la bouche, de la gorge et du reste du système digestif).
-   ^2
+   18En reprenant l’Annuaire des Postes de 1840, on peut retracer ainsi
+   l’évolution des allures : de 6,6 km/h en 1814 à 9,6 km/h en 1829, puis
+   13,1 en 1839 pour les malles de première section. Quel est le rayon
+   d’action postal depuis Paris ? : en scandant le transport par fraction
+   de douze heures (carte 2), avec un départ de Paris à six heures du
+   soir, la nuit suffit pour couvrir un périmètre
+   Blois-Auxerre-Troyes-Reims-Lisieux, puis le reste de la journée pour
+   arriver en fin d’après-midi à Vitré-Angers-Moulins-Dijon-Nancy-Metz,
+   soit vingt-quatre heures de route. Au-delà, plus d’un jour est
+   nécessaire, trente-six heures, pour atteindre Guingamp, Lyon, Mulhouse
+   ou Strasbourg, deux jours complets pour rallier Cahors ou Valence. Il
+   faut patienter encore douze heures pour arriver à Bayonne ou Toulouse,
+   trois jours et seize heures seulement pour le trajet de Paris à Antibes
+   ou à Perpignan. Pour ce mode de locomotion le plus rapide, de
+   nombreuses contraintes subsistent : le prix très élevé, l’obligation du
+   passeport pour l’intérieur, délivré par les préfets, les capacités
+   réduites. Il faut retenir sa place à l’avance, souvent une semaine
+   avant le départ comme le rappellent A. Dumas, Stendhal, Michelet ou A.
+   Comte. Les liaisons, assez homogènes au nord de la ligne Saint-Malo
+   Genève, deviennent incertaines, irrégulières au sud de cette ligne. Dès
+   que l’on quitte les grands axes routiers, l’espace résiste à nouveau de
+   toute sa pesanteur, et il faut se soumettre aux lenteurs locales.
+   Agrandir Original (jpeg, 87k)
 
-   Environnement entendu au sens large du terme, ce qui inclut à la fois
-   le climat, la température externe, mais aussi le mode alimentaire, les
-   conditions sociales et économiques dans lesquelles nous vivons et les
-   différentes agressions virales, bactériennes et parasitaires avec
-   lesquelles nous devons coexister.
-   ^3
+   Carte 2. – Le rayon d’action postal en 1840.
+   Temps de parcours en malle-poste depuis Paris, de 1 à 3 jours.
+   Source : Annuaire des Postes, 1840.
 
-   Même si cette stabilité est assez relative, le génotype humain porte en
-   effet la marque d’évolutions récentes [5], cette variabilité est
-   probablement plus importante si l’on veut considérer l’épigénome qui
-   est encore en cours de décryptage [6].
-   ^4
+   19En 1837, les chemins vicinaux français s’entremêlent sur plus de
+   771 000 kilomètres, dix fois plus que la longueur cumulée des routes
+   départementales et royales (71 000 km au total). Alors que la France
+   compte à peine plus de deux mille routes, moins de trente en moyenne
+   par département, de nombreux départements comptent plus de dix mille
+   chemins répertoriés, l’Eure plus de trente mille, et le pays entier
+   rassemble plus de 468 000 chemins. Pour quelques générations encore, le
+   mode dominant de transport quotidien – peu spectaculaire sans doute,
+   mais tellement massif, omniprésent –, reste la marche à pied.
 
-   « Médecine darwinienne » sous-entend explicitement que le seul moteur
-   de l’évolution est la pression sélective. L’évolution est certes
-   conduite par la nécessité, mais elle l’est également par le hasard des
-   dérives génétiques. Le débat est au cœur de la biologie de l’évolution
-   en 2010, il est loin d’être simple et d’être clos.
-   ^5
+   20Pour W. Hazlitt et D. H. Thoreau, comme pour J. -J. Rousseau ou V.
+   Hugo, pour connaître un pays, pour découvrir l’intimité des lieux, pas
+   de meilleur moyen que la randonnée à pied. Mais le plus grand nombre
+   doit marcher par nécessité. Les premiers recensements sur les routes
+   royales en 1845 montrent une forte majorité d’hommes à pied, puis des
+   voitures de toutes sortes, peu de cavaliers isolés. Sur tous les
+   chemins, on ne saurait dénombrer précisément les passages des soldats,
+   travailleurs migrants, compagnons, saisonniers, vagabonds, colporteurs,
+   voyageurs de commerce. Les facteurs ruraux, dont la tournée peut aller
+   jusqu’à 32 kilomètres, les ouvriers qui font jusqu’à 18 kilomètres par
+   jour de parcours pour se rendre à l’usine. Les soixante lieues qui
+   séparent l’Orléans de la Creuse nécessitent quatre jours de marche
+   forcée en 1830, pour le jeune maçon Léonard. Dans les chemins de
+   traverse de Sardent à Guéret, où la route n’existe pas encore, les
+   branches des arbres barrent presque le passage : quinze lieues pour
+   cette première étape. Le lendemain, il continue sur des chemins, dans
+   la boue jusqu’aux chevilles, les pieds blessés par les souliers. De
+   nombreux migrants suivent cette route sans s’arrêter. Le compagnon
+   Agricol Perdiguier, allant à pied de Chartres à Paris peut tenir ainsi
+   trente-six heures de suite, jusqu’à 22 lieues, sans se reposer.
+   Proudhon, le 30 septembre 1840 écrit à Bergmann qu’il partira de
+   Besançon, à plus de 450 000 pas de la capitale, le dimanche 11 octobre
+   et fera tout son possible, quoiqu’à pied, pour arriver à Paris le
+   samedi 17, au rythme de soixante mille pas quotidiens.
 
-   Ce type de symbiose existe dans tout le règne animal, avec plusieurs
-   exemples qui ont été étudiés en détail comme le couple calmar/bactéries
-   vibrio fischeri, la bactérie étant responsable d’un avantage évolutif
-   majeur : la fluorescence du calmar.
+L’hexagone à toute vapeur
 
-Références
+   21Les premiers chemins de fer sont destinés d’abord au transport de
+   marchandises, avec des wagons tractés par des chevaux, puis des
+   machines, ils ne sont pas conçus d’emblée pour des passagers. Puis, en
+   une génération, le train va bouleverser le paysage européen. La
+   conception nouvelle d’un réseau ne se concrétise qu’en 1842 avec la
+   décision de création centralisée de neuf grandes lignes joignant Paris
+   aux frontières et au littoral. Guizot constate ainsi le synchronisme de
+   lois orientant le développement de la constitution d’une nation : les
+   lois de 1836 sur les chemins vicinaux et l’instruction primaire, les
+   lois de 1842 et 1845 sur l’organisation des chemins de fer. Il faut
+   attendre la consécration parisienne, la mise en service de la ligne de
+   Paris à Saint-Germain-en-Laye en 1837, pour voir le déclenchement du
+   transport ferroviaire en France. En 1845, sur un nombre de tronçons
+   très limités, la moyenne reste modérée, globalement en dessous de 30
+   km/h.
 
-    1. Nesse RM, Bergstrom CT, Ellison PT, et al. Making evolutionary
-       biology a basic science for medicine. Proc Natl Acad Sci USA 2010;
-       107 (suppl. 1) : 1800–7. [Google Scholar]
-    2. Lecointre G. Guide critique de l’évolution. Paris : Belin, 2009.
-       [Google Scholar]
-    3. Swynghedauw B. Quand le gène est en conflit avec son environnement.
-       Une introduction à la médecine darwinienne. Bruxelles : De Boeck,
-       2009. [Google Scholar]
-    4. Picq P. Pour une nouvelle pédagogie des sciences de la vie et de la
-       terre. Débats, horizons. Le Monde, 20 décembre 2009, p. 19.
-       [Google Scholar]
-    5. Hawks J, Wang ET, Cochran GM, et al. Recent acceleration of human
-       adaptive evolution. Proc Natl Acad Sci USA 2007; 52 : 20753–8.
-       [Google Scholar]
-    6. Lister R, Pelizzola M, Dowen RH, et al. Human DNA methylomes at
-       base resolution show widespread epigenomic differences. Nature
-       2009; 462 : 15–322. [Google Scholar]
-    7. Stearns SC, Koella JC. Evolution in health and disease, 2^e ed.
-       Oxford (UK) : Oxford University Press, 2007. [Google Scholar]
-    8. Gluckman P, Beedle A, Hanson M. Principles of evolutionary
-       medicine. Oxford (UK) : Oxford University Press, 2009.
-       [Google Scholar]
-    9. Guégan JF, Choisy M. Introduction à l’épidémiologie intégrative des
-       maladies infectieuses et parasitaires. Bruxelles : De Boeck, 2009.
-       [Google Scholar]
-   10. Sansonetti PJ. War and peace at mucosal surfaces. Nat Rev Immunol
-       2004; 4 : 953–64. [Google Scholar]
-   11. Delzenne NM, Cani PD. Implication de la flore intestinale dans le
-       métabolisme énergétique. Med Sci (Paris) 2008; 24 : 505–10.
-       [Google Scholar]
-   12. Villani AC, Franchimont D. La reconnaissance des bactéries de la
-       flore intestinale. Un important facteur de risque pour la maladie
-       de Crohn. Med Sci (Paris) 2010; 26 : 36–27. [Google Scholar]
-   13. Bach JF. The effect of infections on susceptibility to autoimmune
-       and allergic diseases. N Engl J Med 2002; 347 : 911–20.
-       [Google Scholar]
-   14. Yazdanbakhsh M, Kremaner PG, van Ree R. Allergy, parasites, and the
-       hygiene hypothesis. Science 2002; 296 : 490–4. [Google Scholar]
-   15. O’Rahilly S. Human genetics illuminates the paths to metabolic
-       disease. Nature 2009; 462 : 307–14. [Google Scholar]
-   16. Stratton MR, Campbell PJ, Futreal A. The cancer genome. Nature
-       2009; 458 : 719–24. [Google Scholar]
-   17. Steinberg D. Atherogenesis in perspective: hypercholesterolemia and
-       inflammation as partners in crime. Nat Med 2002; 8 : 1211–7.
-       [Google Scholar]
-   18. Varthaman A, Khallou-Laschet J, Thaunat O, et al. L’athérogenèse.
-       Une maladie immunitaire. Med Sci (Paris) 2008; 24 : 169–75.
-       [Google Scholar]
-   19. Nebert DW. Polymorphisms in drug-metabolizing enzymes: what is
-       their clinical relevance and why do they exist ? Am J Hum Genet
-       1997; 60 : 265–71. [Google Scholar]
+   22Le grand bond en avant est opéré sous le Second Empire : en 1850, le
+   guide Chaix indique une première extension, en espace, en vitesse,
+   limitée à quelques faisceaux. Par les liaisons les plus rapides,
+   Fontainebleau est à une heure de Paris. Amiens, Orléans, Chartres, à
+   trois heures environ, Rouen, Abbeville à quatre heures, Cambrai, Lille
+   ou Calais à six heures. La capitale n’envoie pas encore de rails aux
+   confins du pays, le cheval demeure nécessaire. Il faut plus de
+   cinquante heures pour acheminer le courrier jusqu’à Perpignan, près de
+   70 heures pour Antibes. Les trains roulent alors avec une moyenne
+   nationale de 40 km/h, avec les meilleures performances pour les express
+   du Nord. L’allure mécanique paraît parfois effrayante, elle déstabilise
+   les repères habituels, l’idée de voir entre deux repas les Alpes et les
+   Champs-Élysées déroute au premier abord, avec ces trains « d’extrême
+   presse » comme les appelle Mérimée, Michelet craint au début que le
+   franchissement en quelques heures des climats si différents du Nord au
+   Midi ne provoque des troubles, un vertige. Mais surtout la commodité du
+   transport apparaît merveilleuse, incroyable, on voyage presque sans
+   s’en apercevoir. En 1852, Louis Pasteur écrit à sa femme de prendre des
+   places en train express : « Tu placeras ton fils auprès de toi sur un
+   coussin. Il dormira parfaitement et toi aussi. On s’arrête seulement à
+   quelques stations. Tu seras à Strasbourg presque sans avoir eu le temps
+   de songer au voyage. »
 
-   © 2010 médecine/sciences - Inserm / SRMS
-   (BUTTON) Current usage metrics (BUTTON) About article metrics (BUTTON)
-   Return to article
+   23Une comparaison entre le rayon d’action postal en 1840 et ferroviaire
+   en 1870 met en évidence la rupture brutale réalisée par la circulation
+   nouvelle. La longueur des lignes exploitée est passée de 1 931 km en
+   1850 à plus de 17 000 km en 1870. Deux instantanés, à trente ans
+   d’intervalle, suffisent à montrer l’accélération, par la confrontation
+   des deux modes de locomotion les plus véloces : la malle-poste en 1840,
+   lorsqu’elle atteint ses meilleures performances sans être encore
+   concurrencée par le train, les chemins de fer en 1870, quand le lacis
+   des voies ferrées, pour l’essentiel des grandes dessertes, est achevé.
+   À cette date, une circulaire prescrit la fermeture des relais inactifs.
+   La poste aux chevaux et les grandes liaisons de diligence disparaissent
+   dans les années qui suivent. En 1870, les angles morts de la voie
+   ferrée qui persistaient en 1860 encore ont disparu : le rail s’étend
+   jusqu’à Brest, les Sables-d’Olonne, ou Nice. Le désenclavement du
+   Centre, de l’Ouest et du Midi est entamé.
 
-   Current usage metrics show cumulative count of Article Views (full-text
-   article views including HTML views, PDF and ePub downloads, according
-   to the available data) and Abstracts Views on Vision4Press platform.
+   24Le rayon de douze heures, qui ne menait pas au galop au-delà de
+   Rouen, Amiens, Reims ou Auxerre, emporte désormais le voyageur à toute
+   vapeur dans presque tout le pays. Londres et Strasbourg sont à dix
+   heures de train, Genève ou Valence à moins de douze heures ; seize
+   heures pour Marseille, Brest ou Bayonne. Toutes les grandes villes
+   s’approchent à moins de 24 heures de la capitale. Le prix du trajet à
+   longue distance, inaccessible pour le plus grand nombre en première
+   classe, a fortement baissé avec les tarifs de troisième classe, à une
+   allure bien supérieure au galop : 15 h 30 et 31 francs pour aller de
+   Paris à Lyon en troisième, contre un jour et demi et 82 francs en
+   malle-poste. Le voyage en troisième classe est devenu nettement moins
+   coûteux que le même déplacement en 1800 par la diligence, on y dépense
+   moins d’argent pour le transport, les nuit et repas dans les auberges,
+   moins de temps surtout. En 1873, alors que le train le plus rapide, le
+   Londres-Bristol, fonce à plus de 70 km/h de moyenne, le Paris-Marseille
+   va à 52 km/h, Paris-Bordeaux à 54 km/h. Cette progression est accentuée
+   par la conjonction de facteurs favorables : l’augmentation de la
+   fréquence des départs, les fortes capacités de transit en volume de
+   passagers, la rapidité du mode d’inscription et de paiement, la
+   suppression de l’exigence de passeport pour l’intérieur, le
+   développement parallèle des lignes européennes. La mobilité générale
+   s’est considérablement accrue : 6,3 millions de passagers en France par
+   le chemin de fer en 1841, 100 millions en 1867, plus de 300 millions en
+   1893.
+   Agrandir Original (jpeg, 92k)
 
-   Data correspond to usage on the plateform after 2015. The current usage
-   metrics is available 48-96 hours after online publication and is
-   updated daily on week days.
+   Carte 3. – Le rayon d’action en 1870.
+   Temps de parcours en train depuis Paris, en 3, 12 ou 24 heures.
+   Source : Guide Chaix, 1870.
 
-   Initial download of the metrics may take a while.
-   Homepage
-   Table of Contents
-   Previous articleNext article
+   25Le temps du voyage s’accélère par le passage du jour à l’heure comme
+   nouvel étalon de durée. Les progrès des diligences dans la première
+   moitié du XIX^e siècle se comptent en demi-journées, en malle-poste
+   même, deux jours et demi sont nécessaires pour atteindre Avignon,
+   Toulouse ou Bayonne depuis Paris. Avec le chemin de fer, ce n’est plus
+   un voyage, où l’on part de chez soi pour des jours, des semaines, avec
+   des malles et longs préparatifs, mais un simple déplacement vers une
+   ville à portée de main.
 
-Article contents
+   26Si l’on compare les voyages en coche en 1765 avec le trajet en train
+   à la fin du siècle suivant, les journées de voiture sont remplacées par
+   des heures en wagon (carte 3). En reprenant les distances calculées au
+   rythme du pas, à raison d’une performance de soixante mille pas
+   quotidiens, les durées en jours passent à une cadence horaire (tableau
+   2) avec le déplacement à vapeur en 1870 : 2 journées de marche vers
+   Amiens ou Orléans se transforment en 2 heures, 4 jours vers Lille ou
+   Tours en 4 heures, 8 jours vers Angoulême en 8 heures, pour Bordeaux 10
+   jours et demi passent à moins de onze heures.
+   Agrandir Original (jpeg, 294k)
 
-     * Abstract
-     * Full HTML
-     * PDF (59.69 KB)
-     * References
+   Tableau 2. – Évolution des durées de trajet depuis Paris au XIX^e
+   siècle. Sources : Almanach royal, Almanach national an IX et 1830
+   (diligence 1800 et 1830) ; Annuaire des Postes, 1840 (malle-poste
+   1840) ; Indicateur Chaix 1870 (Chemin de fer 1870).
 
-Database links
+   27C’en est fini de la représentation ancienne, linéaire, des
+   déplacements, rattachés à une succession d’étapes. Avec la diffusion
+   des cartes et la banalisation des allers-retours se développe une
+   appréhension globale, rayonnante, d’un territoire national presque
+   voisin. Alexandre Dumas, dans ses Mémoires résume ainsi cette
+   évolution : « On va au Havre, on revient le jour même, et on peut
+   encore être à Aix-la-Chapelle le lendemain. » La circulation nouvelle
+   introduit une nouvelle dimension, la distance-temps, qui rend plus
+   confuse la perception des frontières. Le profil spatial, rural ou
+   urbain, régional ou international, se modifie selon la perspective de
+   la vitesse. La vapeur fait exploser les limites traditionnelles de
+   l’espace local, l’enveloppe du lieu éclate. Que peut-on voir en six
+   jours, hors des frontières, loin de Paris selon Théophile Gautier ? :
+   Neuchâtel, Berne, Heidelberg, Mannheim, le Rhin, Düsseldorf, Rotterdam,
+   La Haye, Anvers et Bruxelles. Le périmètre quotidien peut s’élargir à
+   l’espace européen (tableau 3) : 36 heures de malle-poste vers
+   Clermont-Ferrand, Lyon ou Mulhouse se transforment en train en 1890 en
+   Prague, Rome, Madrid ou Copenhague, Brest en voiture devient Naples ou
+   Cracovie en wagon. Les jours de voyage à pied, à raison de quarante
+   mille pas par jour, se transforment en heures de transport. La vitesse
+   bouleverse ainsi brutalement, en deux ou trois générations, tous les
+   repères de l’espace et du temps, entraînant l’Europe dans
+   l’accélération du quotidien.
+   Agrandir Original (jpeg, 192k)
 
-     * PubMed Record
+   Tableau 3. – De la France à l’Europe : évolution du rayon d’action
+   (1840-1890).
 
-Metrics
+Bibliographie
 
-     * Show article metrics
+BIBLIOGRAPHIE
 
-Services
+   Avril L., Mémoires d’un enfant du peuple, Genève, 1852.
 
-     * Articles citing this article
-       CrossRef (2)
-     * Same authors
-       - Google Scholar
-       - EDP Sciences database
-       - PubMed
-     * Recommend this article
-     * Send to my Kindle
-     * Download citation
+   Baudelaire Ch., Correspondance, t. I, Paris, Gallimard, coll.
+   « Bibliothèque de la Pléiade », 1973.
 
-Related Articles
+   Bérenger L.-P., Les soirées provençales ou lettres écrites à ses amis
+   pendant ses voyages dans sa Patrie, t. II, Paris, Nyon, 1787.
 
-   Quand le gène est en conflit avec son environnement — Une introduction
-   à la médecine darwinienne (Bernard Swynghedauw)
-   Med Sci (Paris) 2010 ; 26 : 433–434
-   Fæces vivos docent — Microbiome intestinal ancien et problématiques
-   médicales contemporaines
-   Med Sci (Paris) 2017 ; 33 : 984–990
-   Des communautés de phages divergentes contrôlent-elles la microflore
-   intestinale ?
-   Med Sci (Paris) 2011 ; 27 : 229–231
-   Les enjeux médicaux et sociétaux du microbiote
-   Med Sci (Paris) 2016 ; 32 : 1003–1008
-   Les défis du microbiote
-   Med Sci (Paris) 2016 ; 32 : 919–920
-   (BUTTON) More
+   Brecy G. de, Mémoires véridiques et ingénus de la vie privée, morale et
+   politique d’un homme de bien, Paris, 1834.
 
-Bookmarking
+   Comte A., Lettres d’Auguste Comte à M. Valat, 1815-1844, Paris, Dunod,
+   1870.
 
-     *
-     *
-     *
-     *
-     *
+   Corson J. W., Loiterings in Europe, or Sketches of Travel in France,
+   Belgium, Switzerland, Italy…, New York, Harper, 1848.
 
-     * Reader's services
-     * Email-alert
+   Deffand marquise du, Correspondance complète, t. I, Paris, Plon, 1865.
 
-médecine/sciences
+   Dickens Ch., The Posthumous Papers of the Pickwick Club, Penguin Books,
+   1976.
 
-   Chief editor: Jean-Luc Teillaud - Deputy-chief editor: Thierry Jouault
-   Chief copy editor: François Flori - Associate editor: Jean-Pierre
-   Hardelin - Editorial board
-   ISSN: 0767-0974 - eISSN: 1958-5381
-   © médecine/sciences - Inserm
-   All rights reserved
-     *
-     *
-     *
-     *
+   Diderot D., Correspondance, in Œuvres complètes, t. XVIII, Paris,
+   Garnier, 1876.
 
-   EDP Sciences
+   Dumas A., Mes Mémoires, t. III, Paris, Gallimard, 1966.
+
+   Eames J. A., A Budget of Letters or Things which I saw Abroad, Boston,
+   1847.
+
+   Falloux A. de, Mémoires d’un royaliste, t. I, Paris, Perrin, 1888.
+
+   Flaubert G., Madame Bovary, Paris, Les Belles Lettres, 1945.
+
+   Faucheur N., Mon histoire, Lille, 1886.
+
+   Gautier T., Loin de Paris, Paris, 1865.
+
+   Hazlitt W., On going a Journey, in The Complete Works, t. VIII, New
+   York, AMS Press, 1967.
+
+   Hiester J. P., Notes of a travel, being a Journal of a Tour in Europe,
+   Philadelphia, 1845.
+
+   Hugo V., Œuvres complètes, t. XIII, Paris, Laffont, coll. « Bouquins »,
+   1987.
+
+   Lebeuf, Lettres de l’abbé Lebeuf, Auxerre, Perriquet, 1867, t. II.
+
+   Menière, Journal du Docteur Prosper Ménière. 1833, publié par son fils,
+   Paris, Calmann-Lévy, 1882.
+
+   Michelet J., Histoire du XIXè siècle, Paris, Lévy, 1875.
+
+   Michelet J., Ma jeunesse, Paris, Calmann-Lévy, 1884 et Journal
+   (1828-1848), t. I, Paris, Gallimard, 1959.
+
+   Mercier L. S., Tableau de Paris, t. V, Amsterdam, 1782-1788.
+
+   Nadaud M., Mémoires de Léonard ancien garçon maçon (1895), Paris,
+   Hachette, 1976.
+
+   Pasteur L., Correspondance, 1840-1895, t. I, Paris, Grasset.
+
+   Paucton A. J. P., Métrologie, ou Traité des mesures, poids et monnaies
+   des anciens Peuples et des Modernes, Paris, 1780.
+
+   Perdiguier A., Mémoires d’un compagnon, Paris, Maspéro, 1977.
+
+   Proudhon P. J., Correspondance de P. J. Proudhon, t. I, Paris, Lacroix,
+   1875.
+
+   Quincey T. de, The Collected writings of Thomas de Quincey, t. I et
+   XIII, Londres, 1897.
+
+   Soulié F., Les mémoires du diable, Paris, 1844.
+
+   Stendhal, Mémoires d’un touriste, et Œuvres intimes, t. I, Paris,
+   Gallimard, coll. « Bibliothèque de la Pléiade », 1981.
+
+   Thoreau D. H., Walking, in The Writings of Heny David Thoreau, t. V,
+   New York, AMS Press, 1968.
+
+   Turgot A. R. J., Œuvres, Paris, Alcan, t. IV, 1923.
+
+   Wille J.-G., Mémoires et journal de J. G. Wille graveur du roi, Paris,
+   Renouard, 1857.
+
+   Wright H., Desultory Reminiscences of a Tour through Germany,
+   Switzerland, and France, by an american, Boston, 1838.
+
+   Young A., Voyage en France en 1787, 1788 et 1789, t. I, Paris, A.
+   Colin, 1931.
+
+Table des illustrations
+
+   Légende Tableau 1. – Voyager en France au rythme du marcheur : en pas
+   et en jours.
+   URL http://books.openedition.org/pur/docannexe/image/102180/img-1.jpg
+   Fichier image/jpeg, 353k
+   Légende Carte 1. – Le rayon d’action en 1765.Temps de parcours en coche
+   ou carrosse public depuis Paris, de 3 à 12 jours.Source : L’indicateur
+   fidèle, de Michel et Desnos, 1765.
+   URL http://books.openedition.org/pur/docannexe/image/102180/img-2.jpg
+   Fichier image/jpeg, 94k
+   Légende Carte 2. – Le rayon d’action postal en 1840.Temps de parcours
+   en malle-poste depuis Paris, de 1 à 3 jours.Source : Annuaire des
+   Postes, 1840.
+   URL http://books.openedition.org/pur/docannexe/image/102180/img-3.jpg
+   Fichier image/jpeg, 87k
+   Légende Carte 3. – Le rayon d’action en 1870. Temps de parcours en
+   train depuis Paris, en 3, 12 ou 24 heures.Source : Guide Chaix, 1870.
+   URL http://books.openedition.org/pur/docannexe/image/102180/img-4.jpg
+   Fichier image/jpeg, 92k
+   Légende Tableau 2. – Évolution des durées de trajet depuis Paris au
+   XIX^e siècle. Sources : Almanach royal, Almanach national an IX et 1830
+   (diligence 1800 et 1830) ; Annuaire des Postes, 1840 (malle-poste
+   1840) ; Indicateur Chaix 1870 (Chemin de fer 1870).
+   URL http://books.openedition.org/pur/docannexe/image/102180/img-5.jpg
+   Fichier image/jpeg, 294k
+   Légende Tableau 3. – De la France à l’Europe : évolution du rayon
+   d’action (1840-1890).
+   URL http://books.openedition.org/pur/docannexe/image/102180/img-6.jpg
+   Fichier image/jpeg, 192k
+
+Auteur
+
+   Christophe Studeny
+   EHESS
+
+Du même auteur
+
+     * Introduction in De l'histoire des transports à l'histoire de la
+       mobilité ?, Presses universitaires de Rennes, 2009
+     * Une histoire de la vitesse : le temps du voyage in Mobilités et
+       temporalités, Presses de l’Université Saint-Louis, 2005
+
+   Le texte et les autres éléments (illustrations, fichiers annexes
+   importés) sont sous Licence OpenEdition Books, sauf mention contraire.
+   Celui qui court plus vite avance-t-il davantage ? Vitesse, mobilité et
+   inégal...
+
+   Introduction
+
+Lire
+
+   Accès ouvert
+   Mode lecture ePub PDF du livre PDF du chapitre
+
+   Freemium
+   Suggérer l'acquisition à votre bibliothèque
+   La révolution des transports et l’accélération de la France (1770-1870)
+
+De l'histoire des transports à l'histoire de la mobilité ?
+
+   Vincent Guigueno et Mathieu Flonneau (dir.)
+   …
+
+   Vérifiez si votre institution a déjà acquis ce livre :
+   authentifiez-vous à OpenEdition Freemium for Books.
+   Vous pouvez suggérer à votre bibliothèque/établissement d’acquérir un
+   ou plusieurs livres publié(s) sur OpenEdition Books.
+   N'hésitez pas à lui indiquer nos coordonnées :
+   OpenEdition - Service Freemium
+   access@openedition.org
+   22 rue John Maynard Keynes Bat. C - 13013 Marseille France
+   Vous pouvez également nous indiquer à l'aide du formulaire suivant les
+   coordonnées de votre institution ou de votre bibliothèque afin que nous
+   les contactions pour leur suggérer l’achat de ce livre.
+
+   Merci, nous transmettrons rapidement votre demande à votre
+   bibliothèque.
+   Votre nom (*)
+
+   ____________________ Votre affiliation
+
+   ____________________ Votre courriel (*)
+
+   ____________________ Nom de l'établissement :
+
+   ____________________
+
+   Adresse email de la bibliothèque de votre institution : (*)
+   ____________________
+
+   Envoyer
+
+Acheter
+
+Volume papier
+
+   Presses universitaires de
+   Renneslcdpu.frplacedeslibraires.frleslibraires.frdecitre.frmollat.comam
+   azon.fr
+   ePub / PDF
+
+De l'histoire des transports à l'histoire de la mobilité ?
+
+Référence électronique du chapitre
+
+Format
+
+   OpenEdition APA MLA
+   STUDENY, Christophe. La révolution des transports et l’accélération de
+   la France (1770-1870) In : De l'histoire des transports à l'histoire de
+   la mobilité ? [en ligne]. Rennes : Presses universitaires de Rennes,
+   2009 (généré le 03 janvier 2024). Disponible sur Internet :
+   <http://books.openedition.org/pur/102180>. ISBN : 9782753566835. DOI :
+   https://doi.org/10.4000/books.pur.102180.
+   Studeny, C. 2009. La révolution des transports et l’accélération de la
+   France (1770-1870). In Guigueno, V., & Flonneau, M. (Eds.), De
+   l'histoire des transports à l'histoire de la mobilité ? Presses
+   universitaires de Rennes. doi :10.4000/books.pur.102180
+   Studeny, Christophe. “La révolution des transports et l’accélération de
+   la France (1770-1870)”. Guigueno, Vincent, et Mathieu Flonneau. De
+   l'histoire des transports à l'histoire de la mobilité ? Rennes :
+   Presses universitaires de Rennes, 2009. (pp. 117-133) Web.
+   <http://books.openedition.org/pur/102180>.
+
+Référence électronique du livre
+
+Format
+
+   OpenEdition APA MLA
+   GUIGUENO, Vincent (dir.) ; FLONNEAU, Mathieu (dir.). De l'histoire des
+   transports à l'histoire de la mobilité ? Nouvelle édition [en ligne].
+   Rennes : Presses universitaires de Rennes, 2009 (généré le 03 janvier
+   2024). Disponible sur Internet :
+   <http://books.openedition.org/pur/102111>. ISBN : 9782753566835. DOI :
+   https://doi.org/10.4000/books.pur.102111.
+   Guigueno, V., & Flonneau, M. (Eds.) 2009. De l'histoire des transports
+   à l'histoire de la mobilité ? Presses universitaires de Rennes.
+   doi :10.4000/books.pur.102111
+   Guigueno, Vincent, et Mathieu Flonneau, ed. De l'histoire des
+   transports à l'histoire de la mobilité ? Rennes : Presses
+   universitaires de Rennes, 2009. Web.
+   <http://books.openedition.org/pur/102111>.
+   Compatible avec Zotero
+   La révolution des transports et l’accélération de la France (1770-1870)
+
+De l'histoire des transports à l'histoire de la mobilité ?
+
+   Vincent Guigueno et Mathieu Flonneau (dir.)
+   …
+
+La révolution des transports et l’accélération de la France (1770-1870)
+
+   Christophe Studeny
+
+Partager
+
+   Partager l’URL Intégrer
+   URL : http://books.openedi [BUTTON Input] (not implemented)______
+     * Twitter
+     * Facebook
+     * Courriel
+
+Taille :
+
+   petit (500x375 px) Moyen (800x600 px) Grand (1024x768 px)
+
+Collez le code html suivant pour intégrer ce livre sur votre site.
+
+
+   <iframe src="https://books.openedition.org/pur/102180?f
+   _______________________________________________________
+   _______________________________________________________
+   _______________________________________________________
+   [BUTTON Input] (not implemented)______
+   Presses universitaires de Rennes
+
+Presses universitaires de Rennes
+
+Plan du site
+
+     * Collections
+          + Æsthetica
+          + Des Amériques
+          + Économie, gestion et société
+          + Enquêtes et documents
+          + Géographie sociale
+          + Histoire
+          + Histoire de la littérature française
+          + Interférences
+          + La Licorne
+          + Le sens social
+          + Mémoire commune
+          + Nouvelles Recherches sur l’Imaginaire
+          + Psychologies
+          + Res publica
+          + Spectaculaire | Cinéma
+          + Spectaculaire | Arts de la scène
+          + Tables des Hommes
+     * Tous les livres
+     * Accéder aux livres
+          + Par auteurs
+          + Par personnes citées
+          + Par mots clés
+          + Par géographique
+          + Par dossiers
+     * Informations
+          + À propos / Contacts
+     * Accès réservé
+
+Suivez-nous
+
+     * RSS
+
+   Courriel :
+   pur@univ-rennes2.fr
+
+   URL :
+   http://www.pur-editions.fr
+
+   Adresse :
+   2, avenue Gaston Berger
+   CS 24307
+   F-35044 Rennes cedex
+   France
+   OpenEdition Books
+     * Catalogue
+     * Auteurs
+     * Éditeurs
+     * Dossiers
+     * Extraits
+
+   OpenEdition
+
+   OpenEdition est un portail de ressources électroniques en sciences
+   humaines et sociales.
+     * OpenEdition Journals
+     * OpenEdition Books
+     * Hypothèses
+     * Calenda
+     * OpenEdition Freemium
+
      * Mentions légales
-     * Advertisers information
-     * Contact us
-     * Privacy policy
+     * CGU
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Signaler un problème
 
-   A Vision4Press website
+   (BUTTON)
+
+   Rechercher dans OpenEdition Search
+
+   Vous allez être redirigé vers OpenEdition Search
+   ____________________
+   ( ) Dans tout OpenEdition
+   (*) Dans Presses universitaires de Rennes
+   (BUTTON) Rechercher
+
+     * Français
+          + English
+          + Español
+          + Italiano
+          + Deutsch
+
+     * Partager
+          + Facebook
+          + Twitter
+          + Google+
+
+   ">
+   (BUTTON)
+
+     * Accueil
+     * Catalogue des 14284 livres
+     * Éditeurs
+     * Auteurs
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   (BUTTON) Français
+     * English
+     * Español
+     * Italiano
+     * Deutsch
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
+   Suivez-nous

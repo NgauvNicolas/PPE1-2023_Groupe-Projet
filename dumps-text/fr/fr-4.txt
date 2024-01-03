@@ -1,747 +1,682 @@
-   #RSS alternate alternate alternate alternate alternate alternate
-   Contents Présentation de l'université d'été L'université sportive d'été
-   et son avenir L'audience de la presse sportive RDF Bibliontology Search
-   on OpenEdition
-
-   Version classiqueVersion mobile
-   Maison des Sciences de l’Homme d’Aquitaine
-
-Maison des Sciences de l’Homme d’Aquitaine
-
-   OpenEdition Books Maison des Sciences de l’Homme d’Aquitaine Cahiers de
-   l’université sportive ... Le club sportif au quotidien Évolution et
-   situation de la pres...
-   L'université sportive d'été et son avenir
-   L'audience de la presse sportive
-
-Le club sportif au quotidien
-
-    |
-   Jean-Paul Callède
-
-En marge de l'université d'été
-
-   Évolution et situation de la presse écrite en France
-   Rechercher dans le livre ____________________ OK
-   Table des matières
-   Citer Partager
-   Cité par
-   page d’information recensé par
-
-Évolution et situation de la presse écrite en France
-
-   Jacques Marchand
-   p. 197-204
-   Texte Auteur
-
-Texte intégral
-
-   1La communication existe depuis que l'homme est sur la terre.
-
-   2La radio a été précédée par les conteurs d’histoires.
-
-   3Les grands reportages commencent avec l'Iliade, l'Odyssée et se
-   poursuivent avec les aventures de Marco Polo.
-
-   4Le journal a été écrit avant d'être imprimé. Les Egyptiens, les
-   Romains, les Chinois avaient déjà créé des journaux recopiés à la main
-   par les scribes.
-
-   5Quelques dates ont marqué des tournants dans la création et le
-   développement de la presse en France. Cette évolution a toujours été
-   tributaire, sans doute des progrès techniques de l'impression et de la
-   diffusion, mais aussi de l'Histoire de France. La presse écrite a été
-   le reflet de différentes sociétés et surtout des différents régimes
-   politiques, qui lui ont accordé ou retiré la liberté d'expression.
-
-   1438 :
-
-   Gutenberg invente la typographie. Pourtant l'effet n'est pas immédiat
-   sur l'édition. On publie quelques feuilles volantes, parfois imprimées,
-   mais souvent encore manuscrites, appelées à l'époque des "occasionnels"
-   ou des "canards".
-   Il faudra attendre près d'un siècle et demi pour assister à la
-   naissance du premier journal.
-
-   1631 :
-
-   Au mois de janvier, un imprimeur parisien crée une publication
-   hebdomadaire, sous le titre : Les nouvelles ordinaires de divers
-   endroits. Au mois de mai, ce journal est repris par Théophraste
-   Renaudot, qui en change le titre et lance La Gazette. Docteur en
-   médecine, né à Loudun, diplômé de la Faculté de Montpellier,
-   Théophraste Renaudot est un protégé de Marie de Médicis, qui en fait le
-   premier responsable de la communication, mais lui confie aussi le titre
-   de Commissaire général aux pauvres du royaume, ce qui lui permet de
-   faire édifier à Paris un dispensaire pour les indigents, initiative qui
-   déplait au corps médical et lui fait beaucoup d'ennemis. Il se sert de
-   sa plume, très brillante, pour défendre et renforcer ses positions.
-   Mais en bon directeur de presse, Théophraste Renaudot a le sens
-   commercial et un sens pratique du service à rendre au public.
-   Il avait ouvert à Paris, dans l'Ile de la Cité, à l’enseigne du "Grand
-   Coq" un Bureau d'adresse et de rencontre, cette officine permettait aux
-   particuliers de se rencontrer pour échanger des services, des
-   informations, des objets, des demandes et des offres d'emploi.
-   Théophraste Renaudot avait donc installé son service de "petites
-   annonces" avant de créer son journal et s'en est habilement servi pour
-   le lancer.
-   Il avait obtenu la protection du Cardinal de Richelieu, lui arrachant
-   même en 1635 un contrat d'exclusivité pour son titre, car il a le droit
-   de faire imprimer et vendre les gazettes et récits de tout ce qui s'est
-   passé et passe, tant dedans que dehors le royaume, conférences, prix
-   courants des marchandises et autres impressions des dits bureaux
-   (d'adresse) et ce exclusivement à toutes les autres personnes.
-   La Gazette soutiendra Mazarin sous la Fronde et en 1762, Choisel
-   reprend le titre pour en faire La Gazette de France. Le tirage d’abord
-   modeste : 1200 exemplaires pour 4 pages (1638) monte à 4500 exemplaires
-   pour 12 pages (1683) mais il atteindra 12 000 exemplaires dans les
-   années 1880, pendant la guerre de l'Indépendance américaine, qui a son
-   héros et sa vedette : le général La Fayette.
-   Entre temps, la presse française s’est enrichie et La Gazette n'est
-   plus seule sur le marché. Sous Louis XIV en particulier, la presse se
-   développe et surtout se spécialise avec le Mercure de France (journal
-   littéraire), le Journal des Savants fondé par Colbert, le Journal de la
-   Médecine, le Journal du Palais pour le monde de la justice et même le
-   Journal des Dames ancêtre de la presse féminine.
-   Mais une autre date marque une étape...
-
-   1777 :
-
-   Le premier quotidien : Le Journal de Paris, dont le succès sera
-   difficile, d'abord parce que la concurrence de La Gazette même
-   périodique persiste et aux XVIème et XVIIème siècles, la presse est
-   assez méprisée par l'élite sociale et par les intellectuels. On lui
-   reproche d'être soumise au pouvoir. Le Journal de Paris, contrôlé par
-   la Maison Royale, le sera jusqu’en 1789.
-
-LIBERTE D’EXPRESSION ACCORDEE ET REPRIMEE
-
-   6La Révolution change tout, et surtout l'article Il de la Déclaration
-   des Droits de l’Homme et du Citoyen du 26 août 1789 :
-
-     "La libre communication de la pensée et des opinions est un des
-     droits les plus précieux de l’homme : tout citoyen peut donc parler,
-     écrire, imprimer librement, sauf à répondre de l’abus de cette
-     liberté dans les cas déterminés par la loi".
-
-   7Il s'ensuit une floraison de nouveaux titres : 1500 entre 1789 et
-   1800.
-
-   8Mais la totale liberté pour la presse n'a qu'un temps, elle est déjà
-   réduite sous la Terreur, parce que la "patrie est en danger", elle le
-   sera encore bien plus après le 18 Brumaire, et Napoléon qui entend tout
-   contrôler, n'autorise plus que dix journaux. Son opinion sur la presse
-   est résumée par quelques lignes d’une lettre adressée à Fouché, son
-   Ministre de l'Intérieur :
-
-     "Réprimez un peu plus les journaux. S'ils ne me sont pas utiles, je
-     les supprimerai et n’en conserverai qu'un seul. Le temps de la
-     Révolution est fini, je ne souffrirai jamais que les journaux disent
-     ni fassent rien contre mes intérêts."
-
-   9Le retour des Bourbons, par rapport à l'empire, apporte un courant de
-   libéralisation, bien que l'autorisation préalable soit maintenue. La
-   Monarchie de Juillet tente aussi de réagir car elle n'est pas ménagée
-   par la presse d’opposition et surtout par la presse satirique, les
-   caricatures de Daumier sont impitoyables pour Louis-Philippe, qui en
-   viendra à établir la censure sur les dessins.
-
-   10La Deuxième République (1848-1851) apporte un peu d'oxygène à la
-   liberté de la presse, mais ensuite Napoléon III reprend les méthodes de
-   son oncle, sans les pousser aussi loin, car il n'en a pas les moyens.
-   Malgré la succession de restrictions, de tracasseries, de poursuites,
-   d'interdictions et même d’emprisonnements et d’exils des journalistes,
-   la presse s'est organisée et s'est fortifiée dans ses luttes avec les
-   différents pouvoirs politiques. A chaque République, la presse a
-   augmenté le nombre de ses titres et à chaque monarchie ou empire, elle
-   l'a diminué, mais elle n'a cessé de faire progresser l'importance de
-   son lectorat.
-
-   11Elle a bénéficié de plusieurs facteurs :
-     * L'industrialisation des méthodes de fabrication qui vont permettre
-       d'abaisser le prix de vente des journaux.
-     * La conquête d'un nouveau marché en ralliant la clientèle
-       bourgeoise.
-     * Le développement de l’Instruction, qui va encore s'accentuer sous
-       la 3ème République.
-     * L’évolution des techniques : l'encre est de meilleure qualité, le
-       papier de bois est remplacé par le papier de chiffon, les
-       composeuses, les linotypes et les presses mécaniques font leur
-       apparition dans les imprimeries avant la fin du XIXème siècle. Et
-       en 1914, les rotatives permettront à Paris de tirer 50 000
-       exemplaires de 24 pages à l'heure.
-     * Le chemin de fer facilite le transport et la diffusion du papier de
-       presse.
-     * La publicité (appelée réclame à l'époque) devient une ressource
-       lucrative.
-     * Les transmissions des nouvelles sont facilitées par le télégraphe
-       électrique mis au point par Morse (1845) et le transcripteur
-       permettra dès 1866 de débiter 1000 mots à l'heure. Ce qui implique
-       l'activité des agences de presse, et en particulier de l'agence
-       française Havas (1835).
-
-LE GRAND ESSOR DE LA PRESSE
-
-   12Dernier facteur qui n'est pas des moindres, la conception du
-   journalisme s'est modernisée et mieux adaptée aux besoins du public,
-   qui s'intéresse à l'actualité et aux mouvements des idées... depuis
-   1789.
-
-   13La presse prend sa place dans la vie sociale. Emile de Girardin l'a
-   compris le premier et pour cette raison apparaît comme l'un des
-   pionniers du journalisme moderne. Il n'a pas inventé la publicité,
-   Théophraste Renaudot et d’autres y ont pensé avant lui, mais il a su en
-   tirer des ressources suffisantes pour faire abaisser de moitié le prix
-   des abonnements de son journal La Presse (1834) et de son principal
-   concurrent Le Siècle. Il assure le succès relatif de sa nouvelle
-   formule en créant la mode du feuilleton par sa publication dans La
-   Presse des péripéties du "Capitaine Paul" d'Alexandre Dumas (1838). Le
-   Siècle réplique par "Les Trois Mousquetaires" et "Le Comte de Monte
-   Cristo" et Le Constitutionnel gagne 15 000 abonnements avec... "Le Juif
-   Errant".
-
-   141863 est pourtant la date essentielle de l'avènement de la presse
-   populaire, lorsque Moïse Millaud innove avec Le Petit Journal, premier
-   quotidien vendu au numéro. En le proposant pour 5 centimes, il abaisse
-   encore le prix de moitié par rapport à l'abonnement consenti vingt ans
-   plus tôt par Le Siècle et La Presse, évalué à environ 10 centimes le
-   numéro, ce qui était jugé à l’époque avantageux.
-
-   15La presse va conquérir au cours de la Troisième République une
-   puissance politique, en exploitant toutes les affaires (Boulangisme,
-   Panama, Dreyfus) et acquérir une puissance commerciale. En fait sur les
-   60 titres publiés à Paris en 1910, les quatre principaux, qui
-   constituent la grande presse d'information et des faits divers, font
-   monter les tirages considérablement. D'abord Le Petit Journal reste
-   longtemps le leader, il conserve sa formule de journal populaire,
-   retenant la fidélité de ses lecteurs par la publication de feuilletons
-   en vogue et toujours un peu extravagants du genre "Rocambole" de Ponson
-   du Terrail et "L'Affaire Lerouge" de Gaboriau. Il atteint ainsi en 1890
-   le million de numéros vendus quotidiennement.
-
-   16Cependant, il n'est pas le seul en compétition et Le Petit Parisien,
-   fondé par Jean Dupuy, passera en tête, avant la guerre de 1914, en
-   réalisant le plus fort tirage de toute la presse quotidienne mondiale :
-   1 500 000 exemplaires. Le Matin de Bunau-Varilla avec son style
-   américain et Le Journal d’Eugène Letellier tiennent également le
-   peloton de tête des tirages avec respectivement 900 000 et 1 million
-   d'exemplaires.
-
-   17La presse politique, en raison de sa diversité et de son
-   incontestable "pluralisme" n'a pas les mêmes résultats de vente, mais
-   réussit à couvrir toutes les tendances et même les nuances de la
-   politique républicaine. La gauche socialiste a son porte-drapeau avec
-   L'Humanité, fondée en 1904 par Jean Jaurès, le radicalisme dispose de
-   La Justice, L'Aurore où Zola publiera son célèbre "J'accuse", en pleine
-   affaire Dreyfus. Le Figaro d'abord monarchiste, puis républicain
-   modéré, perdra ses lecteurs en raison de ses positions dans l'affaire
-   Dreyfus et perdra ensuite son nouveau directeur qui l'avait remis sur
-   la voie du conservatisme traditionnel : Gaston Calmette est assassiné
-   par Madame Joseph Caillaux en mars 1914.
-
-   18Dans la presse "centriste", on peut aussi classer Le Journal des
-   Débats très académique et Le Temps qui disposait d'une grande audience
-   à l'étranger, comme Le Monde aujourd'hui pour le sérieux de ses
-   informations et de son style, et pourtant il ne vendait que 35 à 40 000
-   exemplaires.
-
-   19La droite classique ne manquait pas de plumes et de feuilles :
-   L'Intransigeant de Rochefort, repris ensuite par Léon Bailby, La
-   Liberté, La Patrie, La Presse et surtout L'Echo de Paris. Encore plus
-   antiparlementariste : l'extrême droite monarchiste, dont la fameuse
-   Gazette de France qui existait toujours et surtout L'Action Française
-   animée par deux redoutables polémistes : Léon Daudet et Charles
-   Maurras, organe des "camelots du Roi".
-
-   20La presse religieuse fut assez active à cette époque avec La Défense
-   sociale et religieuse de Mgr Dupanloup (1876) et La Vérité (1893). Le
-   Sillon de Marc Sangnier ayant été condamné en 1910 par le Pape Pie X,
-   c'est La Maison de la Bonne Presse qui devient le fondement de la
-   presse catholique moderne, avec Le Pélerin (1876) et La Croix, qui
-   passera quotidien en 1883.
-
-   21La presse française s'est aussi spécialisée : le théâtre a son
-   quotidien Comoedia (1907) et le sport en a deux : Le Vélo (1891) et
-   L'Auto (1900).
-
-   22Si la grande province a gagné la province, surtout Le Petit Journal à
-   ses débuts, la presse régionale s’organise dans le même temps, son
-   premier quotidien Le Journal de Guyenne est imprimé à Bordeaux dès
-   1786. Les statistiques montrent ensuite la progression de la PQR
-   (Presse Quotidienne Régionale) :
-
-   1812 :4
-
-   quotidiens représentent
-
-   3000 exemplaires
-
-   1832 : 32
-
-   quotidiens représentent
-
-   20 000 exemplaires
-
-   1860 : 60
-
-   quotidiens représentent
-
-   120 000 exemplaires
-
-   1870 : 100
-
-   quotidiens représentent
-
-   350 000 exemplaires
-
-   1914 : 242
-
-   quotidiens représentent
-
-   4 000 000 exemplaires
-
-   (donc au moment où la presse nationale totalise 5 500 000 exemplaires)
-
-   23Cette progression constante des tirages de la presse quotidienne
-   française, qui atteint sa pointe en 1914, se recoupe avec une autre
-   statistique portant sur le rapport entre le nombre d'habitants et le
-   nombre d’acheteurs de la presse quotidienne.
-
-   24Il y avait en France, en :
-
-   1810 : 1
-
-   lecteur pour 1000 habitants
-
-   1830 : 3
-
-   lecteurs pour 1000 habitants
-
-   1860 : 25
-
-   lecteurs pour 1000 habitants
-
-   1870 : 73
-
-   lecteurs pour 1000 habitants
-
-   1914 : 244
-
-   lecteurs pour 1000 habitants
-
-   1939 : 261
-
-   lecteurs pour 1000 habitants
-
-   et en 1988, 185 lecteurs pour 1000 habitants. La France est tombée au
-   31ème rang mondial.
-
-   25Pourquoi le Français se détourne-t-il de sa presse quotidienne dans
-   un monde de pleine communication ?
-
-SITUATION ACTUELLE PREOCCUPANTE
-
-   26Quelle est la situation actuelle de la presse française ?
-
-   27Les évaluations les plus récentes du service juridique de
-   l'Information recensent 2937 titres publiés en France dont 130
-   quotidiens, 898 hebdos, 1205 mensuels, 704 trimestriels ou autres
-   parutions.
-
-   28Les 130 quotidiens se répartissent en :
-     * 15 Nationaux (dont les spécialisés : L'Équipe, Paris-Turf,
-       Quotidien du Médecin...)
-     * 70 régionaux
-     * 45 départementaux
-
-   29Le tirage quotidien des 15 nationaux représente environ 2 800 000
-   exemplaires.
-
-   30Le tirage quotidien des 70 régionaux représente environ 7 000 000
-   exemplaires.
-
-   31Le tirage quotidien des 45 départementaux représente environ
-   1 200 000 exemplaires.
-
-   32Le tirage total de la presse quotidienne est donc d'environ
-   11 millions d'exemplaires. En comptant 20 % d'invendus, on arriverait à
-   8 ou 9 millions d’acheteurs de quotidiens. Ce qui, nous le rappelons,
-   selon une statistique de l'UNESCO, place les Français au 31ème rang
-   mondial avec 185 lecteurs de quotidiens pour 1000 habitants, alors que
-   le Japon en compte 562, la RDA 550, la Finlande 535, la Suède 531,
-   l'URSS 422, la Grande Bretagne 414, la RFA 350, les USA 268.
-
-   33On peut noter que dans le classement des dix premiers quotidiens
-   français établi par l'OJD (Office de Justification de la Diffusion) sur
-   la moyenne quotidienne de diffusion, c'est-à-dire de vente réelle, les
-   quotidiens régionaux sont en bonne place et certains devancent même les
-   nationaux.
-
-   1 Ouest-France
-
-   736 423
-
-   2 Le Figaro
-
-   443 006
-
-   3 La Voix du Nord
-
-   377 219
-
-   4 France-Soir
-
-   374 525
-
-   5 Le Monde
-
-   363 663
-
-   6 Sud-Ouest
-
-   360 766
-
-   7 Le Dauphiné
-
-   359 489
-
-   8 Le Parisien
-
-   357 776
-
-   9 La Nouvelle République
-
-   272 724
-
-   10 Le Progrès
-
-   271 036
-
-   34A titre indicatif : Libération est en 20ème position avec 165 539
-   exemplaires et L'Équipe en 15ème avec 254 327 exemplaires.
-
-   35La chute de France-Soir est assez spectaculaire pour être passée en
-   30 ans de 1 500 000 exemplaires par jour à 350 000... et certainement
-   plus près de 250 000 aux prochaines statistiques.
-
-   36La situation de la presse régionale est meilleure que celle de la
-   presse nationale, qui subit beaucoup plus les effets de la concurrence
-   d'autres médias.
-
-   37D'abord dans la presse hebdomadaire et mensuelle spécialisée,
-   quelques chiffres de tirage de magazines suffisent à apprécier
-   l'importance de la clientèle :
-
-   Femme Actuelle
-
-   1 835 000 exemplaires
-
-   Modes et Travaux
-
-   1 400 000 exemplaires
-
-   38Mais le record appartient à la presse de télévision :
-
-   Télé 7 Jours
-
-   3 137 000
-
-   Télé Poche
-
-   1 769 000
-
-   Télé Star
-
-   1 530 420
-
-   Télérama
-
-   514 500
-
-   39Ensuite, la concurrence directe de la radio et de la télévision : un
-   Français sur deux déclare suivre l'actualité au Journal télévisé et
-   s'en contenter.
-
-   40Il y a d'autres raisons de la presse écrite, dont l'insuffisance de
-   la modernisation technique de sa fabrication, un prix de vente encore
-   excessif, une distribution qui n'est pas toujours adaptée aux exigences
-   du lecteur et une rédaction qui n'a pas toujours su se remettre en
-   cause et évoluer avec son temps.
-
-   41A-t-elle eu en particulier le bon réflexe et la bonne attitude face à
-   la presse audiovisuelle ? En encourageant directement ou indirectement
-   son lecteur à s’intéresser aux programmes de télévision, la presse
-   écrite lui retire un temps de lecture et de ce fait se pénalise
-   lourdement.
-
-   42Comment rendre indispensable et agréable à l'aube du XXIème siècle la
-   lecture de la presse quotidienne, comme elle l’était à la fin du XIXème
-   siècle et dans la plus grande partie du XXème siècle ?
-   Agrandir Original (jpeg, 77k)
-
-Table des illustrations
-
-     URL   http://books.openedition.org/msha/docannexe/image/12194/img-1.jpg
-   Fichier image/jpeg, 77k
+   #Commentaires pour "Gènes, culture et évolution : nouvel éclairage sur
+   l’aventure humaine"
+
+   Accéder à la navigation
+
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Sections
+
+Vous êtes ici
+
+   Accueil / Articles / Gènes, culture et évolution : nouvel éclairage sur
+   l’aventure humaine
+
+Gènes, culture et évolution : nouvel éclairage sur l’aventure humaine
+
+Vous êtes ici
+
+   Accueil / Articles / Gènes, culture et évolution : nouvel éclairage sur
+   l’aventure humaine
+   [gb.svg] Read in English
+   0 commentaire
+   Vivant
+   Entretien
+   ^-A ^+A
+     * Imprimer
+
+   article
+
+Gènes, culture et évolution : nouvel éclairage sur l’aventure humaine
+
+   09.01.2023, par
+   Matthieu Stricot
+   Plusieurs représentants de l’humanité reconstitués par l’atelier
+   Elisabeth Daynes, paléoartiste, à partir d’éléments fossiles retrouvés
+   et attribués aux genres Australopithecus, Homo et Sahelantropus.
+   Photo Philippe Plailly, reconstitutions Elisabeth Daynes /
+   LookatSciences
+   Partager
+   Partager
+   Pourquoi Homo sapiens a-t-il eu la « bougeotte », finissant par
+   coloniser l’ensemble de la planète ? Comment des facteurs culturels
+   ont-ils influé sur nos gènes ? L’anthropologue et généticienne Évelyne
+   Heyer nous raconte l’aventure humaine à travers l’espace et le temps,
+   au prisme des dernières conclusions tirées grâce à la génétique.
+
+   Cet entretien a été initialement publié dans le n° 13 de la
+   revue Carnets de science
+
+   Il y a différentes approches pour retracer l’aventure humaine. Votre
+   équipe d’anthropologie génétique étudie l’histoire de cette évolution
+   de manière autant biologique que culturelle…
+   Évelyne Heyer1. Oui, nous partons de l’idée que l’humain transmet non
+   seulement ses gènesFermerUn gène correspond à une portion d’ADN de
+   quelques milliers à plus de 2 millions de nucléotides, ou « lettres »,
+   correspondant à une information génétique particulière., mais aussi sa
+   culture, et que cela va jouer dans son évolution. L’unité de recherche
+   Éco-anthropologie2 que je dirige mêle donc sciences de la vie et
+   sciences humaines et sociales, en incluant de la génétique des
+   populations, de l’ethnologie, de l’anthropologie, de la linguistique,
+   de la primatologie ou encore de la démographie historique. En somme,
+   l’éco-anthropologie propose une lecture originale en étudiant comment
+   les humains façonnent des cultures et des environnements, et comment,
+   « en retour », ceux-ci façonnent également la biologie de nos
+   organismes au travers de l’évolution.
+
+   Y a-t-il eu un déclic, une énigme sans réponse, qui vous a poussée vers
+   cette approche ?
+   É. H. C’est à peu près ça. Pour ma thèse sur les populations humaines,
+   j’essayais de comprendre pourquoi il existait une forte prévalence
+   d’une maladie génétique rare dans une population humaine donnée. J’ai
+   vite remarqué que les concepts appris en génétique des populations et
+   en théorie de l’évolution ne suffisaient pas à expliquer cette
+   prévalence. Il fallait ajouter une composante culturelle. Je me suis
+   donc ensuite décidée à explorer cette dimension dans l’évolution
+   biologique des populations.
+
+   L’anthropologue et généticienne Évelyne Heyer, en juillet 2022.
+   L’anthropologue et généticienne Évelyne Heyer, en juillet 2022.
+
+   CNRS Le Journal (BUTTON)
+   L’anthropologue et généticienne Évelyne Heyer, en juillet 2022.
+   L’anthropologue et généticienne Évelyne Heyer, en juillet 2022.
+   Pascal Ito / Flammarion
+   Pascal Ito / Flammarion
+   Partager
+   Partager
+
+   En quoi les récentes découvertes en génétique révolutionnent-elles ce
+   que l’on sait de l’histoire de l’évolution humaine ?
+   É. H. Le grand progrès de ces vingt dernières années est l’accès
+   facilité aux données génétiques au niveau des individus grâce aux
+   méthodes de séquençage haut débit. Par exemple, on peut aujourd’hui
+   séquencer tout le génome d’un individu en moins d’une journée.
+   L’ADN nous permet aussi d’accéder à de nouvelles informations du point
+   de vue culturel, de révéler des manières d’être au monde auxquelles on
+   n’aurait pas accès autrement.
+
+   Notre ADNFermerMacromolécule en forme de double-hélice contenant
+   l’information génétique. Il est constitué d’une succession de
+   3,5 milliards de nucléotides, ou « lettres », de quatre sortes : A, T,
+   G et C. est en quelque sorte une mosaïque de différents fragments
+   transmis par nos ancêtres. En comparant ces fragments au sein
+   d’individus de différentes zones géographiques, on peut retracer s’ils
+   avaient des ancêtres communs et, donc, retracer des migrations. Cela
+   permet aussi de comprendre de manière plus fine comment les structures
+   de parenté jouent sur la diversité génétique : elles peuvent favoriser
+   davantage les migrations des femmes que celles des hommes et elles
+   favorisent ou limitent les mariages entre apparentés.
+
+   ​L’ADN nous permet aussi d’accéder à de nouvelles informations du point
+   de vue culturel, de révéler des manières d’être au monde auxquelles on
+   n’aurait pas accès autrement. En travaillant sur des gènes impliqués
+   dans l’adaptation à l’alimentation, ceux qui permettent la digestion de
+   tel ou tel aliment par exemple, on peut ainsi étudier le degré
+   d’adaptation des humains à leur environnement.
+
+   Les différences entre êtres humains et grands singes ont donné lieu à
+   de longs débats. Qu’apporte la génétique sur cette question épineuse ?
+   É. H. Elle a permis de donner une estimation de la date de séparation
+   entre deux lignages : celui qui va vers les chimpanzés et bonobos et
+   celui qui va vers les humains. Elle remonterait ainsi à il y a
+   7 millions d’années. Du point de vue de la génétique, on sait aussi
+   qu’il n’y a que 1,2 % de différence entre un humain et un chimpanzé. En
+   d’autres termes, seul 1,2 % de l’ADN est différent entre nos deux
+   espèces. Pour le moment, on ne remarque pas de gène à effet majeur qui
+   expliquerait qu’on soit un humain ou un chimpanzé. Ce serait donc plus
+   complexe que cela, la différence se situerait plutôt au niveau de
+   disparités dans l’expression des gènes qui fonctionnent en réseaux.
+
+   Les grands singes ont-ils aussi une culture ?
+   É. H. Oui, cela a été démontré. Dans notre unité de recherche, ma
+   collègue primatologue Shelly Massi a montré que le fait d’utiliser deux
+   mains pour casser des pierres n’est pas spécifiquement humain et qu’on
+   trouve aussi ce geste chez les gorilles : il appartient à la culture de
+   ces singes. Sabrina Krief, de la même unité, a quant à elle montré que
+   les chimpanzés pratiquaient l’automédication en utilisant certaines
+   plantes, dans la mesure où elle y a effectivement trouvé des substances
+   actives efficaces. Des groupes de chimpanzés ont également des
+   comportements distincts pour l’épouillage, la manière d’aller chercher
+   la nourriture ou de la préparer. Ces comportements culturels
+   spécifiques, qui ne se retrouvent pas d’un groupe à l’autre et ne
+   s’expliquent pas par des différences environnementales, sont
+   fascinants.
+
+   Ce chimpanzé mange une plante de la famille des phytolaccacées reconnue
+   pour ses vertus thérapeutiques et largement utilisée dans l’industrie
+   pharmaceutique. Depuis une vingtaine d’années, les observations
+   d’automédication chez les animaux s’accumulent, principalement chez les
+   primates.
+
+   CNRS Le Journal (BUTTON)
+   Ce chimpanzé mange une plante de la famille des phytolaccacées reconnue
+   pour ses vertus thérapeutiques et largement utilisée dans l’industrie
+   pharmaceutique. Depuis une vingtaine d’années, les observations
+   d’automédication chez les animaux s’accumulent, principalement chez les
+   primates.
+   Jean-Michel Krief
+   Jean-Michel Krief
+   Partager
+   Partager
+
+   Les innovations culturelles se sont également révélées déterminantes
+   dans l’évolution des premiers hominidés. Des préhistoriens, dont
+   Sandrine Prat3, ont ainsi montré que les premiers outils trouvés dans
+   la lignée humaine, au sens large, existaient bien avant la lignée Homo
+   et étaient contemporains des australopithèques.
+
+   La manière de se déplacer des hominidés, ou plutôt la façon dont elle a
+   évolué, se révèle bien plus complexe qu’on ne le pensait il y a
+   quelques décennies. Pourquoi ?
+   É. H. On sait désormais que la locomotion des chimpanzés sur deux
+   pattes ou quatre pattes en marchant sur leurs articulations n’est
+   qu’une spécialisation. Quand on remonte à l’ancêtre commun, on trouve
+   en effet quelque chose d’intermédiaire entre bipède et non bipède. Il
+   s’agit en fait d’un critère quantitatif et non qualitatif : c’est la
+   quantité de temps passé sur deux pattes qui varie d’une lignée à
+   l’autre. Ainsi le « fémur de ToumaïFermerIl est nommé ainsi car il a
+   été trouvé au Tchad en 2001 près de « Toumaï », surnom d’un crâne qui
+   permit de décrire "Sahelanthropus tchadensis". Du haut de ses 7
+   millions d’années, cette espèce est considérée comme la plus ancienne
+   représentante de l’humanité. Resté une énigme pendant vingt ans,
+   l’analyse de la structure de ce fémur, réalisée par une équipe
+   impliquant des chercheurs du laboratoire Palevoprim (CNRS/Université de
+   Poitiers) et leurs partenaires tchadiens, a récemment permis de
+   renforcer l’hypothèse de la bipédie de Sahelanthropus. Cette bipédie
+   coexistait en milieu arboricole avec une quadrupédie assurée par des
+   prises fermes de la main, différant clairement de celle des gorilles et
+   des chimpanzés », trouvé au Tchad en 2001, montre qu’il était bipède
+   habituel, mais pas uniquement, il était aussi arboricole et quadrupède.
+
+   À gauche, le fémur trouvé au Tchad en 2001 près de « Toumaï », crâne
+   qui permit de décrire "Sahelanthropus tchadensis". La carte de
+   variation de son épaisseur corticale 3D (épaisseur des différentes
+   couches de la structure des os), ici réalisée au côté de celles des
+   fémurs d’un humain moderne, d’un chimpanzé et d’un gorille, a notamment
+   renforcé l’hypothèse de la bipédie de "Sahelanthropus".
+
+   CNRS Le Journal (BUTTON)
+   À gauche, le fémur trouvé au Tchad en 2001 près de « Toumaï », crâne
+   qui permit de décrire "Sahelanthropus tchadensis". La carte de
+   variation de son épaisseur corticale 3D (épaisseur des différentes
+   couches de la structure des os), ici réalisée au côté de celles des
+   fémurs d’un humain moderne, d’un chimpanzé et d’un gorille, a notamment
+   renforcé l’hypothèse de la bipédie de "Sahelanthropus".
+   Franck Guy / Palevoprim / CNRS Photothèque
+   Franck Guy / Palevoprim / CNRS Photothèque
+   Partager
+   Partager
+
+   Un moment déterminant dans l’évolution humaine a eu lieu il y a environ
+   2 millions d’années, quand le premier hominidé (Homo erectus ou Homo
+   habilis, on l’ignore) est sorti d’Afrique. On le sait grâce à la
+   découverte de la mandibule de Dmanissi en 1991, dans l’actuelle
+   Géorgie, site majeur sur lequel a beaucoup travaillé Dominique
+   Grimaud-Hervé, paléo-anthropologue au laboratoire Histoire naturelle de
+   l’Homme préhistorique4.
+   Il y a environ 2 millions d’années, quand le premier hominidé est sorti
+   d’Afrique, la lignée Homo est devenue essentiellement bipède. La forme
+   du bassin a changé, le canal pelvien s’est resserré, tandis que la
+   taille du cerveau et donc du crâne augmentent…
+
+   À cette époque, la lignée Homo est devenue essentiellement bipède. La
+   forme du bassin a changé, le canal pelvien (par où passe le bébé à la
+   naissance) s’est resserré, tandis que la taille du cerveau et donc du
+   crâne augmentent… C’est le fameux paradoxe obstétrical qui rend les
+   accouchements complexes. Par sélection naturelle, une naissance plus
+   immature est alors davantage favorisée dans notre espèce que chez les
+   autres. Si bien que le petit humain, à la naissance, ne possède que
+   25 % de la taille finale de son cerveau, contre 40 % chez
+   le chimpanzé ! Notre cerveau continue de se développer après la
+   naissance pendant une période beaucoup plus longue que les autres
+   espèces, lors d’un indispensable apprentissage par interactions
+   sociales, fondamental dans la construction de l’individu.
+
+   On a souvent dit que le langage articulé était le propre de Sapiens.
+   Est-ce vraiment le cas ou l’homme de Néandertal en était aussi pourvu ?
+   É. H. Notre espèce a une faculté de langage exceptionnelle qu’on ne
+   retrouve chez aucune autre. Selon moi, ça fait partie des traits
+   importants qui expliquent le succès évolutif de Sapiens. Mais la
+   capacité de langage ne se réduit pas à des capacités anatomiques. Dès
+   qu’on observe une capacité à concevoir des symboles, représenter des
+   concepts – ce qui était le cas chez Néandertal mais aussi chez
+   Erectus –, il est vraisemblable d’imaginer que les individus avaient un
+   langage.
+
+   Les branches de Sapiens et de Néandertal ont divergé il y a
+   600 000 ans. Quelles sont leurs différences génétiques ?
+   É. H. De manière surprenante, la recherche a montré qu’il n’y a pas
+   tant de gènes fortement différents entre les deux espèces : seuls une
+   soixantaine d’entre eux varient systématiquement, c’est-à-dire que tous
+   les Néandertal portent des mutationsFermerErreurs lors de la copie de
+   l’ADN, ne serait-ce que d’un ou deux nucléotides, ou « lettres ».
+   identiques que l’on ne retrouve pas chez les Sapiens. À présent, les
+   chercheurs essayent de comprendre les effets de ces différences, même
+   si chez Sapiens, on a toujours du mal à comprendre à quoi servent
+   certains gènes… Sans compter qu’on sait maintenant que tous les gènes
+   s’expriment en réseaux et interagissent les uns avec les autres. Il
+   reste beaucoup à découvrir à ce sujet…
+
+   Pourquoi parle-t-on aujourd’hui d’un « buissonnement » de l’évolution ?
+   É. H. Parce que les avancées génétiques ont notamment montré qu’il y a
+   eu des croisements entre Sapiens et Néandertal, Sapiens et Denisova, et
+   aussi entre Néandertal et Denisova. C’est un buissonnement avec de
+   nombreuses branches qui se croisent. Les analyses des chercheurs de
+   l’Institut Max Planck sur une phalange découverte en 2008 dans la
+   grotte de Denisova, en Sibérie, ont été déterminantes en la matière :
+   elles ont permis de découvrir une nouvelle lignée humaine, celle de
+   Denisova. En analysant l’ADN dans les terres de la grotte, ils ont
+   aussi pu proposer un scénario de 100 000 ans d’histoire du peuplement
+   de cette grotte. Au début y vivaient des Néandertaliens, puis des
+   Néandertaliens et des Dénisoviens. Le climat se réchauffe ensuite et,
+   sans qu’on sache pourquoi, il ne reste plus que Néandertal. Denisova
+   revient, puis Néandertal n’est plus là et, à la fin, cohabitent
+   Néandertaliens, Denisoviens et Sapiens. Les recherches sur ce site
+   archéologique majeur ont été possibles grâce à des développements
+   technologiques extraordinaires et aux millions d’euros investis.
+
+   Collecte de sédiments dans la grotte de Denisova, en Sibérie, en juin
+   2021. Collecte de sédiments dans la grotte de Denisova, en Sibérie, en
+   juin 2021. En analysant l’ADN trouvé dans les terres de la grotte, des
+   chercheurs de l’Institut Max-Planck ont pu proposer un scénario de
+   100 000 ans d’histoire du peuplement des lieux où auraient vécu
+   Néandertaliens, Dénisoviens et Sapiens selon différentes combinaisons
+   de cohabitation.
+
+   CNRS Le Journal (BUTTON)
+   Collecte de sédiments dans la grotte de Denisova, en Sibérie, en juin
+   2021.
+   Collecte de sédiments dans la grotte de Denisova, en Sibérie, en
+   juin 2021. En analysant l’ADN trouvé dans les terres de la grotte, des
+   chercheurs de l’Institut Max-Planck ont pu proposer un scénario de
+   100 000 ans d’histoire du peuplement des lieux où auraient vécu
+   Néandertaliens, Dénisoviens et Sapiens selon différentes combinaisons
+   de cohabitation.
+   Handout / Dr. Richard G. Roberts / AFP
+   Handout / Dr. Richard G. Roberts / AFP
+   Partager
+   Partager
+
+   L’émergence puis l’évolution de notre espèce, suivies de son expansion
+   hors d’Afrique, sont-elles une suite d’adaptations ?
+   É. H. Les recherches montrent bien que les lignées Homo ont établi des
+   réseaux de populations qui ont chacune réalisé des petites innovations
+   et des échanges génétiques et culturels permettant, in fine,
+   l’émergence d’une nouvelle espèce. Mais à l’heure actuelle, l’histoire
+   que l’on peut reconstituer est fragmentaire car, en Afrique, on ne
+   trouve des restes humains que là où leur conservation est possible, à
+   savoir sous un climat sec. Cela nous limite à la vallée du Rift, au
+   Tchad, à l’Afrique du Sud et au Maroc.
+
+   La migration est-elle constitutive de notre espèce ?
+   É. H. Oui, mais ça ne veut pas dire que tout le monde migre. Notre
+   génome révèle à la fois ces histoires de migration mais aussi
+   des adaptations locales, avec des populations stabilisées sur plusieurs
+   milliers d’années. Pourquoi Sapiens a-t-il autant bougé ? Je ne vois
+   pas de raison climatique, ni écologique car nous étions alors très peu
+   nombreux et il n’y avait pas de pénurie de nourriture qui aurait
+   justifié notre sortie d’Afrique. Je crois que ce n’était tout
+   simplement pas volontaire et que notre espèce a migré sans s’en rendre
+   compte, faisant quelques kilomètres par génération, et finissant par
+   coloniser l’ensemble de la planète, en allant voir « de l’autre côté de
+   la colline », par curiosité. Seuls certains lieux ont nécessité une
+   réelle adaptation des points de vue technologique et biologique, car
+   l’être humain a la faculté d’être étonnamment généraliste.
+
+   Ces voyages ont-ils eu des répercussions dans notre diversité génétique
+   ?
+   É. H. Oui, car cela a limité les différences entre les populations.
+   Songez que deux humains pris au hasard sur la planète sont
+   génétiquement identiques à 99,9 % ! De petites différences peuvent
+   tenir à des adaptations locales : par exemple, les habitants du plateau
+   tibétain ont une adaptation génétique à l’altitude, notamment grâce à
+   des gènes hérités de l’homme de Denisova. Mais depuis notre sortie
+   d’Afrique, la seule différence génétique qui se traduit par une
+   importante différence phénotypique (c’est-à-dire un trait observable),
+   c’est la couleur de peau. Celle-ci correspond à une adaptation à
+   l’ensoleillement. Dans les zones où il est fort, il vaut mieux avoir
+   une peau foncée qui protège des désagréments apportés par certains
+   rayons UV.
+   L’Européen typique d’avant le Néolithique, il y a entre 40 000 et
+   5 000 ans, était plutôt de peau foncée, voire noir. Avec des yeux
+   bleus, car une autre mutation nous indique qu’en Europe du Nord et de
+   l’Ouest, c’était très fréquent.
+
+   Une fois hors d’Afrique, pensait-on, Sapiens aurait rencontré des
+   environnements avec des ensoleillements moins forts, en Europe ou en
+   Chine continentale par exemple, entraînant une sélection des couleurs
+   de peau plus claires qui permettent de mieux assimiler la vitamine D
+   grâce aux UV-B5. Mais certaines études d’ADN ancien montrent que ce ne
+   serait pas aussi simple. On retrouve en effet les différentes mutations
+   génétiques qui codent pour une couleur de peau foncée jusqu’à une
+   période étonnamment récente en Europe. C’est par exemple le cas dans le
+   génome d’une jeune femme morte il y a 6 000 ans et retrouvée au
+   Danemark. Il s’avère en fait que l’adaptation à un ensoleillement plus
+   faible par une couleur de peau plus claire est d’autant plus importante
+   que l’alimentation est pauvre en vitamine D.
+
+   La sélection d’une couleur de peau plus claire en Europe s’est donc
+   certainement produite lors du passage à une alimentation moins riche en
+   vitamine D, au Néolithique, que les préhistoriens situent entre - 6 000
+   et - 3 000 en Europe. Ce qui signifie que, en l’état actuel des
+   connaissances, l’Européen typique d’avant le Néolithique, il y a entre
+   40 000 et 5 000 ans, était plutôt de peau foncée, voire noir. Avec des
+   yeux bleus, car une autre mutation nous indique qu’en Europe du Nord et
+   de l’Ouest, c’était très fréquent.
+
+   Comment travaillez-vous sur le terrain ?
+   É. H. En Afrique centrale, je m’appuie sur les ethnologues de mon unité
+   qui travaillent dans la région depuis plus de vingt ans. Ces personnes
+   ont une connaissance des populations, ont accès aux autorités et elles
+   connaissent des homologues sur place. Cela permet de mener des enquêtes
+   interdisciplinaires bien préparées. En Ouzbékistan, je travaille dans
+   les villages avec des chercheurs de l’Académie des sciences. En
+   Sibérie, je me suis aussi appuyée sur un ethnologue de mon unité, Boris
+   Chiclo, parti en amont pour trouver des interlocuteurs locaux. Nous
+   formons toujours des équipes mêlant des chercheurs en sciences humaines
+   et en biologie.
+
+   Certaines populations se sont très peu déplacées sur de longues
+   périodes. Quels exemples a-t-on de leur « rencontre » avec d’autres
+   peuples arrivant dans leur région ?
+   É. H. En Asie centrale, les Yaghnob, derniers locuteurs de
+   l’indo-iranien de l’est, langue des marchands le long de la route de la
+   soie, sont restés relativement stables depuis plus de 3 000 ans. Mais
+   il y a aussi eu beaucoup de migrations dans cette zone du globe,
+   notamment avec l’arrivée des peuples dits « turcs » il y a 2 000 ans.
+   D’autres populations, qui étaient là auparavant, se sont mélangées plus
+   ou moins fortement avec des populations du plateau iranien. Tandis
+   qu’en Amérique du Sud, les populations de la Terre de Feu ont un
+   phénotype très différent des autres populations du continent. Elles
+   sont issues de la grande arrivée des Sapiens en Amérique, autour de
+   15 000 ans, par le détroit de Béring. D’ailleurs, on sait maintenant
+   qu’il y a eu une phase assez longue, de plusieurs millénaires, de
+   stabilité du peuplement dans le détroit, qui était devenu une zone de
+   refuge au moment de la grande glaciation.
+
+   Quels résultats permettent de démontrer qu’il y a eu de nombreux
+   mélanges en Europe ?
+   É. H. En 2015, un article majeur6 montrait que la population d’Europe
+   était issue d’un mélange de plusieurs grandes vagues de peuplement.
+   D’abord les premiers chasseurs-cueilleurs, arrivés il y a 40 000 ans,
+   puis les populations néolithiques qui ont amené l’agriculture depuis
+   l’Anatolie il y a 8 000 ans et, enfin, une troisième vague, à l’âge du
+   bronze, dite des « Yamnayas », venue de la steppe autour de la mer
+   Caspienne il y a 5 000 ans. Cette vague-ci de migration s’avère aussi
+   importante dans notre génome que les précédentes, mais elle n’avait pas
+   touché certaines populations, notamment les populations de Sardaigne.
+   Or en 1991, on avait retrouvé une momie du Néolithique dans les Alpes :
+   Ötzi. En comparant son ADN avec celui des populations modernes
+   européennes, on a remarqué que cet homme ressemblait aux populations
+   sardes. La proximité d’Ötzi avec ces peuples s’expliquait donc
+   principalement par le fait qu’il ait vécu avant les migrations
+   des Yamnayas.
+
+   Réplique d’Ötzi, « l’homme des glaces », momie du Néolithique
+   découverte dans les Alpes en 1991. Elle est ici exposée en 2011 au
+   musée archéologique du Haut-Adige, à Bolzano, en Italie.
+
+   CNRS Le Journal (BUTTON)
+   Réplique d’Ötzi, « l’homme des glaces », momie du Néolithique
+   découverte dans les Alpes en 1991. Elle est ici exposée en 2011 au
+   musée archéologique du Haut-Adige, à Bolzano, en Italie.
+   Robert Parigger / APA-PictureDesk via AFP
+   Robert Parigger / APA-PictureDesk via AFP
+   Partager
+   Partager
+
+   À quoi sert-il de comprendre les interactions entre évolution
+   biologique et culture ?
+   É. H. Tout groupe humain a envie de se différencier de son voisin, de
+   là naissent des différences culturelles. Et on peut par exemple
+   comprendre les facteurs culturels qui ont entraîné des différences
+   génétiques entre groupes humains. Prenons l’Asie centrale, la langue y
+   a un effet majeur : on préfère se marier avec quelqu’un qui vit à
+   2 000 kilomètres mais parle la même langue, plutôt qu’une personne du
+   village d’à côté qui parle un idiome différent. La manière de se marier
+   et les normes sociales, telles que le nombre d’enfants par famille,
+   favorisent aussi des différences. D’autres variations tiennent à des
+   choix culturels liés à l’alimentation. Par exemple, les Inuits, qui ont
+   une alimentation riche en oméga 3, ont sélectionné au fil des
+   générations une mutation qui leur permet de mieux digérer ce type de
+   lipides.
+
+   Les recherches du paléo-anthropologue Yves Coppens, décédé le 22 juin
+   dernier, vous ont-elles inspirée au long de votre parcours ?
+   É. H. Il étudiait des périodes plus anciennes et des objets différents,
+   mais j’admirais sa capacité à intégrer les nouveaux résultats de la
+   recherche, même quand ils n’allaient pas dans le sens de ce qu’il
+   pensait. C’est un état d’esprit particulièrement crucial dans une
+   science en mouvement. Il m’a beaucoup apporté humainement et je partage
+   son souci de la diffusion des connaissances.
+
+   Origines, migrations, cultures, gènes… Vos travaux sont au cœur de
+   nombreuses questions sociétales très débattues. Comment les
+   diffusez-vous au grand public ?
+   É. H. J’ai notamment travaillé sur l’exposition « Nous et les autres –
+   Des préjugés au racisme » en 2017/2018 au musée de l’Homme. J’étais
+   alors commissaire scientifique générale de la rénovation de cette
+   institution. Nous avons réfléchi aux connaissances qu’on pouvait
+   apporter en s’associant avec des historiens et des sociologues sur les
+   questions de société comme le racisme. J’essaie aussi de trouver le
+   temps pour rédiger des ouvrages aussi accessibles que possible. Mon
+   livre L’Odyssée des gènes avait pour objectif de montrer que nous avons
+   tous des ancêtres migrants. Une question définitivement d’actualité. ♦
+
+   À lire
+   – La Vie secrète des gènes, É. Heyer, Flammarion, 2022, 160 p.
+   – L’Odyssée des gènes, É. Heyer, Flammarion, 2020, 388 p.
+   – On vient vraiment tous d’Afrique ?, É. Heyer et C. Reynaud-Paligot,
+   Flammarion, 2019, 144 p.
+   – Une belle histoire de l’Homme, É. Heyer (dir.), préface de Y.
+   Coppens, Flammarion, 2015, 144 p.
+
+
+   Notes
+     * 1. Directrice de l’unité Éco-anthropologie (CNRS/Muséum national
+       d’histoire naturelle-MNHN) et professeure d’anthropologie génétique
+       au MNHN.
+     * 2. Unité CNRS/MNHN.
+     * 3. Chercheuse au Groupe interdisciplinaire Grand Rift Africain du
+       CNRS.
+     * 4. Unité CNRS/MNHN/Université de Perpignan Via Domitia.
+     * 5. Leur action permet la métabolisation par le foie d’une forme
+       particulière de la vitamine D, commune dans le sang, et transformée
+       par le rein en la forme active de la vitamine.
+     * 6. “Massive migration from the steppe was a source for
+       Indo-European languages in Europe”, Haak et al., Nature, 522, 207,
+       2015.
+
+   Aller plus loin
+   0 commentaire
+
+Mots-clés
+
+   Homo Sapiens Évolution Gènes ADN anthropologie Génétique mutations
+   Culture Migrations séquençage haut débit grands singes Yaghnob
+   Néandertal Denisova fémur de Toumaï Yamnayas Ötzi
+
+Partager cet article
 
 Auteur
 
-   Jacques Marchand
+   Matthieu Stricot
 
-   Président Honoraire de l'U.S.J.S.F.
+   Spécialisé dans les thématiques liées aux religions, à la spiritualité
+   et à l’histoire, Matthieu Sricot collabore à différents médias, dont Le
+   Monde des Religions, La Vie, Sciences Humaines ou encore l’Inrees.
+   En savoir plus sur l'auteur
+   Un robot plongeur pour nettoyer les zones côtièresPrécédent
+   Des muons en Islande Suivant
 
-Du même auteur
+Voir aussi
 
-     * Bilan du stage "Communication” in Sports et environnement, Maison
-       des Sciences de l’Homme d’Aquitaine, 1994
-     * La communication in Le club sportif au quotidien, Maison des
-       Sciences de l’Homme d’Aquitaine, 1989
-     * Les journalistes du sport au sein de l'U.S.E. in Sports et
-       environnement, Maison des Sciences de l’Homme d’Aquitaine, 1994
-     * Tous les textes
+   Vivant
+   Blog
+   20/12/2023
+   Améliorer la détection de certaines maladies grâce à une analyse...
+   Article
+   20/12/2023
+   15 livres de science pour les fêtes
+   Vidéo
+   18/12/2023
+   Les gardiens des trésors du Muséum
+   Blog
+   21/12/2023
+   Entre mère et père, des apports génétiques pas tout à fait...
+   extrait de la vidéo © CNRS 2023
+   Blog
+   11/12/2023
+   Cellule souche cherche sa destinée
+   Entretien
+   Article
+   04/12/2023
+   La créativité peut-elle être artificielle ?
+   Article
+   30/11/2023
+   Climat : « C'est aussi à l'échelle des villes que la...
+   Vallée de l’Omo, formation Shungura
+   Article
+   16/11/2023
+   Le Grand Rift africain, berceau et avenir de l’humanité
+   Article
+   21/11/2023
+   L'hydraulique, une histoire vieille de 9000 ans
+   Article
+   31/10/2023
+   La mafia, le silence et l’anthropologue
+   Homo Sapiens
+   «AO le dernier Neandertal», 2010, de Jacques Malaterre / Collection
+   ChristopheL © UGC YM / France 2 Cinéma
+   Article
+   26/06/2023
+   Néandertal était aussi un artiste
+   Article
+   21/05/2021
+   « Biodiversité : il n’est pas trop tard pour agir »
+   Article
+   10/12/2019
+   Le génome des Papous, mémoire de l'humanité
+   Article
+   10/09/2019
+   À quoi ressemblait l’ancêtre d’Homo sapiens?
+   Article
+   10/04/2019
+   Une nouvelle espèce humaine découverte aux Philippines
 
-   Le texte et les autres éléments (illustrations, fichiers annexes
-   importés) sont sous Licence OpenEdition Books, sauf mention contraire.
-   Cette publication numérique est issue d’un traitement automatique par
-   reconnaissance optique de caractères.
-   L'université sportive d'été et son avenir
+Commentaires
 
-   L'audience de la presse sportive
+   0 commentaire
+   Flux RSS
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
 
-Lire
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
 
-   Accès ouvert
-   Mode lecture ePub PDF du livre PDF du chapitre
+Numéros papiers
 
-   Freemium
-   Suggérer l'acquisition à votre bibliothèque
-   Évolution et situation de la presse écrite en France
+   CNRS Le Journal - décembre 2023
+   n°314
+   Voir tous les numéros
 
-Le club sportif au quotidien
+Nous suivre
 
-Mythes, réalités, projets
-
-   Jean-Paul Callède (dir.)
-   …
-
-   Vérifiez si votre institution a déjà acquis ce livre :
-   authentifiez-vous à OpenEdition Freemium for Books.
-   Vous pouvez suggérer à votre bibliothèque/établissement d’acquérir un
-   ou plusieurs livres publié(s) sur OpenEdition Books.
-   N'hésitez pas à lui indiquer nos coordonnées :
-   OpenEdition - Service Freemium
-   access@openedition.org
-   22 rue John Maynard Keynes Bat. C - 13013 Marseille France
-   Vous pouvez également nous indiquer à l'aide du formulaire suivant les
-   coordonnées de votre institution ou de votre bibliothèque afin que nous
-   les contactions pour leur suggérer l’achat de ce livre.
-
-   Merci, nous transmettrons rapidement votre demande à votre
-   bibliothèque.
-   Votre nom (*)
-
-   ____________________ Votre affiliation
-
-   ____________________ Votre courriel (*)
-
-   ____________________ Nom de l'établissement :
-
-   ____________________
-
-   Adresse email de la bibliothèque de votre institution : (*)
-   ____________________
-
-   Envoyer
-
-Acheter
-
-Volume papier
-
-   leslibraires.frdecitre.frmollat.comamazon.fr
-   ePub / PDF
-
-Le club sportif au quotidien
-
-Mythes, réalités, projets
-
-Référence électronique du chapitre
-
-Format
-
-   OpenEdition APA MLA
-   MARCHAND, Jacques. Évolution et situation de la presse écrite en France
-   In : Le club sportif au quotidien : Mythes, réalités, projets [en
-   ligne]. Pessac : Maison des Sciences de l’Homme d’Aquitaine, 1989
-   (généré le 02 janvier 2024). Disponible sur Internet :
-   <http://books.openedition.org/msha/12194>. ISBN : 9782858925476. DOI :
-   https://doi.org/10.4000/books.msha.12194.
-   Marchand, J. 1989. Évolution et situation de la presse écrite en
-   France. In Callède, J. (Ed.), Le club sportif au quotidien : Mythes,
-   réalités, projets. Maison des Sciences de l’Homme d’Aquitaine.
-   doi :10.4000/books.msha.12194
-   Marchand, Jacques. “Évolution et situation de la presse écrite en
-   France”. Callède, Jean-Paul. Le club sportif au quotidien : Mythes,
-   réalités, projets. Pessac : Maison des Sciences de l’Homme d’Aquitaine,
-   1989. (pp. 197-204) Web. <http://books.openedition.org/msha/12194>.
-
-Référence électronique du livre
-
-Format
-
-   OpenEdition APA MLA
-   CALLÈDE, Jean-Paul (dir.). Le club sportif au quotidien : Mythes,
-   réalités, projets. Nouvelle édition [en ligne]. Pessac : Maison des
-   Sciences de l’Homme d’Aquitaine, 1989 (généré le 02 janvier 2024).
-   Disponible sur Internet : <http://books.openedition.org/msha/12044>.
-   ISBN : 9782858925476. DOI : https://doi.org/10.4000/books.msha.12044.
-   Callède, J. (Ed.) 1989. Le club sportif au quotidien : Mythes,
-   réalités, projets. Maison des Sciences de l’Homme d’Aquitaine.
-   doi :10.4000/books.msha.12044
-   Callède, Jean-Paul, ed. Le club sportif au quotidien : Mythes,
-   réalités, projets. Pessac : Maison des Sciences de l’Homme d’Aquitaine,
-   1989. Web. <http://books.openedition.org/msha/12044>.
-   Compatible avec Zotero
-   Évolution et situation de la presse écrite en France
-
-Le club sportif au quotidien
-
-Mythes, réalités, projets
-
-   Jean-Paul Callède (dir.)
-   …
-
-Évolution et situation de la presse écrite en France
-
-   Jacques Marchand
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
 
 Partager
 
-   Partager l’URL Intégrer
-   URL : http://books.openedi [BUTTON Input] (not implemented)______
      * Twitter
      * Facebook
-     * Courriel
+     * Google
+     * Email
 
-Taille :
-
-   petit (500x375 px) Moyen (800x600 px) Grand (1024x768 px)
-
-Collez le code html suivant pour intégrer ce livre sur votre site.
-
-
-   <iframe src="https://books.openedition.org/msha/12194?f
-   _______________________________________________________
-   _______________________________________________________
-   _______________________________________________________
-   [BUTTON Input] (not implemented)______
-   Maison des Sciences de l’Homme d’Aquitaine
-
-Maison des Sciences de l’Homme d’Aquitaine
-
-Plan du site
-
-     * Collections
-          + Cahiers de l’université sportive d’été
-          + Sport et société
-          + Épistémologie
-          + Genre, cultures et sociétés
-          + Médias et TIC
-          + Multilinguisme et langues minoritaires
-          + Politiques urbaines
-          + Russie, traditions et perspectives
-          + Vins, vignes et civilisations
-          + Politiques et élites
-     * Tous les livres
-     * Accéder aux livres
-          + Par auteurs
-          + Par personnes citées
-          + Par mots clés
-          + Par géographique
-     * Informations
-          + Maison des Sciences de l’Homme d’Aquitaine
-     * Accès réservé
-
-Suivez-nous
-
-     * RSS
-
-   Courriel :
-   publication@msha.fr
-
-   URL :
-   http://www.msha.fr
-
-   Adresse :
-   Domaine universitaire, 10 esplanade des Antilles,
-   33 607 Pessac
-   France
-   OpenEdition Books
-     * Catalogue
-     * Auteurs
-     * Éditeurs
-     * Dossiers
-     * Extraits
-
-   OpenEdition
-
-   OpenEdition est un portail de ressources électroniques en sciences
-   humaines et sociales.
-     * OpenEdition Journals
-     * OpenEdition Books
-     * Hypothèses
-     * Calenda
-     * OpenEdition Freemium
-
-     * Mentions légales
-     * CGU
-     * Politique de confidentialité
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2024, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Politique d'accessibilité
      * Gestion des cookies
-     * Signaler un problème
-
-   (BUTTON)
-
-   Rechercher dans OpenEdition Search
-
-   Vous allez être redirigé vers OpenEdition Search
-   ____________________
-   ( ) Dans tout OpenEdition
-   (*) Dans Maison des Sciences de l’Homme d’Aquitaine
-   (BUTTON) Rechercher
-
-     * Français
-          + English
-          + Español
-          + Italiano
-          + Deutsch
-
-     * Partager
-          + Facebook
-          + Twitter
-          + Google+
-
-   ">
-   (BUTTON)
-
-     * Accueil
-     * Catalogue des 14284 livres
-     * Éditeurs
-     * Auteurs
-
-   OpenEdition Search
-   (BUTTON) Tout OpenEdition
-
-   (BUTTON) Français
-     * English
-     * Español
-     * Italiano
-     * Deutsch
-
-   Portail de ressources électroniques en sciences humaines et sociales
-   OpenEdition
-   Nos plateformes
-   OpenEdition Books OpenEdition Journals Hypotheses Calenda
-   Bibliothèques et institutions
-   OpenEdition Freemium
-   Nos services
-   OpenEdition Search La lettre d'OpenEdition
-   Suivez-nous

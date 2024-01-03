@@ -1,304 +1,251 @@
-   #alternate alternate alternate alternate alternate alternate
+   #alternate alternate alternate Business Software Solutions & IT
+   Services » Flux alternate alternate alternate Business Software
+   Solutions & IT Services RSS2 Feed
 
-   ____________________ (BUTTON)
-     *
-     *
-     *
-     *
+   Business Software Solutions & IT Services
 
-   Logo Image
-     * Développement durable
-     * Transition énergétique
-     * Agriculture
-     * Biodiversité
-     * Résistance
-     * À propos
+     * Solutions
+          + Intégration EDI
+          + Intégration du commerce électronique
+          + Intégration de systèmes
+          + Intelligence d’Affaire
+          + Services gérés en nuage
+          + Solution ERP
+          + Solution de Continuité d’Affaires
+          + FactoryEye
+     * Services-conseils
+          + Conseil en technologie
+          + Gestion des projets informatiques
+          + Services de conformité
+     * Compagnie
+          + A propos de nous
+          + Témoignages
+          + Carrières
+     * Aperçus
+          + Ressources
+          + Études de cas clients
+     * Blogue
+     * Contactez-nous
+     * Rechercher
+     * Français
+     * English
+     * Menu Menu
 
-   Blog Image
-   Biodiversité
-     * 21 mars 2022
+     * Facebook
+     * Twitter
+     * LinkedIn
 
-La culture, moteur de l’évolution sur Terre
+   Blogue informatique
+   Vous êtes ici : Accueil1 / Blogue informatique2 / Blogue3 / L’évolution
+   de la technologie et son effet sur les entreprises
 
-     « Les dernières décennies ont révélé que l’apprentissage social et
-     la transmission des traditions culturelles sont beaucoup plus
-     répandus dans le règne animal que ce que l’on soupçonnait
-     auparavant, affectant de nombreuses formes de comportement
-     fonctionnel et créant une forme secondaire d’évolution qui s’ajoute
-     à la forme primaire mieux connue basée sur la génétique^[1]. »
+   Blogue
 
-     – Andrew Whiten, Francisco J. Ayala, Marcus W. Feldman, et Kevin N.
-     Laland, « The extension of biology through culture », revue PNAS,
-     2017.
+L’évolution de la technologie et son effet sur les entreprises
 
-   Après avoir nié son existence durant des décennies, les scientifiques
-   découvrent enfin que la culture influence considérablement l’évolution
-   du vivant. En explorant la vie intime des cachalots, des perroquets
-   aras et des chimpanzés, l’écologue écrivain Carl Safina révèle dans À
-   l’école des animaux (2020) cette facette du monde vivant délibérément
-   ignorée par la science. En effet, les biologistes influents décrivent
-   l’histoire naturelle comme un mouvement mécanique où les espèces
-   « gagnantes » sont celles qui exploitent mieux l’énergie disponible
-   dans leur environnement que les espèces « perdantes » ; les espèces
-   sont réduites à un ensemble uniforme de clones ou de machines programmé
-   par un code – le génome – dans l’unique but de transmettre cette
-   information génétique aux générations suivantes.
+   (Last Updated On: septembre 29, 2023)
 
-   Pourtant, selon le biologiste Kevin Laland :
+   La technologie a toujours joué un rôle central dans l’évolution des
+   entreprises. Depuis l’ère industrielle jusqu’à aujourd’hui, les
+   avancées technologiques ont constamment remodelé la façon dont les
+   entreprises fonctionnent, produisent et interagissent avec leurs
+   clients. Dans cet article, nous explorerons l’évolution de la
+   technologie et son impact sur les entreprises.
 
-     « Dans son livre On Human Nature (1978), le biologiste
-     évolutionniste Edward O. Wilson affirmait que la culture humaine est
-     tenue en laisse par la génétique. Cette métaphore était contestée
-     pour deux raisons. Premièrement, comme nous le verrons plus loin, la
-     culture tient tout autant les gènes en laisse. Deuxièmement, s’il
-     doit exister des caractères génétiques facilitant l’apprentissage
-     culturel, peu de différences culturelles peuvent être expliquées par
-     des différences génétiques sous-jacentes^[2]. »
+   Article's Content
+   Toggle
 
-   Les formes de vie complexes apprennent et se transmettent des
-   connaissances essentielles à leur survie au sein d’un habitat donné.
-   Pour la même espèce, ces connaissances apprises socialement varient en
-   fonction des habitats, et parfois au sein du même habitat. Au sein
-   d’une même espèce, différents groupes aux traditions culturelles
-   variables se forment et ont tendance à s’éviter. Le concept d’identité
-   n’est pas l’apanage de l’espèce humaine, de même que le sens de
-   l’esthétique. Les animaux savent reconnaître et apprécier la beauté,
-   effectuant des choix arbitraires en ce sens qui peuvent conduire à
-   l’émergence de nouvelles espèces. L’évolution du vivant sur Terre est
-   infiniment plus complexe que l’inepte discours dominant dépeignant une
-   guerre permanente pour la survie du plus apte. Il s’agit seulement
-   d’une transposition du fonctionnement de la civilisation industrielle à
-   celui de la nature, en somme, un ethnocentrisme appliqué à l’ensemble
-   du monde vivant. Mais la civilisation produit de l’uniformité
-   biologique et culturelle, et l’évolution, de la diversité biologique et
-   culturelle^[3]. Donc il y a manifestement un problème avec le discours
-   hégémonique en Occident de l’histoire des espèces, et par extension,
-   avec celui relatant l’histoire de l’espèce humaine.
+     * L’Ère Industrielle :
+     * L’Ère de l’Informatique :
+     * L’Ère Numérique :
+     * L’Intelligence Artificielle et l’Automatisation :
+     * L’Impact sur les Entreprises :
+          +
+               o Obtenez les bons conseils de nos experts en TI fiables et
+                 compétents – demandez une consultation informatique
+                 gratuite
 
-   Pour Carl Safina, l’aptitude à reconnaître et apprécier la beauté –
-   « l’agentivité esthétique » – a probablement guidé l’évolution pour
-   produire le « miracle » qui nous sert de maison.
+L’Ère Industrielle :
 
-     « Le goût du beau est une faculté profonde, qui nous a été léguée
-     par un passé d’une inconcevable ancienneté et que partagent à
-     différents degrés de nombreuses créatures. Il me semble que le
-     sentiment du beau existe pour permettre aux êtres vivants de se
-     sentir chez eux, heureux et en vie, ici, sur notre Terre. S’il
-     existe un plus grand miracle que l’existence de la vie, c’est que la
-     Vie a créé pour elle-même le sentiment de la beauté. »
+   L’histoire de l’industrie moderne a commencé avec la révolution
+   industrielle au XVIIIe siècle, marquée par l’invention de la machine à
+   vapeur. Cette avancée a permis la mécanisation de la production,
+   transformant les entreprises de petites unités artisanales en vastes
+   usines. Les entreprises ont gagné en efficacité et en capacité de
+   production, ouvrant ainsi la voie à la production de masse.
 
-   Malgré le titre original « Becoming Wild » étrangement traduit par « À
-   l’école des animaux » dans sa version française – l’éditeur allemand a
-   préféré Der Kultur der wilden Tiere (« La culture des animaux
-   sauvages ») – et une traduction parfois trop littérale comptant
-   quelques erreurs, ce livre vaut le détour. Pour Pierre Jouventin,
-   directeur de recherche émérite au CNRS, Carl Safina est un « excellent
-   pédagogue » qui « sait rendre compréhensibles et amusants des concepts
-   complexes de biologie évolutive et d’écologie comportementale^[4]. »
-   Professeur d’écologie à la Stony Brook University de New York et auteur
-   de plusieurs ouvrages à succès, Carl Safina mêle connaissances
-   scientifiques, poésie et philosophie. La structure du livre en trois
-   parties – la « famille », la « beauté » et la « paix » chez les animaux
-   – dénote par rapport à d’autres ouvrages de spécialistes qui accuseront
-   certainement Carl Safina d’anthropomorphisme – « l’attribution
-   d’émotions humaines à des créatures non humaines ». Il s’en défend :
-   « Je n’attribue rien. J’observe. » Carl Safina se différencie de ses
-   collègues qui brillent bien souvent par leur arrogance extrême et leur
-   cécité chronique (voir les âneries du célèbre biologiste Edward O.
-   Wilson dans son livre Half-Earth^[5]). La science moderne réduit
-   généralement la biosphère à une gigantesque machinerie dont on pourrait
-   comprendre le fonctionnement – et éventuellement prendre le contrôle –
-   en décrivant ses rouages faits de réactions chimiques et de lois
-   physiques.
+L’Ère de l’Informatique :
 
-     « [La séquestration du carbone par l’intermédiaire des interactions
-     entre êtres vivants] n’a rien à voir avec Gaïa ni avec un massage
-     aux herbes ; c’est de la chimie et de la physique^[6]. »
+   Au cours du XXe siècle, la montée en puissance de l’informatique a
+   radicalement changé la manière dont les entreprises fonctionnent.
+   L’invention de l’ordinateur personnel et la démocratisation de l’accès
+   à l’information ont permis aux entreprises de gérer plus efficacement
+   leurs opérations. La numérisation des données a ouvert la porte à de
+   nouveaux modèles commerciaux, notamment le commerce en ligne, les bases
+   de données clients et la gestion électronique des documents.
 
-     – Greg Asner, co-auteur du Global Deal for Nature, un accord
-     international soutenu par de nombreux industriels, institutions
-     étatiques et supra-étatiques, mais très critiqué par les défenseurs
-     des peuples premiers et quelques rebelles dans le milieu de la
-     conservation de la nature.
+L’Ère Numérique :
 
-     « La science moderne apparente l’être humain à une machine, ça ne
-     fait aucun doute^[7]. »
+   Le XXIe siècle a vu l’avènement de l’ère numérique, caractérisée par
+   l’explosion de l’Internet et des technologies de communication. Les
+   entreprises ont dû s’adapter rapidement à l’évolution constante des
+   plateformes numériques, des médias sociaux et de la mobilité. La
+   transformation numérique est devenue un impératif, obligeant les
+   entreprises à repenser leur modèle d’entreprise pour rester
+   compétitives.
 
-     – Rodney Brooks, ancien professeur de robotique au MIT.
+L’Intelligence Artificielle et l’Automatisation :
 
-   Au sein de la communauté scientifique, il existe pourtant depuis
-   plusieurs années un débat sur la nécessité d’une mise à jour de la
-   théorie de l’évolution pour y intégrer les effets du développement des
-   organismes et de l’information apprise et transmise au sein des groupes
-   sociaux. La revue Nature publiait par exemple en 2014 un article
-   intitulé « Does evolutionary theory need a rethink ? » où le biologiste
-   évolutionniste Kevin Laland et ses collègues dénonçaient les angles
-   morts de « la théorie dominante de l’évolution » qui, depuis des
-   décennies, « s’est concentrée presque exclusivement sur l’héritage
-   génétique et les processus qui modifient les fréquences des
-   gènes^[8]. »
+   Aujourd’hui, nous sommes témoins de l’émergence de l’intelligence
+   artificielle (IA) et de l’automatisation avancée. Ces technologies
+   transforment radicalement la manière dont les entreprises fonctionnent.
+   Les chatbots automatisés gèrent le service client, l’analyse des
+   données aide à prendre des décisions stratégiques, et les robots
+   effectuent des tâches répétitives avec une précision incroyable. L’IA
+   offre également de nouvelles opportunités en matière de
+   personnalisation de l’expérience client et d’optimisation des
+   opérations.
 
-   Carl Safina montre qu’à la biodiversité (ou diversité biologique)
-   s’ajoute un autre niveau de diversité largement passé sous silence, la
-   diversité culturelle. Si cela est vrai pour de très nombreux
-   mammifères, dont nos plus proches parents les chimpanzés, ça l’est tout
-   autant pour Homo sapiens. Le Progrès, le développement, ce processus
-   d’acculturation que subit l’humanité sous l’influence croissante des
-   forces marchandes et technologiques, uniformise le monde depuis
-   plusieurs siècles ; biologiquement, en exterminant les espèces non
-   humaines incapables de s’adapter aux perturbations permanentes et
-   croissantes générées par le progrès technique ; et culturellement, en
-   exterminant les cultures non humaines et humaines. De nombreux peuples
-   (Waorani, Kayapo, Lakota, etc.) résistent depuis maintenant plus de 500
-   ans à ce génocide qui s’est grandement accéléré au cours de l’âge
-   industriel^[9]. La civilisation industrielle n’est pas le produit de la
-   nature humaine, mais d’une unique culture détraquée enfantée par une
-   poignée d’élites européennes^[10] déconnectées de la réalité qui
-   reproduisent leur culture – donc leur statut et leurs privilèges – en
-   amalgamant civilisation et évolution. La diversité humaine montre qu’il
-   existe une infinité d’autres manières de faire société et d’habiter ce
-   monde. Pour terminer, si l’évolution produit de la diversité biologique
-   et culturelle, et si la civilisation industrielle fait exactement
-   l’inverse^[11], on peut raisonnablement conclure que la civilisation
-   industrielle est la plus grande régression depuis l’aube de l’humanité.
+L’Impact sur les Entreprises :
 
-   Extrait du livre de Carl Safina :
+   L’effet de l’évolution technologique sur les entreprises est
+   indéniable. D’une part, elle a permis de créer des entreprises
+   innovantes et disruptives, bouleversant des industries entières.
+   D’autre part, elle a posé des défis aux entreprises traditionnelles,
+   les obligeant à s’adapter rapidement pour rester compétitives. La
+   capacité à exploiter efficacement la technologie est devenue un élément
+   clé de la réussite commerciale.
 
-     « Quand nous pensons à la culture, c’est avant tout aux cultures
-     humaines, à notre culture. Nous pensons à des ordinateurs, à des
-     avions, des modes, des équipes sportives et des pop stars. Pendant
-     la majeure partie de l’histoire culturelle humaine, rien de tout
-     cela n’a pourtant existé. Pendant des centaines de milliers
-     d’années, aucune culture humaine n’a eu d’outil à éléments mobiles.
-     Jusqu’à une date avancée du XXe siècle, des tropiques à l’Arctique,
-     les membres de différentes cultures humaines, en quête de
-     nourriture, ont continué à utiliser des outils de pierre, de bois et
-     d’os dans leur recherche alimentaire. Nous pouvons plaindre les
-     chasseurs-cueilleurs pour la simplicité étriquée de leur existence,
-     mais nous aurions tort. Ils détenaient un riche savoir,
-     connaissaient les secrets profonds de leurs territoires et des
-     créatures qui y vivaient. Et ils menaient des existences riches et
-     gratifiantes ; nous le savons parce que lorsque leurs habitudes ont
-     été menacées, ils ont lutté jusqu’à la mort pour les conserver.
-     Malheureusement, c’est encore vrai de nos jours, où les dernières
-     populations tribales battent en retraite devant les exploitations
-     minières et forestières, devant les éleveurs de bétail et les
-     planteurs qui font plus grand cas de l’argent que de l’humanité –
-     la caractéristique la plus marquante peut-être de notre culture.
-     Nous vivons la fin de leur temps et, à divers degrés, nous
-     contribuons tous à cette fin. En dernière analyse, nos valeurs
-     pourraient même se révéler autodestructrices.
+   En conclusion, l’évolution de la technologie a eu un impact profond sur
+   les entreprises, de l’ère industrielle à l’ère numérique et au-delà.
+   Les entreprises qui embrassent le changement technologique et
+   s’adaptent rapidement ont l’opportunité de prospérer dans ce paysage en
+   constante évolution. L’innovation technologique continuera de façonner
+   l’avenir des entreprises, ouvrant la voie à de nouvelles possibilités
+   passionnantes et à de nouveaux défis passionnants.
 
-     On a sous-évalué l’importance de la diversité culturelle dans la
-     famille humaine. De nombreuses cultures ont disparu. Quant à
-     l’importance de la culture dans le monde non humain, elle est passée
-     quasiment inaperçue. La prise de conscience de cette lacune n’en est
-     encore qu’à ses balbutiements. Au cours de la dernière trentaine
-     d’années, on a considéré que la diversité de l’ensemble des êtres
-     vivants, la “biodiversité”, se manifestait à trois niveaux majeurs :
-     la diversité génétique au sein de chaque espèce, la diversité entre
-     les espèces et la diversité des habitats (prairies, forêts, déserts,
-     océans, etc.). Il existe pourtant un quatrième niveau de diversité
-     vivante, que l’on commence à peine à reconnaître : la diversité
-     culturelle. La culture se définit par un ensemble de savoirs et de
-     compétences qui se transmettent d’un individu à l’autre et de
-     génération en génération. Elle s’acquiert socialement. Les individus
-     l’apprennent d’autres individus. C’est un savoir qui ne découle pas
-     du seul instinct. Les gènes ne participent pas à sa transmission. La
-     culture, c’est ce qui est appris et partagé. Nos études de la
-     diversité du vivant commencent à peine à admettre que ce qui est
-     appris et partagé est souvent essentiel à la survie.
 
-     Un bébé cachalot a beaucoup de choses à apprendre. L’art de la
-     plongée en profondeur s’acquiert avec le temps. Les jeunes s’y
-     initient en accompagnant leur mère et d’autres adultes. Avant d’être
-     capables d’utiliser leur propre sonar, ils écoutent probablement les
-     retours d’échos des sonars des membres adultes de leur famille, ils
-     en tirent des informations et assimilent les sons de détection, et
-     ceux de poursuite. D’autres questions exigent également des
-     réponses. Au milieu de ces courants et de ces pentes sous-marines,
-     où la chasse est-elle la plus fructueuse ? Comment voyageons-nous ?
-     Où allons-nous aux changements de saison ? Peut-être tout cela
-     doit-il être appris. Peut-être, toujours comme les éléphants, se
-     fient-ils aux connaissances de leurs aînés pour savoir où se diriger
-     lorsque la nourriture vient à manquer. Mais comment pouvons-nous,
-     nous, humains, repérer parmi les comportements et les compétences
-     des cachalots ceux qui n’existent que parce qu’ils ont été appris
-     d’autrui ?
+Obtenez les bons conseils de nos experts en TI fiables et compétents –
+demandez une consultation informatique gratuite
 
-     Un comportement est culturel dès qu’il ne s’agit pas d’une pratique
-     universelle. Tout le monde mange ; manger n’est donc pas culturel.
-     Tout le monde ne mange pas avec des baguettes ; les baguettes font
-     donc partie de la culture. Tous les chimpanzés grimpent aux arbres ;
-     ce n’est pas culturel. Certaines populations de chimpanzés cassent
-     des fruits à coque avec un marteau et une enclume de pierre, mais
-     toutes les populations qui vivent dans des lieux où poussent des
-     fruits à coque ne les cassent pas. C’est culturel. Les variations de
-     coutumes, de traditions, de pratiques et d’outillage en fonction des
-     groupes, ces différences révèlent ce qui est culturel. »
+   janvier 23, 2015/par Tatyana Vandich
 
-   Philippe Oberlé
-     __________________________________________________________________
+   Etiquettes : entreprise, Entreprise, entreprise sociale, Technologie,
+   technology
 
-    1. https://www.pnas.org/doi/10.1073/pnas.1707630114 ↑
-    2. https://greenwashingeconomy.com/une-mise-a-jour-de-la-theorie-de-le
-       volution-est-necessaire/ ↑
-    3. https://www.partage-le.com/2021/11/25/evolution-contre-civilisation
-       -diversite-contre-uniformite-philippe-oberle/ ↑
-    4. https://www.pourlascience.fr/sd/ethologie/a-l-ecole-des-animaux-222
-       82.php ↑
-    5. https://greenwashingeconomy.com/half-earth-sanctuariser-la-moitie-d
-       e-la-terre-un-projet-utopique-ecofasciste-et-technocratique/ ↑
-    6. https://www.globaldealfornature.org/science/ ↑
-    7. Extrait d’un entretien diffusé dans le documentaire Welcome to the
-       machine réalisé par Avi Weider. ↑
-    8. https://www.nature.com/articles/514161a ↑
-    9. https://www.cambridge.org/core/journals/evolutionary-human-sciences
-       /article/cultural-extinction-in-evolutionary-perspective/035F093515
-       E2A445FCA0D78DA542075B ↑
-   10. Voir Thomas C. Patterson, L’invention de la civilisation
-       occidentale, 1997. ↑
-   11. https://www.partage-le.com/2021/11/25/evolution-contre-civilisation
-       -diversite-contre-uniformite-philippe-oberle/ ↑
+Partager cet entrée
 
-   Print Friendly, PDF & Email
-   Tweetez
-   Partagez
-   Partagez
-   Enregistrer
-   0 Partages
-     * Biodiversité
-     __________________________________________________________________
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur LinkedIn
+     * Partager sur Tumblr
+     * Partager sur Reddit
+     * Partager par Mail
 
-Sur le même thème
+   https://www.namtek.ca/wp-content/uploads/2016/10/Infographic-Evolution-
+   of-Technology2-1024x5181.jpg 518 1024 Tatyana Vandich
+   https://www.namtek.ca/wp-content/uploads/2022/11/Namtek-Consulting-Serv
+   ices-1-300x157.png Tatyana Vandich2015-01-23 19:28:222023-09-29
+   16:51:37L’évolution de la technologie et son effet sur les entreprises
 
-   Blog Image
-   biodiversite
+Vous aimerez peut-être aussi
 
-Sur l’origine de la beauté dans la nature
+   EDI 2 XML : Comment ça marche
+   4 erreurs à éviter lors de la mise en œuvre d’un ERP
+   Comment l’analytique est devenue la priorité n°1 de nombreuses
+   entreprises
+   5 mesures simples pour la sécurité des données
+   Quatre questions fondamentales pour évaluer votre logiciel et votre
+   processus de sauvegarde
+   Étapes de l’élaboration d’un plan de continuité des activités
 
-   9 novembre 2023
-   Blog Image
-   biodiversite
+Suivez-nous sur Facebook
 
-Déconstruire notre imaginaire ne sauvera pas la planète
+   Récent
+     * services-de-conformite Démystifier les services de conformité :
+       Pourquoi votre...novembre 28, 2023 - 10:35 pm
+     * Cybersecurity Introduire la conformité en tant que service dans un
+       paysage...octobre 19, 2023 - 8:48 pm
+     * Integration - commerce electronique et ERP Pourquoi l’intégration
+       de l’ERP et du commerce...août 24, 2023 - 7:38 pm
+     * solutions-informatiques Boostez votre entreprise avec des solutions
+       informatiques...août 3, 2023 - 9:00 am
+     * services gérés en nuage Comment les services gérés en nuage peuvent
+       résoudre...juillet 17, 2023 - 6:57 pm
 
-   18 octobre 2023
-   Blog Image
-   biodiversite
+   Mis en avant
+     * Les 5 raisons pour lesquelles il est préférable
+       d’investir...septembre 21, 2012 - 4:05 pm
+     * Comment améliorer la productivité grâce aux
+       applications...septembre 21, 2012 - 4:08 pm
+     * WIMS : le système de gestion d’entrepôt pour optimiser...octobre 3,
+       2012 - 5:00 pm
 
-Évolution : « La culture est plus puissante que l’ADN »
+Étiquettes
 
-   30 mai 2023
-   Blog Image
-   biodiversite
+   Business continuité des opérations EDI entreprise ERP ERP erpWizard IT
+   mobile nuage
 
-Le rôle des perturbations dans l’évolution
+Abonnez-vous à notre blogue
 
-   22 mai 2023
+   ____________________ (BUTTON) S'inscrire
+   Laissez ce champ vide si vous êtes humain : ____________________
 
-   Greenwashing Economy   |    Plan de site
-     *
-     *
-     *
-     *
+CONTACTEZ-NOUS
+
+   400 Boul. Curé-Labelle, #304 Laval QC H7V 2S7 Canada
+   Téléphone: +1 450-681-3009
+   Courriel: support@namtek.ca
+   Site Web: https://www.namtek.ca/
+
+Publications récentes
+
+     * services-de-conformite Démystifier les services de conformité :
+       Pourquoi votre entreprise ne peut pas se permettre d’ignorer la
+       conformiténovembre 28, 2023 - 10:35 pm
+     * Cybersecurity Introduire la conformité en tant que service dans un
+       paysage dynamique de cybersécuritéoctobre 19, 2023 - 8:48 pm
+     * Integration - commerce electronique et ERP Pourquoi l’intégration
+       de l’ERP et du commerce électronique est essentielle pour les
+       entreprises modernesaoût 24, 2023 - 7:38 pm
+
+BULLETIN
+
+   Abonnez-vous aujourd’hui à notre Bulletin  pour rester à jour avec tous
+   les événements et nouvelles de l’entreprise.
+
+   ____________________ (BUTTON) S'inscrire
+   Laissez ce champ vide si vous êtes humain : ____________________
+
+   © 2023 Namtek Consulting Services
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+     * Politique de confidentialité de Namtek Consulting Services
+
+   Pourquoi l’EDI est si demandé en 2015 Business Automation Avantages
+   tangibles et intangibles d’une solution ERP
+
+   Faire défiler vers le haut
+
+   This website uses cookies to improve your experience. We'll assume
+   you're ok with this, but you can opt-out if you wish. Cookie
+   SettingsRead MoreAccept
+
+   Manage consent
+
+   (BUTTON) Fermer
+
+Privacy Overview
+
+   This website uses cookies to improve your experience while you navigate
+   through the website. Out of these, the cookies that are categorized as
+   necessary are stored on your browser as they are essential for the
+   working of basic functionalities of the website. We also use
+   third-party cookies that help us analyze and understand how you use
+   this website. These cookies will be stored in your browser only with
+   your consent. You also have the option to opt-out of these cookies. But
+   opting out of some of these cookies may affect your browsing
+   experience.
+   Enregistrer & appliquer

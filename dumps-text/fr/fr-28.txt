@@ -1,320 +1,346 @@
-   #ILARA, l’Institut des langues rares » Flux ILARA, l’Institut des
-   langues rares » Flux des commentaires alternate alternate alternate RDF
-   Version RDF Version of this post RDF Version of the category
-   Conférences de l'ILARA Outline
+   #Flux RSS pour capital.fr
 
-   Skip to content
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WKQXL3P
 
    (BUTTON)
-     * Lieux et contacts
-     * Mentions légales
-     * Crédits
-     * English website
+   Menu
+   ____________________ (BUTTON) Réinitialiser la recherche
 
-   (BUTTON)
-   Rechercher : ____________________ Rechercher
-
-   (BUTTON)
-     * À propos
-          + Conseil de direction
-          + Comité de pilotage
-          + Gestion et communication
-          + Brochure de présentation de l’ILARA
-          + Soutenir l’ILARA – Mécénat
-     * Formations
-          + Cours de l’ILARA 2023-2024
-               o Afrique
-                    # Les langues bantoues
-               o Amériques
-                    # Le maya classique 2
-                    # Le tikuna
-                    # Le tupi ancien
-               o Asie de l’Est
-                    # Le mandchou – sibe
-                    # Le mongol classique 2
-                    # Le tangoute
-                    # Le tibétain classique
-                    # Le tibétain classique 2
-               o Asie du Sud
-                    # L’assamais
-                    # Le prakrit
-                    # Le sanskrit
-               o Europe
-                    # Le grec ancien
-                    # Le latin classique
-                    # Le latin médiéval
-                    # Le romani vlax
-                    # Le vieux-norrois
-                    # Le vieux-russe
-                    # Le vieux-slave
-               o Mondes turcique, caucasique et iranien
-                    # L’arménien classique 2
-                    # L’arménien classique 3
-                    # Le géorgien classique 2
-                    # Le géorgien classique 3
-                    # Le judéo-géorgien
-                    # Les langues kartvéliennes
-                    # Le moyen-géorgien
-                    # Le moyen-perse
-                    # Le tchétchène
-                    # Les langues turciques
-                    # Le vieux-turcique
-               o Océanie
-                    # Le mwotlap 2
-               o Proche-Orient ancien
-                    # Les langues de Lycie
-                    # Le louvite hiéroglyphique 2
-                    # Le lydien
-                    # Le syriaque 3
-          + Cours dispensés les années précédentes
-               o Cours dispensés en 2020-2021
-               o Cours dispensés en 2021-2022
-               o Cours dispensés en 2022-2023
-          + Séminaires de l’EPHE
-          + Cours de judéo-langues à l’OSRJL
-     * Tarifs et inscriptions
-     * L’ILARA en Ligne
-          + Ouvertures et Cycles
-               o Les ouvertures
-               o Les cycles
-                    # Cycle « Les écritures dans les mondes anciens »
-                         @ I. 2022
-                         @ II. 2023
-                    # Cycle « L’évolution de la diversité linguistique »
-                    # Cycle « Les judéo-langues »
-          + Invitations
-               o Les Invitations de l’ILARA
-               o Intervenants
-          + Cultures
-               o Cultures : Interview de Marie Lorin, réalisatrice de
-                 “Keɗoɗaa maayo / Écoute le fleuve”
-               o Cultures : les Awiakay et les Meakambut de
-                 Papouasie-Nouvelle-Guinée, par Darja Hoenigman
-          + Locuteurs
-               o Je suis Ta Nui, l’île de ma mère
-          + Enfants
-          + Chercheurs
-               o Claude Rilly : lancement de l’ILARA des Chercheurs
-     * Exposition – Écosystèmes et langues rares
-          + Collections
-               o Biodiversité – Séri
-               o Biodiversité – Langues de la Terre d’Arnhem
-               o Eau – Marquisien : L’eau, « tai »
-               o Eau – Marquisien : « Tihitihi », la sécheresse
-               o Eau – Toba
-               o Déforestation – Bininj-kunwok
-               o Déforestation – Jaraï
-               o Climat – Inuktun
-               o Climat – Langues nénètses
-               o Pollution – Huaorani
-               o Pollution – Akan
-          + Brochure de l’exposition
-
-     * Conférences de l'ILARA
-
-Cycle « L’évolution de la diversité linguistique »
-
-   par ilara · Publié 30/03/2022 · Mis à jour 30/03/2022
-
-   Coordination : Amina Mettouchi (EPHE-PSL)
-
-   On s’accorde actuellement à reconnaître que l’extraordinaire diversité
-   des sept mille langues du monde n’est pas le résultat d’une variation
-   superficielle de structures supposément universelles, mais correspond
-   bien à une variabilité profonde, proche de celle qui caractérise la
-   diversité biologique. Mais comment cette diversité linguistique
-   serait-elle apparue ?
-
-   Nous répondrons à cette question en adoptant une approche
-   co-évolutionniste, qui va au-delà des interactions entre les facteurs
-   internes à la langue, et fait appel à un large éventail de facteurs de
-   sélection supplémentaires – culturels, démographiques, génétiques,
-   climatiques, économiques. Les systèmes linguistiques sont ainsi
-   orientés vers différents points de l'”espace des possibles”, à travers
-   la transmission des changements d’une génération à l’autre de manière
-   itérative, des centaines de fois.
-
-   A partir de l’extraordinaire variation rencontrée dans les langues de
-   Mélanésie et d’Australie, mais également dans les langues d’Afrique et
-   du Caucase, nous élaborerons une explication générale de la façon dont
-   une telle diversité linguistique a pu évoluer en partant de creusets
-   caractérisés par des conditions culturelles et environnementales
-   particulières.
-
-   Plus largement, l’objectif est d’établir un dialogue fructueux et
-   approfondi entre les modèles élaborés par les linguistes et philologues
-   intéressés par les spécificités des langues qu’ils étudient dans des
-   contextes culturels et historiques particuliers, et une théorie
-   générale de l’évolution des langues – tout comme en biologie
-   l’extraordinaire variété des formes de vie a conduit au développement
-   d’une théorie évolutionniste élaborée et complexe.
-
-   IFRAME: about:blank
-
-   1. La diversité linguistique comme ressource scientifique
-
-   Cette conférence construira les fondations de « l’espace des possibles
-   », en examinant la façon dont la diversité linguistique s’exprime à
-   chaque niveau, de la phonologie à la sémantique en passant par la
-   morphosyntaxe, et en établissant les fondements de la comparaison
-   typologique et ses principes.
-
-   IFRAME: about:blank
-
-   2. Évolution et co-évolution: concepts fondamentaux
-
-   Dans cette deuxième conférence nous chercherons à établir les
-   correspondants linguistiques des concepts évolutionnistes darwiniens
-   (des gènes aux populations, en passant par le pont de la
-   micro-évolution à la macro-évolution, la valeur adaptative, les
-   solutions convergentes et divergentes, et la co-évolution). Le langage
-   y sera présenté comme un “objet du troisième type”.
-
-   IFRAME: about:blank
-
-   3. Sélection et structuration de la diversité linguistique.
-
-   Dans cette conférence nous examinerons les types de sélecteurs, les
-   processus de compensation, et la cohérence des systèmes. Nous
-   insisterons plus particulièrement sur les goulots d’étranglement dans
-   le traitement et l’apprentissage, et les effets d’amplification générés
-   par l’itération des changements linguistiques.
-
-   IFRAME: about:blank
-
-   4. Multilinguisme, variabilité et évolution de la diversité.
-
-   Cette conférence de clôture fera l’hypothèse d’un multilinguisme
-   originel duquel la diversité serait issue, à travers la combinaison des
-   innovations, les phénomènes de convergence et de divergence, le rôle de
-   la cognition sociale, et l’intensité du  contact de langues. Nous
-   conclurons par une question : que doivent faire les sciences du langage
-   pour comprendre la diversification linguistique ?
-     __________________________________________________________________
-
-     *
-     *
-     *
-
-Vous aimerez aussi...
-
-     *
-
-2023 : Cycle « Les écritures dans les mondes anciens II »
-       10/01/2023
-        par ilara · Published 10/01/2023 · Last modified 31/05/2023
-
-   (BUTTON)
-
-   Suivre :
-     *
-     *
-     *
-     *
-     *
-     *
-
-     * Article suivant Cultures : les Awiakay et les Meakambut de
-       Papouasie-Nouvelle-Guinée, par Darja Hoenigman
-     * Article précédent Cultures : Interview de Marie Lorin, réalisatrice
-       de « Keɗoɗaa maayo / Écoute le fleuve »
-
-   [Bouton-brochure-des-formations-e1689097533514.png]
-
-Présentation
-
-   L’ILARA, l’Institut des langues rares, est un centre de formation et un
-   centre d’expertise et de ressources sur les langues rares. Il est l’un
-   des quatre Instituts de l’École Pratique des Hautes Études – PSL. Les
-   instituts de l’EPHE-PSL exercent une fonction de relais entre le monde
-   de la recherche et la société civile ou les institutions publiques.
-
-   L’ILARA propose de façon souple des formations innovantes et variées à
-   des langues qui, selon les cas, sont peu décrites, peu enseignées ou
-   peu parlées, parfois en danger d’extinction, ou déjà éteintes. Il
-   établit un pont entre les langues anciennes, documentées uniquement par
-   l’écrit, et les langues à tradition orale, dont la documentation
-   comporte une dimension audio-visuelle.
-   [Bouton-brochure-de-presentation.png]
-     * Linktree ILARA
-     * Ailleurs qu’à l’ILARA
-
-   (BUTTON)
-
-   PLUS
-
-   [Bouton-mecenat.png]
-
-Cycle « Les écritures dans les mondes anciens »
-
-   IFRAME: about:blank
-
-Ouvertures de l’ILARA
-
-   IFRAME: about:blank
-
-Cultures
-
-   IFRAME: about:blank
-
-Administration
-
-     * Connexion
-     * Entries RSS
-     * Comments RSS
-     * Hypotheses
-
-   [logo-ephe-psl-e1644343086279.gif]
-
-En partenariat avec
-
-   En partenariat avec
-
-   [Decade-of-Indigenous-Languages-Logo_FR_H-recadre-scaled.jpg]
-
-Avec le soutien du
-
-   Avec le soutien du
-
-   ILARA © 2022. Tous droits réservés.
-
-   Fièrement propulsé par WordPress. Theme by Press Customizr.
-
-   Un carnet de recherche proposé par Hypothèses - Ce carnet dans le
-   catalogue d'OpenEdition - Politique de confidentialité - Signaler un
-   problème
-   Flux de syndication - Crédits - ISSN 3001-2821
-     *
-     *
-     *
-     *
-     *
-     *
-
-   (BUTTON)
-
-   Rechercher dans OpenEdition Search
-
-   Vous allez être redirigé vers OpenEdition Search
-   ____________________
-   ( ) Dans tout OpenEdition
-   (*) Dans ILARA, l'institut des langues rares
    (BUTTON) Rechercher
 
-   ">
+     * FIL D'INFOS
+     * (BUTTON) Rubriques
+          + Economie et Politique
+          + Entreprises et marchés
+          + Votre argent
+          + Management
+          + Immobilier
+          + Crypto
+          + Votre retraite
+          + Auto
+          + Conso
+     * (BUTTON) Newsletters
+          + Momentum : La newsletter bourse
+          + 21 Millions : La newsletter crypto
+          + Les autres newsletters
+     * (BUTTON) Podcasts
+          + Tous les podcasts
+          + Flash Eco
+     * (BUTTON) Videos
+          + Le débat Capital
+          + Le grand rendez-vous de l’immobilier
+          + La chaine auto
+          + Le grand rendez-vous de l’épargne
+     * (BUTTON) Services capital.fr
+          + Les services partenaires
+          + Devises
+          + La boutique Capital
+          + Jeux concours
+          + Quiz
+
+   S'ABONNER
+     * facebook
+     * linkedin
+     * twitter
+     * instagram
+     * fluxrss
+     * newsletter
+
+   Capital
+   Publicité
+   (BUTTON) Se connecter (BUTTON) Mon compte
+   (BUTTON) MON PROFIL (BUTTON) MES ARTICLES SAUVEGARDÉS (BUTTON) MES
+   SUJETS SUIVIS (BUTTON) MES MAGAZINES MES PRÉFÉRENCES DE COMMUNICATION
+   (BUTTON) DÉCONNEXION
+   S'abonner
+
+     * Economie et politique
+     * Entreprises et marchés
+     * Votre argent
+     * Management
+     * Immobilier
+     * Crypto
+     * Votre retraite
+     * Auto
+     * Conso
+
+   Publicité
+
+   Accueil > Votre argent
+
+Voici comment votre pouvoir d’achat a évolué sur la dernière décennie, selon
+votre âge
+
+   POUVOIR D'ACHAT
+   (BUTTON) SUIVRE CE SUJET (BUTTON) SUIVI SUIVI
+   Halfpoint Images / Getty Images
    (BUTTON)
+   Sauvegarder
+   (BUTTON)
+   Sauvegardé
+   (BUTTON)
+   Partager
+     * (BUTTON) Partager cet article sur Facebook
+     * (BUTTON) Partager cet article sur Twitter
+     * (BUTTON) Partager cet article sur Linkedin
+     * (BUTTON) https://www.capital.
+       Copier le lien Lien copié
 
-     * TODO
+Contrairement à un ressenti souvent partagé, le pouvoir d’achat des ménages a
+progressé entre 2010 et 2019. Mais son évolution a été parfois très
+contrastée entre les différentes générations, démontre une note d’analyse
+publiée par France Stratégie.
 
-   OpenEdition Search
-   (BUTTON) Tout OpenEdition
+   Par Jean-Victor Semeraro Chef de rubrique fiscalité et argent public
+   Publié le 05/01/2023 à 11h54 & mis à jour le 05/01/2023 à 18h32
+   Publicité
 
-   Portail de ressources électroniques en sciences humaines et sociales
-   OpenEdition
-   Nos plateformes
-   OpenEdition Books OpenEdition Journals Hypotheses Calenda
-   Bibliothèques et institutions
-   OpenEdition Freemium
-   Nos services
-   OpenEdition Search La lettre d'OpenEdition
-   Suivez-nous
+   “Le pouvoir d’achat des personnes nées entre 1941 et 1980 a augmenté de
+   5,4% entre 2010 et 2019, soit 0,5% par an.” C’est ce constat, plutôt
+   positif, qui a poussé les économistes de France Stratégie, institution
+   rattachée à Matignon, à s’interroger. Pourquoi, malgré ces chiffres,
+   les Français répètent-ils à chaque enquête d’opinion que leur pouvoir
+   d’achat baisse ? Pour tenter d’analyser ce “ressenti national”, les
+   experts ont utilisé une méthode statistique originale. Les chercheurs
+   ont suivi l’évolution de la situation personnelle - situation
+   financière, évolution du nombre d’enfants dans le ménage… - d’un énorme
+   échantillon de 1,1 million de personnes, âgées en 2010 de 30 à 69 ans,
+   entre 2010, période de l’après crise financière, et 2019. Des individus
+   que les économistes ont classés en cinq génération d’âge, des jeunes
+   actifs (30-39 ans) aux déjà retraités en 2010 (65-69 ans) et par
+   niveaux de revenus.
+
+   De cette note d’analyse, publiée ce jeudi 5 janvier, une observation
+   s’impose d’emblée. Durant la décennie écoulée, le pouvoir d’achat des
+   ménages a faiblement progressé (trois fois moins vite que durant la
+   décennie précédente), mais cette hausse n’a pas bénéficié à toutes les
+   générations de manière équivalente. Les (déjà) retraités en 2010 - nés
+   avant 1946 - ont perdu gros. “Leur niveau de vie moyen a baissé de plus
+   de 7% passant de 2.412 euros à 2.238 euros par mois en moyenne”,
+   indique France Stratégie. “Contrairement à une idée reçue, le pouvoir
+   d’achat des pensions de retraite est resté relativement stable (...),
+   en baisse de 1% en euros constants sur dix ans.” Cette perte importante
+   s’explique en fait par une forte baisse (5,9%) des revenus du
+   patrimoine, dont les plus aisés sont les mieux dotés parmi la
+   population. Diminution des revenus financiers (assurance vie, bourse,
+   etc.) mais aussi des revenus locatifs, par exemple.
+   Publicité
+   Publicité
+
+   >> Notre service - Faites des économies en testant notre comparateur de
+   crédit à la consommation
+
+   À l’inverse, les autres générations, hormis les 55-64 ans, ont profité
+   d’un effet contraire : une hausse de leur niveau de vie. Pour les
+   jeunes actifs (30-39 ans), malgré les difficultés économiques, le
+   pouvoir d’achat a augmenté de 7% entre 2010 et 2019. Plus
+   spectaculaire, les quadragénaires (40-49 ans) ont vu leur pouvoir
+   d’achat progresser de 15,4% sur la période. Des chiffres qui, aussi
+   positifs qu’ils puissent paraître, ne doivent pas masquer la situation
+   économique durant la dernière décennie. “Le ralentissement du pouvoir
+   d’achat des années 2010, consécutif à la crise de 2008, a affecté
+   toutes les classes d’âge, prévient France Stratégie. Pour les plus
+   jeunes, cela s’est traduit par une moindre progression ; pour les plus
+   de 55 ans, cela s’est traduit par une baisse.” En clair, si la France
+   avait eu une économie dynamique, l’évolution générale du niveau de vie
+   des Français aurait pu être tout autre.
+   Publicité
+
+Les effets revenu, famille et redistribution
+
+   Comment expliquer les trajectoires individuelles de niveau de vie ?
+   France Stratégie met en avant trois facteurs principaux : le revenu, la
+   famille et l’effet redistributif. Trois paramètres qui influent sur le
+   pouvoir d’achat, mais différemment. De ce triptyque, l’effet revenu
+   pèse le plus sur le niveau de vie. D’après la note, “la génération
+   1971-1980 est celle qui a le plus bénéficié de l’effet revenu, estimé à
+   près de 17% pour une augmentation globale du pouvoir d’achat de 7%.” À
+   l’inverse, la cohorte d’individus âgés entre 55 et 64 ans a subi un
+   effet revenu très négatif. Car le passage à la retraite se fait très
+   fortement sentir, en particulier pour les actifs les plus aisés. Ces
+   derniers ont perdu près de 14% de pouvoir d’achat sur la période. Les
+   économistes appellent cet effet le retour à la moyenne.
+
+   Par notre culture et notre histoire, l’effet redistributif (impôts et
+   prestations sociales) a tendance à être surestimé. Malgré les
+   nombreuses réformes fiscales, le taux d’imposition est finalement resté
+   stable entre 2010 et 2019 pour les individus étudiés (1941-1990) (+2,6
+   points entre 2011 et 2014, puis -3 points entre 2015 et 2019). L’aspect
+   fiscal joue donc finalement assez peu sur le pouvoir d’achat, même si
+   son impact est plus prégnant pour les hauts revenus. “L’effet
+   redistribution est négatif pour la cohorte 1961-1980 - 3,9 points de
+   pouvoir d’achat en moins pour les plus jeunes, indique France
+   Stratégie. L’augmentation de leurs revenus avant impôt sur la décennie
+   ayant entraîné une hausse des cotisations salariales et des
+   prélèvements sociaux.”
+   Publicité
+   Publicité
+   À LIRE AUSSI Assurance auto : les tarifs moyens dans votre département,
+   selon votre profil
+
+   Dernier paramètre : l’effet famille. L’arrivée d’un enfant au sein d’un
+   couple pèse sur le niveau de vie du ménage. Le résultat paraît assez
+   intuitif. L’étude rappelle, par exemple, que “l’arrivée d’enfants pour
+   la plus jeune génération (1971-1980) grève l’évolution de son pouvoir
+   d’achat de près de 7,7% (sur la période, ndlr)”. En revanche, l’effet
+   conjoint (la mise en couple) est plus marginal. Même si, un divorce par
+   exemple peut peser fortement à la baisse sur le niveau de vie d’un
+   individu.
+
+Le niveau de vie des plus modestes progresse plus
+
+   Outre les différences entre générations, les experts ont cherché à
+   comprendre comment évoluent les niveaux de vie au sein de chaque groupe
+   générationnel. Le constat général est que, quel que soit le groupe, les
+   individus qui avaient la position sociale la plus basse (les 20% les
+   plus modestes) en 2010 sont ceux dont le niveau de vie a le plus
+   progressé en 2019. En moyenne, les 20% les plus modestes en 2010 ont vu
+   leur pouvoir d’achat progresser de 36,7% entre 2010 et 2019.
+   Publicité
+
+   À l’exception des jeunes actifs, France Stratégie note que les
+   inégalités au sein de chaque groupe tendent à se réduire. C’est
+   particulièrement vrai chez les retraités. Sur la période, on note un
+   resserrement des niveaux de vie. “Les individus initialement situés
+   dans le dernier quintile ont vu leur niveau de vie baisser de 14%, ceux
+   qui ont débuté dans le premier quintile ont bénéficié d’un gain de 6%
+   de pouvoir d’achat”, précise l’étude.
+
+   >> Notre service - Comparez les performances des plans d’épargne
+   retraite (PER) grâce à notre simulateur
+   Êtes vous riche ou pauvre ?
+
+   Comparez votre salaire avec celui des français.
+   Quel est votre salaire mensuel net avant prélèvement à la source ?*
+   ____________________
+
+   Le salaire mensuel net est invalide
+
+   * Il s'agit du salaire "net à payer avant impôt sur le revenu", qui
+   apparaît juste au-dessus du "net à payer" sur votre fiche de paie
+
+   (BUTTON) Calculer
+
+   A découvrir :
+     * GRAND RENDEZ-VOUS DE L'ÉPARGNE
+     * LE PALMARÈS DES TARIFS BANCAIRES 2023
+     * NOS CONSEILS BOURSIERS
+     * VOS IMPÔTS
+
+   © Capital
+   Outbrain
+   Débat des lecteurs
+   12 débatteurs en ligne12 en ligne
+   Faut-il faire du pouvoir d'achat des classes moyennes une priorité ?
+   Oui
+   Non
+   Sans opinion
+   249 votes - Voir le résultat
+   Photo de profil de Didier Chateau
+   Didier Chateau
+   Oui
+   Si je me fie au barème publié dans l’article de référence, je fais
+   partie de la classe moyenne basse. Mais, qu’est-ce que l’on appelle «
+   la classe moy...
+   Lire plus
+   Recevez nos dernières news Chaque semaine, les articles phares pour
+   accompagner vos finances personnelles.
+
+   A lire aussi
+     * Le pouvoir d'achat des salariés du privé a baissé en 2022, en voici
+       la raison
+     * ​​Immobilier : voici comment les prix ont évolué sur un an dans
+       votre département
+     * Voici les enseignes les plus protectrices pour le pouvoir d'achat,
+       selon les Français
+
+   Outbrain
+   D'autres articles qui pourraient vous intéresser
+     *
+   Immobilier : voici comment votre pouvoir d’achat a évolué depuis 2017
+       Immobilier
+     *
+   Immobilier : comment a évolué votre pouvoir d’achat dans les plus
+       grandes villes ?
+       Immobilier
+     *
+   Voici comment les plus riches se sont enrichis en France ces dernières
+       décennies
+       Votre argent
+     *
+   Immobilier : comment votre pouvoir d'achat a évolué dans les 20 plus
+       grandes villes de France en 2021
+       Immobilier
+     *
+   Comment une hausse de la TVA pèserait sur votre pouvoir d'achat, selon
+       votre profil
+       Votre argent
+     *
+   Voici comment votre impôt sur le revenu va évoluer en 2023, selon votre
+       profil
+       Votre argent
+     * Publicité
+     *
+   Salariés et fonctionnaires : voici comment a évolué votre retraite en
+       2022
+       Votre retraite
+     *
+   Qu'est-ce que le pouvoir d'achat ?
+       Economie et politique
+     *
+   Insee : "Nous avons un nouvel indicateur qui reflète mieux l'évolution
+       du pouvoir d'achat"
+       Entreprises et marchés
+     *
+   Prime exceptionnelle de pouvoir d'achat
+       Votre carrière
+     *
+   Comment la crise va ébranler votre pouvoir d'achat
+       Votre argent
+     *
+   Pouvoir d'achat : comment les supermarchés financent les promotions ?
+       Entreprises et marchés
+     *
+   Comment le pouvoir d’achat des retraités a décroché depuis 10 ans
+       Votre retraite
+     *
+   Comment augmenter son pouvoir d’achat grâce au cashback ?
+       Conso
+     *
+   "La pénibilité au travail n'a pas diminué au cours du siècle dernier,
+       elle a évolué"
+       Votre retraite
+
+   Logo capital 30 ans Inscrivez-vous gratuitement pour accéder aux
+   articles exclusifs des 30 ans de Capital Ou je vais sur capital.fr
+
+   Publicité
+   Publicité
+   Publicité
+   Publicité
+
+     * 53 chirurgiens démissionnent de l'hôpital
+     * Pyramides extraterrestres ? Elon Musk tweete
+     * Art vandal: œuvre Jeff Koons brisée'
+     * Joueur de foot moyen français : 6M € à la retraite
+     * Bénéficiaires annuités retraite: vigilance
+
+   Connexion à Prisma Connect
+   (BUTTON) Fermer
+
+   Publicité
+
+     * Conditions générales d'utilisation
+     * Charte pour la protection des données
+     * (BUTTON) Paramétrer vos cookies
+     * Mentions légales
+     * Tous vos magazines
+     * Abonnement magazine
+     * Publicité
+     * Contact
+     * FAQ
+     * Équipe éditoriale
+     * CONDITIONS GÉNÉRALES DE VENTES ABONNEMENT ESSENTIEL, NOMADE &
+       INTÉGRAL
+
+   © Prisma Media - Groupe Vivendi 2024 Tous droits réservés

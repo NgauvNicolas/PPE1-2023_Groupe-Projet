@@ -1,410 +1,314 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG
-
-     * EN image
-     * ES image
-     * DE image
-     * IT image
-
-     * 
-     * 
-     * 
-     * 
-
-     *
-     * Newsletter
-
-   LAROUSSE
-   ____________________ (BUTTON) 
-   (BUTTON) Toggle navigation
-   LAROUSSE
-   (BUTTON)  (BUTTON) 
-   ____________________ (BUTTON) 
-     * LANGUE FRANÇAISE
-     * DICTIONNAIRES BILINGUES
-     * TRADUCTEUR
-     * CONJUGATEUR
-     * ENCYCLOPÉDIE
-     * CUISINE
-     * FORUM
-     * JEUX
-     * LIVRES
-
-     *
-     * Newsletter
-
-     * Suivez nous:    
-
-     * EN ES DE IT
-
-   Accueil >Encyclopédie [divers] > ère géologique
-
-ère géologique
-
-   Reconstitution d'un brontosaure Reconstitution d'un brontosaureCet
-   article fait partie du dossier consacré à la géologie et du dossier
-   consacré à l'histoire de la Terre.
-
-   Pour avoir une vue d'ensemble sur la géologie, consultez en priorité
-   les articles suivants du dossier en cliquant sur celui de votre choix :
-     * géologie
-     * ère géologique
-     * géomorphologie
-     * paléontologie
-     * roche
-     * séisme
-     * sols
-     * tectonique
-     * histoire de la Terre
-     * volcan
-
-   Pour avoir une vue d'ensemble sur l'histoire de la Terre, consultez en
-   priorité les articles suivants du dossier en cliquant sur celui de
-   votre choix :
-     * Terre
-     * cénozoïque
-     * crétacé
-     * ère géologique
-     * évolution
-     * fossile
-     * géologie
-     * jurassique
-     * mésozoïque
-     * paléontologie
-     * paléozoïque
-     * précambrien
-     * quaternaire
-
-   L'histoire de la vie L'histoire de la vie
-
-   L'ère, la plus grande unité conventionnelle du temps géologique, se
-   subdivise en systèmes, séries et étages (les étages correspondent à un
-   ensemble de terrains de même âge).
-
-   Venant après le précambrien, on distingue, dans l'ordre chronologique,
-   le paléozoïque, anciennement primaire [durée : 340 millions d'années],
-   le mésozoïque, anciennement secondaire [185 millions d'années], le
-   cénozoïque, anciennement tertiaire [65 millions d'années], qui englobe
-   aujourd'hui le quaternaire.
-
-   → paléontologie.
-
-   Environ 4,6 milliards d'années se sont écoulés depuis la formation de
-   la Terre. Mais l'événement le plus important de la chronologie
-   terrestre est sans conteste l'apparition, il y a environ 3,8 milliards
-   d'années, des premières traces de vie. Le vivant, en évoluant au cours
-   des temps géologiques, a pu transformer notre planète en une oasis.
-
-   La connaissance de l'histoire de la Terre est relativement récente ; si
-   les fossiles ont très tôt intrigué les hommes, leur classification et
-   leur ordre d'apparition n'ont été établis qu'au xix^e s. Les techniques
-   mises au point dans les années 1950 ont permis de préciser l'âge de la
-   Terre. La manière dont la Terre est apparue fait toujours l'objet de
-   spéculations. Cependant, il apparaît que le noyau, le manteau, puis la
-   croûte terrestre se sont différenciés vers − 4,6 milliards d'années. On
-   passe alors de l'histoire astronomique, qui commence avec la naissance
-   de l'Univers, à l'histoire proprement géologique de notre planète.
-   (→ géologie.)
-
-1. L’étude des temps géologiques
-
-1.1. L'évolution des idées concernant l'âge de la Terre
-
-   Échelle des temps géologiques Échelle des temps géologiques
-
-   Au milieu du xvii^e s., les naturalistes commencent à établir une
-   chronologie des phénomènes qui se sont succédé afin de remonter jusqu'à
-   la naissance de la Terre.
-
-   L’archevêque irlandais Jacques Usher évalue la durée des générations
-   bibliques et conclut que la Terre a été créée en l'an 4004 avant J.-C.
-   (→ créationnisme). Cette conception est remise en question par les
-   philosophes du siècle des Lumières, et Buffon, le premier, tente de
-   déterminer expérimentalement l'âge de la Terre. Il suppose que notre
-   planète s'est refroidie après avoir été un corps en fusion et,
-   extrapolant les résultats de ses expériences sur le temps de
-   refroidissement de boulets de canon, avance un chiffre de 75 000 ans.
-   Mais, au xviii^e s., l'interprétation hors des normes établies par les
-   Livres saints n'est pas encore tolérée, et Buffon est obligé de se
-   rétracter.
-
-   Cependant, se développe la doctrine de l'uniformitarisme (ou
-   actualisme) – selon lequel les lois qui régissent les phénomènes
-   géologiques actuels ont également existé dans le passé. Exprimé en 1830
-   par le Britannique Charles Lyell, ce raisonnement apporte aux géologues
-   de nouvelles bases de réflexion sur la durée des phénomènes
-   géologiques. Ils peuvent démontrer, par l'étude des éléments du passé,
-   par exemple les fossiles – véritables archives de l'évolution de la
-   nature – ou des strates, que l'âge de la Terre dépasse tout ce qu'on
-   avait pu imaginer jusque-là. Les géologues venaient de découvrir une
-   quatrième dimension : le temps.
-
-   En 1859, Charles Darwin défend, avec son ouvrage De l’origine des
-   espèces, l’idée que des millions d'années ont été nécessaires pour
-   qu'une longue succession de transformations permette à la vie de se
-   présenter sous les nombreuses formes que nous lui connaissons
-   aujourd'hui.
-
-   À la fin du xix^e s., les scientifiques, souhaitant connaître l'âge
-   absolu de la Terre, mesurent les rythmes de certains processus
-   physiques. John July propose de dater les océans selon leur teneur en
-   sodium ; les estimations, fondées sur l'augmentation annuelle de la
-   quantité de sel dissous, avoisinent les 90 millions d'années. D'autres
-   chercheurs, s'appuyant sur la rythmicité annuelle de certains dépôts
-   sédimentaires, proposent, selon une vitesse d'accumulation calculée et
-   en fonction de l'épaisseur des roches sédimentaires, un âge qui varie
-   entre 90 et 500 millions d'années. Ces méthodes étaient malheureusement
-   faussées par des incertitudes de mesure et par le fondement discutable
-   de certaines hypothèses. Ainsi, le physicien Kelvin reprend le concept
-   de Buffon sur une Terre à l'origine en fusion et aboutit à des âges
-   de 25 ou 100 millions d'années.
-
-1.2. L'échelle des temps géologiques
-
-La datation relative
-
-   L'âge de la Terre, qui apparaissait de plus en plus important avec
-   l'amélioration des connaissances géologiques, ne pouvait être mesuré,
-   ni subdivisé de façon précise, car les moyens techniques permettant de
-   dater de façon absolue les roches n'existaient pas. Aussi,
-   l'élaboration d'une échelle temporelle qui classerait les principaux
-   événements de l'histoire géologique dans un ordre correct était une
-   préoccupation essentielle de la géologie au xix^e s. : l'échelle
-   relative des temps géologiques fut progressivement établie. Au début du
-   xx^e s., la découverte de la radioactivité permit d'affecter des
-   valeurs absolues à cette échelle relative.
-
-   Pendant que les physiciens essayaient par différentes méthodes
-   d'évaluer l'âge de la Terre, les géologues observaient et classaient
-   les espèces fossiles ; ils utilisaient la superposition de couches de
-   terrain pour dater, de façon simple, les strates les unes par rapport
-   aux autres.
-   Dérive des continents Dérive des continents
-
-   Ainsi, la longue histoire de la Terre a été divisée en périodes selon
-   des événements dont les effets ont été enregistrés dans les matériaux
-   géologiques (en l'occurrence, les strates). Ces événements peuvent être
-   des points singuliers de l'évolution du monde vivant, comme
-   l'apparition ou la disparition, locale ou généralisée, de groupes
-   d'animaux ou de végétaux. Ces événements peuvent aussi être liés à
-   l'activité de la planète : variation du niveau des mers, évolutions
-   climatiques, édification de chaînes de montagnes. Ils sont visibles sur
-   le terrain sous la forme, par exemple, de ce que l'on appelle une
-   discordance : lors de l'érosion d'une chaîne de montagnes (constituée
-   par plissement de strates à l'origine horizontales), de nouveaux
-   terrains se déposent horizontalement sur ses restes selon une surface
-   dite de discontinuité.
-
-La datation absolue
-
-   En 1896, Henri Becquerel découvre la radioactivité naturelle, qui est
-   la désintégration spontanée de certains éléments instables dits
-   « radiogéniques ». Bertam Boltwood démontre que, lors de la
-   désintégration de l'uranium radioactif en plomb, le rapport Pb/U
-   augmente avec l'ancienneté de la roche qui contient ces éléments.
-
-   La vitesse de désintégration radioactive est exponentielle. La loi de
-   décomposition des éléments est caractérisée pour chaque isotope
-   radioactif par une période, ou temps de demi-vie, qui est le temps
-   requis pour que la moitié de la masse de l'élément initial radioactif
-   « père » se transforme en élément ou isotope stable « fils ». Par
-   exemple, si une certaine substance radioactive a une période de
-   1 million d'années, il ne restera que la moitié de cette substance
-   1 million d'années après son incorporation dans un minéral, un quart
-   après 2 millions d'années, et ainsi de suite jusqu'à l'infini. L'âge
-   réel d'une roche peut donc être calculé si l'on peut mesurer les
-   quantités d'éléments pères et fils qu'elle contient.
-
-   Si la vitesse de désintégration peut être déterminée, il devient
-   possible de calculer, sur une roche, des durées réelles, et donc de
-   placer des âges absolus sur l'échelle des temps géologiques. Les
-   techniques de datation des roches fondées sur la radioactivité,
-   appelées datations radiométriques, portent notamment sur la
-   désintégration de certains isotopes d'uranium en plomb, ou de rubidium
-   en strontium. À l'exception de l'isotope du carbone 14 (^14C), toutes
-   ces substances ont des demi-vies assez longues pour permettre de
-   déterminer l'âge de la Terre. Le ^14C, dont la demi-vie est plus courte
-   (5 750 ans), ne peut être utilisé que pour mesurer des âges assez
-   récents, de quelques dizaines de milliers d'années.
-
-Le calibrage de l'échelle relative
-
-   La plupart des éléments radioactifs utilisables en radiochronologie se
-   trouvent dans les roches éruptives et métamorphiques, tandis que les
-   fossiles, sur lesquels est fondée en grande partie l'échelle relative
-   des temps, se rencontrent dans les roches sédimentaires. Si des roches
-   éruptives, telles que des laves ou des cendres volcaniques, sont
-   intercalées dans un ensemble de strates sédimentaires, la datation
-   absolue des sédiments est relativement aisée. Dans les autres cas, les
-   géologues doivent effectuer des corrélations régionales afin d'établir
-   une liaison entre des roches cristallines datées radiométriquement et
-   des strates sédimentaires. Si une formation sédimentaire est recouverte
-   d'une roche éruptive vieille de 250 millions d'années elle est plus
-   ancienne, mais nous ignorons de combien d'années. Si la roche éruptive
-   est à son tour recouverte par une deuxième formation sédimentaire,
-   celle-ci date de moins de 250 millions d'années mais nous ignorons
-   encore son âge exact, qui ne pourra être précisé que si une autre
-   formation éruptive la recouvre. En réalisant de proche en proche des
-   fourchettes chronologiques de ce genre, il est possible de calibrer de
-   façon de plus en plus fine et précise l'échelle des temps géologiques.
-
-2. Les différentes ères géologiques
-
-   Les subdivisions les plus importantes correspondent à des durées
-   appelées ères, divisées elles-mêmes en périodes, lesquelles sont
-   distribuées à leur tour en époques, qui comprennent très souvent
-   plusieurs âges. Les ensembles de matériaux géologiques déposés ou
-   édifiés au cours de ces laps de temps sont, eux, regroupés en ères,
-   systèmes, séries, étages. La nomenclature utilisée est très diverse et
-   reflète l'histoire de la mise en œuvre de cette échelle : les noms des
-   étages font référence à des fossiles ou à des lieux où se trouvaient
-   des faciès ou des fossiles particuliers.
-
-   L'ensemble des temps géologiques, de la naissance de la Terre à nos
-   jours, a été divisé en quatre ères, de durées fort inégales. L'âge le
-   plus ancien mesuré sur une roche terrestre, en Afrique du Sud, est de
-   3,8 milliards d'années (mais la Terre existait déjà depuis bien
-   longtemps [0,8 milliard d’années]). Ainsi, les techniques de datation
-   radiométrique ont permis d'établir que l'ère paléozoïque a débuté il y
-   a environ – 540 millions d'années, l'ère mésozoïque vers – 245 millions
-   d'années et l'ère cénozoïque il y a près de 65,5 millions d'années. En
-   outre, les datations réalisées sur certaines météorites, qui remontent
-   probablement à la création du système solaire, et sur les roches
-   prélevées sur la Lune par les missions américaines Apollo permettent
-   d'avancer un âge de 4,65 milliards d'années pour les planètes du
-   système solaire.
-
-2.1. Le précambrien
-
-   Première ère de l'histoire de la Terre, le précambrien correspond au
-   brutal développement des premières faunes marines diversifiées (dont,
-   parmi les crustacés, le groupe des trilobites).
-
-2.2. Le paléozoïque, ou ère primaire
-
-   Chronologie du paléozoïque Chronologie du paléozoïque
-
-   Le paléozoïque (du grec palaios, ancien, et zôon, animal) débute en
-   même temps qu'apparaissent la plupart des groupes d'invertébrés et se
-   termine après l'édification puis l'abrasion complète de plusieurs
-   systèmes de chaînes de montagnes, notamment les chaînes calédoniennes
-   et hercyniennes. Le passage à l'ère suivante correspond à la
-   discordance dite hercynienne.
-
-   Pour en savoir plus, voir l'article paléozoïque.
-
-2.3. Le mésozoïque, ou ère secondaire
-
-   Reconstitution d'un brontosaure Reconstitution d'un brontosaure
-
-   Le mésozoïque (de mesos, moyen, et zôon, animal) commence par un
-   envahissement des domaines continentaux par la mer (transgression) et
-   voit le développement des faunes marines (ammonites) et des faunes
-   continentales (reptiles notamment).
-
-   Pour en savoir plus, voir l'article mésozoïque.
-
-2.4. L'ère cénozoïque (tertiaire et quaternaire)
-
-   Le tertiaire a longtemps été assimilé au cénozoïque. Il est aujourd’hui
-   considéré comme la première des deux périodes qui forment l’ère
-   cénozoïque (de koinos, commun, et zôon, animal), la seconde étant le
-   quaternaire.
-
-   Pour en savoir plus, voir l'article cénozoïque.
-
-   Le tertiaire est marqué par des discontinuités faunistiques importantes
-   et par une nouvelle répartition des terres émergées. C'est la période
-   de l'évolution du système alpin et du développement des mammifères et
-   des plantes à fleurs (angiospermes).
-
-   Pour en savoir plus, voir l'article tertiaire.
-   Paysage du pléistocène en Europe Paysage du pléistocène en Europe
-
-   Le quaternaire, composé d’une sucession de glaciations et de périodes
-   interglaciaires, a été défini de façon très anthropologique, par
-   rapport à l'apparition de l'homme moderne.
-
-   Pour en savoir plus, voir l'article quaternaire.
-
-3. L'histoire de la vie
-
-   On peut comparer les 4,6 milliards d'années de l'histoire de la Terre à
-   une de nos années de calendrier. Ainsi, si l'on considère que nous
-   sommes au 31 décembre à 24 heures, et que la Terre s'est formée voici
-   exactement un an, le 1^er janvier à 0 heure, la vie serait apparue dans
-   la troisième semaine de février.
-
-   Toutes proportions gardées, notre planète n'est donc pas restée très
-   longtemps inhabitée. Mais il faut attendre le 16 novembre pour voir
-   apparaître les animaux à coquille et le début du paléozoïque. La suite
-   se déroule dans ce dernier mois et demi de l'année. Les premiers
-   animaux vertébrés apparaissent le 21 novembre ; les végétaux
-   s'installent hors de l'eau vers les 28-30 novembre, et sont suivis par
-   des animaux invertébrés vers le 1^er décembre, puis par les vertébrés
-   le 4 décembre.
-
-   Les reptiles font leur apparition vers les 6-7 décembre, alors que le
-   mésozoïque débute le 13 décembre. Les dinosaures apparaissent le 14,
-   les mammifères le 16 et les oiseaux le 20. Le 26 décembre au soir,
-   c'est la fin du mésozoïque et de la domination des reptiles. Et il faut
-   attendre le 31 décembre, vers 20 heures, pour que l'homme fasse enfin
-   son apparition. Quant à l’ère chrétienne, cela fait 14 secondes qu'elle
-   a débuté !
-     __________________________________________________________________
-     __________________________________________________________________
-
-   PLAN
-
-Plan
-
-    1. ère géologique
-
-    1. 1. L’étude des temps géologiques
-
-    1. 1.1. L'évolution des idées concernant l'âge de la Terre
-    2. 1.2. L'échelle des temps géologiques
-
-    1. La datation relative
-    2. La datation absolue
-    3. Le calibrage de l'échelle relative
-
-     2. Les différentes ères géologiques
-    1. 2.1. Le précambrien
-    2. 2.2. Le paléozoïque, ou ère primaire
-    3. 2.3. Le mésozoïque, ou ère secondaire
-    4. 2.4. L'ère cénozoïque (tertiaire et quaternaire)
-
-     3. L'histoire de la vie
-     __________________________________________________________________
-     __________________________________________________________________
-
-   Médias associés
-   Chronologie du paléozoïque Chronologie du paléozoïque Dérive des
-   continents Dérive des continents Échelle des temps géologiques Échelle
-   des temps géologiques L'histoire de la vie L'histoire de la vie Paysage
-   du pléistocène en Europe Paysage du pléistocène en Europe
-   Reconstitution d'un brontosaure Reconstitution d'un brontosaure
-
-Plan
-         1. ère géologique
-         1. 1. L’étude des temps géologiques
-         1. 1.1. L'évolution des idées concernant l'âge de la Terre
-         2. 1.2. L'échelle des temps géologiques
-         1. La datation relative
-         2. La datation absolue
-         3. Le calibrage de l'échelle relative
-     * 2. Les différentes ères géologiques
-
-    1. 2.1. Le précambrien
-    2. 2.2. Le paléozoïque, ou ère primaire
-    3. 2.3. Le mésozoïque, ou ère secondaire
-    4. 2.4. L'ère cénozoïque (tertiaire et quaternaire)
-
-     3. L'histoire de la vie
-
-   +
-
-   
-
-   Applications mobiles Index Mentions légales et crédits CGU CGV Charte
-   de confidentialité Cookies Contact © Larousse
+   #RSS 2.0
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5DCLG3L
+
+   Menu
+
+     * Économie
+          + Agriculture, alimentation
+          + Économie de la zone euro
+          + Politique monétaire
+          + Politique de la concurrence
+          + Économie française
+          + Budget, finances publiques
+          + Fiscalité
+          + Protection sociale
+          + Marché du travail
+          + Politique industrielle
+          + Vie des entreprises
+          + Énergie
+          + Numérique
+          + Banque, finance
+     * Société
+          + Culture
+          + Médias, réseaux sociaux
+          + Santé
+          + Social, syndicalisme
+          + Société
+          + Religion, identités culturelles
+          + Ville, logement, territoires
+          + Justice et police
+          + Inégalités, discrimination
+          + Éducation, formation, recherche
+     * Politique française et internationale
+          + Vie politique française
+          + Gauches européennes
+          + Droites européennes
+          + Populismes et nouvelles radicalités
+          + Union européenne
+          + Institutions, démocratie
+          + Gouvernance mondiale
+          + Finance mondiale
+          + Commerce international
+          + Terrorisme
+          + Climat
+          + Migrations
+     * Pays & régions
+          + États-Unis - Politique intérieure
+          + États-Unis - Politique extérieure
+          + Canada
+          + Amérique hispanophone
+          + Brésil
+          + Asie du sud-est
+          + Asie centrale
+          + Chine - Politique extérieure
+          + Chine - Politique intérieure
+          + Japon
+          + Corée(s)
+          + Inde
+          + Moyen Orient
+          + Turquie
+          + Afrique
+          + Afrique du nord
+          + Afrique du sud
+          + Russie
+          + Europe centrale et orientale
+          + Europe du Nord
+          + Allemagne
+          + Italie
+          + Royaume-Uni
+          + Espagne
+          + Portugal
+          + Ukraine
+          + Autriche
+          + Suisse
+
+   À PROPOS | EN|FR
+
+     * accueil
+     * Société
+
+L'évolution de la religiosité dans le monde edit
+
+     * Gérard Grunberg
+
+   28 juin 2018
+     * Société
+     * Société
+     * Religion, identités culturelles
+
+   [6743843c740940101d92b31fa1c46670.jpg]
+
+   La seconde enquête du Pew Resarch Center s’intéresse à l’évolution de
+   la religiosité dans le monde en privilégiant les évolutions survenues
+   entre les générations nouvelles (moins de 40 ans) et les générations
+   plus anciennes. Ici, les comparaisons peuvent se faire pays par pays ou
+   de continent à continent mais sans qu’il soit possible de connaître les
+   affiliations religieuses précises des individus.
+
+   Le fort mouvement de sécularisation observé en Europe occidentale (voir
+   le premier volet de cet article) est en réalité général dans l’ensemble
+   de l’Europe, même s’il est moins accentué en Europe orientale.
+
+   C’est en Europe, où la religion chrétienne est largement dominante, que
+   ce mouvement est le plus net avec l’Amérique du nord, également
+   chrétienne. La tendance est la même en Australie, très différente de la
+   région Asie-Pacifique en général (tableau). En particulier, c’est en
+   Europe que l’écart entre les personnes qui se revendiquent d’une
+   religion et celles qui estiment que la religion est très importante
+   dans leur vie personnelle est le plus grand, et c’est en Europe, de
+   même qu’en Australie, au Canada et aux États-Unis que la proportion
+   d’irréligieux est la plus grande.
+
+   La situation des Etats-Unis par rapport aux autres pays occidentaux
+   développés est demeurée longtemps particulière, la religiosité y étant
+   très grande. Mais l’arrivée des nouvelles générations est en train de
+   réduire cette originalité. Ainsi, l’évolution des plus aux moins de 40
+   ans est spectaculaire. La proportion de personnes ayant une affiliation
+   religieuse est passée de 83% à 66% entre ces deux sous-populations et
+   celle des personnes pour lesquelles la religion occupe une très grande
+   place dans leur vie personnelle de 60% à 43%.
+
+   Au vu de ces chiffres il serait tentant de tirer la conclusion que la
+   religion chrétienne est beaucoup plus menacée par la tendance à la
+   sécularisation que la religion musulmane du fait d’une fragilité
+   particulière qui serait due à ses caractéristiques propres, d’autant
+   qu’en Afrique du nord et au Moyen-Orient, où l’islam est largement
+   dominant, une telle tendance est inexistante du point de vue de
+   l’affiliation religieuse et faible du point de vue de l’importance de
+   la religion ressentie dans la vie personnelle.
+
+   Une telle hypothèse, pour séduisante qu’elle puisse paraître, est
+   cependant contredite par les faits. Certaines sociétés fortement
+   chrétiennes n’ont pas connu un tel mouvement aussi puissant de
+   sécularisation, notamment en Amérique latine. En Afrique
+   sub-saharienne, qu’il s’agisse de sociétés à dominante chrétienne ou
+   musulmane, un tel mouvement ne s’est pas produit. Au Moyen-Orient et en
+   Afrique du nord, en revanche, où les sociétés sont musulmanes, un tel
+   mouvement, s’il est faible est néanmoins perceptible, notamment en
+   Algérie, en Jordanie, en Egypte et même en Iran. La colonne de droite
+   du tableau montre que, quelle que soit la proportion, plus ou moins
+   élevée, de personnes qui accordent une grande importance à la religion
+   dans leur vie personnelle, mise à part l’Afrique subsaharienne, la
+   baisse de la religiosité est une tendance qui apparaît dans toutes les
+   régions, quelle que soit la religion dominante, par le phénomène de
+   remplacement des générations.
+
+   Plusieurs autres hypothèses peuvent alors être avancées pour expliquer
+   cette tendance croissante à la sécularisation de la plupart des
+   sociétés. La plus féconde nous est fournie par les données de
+   l’enquête : les progrès de la sécularisation dans les différentes
+   sociétés sont étroitement liés à l’ampleur des évolutions économiques,
+   démographiques et sociales que ces sociétés connaissent et ont connu.
+   L’enquête utilise cinq variables pour mesurer ces relations, pays par
+   pays : la dynamique démographique, l’espérance de vie, le nombre moyen
+   d’années d’études des habitants, la richesse par habitant et
+   l’importance des inégalités.
+
+   De manière générale, ces cinq variables sont étroitement corrélées avec
+   les variables religieuses utilisées. Donnons quelques exemples. Les
+   habitants d’un pays estiment d’autant plus souvent que la religion est
+   très importante dans leur vie personnelle que la population du pays est
+   en augmentation rapide. Ainsi tandis qu’au Niger où la population
+   devrait plus que quadrupler entre 2015 et 2060, 86% des habitants
+   estiment que la religion est très importante pour eux, au Danemark, où
+   le taux de remplacement de la population est à peine atteint, cette
+   proportion est de moins de 10%. De même, s’agissant de taux d’inégalité
+   (indice entre 0 et 1), alors que la Zambie a un taux d’inégalité de 0,6
+   et la Finlande un taux de 0,2, les Zambiens sont 90% à estimer que la
+   religion est très importante dans leur vie ce qui n’est le cas que de
+   10% des Finlandais.
+
+   Si l’on utilise comme variable la fréquence de l’assistance à l’office
+   religieux, cette fréquence est inversement proportionnelle à
+   l’espérance de vie dans le pays considéré. Ainsi, par exemple, au
+   Nigeria où l’espérance de vie est de 50 ans, la fréquence de
+   l’assistance à l’office de 90% tandis qu’aux Pays-Bas où l’espérance de
+   vie est de 83 ans, elle est seulement de 10%. De même, cette fréquence
+   est inversement proportionnelle au nombre d’années moyen de
+   fréquentation de l’enseignement scolaire. Tandis qu’en Estonie, cette
+   durée est de 13 années et la fréquence de l’assistance à l’office de
+   3%, ces proportions sont respectivement d’une année et de 93% au Niger.
+
+   Si, enfin, l’on utilise l’indicateur économique du PIB par habitant
+   ajusté par parité de pouvoir d’achat et l’indicateur religieux de
+   prière quotidienne, la fréquence de la prière quotidienne est
+   inversement proportionnelle à la richesse par habitant. Ainsi, tandis
+   que le PIB PPA en Norvège est de 70 000 dollars et la fréquence de la
+   prière quotidienne de 18%, en Afghanistan, il est de 4000 dollars et la
+   fréquence de la prière de 98%.
+
+   Ces données nous conduisent à penser que ne sont pas d’abord les
+   spécificités et particularités de la religion chrétienne par rapport à
+   la religion musulmane ou à d’autres religions qui ont produit
+   directement – car une influence indirecte peut être recherchée – le
+   mouvement de sécularisation qui a, en premier lieu, affecté les
+   sociétés chrétiennes, mais l’état social et économique des sociétés
+   concernées et leur évolution. Il se trouve que le développement
+   économique et industriel des sociétés chrétiennes a été plus précoce et
+   plus rapide que celui des sociétés musulmanes. Ce développement, et la
+   manière dont il s’est effectué politiquement et socialement, ont créé
+   les conditions philosophiques et matérielles qui ont été les moteurs du
+   processus d’individualisation des sociétés. Si les sociétés
+   occidentales ont entamé avant les autres le mouvement de
+   sécularisation, c’est d’abord parce qu’elles sont devenues avant les
+   autres des « sociétés des individus », pour reprendre le concept de
+   Norbert Elias. Dans ces sociétés, le contrôle social des Églises
+   chrétiennes, relativement facile et durable à exercer lorsque ces
+   sociétés étaient holistes, la religion constituant alors un élément
+   fondamental de leur homogénéité et de leur identité, s’est affaibli au
+   fur et à mesure que les individus ont acquis une autonomie croissante
+   en leur sein. S’est alors développée une tendance à l’irréligion, mais
+   aussi, comme nous l’avons vu dans le précédent article, un
+   affaiblissement notable de la religiosité chez les individus qui
+   continuent de revendiquer leur appartenance à la religion chrétienne.
+   Cette tendance à l’individualisation les a conduits, de manière
+   croissante, à prendre leurs distances avec les Églises et les dogmes
+   religieux, participant ainsi à la sécularisation de la société. Du
+   coup, dans ces sociétés, il n’est plus aisé d’opposer de manière nette
+   les chrétiens dans leur ensemble aux irréligieux.
+
+   Comparer les sociétés chrétiennes aux sociétés musulmanes aujourd’hui
+   ne peut donc pas seulement consister à comparer l’état des deux
+   religions mais aussi celui des sociétés dans lesquelles elles sont
+   enracinées. Par exemple, alors que, dans les sociétés musulmanes, la
+   religion est considérée massivement comme très importante par les
+   individus qui la composent (le plus souvent plus de 80%), chez les
+   musulmans qui habitent dans des sociétés occidentales, cette proportion
+   n’est que de 54% en France, de 66% aux Etats-Unis et de 69% en Israël.
+   Les religions étant des phénomènes sociaux, leur comparaison ne peut
+   ainsi s’effectuer, du point de vue de la sociologie, qu’en englobant
+   dans leur analyse les sociétés elles-mêmes dans lesquelles elles sont
+   enracinées.
+   fermer
+
+Vous avez apprécié cet article ?
+
+   Soutenez Telos en faisant un don.
+   (et bénéficiez d'une réduction d'impôts de 66%)
+   Paypal donation_____
+
+   Please enter a description
+   € ____________________
+
+   Merci d'entrer un montant
+   ____________________
+
+   Please enter an Invoice ID
+
+telos
+
+   ____________________
+
+L'auteur
+
+     * [2e1e90a910a0f8e072b4cc13af7bd78d.jpg] Gérard Grunberg Politologue,
+       directeur de recherche émérite au CNRS Contact Gérard Grunberg
+
+Recevez nos articles dès leur publication
+
+   ____________________ (BUTTON) Confirmer
+   fermer
+
+Nous rejoindre fermer
+
+À lire également
+
+     * Du même auteur
+          + L’autodestruction du régime parlementaire 22 déc. 2023
+          + Les musulmans et la laïcité en France. À propos d’une enquête
+            de l’IFOP 18 déc. 2023
+          + Le «nouvel antisémitisme» existe-t-il? 12 déc. 2023
+          + La gauche et Mélenchon: et après? 21 nov. 2023
+          + Sur l’appel commun d’Édouard Philippe et de Bernard Cazeneuve
+            6 nov. 2023
+     * Société
+          + Le peuple et sa police Cyrille Bret 27 déc. 2023
+          + Regards de la jeunesse des cités sur les violences urbaines
+            Monique Dagnaud 14 déc. 2023
+          + Éducation: le retour de l’école réac? Olivier Galland 4 déc.
+            2023
+     * Religion, identités culturelles
+          + Wokisme? Une réponse à Pierre-André Taguieff Alain Policar 16
+            nov. 2023
+          + Exclure les élèves radicalisés? Est-ce sérieux? Olivier
+            Galland 13 nov. 2023
+          + La gauche radicale et l’extrême-droitisation de l’adversaire
+            Pierre-André Taguieff 7 nov. 2023
+     * Société
+          + Appel à nos lecteurs Telos 31 déc. 2023
+          + Environnement: changer de mode de vie? Pas si simple…. Olivier
+            Galland 29 déc. 2023
+          + L’entrisme sémantique du wokisme Nathalie Heinich 28 déc. 2023
+
+En savoir plus sur Telos
+
+     * Auteurs
+     * À propos
+     * Nous contacter
+     * Mentions légales
+     * Protocole rédactionnel
+
+Nos partenaires
+
+     * Lavoce.info
+     * Le Nouvel Esprit public
+     * Agenda Pública
+     * Vox
+       (CEPR's Policy Portal)
+     * Me Judice
+     * Slate
+
+   Telos bénéficie du soutien de Vocatif.
+
+   [logo-print.png]

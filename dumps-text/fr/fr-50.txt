@@ -1,795 +1,447 @@
-   #Planet-Terre - RSS 1.0 Planet-Terre - RSS 2.0 Planet-Terre - Atom
-   Recherche dans ce site
-
-   ﻿
-
-   Ressources scientifiques pour l'enseignement
-
-   des sciences de la Terre et de l'Univers
-   ENS de Lyon Eduscol
-
-Outils personnels
-
-Navigation
-
-     * Services
-          + Carte interactive
-          + Frise géologique
-          + Liens utiles
-          + Aide
-          + Contribuer
-          + Contact
-     * Veille
-          + Actualités
-          + Dans les labos
-          + Dans les académies
-          + Sur les sites experts
-     * Ressources
-          + Dossiers
-          + Archives du site
-          + À la une
-          + L'image de la semaine
-          + Le dernier article
-          + À (re)découvrir
-     * Recherche structurée
-          + La Terre : propriétés, enveloppes, constituants
-          + Géodynamique interne
-          + Tectonique et structures géologiques
-          + Enveloppes fluides externes, climats
-          + Pédologie, sédimentologie, cycles élémentaires
-          + Biosphère, origine et évolution des êtres vivants
-          + Planétologie, astronomie
-          + Géologie appliquée
-          + Outils et méthodes d'étude
-          + Géologie régionale
-          + Sciences de la Terre et humanités
-     * Programmes
-          + Collège
-          + Seconde SVT
-          + Seconde option Sci.Lab.
-          + Première spé. SVT
-          + Première Ens.Sci.
-          + Terminale spé. SVT
-          + Terminale Ens.Sci.
-          + Post-bac
-          + BCPST
-          + TB
-          + Concours enseignement
-
-   Recherche
-   __________________ Submit
-   Recherche avancée…
-
-   Aller au contenu. | Aller à la navigation
-   Vous êtes ici : Accueil → Ressources → L'histoire de l'âge de la Terre
-
-   Info
-
-   Article | 04/02/2020
-
-L'histoire de l'âge de la Terre
-
-   04/02/2020
-
-Pierre Thomas
-
-   Laboratoire de Géologie de Lyon / ENS de Lyon
-
-Olivier Dequincey
-
-   ENS de Lyon / DGESCO
-
-Delphine Chareyron
-
-   ENS de Lyon / DGESCO
-
-   Résumé
-
-   Datation de la formation de la Terre : de l'usage des récits de la
-   création, aux approches scientifiques qualitatives (évolution
-   biologique et observations géologiques) puis quantitatives (lois de la
-   thermique et radioactivité).
-     __________________________________________________________________
-
-   Table des matières
-     * Avant le XVIII^e siècle
-     * Au XVIII^e et XIX^e siècle
-     * À partir du XX^e siècle
-
-   Cet article est une version étoffée (car sans contraintes éditoriales
-   strictes sur le nombre de signes et de figures) du texte commandé pour
-   la revue TDC (Textes et documents pour la classe) et son numéro 1126 du
-   1^er février 2020, Explorer la matière (voir le sommaire).
-
-Avant le XVIII^e siècle
-
-   Suivant leurs différentes croyances, les Hommes se préoccupaient ou non
-   de l'origine de la Terre. Et il y avait autant de récits de cette
-   « création » que de peuples s'y intéressant. Pour les anciens
-   Égyptiens, la Terre est née (on ne sait pas trop comment) du Noun, un
-   “monde” inerte, un chaos, sans terre, sans vie, sans mort, sans jour ni
-   nuit, sans aucune espèce vivante. C'était une grande étendue d'eau,
-   l'Océan primordial. Pour les Grecs archaïques, la Terre (Gaïa) était
-   née à partir du désordre (Chaos), à un âge non précisé, alors que pour
-   de nombreux philosophes de la Grèce classique (Aristote…), la Terre
-   avait toujours existé. Le bouddhisme ne s'intéresse pas à l'origine du
-   monde, mais à son évolution. Pour les trois religions monothéistes,
-   (par ordre chronologique d'apparition, judaïsme, christianisme, et
-   islam), il y a un même récit de la création de la Terre, des astres et
-   de la vie par un Dieu préexistant. La Création dura 6 jours. Dieu créa
-   d'abord le ciel, la Terre et la lumière (1^er jour), ensuite il sépara
-   les eaux et le ciel (2^e jour), puis il forma la mer, les terres
-   émergées, et les plantes (3^e jour), puis le Soleil, la Lune et les
-   étoiles (4^e jour), puis les oiseaux et les animaux marins (5^e jour),
-   et il termina par les reptiles, les mammifères et enfin l'Homme (6^e
-   jour). Il se reposa le 7^e jour. Beaucoup de ces éléments se retrouvent
-   dans des récits sumériens antérieurs à l'écriture de la Bible.
-
-   Avant de se demander quand a eu lieu cette semaine extraordinaire, on
-   peut, comme le recommandent les programmes de lycée, chercher dans
-   l'art comment les artistes ont représenté cette création de la Terre.
-   Les artistes (peintres, enlumineurs…) ont abondamment représenté la
-   création de l'Homme, un peu moins celles des plantes et des animaux, et
-   très peu les créations “géologiques” ou “astronomiques”. Par exemple,
-   les ultra-célèbres fresques de la Chapelle Sixtine (peintes par
-   Michel-Ange au début du XVI^e siècle entre 1508 et 1512) représentent
-   la création d'Adam que tout le monde connait et où Dieu touche le doigt
-   d'Adam. Moins connues mais toujours dans la Chapelle Sixtine,
-   Michel-Ange a aussi peint la création du Soleil et de la Lune ; mais
-   rien sur la création de la Terre. Il faut rechercher dans des œuvres
-   des siècles précédents pour retrouver des représentations de la
-   création de la Terre. Citons-en deux : un Dieu architecte dans une
-   Bible moralisée du XIII^e siècle (auteur anonyme), œuvre conservée à la
-   Bibliothèque nationale autrichienne de Vienne, et une Création du
-   Monde, datant de 1445, peinte par Giovanni di Paolo (1398-1482) et
-   conservée au Metropolitan Museum of Art (MET) de New York. Ces deux
-   représentations sont symboliques, et ne cherchent pas à expliquer
-   comment Dieu s'y est pris pour créer la Terre.
-   La Création du Monde dans la Bible moralisée (codex 2554) de Vienne,
-   livre enluminé datant de la première moitié du XIIIe siècle
-
-   Source - © 1220-1230 Anonyme / Österreichische Nationalbibliothek
-
-   Figure 1. La Création du Monde dans la Bible moralisée (codex 2554) de
-   Vienne, livre enluminé datant de la première moitié du XIII^e siècle
-
-   On y voit un Dieu architecte avec un compas (on est dans le siècle des
-   bâtisseurs de cathédrales). On y reconnait la Terre au centre, Le
-   Soleil, la Lune et les étoiles, et l'eau au-dessus des cieux.
-   La Création du Monde de Giovanni di Paolo (milieu 15e siècle)
-
-   Source - © 1445 Giovanni di Paolo / Metropolitan Museum of Art, New
-   York
-
-   Figure 2. La Création du Monde de Giovanni di Paolo (milieu 15^e
-   siècle)
-   La création du Soleil et de la Lune par Michel-Ange (début du XVIe
-   siècle)
-
-   Source - © 1508-1512 Michel-Ange / kerdonis.fr
-
-   Figure 3. La création du Soleil et de la Lune par Michel-Ange (début du
-   XVI^e siècle)
-
-   Comment dater cette création de la Terre, des astres, de la vie et de
-   l'Homme avec seulement ces livres sacrés ? L'interprétation à la lettre
-   de ces textes, sources des illustrations ci-dessus, permet de calculer
-   l'âge de la Terre, car ces récits donnent l'âge des personnages de
-   cette histoire. D'après ces textes, Noé, par exemple, vécut 950 ans,
-   Mathusalem 969 ans, Abraham 175 ans… On vivait vieux à l'époque ! Il
-   suffit alors, si l'on interprète ces chiffres à la lettre, de faire une
-   addition, puis de recaler ces âges bibliques avec les calendriers
-   romain puis julien pour avoir la date de la création du Monde. Par
-   exemple, l'évêque irlandais Ussher (1581-1656) calcula que Dieu
-   commença la Création au début de la nuit du 22 octobre de l'an 4004
-   av. J.-C. ! D'autres chronologies moins caricaturales furent proposées
-   sur de telles bases religieuses, et toutes donnaient des âges de
-   quelques milliers d'années.
-
-   Mais les géologues, dès le XVII^e siècle, avaient du mal avec ces
-   courtes durées. Comment expliquer en quelques milliers d'années la
-   formation de profondes vallées, de hautes montagnes… ? L'intervention
-   du Déluge, commode, n'expliquait pas tout.
-
-   On peut noter que l'interprétation à la lettre de ces textes conduit à
-   la fois à une Terre très jeune et au créationnisme. En 2011, une étude
-   faite par Ipsos et l'agence Reuter (évoquée dans la page Créationnisme)
-   donnait des chiffres concernant le pourcentage de la population croyant
-   au créationnisme dans différents pays. On peut supposer que la
-   fréquence des partisans d'une Terre très jeune est du même ordre de
-   grandeur. Citons ces pourcentages pour quelques pays, dans l'ordre
-   décroissant : l'Arabie saoudite (75 %), le Brésil (47 %), les USA
-   (40 %), l'Inde (33 %), la Pologne (25 %), le Japon, la Chine et la
-   majorité des pays Ouest-européens dont la France (autour de 10 %). Ce
-   “classement” traduit un combiné de (1) l'importance de l'influence des
-   plus rétrogrades des religieux, et (2) de la qualité de l'enseignement
-   public. Les professeurs de science, de SVT en particulier, ont donc
-   encore un rôle important à jouer, même en France (10 %, c'est
-   beaucoup) !
-
-Au XVIII^e et XIX^e siècle
-
-   À partir du XVIII^e siècle, les scientifiques commencèrent à séparer
-   science et religion. Buffon (1707-1788) publia discrètement (dans le
-   tome 1 des Suppléments à l'Histoire Naturelle, 1774) un mémoire
-   intitulé Expériences sur les progrès de la chaleur dans les corps. En
-   quelques pages, il décrit des expériences faites sur le refroidissement
-   de boulets de canon chauffés dans une forge. Pourquoi Buffon a-t-il
-   étudié le refroidissement de boulets ? Parce qu'il pensait que Terre et
-   planètes étaient des morceaux du Soleil qui en avaient été arrachés par
-   la collision avec une comète. La Terre avait donc eu une origine très
-   chaude. Il extrapola à la Terre les résultats obtenus sur ces petites
-   sphères. Il obtint plusieurs résultats, les extrapolations variant
-   selon le choix de certaines hypothèses. Il a choisi de publier le plus
-   petit des âges calculés, 96 670 ans, quand même 16 fois plus grand que
-   les âges bibliques. Et il n'a pas du tout exploité ce chiffre dans la
-   suite de son œuvre. Dans un pays et à une époque où la religion était
-   puissante, on n'était jamais trop prudent ! On peut lire des extraits
-   des travaux de Buffon et des commentaires à leur sujet dans Buffon, ou
-   comment le siècle des Lumières envisageait l'origine du monde.
-   L'origine de la Terre, extrait de l'œuvre de Buffon (1749)
-
-   Source - © 1749 in Buffon – Photo Pierre Thomas
-
-   Figure 4. L'origine de la Terre, extrait de l'œuvre de Buffon (1749)
-
-   Buffon proposait que la Terre soit un fragment du Soleil arraché par le
-   passage d'une comète ; c'est pour cela qu'il a supposé une Terre
-   initiale à haute température et qu'il a étudié la vitesse de
-   refroidissement de boulets pour évaluer l'âge de la Terre. On peut
-   noter que Buffon a dessiné un Dieu ressemblant beaucoup au Dieu créant
-   Adam de Michel-Ange (Chapelle Sixtine). Mais dans le dessin illustrant
-   le livre de Buffon, Dieu ne touche rien, n'intervient pas, mais est
-   présent, surveille… Dessiner Dieu était une mesure de prudence sous
-   Louis XV (rappelons-nous la triste fin du chevalier de la Barre).
-
-   Illustration issue de Buffon, 1749. Histoire naturelle, générale et
-   particulière, Tome premier, chapitre Preuves de la théorie de la Terre,
-   p.185
-
-   Durant la fin du XVIII^e et tout le XIX^e siècle, il y eut deux types
-   d'approches pour dater la Terre : l'approche géologique qui restait
-   semi-quantitative à l'époque, et l'approche physique plus quantitative
-   et appliquant les lois de la physique naissante. Les géologues voyaient
-   des montagnes et leur érosion, le remplissage des mers anciennes par
-   des sédiments. Il était très difficile à ces époques de mesurer une
-   moyenne des vitesses d'érosion et de sédimentation, extrêmement
-   variables. Ce qui était sûr, c'est que ces vitesses étaient très
-   faibles. Par exemple, les vallées du Rhône et de son affluent le Gard
-   ne s'étaient pas approfondies significativement entre l'époque romaine
-   et le XIX^e siècle, comme l'attestent les ruines de ponts romains qu'on
-   y trouve. Pour que l'“énormité” de l'érosion ou de la sédimentation
-   constatées ait eu lieu, il fallait des centaines de millions d'années.
-   Le Pont du Gard photographié en 1851, soit environ 18 siècles après sa
-   construction par les Romains
-
-   Source - © 1851 Édouard Baldus
-
-   Figure 5. Le Pont du Gard photographié en 1851, soit environ 18 siècles
-   après sa construction par les Romains
-
-   L'absence d'érosion mesurable pendant ces 18 siècles montrait l'extrême
-   lenteur des phénomènes géologiques aux géologues du XIX^e siècle.
-   Vallées des Pyrénées, gravure extraite d'un livre du géologue Pierre
-   Bernard Palassou (1745–1830)
-
-   Source - © 1784 in Palassou – Photo Pierre Thomas
-
-   Figure 6. Vallées des Pyrénées, gravure extraite d'un livre du géologue
-   Pierre Bernard Palassou (1745–1830)
-
-   L'épaisseur des couches sédimentaires, leurs plissements, la profondeur
-   des vallées… tout cela impliquait un temps très long pour la formation
-   et l'érosion des Pyrénées.
-
-   Illustration issue de Pierre Bernard Palassou, 1784. Essai sur la
-   Minéralogie des Monts-Pyrénées
-
-   De même, l'étude des fossiles, de leur variation dans la succession des
-   strates et leur comparaison avec les êtres vivants actuels montraient
-   que les êtres vivants évoluaient au cours du temps. Et comme
-   l'évolution est insensible sur plusieurs millénaires (comme le montre
-   la comparaison entre les animaux actuels et les animaux momifiés par
-   les Égyptiens, cf. L'évolution est un phénomène lent), il fallait des
-   centaines de millions d'années pour “transformer” les animaux anciens
-   en animaux actuels.
-   Planche 3 du livre de Darwin (1809-1882) Geological Observations on
-   South America (1846), livre décrivant des fossiles collectés en
-   Amérique du Sud lors de son tour du monde à bord du Beagle (1831-1836)
-
-   Source - © 2015 Richard Carter, The great Darwin fossil hunt
-
-   Figure 7. Planche 3 du livre de Darwin (1809-1882) Geological
-   Observations on South America (1846), livre décrivant des fossiles
-   collectés en Amérique du Sud lors de son tour du monde à bord du Beagle
-   (1831-1836)
-
-   Ce sont, entre autres, les observations faites au cours de ce voyage
-   qui ont permis à Darwin non pas de démontrer l'Évolution (il n'y avait
-   plus de doute chez les vrais naturalistes du milieu du XIX^e), mais
-   d'en proposer un mécanisme.
-
-   Tous ces raisonnements étaient basés sur le principe que la nature
-   actuelle obéissait aux mêmes règles que la nature passée, principe
-   clairement énoncé par Charles Lyell (1797-1875) dans les années
-   1830-1835. Mais quelques autres naturalistes (dont George Cuvier,
-   1769-1832) expliquaient les mêmes observations (érosion,
-   sédimentation…) avec des temps plus courts en faisant appel à des
-   « catastrophes », des « déluges », brèves périodes avec érosion,
-   sédimentation et évolution très rapides.
-
-   Le défaut de ces approches naturalistes, c'était d'être relativement
-   empiriques, et non fondées (à l'époque) sur des mesures précises et sur
-   des lois physiques, biochimiques… bien établies.
-
-   L'utilisation des lois de la propagation de la chaleur bien connues
-   dans la deuxième moitié du XIX^e siècle (les lois de Fourier datent de
-   1822) ont permis à lord Kelvin (1824-1907) de reprendre les idées de
-   Buffon sur le refroidissement de la Terre, non pas expérimentalement,
-   mais en calculant le temps nécessaire à une Terre pour passer de l'état
-   d'une boule de magma à la Terre actuelle avec son degré géothermique
-   superficiel de 30 K/km. Après plusieurs valeurs proposées, un consensus
-   autour de 20 à 40 Ma s'établit dans la communauté des physiciens des
-   années 1890.
-   Évolution de la température interne de la Terre en fonction de la
-   profondeur
-
-   Source - © 2014 Pierre Thomas
-
-   Figure 8. Évolution de la température interne de la Terre en fonction
-   de la profondeur
-
-   La température n'augmente très fortement avec la profondeur que dans
-   deux zones restreintes : la lithosphère superficielle (d'épaisseur
-   comprise entre 0 et 150 km) et de part et d'autre de la limite
-   manteau/noyau (vers 2900 km de profondeur). Ces deux zones
-   correspondent à ce que les physiciens appellent des « couches limites
-   thermiques », minces couches situées au sommet et à la base des
-   cellules de convection terrestre pour lesquelles la variation de
-   température avec la profondeur est très faible, et égale au gradient
-   adiabatique (ou plus précisément isentropique).
-
-   Au XIX^e on ne mesurait le gradient thermique qu'en surface (~30K/km)
-   et peu de physiciens envisageaient la possible convection de
-   l'intérieur de la Terre. De plus la production de chaleur interne par
-   radioactivité ne fut envisagée qu'à partir du début du XX^e siècle.
-
-   Figure à retrouver dans La chaleur de la Terre et la géothermie.
-
-   Les astronomes de la fin du XIX^e siècle proposaient que le Soleil tire
-   son énergie de sa contraction. Un rapide calcul de perte d'énergie
-   potentielle d'un corps « très grand » (idéalement infini) ayant la
-   masse du Soleil (1,9891.10^30 kg), se contractant en rayonnant sa
-   puissance actuelle (luminosité, J de 4.10^26 W) pour atteindre sa
-   taille actuelle (diamètre de 1 392 684 km) prouvait que cette
-   contraction durait depuis largement moins que 100 Ma. Pour cela, il
-   suffit d'appliquer la formule d'Helmholtz (1821-1894) : τ= E/L, τ étant
-   le temps caractéristique pendant lequel l'étoile peut rayonner une
-   puissance L avec une énergie totale libérable E= G.M^2/ 2R, avec G la
-   constante de gravitation universelle, M et R les masse et rayon du
-   Soleil.
-
-   Et, en cette fin du XIX^e siècle, John Joly (1857-1933) reprit les
-   idées d'Edmond Halley (1656-1752, celui qui a découvert la périodicité
-   de la comète qui porte désormais son nom). Ce dernier proposait que
-   l'océan primitif était constitué d'eau douce. Cet océan reçoit par les
-   fleuves de l'eau très légèrement salée, alors qu'il perd par
-   évaporation de l'eau parfaitement douce. Halley pensa (sans pouvoir le
-   faire) que si on connaissait la faible salinité moyenne des fleuves,
-   leur débit total, et le volume total des océans, il serait facile de
-   calculer combien de temps il aurait fallu à ces fleuves pour amener à
-   la mer tout le sel qui s'y trouve. Deux siècles plus tard, Joly
-   connaissait les valeurs de la salinité de la mer et des fleuves, le
-   volume de la mer, la somme des débits des grands fleuves, et put faire
-   les calculs en négligeant la précipitation des évaporites, roches somme
-   toute assez rares (dépôts issus de la concentration d'eaux douces ou
-   marines par évaporation et aboutissant à la précipitation de sels). Il
-   trouva un âge de la Terre (ou plus précisément des océans) d'environ
-   80 Ma.
-
-   Les géologues demandaient plusieurs centaines de millions d'années pour
-   expliquer leurs observations, les physiciens en proposaient quelques
-   dizaines pour expliquer leurs mesures et leurs calculs. La physique
-   nucléaire débutant au tout début du XX^e siècle et la découverte des
-   dorsales dans la deuxième moitié du XX^e siècle donnèrent raison aux
-   géologues et expliquèrent pourquoi les physiciens de l'époque avaient
-   eu tort.
-   Portraits de quatre des acteurs de la querelle entre une Terre à
-   histoire longue et une Terre à histoire courte
-
-   Figure 9. Portraits de quatre des acteurs de la querelle entre une
-   Terre à histoire longue et une Terre à histoire courte
-
-   Lyell et Darwin (en haut) proposaient une histoire “longue” sur la base
-   d'observations et de mesures géologiques, alors que Kelvin et Joly
-   proposaient une histoire “courte” sur la base de mesures et de modèles
-   physiques (modèles qui, plus tard, se sont avérés incomplets).
-
-À partir du XX^e siècle
-
-   La radioactivité fut découverte en 1896. On a alors rapidement montré
-   qu'un isotope radioactif P (P comme “père”) se transforme en un isotope
-   radiogénique F (F comme “fils”), et ce avec une loi connue :
-     * P = P[0].e^−^λ^t (équation 1),
-
-   avec λ la constate radioactive caractéristique de chaque noyau
-   radioactif, P la quantité d'élément père mesurée aujourd'hui dans
-   l'échantillon considéré, P[0] la quantité initiale de père dans
-   l'échantillon, et t l'âge de l'échantillon.
-
-   On a une équation unique et deux inconnues (P[0] et t) : ce qui ne se
-   résout pas. On peut prendre le fils, en écrivant que :
-     * F = F[0] + (P[0]−P) (équation 2),
-
-   F représentant la quantité d'élément fils mesurée aujourd'hui dans
-   l'échantillon, F[0] la quantité initiale d'élément fils dans
-   l'échantillon, et (P[0]−P) la quantité d'élément père qui s'est
-   désintégrée.
-
-   En reportant l'équation 2 dans l'équation 1, on arrive à :
-     * F = F[0] + P.(e^λ^t− 1) (équation 3).
-
-   Encore une équation à deux inconnues (F[0] et t), ce qui ne se résout
-   toujours pas !
-
-   Dans certains cas particuliers, P[0] ou F[0] sont connus. Citons-en
-   trois. Dans le cas de la méthode de datation au ^14C, ^14C[0] est
-   constant et (approximativement) égal à la concentration en ^14C de
-   l'atmosphère (anté-industrielle et anté-nucléaire). P[0] est donc
-   connu. Pour la datation potassium-argon (K-Ar) et dans les minéraux
-   riches en potassium (comme l'orthose [KAlSi[3]O[8]], les micas
-   blancs…), on peut considérer que ^40Ar[0] est négligeable devant le
-   ^40Ar radiogénique. Dans certains types de minerais d'uranium et de
-   thorium, le Pb[0] et/ou le He[0] sont négligeables devant le Pb et l'He
-   radiogéniques. Dans ces deux derniers cas, F[0] est connu car supposé
-   nul. Donc, sauf pour de tels cas particuliers (rares et ne permettant
-   pas de dater la formation de la Terre), on ne peut pas dater un
-   échantillon unique.
-
-   Il existe de nombreux couples P-F dont un des plus utilisés est le
-   couple ^87Rb-^87Sr que nous prendrons comme exemple. L'équation 3
-   s'écrit alors ^87Sr = ^87Sr[0] + ^87Rb.(e^λ^t− 1), bien sûr toujours
-   impossible à résoudre puisqu'il y a toujours deux inconnues, t et
-   ^87Sr[0] . Mais, à côté du ^87Sr pour partie radiogénique, pour partie
-   déjà présent dans l'échantillon au temps t=0, il existe un strontium ni
-   radioactif ni radiogénique, ^86Sr, dont la quantité, bien que variable
-   d'un échantillon à l'autre en fonction de la teneur de l'échantillon en
-   strontium, est constante dans le temps dans un échantillon donné. On
-   peut donc écrire pour un échantillon ^86Sr = ^86Sr[0].
-
-   Or, un processus géologique peut former plusieurs “échantillons” à
-   partir d'un même milieu, par exemple plusieurs minéraux à partir d'un
-   même magma, des roches différentes par différenciation dans un même
-   réservoir magmatique… Les échantillons nés d'un même milieu sont dits
-   cogénétiques. Ces échantillons cogénétiques peuvent être chimiquement
-   différents. Le rubidium étant un métal alcalin (monovalent, comme Na et
-   K) et le strontium un alcalinoterreux (divalent, comme Mg et Ca), des
-   échantillons par exemple riches en orthose [KAlSi[3]O[8]] seront riches
-   en rubidium et pauvre en strontium, et inversement pour des
-   échantillons riches en amphibole [par exemple, en actinote
-   Ca[2](Mg,Fe)[5]Si[8]O[22](OH)[2]]. Ils sont chimiquement différents
-   certes, mais isotopiquement identiques au temps 0. En effet, les
-   processus géologiques ne séparent pas les isotopes d'un même élément si
-   ceux-ci sont suffisamment “lourds” pour que leur différence de masse
-   soit négligeable par rapport à leur masse moyenne. Donc, quand un
-   processus géologique fabrique des roches (ou des minéraux) différents
-   au même moment à partir d'un même milieu, les isotopes du strontium ne
-   sont pas séparés. Le rapport (^87Sr/^86Sr)[0] du milieu de genèse est
-   inconnu, variable d'un milieu à un autre, mais est identique pour tous
-   les échantillons formés à partir de ce même milieu au même moment. On
-   reprend alors l'équation 3 et on divise les deux membres par une valeur
-   constante, à savoir ^86Sr de l'échantillon (qui est égal à ^86Sr[0]).
-   Cela nous donne :
-     * ^(et 87Sr/^86Sr = ^87Sr[0]/^86Sr[0] + (e^λ^t − 1).^87Rb/^86Sr
-       (équation 4).
-
-   Cette équation a toujours 2 inconnues, ^87Sr[0]/^86Sr[0] et t, et
-   diviser les deux membres d'une équation à deux inconnues par une même
-   quantité ne permet toujours pas de la résoudre. Mais si on prend 2
-   échantillons contemporains et cogénétiques, on aura deux équations (une
-   par échantillon) mais avec seulement deux inconnues, t, que l'on
-   cherche, et le rapport ^87Sr[0]/^86Sr[0,] inconnu mais identique dans
-   les deux échantillons puisque, rappelons-le, les processus géologiques
-   ne séparent pas les isotopes lourds. Et un système de 2 équations à 2
-   inconnues se résout !
-
-   Inconnues et rapports isotopiques
-
-   Rappelons bien que le passage aux rapports isotopiques n'est pas dû,
-   comme on le lit et l'entend parfois, au fait que « les spectromètres de
-   masse ne mesurent que des rapports isotopiques et pas des
-   concentrations ».
-
-   L'usage de l'équation 3 avec 2 échantillons cogénétiques donne un
-   système de 2 équations à 3 inconnues… qu'on ne sait pas plus résoudre
-   qu'une équation à 2 inconnues, ni qu'un système de n équations (n
-   échantillons) à n+1 inconnues (l'âge et les n teneurs initiales en
-   élément fils). En effet si l'âge t est le même pour les différents
-   échantillons, les teneurs initiales en élément fils ne sont pas
-   identiques (ou alors “par hasard”), seuls les rapports isotopiques
-   initiaux de l'élément fils sont systématiquement identiques dans des
-   échantillons cogénétiques. D'où le passage aux rapports isotopiques qui
-   permettent de réduire le nombre d'inconnues à 2 : l'âge et le rapport
-   isotopique initial de l'élément fils. Avec 2 échantillons on obtient
-   donc un âge. Mais comme il passe toujours une droite par deux points
-   (qu'ils représentent 2 échantillons cogénétiques ou pas), on prend plus
-   de 2 échantillons pour vérifier que les échantillons sont bien
-   cogénétiques et pour améliorer la précision de la pente (et de l'âge).
-
-   L'équation 4 n'est pas constituée de simples « rapports isotopiques
-   mesurés par spectrométrie de masse ». En effet, un spectromètre de
-   masse mesure bien des rapports de corps de masses différentes en
-   comptant, par exemple, le nombre de “coups” portés par des éléments de
-   masse proche de 86 u^[1] et ceux portés par des éléments de masse
-   proche de 87 u. Cette différence de masse de 1/86~1,16% permet au
-   spectromètre de bien “séparer” les 2 valeurs. Mais, si on reprend
-   l'équation pour le couple Rb-Sr, il y a 3 “corps” à mesurer ^86Sr,^
-   87Sr et ^87Rb… sachant qu'il existe le ^86Rb (certes en très faible
-   abondance) et que leurs masses respectives sont de l'ordre,
-   respectivement de 85,90926 – 86,90888 – 86,90918 (… et 85,91117), il
-   n'est pas possible de distinguer par la seule masse le ^87Sr du ^87Rb
-   dont la différence de masse n'est que de 3.10^−4 u (soit 3,4
-   millionièmes de différence relative). Il en est de même pour ^86Sr et
-   ^86Rb, et on n'a pas pris en compte les quelques autres éléments
-   chimiques qui ont des isotopes de masses proches. Les mesures par
-   spectrométrie de masse nécessitent donc une séparation chimique
-   préalable des éléments Rb et Sr, séparation basée sur les différences
-   d'affinités chimiques de ces éléments. Le passage de la fraction de
-   strontium permet alors la mesure du rapport ^87Sr/^86Sr. Mais comme Sr
-   et Rb ne peuvent être analysés en même temps par spectrométie de masse
-   en distinguant les 4 isotopes de masses proches de 86 et 87 u, on ne
-   peut mesurer le rapport ^87Rb/^86Sr. Ce dernier nécessite les mesures,
-   par diverses méthodes possibles, des concentrations en Rb et en Sr. À
-   partir de ces concentrations élémentaires on déduit les concentrations
-   isotopiques sachant que que le ^86Sr représente 9,86 % du Sr et le
-   ^87Rb 27,83 % du Rb (si besoin, ces abondances isotopiques peuvent être
-   affinées pour certains échantillons atypiques). L'usage d'équation avec
-   des rapports isotopiques ne permet donc pas de se passer de la mesure
-   de concentrations élémentaires.
-
-   La suite est une histoire de “cuisine mathématique.” On peut résoudre
-   graphiquement un système de n équations à 2 inconnues si n≥ 2.
-
-   L‘équation 4,
-     * ^87Sr/^86Sr = ^87Sr[0]/^86Sr[0] + (e^λ^t − 1).^87Rb/^86Sr
-
-   est de la forme
-     * Y = b + a.X.
-
-   Si on prend n échantillons contemporains et cogénétiques, qu'on en
-   analyse les quantités ^87Sr, ^86Sr et ^87Rb, et qu'on reporte ces
-   analyses dans un diagramme ^87Sr/^86Sr (Y) fonction de ^87Rb/^86Sr (X),
-   ces n points seront théoriquement alignés sur une droite de pente
-   e^λ^t− 1 (a). Cette droite est appelée “isochrone” et sa pente permet
-   de calculer t. Si les points sont alignés, à moins d'un hasard
-   totalement improbable si n est grand, c'est qu'ils sont contemporains,
-   cogénétiques et d'âge donné par la pente. Si les échantillons sont non
-   contemporains ou non cogénétiques, alors les points analytiques ne
-   s'aligneront pas sur une droite.
-
-   Et dès le début du XX^e siècle, d'abord avec des méthodes où F[0] était
-   connu, on a pu dater des échantillons de roches d'âge supérieur à 2
-   milliards d'années^[2], en particulier des minerais d'uranium et des
-   granites. Les chronologies courtes étaient donc fausses.
-   Exemple d'une droite isochrone obtenue avec la méthode Rb–Sr, celle du
-   complexe granitique de Huelgoat, en Bretagne
-
-   Source - © 1988 Notice de la carte géologique de Huelgoat
-
-   Figure 10. Exemple d'une droite isochrone obtenue avec la méthode
-   Rb–Sr, celle du complexe granitique de Huelgoat, en Bretagne
-
-   Ce complexe granitique est en fait composé de trois granites
-   différents, eux-mêmes chimiquement et minéralogiquement légèrement
-   variables : les granites de La Feuillée, du Cloitre et de Huelgoat
-   sensu stricto. Des arguments géologiques indiquent que ces trois
-   granites sont cogénétiques et contemporains. L'analyse de 13
-   échantillons pris dans ces 3 granites montre qu'ils sont alignés sur
-   une droite dans un diagramme ^87Sr/^86Sr fonction de ^87Rb/^86Sr. Cet
-   alignement (1) confirme que ces trois granites sont contemporains et
-   cogénétiques, ce qu'indiquaient déjà des études géologiques, (2) permet
-   de calculer la pente de cette droite (égale à e^λ^t− 1), ce qui donne
-   un âge de 342 ± 6 Ma. Les granites bretons sont effectivement plus
-   vieux que les 100 Ma maximum que donnaient à la Terre les physiciens du
-   XIX^e siècle.
-
-   Il existe beaucoup d'autres chronomètres que le couple
-   rubidium-strontium, dont les deux chronomètres ^235U-^207Pb et
-   ^238U-^206Pb, chronomètres que l'on peut combiner en une méthode
-   combinée dite Pb-Pb. On trace alors des droites isochrones dans un
-   diagramme ^207Pb/^204Pb en fonction de ^206Pb/^204Pb, le ^204Pb n'étant
-   ni radioactif ni radiogénique (il “joue le rôle” du ^86Sr dans la
-   méthode Rb-Sr). L'âge est donné par la pente, qui, dans cette méthode
-   Pb-Pb est égale à [^235U/^238U.(e^λ[235]^t– 1)/(e^λ[238]^t– 1)].
-
-   En choisissant parmi toutes ces méthodes basées sur la radioactivité,
-   on peut, selon les cas et les méthodes employées, dater des minéraux
-   isolés, des roches magmatiques ou métamorphiques (mais hélas beaucoup
-   plus rarement des roches sédimentaires). La roche la plus vieille
-   connue à ce jour a environ 4,2 Ga. C'est une roche volcanique
-   (métamorphisée) qui provient du Québec (Nuvvuagittuq Greenstone Belt).
-   Cette datation est encore sujette à des débats scientifiques et
-   méthodologiques. Le plus vieux minéral connu est un zircon (ZrSiO[4])
-   australien (Jack Hills) daté de 4,4 Ga. La Terre est donc plus vieille
-   que 4,4 Ga. Mais comment dater la Terre globale, et non pas telle
-   roche, tel minéral, telle formation géologique… ?
-
-   C'est le chronomètre Pb-Pb qui a donné le premier âge précis pour la
-   Terre. En 1953, Clair Patterson (1922-1995) entreprit de dater les
-   météorites. En prenant plusieurs minéraux dans une même météorite, il
-   trouva une isochrone donnant un âge de 4,5 Ga. En analysant globalement
-   plusieurs types de météorites chimiquement et minéralogiquement
-   différentes (chondrites, achondrites, météorites de fer…), il trouva
-   aussi un âge de 4,5 Ga. Outre l'intérêt de connaitre l'âge des
-   météorites, cela prouvait (à moins d'un malencontreux hasard hautement
-   improbable) que toutes les météorites étaient contemporaines et
-   cogénétiques. Tous les objets du système solaire qu'on pouvait analyser
-   à l'époque (les météorites provenant de la ceinture des astéroïdes)
-   étaient contemporains et cogénétiques. Or, le système solaire forme un
-   ensemble cohérent : tous ses corps, astéroïdes compris, sont dans un
-   même plan, tournent dans le sens qui est aussi le sens de rotation du
-   Soleil sur lui-même… Il n'est pas illogique de penser que l'ensemble
-   des corps du système solaire, Terre comprise, soient contemporains et
-   cogénétiques. Il ne reste plus qu'à le confirmer ou l'infirmer. Mais
-   quel(s) échantillon(s) prendre pour dater la Terre entière ? Il fallait
-   trouver un (des) échantillon(s) terrestre(s) dont le plomb soit
-   représentatif du plomb de toute la Terre et non pas de telle ou telle
-   formation géologique. Patterson s'est dit que le peu de plomb contenu
-   dans les sédiments des plaines abyssales océaniques moyennait sans
-   doute les isotopes du plomb dissout dans l'eau de mer qui, lui-même,
-   moyennait les plombs provenant des continents, des basaltes océaniques,
-   du manteau… Il a donc supposé que ce plomb océanique était
-   isotopiquement représentatif du plomb des silicates de la Terre. Et,
-   après analyse, le plomb de ces sédiments océaniques se place
-   parfaitement sur l'isochrone des météorites, ce résultat fut publié en
-   1956. Cela prouve, à moins d'un hasard hautement improbable, que Terre
-   (en toute rigueur ses silicates) et météorites sont contemporaines et
-   cogénétiques, et ont ce même âge de 4,5 Ga, qui est l'âge du système
-   solaire. Cet âge a été confirmé et précisé depuis 1956 par beaucoup
-   d'autres méthodes basées sur la radioactivité.
-   Exemple d'une droite isochrone (geochron en anglais) pour déterminer
-   l'âqe de la Terre, publiée par Clair Patterson, republiée 6 ans plus
-   tard dans un article de Murthy et Patterson (1962), et redessinée pour
-   cet article
-
-   Source - © 1962 D'après Murthy et Patterson, redessiné
-
-   Figure 11. Exemple d'une droite isochrone (geochron en anglais) pour
-   déterminer l'âqe de la Terre, publiée par Clair Patterson, republiée 6
-   ans plus tard dans un article de Murthy et Patterson (1962), et
-   redessinée pour cet article
-
-   Articles sources.
-
-   C.C. Patterson, 1956. Age of meteorites and the earth, Geochimica et
-   Cosmochimica Acta, 10, 4, 230-237 [pdf]
-
-   V.R. Murthy, C.C. Patterson, 1962. Primary isochron of zero age for
-   meteorites and the Earth, Journal of Geophysical Research, 67, 3,
-   1161-1167
-
-   On peut alors se demander pourquoi les physiciens du XIX^e siècle
-   s'étaient autant trompés. Parce que leurs modèles étaient très
-   incomplets. Joly ne connaissait pas les dorsales et ne savait pas que
-   leur volcanisme sous-marin absorbe le sodium de la mer (cf. Un
-   volcanisme bien méconnu et pourtant si riche d'enseignement : le
-   volcanisme du Crétacé supérieur du Pays Basque, ses pillow-lavas et la
-   salinité de l'eau de mer). Les astronomes ne connaissaient pas la
-   fusion de l'hydrogène en hélium, source de l'énergie du Soleil qui ne
-   fut proposée qu'en 1919. Kelvin ne connaissait pas la radioactivité,
-   source de chaleur qui limite le refroidissement de la Terre. On ne peut
-   pas reprocher ces “ignorances” à ces scientifiques du XIX^e siècle. On
-   peut par contre leur reprocher de ne pas avoir discuté avec les
-   géologues pour juger de la pertinence de leurs observations et de leurs
-   idées. Mais ce n'étaient pas quelques « ramasseurs de cailloux » qui
-   allaient mettre en doute la physique classique qui montrait chaque jour
-   sa toute-puissance. On peut aussi reprocher à Kelvin d'avoir négligé
-   les diverses possibilités de convection (à l'état solide, liquide,
-   mixte) internes à la Terre, ce dont a tenu compte en 1895 l'un de ses
-   élèves, Perry, ce qui, dans de nombreux cas, donnait un âge plus grand.
-   Mais on ne l'a que très peu écouté à l'époque. Allait-on écouter un
-   « jeune homme » qui osait contredire le « grand » Kelvin ?
-
-   Une fois l'âge de la Terre connu, il reste deux grandes questions : la
-   Terre est “née” il y a 4,5 Ga, mais à partir de quoi, et comment ? Mais
-   c'est une autre histoire.
-
-   La méthode plomb-plomb
-
-   Cette méthode est basée sur l'utilisation simultanée des deux couples
-   ^235U-^207Pb et ^238U-^206Pb. En partant de l'équation 3 écrite sous la
-   forme F−F[0] = P.(e^λ^t− 1) et en faisant intervenir l'isotope stable
-   ^204Pb, on écrit pour chaque couple l'équation correspondante et on les
-   divise membre à membre. On obtient alors :
-     * (^207Pb/^204Pb −^207Pb[0]/^204Pb[0]) / (^206Pb/^204Pb
-       −^206Pb[0]/^204Pb[0]) = ^235U/^238U.(e^λ[235]^t– 1) / (e^λ[238]^t–
-       1)
-
-   Notons y=^207Pb/^204Pb et x=^206Pb/^204Pb. Pour tout uranium non issu
-   d'un réacteur nucléaire (artificiel ou naturel) ou d'une usine de
-   séparation isotopique, le rapport actuel ^235U/^238U est constant (pas
-   de fractionnement en dehors des réacteurs ou processus
-   d'enrichissement) et égal à 1/137,88. Pour des échantillons
-   cogénétiques, t est identique et le terme (e^λ[235]^t– 1) /
-   (e^λ[238]^t– 1) est constant (fonction de l'âge). Le second membre est
-   donc une constante (notons-la p) pour une série d'échantillons
-   cogénétiques.
-
-   L'équation ci-dessus peut alors s'écrire :
-     * y−y[0] / x−x[0] = p
-       ou encore
-     * y = p.x + y[0]− px[0], soit y = p.x +k (avec k = y[0]− px[0], une
-       constante), l'équation d'une droite de pente p, fonction de l'âge t
-       et du rapport constant ^235U/^238U.
-
-   En plaçant les points de mesure ^207Pb/^204Pb en fonction de
-   ^206Pb/^204Pb pour une série d'échantillons, s'ils sont cogénétiques,
-   ils s'alignent sur une droite de pente 1/137,88.(e^λ[235]^t– 1) /
-   (e^λ[238]^t– 1) permettant de remonter à l'âge de formation /
-   cristallisation.
-
-   Cette méthode a, de plus, un intérêt particulier, elle ne nécessite la
-   détermination que de rapports isotopiques du plomb et pas de mesures
-   absolues de concentrations en plomb ni en uranium.
-     __________________________________________________________________
-
-   ^[1] L'unité de masse atomique u est définie comme valant 1/12 de la
-   masse du ^12C, dont la masse molaire est, de fait, de 12 g.mol^−1.
-
-   ^[2] Dès 1907, B.B. Boltwood date à 2,2 Ga des thorianites issues de
-   roches de la province de Sabaragamuwa (Sri Lanka) dans On the Ultimate
-   Disintegration Products of the Radio-active Elements. Part II. The
-   Disintegration Products of Uranium, Am. Jour. Sci. 4th Series, XXIII,
-   134, 77-88.
-
-   Activer le mode zen
-
-   Mots-clés
-          âge de la Terre, géochronologie, refroidissement de la Terre,
-          radiochronologie, météorite, évolution biologique
-
-   Voir aussi
-          article.png Quel âge a la Terre ?
-
-          article.png Buffon, ou comment le siècle des Lumières
-          envisageait l'origine du monde
-
-          article.png exercice.png Travaux dirigés de Géochronologie
-
-          lienversunautresite.png article.png La dérive génétique
-
-          lienversunautresite.png article.png Méthode de datation par le
-          carbone 14 - première approche scientifique
-
-   Export pdf – Biblio
-
-          + Ressource au format PDF
-          + Citation texte (.txt)
-          + Citation BibTeX (.bib)
-          + Citation RIS (.ris)
-
-   Découvrir Planet Vie,
-   l'ensemble des
-   sites experts
-   et le portail
-   Éduscol SVT
-     * Archives
-     * Dossiers
-     * Actualités
-     * Programmes
-     * Rechercher
-
-     * À propos
-     * Crédits
+   #Affiches Parisiennes : Société
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KRCD3LC
+
+   (BUTTON) Nos régions (BUTTON) Rechercher
+   Logo version blanche de mesinfos.fr
+   S'abonner (BUTTON) Se connecter (BUTTON) Services
+
+   Affiches Parisiennes : Journal d'annonces l\u00e9gales et d'information
+   juridique
+
+   (BUTTON) Menu
+     * Actualité
+     * Politique
+     * Justice Faits-Divers
+     * Economie
+     * Société
+     * Sport
+     * Culture et Loisirs
+
+     * Société
+
+Évolution du niveau de vie : qui sont les gagnants et les perdants depuis 2010 ?
+
+   De nombreux Français estiment que leur pouvoir d’achat est en baisse,
+   paradoxalement aux chiffres des études et instituts. France Stratégie
+   s’est donnée comme défi de faire une photographie réaliste de
+   l’évolution du niveau de vie depuis 2010.
+
+   Antonin ALBERT , le mercredi 11 janvier 2023
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+   Évolution du niveau de vie : qui sont les gagnants et les perdants
+   depuis 2010 ?
+
+   © Adobe Stock - De nombreux Français estiment que leur pouvoir d’achat
+   est en baisse.
+
+   Entre 2010 et 2019, selon les chiffres de l’Insee, le pouvoir d’achat
+   des Français a augmenté de 9,7 %. Pourtant, une part importante des
+   Français considère que son pouvoir d’achat baisse. Cette impression de
+   décalage a été le point de départ de la nouvelle étude de France
+   Stratégie sur l’évolution du niveau de vie des ménages, depuis 2010.
+
+   « Notre méthode, qui repose sur des données en panel peu exploitées,
+   permet de s’approcher de la façon dont l’évolution du niveau de vie est
+   perçue par les Français, en complément des analyses traditionnelles
+   macroéconomiques ou axées sur l’effet des réformes fiscales sur le
+   pouvoir d’achat », explique Gautier Maigne, directeur du département
+   Société et Politiques sociales de France Stratégie.
+
+   L’analyse consiste à suivre sur toute la décennie l’évolution de la
+   situation d’un certain nombre de personnes — celles nées entre 1941 et
+   1980, qui avaient donc entre 30 et 69 ans en 2010 — et à observer
+   l’évolution de leur pouvoir d’achat en comparant la dynamique de leur
+   niveau de vie et celle des prix.
+
+Des différences importantes entre classes d’âge
+
+   Il est vrai, l’évolution du niveau de vie tend plutôt vers
+   l’augmentation que vers la baisse. Mais cette tendance générale ne
+   s‘applique pas à toutes les générations. La hausse du pouvoir d’achat
+   concerne uniquement pour les générations nées entre 1956 1980. Leur
+   niveau de vie a augmenté entre 7 % et 15,4 %.
+
+   À l’inverse, les cohortes nées avant 1946 et déjà majoritairement
+   retraitées — donc les personnes âgées de 65 à 69 ans en 2010 — ont vu
+   leur niveau de vie moyen baisser de plus de 7 %, passant de 2 412 euros
+   à 2 238 euros par mois en moyenne. Cette baisse provient en partie du
+   passage à la retraite des salariés.
+
+   Enfin, France Stratégie note qu’au sein même de chaque cohorte, la
+   situation n’est pas uniforme. « À titre d’exemple, pour la génération
+   née entre 1971 et 1980 — dont le revenu a augmenté sur la décennie 2010
+   en moyenne — plus d’un tiers de la cohorte (37 %) a subi une baisse de
+   pouvoir d’achat supérieure à 5 %, contre 47 % qui a connu une hausse de
+   même ampleur ».
+
+Les trajectoires fortement liées au cycle de vie
+
+   Ces évolutions différenciées entre classes d’âge ne sont pas
+   spécifiques à la décennie 2010. Elles sont en grande partie liées au
+   cycle de vie. Les actifs, plus jeunes, voient en général leur niveau de
+   vie croître plus rapidement que celui des retraités.
+
+   Pour déchiffrer les dynamiques à l’œuvre, il nous faut distinguer trois
+   facteurs qui influent sur le pouvoir d’achat : un « effet revenu », qui
+   correspond au changement de niveau de vie explicable simplement par
+   l’évolution des revenus primaires ; un « effet famille », qui
+   correspond à l’évolution du nombre d’unités de consommation du ménage
+   et un « effet redistribution », qui correspond à l’évolution du solde
+   entre impôts payés et prestations sociales reçues.
+
+   France Stratégie constate que les « effet revenu » et « effet famille »
+   sont d’une ampleur supérieure que l’« effet redistribution », quelle
+   que soit la génération considérée. La génération 1971-1980 est celle
+   qui a le plus bénéficié de l’« effet revenu », estimé par une
+   augmentation globale du pouvoir d’achat de 7 %. L’« effet
+   redistribution » joue bien un rôle d’amortisseur sur le niveau de vie
+   des générations, « au sens où il joue positivement lorsque le revenu
+   baisse et inversement, mais avec une ampleur limitée ».
+
+Encadré : Données utilisées et méthodologie
+
+   Cette étude repose sur une approche par cohortes de naissance, où l’on
+   suit les mêmes individus chaque année de 2010 à 2019 (soit 1,1 million
+   de personnes au total). Les individus sont regroupés en cinq cohortes
+   d’âge : trois cohortes d’individus en âge de travailler sur toute la
+   période (ceux qui ont de 30 à 39 ans, 40 à 49 ans ou 50 à 54 ans en
+   2010), une cohorte d’individus partant à la retraite sur la période
+   (55-64 ans en 2010) et une cohorte d’individus en âge d’être à la
+   retraite sur toute la période (65-69 ans en 2010).
+
+   France Stratégie a principalement mobilisé l’Échantillon démographique
+   permanent (EDP) de l’Insee, qui porte sur 4 % de la population résidant
+   en France. Il permet de suivre les individus dans le temps et fournit
+   de nombreuses informations sur la situation sociale et fiscale du
+   ménage. « À partir de ces informations, nous reconstituons le pouvoir
+   d’achat des individus ».
+
+   Les niveaux de vie des individus analysés dans cette note correspondent
+   aux niveaux de vie de leur ménage. Ils sont calculés selon la méthode
+   retenue par l’Insee, mais en tenant compte en plus de la taxe foncière
+   sur la résidence principale et de l’ISF. L’évolution des prix est prise
+   en compte, tous les montants présentés dans cette note étant en euros
+   constants de 2019, en niveaux mensuels et par unité de consommation.
+   Société
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+   Antonin ALBERT
+
+Antonin ALBERT
+
+   Derniers articles de l’auteur :
+   Le département des Hauts-de-Seine installe La Verticale de Jacques
+   Zwobada. La sculpture a été dévoilée au cœur du Parc départemental
+   André-Malraux à Nanterre.
+
+La Verticale de Jacques Zwobada inaugurée au parc André-Malraux
+
+   L’organisme de transport Francilien Île-de-France Mobilités autorise
+   désormais l’accès des transports en commun à la police municipale.
+
+La police municipale autorisée à accéder aux transports en commun
+
+   Entrer au Louvre sera plus cher en 2024, année olympique à Paris. Le
+   musée a annoncé une hausse du prix du billet, qui n'avait pas bougé en
+   sept ans.
+
+A six mois des JO, le Louvre va augmenter ses tarifs
+
+   Le département des Hauts-de-Seine et la ville de Suresnes ont signé
+   ensemble leur quatrième contrat de développement, d’un montant de 10
+   millions d’euros.
+
+Le contrat de développement entre les Hauts-de-Seine et Suresnes signé
+
+Suivez-nous
+
+   Retrouvez-nous sur nos réseaux sociaux.
+     *
+     *
+     *
+
+Abonnez-vous
+
+   Restez au cœur de l'actualité en vous abonnant à nos journaux. Ces
+   derniers sont disponibles en format papier et numérique. Profitez dès à
+   présent de nos offres d'abonnements.
+   S'abonner
+   Numéro du 15 décembre 2023 du journal Affiches Parisiennes 15 décembre
+   2023 Numéro du 08 décembre 2023 du journal Affiches Parisiennes 08
+   décembre 2023 Numéro du 01 décembre 2023 du journal Affiches
+   Parisiennes 01 décembre 2023 Numéro du 24 novembre 2023 du journal
+   Affiches Parisiennes 24 novembre 2023
+   S'abonner
+
+Articles similaires
+
+   Commandé par la Première ministre Élisabeth Borne, un rapport sur les
+   incidences économiques de l’action pour le climat a été présenté, lundi
+   22 mai, par Jean Pisani-Ferry et Selma Mahfouz.
+
+Jean Pisani-Ferry : « Beaucoup de mauvaises raisons de s’endetter, le climat
+n'en fait pas partie »
+
+   Île-de-France
+   Dans une nouvelle note d’analyse, l'organisme France Stratégie se
+   penche sur les raisons et les facteurs de l’inégalité des chances en
+   France. Parmi elles, il en ressort que l’origine sociale est une raison
+   décisive dans le processus
+
+Inégalité des chances : l’origine sociale, le facteur prépondérant
+
+   Île-de-France
+   Mercredi 9 novembre, France Stratégie a publié une étude alarmante sur
+   le retard préoccupant de la réflexion économique vis-à-vis des
+   conséquences négatives de la transition climatique sur la croissance et
+   l’inflation.
+
+L’action climatique et la macroéconomie liées pour l’avenir
+
+   Île-de-France
+   France Stratégie et la Dares ont récemment publié « Les Métier en 2030
+   », un panorama chiffré des métiers qui recruteront le plus en France à
+   l’horizon de dix ans. Il en ressort notamment que 800 000 postes seront
+   à pourvoir par an d'ici 2030.
+
+Quels métiers recruteront en France en 2030 ?
+
+   Île-de-France
+   Selon une note de France Stratégie, entre mars et fin septembre 2020,
+   3,7 millions d'entreprises ont bénéficié d'au moins une des quatre
+   mesures de soutien financier d'urgence mises en place par les autorités
+   – activité partielle, fonds de solidarité, PGE et RCS - pour un montant
+   global de près de 161 milliards d'euros, dont 26 milliards de
+   subventions et 135 milliards de prêts. Des aides d'État précieuses pour
+   ces entreprises qui emploient plus de 17 millions de salariés et qui
+   maintiennent l'économie nationale.
+
+Plus de 3,7 millions d'entreprises ont bénéficié d'au moins une mesure
+étatique d'urgence
+
+   Île-de-France
+   Clément Dherbécourt, du département Société et Politiques sociales chez
+   France Stratégie vient de publier une note sur les données relatives à
+   la mobilité sociale en France, difficilement accessibles et
+   complexifiant les évolutions temporelles tout comme les comparaisons
+   avec d'autres pays.
+
+Que sait-on de la mobilité sociale en France ?
+
+   Île-de-France
+
+Envoyer à un ami
+
+   Envoyer à * ____________________
+   De la part de * ____________________
+   Message
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] J'accepte de recevoir par e-mail les dernières actualités. Envoyer
+   (BUTTON) Annuler
+
+   Affiches Parisiennes : Journal d'annonces l\u00e9gales et d'information
+   juridique
+
+   Publiez votre annonce légale en ligne, obtenez votre devis
+   immédiatement, consultez annonces légales et ventes immobilières par
+   adjudication.
+     *
+     *
+     *
+
+     * Qui sommes-nous?
+     * Organigramme
+     * Publicité
+     * Nous contacter
+
+Mesinfos
+
+   mesinfos est un site d'information national, régional, départemental et
+   local qui s'appuie sur les médias de Legal2digital et le travail de nos
+   journalistes sur le terrain.
+     *
+     *
+     *
+     *
+
+A propos
+
+     * Qui sommes-nous?
+     * Nous contacter
+
+Nos régions
+
+     * Toutes les régions
+     * Auvergne-Rhône-Alpes
+     * Île-de-France
+     * Occitanie
+     * Provence-Alpes-Côte d'Azur
+
+Nos journaux
+
+     * Affiches Parisiennes
+     * ESSOR Isère
+     * ESSOR Loire
+     * Journal du Bâtiment et des TP
+     * La Semaine de l'île de France
+     * Le Moniteur de Seine-et-Marne
+     * Le Patriote Beaujolais
+     * Le Régional
+     * Le Républicain d'Uzès et du Gard
+     * Les Nouvelles Publications
+     * Tout Lyon
+     * TPBM
+     * Var-information
+     * Vaucluse Hebdo
+
+Nos services
+
+     * Annonces Légales
+       Publier - Consulter
+     * Formalités d'entreprise
+       Vos formalités en 10 min.
+
+   Logo représentant la récompense or de l'édition 2023 du palmarès du
+   chiffre pour legal2digital
+   Logo représentant legal2digital mesinfos.fr un site du groupe L2D
+
+     * Tous droits réservés - 2023
+     * Conditions générales de Vente
+     * Politique de confidentialité
      * Mentions légales
-     * Accessibilité : non conforme
-     * Plan du site
 
-     * Aide
-     * Contact
-     * Contribuer
-     * RSS
-     * Sur X
+   Fil info (BUTTON) Rechercher (BUTTON) Services (BUTTON) Compte
+   S'abonner
 
+   Affiches Parisiennes : Journal d'annonces l\u00e9gales et d'information
+   juridique
+   (BUTTON)
 
-   Planet Terre -  ISSN 2552-9250
+(BUTTON) Nos rubriques
+
+     * Actualité
+     * Politique
+     * Justice Faits-Divers
+     * Economie
+     * Société
+     * Sport
+     * Culture et Loisirs
+
+Newsletter
+
+   ____________________ S'inscrire
+     *
+     *
+     *
+     *
+
+   Affiches Parisiennes : Journal d'annonces l\u00e9gales et d'information
+   juridique
+   (BUTTON)
+
+Nos régions
+
+     * Toutes les régions
+     * Auvergne-Rhône-Alpes
+     * Île-de-France
+     * Occitanie
+     * Provence-Alpes-Côte d'Azur
+
+Nos journaux
+
+     * Affiches Parisiennes : Journal d'annonces l\u00e9gales et
+       d'information juridique
+     * L'Essor 38 : Journal d'actualit\u00e9 de l'Is\u00e8re
+     * L'Essor 42 : Journal d'actualit\u00e9 de la Loire
+     * Journal du B\u00e2timent : Journal d'actualit\u00e9 et de
+       publication d'annonces l\u00e9gales
+     * La Semaine de L'\u00cele de France : Journal d'informations locales
+       et r\u00e9gionales
+     * Le moniteur : Journal d'actualit\u00e9 et de publication d'annonces
+       l\u00e9gales
+     * Le Patriote Beaujolais Val de Sa\u00f4ne - Toute l'info en
+       Beaujolais Val de Sa\u00f4ne
+     * Le regional : Journal d'actualit\u00e9 et de publication d'annonces
+       l\u00e9gales
+     * Le R\u00e9publicain d'Uzes et du Gard
+     * Nouvelles Publications : Journal d'actualit\u00e9 et de publication
+       d'annonces l\u00e9gales
+     * Le Tout Lyon : infos et actualit\u00e9s \u00e9conomiques,
+       juridiques, collectivit\u00e9s \/ Lyon
+     * TPBM : Journal d'actualit\u00e9 et de publication d'annonces
+       l\u00e9gales
+     * Var information : Journal d'actualit\u00e9 et de publication
+       d'annonces l\u00e9gales
+     * Vaucluse hebdo : Journal d'actualit\u00e9 et de publication
+       d'annonces l\u00e9gales
+
+Je recherche mes infos :
+
+   (BUTTON)
+   ____________________ (BUTTON)
+
+Connexion
+
+   (BUTTON)
+   ____________________ E-mail *
+   ____________________ Mot de passe *
+   * Champs obligatoires
+   Se connecter
+
+   Mot de passe oublié ? Cliquez-ici.
+
+Mot de passe
+
+   (BUTTON)
+   ____________________ E-mail ou N° d'abonné *
+   * Champs obligatoires
+   Envoyer par email (BUTTON) Retour
+
+services
+
+   (BUTTON)
+
+(BUTTON) Annonces légales
+
+     * Publier une annonce
+     * Consulter les annonces
+
+(BUTTON) Ventes aux enchères
+
+     * Prochaines ventes
+     * Tous les résultats
+
+(BUTTON) Marchés publics
+
+     * Répondre à une offre
+     * Consulter les offres
+
+   (BUTTON)
+
+   (BUTTON) Continuer sans accepter →
+   mesinfos - L'actualit\u00e9 locale et nationale en continue
+
+Nos journalistes s'engagent pour vous proposer une information de qualité.
+
+   C'est pourquoi nous vous invitons à accepter dès maintenant les cookies
+   pour accéder immédiatement et gratuitement à notre site.
+
+   Ces cookies ont pour finalité exclusive le bon fonctionnement du site,
+   ils permettent de connaître l'utilisation et les performances de notre
+   site, d'établir des statistiques, des volumes de fréquentation et
+   d'utilisation des divers éléments composant notre site (rubriques et
+   contenus visités, parcours de navigation) afin d'améliorer les contenus
+   et l'ergonomie de nos services.
+
+   Vous pouvez cependant vous opposer au dépôt de ces cookies et les
+   supprimer en utilisant les paramètres de votre navigateur. Cependant
+   votre expérience utilisateur risque d'être dégradée.
+
+   Pour en savoir plus, consultez notre politique de confidentialité.
+   (BUTTON) Continuer sans accepter
+   (BUTTON) Accepter et continuer

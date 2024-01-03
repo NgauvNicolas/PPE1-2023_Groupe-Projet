@@ -1,54 +1,232 @@
-       du soleil : ce n'est donc pas ce facteur qui détermine les saisons.
-     * La Terre tourne autour du soleil en 365 jours, 06 heures et 09
-       minutes (d'où les années bissextiles), c'est la révolution.
-     * Dans le même temps, la Terre effectue une rotation sur elle-même en
-       23h 56mn 04s (c'est le jour sidéral), nos sociétés parlent en jour
---
-       perpendiculaire à ce plan.
+    2. Découvrir
+    3. Nos dossiers
+    4. L’évolution du vivant
 
-   La révolution de notre planète et son inclinaison par rapport à la
-   perpendiculaire au plan de l'écliptique engendrent les saisons
-   astronomiques à partir de quatre positions :
---
-   d'une centaine de milliers d'années qui a eu lieu lors de l'extinction
-   des dinosaures.
-   Evolution de l'activité volcanique Variation de l'activité volcanique
-   depuis 400 ans. Notons que les périodes de fortes activités tendent à
-   refroidir les basses couches de l'atmosphère.
---
-   de l'insolation et la circulation océanique de l'Atlantique nord et la
-   circulation atmosphérique n'est pas clairement établie.
-   CO2, températures et taches solaires Evolution de la température
-   moyenne mondiale, des concentrations en CO2 et du nombre de taches
-   solaires depuis 1850.
---
-   glaciaires. La carotte antarctique de Vostok met en évidence 4 grands
-   cycles climatiques de 100 000 ans (sur 400 000 ans).
-   Evolution de l'écart moyen des températures Reconstruction de
-   l'évolution de l'écart moyen des températures de la Terre au cours des
-   2000 dernières années
-   Crédit : compilation de sources disponibles sur la Wikipedia
---
-   Vostok contient des périodes de 20 000 et 40 000 ans caractéristiques
-   des variations de l'orbite terrestre." (J-R. Petit, UPR INSU-CNRS).
-   Evolution de l'écart moyen des températures Evolution de l'écart moyen
-   des températures de la Terre par rapport à aujourd'hui
-   Crédit : L'atmosphère - Dossier Pour la Science, juin 1996
---
-Comment reconstruire l'histoire du climat de la Terre ?
+   L’évolution du vivant
 
-   Le suivi de l'évolution globale du système climatique demande des
-   prélèvements dans l'ensemble des bassins océaniques, sur les continents
-   et les calottes glaciaires. Ceci nécessite la présence de navires pour
+   Pourquoi une souris ressemble-t-elle à une autre souris ? Pourquoi le
 --
-   XIXe siècles. De plus, sur le vieux continent, à une échelle plus fine,
-   l'imbrication des terres et des mers contribue à diversifier les
-   climats et des évolutions différentes ont parfois été observées en
-   Europe continentale et atlantique ou dans les régions les plus
-   septentrionales et en Méditerranée.
+   Pourquoi la tuberculose devient-elle résistante aux traitements
+   antibiotiques ? Autant de questions auxquelles vous trouverez des
+   réponses dans ce dossier sur l’évolution du vivant.
+   Lézard Podarcis siculus
+
 --
-   moyen terme (celui de plusieurs décennies). Avec ce changement de pas
-   de temps, la question posée est celle de la possibilité par les
-   sociétés humaines de modifier l'évolution du climat planétaire et
-   l'alternance glaciaire/interglaciaire du quaternaire. Curieusement, les
-   simulations ont à peine profité à l'étude du passé historique. Peu de
+   alimentaire. Cette transformation rapide et impressionnante ne relève
+   pourtant pas de la magie mais d’un processus aujourd’hui bien connu :
+   l’évolution. Dans ce dossier, vous découvrirez les mécanismes à l’œuvre
+   dans ces transformations.
+
+   Avec la Grande Galerie de l’Évolution, le Muséum national d’Histoire
+   naturelle a été le premier à présenter ses collections dans le contexte
+   de l’évolution. Une décision qui reflète la mission de diffusion des
+   connaissances du Muséum : permettre une meilleure compréhension par le
+   grand public du vivant et des dynamiques qui le régissent. Une mission
+   complémentaire de celle de recherche sur l’évolution en cours au sein
+   de l’institution.
+
+   Qu’est-ce que l’évolution ?
+
+   À l’heure où vous lisez ces lignes un crapaud gobe un insecte, un virus
+--
+   son petit à se servir d’une brindille pour attraper des termites.
+   Autant d’événements piochés parmi des milliards d’autres qui, chacun à
+   leur échelle, infléchissent le cheminement de l’évolution du vivant.
+
+   Le mot "évolution" revêt de nombreux sens en fonction du contexte dans
+   lequel il est utilisé. Cette multitude conduit à bien des
+   incompréhensions quand il s’agit d’aborder ce sujet dans le cadre du
+   vivant. Quand nous parlerons ici d’évolution, c’est d’un processus et
+   d’une théorie dont il sera question.
+
+--
+
+    Fac-similé de l'ouvrage de Charles Darwin "L'origine des espèces" -
+   Grande Galerie de l'Évolution
+   © C. Ficaja
+
+--
+   Une théorie générale de la biologie, de la paléontologie et de
+   l’anthropologie qui se nourrit de faits observés par les chercheurs et
+   les relie entre eux pour comprendre l’évolution du vivant. Par le
+   passé, de nombreuses théories ont voulu expliquer la multiplicité du
+   vivant. Aujourd’hui, une seule est considérée comme valide : la théorie
+   darwinienne de l’évolution.
+
+   Les principes essentiels qui la régissent ont été énoncés par Darwin en
+--
+
+   On parle de théorie parce qu’il ne s’agit pas ici d’une explication
+   figée ou définitive de l’évolution. Elle est la synthèse la plus
+   cohérente possible qui a pu être déduite des faits observés et des
+   connaissances scientifiques actuelles. Il reste cependant des questions
+--
+   même si les principaux axes qui l’étayent ont prouvé leur solidité.
+
+   L’évolution aujourd’hui
+   Guillaume Lecointre avec un poisson téléostéen
+
+--
+   espèces. Il construit des classifications en s’appuyant sur l’anatomie
+   et la comparaison des gènes. Guillaume Lecointre est l’auteur de
+   nombreux ouvrages traitant de l’évolution.
+
+Pourriez-vous nous parler de votre travail de chercheur ?
+--
+   travailler sur la faune marine.
+
+Quels sont les enjeux liés à l’évolution aujourd’hui ?
+
+   L’évolution est la théorie générale de la biologie, de la paléontologie
+   et de l’anthropologie. Pourtant, elle n’est pas encore complètement
+   intégrée par certaines sous-disciplines qui devraient le faire. La
+--
+   variation-sélection appliqué aux cellules d’un même corps, et même au
+   génome. La biologie moléculaire a eu, quant à elle, beaucoup de mal à
+   se sortir de notions incompatibles avec l’évolution. Elle voyait les
+   interactions biologiques, génétiques et biochimiques comme s’il
+   s’agissait d’un "programme" ou d’un "mécano". Ces approches sont
+--
+   "programme".
+
+Reste-t-il des découvertes à faire en évolution ?
+
+   Bien entendu. Le monde des micro-organismes nous révèle des modalités
+   d’échanges génétiques très éloignées de ce que l’on trouve chez les
+   organismes de grande taille. Leur évolution générale ne prend pas la
+   forme d’un arbre d’apparentement classique où le génome est hérité des
+   parents. Nous découvrons chez eux des êtres mosaïques dont le génome
+--
+
+Si je comprends bien vous me dites qu’aujourd’hui on applique la théorie de
+l’évolution à tous les niveaux du vivant. Est-ce ce que l’on entend quand il
+est question d’approche darwinienne du cancer ?
+
+--
+   envisagées en sont complètement bouleversées.
+
+Pourquoi est-il important de comprendre l’évolution même quand on n’est pas
+chercheur ?
+
+   Comprendre l’évolution, c’est comprendre l’histoire et la dynamique de
+   la biosphère. Mais pas seulement : en comprenant l’évolution, nous nous
+   donnons les moyens d’envisager comment la biodiversité pourrait réagir
+   aux modifications accrues que nous imposons à l’environnement physique
+   et biologique. Bref, comprendre l’évolution, c’est se donner les moyens
+   de protéger efficacement la biodiversité.
+
+--
+   une compréhension de l’homme qui l’intègre complètement dans la Nature.
+
+   Les mécanismes de l’évolution
+
+   Prenons une souris domestique (Mus musculus). Que voyons-nous ? Deux
+--
+   griffues, un museau pointu… Ces deux individus sont semblables et
+   pourtant ils ne sont pas identiques. C’est là que réside l’une des clés
+   de l’évolution.
+
+   L’évolution est source de changement mais aussi de régularité. Elle est
+   la raison pour laquelle une souris ressemble à une souris mais que
+   chacune d’entre elles est différente.
+
+   L’évolution repose sur la combinaison de plusieurs mécanismes : la
+   variabilité, l’héritabilité, la dérive, la sélection, l’adaptation et
+   la spéciation. Ils affectent les individus et les populations. Ils
+--
+Le hasard et la sélection
+
+   Comment expliquer l’évolution ? Le hasard et la sélection. Guillaume
+   Lecointre écrit à ce sujet : "Si l'on s'autorise une métaphore, le
+   hasard des mutations ou de toute autre source de variation est le
+   carburant de l'évolution. La sélection, sorte de tamis très étroit, est
+   le moteur de l'évolution."
+
+   Le hasard assure le foisonnement du vivant produisant une infinité de
+--
+   Your browser does not support the audio element.
+
+   Le hasard dans la théorie de l'évolution expliqué par Pierre-Henri
+   Gouyon, Professeur au Muséum national d'Histoire naturelle. Extrait du
+   livre audio L'Évolution par Pierre-Henri Gouyon.
+   © Éditions De Vive Voix, 2014
+
+--
+
+   C’est Darwin qui a compris le premier l’importance jouée par la
+   variabilité entre individus dans l’évolution. Il a su reconnaître que
+   ces variations sont le fruit du hasard. Elles n’apparaissent pas pour
+   les besoins du porteur. Prenons l’exemple du cristallin chez l’homme.
+--
+   marécageuses de l’Écosse.
+
+   Pendant longtemps, les sciences de l’évolution ont eu une approche
+   restrictive de l’héritabilité, limitant la transmission au patrimoine
+   génétique du ou des parents. Mais cette vision a évolué depuis une
+--
+
+   L'épigénétique expliqué par Pierre-Henri Gouyon, Professeur au Muséum
+   national d'Histoire naturelle. Extrait du livre audio L'Évolution par
+   Pierre-Henri Gouyon.
+   © Éditions De Vive Voix, 2014
+--
+   Comme vous pouvez le constater, la sélection naturelle produit de la
+   compétition mais aussi de la coopération. Cette première relation est
+   souvent mise en avant quand on parle d’évolution. Cependant la
+   coopération a joué un rôle déterminant au cours de l’évolution du
+   vivant. En témoigne le microbiote que nous abritons dans notre système
+   digestif. Les 100 000 milliards de micro-organismes (bactéries,
+--
+La spéciation
+
+   Le concept d’espèce est-il pertinent dans le contexte de l’évolution ?
+   Quelle est la différence entre une espèce et une population ? Quand
+   sommes-nous face à une nouvelle espèce ?
+--
+Population ou espèce
+
+   Quand on parle d’évolution, il est souvent question de population : un
+   ensemble d’individus qui échangent leurs gènes et partagent des
+   caractéristiques qui permettent de les regrouper. Ce terme est plus
+--
+   intervenue sur un laps de temps très court.
+
+   Biodiversité et évolution
+
+   Pour beaucoup, la biodiversité est l’état actuel de la diversité du
+--
+   foisonnement de la vie et son adaptation sur notre planète.
+
+   L’évolution est le moteur de la biodiversité. L’extinction des espèces
+   est un phénomène naturel de cet équilibre dynamique. Elle est compensée
+   par la divergence qui permet l’apparition de nouvelles populations
+--
+   populations sont donc limités, ainsi que le nombre d’individus sur un
+   territoire, compromettant la variété et le brassage indispensables à
+   l’évolution.
+
+   Quand il est question de "protection de la biodiversité", il peut être
+--
+   aujourd’hui environ 1 000 variétés de bananes dans le monde dont plus
+   de 300 cultivars de bananes dessert (les bananes sucrées). C’est
+   probablement au sein de cette biodiversité, issue de l’évolution et du
+   travail de sélection effectué par les fermiers, qu’est inscrite la
+   survie de la banane.
+--
+   l’état actuel des connaissances. Tous nos remerciements à Guillaume
+   Lecointre, directeur du département de recherche Systématique et
+   Évolution du Muséum, pour sa précieuse relecture.
+
+Livres de références utilisés pour le dossier
+
+   L’évolution, question d’actualité ?, par Guillaume Lecointre, Éditions
+   Quae & MNHN, 2014
+   Guide critique de l’évolution, par Corinne Fortin, Gérard Guillot,
+   Guillaume Lecointre et Marie-Laure Le Louarn-Bonnet, Éditions Belin,
+   2009
+--
+
+   Aller plus loin
+   Évolution du vivant
+   Mondes disparus : prolonger l'expérience
+

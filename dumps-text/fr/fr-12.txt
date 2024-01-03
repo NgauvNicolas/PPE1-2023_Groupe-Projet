@@ -1,481 +1,412 @@
-   ASP assistance scolaire personnalisée
-   un partenariat [logo-RDE.svg?1585573849]
-   [logo-maif.svg?1585573849]
+   #Flux RSS pour Geo
 
-   (BUTTON) Toggle navigation
-   (BUTTON) Terminale STMG
-     * Petite section
-     * Moyenne section
-     * Grande section
-     * CP
-     * CE1
-     * CE2
-     * CM1
-     * CM2
-     * 6^e
-     * 5^e
-     * 4^e
-     * 3^e
-     * Seconde
-     * Première
-     * Première STMG
-     * Première ST2S
-     * Terminale
-     * Terminale STMG
-     * Terminale STI2D
-     * Terminale ST2S
+   > >
 
-   (BUTTON) Histoire
-     * Philosophie
+   (BUTTON) Menu (BUTTON) Rechercher
+   Le magazine
+   Abonnez-vous
+
+   Chaque mois GEO directement chez vous !
+
+   8.90 € par mois au lieu de 11.68 €
+   J'achète
+   Actuellement en vente
+
+   Avec GEO, partez chaque mois à la découverte du monde
+
+   Explorez les plus beaux pays à travers des reportages photo
+   époustouflants et des carnets de voyages étonnants. Un magazine qui
+   vous permet de voir le monde autrement.
+   J'achète
+
+   Grand Calendrier GEO 2024 - Souffle d'ailleurs !
+
+   Du lac Tekapo en Nouvelle Zélande à Kyoto au Japon, du Worimi national
+   park en Australie au site Landmannalaugar en Islande , en passant par
+   les Asturies en Espagne, découvrez ces 12 clichés d’exceptions choisis
+   spécialement pour le Grand Calendrier GEO 2024.
+   J'achète
+   (BUTTON) Se connecter
+
+     * Mes préférences de communication
+     * Gérer mon profil
+
+     * Voyage & Destinations
+     * Environnement
      * Histoire
-     * Géographie
-     * Anglais
-     * Allemand
-     * Espagnol
-     * Gestion et Finance
-     * Droit et économie
-     * Mercatique
-     * Management, sciences de gestion et numérique
+     * Aventure
+     * Géopolitique
+     * Animaux
+     * Décryptage du conflit israélo-palestinien
+     * Métiers de l'environnement
 
-   (BUTTON) Révisions Réviser le cours
-     * Révisions Réviser le cours
-     * Sujets du bac Travailler sur des sujets du bac
-     * Méthodologie Consulter la méthodologie
+   Plus de sujets voyage
+   85
+   Les destinations recommandées par CNN Travel pour éviter le tourisme de
+   masse en 2024
+   Plus de destinations
 
-     * Accueil
-     * Se connecter
-     * Créer un compte
+     * Italie
+     * Croatie
+     * Grèce continentale
+     * Corse
+     * Allemagne
+     * Suisse
+     * Belgique
+     * Malte
+     * Martinique
+     * Bretagne
+     * Massif central
+     * Provence
+     * Charente-Maritime Vendée
+     * Paris
+     * Naples et la côte almafitaine
+     * Danemark
 
-   Notion précédente
+   S’ABONNER AU MAGAZINE
+     * Grands dossiers
 
-L'évolution de la place et des droits des femmes dans la société française
+     * Communauté photo
+     * Concours photo
 
-   Notion suivante
-   Nouveau message
-   Histoire - Réviser le cours
-   L'évolution de la place et des droits des femmes dans la société
-   française
-   Destinataire : []
-     __________________________________________________________________
+     * Fonds d'écran
 
-   Message :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Envoyer le message
-   Message envoyé avec succès ! Envoyer un nouveau message
-   t_tc_his_stmg_b03___ T_STMG______________ histoire____________
-   student_____________
-   Signaler une erreur
-   Histoire - Réviser le cours
-   L'évolution de la place et des droits des femmes dans la société
-   française
-   Vous avez repéré une erreur, une faute d'orthographe, une réponse
-   erronée... Signalez-nous la et nous nous chargerons de la corriger.
-   Description du problème :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Signaler le problème
-   Problème signalé avec succès ! Signaler un autre problème
-   ____________________ ____________________
-   Imprimer
-   Histoire - Réviser le cours
-   L'évolution de la place et des droits des femmes dans la société
-   française
-   Choisir ce que vous souhaitez imprimer :
-   Vous devez sélectionner au moins une valeur.
-   [X] La fiche
-   [ ] Les exercices
-   [ ] Le corrigé
-   Imprimer
-   Revoir la notion Notion
-   Faire les exercices Exercices
-   précédent [1_] suivant
-   La place des femmes dans la société française a évolué depuis 1944,
-   notamment grâce aux combats qui leur ont permis d'accéder à une égalité
-   de droits avec les hommes.
+     * Tests et jeux
+     * Tests de connaissances
+     * Jeu concours
 
-La place des femmes en politique
+     *
+     * Quiz de culture générale
 
-La conquête du droit de vote
+     *
+     * Vidéos
 
-   Si l'ordonnance du 21 avril 1944 instaure le droit de vote pour les
-   femmes et leur ouvre l'accès à l'éligibilité, cela ne signifie pas que
-   les femmes n'avaient pas auparavant pris part à la vie politique de la
-   France. Avant la Révolution, les veuves avaient ainsi le droit de
-   désigner des représentants aux États généraux. Femmes de lettres,
-   ouvrières, artisanes, commerçantes ont également participé activement,
-   par leur plume ou leurs actions, à la Révolution de 1789 et à celles du
-   xix^e siècle. En 1936, Léon Blum intègre Cécile Brunschvicg, Suzanne
-   Lacore et Irène Joliot-Curie à son gouvernement, en tant que
-   sous-secrétaires d'État à l'Éducation nationale, à la protection de
-   l'enfance et à la recherche scientifique.
-   Malgré la participation des femmes à chacune des grandes étapes de la
-   construction de l'histoire nationale, il faut attendre la
-   reconnaissance de leur action dans la Résistance pour que le
-   gouvernement provisoire de la France, installé à Alger pendant
-   l'Occupation et le régime de Vichy, leur accorde les mêmes droits
-   électoraux qu'à leurs compatriotes masculins. Le 29 avril 1945, elles
-   se rendent aux urnes pour la première fois à l'occasion d'élections
-   municipales.
+     * Diaporamas
+     * Podcasts
+     * Librairie
 
-Les premiers pas des femmes dans le monde politique
+     * Recommandé par GEO
+     * Tirages photo
 
-   Après l'expérience de courte durée mentionnée plus haut (à peine un
-   an), au sein du gouvernement de Front populaire, les femmes conquièrent
-   peu à peu le monde politique.
-   Au niveau local, si deux femmes avaient été désignées maires de leur
-   commune par l'État français de Philippe Pétain en 1941 et 1943, près
-   d'une vingtaine sont élues en 1945. Elles ont des profils variés,
-   institutrice, ouvrière, membre de la bourgeoisie, mais elles ont en
-   commun un idéal issu de la Résistance à laquelle elles ont, d'une façon
-   ou d'une autre, participé.
-   À l'échelon national, il faut attendre 1947 pour qu'un ministère soit
-   confié à une femme. Germaine Poinso-Chapuis est choisie parmi les
-   42 femmes qui siègent à l'Assemblée nationale (soit 6 % des députés)
-   pour accéder au poste de ministre de la Santé publique et de la
-   population dans le gouvernement de Robert Schuman entre novembre 1947
-   et juillet 1948. Seulement quatre députées occuperont le poste de
-   ministre de plein exercice entre 1948 et 1981, lorsque François
-   Mitterrand nomme Édith Cresson Première ministre. En 1974, Arlette
-   Laguiller (parti Lutte ouvrière) est la première femme candidate à une
-   élection présidentielle et, en 2007, Ségolène Royal (parti socialiste)
-   accède au second tour. Néanmoins, aucune femme n'a encore atteint le
-   sommet de l'exécutif.
+   s’inscrire aux newsletters
+     *
+     *
+     *
+     *
+     *
+     *
+     *
 
-Une place encore à confirmer
+   ____________________
 
-   Si les lois du 8 juillet 1999, du 6 juin 2000 (complétée par celle du
-   31 juillet 2007) et enfin celle du 17 mai 2013 (dites « lois sur la
-   parité ») visent à favoriser l'égal accès des femmes et des hommes aux
-   mandats électoraux et fonctions électives, dans les faits la place des
-   femmes reste à confirmer. Seules trois femmes ont accédé à la tête des
-   grands partis politiques (Dominique Voynet pour les Verts,
-   Marie-Georges Buffet pour le parti communiste et Michèle Alliot-Marie
-   pour le parti républicain).
-   Aujourd'hui, 75 ans après leur première participation aux élections
-   municipales, les femmes ne représentent encore que 17 % des maires de
-   France. 40 % des députés sont des femmes.
-   Si leur situation est quasi paritaire au niveau départemental, régional
-   et européen, ce n'est plus le cas dans les plus hautes responsabilités
-   nationales et, si les gouvernements s'enorgueillissent de la parité de
-   leurs membres, il faut en nuancer les fonctions. En effet, les
-   ministères d'État et de plein exercice sont encore largement réservés
-   aux hommes, les femmes étant nommées plus largement aux postes de
-   ministres délégués ou de secrétaires d'État.
-   Exercice n°1Exercice n°2Exercice n°3Exercice n°4Exercice n°5
+   (BUTTON)
+   (BUTTON)
 
-Les femmes dans le monde du travail
+   Publicité
 
-Les femmes au lendemain de la guerre
+   Accueil Histoire
 
-   Le travail des femmes n'a été reconnu à sa juste mesure qu'après
-   plusieurs siècles. Elles ont depuis toujours accompli des tâches
-   agricoles ou artisanales. Elles ont été commerçantes, artistes,
-   soignantes, ouvrières au même titre que leurs homologues masculins.
-   Néanmoins, comme elles n'ont pas le statut de chef de famille (hormis
-   dans le célibat ou le veuvage), leurs revenus et leurs biens étaient
-   intégrés dans la communauté du mariage. Les deux conflits mondiaux ont
-   montré la capacité des femmes à intégrer le monde du travail et à faire
-   fonctionner l'économie. En l'absence des hommes partis au front, elles
-   ont pu occuper des postes que la représentation traditionnelle de la
-   féminité leur rendait difficiles d'accès. Lors de la Seconde Guerre
-   mondiale, outre leur participation à l'effort de guerre industriel et
-   agricole, elles entrent également dans la Résistance et dans les Armées
-   de terre et de l'air, à des postes de transmission (radio,
-   télétypistes, téléphonistes). Mais en 1945 comme en 1918 (malgré leur
-   récent accès au droit de vote), le retour à la paix signifie pour une
-   majorité de femmes un retour au foyer.
+Charles Darwin : qu'est-ce que la théorie de l'évolution ?
 
-Une lente conquête professionnelle
+   évolution (BUTTON) Suivre ce thème Suivi
+   Vidéo GEO : Qui est Charles Darwin, le père de la théorie de
+   l'évolution ?
 
-   Les années 1950 sont ainsi celles de la ménagère, que les machines
-   modernes vont aider. Son infériorité juridique est organisée par le
-   code civil napoléonien. Ce n'est qu'en 1965 que la loi met un terme à
-   l'incapacité des femmes : elles peuvent accéder à un emploi et ouvrir
-   un compte en banque sans recourir à l'autorisation de leur conjoint. À
-   la même époque, la France compte autant de bachelières que de
-   bacheliers. Si elles ne poursuivent encore que rarement des études
-   (certaines grandes écoles leur sont encore fermées), elles investissent
-   de nouvelles sphères professionnelles. L'emploi agricole et ouvrier est
-   délaissé au profit du secteur des services à la personne (santé,
-   éducation particulièrement). En 1972, la loi impose l'égalité des
-   salaires entre hommes et femmes et la loi Roudy de 1983 instaure
-   l'égalité professionnelle au sens large.
-   Aujourd'hui pourtant, le salaire des femmes est encore inférieur à
-   celui des hommes d'environ 20 %. Une écrasante majorité des femmes sont
-   des employées, souvent précaires (temps partiel), elles sont plus
-   touchées par le chômage, et à peine 35 % des actives occupent un poste
-   de cadre. Peu de femmes accèdent aux plus hautes fonctions. Aucune
-   femme n'est à la tête des plus grandes entreprises françaises et peu
-   ont une vraie place au sein de leur conseil d'administration ou comité
-   exécutif. Une seule femme a été à la tête du MEDEF, Laurence Parisot,
-   entre 2005 et 2013. Il est à noter que Christine Lagarde, ancienne
-   ministre de l'Économie, est actuellement à la tête du FMI.
-   Exercice n°6Exercice n°7Exercice n°8Exercice n°9
+   Il y a un peu plus de 210 ans, le 12 février 1809, naissait Charles
+   Darwin, le naturaliste britannique qui a révolutionné la biologie grâce
+   à ses voyages à bord du Beagle et ses recherches sur l'évolution des
+   espèces vivantes. Retour sur l'histoire du scientifique et sa fameuse
+   théorie de l'évolution.
+   Emeline Férard Publié le 11/02/2022 à 14h17 - Mis à jour le 11/02/2022
+   (BUTTON) Sauvegarder l'article Article sauvegardé
 
-Une évolution sociale et culturelle contrastée
+   Partager sur :
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON) https://www.geo.fr/h
 
-L'émergence des mouvements féministes
+   Publicité
 
-   Le 27 octobre 1946, l'égalité entre hommes et femmes est inscrite dans
-   le préambule de la Constitution (alinéa 3 : « La loi garantit à la
-   femme, dans tous les domaines, des droits égaux à ceux de l'homme. »)
-   Mais il faudra plusieurs décennies de lutte pour que cette déclaration
-   d'intention prenne corps. Ces combats sont menés en particulier par les
-   mouvements féministes qui voient le jour à partir des années 1970.
-   Après la création du Mouvement français pour le planning familial en
-   1960 (qui vise à aider les femmes à maîtriser leur fécondité),
-   Antoinette Fouque crée le Mouvement de libération de la femme (MLF) en
-   1970. Y sont dénoncés le sexisme et l'exploitation des femmes dans la
-   sphère domestique. L'avocate Gisèle Halimi, connue pour sa défense
-   d'une jeune femme accusée d'avoir avorté après un viol lors du fameux
-   procès de Bobigny, fonde l'association Choisir la cause des femmes avec
-   la philosophe Simone de Beauvoir, autrice du Deuxième Sexe, et milite
-   pour le droit des femmes à disposer de leur corps. Ces mouvements sont
-   soutenus par de nombreuses femmes célèbres qui reconnaissent en 1970,
-   dans le manifeste des 343, avoir eu recours à l'avortement. De
-   nouvelles associations féministes, parfois radicales, poursuivent
-   aujourd'hui la lutte des femmes pour leurs droits et leur
-   reconnaissance, comme les Chiennes de garde, qui se revendiquent de
-   l'héritage du MLF, ou encore Ni putes, ni soumises, qui s'investit
-   auprès des jeunes filles des banlieues et des femmes victimes de
-   pratiques comme le mariage forcé ou l'excision.
+Qu'est-ce que la théorie de l'évolution ?
 
-Une lente émancipation
+   La théorie de l'évolution suggère que toutes les espèces vivantes sont
+   en perpétuelle transformation et subissent au fil du temps et des
+   générations des modifications morphologiques comme génétiques. Ce
+   concept a été présenté par Charles Darwin dans son ouvrage L'origine
+   des espèces publié le 24 novembre 1859. Depuis, il a bouleversé la
+   biologie en fournissant la pièce clé pour expliquer l'instabilité et
+   les variations du vivant.
 
-   La loi de 1965 accorde la gestion conjointe de certaines affaires du
-   ménage aux deux époux. Ainsi, les décisions importantes telles que les
-   crédits ou la vente du domicile requièrent désormais un accord commun.
-   En 1970, le statut de chef de famille disparaît et l'autorité
-   paternelle sur les enfants devient une autorité parentale conjointe. Il
-   faut néanmoins attendre 1985 pour que la gestion de la communauté
-   maritale soit entièrement commune et qu'il n'y ait plus de référence au
-   statut de mari ou de femme. En 1975 est instauré le divorce par
-   consentement mutuel. C'est également dans les années 1970 que les
-   femmes peuvent enfin accéder à la libre maîtrise de leur maternité. La
-   loi Neuwirth de 1967 autorise la contraception et celle de 1974 permet
-   sa prise en charge par la Sécurité sociale. La loi Veil de janvier 1975
-   ouvre le droit à l'interruption volontaire de grossesse (IVG), et son
-   remboursement est accordé par la loi Roudy de 1982. En 1993 puis en
-   2014, les lois Neiertz et Vallaud-Belkacem interdisent toute forme
-   d'entrave à l'IVG.
+   Selon la théorie du naturaliste britannique, l'évolution peut
+   permettre, sur des échelles de temps plus ou moins longues,
+   l'apparition de nouvelles espèces comme la disparition d'autres. Ceci,
+   à travers différents phénomènes dont la sélection naturelle. Cette
+   expression désigne le mécanisme par lequel, au sein d'une même espèce,
+   les individus les mieux adaptés à leur environnement se reproduisent
+   davantage que les autres.
+   Publicité
+   Publicité
 
-De nouveaux combats à mener
+   Cette même théorie désignée par Darwin sous le nom de "descendance avec
+   modification" implique également que toutes les espèces vivantes, y
+   compris l'homme, descendent et partagent un ou plusieurs ancêtres
+   communs.
 
-   Si aujourd'hui les femmes sont de plus en plus présentes dans le
-   domaine de la culture (artistes plasticiennes, autrices, actrices,
-   réalisatrices), elles doivent encore souvent s'imposer pour être
-   reconnues. Un travail est également en cours pour la réhabilitation des
-   femmes qui ont joué un rôle essentiel, mais méconnu dans l'histoire.
-   Les droits acquis par les femmes dans la liberté à disposer de leur
-   corps sont également régulièrement remis en cause et encore à défendre.
-   De plus, de nouvelles problématiques sociétales dans le domaine de la
-   maternité et de la famille se posent également, comme le recours à la
-   PMA. Enfin les femmes, qui assurent encore l'écrasante majorité des
-   tâches domestiques, sont lourdement frappées par les violences et les
-   discriminations, que ce soit dans le domaine professionnel ou dans la
-   sphère familiale.
-   Exercice n°10Exercice n°11Exercice n°12Exercice n°13
-   Exercice n°1
-   À quelle date les femmes ont-elles obtenu le droit de vote ?
-   Cochez la bonne réponse.
-   (*) 4 juin 1936
-   ( ) ok 21 avril 1944
-   ( ) 29 avril 1945
-   ( ) 24 novembre 1947
-   ( ) 5 juillet 1948
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°2
-   Qui a fondé le MLF ?
-   Cochez la bonne réponse.
-   (*) Gisèle Halimi
-   ( ) ok Antoinette Fouque
-   ( ) Simone de Beauvoir
-   ( ) Simone Veil
-   ( ) Élisabeth Badinter
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°3
-   Quelle loi instaure le droit à l'IVG ?
-   Cochez la bonne réponse.
-   (*) La loi Neuwirth
-   ( ) ok La loi Veil
-   ( ) La loi Neiertz
-   ( ) Le manifeste des 343
-   ( ) La loi sur la parité
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°4
-   Quelle loi instaure le droit à la contraception ?
-   Cochez la bonne réponse.
-   (*) ok La loi Neuwirth
-   ( ) La loi Veil
-   ( ) La loi Neiertz
-   ( ) Le manifeste des 343
-   ( ) La loi sur la parité
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°5
-   En quelle année a été promulguée la loi autorisant la contraception ?
-   Cochez la bonne réponse.
-   (*) 1947
-   ( ) ok 1967
-   ( ) 1974
-   ( ) 1975
-   ( ) 1982
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°6
-   À quelles élections les femmes ont-elles participé pour la première
-   fois ?
-   Cochez la bonne réponse.
-   (*) Les élections présidentielles
-   ( ) Les élections législatives
-   ( ) Les élections régionales
-   ( ) Les élections départementales
-   ( ) ok Les élections municipales
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°7
-   Combien y a-t-il eu de femmes Première ministre depuis 1945 ?
-   Cochez la bonne réponse.
-   (*) ok 1
-   ( ) 2
-   ( ) 3
-   ( ) 4
-   ( ) 5
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°8
-   Quel est le nom de la seule femme ayant occupé le poste de Première
-   ministre à ce jour ?
-   Cochez la bonne réponse.
-   (*) Germaine Poinso-Chapuis
-   ( ) Irène Joliot-Curie
-   ( ) ok Édith Cresson
-   ( ) Cécile Brunschvicg
-   ( ) Arlette Laguiller
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°9
-   Comment s'appelle la loi du 6 janvier 2000 visant à la parité dans le
-   monde politique ?
-   Cochez la bonne réponse.
-   (*) Loi sur l'égalité hommes-femmes
-   ( ) Loi de féminisation de la politique
-   ( ) ok Loi pour l'égal accès des femmes et des hommes aux mandats
-   électoraux et fonctions électives
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°10
-   Jusqu'en 1965, la femme est juridiquement inférieure à l'homme
-   Cochez la bonne réponse.
-   (*) ok Vrai
-   ( ) Faux
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°11
-   À quelle date a été instaurée l'égalité salariale ?
-   Cochez la bonne réponse.
-   (*) 1945
-   ( ) 1962
-   ( ) 1970
-   ( ) ok 1972
-   ( ) 1975
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°12
-   Dans quel secteur les femmes sont-elles les plus représentées ?
-   Cochez la bonne réponse.
-   (*) Le secteur primaire
-   ( ) Le secteur secondaire
-   ( ) ok Le secteur tertiaire
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Exercice n°13
-   Quelle femme a été présidente du MEDEF ?
-   Cochez la bonne réponse.
-   (*) Ségolène Royal
-   ( ) Arlette Laguiller
-   ( ) ok Laurence Parisot
-   ( ) Christine Lagarde
-   ( ) Simone Veil
-   Valider (BUTTON) Refaire l'exercice (BUTTON) Enlever la correction
-   (BUTTON) Montrer la correction
-   (BUTTON) Revoir mes derniers choix (BUTTON) Toggle Dropdown
-   Nouveau message
-   Histoire - Réviser le cours
-   L'évolution de la place et des droits des femmes dans la société
-   française
-   Destinataire : []
-     __________________________________________________________________
+Qui était Charles Darwin ?
 
-   Message :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Envoyer le message
-   Message envoyé avec succès ! Envoyer un nouveau message
-   t_tc_his_stmg_b03___ T_STMG______________ histoire____________
-   student_____________
-   Signaler une erreur
-   Histoire - Réviser le cours
-   L'évolution de la place et des droits des femmes dans la société
-   française
-   Vous avez repéré une erreur, une faute d'orthographe, une réponse
-   erronée... Signalez-nous la et nous nous chargerons de la corriger.
-   Description du problème :
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Signaler le problème
-   Problème signalé avec succès ! Signaler un autre problème
-   ____________________ ____________________
-   Imprimer
-   Histoire - Réviser le cours
-   L'évolution de la place et des droits des femmes dans la société
-   française
-   Choisir ce que vous souhaitez imprimer :
-   Vous devez sélectionner au moins une valeur.
-   [X] La fiche
-   [ ] Les exercices
-   [ ] Le corrigé
-   Imprimer
-   []
+   Charles Darwin naît le 12 février 1809 à Shrewsbury en Angleterre dans
+   une fratrie de six enfants. Fils de médecin, le jeune Britannique est
+   rapidement encouragé à suivre des études médicales pour lesquelles il
+   part en Ecosse à l'Université d'Edimbourg en 1825. Finalement peu
+   passionné par ces études, il commence à s'intéresser à l'histoire
+   naturelle et participe à des recherches sur des organismes marins.
 
-   L'assistance scolaire personnalisée utilise des cookies pour vous
-   offrir le meilleur service (en savoir plus) . En continuant la
-   navigation vous acceptez l'utilisation de ceux-ci. (BUTTON) Continuer
+   Constatant l'absence d'intérêt de son fils pour la médecine, le père
+   Darwin le pousse en 1827 à entamer des études pour devenir pasteur.
+   Mais là encore, le sujet peine à captiver le jeune Charles qui préfère
+   approfondir ses connaissances sur l'histoire naturelle auprès d'un
+   professeur de botanique. Le destin du scientifique en herbe bascule
+   quelques années plus tard, en 1831, lorsqu'il embarque à bord du HMS
+   Beagle en tant que naturaliste.
+   Publicité
 
-   un partenariat [logo-RDE.svg?1585573849]
-   [logo-maif.svg?1585573849]
-   Nos sites
-   Mon espace éducation
-   Cap Concours
-   Il était une histoire
-   Apprendre à porter secours
-   La quinte juste
-   Les solutions éducatives MAIF
-   Le fonds MAIF pour l'éducation
-   L'espace enseignant MAIF
+   L'aventure du Beagle dure cinq années, de 1831 à 1836, au cours
+   desquelles l'équipage réalise trois voyages d'exploration notamment en
+   Amérique du Sud et dans l'océan Indien. Charles Darwin en profite pour
+   réaliser un grand nombre d'observations géologiques et zoologiques et
+   pour réunir une vaste collection de spécimens. Sur les îles Galápagos,
+   ils s'intéressent notamment à plusieurs espèces de pinsons présentant à
+   la fois des ressemblances et des différences.
 
-   Informations légales Contact © 2000-2024, rue des écoles
+   L'observation de ces oiseaux, de même que toutes les données collectées
+   durant les expéditions du Beagle, fournissent au naturaliste le terreau
+   nécessaire pour concevoir sa théorie de l'évolution par la descendance
+   avec modification et la sélection naturelle. Il expose cette dernière
+   deux décennies plus tard, à l'âge de 50 ans, dans son ouvrage L'origine
+   des espèces qui fait grand bruit au sein de la communauté scientifique.
+   Publicité
+   Publicité
+
+Pourquoi la théorie de l'évolution a-t-elle révolutionné la biologie ?
+
+   Bien que Charles Darwin soit considéré, à juste titre, comme le père de
+   la théorie de l'évolution, d'autres scientifiques avaient déjà ouvert
+   la voie dans le domaine. C'est notamment le cas du Français
+   Jean-Baptiste de Lamarck dont les travaux sont les premiers à avancer
+   une théorie d'apparition des êtres vivants par évolution naturelle. Des
+   travaux sur lesquels le naturaliste britannique s'est appuyé pour
+   concevoir sa propre théorie supposant des mécanismes différents. Par
+   ailleurs, il n'est pas le seul scientifique à avoir planché sur une
+   telle théorie dans les années 1850, c'est aussi le cas du Britannique
+   Alfred Wallace qui devint par la suite ami avec Darwin.
+
+   Si la théorie de l'évolution a fait grand bruit lors de sa publication
+   en 1859, c'est qu'à cette époque, les interrogations sur l'origine des
+   espèces sont encore largement empreintes de la vision chrétienne et
+   créationniste, selon laquelle tous les êtres vivants sont le fruit
+   d'une intervention divine et ont été créés tels qu'ils sont de façon
+   intentionnelle et indépendante. Une théorie contredite par les
+   arguments avancés par Darwin. La publication de son ouvrage a
+   d'ailleurs suscité de vives réactions au sein de l'Eglise.
+   Publicité
+
+Théorie de l'évolution : où en est-on aujourd'hui ?
+
+   Jusqu'à sa mort, le 19 avril 1882, le naturaliste a poursuivi ses
+   travaux pour approfondir sa théorie de l'évolution. S'il est parvenu à
+   préciser et appuyer certains aspects, les idées de Darwin demeuraient
+   incomplètes, faute de preuves pour les confirmer. Il a fallu attendre
+   le début du XXe siècle pour que sa théorie ne revienne sur le devant de
+   la scène grâce à l'émergence de la génétique et notamment de la
+   génétique des populations, à savoir l'étude des facteurs qui
+   influencent la diversité génétique au sein des populations d'êtres
+   vivants.
+
+   Cette discipline a fourni aux scientifiques les outils pour appuyer les
+   principes de variation et d'hérédité à la base de la théorie de
+   l'évolution des espèces. Ceci a donné naissance, dans les années 1940,
+   à la "théorie synthétique de l'évolution" qui rassemble les lois sur
+   l'hérédité, la génétique des populations et les concepts de Darwin. Une
+   décennie plus tard, la découverte de l'ADN et de sa structure en double
+   hélice est venue ajouter de nouvelles pièces au puzzle.
+   Publicité
+   Publicité
+
+   Depuis, la théorie de l'évolution n'a cessé de s'enrichir, de se
+   nuancer et de se complexifier grâce aux progrès scientifiques dans les
+   différents domaines. Les recherches ont montré que, si les espèces
+   évoluent bel et bien au fil des générations, le processus implique
+   différents mécanismes qui ne se résument pas à la sélection naturelle.
+   Les études ont notamment révélé qu'à la plus petite échelle, au cœur
+   même du génome, se produisaient au fil du temps bien plus de
+   modifications qu'on ne pensait.
+
+   Plus de 160 ans après la parution de l'ouvrage de Darwin, de nouveaux
+   résultats viennent ainsi régulièrement alimenter le concept de
+   l'évolution qui apparaît aujourd'hui comme un processus aux moteurs
+   multiples dont les scientifiques s'évertuent encore à tracer les
+   contours.
+   Publicité
+
+   A lire aussi :
+   Un rare microscope de Charles Darwin vendu plus de 700 000 euros aux
+   enchères
+   Un rare microscope de Charles Darwin vendu plus de 700 000 euros aux
+   enchères
+   Il largue les amarres pour un périple de 4 ans sur les traces de
+   Charles Darwin
+   Il largue les amarres pour un périple de 4 ans sur les traces de
+   Charles Darwin
+   S’adapter pour survivre: science et tourisme sur les pas de Darwin aux
+   Galapagos
+   S’adapter pour survivre: science et tourisme sur les pas de Darwin aux
+   Galapagos
+   Ne loupez aucun article en vous abonnant à GEO sur Google News
+   Outbrain
+
+THÈMES ASSOCIÉS À L’ARTICLE
+
+     * Biologie
+     * génétique
+     * sciences
+
+   Publicité
+   Outbrain
+
+   NEWSLETTER
+
+   Chaque semaine, les dernières infos sur l'Histoire
+   Publicité
+
+À DÉCOUVRIR SUR LE MÊME THÈME
+
+   Un passionné de Charles Darwin fait "revivre" le célèbre naturaliste
+   aux Galápagos
+
+Un passionné de Charles Darwin fait "revivre" le célèbre naturaliste aux
+Galápagos
+
+   ILES GALÁPAGOS
+     *
+   Il largue les amarres pour un périple de 4 ans sur les traces de
+       Charles Darwin
+
+Il largue les amarres pour un périple de 4 ans sur les traces de Charles
+Darwin
+       VOILIER
+     *
+   Une lettre exceptionnelle de Charles Darwin va être mise aux enchères
+
+Une lettre exceptionnelle de Charles Darwin va être mise aux enchères
+       VENTES AUX ENCHÈRES
+     *
+   Un rare microscope de Charles Darwin vendu plus de 700 000 euros aux
+       enchères
+
+Un rare microscope de Charles Darwin vendu plus de 700 000 euros aux enchères
+       VENTES AUX ENCHÈRES
+       Publicité
+     *
+   Des carnets de Charles Darwin mystérieusement rendus à Cambridge après
+       20 ans de disparition
+
+Des carnets de Charles Darwin mystérieusement rendus à Cambridge après 20 ans
+de disparition
+       ARCHÉOLOGIE
+     *
+   La célèbre arche de Darwin s'est effondrée aux Galápagos
+
+La célèbre arche de Darwin s'est effondrée aux Galápagos
+       GÉOLOGIE
+     *
+   Qu'est-ce que la théorie des humeurs, l'une des bases de la médecine
+       antique européenne ?
+
+Qu'est-ce que la théorie des humeurs, l'une des bases de la médecine antique
+européenne ?
+     *
+   A l'aide d'un drone, des experts découvrent le quai où le bateau de
+       Charles Darwin aurait été démantelé
+
+A l'aide d'un drone, des experts découvrent le quai où le bateau de Charles
+Darwin aurait été démantelé
+       BATEAU
+     *
+   Aux Galápagos, le labo de Darwin
+
+Aux Galápagos, le labo de Darwin
+       VOYAGE
+     *
+   Pourquoi Charlie Chaplin s'est-il fait expulser des États-Unis ?
+
+Pourquoi Charlie Chaplin s'est-il fait expulser des États-Unis ?
+       CINÉMA
+     *
+   A Lille, la maison natale de Charles de Gaulle s'est refait une beauté
+
+A Lille, la maison natale de Charles de Gaulle s'est refait une beauté
+       PATRIMOINE
+     *
+   S'adapter pour survivre: science et tourisme sur les pas de Darwin aux
+       Galapagos
+
+S'adapter pour survivre: science et tourisme sur les pas de Darwin aux
+Galapagos
+       EQUATEUR
+     *
+   Qui sont les climato-sceptiques et sur quelles théories se basent-ils ?
+
+Qui sont les climato-sceptiques et sur quelles théories se basent-ils ?
+       ETATS-UNIS
+     *
+   Une nouvelle théorie tente d'expliquer la disparition des dinosaures
+
+Une nouvelle théorie tente d'expliquer la disparition des dinosaures
+       DINOSAURE
+     *
+   La théorie d'Einstein tient bon face au satellite Microscope
+
+La théorie d'Einstein tient bon face au satellite Microscope
+       SCIENCES
+     *
+   Darwin, la tropicale, city break en mode cool
+
+Darwin, la tropicale, city break en mode cool
+     *
+   Charles Le Fou : pourquoi le roi de France Charles VI était-il surnommé
+       ainsi ?
+
+Charles Le Fou : pourquoi le roi de France Charles VI était-il surnommé ainsi
+?
+       HISTOIRE DE FRANCE
+
+   Publicité
+   Charles Darwin : qu'est-ce que la théorie de l'évolution ?
+
+   Pixabay
+   (BUTTON) (BUTTON)
+   (BUTTON)
+   (BUTTON)
+
+   Publicité
+
+   s’inscrire aux newsletters
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * CONDITIONS GÉNÉRALES D'UTILISATION
+     * PUBLICITÉ
+     * CHARTE POUR LA PROTECTION DES DONNÉES PERSONNELLES
+     * PARAMÉTRER VOS COOKIES
+     * MENTIONS LÉGALES
+     * TOUS VOS MAGAZINES
+     * FAQ COMMUNAUTÉ GEO
+     * ÉQUIPE ÉDITORIALE
+
+   CPPAP : 0322 W 90268 - © PRISMA MEDIA - GROUPE VIVENDI 2024 TOUS DROITS
+   RÉSERVÉS

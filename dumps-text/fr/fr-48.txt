@@ -1,838 +1,360 @@
-   #alternate
-
-   Skip to main navigation
-
-   [logo_bio.svg] Ressources en sciences de la vie pour les enseignants et
-   enseignantes
-     * Thématiques
-          + Tous les contenus
-          + Cellules et molécules
-          + Génétique
-          + Animaux
-          + Végétaux
-          + Champignons
-          + Microbiologie
-          + Santé
-          + Développement
-          + Évolution
-          + Écologie
-          + Manipulations en SVT
-          + Manipulations en laboratoire
-     * Niveaux
-          + Tous les contenus
-          + Cycle 3
-          + Cycle 4
-          + Seconde
-          + Première Enseignement scientifique
-          + Première SVT
-          + Terminale Enseignement scientifique
-          + Terminale SVT
-          + BCPST
-     * Enseigner
-          + Programmes officiels (PDF)
-          + Apprentis chercheurs
-          + Concours CGénial
-          + Les Savanturiers
-          + Vigie-Nature École
-     * Parutions
-     * Agenda
-
-   [logo_ens.svg] [eduscol-logo-min.jpeg]
-     * Liens utiles
-     *
-     * À propos
-     * Contact
-     *
-     *
-     *
-
-   [logo_bio.svg]
-
-   Sommaire
-     *
-     *
-     *
-
-     * Thématiques
-          + Tous les contenus
-          + Cellules et molécules
-          + Génétique
-          + Animaux
-          + Végétaux
-          + Champignons
-          + Microbiologie
-          + Santé
-          + Développement
-          + Évolution
-          + Écologie
-          + Manipulations en SVT
-          + Manipulations en laboratoire
-     * Niveaux
-          + Tous les contenus
-          + Cycle 3
-          + Cycle 4
-          + Seconde
-          + Première Enseignement scientifique
-          + Première SVT
-          + Terminale Enseignement scientifique
-          + Terminale SVT
-          + BCPST
-     * Enseigner
-          + Programmes officiels (PDF)
-          + Apprentis chercheurs
-          + Concours CGénial
-          + Les Savanturiers
-          + Vigie-Nature École
-     * Parutions
-     * Agenda
-
-     * Newsletter
-     * Liens utiles
-     * À propos
-     * Contact
-
-L'évolution culturelle
-
-Fil d'Ariane
-
-     * Planet-Vie
-     * Tous les contenus
-     * Évolution
-     * L'évolution culturelle
-
-   Article
-
-L'évolution culturelle
-
-   Une autre forme d'hérédité et de diversité biologique
-   Publié le 14.01.21
-   Par Étienne Danchin
-   Tiago Falótico, Wikimedia
-   Lecture zen
-
-   Dans ce document, après avoir défini ce que l'on entend par le
-   processus culturel, est abordée la question de l'existence d'hérédité
-   culturelle dans le monde vivant, au-delà de la seule espèce humaine. En
-   effet, le processus culturel est trop souvent considéré comme l'apanage
-   des humains, plus éventuellement quelques espèces de primates, voire
-   quelques espèces d'oiseaux. Des découvertes récentes suggèrent que ce
-   processus existe en fait chez un très grand nombre d'espèces, y compris
-   chez des invertébrés. Ainsi, le processus culturel qui génère une autre
-   forme d'hérédité apparaît-il comme étant un processus très général
-   d'hérédité qui est donc susceptible d'avoir participé à l'évolution
-   d'un très grand nombre d'espèces probablement depuis des millions
-   d'années. Le processus culturel constitue donc un formidable processus
-   de création et de maintien de la diversité biologique qu'il est
-   nécessaire de prendre en compte en biologie en général et en biologie
-   de la conservation en particulier.
-
-   Un des enjeux majeurs en biologie, est de comprendre pourquoi les
-   individus d'une population, ou même au sein des fratries, diffèrent
-   autant les uns des autres. Quels sont les mécanismes qui produisent et
-   maintiennent cette diversité biologique ? Le débat scientifique sur ces
-   sujets n’a jamais vraiment cessé et reste au cœur de la biologie
-   moderne. Ce débat est fortement lié à la question de l'hérédité,
-   c'est-à-dire au fait que les enfants ressemblent à leurs parents. À
-   l'échelle d'une population, cette ressemblance se traduit par le fait
-   que les enfants héritent des caractéristiques de leurs parents. Par
-   exemple, les parents de grande taille ont en moyenne des enfants plus
-   grands que ceux des parents de petite taille. C'est l'hérédité des
-   différences, que j'appelle l'héritabilité inclusive1 qui est une mesure
-   statistique de la ressemblance parent-enfant au sein d'une population.
-   Cette mesure de la ressemblance ne peut, elle, s'effectuer qu'à
-   l'échelle d'une population. La vision classique selon laquelle cette
-   ressemblance résulte essentiellement, si ce n'est exclusivement, de la
-   transmission de la séquence de l'ADN des parents vers leurs enfants,
-   demande à être élargie du fait de très nombreuses découvertes faites
-   depuis le début du troisième millénaire. Un des domaines concerné est
-   celui de l'existence de l'hérédité culturelle. Pour bien comprendre
-   l'importance de la question de l'évolution culturelle, il nous faut non
-   seulement comprendre l'hérédité, mais aussi son rôle dans le vivant et
-   l'évolution. Comme le concept même d'hérédité est en train de changer
-   rapidement, nous commencerons par le discuter.
-
-L'hérédité est au centre de la biologie
-
-   L'étude de l'hérédité est au centre de la biologie pour plusieurs
-   raisons fondamentales. Tout d'abord, étudier la ressemblance
-   parent-enfant c'est étudier les sources de variation phénotypique.
-   D'autre part, la ressemblance parent-enfant est au cœur même de
-   l'évolution que ce soit par sélection naturelle ou par dérive. En
-   effet, depuis Darwin [3] la sélection naturelle est définie comme un
-   processus qui s'enclenche inévitablement dès lors que deux conditions
-   sont remplies (a) il existe de la variation dans les populations, et
-   (b) il existe une relation persistante au cours des générations entre
-   la valeur des traits et la capacité à avoir des descendants (ce que
-   l'on appelle la fitness, concept que je traduis par le mot aptitude2).
-   Par exemple pour la taille, cette relation peut être que dans une
-   population, ce sont les individus de grande taille qui survivent et se
-   reproduisent mieux (ils ont donc une plus forte aptitude) que les
-   moyens ou les petits. Cette deuxième clause est ce que l'on dénomme la
-   pression de sélection. Cependant, ces deux conditions ne conduiront à
-   évolution que si une troisième condition est remplie, à savoir que (c)
-   le trait soit héritable, c’est-à-dire que la variation sur le trait
-   soit transmise à la descendance (par exemple dans le cas de la taille,
-   les grands donnent naissance à des grands et les petits à des petits).
-   C'est pour cette raison que la question de l'hérédité (la transmission
-   des caractères) est au centre de toute la biologie en général et de la
-   biologie évolutive en particulier.
-
-Divers mécanismes d'hérédité
-
-   Depuis la découverte de l'ADN et de ses fantastiques capacités de
-   stockage d'information, la vision dominante de l'hérédité est qu'elle
-   repose essentiellement, si ce n'est exclusivement, sur la transmission
-   de la séquence de l'ADN. C'est ce que j'appelle la vision « séquencique
-   » de l'hérédité qui consiste à réduire l'hérédité à la seule
-   transmission de la séquence nucléotidique de l'ADN3. C'est la vision la
-   plus largement admise encore aujourd'hui.
-
-   Cependant, de longue date, et surtout depuis le début du troisième
-   millénaire, de nombreuses découvertes ont remis en cause cette vision
-   qui réduit l'hérédité à la seule séquencique. En effet, il ressort de
-   ces multiples découvertes que la vision séquencique de l'hérédité et de
-   l'évolution ne permet pas d'expliquer toute la complexité du vivant4.
-   De nombreux arguments permettent aujourd'hui d'affirmer que la
-   ressemblance parent-enfant ne repose pas uniquement sur le transfert de
-   l'information séquencique mais implique aussi toute une série de
-   processus variés de nature non séquencique (ou non génétique). Ces
-   autres modes d'hérédité prennent plusieurs formes extrêmement variées,
-   sophistiquées et surprenantes5. Il s'agit des hérédités épigénétique,
-   cytoplasmique, culturelle et écologique, ou encore de la transmission
-   du microbiote ou celle des prions et de ce que l'on appelle les
-   molécules chaperons qui maintiennent les protéines dans une
-   configuration fonctionnelle. Alors que toutes ces formes d'hérédité se
-   transmettent uniquement de parent à enfant (ce que l'on appelle la
-   transmission verticale), l'hérédité culturelle est très originale en ce
-   sens qu'elle est la seule à pouvoir se transmettre verticalement mais
-   aussi horizontalement (entre individus de la même cohorte) ou
-   obliquement (entre individus non apparentés de générations
-   différentes). Ainsi, notre conception de l'hérédité doit être élargie
-   pour inclure dans les raisonnements de biologie toutes les composantes
-   de l'hérédité, au-delà de la seule transmission séquencique. Cet
-   élargissement de notre conception de l'hérédité des différences
-   (appelée héritabilité inclusive) a le potentiel de fortement modifier
-   notre vision du fonctionnement du vivant et de son évolution car, comme
-   nous l'avons vu plus haut, l'hérédité des différences est la condition
-   centrale pour que la sélection naturelle conduise à l'évolution.
-
-   La mise en évidence du fait que la ressemblance parent-enfant ne repose
-   pas uniquement sur une variation de la séquence de l'ADN a émergé comme
-   un des domaines majeurs de la biologie depuis le début du troisième
-   millénaire. Le lecteur intéressé par la question de l'importance de
-   l'hérédité non séquencique pourra par exemple lire [2, 6-13].
-
-La culture animale
-
-   Fort de ces importants éléments de contexte, et armé de ces notions
-   très générales de source de variation et d'hérédité, nous pouvons nous
-   focaliser sur les variants culturels rendus héritables par
-   l'apprentissage social.
-
-Un peu d'histoire
-
-   Pendant très longtemps nous avons considéré que la culture était
-   l'apanage de l'humanité. De ce fait, toutes les définitions étaient
-   conçues pour capturer toutes les particularités de la culture humaine.
-   Il n'y avait donc pas d'intérêt à rechercher l'existence de phénomènes
-   culturels en dehors de notre espèce, et comme on ne trouve que ce que
-   l'on recherche, nous n'avions pendant très longtemps aucun exemple de
-   transmission culturelle en dehors de notre espèce.
-    1. 1 La notion d'héritabilité inclusive généralise celle
-       d'héritabilité qui est aujourd'hui classiquement limitée à la
-       variation transmise par voie génétique (séquencique).
-       L'héritabilité inclusive est l'hérédité des différences, quel que
-       soit le mécanisme de ressemblance responsable de la transmission
-       d'information des parents vers les enfants et conduisant à cette
-       ressemblance. L'information concernée peut être génétique
-       (séquencique) ou non génétique (non séquencique). L'héritabilité
-       inclusive se mesure comme la proportion de la variation qui est
-       transmise à la descendance, tout mécanisme inclus. L'héritabilité
-       varie donc entre 0 (la valeur du trait des enfants est totalement
-       indépendante de celle des parents) et 1 (les enfants ont exactement
-       la même valeur de trait que leurs parents). Pour plus de détails
-       sur la notion d'héritabilité inclusive voir [1,2].
-    2. 2 J'ai adopté cette traduction dans le livre de cours que j'ai
-       écrit spécialement pour les enseignants et les étudiants [4]. Je
-       recommande cependant la version publiée en anglais trois ans plus
-       tard, beaucoup plus complète et qui inclut un chapitre sur
-       l'évolution culturelle [5]. (Note de l’éditeur : le terme fitness
-       peut également se traduire par valeur sélective)
-    3. 3 Alors que le concept initial de gène était très large,
-       aujourd'hui, force est de constater qu'il s'est réduit à la seule
-       séquence nucléotidique de l'ADN. Pour clarifier cette situation,
-       j'ai donc introduit le terme de « séquencique » pour qualifier
-       cette vision réduite de la génétique [6]. Cela lève un grand nombre
-       d'ambiguïtés sur la définition de termes aussi importants que gène,
-       génétique, etc.
-    4. 4 Depuis la découverte de l'ADN, il y a toujours eu débat sur la
-       question de l'existence d'une composante de l'hérédité qui ne
-       reposerait pas sur la seule séquence de l'ADN. Mais ce débat n'est
-       vraiment monté en puissance que depuis le début des années 2000.
-       Voir par exemple le numéro spécial de Pour la Science de
-       novembre-décembre 2019 intitulé Qui sommes-nous ? Les nouvelles
-       réponses de la génétique.
-    5. 5 Pour une revue exhaustive sur le sujet je recommande le livre
-       [7], ainsi que mon livre qui sera publié en 2021 chez HumenSciences
-       et intitulé L'hérédité telle que l'on ne vous l'a jamais racontée.
-       Je finalise actuellement un ouvrage beaucoup plus complet sur le
-       même sujet, et davantage destiné aux scientifiques, enseignants et
-       étudiants en biologie, intitulé Au-delà du 'Gène égoïste': la
-       Synthèse Inclusive de l'évolution qui devrait être publié fin 2021
-       chez Actes Sud.
-
-   [M%C3%A9sanges%20ouvrant%20des%20bouteilles%20de%20lait.png]
-   Mésanges ouvrant des bouteilles de lait
-   Auteur(s)/Autrice(s) : V. L. Breeze Licence : Reproduit avec
-   autorisation Source : Nature
-
-   Cependant, des faits ont été rapportés dès le début du XX^e siècle qui
-   donnaient à penser que le phénomène culturel avait une portée
-   taxonomique s'étendant bien au-delà de la seule espèce humaine. Le
-   premier exemple concernait des oiseaux. En effet, en plusieurs endroits
-   de Grande-Bretagne dans les années 1900, des mésanges ont commencé à
-   percer l'opercule des bouteilles de lait déposées chaque matin sur le
-   perron des habitations pour se nourrir de la crème qui surnage sur le
-   lait (Figure 1). Cette innovation comportementale s'est ensuite étendue
-   rapidement à quasiment toute la Grande-Bretagne (Figure 2). Pour plus
-   de détails sur les localités impliquées et sur la dynamique d'invasion
-   de ce comportement, on peut consulter [14] qui fournit des cartes
-   accessibles même aux non anglophones1. Ce phénomène a donné lieu à de
-   nombreuses discussions avant que ne fasse consensus l'idée que cette
-   rapide diffusion du comportement relevait bien d'un processus
-   culturel2.
-    1. 1 Cet article peut être téléchargé depuis le site de Nature.
-    2. 2 Voir par exemple [15].
-
-   [Cartes%20m%C3%A9sanges.png]
-   Distribution des comportements signalés d’ouverture des bouteilles de
-   lait par des mésanges en Grande-Bretagne en 1939, 1943 et 1947
-
-   Chaque carte présente la totalité des cas recensés jusqu’à l’année
-   indiquée. Le terme « mésanges » regroupe les espèces Parus major
-   (mésange charbonnière), Periparus ater (mésange noire) et Cyanistes
-   caeruleus (mésange bleue).
-   Auteur(s)/Autrice(s) : James Fisher et R.A. Hinde Licence : Reproduit
-   avec autorisation Source : Nature
-
-   Le deuxième exemple classique est celui des macaques de l'île de
-   Koshima, au Japon [16]. Au milieu du XX^e siècle des primatologues
-   déposèrent régulièrement dans des endroits faciles à observer des
-   patates douces dont se nourrissent les singes. Une femelle appelée Imo
-   s'est alors mise à laver les tubercules pour enlever le sable qui était
-   dessus, ce qui en facilitait grandement la consommation. Cette
-   innovation s'est alors propagée à tous les membres de son groupe de
-   macaques (Figure 3). Il s'en est suivi toute une série d'autres
-   innovations qui se sont accumulées au cours du temps et qui ont
-   profondément changé le mode de vie de ces singes et donc les pressions
-   de sélection agissant sur eux [16, 17]. De nouveau, ce cas a été
-   discuté pour savoir si l'on pouvait là aussi parler de culture animale,
-   soulevant encore une fois la question de ce qu'est la culture.
-   [Transmission%20culturelle%20chez%20les%20macaques.png]
-   L’acquisition de deux comportements chez des macaques japonais
-
-   Arbre généalogique de macaques japonais (Macaca fuscata) de l’île de
-   Koshima (Japon). Parmi ces individus, certains vont au bord de l’eau
-   pour débarrasser les patates douces du sable qui les couvre. Un autre
-   comportement observé dans cette population de macaques est
-   l’« orpaillage » du blé : au lieu de manger un par un les grains de blé
-   qu’ils trouvent dans le sable, certains individus jettent le mélange
-   sable/blé dans l’eau. Le sable coule tandis que le blé flotte et est
-   alors récupéré pour être consommé.
-   Auteur(s)/Autrice(s) : Pascal Combemorel, d’après Hirata et coll., 2008
-   Licence : CC-BY Source : Primate Origins of Human Cognition and
-   Behavior
-
-   Pendant longtemps ce furent les deux seuls exemples illustrant la
-   possibilité de culture animale. Depuis cette époque, toute une série
-   d'exemples de transmission culturelle ont été décrits chez les
-   chimpanzés [18-22], chez les orang-outans [23], le singe vervet [24],
-   plusieurs cétacés [25-28], les suricates [29], diverses espèces
-   d'oiseaux [30, 31] et d'une manière encore plus surprenante chez les
-   insectes. Les études sur les oiseaux sont remarquables car elles sont
-   expérimentales et étudient la dynamique de transmission
-   intrapopulation, l'une sur le chant [30], l'autre sur l'exploitation
-   d'une source artificielle de nourriture [31]. Pour les insectes les
-   arguments expérimentaux portent sur la transmission à l'intérieur d'une
-   ruche d'un nouveau comportement d'alimentation chez un bourdon [32], et
-   la transmission des préférences sexuelles chez la mouche du vinaigre
-   [33]. Voir aussi [17, 34].
-
-Une définition centrée sur les invariants du processus culturel
-
-   Toutes ces discussions posent en fait la question de la définition de
-   la culture. Il fallait pour cela se dégager de notre anthropocentrisme
-   de base pour nous concentrer sur ce qu'il y a d'essentiel dans le
-   processus culturel. Le point sur lequel s'accorderait la majorité des
-   chercheurs est que, dans sa version princeps, la culture est quelque
-   chose qui est appris depuis les autres. Ainsi, le phénomène culturel
-   est intimement lié à la question de l'apprentissage social, domaine
-   pour lequel il existe une vaste littérature. Un des premiers exemples
-   d'apprentissage social décrit dans la littérature est celui de la danse
-   des abeilles [35]. Depuis cette date, de très nombreux autres exemples
-   ont été publiés (voir par exemple [17,36-47]).
-
-   Les premières définitions de la culture animale se focalisaient sur les
-   patrons de variation comportementale entre populations. Par exemple,
-   pour une tâche donnée, les individus d'une population se comportent
-   d'une certaine manière (utilisation de pierres pour casser des noix)
-   alors que dans d'autres populations leurs congénères se comportent
-   différemment (utilisation de bâtons pour casser des noix) alors que les
-   conditions écologiques et génétiques sont très semblables. Comme ces
-   différences comportementales persistaient au cours des générations, il
-   semblait qu'il s'agissait de véritables traditions culturelles.
-   Cependant, la seule présence de patrons de variation ne permet pas
-   d'inférer les mécanismes responsables de cette variation. Il fallait
-   bien entendu aussi démontrer que ces variations sont effectivement
-   transmises entre les individus par apprentissage social, c'est-à-dire
-   par apprentissage à partir des autres.
-
-Une définition de la culture transposable à toutes les espèces
-
-   Nous avons donc proposé une nouvelle définition de la culture qui
-   associe à cette approche centrée sur les patrons de variation (les
-   traditions) une étude des propriétés de l'apprentissage social
-   sous-jacent afin de vérifier que cet apprentissage social génère
-   effectivement l'émergence de comportements communs au sein d'une même
-   population, mais variables entre populations [33].
-
-   Avec mes coauteurs de cet article, nous proposons donc que « la culture
-   est la part de la variation entre individus qui est transmise par (1)
-   un apprentissage social qui (2) se fait régulièrement des plus anciens
-   vers les plus jeunes, (3) est mémorisée assez longtemps pour être de
-   nouveau copiée, (4) qui est basée sur les traits plutôt que sur les
-   individus1 et qui (5) incorpore un mécanisme de réparation comme le
-   conformisme2. Enfin, il faut aussi vérifier que ces cinq conditions
-   réunies suffisent à faire émerger des comportements collectifs
-   similaires localement et persistants sur de très longues périodes, bien
-   au-delà de la durée d'une génération. Il faut donc que ces
-   caractéristiques cognitives aient le potentiel de faire émerger des
-   traditions culturelles persistantes. » Cette définition est résumée
-   dans la Figure 4.
-    1. 1 Par exemple, dans le cas du choix du partenaire sexuel, si les
-       femelles apprennent, sur la base de l’observation d’autres
-       femelles, à préférer un mâle A par rapport à un mâle B, cela
-       correspond à un apprentissage social basé sur les individus. Ce
-       type d'apprentissage ne peut pas donner de tradition car la
-       transmission ne pourra durer que le temps de la vie de ces mâles A
-       et B. Par contre, un apprentissage social basé sur les traits
-       correspond au cas où les femelles observatrices apprennent à
-       préférer n'importe quel mâle du phénotype de A par rapport à
-       n'importe quel mâle du phénotype de B. Dans ce cas cette préférence
-       peut être transmise indéfiniment et donc donner lieu à des
-       traditions locales.
-    2. 2 Par conformisme, on entend la tendance exagérée à se comporter
-       comme la majorité des individus avec qui on vit [48]. Le
-       conformisme joue un rôle absolument central dans l'émergence de
-       traditions culturelles à tel point que l'on peut affirmer que sans
-       conformisme il ne peut pas y avoir de processus culturel. C'est ce
-       que nous avons montré, après d'autres chercheurs travaillant sur
-       l'humain, dans le cas de la drosophile [33].
-
-   [Les%20cinq%20crit%C3%A8res%20permettant%20d%27affirmer%20qu%27un%20tra
-   it%20est%20transmis%20culturellement.png]
-   Les cinq critères permettant d'affirmer qu'un trait est transmis
-   culturellement
-   Auteur(s)/Autrice(s) : Étienne Danchin Licence : CC-BY
-
-   Ainsi caractérisée de manière rigoureuse et complète, il devient
-   maintenant possible d'étudier la culture animale chez n'importe quel
-   organisme, cette définition constituant une boîte à outils conceptuelle
-   et pratique pour étudier la culture dans le monde animal.
-
-Des drosophiles culturelles
-
-   Pour tester cette définition, nous avions choisi un organisme tout à
-   fait improbable a priori, à savoir la drosophile (Drosophila
-   melanogaster) [33]1. Cette petite mouche mesure en effet de l'ordre du
-   millimètre et a un cerveau qui est environ dix millions de fois plus
-   petit que le nôtre. De manière très surprenante, nous avons observé que
-   les préférences sexuelles des drosophiles femelles sont transmises
-   socialement entre femelles et que cet apprentissage social vérifie tous
-   les critères de notre définition (Figure 5). De plus, dans une
-   expérience de chaîne de transmission dans laquelle les observatrices
-   (élèves) d'un pas de transmission devenaient les démonstratrices
-   (professeurs) du pas suivant, nous avons constaté que de telles chaines
-   duraient significativement plus longtemps qu'attendu en l'absence
-   d'apprentissage social. Enfin, des simulations statistiques nous ont
-   permis de montrer que les caractéristiques de l'apprentissage social
-   sont effectivement susceptibles de faire émerger une préférence
-   collective pour un type de mâle donné, certaines de ces traditions
-   pouvant persister sur plus de 100 000 pas de transmission, ce qui
-   pouvait représenter près de 10 000 générations de drosophiles (pour
-   tous les détails, voir [33]).
-    1. 1 Cet article est disponible sur mon site internet.
-
-   [Apprentissage%20social%20chez%20les%20drosophiles_tubeoriginal_v2.png]
-   Apprentissage social dans le contexte du choix du partenaire chez la
-   drosophile
-
-   A. Le mâle poudré de vert copule, mais pas le mâle poudré de rose. Deux
-   femelles semblent observer le couple en train de copuler. B. Dispositif
-   expérimental permettant de reproduire la situation présentée en A. Une
-   femelle observatrice est placée dans un tube en plastique d'où elle
-   peut observer (paroi transparente) ou non (paroi opaque) la
-   démonstration (impliquant une femelle et un mâle poudré de rose ou de
-   vert) se déroulant dans l'autre tube. Ensuite les individus impliqués
-   dans la démonstration sont enlevés et remplacés par deux nouveaux
-   mâles, un de chaque couleur, la paroi est enlevée et on enregistre la
-   couleur du mâle avec lequel la femelle observatrice copule. C. Indice
-   d’apprentissage sociale de femelles n’ayant pas observé (paroi opaque
-   utilisée en B) ou ayant observé (paroi transparente utilisée en B) une
-   femelle démonstratrice s'accoupler avec un mâle d’une couleur donnée.
-   Un indice valant zéro témoigne du choix aléatoire du partenaire tandis
-   qu’un indice positif traduit une préférence pour la couleur du mâle
-   observé durant la démonstration. Les valeurs P des tests au-dessus des
-   barres sont celles de tests binomiaux par rapport à un choix aléatoire.
-   Les barres d’erreur représentent les erreurs types de la moyenne.
-   Auteur(s)/Autrice(s) : Danchin et coll., 2018 Licence : Reproduit avec
-   autorisation Source : Science
-
-   D'autre part, nous nous attendions à ce que la transmission des
-   préférences sexuelles se fasse culturellement car, dans ce contexte, le
-   conformisme apporte un avantage chaque fois qu'un individu change de
-   population (ou de groupe culturel). En effet, le conformisme permet à
-   un individu qui change de groupe culturel de toujours adopter le
-   comportement majoritaire localement, indépendamment du comportement
-   majoritaire de son groupe d’origine. De ce fait, les femelles
-   conformistes produiront toujours des fils du phénotype qui est préféré
-   dans le groupe culturel de la reproduction en cours, ce qui augmentera
-   fortement leur aptitude. Nos expériences ont confirmé magistralement le
-   caractère conformiste des drosophiles femelles dans le choix de leurs
-   partenaires.
-
-   Ainsi les drosophiles ont toutes les capacités cognitives nécessaires à
-   l'émergence de véritables traditions locales de préférence sexuelle
-   pour un type de mâle donné, ce qui suggère que la transmission
-   culturelle est beaucoup plus ancienne et répandue que nous ne le
-   pensions, ou qu’elle résulte de phénomènes de convergence entre les
-   différents groupes étudiés. Dans la première hypothèse, la culture
-   pourrait donc avoir participé à l'hérédité et l'évolution depuis des
-   millions d'années et ceci chez un panel d'animaux bien plus varié que
-   nous ne pouvions l'imaginer.
-
-Conséquences
-
-   Une première conséquence de la probable omniprésence d'hérédité
-   culturelle dans le monde animal est qu'elle a le potentiel de fortement
-   affecter la sélection sexuelle et la spéciation chez les organismes où
-   les préférences sexuelles sont héritées culturellement. Une autre
-   conséquence de l'existence d'une composante culturelle dans la
-   ressemblance parent-enfant est qu'il est nécessaire de revoir la
-   définition de l'évolution. Alors que classiquement l'évolution est
-   définie comme « le processus par lequel la fréquence des variants
-   génétiques change au cours du temps », il nous faut maintenant adopter
-   une définition plus inclusive qui incorpore l'ensemble des processus
-   participant à la ressemblance parent-enfant. Pour cela il suffit
-   d'enlever un seul mot: « l'évolution est le processus par lequel la
-   fréquence des variants change au cours du temps »1 [49].
-
-   Dans cette nouvelle définition de l'évolution, le mot variant inclus
-   tous les variant possibles, dont bien entendu les variants séquenciques
-   (c'est-à-dire dans la séquence nucléotidique de l'ADN). Mais il inclut
-   aussi le rôle de toute une série de variants phénotypiques non
-   génétiques mais néanmoins transmis entre générations, et dont le rôle
-   majeur (et largement sous-estimé) dans l'hérédité et l'évolution est
-   actuellement mis au jour. Ces variants peuvent être épigénétiques,
-   cytoplasmiques, microbiotiques, culturels, et écologiques, ou dus à des
-   prions ou des molécules chaperons. Comme toutes ces variations ont des
-   composantes transmises des parents vers leurs enfants (c'est-à-dire
-   qu'elles sont en partie inclusivement héritables), ces variants sont
-   susceptibles d'évoluer dans le temps par l'effet de la sélection
-   naturelle ou de la dérive, et donc de participer à l'évolution.
-
-   Enfin, alors que nous savons depuis longtemps que le comportement
-   participe à l'évolution en permettant aux organismes de s'adapter
-   rapidement aux changements dans leur environnement, il apparaît
-   aujourd'hui que le comportement constitue aussi un important acteur
-   d'hérédité ayant des propriétés de transmission très originales (intra
-   mais aussi inter lignées familiales) qui sont susceptibles d'affecter
-   le fonctionnement même de l'évolution. De plus, plusieurs auteurs
-   ([50-53] ; pour une revue, voir [54]) ont insisté sur la nécessité de
-   prendre en compte les variants culturels dans toutes nos politiques de
-   conservation afin de conserver au maximum le potentiel évolutif des
-   espèces et espérer ainsi tamponner autant que possible les effets
-   délétères des changements globaux sur la diversité biologique2.
-
-Références
-
-   1. Danchin, É., and Wagner, R.H. (2010) Inclusive heritability:
-   combining genetic and nongenetic information to study animal behavior
-   and culture. Oikos 119, 210-218.
-
-   2. Danchin, É., et al. (2011) Beyond DNA: integrating inclusive
-   inheritance into an extended theory of evolution. Nature Rev Genet 12,
-   475-486.
-
-   3. Darwin, C. (1859) On the origin of species by means of natural
-   selection. John Murray.
-
-   4. Danchin, É., et al. (2005) Ecologie comportementale. Dunod.
-
-   5. Danchin, É., et al.(2008) Behavioural Ecology. Oxford University
-   Press.
-
-   6. Danchin, É., et al. (2019) Early in life effects and heredity:
-   reconciling neo-Darwinism with neo-Lamarckism under the banner of the
-   inclusive evolutionary synthesis. Phil. Trans. R. Soc. B 374, 20180113.
-
-   7. Bonduriansky, R., and Day, T. (2018) Extended Heredity: A New
-   Understanding of Inheritance and Evolution. Princeton University Press.
-
-   8. Pigliucci, M., and Müller, G.B. (2010) Evolution, the extended
-   synthesis. MIT Press.
-
-   9. Bonduriansky, R. (2012) Rethinking heredity, again. Trends Ecol Evol
-   27, 330-336.
-
-   10. Wang, Y., et al. (2017) Lamarck rises from his grave: parental
-   environment-induced epigenetic inheritance in model organisms and
-   humans. Biol Rev 92, 2084-2111.
-
-   11. Danchin, É., et al. (2019) Epigenetically-Facilitated mutational
-   assimilation: Epigenetics as a hub within the Inclusive Evolutionary
-   Synthesis. Biol Rev 94, 259-282.
-
-   12. Lu, Q., and Bourrat, P. (2017) The evolutionary gene and the
-   extended evolutionary synthesis. British J Phil Sci 69, 775-800.
-
-   13. Huneman, P., and Whalsh, D.M. (2017) Challenging the Modern
-   Synthesis. Adaptation, Development, and Inheritance. Oxford University
-   Press.
-
-   14. Fisher, J., and Hinde, R.A. (1949) The opening of milk bottles by
-   birds. Brit Birds 42, 347.
-
-   15. Sherry, D.F., and Galef, B.G. (1984) Cultural transmision without
-   imitation - Milk bottle opening by birds. Anim Behav 32, 937-938.
-
-   16. Hirata, S., et al. (2008) "Sweet-potato washing" revisited. In
-   Primate origins of human cognition and behavior (T., M., ed), pp.
-   487-508, Springer.
-
-   17. Avital, E., and Jablonka, E. (2000) Animal Traditions. Behavioural
-   Inheritance in Evolution. Cambridge University Press.
-
-   18. Whiten, A., et al. (1999) Culture in chimpanzees. Nature 399,
-   682-685.
-
-   19. Whiten, A. (2017) Culture extends the scope of evolutionary biology
-   in the great apes. Proc Nat Acad Sci USA 114, 7790-7797.
-
-   20. Whiten, A. (2011) The scope of culture in chimpanzees, humans and
-   ancestral apes. Philos Trans R Soc Lond B 366, 997-1007.
-
-   21. Whiten, A., et al. (2005) Conformity to cultural norms of tool use
-   in chimpanzees. Nature 437, 737-740.
-
-   22. Whiten, A. (2007) Pan African culture: Memes and genes in wild
-   chimpanzees. Proc Nat Acad Sci USA 104, 17559–17560.
-
-   23. van Schaik, C.P., et al. (2003) Orangutan cultures and the
-   evolution of material culture. Science 299, 102-105.
-
-   24. van de Waal, E., et al. (2013) Potent Social Learning and
-   Conformity Shape a Wild Primate's Foraging Decisions. Science 340,
-   483-485.
-
-   25. Whitehead, H. (1998) Cultural selection and genetic diversity in
-   matrilineal whales. Science 282, 1708-1711.
-
-   26. Allen, J., et al. (2013) Network-Based Diffusion Analysis Reveals
-   Cultural Transmission of Lobtail Feeding in Humpback Whales. Science
-   340, 485-488.
-
-   27. Krutzen, M., et al. (2005) Cultural transmission of tool use in
-   bottlenose dolphins. Proc Nat Acad Sci USA 102, 8939-8943.
-
-   28. Kopps, A.M., et al. (2014) Cultural transmission of tool use
-   combined with habitat specializations leads to fine-scale genetic
-   structure in bottlenose dolphins. Proc R Soc Lond B Biol Sci 281,
-   20133245.
-
-   29. Thornton, A., et al. (2010) Multi-generational persistence of
-   traditions in neighbouring meerkat groups. Proc R Soc Lond B Biol Sci
-   277, 3623-3629.
-
-   30. Feher, O., et al. (2009) De novo establishment of wild-type song
-   culture in the zebra finch. Nature 459, 564-U594.
-
-   31. Aplin, L.M., et al. (2015) Experimentally induced innovations lead
-   to persistent culture via conformity in wild birds. Nature 518,
-   538-541.
-
-   32. Alem, S., et al. (2016) Associative Mechanisms Allow for Social
-   Learning and Cultural Transmission of String Pulling in an Insect. PloS
-   Biol 14, e1002564.
-
-   33. Danchin, É., et al. (2018) Cultural flies: conformist social
-   learning in fruit flies predicts long-lasting mate-choice traditions.
-   Science 362, 1025-1030.
-
-   34. Danchin, É., et al. (2004) Public information: from nosy neighbors
-   to cultural evolution. Science 305, 487-491.
-
-   35. Von Frisch, K. (1974) Decoding the language of the bee. Science
-   185, 663-668.
-
-   36. Heyes, C.M., and Galef, B.G.J. (1996) Social learning and
-   Imitation: the Roots of Culture. Academic Press.
-
-   37. Brown, C.R., and Laland, K.N. (2003) Social learning in fishes: a
-   review. 4, 280-288.
-
-   38. Griffin, A.S. (2004) Social learning about predators: A review and
-   prospectus. Learnin Behav 32, 131-140.
-
-   39. Chittka, L., and Leadbeater, E. (2005) Social learning: Public
-   Information in Insects. Curr Biol 15, R869-R871.
-
-   40. Coolen, I., et al. (2005) Social learning in noncolonial insects?
-   Curr Biol 15, 1931-1935.
-
-   41. Leadbeater, E., and Chittka, L. (2007) Social learning in insects -
-   From miniature brains to consensus building. Curr Biol 17, R703-R713.
-
-   42. Mery, F., et al. (2009) Public versus personal information for mate
-   copying in an invertebrate. Curr Biol 19, 730-734.
-
-   43. Slagsvold, T., and Wiebe, K.L. (2011) Social learning in birds and
-   its role in shaping a foraging niche. Philos Trans R Soc Lond B 366,
-   969-977
-
-   44. Battesti, M., et al.(2012) Spread of Social Information and
-   Dynamics of Social Transmission within Drosophila Groups. Curr Biol DOI
-   10.1016/j.cub.2011.12.050
-
-   45. Watson, S.K., et al. (2015) Vocal Learning in the Functionally
-   Referential Food Grunts of Chimpanzees. Curr Biol
-
-   46. Dagaeff, A.-C., et al. (2016) Drosophila mate copying correlates
-   with atmospheric pressure in a speed learning situation. Anim Behav
-   121, 163-174.
-
-   47. Whiten, A. (2018) Culture and conformity shape fruitfly mating.
-   Potent social learning sustains the inheritance of mating preferences
-   over generations. Science 362, 998-999.
-
-   48. Boyd, R., and Richerson, P.J. (1985) Culture and the evolutionary
-   process. Chicago University Press.
-
-   49. Bentley, R.A., et al. (2004) Random drift and culture change. Proc
-   R Soc Lond B Biol Sci 271, S353-S356.
-
-   50. Whitehead, H., et al. (2004) Culture and conservation of non-humans
-   with reference to whales and dolphins: review and new directions. Biol
-   Cons 120, 427-437.
-
-   51. Laiolo, P., and Tella, J.L. (2005) Habitat fragmentation affects
-   culture transmission: patterns of song matching in Dupont's lark. J
-   Anim Ecol 42, 1183-1193.
-
-   52. Laiolo, P., and Tella, J.L. (2007) Erosion of animal cultures in
-   fragmented landscapes. 5, 68-72.
-
-   53. Laiolo, P., and Jovani, R. (2007) The emergence of animal culture
-   conservation. Trends Ecol Evol 22, 5-5.
-
-   54. Brakes, P., et al. (2019) Animal cultures matter for conservation.
-   Science
-
-   55. Jesmer, B.R., et al. (2018) Is ungulate migration culturally
-   transmitted? Evidence of social learning from translocated animals.
-   Science 361, 1023-1025.
-    1. 1 Cette définition est la première phrase de l'article d'Alexander
-       Bentley [49] qui teste sur trois types de données culturelles
-       humaines (des types de poterie, les citations des brevets, et les
-       prénoms aux États-Unis) un des modèles classiques de la synthèse
-       moderne de l'évolution. Un des jeux de données qu'il utilise
-       comporte 6,3 millions de données, une taille d'échantillon qui ne
-       pourra jamais être atteinte en génétique. Bentley montre que la
-       distribution de ces trois jeux de données est exactement celle
-       prédite par des modèles développés pour décrire la distribution de
-       la variation génétique, montrant ainsi que la logique développée
-       pour décrire la variation génétique au sein des populations est
-       parfaitement adaptée à décrire la distribution d'autres types de
-       variants héritables comme les variants culturels, un parallèle tout
-       à fait intéressant.
-    2. 2 Je recommande aussi vivement la lecture de [55] qui illustre
-       parfaitement ce que peut apporter la prise en compte des variants
-       culturels en biologie de la conservation.
-
-Crédits
-
-   Auteur(s)/Autrice(s)
-   Étienne Danchin
-   Spécialiste de l'évolution et de l'hérédité non génétique. Il a dirigé
-   le laboratoire Évolution & diversité biologique (EDB-Toulouse), et le
-   LabEx TULIP dont le but est d'intégrer toute la biologie en une
-   nouvelle synthèse inclusive de l'évolution.
-   Éditeur(s)/Éditrice(s)
-   Pascal Combemorel
-   Professeur agrégé de SVT. Il est le responsable éditorial du site
-   Planet-Vie depuis septembre 2016.
-   Licence du texte de l'article
-   CC-BY-NC-ND
-   Creative Commons - Attribution - Pas d'utilisation commerciale - Pas de
-   modifications
-   Partager cet article
-
-Continuer à lire
-
-   [photographie_de_mariage_pxhere_245994.jpg?h=31ae73cf&amp;itok=RhlH1afW
-   ]
-   Article
-
-Vers un remaniement de la théorie de l’évolution ?
-
-   14.09.23 — Par Cyril Langlois
-   Bruant à couronne blanche
-   Article
-
-Comment et pourquoi les oiseaux chantent-ils ?
-
-   04.05.21 — Par Fanny Rybak
-   [Portes%20choix_Arek%20Socha_Pixabay.jpg?h=cee7880a&amp;itok=tuCc_Hhr]
-   Conférence
-
-Neurophysiologie de la prise de décision
-
-   01.06.22 — Par Philippe Faure
-
-Ressources de Planet-Vie pour les nouveaux programmes de lycée et de BCPST
-
-   En savoir plus
-   Quitter la lecture zen
-
-Lettre d'information
-
-   Restez au courant de l’actualité de Planet-Vie en vous abonnant à notre
-   lettre d'information.
-   S'abonner
-
-Planet-Vie Ressources en sciences de la vie pour les enseignants et
-enseignantes
-
-Thématiques
-
-   Animaux Cellules et molécules Champignons Développement Écologie
-   Évolution Génétique Manipulations en laboratoire Manipulations en SVT
-   Microbiologie Santé Thèmes transversaux Végétaux
-     * Événements
-     * Parutions
-     * Liens utiles
-
-     * À propos
-     * Qui sommes-nous ?
-     * Liste des auteurs et autrices
-     * Instruction aux auteurs et autrices
-
-   [logo_ens_vert.svg] [eduscol-logo-min.jpeg]
-     * Mentions légales
-     * Plan du site
-     * Contact
-
-   (BUTTON)
-   ______________________________ Submit
-
-   Success message!
+   The store will not work correctly when cookies are disabled.
+
+   Javascript est désactivé dans votre navigateur. Pour une meilleure
+   expérience sur notre site, assurez-vous d’activer JavaScript dans votre
+   navigateur.
+
+   Vous avez lu 1 sur 3 articles gratuits ce mois-ci.
+
+   Vous avez lu 1 sur 3 articles gratuits ce mois-ci.
+
+   Rechercher
+   Rechercher
+   ____________________
+   (BUTTON) Fermer x (BUTTON) Rechercher
+   Panier
+     * Recherche
+     * Boutique
+     * Magazine
+     * Abonnement
+     * Mon compte
+
+   Allez au contenu
+   Basculer la navigation Revue de Gestion
+   Menu
+     * Télétravail
+     * Agilité
+     * Communication
+     * Innovation
+     * Leadership
+     * Management
+     * Marketing
+     * Stratégie
+     * Ressources humaines
+     * Technologie
+
+   Compte
+
+INFOLETTRE GESTION HEC MONTRÉAL
+
+   Des nouvelles exclusives
+   Abonnez-vous à notre infolettre :
+   ____________________
+   (BUTTON) Je m'abonne
+   Innovation Article magazine 3,99 $ Gratuit
+
+Évolution technologique à vitesse grand V : comment rester dans la course ?
+
+   2019-12-26
+   Revue de Gestion HEC gestion
+
+   French
+
+   https://www.revuegestion.ca/evolution-technologique-a-vitesse-grand-v-c
+   omment-rester-dans-la-course
+
+   2023-10-02
+
+   Évolution technologique à vitesse grand V : comment rester dans la
+   course ?
+   Par Sylvie Lemieux
+   Catégorie reliée: Technologie
+
+   Innovation , Technologie
+   Évolution technologique à vitesse grand V : comment rester dans la
+   course ?
+   Publié le 26 déc. 2019
+   Ajouter à Ma Liste
+
+   Article publié dans l'édition hiver 2019 de Gestion
+
+   Intelligence artificielle, robotique de pointe, réseaux de
+   communication évolués, chaînes de blocs, usines 4.0 : les innovations
+   technologiques s'accélèrent sans répit et entraînent bien des
+   bouleversements. Les entreprises ont-elles ce qu'il leur faut pour
+   résister à ces perturbations ? Quelles stratégies peut-on déployer pour
+   qu'elles demeurent compétitives ? Constats et pistes de réflexion pour
+   suivre la cadence.
+
+   le plus grand salon du monde
+
+   Le CES 2018. le plus grand salon du monde consacré à la technologie de
+   consommation, à Las Vegas.
+
+   L’évolution technologique est plus rapide que je ne l’aurais imaginé. »
+   Ce constat, c’est Jacques Lussier, président et chef des placements
+   chez Ipsol Capital, qui le dresse. M. Lussier a fondé sa firme de
+   gestion de portefeuilles en 2013. Au moment même où les robots
+   conseillers font leur entrée sur le marché financier, Ipsol a mis au
+   point une méthode similaire qui mise sur des programmes informatiques
+   complexes pour analyser les titres, gérer les risques et construire ses
+   modèles d’investissement. Se tailler une place dans un nouveau marché
+   est une chose ; y rester représente un tout autre défi. Si les avancées
+   technologiques sont rapides, elles sont difficiles à prévoir et à
+   contrôler. « Il faut s’adapter en continu, affirme M. Lussier. Nous
+   restons à l’affût de tout ce qui se fait en matière de recherche. On
+   fait aussi du développement à l’interne. C’est une véritable course
+   contre la montre. »
+     __________________________________________________________________
+
+   LIRE AUSSI: Dossier mégadonnées - L'intelligence artificielle : future
+   mine d'or pour les entreprises
+     __________________________________________________________________
+
+   Cette course, on la vit aussi au quotidien chez Stingray, un
+   fournisseur mondial de services numériques musicaux et vidéo. « Puisque
+   nous sommes dans un marché en transformation, nous devons constamment
+   trouver de nouvelles façons de livrer le contenu », explique Mario
+   Dubois, vice-président principal et chef de la direction. Pour y
+   arriver, cette entreprise montréalaise investit une bonne part de ses
+   revenus dans la recherche et le développement. Son service de R-D
+   emploie 130 personnes sur un total de 400 employés dans le monde. Même
+   si elles œuvrent dans des secteurs très différents, Ipsol Capital et
+   Stingray ont les mêmes préoccupations : aucun domaine (ou presque)
+   n’échappe à l’accélération de l’innovation technologique. D’où
+   l’importance de se préparer aux changements profonds, voire aux
+   ruptures que cette innovation entraîne, en modifiant les façons de
+   travailler, les habitudes de consommation ou les règles du jeu d’un
+   marché. « Plus que jamais, les dirigeants doivent raffiner leur
+   compréhension de leur environnement d’affaires, affirme Camille Grange,
+   professeure adjointe au département de technologies de l’information de
+   HEC Montréal. Lorsqu’une perturbation survient dans un marché, les
+   autres joueurs doivent déployer des stratégies adéquates pour affronter
+   cette nouvelle concurrence. » Il faut savoir réagir et, surtout, le
+   faire à temps. Le risque est grand de sous-estimer les répercussions
+   d’une nouvelle technologie et de se laisser distancer, voire de
+   disparaître. Kodak et Blockbuster vidéo– deux exemples parmi tant
+   d’autres – l’ont chèrement payé.
+
+Menaces ou occasions d’affaires ?
+
+   Les avancées technologiques sont aussi porteuses de nouvelles occasions
+   d’affaires qu’il faut savoir repérer. La firme québécoise
+   Yourbarfactory l’a fait, ce qui s’est avéré payant. En effet, cette
+   entreprise spécialisée dans la création et la fabrication de barres
+   nutritives pour des marques privées s’est engagée, il y a quelques
+   années, dans un processus d’automatisation de sa production. Ce virage
+   lui a permis d’accroître sa productivité et ses parts de marché. « Tout
+   ça a commencé par de petits projets dont les objectifs allaient de
+   l’amélioration de la gestion de l’inventaire, par exemple, à
+   l’automatisation de nos chaînes d’emballage, explique Cédrick Boivin,
+   directeur technique. Nous avons ainsi acquis de la flexibilité, un
+   avantage qui nous a permis de nous démarquer. Dans un délai très court,
+   on peut donc modifier nos processus de production et lancer un nouveau
+   produit à la demande d’un client. Cette approche “directement sur le
+   marché” nous a fait gagner de nouveaux clients. »
+
+   Résultat : la nouvelle usine de Yourbarfactory doit ouvrir ses portes
+   au début de 2019. Elle fera plus de 8 000 m2, ce qui triplera la
+   superficie totale de ses installations. D’ici cinq ans, l’entreprise
+   prévoit aussi tripler sa capacité de production annuelle, qui s’élève
+   actuellement à 50 millions de barres nutritives. Avec ce déménagement,
+   Yourbarfactory en profite pour rehausser le degré de numérisation et
+   d’automatisation de son équipement.
+
+   Cependant, suivre la cadence du développement technologique provoque
+   parfois des maux de tête, concède Cédrick Boivin. Il importe donc de
+   faire des choix judicieux pour obtenir le meilleur retour sur
+   investissement. « On privilégie les technologies ouvertes, ce qui nous
+   permet d’ajouter des fonctionnalités selon nos besoins. » M. Boivin
+   anticipe déjà la prochaine évolution de l’équipement en place : « Au
+   cours des prochaines années, on prévoit utiliser de plus en plus
+   l’intelligence artificielle pour que les machines puissent transmettre
+   plus d’information aux opérateurs et ainsi optimiser la production »,
+   explique-t-il.
+
+L’incontournable veille technologique
+
+   Pour rester à l’affût des changements, Cédrick Boivin assiste
+   régulièrement à des foires commerciales dans le domaine de la
+   production industrielle. Ces déplacements ne sont pas toujours faciles
+   à caser dans un agenda chargé. Au besoin, il y délègue un membre de son
+   équipe, signe de l’importance qu’il accorde dorénavant à la veille
+   technologique.
+
+   Dans le contexte actuel, cette mesure est plus incontournable que
+   jamais. « La veille doit être intégrée dans les pratiques de
+   l’entreprise, soutient Camille grange. Il n’est plus question de la
+   faire seulement quand on a le temps. Le dirigeant doit en faire le cœur
+   de ses préoccupations et y consacrer les ressources nécessaires. Il ne
+   faut pas non plus se concentrer uniquement sur ce qui se passe dans son
+   secteur d’activité : une innovation qui s’introduit dans un autre
+   secteur peut avoir le potentiel d’affecter son propre marché. »
+
+   « Une panoplie d’outils de veille sont à la disposition des
+   entreprises. Encore faut-il les connaître et les utiliser en fonction
+   d’une méthode clairement établie », explique Élisabeth Lavigueur,
+   présidente d’Infocyble, une firme-conseil en gestion de l’information
+   stratégique. En plus des moteurs de recherche grand public comme
+   Google, il existe des bases de données ouvertes qui donnent accès à de
+   l’information factuelle très utile dans de nombreux secteurs
+   d’activité. Ce sont des sources trop souvent inexploitées, par exemple
+   des répertoires de brevets, des données statistiques, etc. D’autres
+   outils, payants ceux-là, permettent d’approfondir les recherches. « Un
+   des moyens les plus efficaces reste le contact avec des experts dans
+   son domaine. Obtenir un rendez-vous avec eux exige parfois de la
+   persévérance, mais ils sont une source inestimable d’information sur
+   les tendances du marché », soutient Mme Lavigueur.
+
+    « Ce qui nous fait le plus avancer, ce sont les commentaires de nos
+   clients. Ça nous aide à saisir l’évolution de leurs besoins et à
+   entrevoir les changements à venir dans l’industrie », constate pour sa
+   part Marc-André Lefebvre, président de RMT Équipement. Son entreprise
+   se spécialise dans les systèmes de pesage et de caméras de recul pour
+   la machine- rie lourde, un domaine de pointe à très fort coefficient
+   technologique. « Tous les commentaires sont pris en compte. Cette
+   pratique est bien ancrée chez nous et tous les employés y participent,
+   ajoute-t-il. Une fois intégrée à une base de données, l’information est
+   analysée de façon à ce que rien ne nous échappe, qu’il s’agisse d’un
+   commentaire sur une fonctionnalité d’un de nos produits, d’un bogue à
+   résoudre ou d’une suggestion qui pourrait nous mener à un
+   développement. »
+     __________________________________________________________________
+
+   LIRE AUSSI: Portrait d'un leader : Dax Dasilva, fondateur de Lightspeed
+   et de Never Apart
+     __________________________________________________________________
+
+   Toutes les entreprises ne réussissent pas aussi bien à ce chapitre. «
+   L’information collectée doit être triée et analysée. Le défi, c’est
+   ensuite de la faire circuler dans l’entreprise, soutient Élisabeth
+   Lavigueur. La veille, c’est aussi un processus d’équipe. Un bon
+   chercheur n’est pas forcément un bon analyste ou un bon communicateur.
+   Ce sont des expertises qui se complètent et qu’il importe de développer
+   ou de s’adjoindre pour que la veille techno donne les résultats
+   escomptés. »
+
+   Les entreprises ont aussi besoin des « capteurs d’avancées
+   technologiques » que sont les milléniaux, soutient Laurent Simon,
+   professeur titulaire au département d’entrepreneuriat et innovation de
+   HEC Montréal. « Ce sont les early adopters [c’est-à-dire les adopteurs
+   précoces] des technologies : ils deviennent des atouts pour
+   l’entreprise en tant qu’acteurs de cette veille », dit M. Simon. Ces
+   personnes sont souvent capables de déceler avant les autres le
+   potentiel des nouvelles technologies.
+
+   Faire une place à cette génération et lui donner la parole permet bien
+   souvent de dédramatiser les choses au sein d’une organisation en ce qui
+   a trait aux changements à venir.
+   Innovation à tout prix
+
+   1- Un robot d'assistance Pepper doté d'une tablette d'information dans
+   une gare au Japon. 2- Les éoliennes font partie des technologies
+   d'exploitation des sources d'énergie renouvelables à surveiller. 3-
+   L'impression 3D est un processus de fabrication par ajout de matière
+   sur plusieurs couches superposées.
+
+L’innovation à tout prix
+
+   rupture Susciter et maintenir une culture de l’innovation est devenu
+   primordial si on veut résister aux perturbations et en tirer profit.
+   Issue du sommet de l’entreprise, cette vision doit être intégrée dans
+   le discours et dans les actions à tous les échelons. Chez Stingray, où
+   elle est inscrite dans l’ADN organisationnel depuis le début, les
+   projets de développement se gèrent en continu. « On fait de la
+   recherche dans plusieurs directions à la fois de façon à être toujours
+   prêts à agir », explique Mario Dubois. Cela implique aussi d’abandonner
+   un projet à l’occasion : « on a parfois besoin de prendre du recul par
+   rapport à une innovation, explique-t-il. Les changements anticipés
+   n’arrivent pas toujours aussi vite qu’on l’aurait cru. Bien sûr, nous
+   ne voulons pas être en retard, mais il ne faut pas non plus être trop
+   en avance sur le marché. »
+
+   L’enjeu se complique toutefois pour les PME, qui n’ont pas les
+   ressources financières et humaines dont disposent les grandes
+   entreprises. RMT Équipement a quand même décidé de prendre le virage de
+   l’innovation il y a quatre ans en investissant dans la conception de
+   nouveaux produits. « Comme dirigeant, j’ai décidé que nous serions en
+   avant de la parade en créant une division manufacturière pour mettre au
+   point nos propres solutions », affirme Marc-André Lefebvre. Jusque-là,
+   RMT produisait des marques maison et agissait comme revendeur de
+   produits européens. Aujourd’hui, cinq personnes travaillent au service
+   de r-d, sur un total de 20 employés. Cette PME a ainsi mis en marché le
+   TrackWeight Mobile, un modem cellulaire intelligent qui per- met
+   d’enregistrer automatiquement les données de n’importe quel chargement,
+   un appareil qu’elle s’apprête à lancer sur les marchés d’exportation.
+
+   Donner l’envie d’innover à ses troupes n’est pas suffisant : il importe
+   également de mettre en œuvre un processus à toute épreuve pour que les
+   idées se concrétisent. Ipsol Capital a ainsi adopté une approche
+   dynamique pour gérer ses pro- jets de développement informatique.
+   Chaque projet est séquencé en plusieurs étapes dotées d’échéanciers
+   courts, autant de sprints qui, espère-t-on, ouvriront le chemin du
+   succès. « Cela nous permet d’apporter des ajustements en cours de
+   route. Autrement, la complexité de ces projets risquerait de nous faire
+   rater notre objectif de départ », explique M. Lussier. Un suivi serré
+   est un autre élément capital : « tous les matins, nous avons une
+   réunion de 15 minutes pour faire le point sur ce qui a été fait la
+   veille et sur ce qui devrait être fait aujourd’hui. En plus, deux ou
+   trois fois par semaine, j’envoie un courriel de suivi pour expliquer où
+   on en est rendus dans la mise au point d’un nouveau produit. »
+
+   À un certain point du développement technologique, la question des
+   talents se pose : l’entreprise a-t-elle les bonnes personnes aux bons
+   postes et au bon moment ? « C’est une chose que de créer des outils,
+   c’en est une autre de concevoir des interfaces qui communiquent bien
+   l’information à l’utilisateur, soutient Jacques Lussier.
+
+   Au fil de l’avancée des projets, il faut se demander si on dispose des
+   expertises adéquates. Si ce n’est pas le cas, doit-on les développer à
+   l’interne ou aller les chercher à l’externe ? Ça devient un choix
+   stratégique. »
+
+   Chose certaine, les gestionnaires les plus conscients des
+   bouleversements que peuvent entraîner les technologies de pointe seront
+   les mieux préparés à affronter les transformations dans leur secteur
+   d’activité. Ce sera la seule façon pour eux de conserver, voire
+   d’améliorer la position de leur entreprise sur le marché. Êtes-vous
+   prêts ?
+     __________________________________________________________________
+
+À RETENIR
+
+   • Comprendre et anticiper l’évolution de son environnement d’affaires :
+   la mise en œuvre d’une méthode rigoureuse de veille technologique doit
+   faire partie des activités stratégiques de l’entreprise.
+   • Déployer des projets d’innovation technologique : on doit adopter
+   l’approche des petits pas, c’est-à-dire un projet à la fois, et suivre
+   de très près leur progression.
+
+
+   Sylvie Lemieux
+   Sylvie Lemieux
+   Journaliste
+   Catégorie reliée: Technologie
+
+   Innovation , Technologie
+
+   GESTION
+     * Magazine
+     * Qui sommes-nous?
+     * Écrire pour le site de Gestion HEC Montréal
+     * Salle de presse
+     * Nous joindre
+
+   GRANDS PARTENAIRES
+     * Les Grands partenaires de Gestion HEC Montréal
+
+   ABONNEZ-VOUS
+     * Abonnement régulier
+     * Abonnement corporatif
+     * Service de recommandations de lecture
+     * Abonnement étudiant
+     * Diplômés de HEC Montréal
+
+   ANCIENS NUMÉROS
+
+   Tous les anciens magazines de Gestion HEC Montréal
+
+Infolettre Gestion HEC Montréal
+
+   Des nouvelles exclusives
+   Abonnez-vous à notre infolettre :
+   ____________________
+   (BUTTON) Je m'abonne
+     * Linkedin
+     * Facebook
+     * Twitter
+
+   Politique de confidentialité | © 2021 Gestion HEC Montréal
+   [tr?id=1783130221942772&ev=PageView&noscript=1]

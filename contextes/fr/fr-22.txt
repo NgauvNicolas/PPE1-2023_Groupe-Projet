@@ -1,57 +1,181 @@
-   (BUTTON) Fermer
-
-DIGITAL REPORT : L’ÉVOLUTION DU NUMÉRIQUE EN 2023
-
-   SPECIAL REPORT 26 Jan 2023
---
-       monde
-     * Un déclin surprenant de divers aspects de l’activité en ligne
-     * Des informations détaillées sur l’évolution des préférences
-       d’usages des plateformes de médias sociaux.
-     * L’évolution de l’utilisation d’appareils pour accéder aux contenus
-       et services numériques
-     * Des transformations inattendues dans les comportements de recherche
+   #RSS alternate alternate alternate alternate alternate alternate
+   Contents Remerciements Le terrain transitionnellement : une
+   transdisciplinarité entre géographie, art et psychanalyse L’évolution
+   de la théorie du droit (1970-2010) RDF Bibliontology Search on
+   OpenEdition
 --
 
-   Qu’est-ce que la baisse du temps global passé en ligne nous apprend sur
-   l’évolution des comportements numériques dans le monde ?
+   OpenEdition Books Presses universitaires de Paris Nanterre Hors
+   collection 1970-2010 : les sciences de l’Hom... L’évolution des
+   théories économiq...
+   Le terrain transitionnellement : une transdisciplinarité entre géog...
+   L’évolution de la théorie du droit (1970-2010)
 
-   Tout d’abord, rien dans les données n’indique qu’Internet perd de son
+1970-2010 : les sciences de l’Homme en débat
 --
-Pourquoi le monde est en ligne
+Transformations et remises en cause des disciplines
 
-   Malgré les récentes révélations sur l’évolution des comportements de
-   recherche dans le monde, la « recherche d’informations » reste la
-   principale raison pour laquelle les gens se connectent à Internet
+   L’évolution des théories économiques dominantes à partir des années
+   1970 : une approche à partir de la place que la monnaie y tient
+   Rechercher dans le livre ____________________ OK
 --
-   streaming dans le temps de télévision global.
+   page d’information recensé par
 
-   À ce sujet : découvrez comment l’évolution des motivations et des
-   priorités de la population influence les habitudes en matière de vidéo
-   en ligne dans cet article.
---
-
-   En d’autres termes, le COVID-19 a considérablement remodelé les
-   investissements publicitaires mondiaux, et cette évolution vers le
-   numérique semble avoir perduré.
+L’évolution des théories économiques dominantes à partir des années 1970 :
+une approche à partir de la place que la monnaie y tient
 
 --
-Gl3gn6CW35oLq386j7uH1Z6QfU_pcOg]
-
-Évolution des comportements en matière de médias sociaux
-
-   L’augmentation de l’utilisation des médias sociaux a été l’un des faits
+   discours développés par les économistes : développement d’une économie
+   financière en tant que discipline académique à statut scientifique ;
+   révolution « nouvelle classique » dans la macroéconomie ; renouveau du
+   hayekisme. Il faudrait également resituer cette description sur un plan
+   plus sociologique en y intégrant les changements organisationnels de la
 --
-   sociaux varie selon le pays, l’âge et le sexe ici
+I
 
-L’évolution des préférences du monde en matière de médias sociaux
-
-   La profusion récente de titres médiatiques trompeurs ne s’est pas
+     * 1 Mirowski Philip, « The Probabilistic Counter-Revolution, or How
+       Stochastic Concepts came to Neocla (...)
+     * 2 Armatte Michel, La Science économique comme ingénierie, Paris,
 --
-   aspects juridiques, éthique et les risques d’abus.
+   le plus habituel, de l’usage des technologies statistiques et
+   mathématiques (probabilités et économétrie) qui caractérise la science
+   économique depuis sa révolution stochastique1. Il y a déjà en effet
+   toute une série de travaux très pertinents et démonstratifs sur ce
+   point, notamment celui tout récent de Michel Armatte, qui montrent que
+--
+   monnaie soit inutile, si ce n’est en tant que pur numéraire censé ne
+   jouer en rien dans les rapports « réels » de valeurs entre
+   marchandises. Ainsi, toute l’évolution historique des théories
+   économiques états-uniennes de l’après-guerre peut être lue comme une
+   série de tentatives successives et concurrentes pour neutraliser cette
+--
+       Columbia University, mimeo, 2000.
+     * 7 Mehrling Perry, The Development of Macroeconomics and the
+       Revolution in Finance, Barnard College, (...)
 
-   Un marketing plus ciblé : l’évolution vers une activité Internet plus
-   réfléchie et le désir d’éviter de « perdre du temps » continueront à
-   remodeler les activités en ligne. Cette évolution sera intéressante en
-   soi, mais elle pourrait avoir des implications particulières pour les
-   annonceurs. Les utilisateurs n’auront peut-être que peu de possibilités
+   4L’évolution des théories économiques dominantes. 125 Le champ de
+   l’économie académique connaît une première restructuration aux
+   États-Unis dès les années 1950 et 1960 à partir d’une nouvelle
+--
+   ce qui rend en théorie totalement inutile et même préjudiciable toute
+   intervention de la puissance publique.
+     * 10 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », in
+       Research Paper, n° 8508, Federal R (...)
+
+--
+   7Cette conception autrichienne de la monnaie en tant qu’institution
+   fondamentale du capitalisme, produit de la main invisible de la
+   concurrence, a connu également une évolution dans les années 1970 avec
+   la radicalisation dans un sens libertarien de la pensée de Hayek et ses
+   propositions de dénationalisation des monnaies. En prônant
+--
+   origines (attracteur I).
+     * 14 Mehrling Perry, The Development of Macroeconomics and the
+       Revolution in Finance, op. cit.
+
+   14Ainsi, à la synthèse keynésiano-néoclassique qui fournissait un
+   référentiel commun y compris pour les monétaristes friedmaniens et les
+   « autrichiens » partisans du free-banking, succèdent de nouveaux
+   compromis discursifs permis d’une part par des évolutions propres à
+   chacun des paradigmes préexistant, d’autre part par l’émergence de
+   l’attracteur qu’est la nouvelle sous-discipline de la financial
+--
+   économique néolibéral.
+
+   15Les évolutions internes aux anciens paradigmes prennent en fait la
+   forme d’une radicalisation des positions :
+     * Chez les néoclassiques, l’opposition à toute régulation étatique
+       s’impose avec le passage d’un monétarisme interventionniste à la
+       Friedman à un monétarisme libertaire à la Lucas15. Les monétaristes
+       connaissent en effet une « révolution  » Nouvelle Classique qui
+       fait que les « anticipations adaptatives » (Milton Friedman)
+       deviennent « rationnelles  » (John Muth, Robert E. Lucas, Edward C.
+--
+       plus aucune place à une quelconque régulation externe, la
+       concurrence étant vue comme le principe même de cette régulation
+       (elle est la solution et non pas le problème). Cette évolution
+       permet aux « autrichiens » de trouver un terrain d’entente avec la
+       New Monetary Economics qui émerge simultanément dans le sillon du
+--
+   25La question se pose donc de savoir si la science économique
+   contemporaine fait encore partie des sciences humaines et sociales.
+   L’évolution à partir des années 1970 des théories économiques et
+   financières dominantes, d’abord aux États-Unis puis plus largement dans
+   le monde, conduit en effet à penser que l’assimilation du discours
+--
+Notes
+
+   1 Mirowski Philip, « The Probabilistic Counter-Revolution, or How
+   Stochastic Concepts came to Neoclassical Economic Theory », in Oxford
+   Economic Papers, New Series, 41 (1), 1989, p. 217-235.
+--
+   University, mimeo, 2000.
+
+   7 Mehrling Perry, The Development of Macroeconomics and the Revolution
+   in Finance, Barnard College, Columbia University, mimeo, 26 août 2005,
+   se référant à Black Fisher, « Banking and the Interest Rates in a World
+--
+   Cahiers d’économie politique, n° 39, 2001, p. 89-106.
+
+   10 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », in
+   Research Paper, n° 8508, Federal Reserve Bank of Dallas, mimeo, 1985,
+   p. 17
+--
+   of Economic Affairs, (second extended edition) 1976, p. 87.
+
+   12 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », op.
+   cit.
+
+--
+   Money », op. cit.
+
+   14 Mehrling Perry, The Development of Macroeconomics and the Revolution
+   in Finance, op. cit.
+
+--
+
+   22 Yeager Leland, « Privatizing Money », in Cato Journal, vol. 30, n°
+   3, 2010, p. 417-438. L’évolution des théories économiques dominantes.
+
+   23 Voir le compliment admiratif que P. Samuelson adresse en 1990 à
+--
+   géographie, ar...
+
+   L’évolution de la théorie du droit (1970-2010)
+
+Lire
+--
+   Freemium
+   Suggérer l'acquisition à votre bibliothèque
+   L’évolution des théories économiques dominantes à partir des années
+   1970 : une approche à partir de la place que la monnaie y tient
+
+--
+
+   OpenEdition APA MLA
+   THÉRET, Bruno. L’évolution des théories économiques dominantes à partir
+   des années 1970 : une approche à partir de la place que la monnaie y
+   tient In : 1970-2010 : les sciences de l’Homme en débat [en ligne].
+--
+   <http://books.openedition.org/pupo/2805>. ISBN : 9782821851191. DOI :
+   https://doi.org/10.4000/books.pupo.2805.
+   Théret, B. 2013. L’évolution des théories économiques dominantes à
+   partir des années 1970 : une approche à partir de la place que la
+   monnaie y tient. In Inglebert, H., & Brailowsky, Y. (Eds.), 1970-2010 :
+   les sciences de l’Homme en débat. Presses universitaires de Paris
+   Nanterre. doi :10.4000/books.pupo.2805
+   Théret, Bruno. “L’évolution des théories économiques dominantes à
+   partir des années 1970 : une approche à partir de la place que la
+   monnaie y tient”. Inglebert, Hervé, et Yan Brailowsky. 1970-2010 : les
+--
+   2013. Web. <http://books.openedition.org/pupo/2784>.
+   Compatible avec Zotero
+   L’évolution des théories économiques dominantes à partir des années
+   1970 : une approche à partir de la place que la monnaie y tient
+
+--
+   …
+
+L’évolution des théories économiques dominantes à partir des années 1970 :
+une approche à partir de la place que la monnaie y tient
+

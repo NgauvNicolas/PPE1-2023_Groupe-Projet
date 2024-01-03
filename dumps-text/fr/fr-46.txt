@@ -1,1096 +1,304 @@
-   (BUTTON) Menu
-   enquêtes/études Mis à jour le 22 novembre 2023
-   CoviPrev : une enquête pour suivre l’évolution des comportements et
-   de...
-   (BUTTON) Rechercher une actualité, une publication, un
-   document...Rechercher
-   (BUTTON) Index
-   (BUTTON)
-   L'info accessible à tous
-     * Maladies et traumatismes
-     * Déterminants de santé
-     * La santé à tout âge
-     * Coronavirus (COVID-19)
+   #alternate alternate alternate alternate alternate alternate
 
-     * Publications
-     * Espace Presse
-     * Études et enquêtes
-     * A propos
-
-   L'info accessible à tous
-   Maladies et traumatismes
-     * Cancers
-     * Diabète
-     * Hépatites virales
-     * Infections associées aux soins et résistance aux antibiotiques
-     * Infections sexuellement transmissibles
-     * Maladies à prévention vaccinale
-     * Maladies à transmission vectorielle
-     * Maladies cardiovasculaires et accident vasculaire cérébral
-     * Maladies d'origine tropicale
-     * Maladies de la mère et de l'enfant
-     * Maladies et infections respiratoires
-     * Maladies hivernales
-     * Maladies infectieuses d'origine alimentaire
-     * Maladies liées au travail
-     * Maladies neurodégénératives
-     * Maladies transmissibles de l'animal à l'homme
-     * Santé mentale
-     * Stress post-traumatique
-     * Traumatismes
-
-   Déterminants de santé
-     * Alcool
-     * Climat
-     * Drogues illicites
-     * Exposition à des agents physiques
-     * Exposition à des substances chimiques
-     * Nutrition et activité physique
-     * Pollution et santé
-     * Santé sexuelle
-     * Tabac
-     * Vaccination
-     * Virus hivernaux
-     * Voyage
-
-   La santé à tout âge
-     * La santé à tout âge
-
-   (BUTTON)
-   Cancers
-
-   Les cancers représentent en France la première cause de décès chez
-   l’homme et la deuxième chez la femme. Santé Publique France copilote la
-   surveillance épidémiologique et participe à leur prévention.
-   Tout savoir sur Cancers
-     * Cancer du col de l'utérus
-     * Cancer du colon rectum
-     * Cancer du sein
-     * Cancers de la peau
-     * Mésothéliomes
-
-GÉODES
-
-   Suivez l'évolution du cancer en France et dans votre région
-   Accédez à GÉODES
-   Hépatites virales
-   Tout savoir sur Hépatites virales
-     * Hépatite A
-     * Hépatite C
-     * Hépatite E
-     * Hépatites aiguës pédiatriques d’origine inconnue
-     * Hépatites B et D
-
-GÉODES
-
-   Accédez à près de 300 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Infections associées aux soins et résistance aux antibiotiques
-   Tout savoir sur Infections associées aux soins et résistance aux
-   antibiotiques
-     * Infections associées aux soins
-     * Résistance aux antibiotiques
-
-GÉODES
-
-   Suivez l’évolution de la résistance aux antibiotiques en France et dans
-   votre région
-   Accédez à GÉODES
-   Infections sexuellement transmissibles
-
-   Les infections sexuellement transmissibles (IST) se transmettent
-   principalement lors des rapports sexuels. Il existe de nombreux virus
-   ou bactéries transmissibles de cette manière.
-   Tout savoir sur Infections sexuellement transmissibles
-     * Chlamydiae
-     * Gonococcie
-     * Hépatites B et D
-     * Infections à papillomavirus
-     * Syphilis
-     * VIH/sida
-
-   Maladies à prévention vaccinale
-     * Coqueluche
-     * Diphtérie
-     * Encéphalite à tiques
-     * Fièvre jaune
-     * Fièvres typhoïde et paratyphoïde
-     * Grippe
-     * Hépatite A
-     * Hépatites B et D
-     * Infections à papillomavirus
-     * Infections à pneumocoque
-     * Infections invasives à méningocoque
-     * Leptospirose
-     * Maladie à virus ebola
-     * Méningites à haemophilus influenzae de type B
-     * Oreillons
-     * Poliomyélite
-     * Rage
-     * Rougeole
-     * Rubéole
-     * Tétanos
-     * Tuberculose
-     * Varicelle
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Maladies à transmission vectorielle
-   Tout savoir sur Maladies à transmission vectorielle
-     * Bilharziose urogénitale
-     * Borréliose de lyme
-     * Chikungunya
-     * Dengue
-     * Encéphalite à tiques
-     * Fièvre jaune
-     * Paludisme
-     * West nile virus
-     * Zika
-
-   Maladies cardiovasculaires et accident vasculaire cérébral
-
-   Les maladies cardiovasculaires regroupent un ensemble de troubles
-   affectant le cœur et les vaisseaux.
-   Tout savoir sur Maladies cardiovasculaires et accident vasculaire
-   cérébral
-     * Accident vasculaire cérébral
-     * Anévrisme de l'aorte abdominale
-     * Hypercholestérolémie
-     * Hypertension artérielle
-     * Infarctus du myocarde
-     * Insuffisance cardiaque
-     * Maladie thromboembolique veineuse
-     * Maladies vasculaires de la grossesse
-     * Valvulopathies
-
-GÉODES
-
-   Suivez l’évolution des accidents vasculaires cérébraux en France et
-   dans votre région
-   Accédez à GÉODES
-   Maladies d'origine tropicale
-     * Chikungunya
-     * Dengue
-     * Fièvre jaune
-     * Fièvres typhoïde et paratyphoïde
-     * Maladie à virus ebola
-     * Paludisme
-     * Peste
-     * Zika
-
-   Maladies de la mère et de l'enfant
-     * Anomalies et malformations congénitales
-     * Bronchiolite
-     * Coqueluche
-     * Grippe
-     * Maladies vasculaires de la grossesse
-     * Mort inattendue du nourrisson
-     * Saturnisme de l'enfant
-     * Surdité permanente néonatale
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Maladies et infections respiratoires
-     * Asthme
-     * BPCO et insuffisance respiratoire chronique
-     * Bronchiolite
-     * Coqueluche
-     * Grippe
-     * Infection à coronavirus
-     * Infections à pneumocoque
-     * Légionellose
-     * Mésothéliomes
-     * Tuberculose
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Maladies hivernales
-     * Bronchiolite
-     * Gastro-entérites aiguës
-     * Grippe
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Maladies infectieuses d'origine alimentaire
-     * Botulisme
-     * Brucellose
-     * Campylobacter
-     * Choléra
-     * Fièvres typhoïde et paratyphoïde
-     * Gastro-entérites aiguës
-     * Hépatite A
-     * Hépatite E
-     * Listériose
-     * Maladie de Creutzfeldt-Jakob
-     * Poliomyélite
-     * Salmonellose
-     * Syndrome hémolytique et urémique pédiatrique
-     * Toxi-infections alimentaires collectives
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Maladies liées au travail
-
-   Dues à des expositions professionnelles, les principales maladies en
-   lien avec le travail sont surveillées par Santé publique France dans
-   l’objectif d’élaborer, avec les partenaires, les politiques publiques
-   de prévention.
-   Maladies liées au travail
-     * Asthme
-     * Maladie de Parkinson
-     * Maladie du motoneurone
-     * Maladies à caractère professionnel
-     * Mésothéliomes
-     * Souffrance psychique et épuisement professionnel
-     * Troubles musculo-squelettiques
-
-   Maladies neurodégénératives
-
-   Les maladies neurodégénératives sont des maladies chroniques
-   progressives qui touchent le système nerveux central. Santé publique
-   France en assure la surveillance épidémiologique.
-   Tout savoir sur les maladies Neurodégénératives
-     * Maladie d'Alzheimer et autres démences
-     * Maladie de Parkinson
-     * Maladie du motoneurone
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Maladies transmissibles de l'animal à l'homme
-     * Borréliose de lyme
-     * Brucellose
-     * Campylobacter
-     * Charbon
-     * Diphtérie
-     * Encéphalite à tiques
-     * Fièvre Q
-     * Grippe aviaire
-     * Grippe porcine
-     * Hantavirus
-     * Hépatite E
-     * Leptospirose
-     * Listériose
-     * Maladie à virus ebola
-     * Monkeypox
-     * Peste
-     * Rage
-     * Salmonellose
-     * Tularémie
-     * West nile virus
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Santé mentale
-
-   Selon l’Organisation mondiale de la santé, la santé est un état de
-   complet bien-être physique, mental et social, et ne consiste pas
-   seulement en une absence de maladie ou d’infirmité.
-   Tout savoir sur Santé mentale
-     * Autisme
-     * Dépression et anxiété
-     * Schizophrénie et autres troubles psychotiques
-     * Souffrance psychique et épuisement professionnel
-     * Suicides et tentatives de suicide
-
-A télécharger
-
-Santé mentale
-
-   Bulletins mensuels nationaux de l'analyse des indicateurs surveillés en
-   continu
-   Lire les derniers numéros
-   Traumatismes
-
-   Les traumatismes non intentionnels entraînent chaque année environ 40
-   000 décès, dont 21 000 décès suite à un accident de la vie courante et
-   plusieurs millions de recours aux urgences.
-   Tout savoir sur les traumatismes et accidents de la vie courante
-     * Brûlures
-     * Chute
-     * Noyade
-
-GÉODES
-
-   Suivez l'évolution des traumatismes en France et dans votre région
-   Accédez à GÉODES
-   Climat
-   Tout savoir sur Climat
-     * Changement climatique
-     * Fortes chaleurs, canicule
-     * Grand froid
-     * UV
-
-GÉODES
-
-   Suivez l'évolution des canicules au cours des années en France et dans
-   votre région
-   Accédez à GÉODES
-   Exposition à des agents physiques
-   Tout savoir sur Exposition à des agents physiques
-     * Amiante
-     * Nanomatériaux
-     * UV
-
-   Exposition à des substances chimiques
-
-   L’exposition à des substances chimiques présentes dans l’environnement
-   ou en milieu de travail peut avoir des conséquences néfastes sur la
-   santé. Santé publique France met en œuvre des dispositifs de
-   surveillance pour caractériser et évaluer leurs impacts sur la santé.
-   Tout savoir sur Exposition à des substances chimiques
-     * Monoxyde de carbone
-     * Perturbateurs endocriniens
-     * Pesticides
-
-GÉODES
-
-   Accédez à près de 800 indicateurs de santé sur tout le territoire
-   français.
-   Les indicateurs dans votre région
-   Pollution et santé
-   Tout savoir sur Pollution et santé
-     * Air
-     * Eau
-     * Sols
-
-GÉODES
-
-   Suivez l’évolution de l'impact de la pollution de l’air sur la santé en
-   France et dans votre région
-   Accédez à GÉODES
-   La santé à tout âge
-
-   A chaque âge correspondent des conditions de vie et des préoccupations
-   différentes. Il est donc cohérent de s’adresser différemment aux
-   personnes selon les différents âges de la vie.
-   EN SAVOIR PLUS
-     * Bien vieillir
-     * Enfants et jeunes
-     * Adultes et avancée en âge
-     * Les 1000 premiers jours
-
-Restez informé
-
-   Pour suivre notre actualité, abonnez-vous à nos newletters en
-   remplissant le formulaire ci-dessous
-   En savoir plus
-   AccueilÉtudes et enquêtes
-
-CoviPrev : une enquête pour suivre l’évolution des comportements et de la
-santé mentale pendant l'épidémie de COVID-19
-
-   Depuis le 23 mars 2020, Santé publique France a lancé l'enquête
-   CoviPrev en population générale afin de suivre l’évolution des
-   comportements (gestes barrières, confinement, consommation d’alcool et
-   de tabac, alimentation et activité physique) et de la santé mentale
-   (bien-être, troubles).
-   Mis à jour le 22 novembre 2023
-   (BUTTON) Imprimer
-   (BUTTON) Partager
-     *
-     * Facebook
-     * Twitter
-     * Linkedin
-     * Mail
-
-CoviPrev en régions : découvrez les points épidémiologiques
-
-   Données issues des dernières vagues de l'enquête portant sur la santé
-   mentale et l'adoption des mesures de prévention.
-     * Pays de la Loire
-     * Paca
-     * Bourgogne-Franche-Comté
-     * Centre Val de Loire
-     * Bretagne
-     * Normandie
-     * Occitanie
-     * Ile-de-France
-     * Grand-Est
-     * Auvergne-Rhône-Alpes
-     * Hauts-de-France
-     * Nouvelle-Aquitaine
-
-   Dans cet article
-     * Objectifs
-     * Méthode de l'enquête
-     * Contenu du questionnaire
-     * Exploitation des résultats
-     * Résultats : volet santé mentale
-     * Résultats : volet adoption des mesures de prévention pendant
-       l’épidémie de COVID-19
-     * Résultats : volet acceptabilité de la vaccination contre le
-       COVID-19 en population générale
-     * Résultats : volet évolution des usages de tabac et d’alcool pendant
-       le confinement
-     * Résultats : volet évolution du poids et de comportements liés à
-       l’alimentation pendant le confinement
-     * Résultats : volet évolution de l'activité physique et de la
-       sédentarité pendant et après le confinement
-     * Interview d'expert : 3 questions sur le volet santé mentale de
-       l'enquête
-
-   Face à l’épidémie de Covid-19 et depuis les mesures gouvernementales de
-   confinement du 16 mars 2020, comment les Français réagissent-ils ?
-   Comment cette crise sanitaire inédite modifie-t-elle les comportements,
-   les connaissances, les croyances ? Quel retentissement psychologique
-   dans la population ?
-
-   Santé publique France a lancé, avec BVA, l'enquête CoviPrev visant à
-   suivre l’évolution des comportements (gestes barrières, confinement) et
-   de la santé mentale en population générale (bien-être, troubles), ainsi
-   que leurs principaux déterminants. Elle sera répétée de façon régulière
-   pendant la période de confinement et de post confinement.
-
-Objectifs
-
-     * suivre l’adoption des mesures de protection et de la santé de la
-       population pendant la période de confinement et de déconfinement
-     * recueillir les informations nécessaires à l’orientation et à
-       l’ajustement des mesures de prévention
-     * surveiller les inégalités de santé
-     * capitaliser des connaissances utiles à la gestion de futures
-       pandémies
-
-Méthode de l'enquête
-
-     * Enquêtes quantitatives répétées sur échantillons indépendants
-     * Questionnaires auto-administrés à remplir en ligne sur système Cawi
-       (Computer Assisted Web Interview)
-     * Echantillons de 2 000 personnes de 18 ans et plus résidant en
-       France métropolitaine recrutés par access panel (Access Panel BVA)
-     * Échantillonnage par quotas (sexe, âge, catégorie
-       socio-professionnelles du répondant, région, catégorie
-       d’agglomération) redressé sur le recensement général de la
-       population 2016
-
-Contenu du questionnaire
-
-   Le questionnaire mesure d’une part, la connaissance et la mise en œuvre
-   des mesures de protection et, d’autre part, la santé mentale des
-   personnes pendant l'épidémie de COVID-19.
-
-   Ce module répond à l’objectif de pilotage des dispositifs de prévention
-   pendant la période épidémique. Il s’agit de suivre les déterminants les
-   plus susceptibles d’affecter à court terme la situation sanitaire,
-   notamment l’adoption des mesures de protection (déterminants de la
-   contagion) et la santé mentale, également susceptible de présenter un
-   fardeau supplémentaire pour le système de santé.
-
-   Caractéristiques sociodémographiques, connaissances, perceptions,
-   proximité à la maladie, conditions de vie pendant  l'épidémie
-   (confinement…) sont les principaux déterminants de l’adoption des
-   mesures de protection et de la santé mentale recueillis afin de
-   disposer d’informations pour identifier les cibles et leviers
-   d’intervention.
-
-   Le questionnaire comporte également de modules complémentaires sur les
-   addictions (alcool et tabac), la nutrition et l'activité physique qui
-   seront intégrés dans une ou plusieurs vagues de l’enquête, afin
-   d’évaluer plus largement l’impact de la situation sur la santé de la
-   population.
-
-Exploitation des résultats
-
-   À court terme, cette surveillance permettra de disposer d’un outil de
-   reporting pour ajuster les stratégies de communication et de prévention
-   des pouvoirs publics, notamment à destination des publics les plus
-   vulnérables.
-
-   À plus long terme, après la crise sanitaire, ce suivi d’indicateurs
-   sera utilisé pour produire et capitaliser des connaissances sur les
-   répercussions du Covid-19 en population générale, sur la santé mentale
-   et d’autres comportements de santé (consommations de substances
-   psychoactives, nutrition, activité physique).
-
-   La mise à disposition des résultats sera consécutive à chaque vague
-   d’enquête. Ils sont composés :
-     * d'une synthèse avec les résultats principaux ;
-     * de tableaux avec les résultats détaillés présentant les prévalences
-       et évolutions des indicateurs en fonction des caractéristiques
-       sociodémographiques, des conditions de vie liées à l’épidémie ainsi
-       que des analyses des déterminants cognitifs et de leurs évolutions
-       (perception de la maladie et des mesures de protection).
-
-Résultats
-
-   Les résultats de l'enquête CoviPrev couvrent les thématiques suivantes
-   : santé mentale, adoption des mesures de prévention, adhésion
-   vaccinale, addictions, alimentation et activité sportive.
-
-Santé mentale
-
-Synthèse des nouveaux résultats
-
-   Résultats de la vague 37 de l’enquête CoviPrev (11 au 18 septembre
-   2023)
-     * 79 % des Français déclarent avoir une perception positive de leur
-       vie en général [Tendance stable par rapport à la vague précédente,
-       comparable à la même période en 2022]
-     * 16 % des Français montrent des signes d’un état dépressif [Tendance
-       stable par rapport à la vague précédente, comparable à la même
-       période en 2022]
-     * 23 % des Français montrent des signes d’un état anxieux [Tendance
-       stable par rapport à la vague précédente, en baisse de 3 points par
-       rapport à la même période en 2022]
-     * 71 % des Français déclarent des problèmes de sommeil au cours des 8
-       derniers jours [Tendance stable par rapport à la vague précédente,
-       comparable à la même période en 2022]
-     * 10 % des Français ont eu des pensées suicidaires au cours de
-       l’année [Tendance stable par rapport à la vague précédente, en
-       baisse de 2 points par rapport à la même période en 2022]
-
-   A télécharger :
-     * Comment évolue la santé mentale des Français – Résultats de la
-       vague 37 de l’enquête CoviPrev
-     * Résultats des vagues précédentes
-
-Résultats détaillés
-
-   Prévalences et évolutions par indicateur
-     * Prévalences et évolutions des indicateurs de santé mentale pendant
-       l'épidémie de COVID-19
-     * Déterminants cognitifs et affectifs associés à l’anxiété, la
-       dépression, aux problèmes de sommeil et aux pensées suicidaires
-
-   Anxiété
-     * Prévalences et évolutions de l'anxiété selon les profils
-       sociodémographiques et les conditions de vie liées à l'épidémie
-
-   Dépression
-     * Prévalences et évolutions de la dépression selon les profils
-       sociodémographiques et les conditions de vie liées à l'épidémie
-
-   Problèmes de sommeil
-     * Prévalences et évolutions des problèmes de sommeil selon les
-       profils sociodémographiques et les conditions de vie liées à
-       l'épidémie
-
-   Pensées suicidaires
-     * Prévalences et évolutions des pensées suicidaires selon les profils
-       sociodémographiques et les conditions de vie liées à l'épidémie
-
-   Figure. Prévalences et évolutions des indicateurs de santé mentale et
-   des problèmes de sommeil (% pondérés). Enquête CoviPrev, France
-   métropolitaine, septembre 2023
-   Figure. Prévalences et évolutions des indicateurs de santé mentale et
-   des problèmes de sommeil (% pondérés). Enquête CoviPrev, France
-   métropolitaine, septembre 2023
-   Notes de lecture. Évolutions testées entre échantillons comparables en
-   termes de sexe, âge, CSP, taille d’agglomération et région
-   d’habitation. Lorsqu'une marque (rond) est pleine, la proportion est
-   significativement différente de celle de la vague précédente, test de
-   Wald ajusté, p<0,05. Lorsque la dernière proportion de la série est
-   associée à une étoile, cette proportion est significativement
-   différente de celle du premier point de la série (vague 1 ou 2 selon
-   l'indicateur), test de Wald ajusté, * : p<0,05 ; ** : p<0,01 ; *** :
-   p<0,001. HAD : Hospital Anxiety and Depression scale
-
-Adoption des mesures de prévention pendant l’épidémie de COVID-19
-
-Synthèse des nouveaux résultats
-
-   Les résultats présentés portent sur la vague 37 (11-18 septembre 2023).
-     * 15 % des participants déclarent porter le masque de façon
-       systématique en présence de personnes vulnérables.
-     * 60 % (stables) des répondants seraient prêts à continuer à
-       respecter ou à respecter plus souvent les gestes barrière en cas de
-       retour d’épidémie de Covid-19 (versus 25% en cas d’épidémie de
-       grippe).
-     * 74 % (stable) des participants éligibles à la nouvelle dose de
-       vaccin automnale contre la Covid-19 en raison de leur âge (≥65 ans)
-       ou de leur terrain (grossesse, comorbidités, obésité) déclarent
-       avoir l’intention de la recevoir.
-     * 49 % (stable) des participants à risque de formes graves de grippe
-       en raison de leur âge (≥65 ans) ou de leur terrain (comorbidités,
-       obésité) déclarent vouloir recevoir la vaccination contre la grippe
-       et contre la Covid-19.
-     * 31 % des répondants ayant eu des signes de Covid-19 depuis janvier
-       2023 n’ont pas fait de test de dépistage à la suite de leurs
-       symptômes.
-
-   A télécharger :
-     * Comment évolue l’adhésion des Français aux mesures de prévention
-       contre les virus de l'hiver ? Résultats de la vague 37 de l’enquête
-       CoviPrev
-     * Résultats des vagues précédentes
-
-Résultats détaillés
-
-   Adoption des mesures de prévention par indicateur
-   - Fréquences et évolutions des indicateurs d’adoption des mesures de
-   prévention pendant l'épidémie
-
-   Adoption systématique du port du masque en public
-   - Prévalences et évolutions de l'adoption systématique du port du
-   masque en public selon les profils sociodémographiques et les
-   conditions de vie liées à l'épidémie
-   Figure -Fréquences de l'adoption systématique déclarée des mesures de
-   prévention et évolutions (% pondérés). Enquête CoviPrev (vague 36, 5-12
-   décembre 2022), France métropolitaine
-   Figure - Fréquences de l'adoption systématique déclarée des mesures de
-   prévention et évolutions (% pondérés). Enquête CoviPrev (vague 36, 5-12
-   décembre 2022), France métropolitaine
-   Notes de lecture. Évolutions testées entre échantillons comparables en
-   termes de sexe, âge, CSP, taille d’agglomération et région
-   d’habitation. Lorsqu'une marque (rond) est pleine, la proportion est
-   significativement différente de celle de la vague précédente, test de
-   Wald ajusté, p<0,05.
-
-Acceptabilité de la vaccination contre le COVID-19 en population générale
-
-Synthèse des nouveaux résultats
-
-   Les résultats présentés portent sur la vague 37 (11-18 septembre 2023).
-     * 15 % des participants déclarent porter le masque de façon
-       systématique en présence de personnes vulnérables.
-     * 60 % (stables) des répondants seraient prêts à continuer à
-       respecter ou à respecter plus souvent les gestes barrière en cas de
-       retour d’épidémie de Covid-19 (versus 25% en cas d’épidémie de
-       grippe).
-     * 74 % (stable) des participants éligibles à la nouvelle dose de
-       vaccin automnale contre la Covid-19 en raison de leur âge (≥65 ans)
-       ou de leur terrain (grossesse, comorbidités, obésité) déclarent
-       avoir l’intention de la recevoir.
-     * 49 % (stable) des participants à risque de formes graves de grippe
-       en raison de leur âge (≥65 ans) ou de leur terrain (comorbidités,
-       obésité) déclarent vouloir recevoir la vaccination contre la grippe
-       et contre la Covid-19.
-     * 31 % des répondants ayant eu des signes de Covid-19 depuis janvier
-       2023 n’ont pas fait de test de dépistage à la suite de leurs
-       symptômes.
-
-   A télécharger :
-     * Comment évolue l’adhésion des Français aux mesures de prévention
-       contre la Covid-19 ? Résultats de la vague 37 de l’enquête CoviPrev
-     * Résultats des vagues précédentes
-
-   Évolution de la vaccination et des intentions de se faire vacciner
-   contre la COVID-19 (% pondérés). Enquête CoviPrev (vague 34), France
-   métropolitaine
-   Évolution de la vaccination et des intentions de se faire vacciner
-   contre la COVID-19 (% pondérés). Enquête CoviPrev (vague 33), France
-   métropolitaine
-   Évolution de l’adhésion vaccinale à la dose de rappel contre la
-   Covid-19 (dose de rappel reçue et intentions de le faire) selon les
-   classes d’âge (% pondérés). Enquête CoviPrev (vague 31), France
-   métropolitaine.
-   Évolution de l’adhésion vaccinale à la dose de rappel contre la
-   Covid-19 (dose de rappel reçue et intentions de le faire) selon les
-   classes d’âge (% pondérés). Enquête CoviPrev (vague 31), France
-   métropolitaine.
-
-Evolution des usages de tabac et d’alcool pendant le confinement
-
-Synthèse vague 2 (30 mars - 1er avril 2020)
-
-   Les analyses présentées portent sur les évolutions déclarées des
-   niveaux de consommation de tabac et d'alcool pendant le confinement.
-
-Evolution des usages de tabac
-
-   Parmi les fumeurs interrogés (n=422) :
-     * 27% déclarent que leur consommation de tabac a augmenté depuis le
-       confinement
-     * 55% qu’elle est stable
-     * 19% qu’elle a diminué
-
-   Les individus déclarant avoir augmenté leur consommation étaient
-   quasiment tous déjà fumeurs avant le confinement (94%). La hausse
-   moyenne du nombre de cigarettes fumées par les fumeurs quotidiens est
-   de 5 cigarettes par jour.
-
-   Les raisons mentionnées par les fumeurs déclarant avoir augmenté leur
-   consommation étaient dans l’ordre (n=104, plusieurs réponses possibles)
-   :
-     * l’ennui, le manque d’activité (74%)
-     * le stress (48%)
-     * le plaisir (10%)
-
-   L’augmentation de la consommation de tabac est plus fréquemment
-   mentionnée par :
-     * les 25-34 ans (41%)
-     * les actifs travaillant à domicile (37%)
-     * les femmes (31%)
-
-   L’augmentation de la consommation de tabac augmente avec le niveau
-   d’anxiété et elle est plus fréquente en cas de dépression probable ou
-   certaine.
-
-Evolution des usages d’alcool
-
-   Parmi les usagers d’alcool interrogés (n=1344) :
-     * 11% déclarent que leur consommation d’alcool a augmenté depuis le
-       confinement
-     * 65% qu’elle est stable
-     * 24% qu’elle a diminué
-
-   Les raisons mentionnées par les consommateurs d’alcool déclarant avoir
-   augmenté leur consommation étaient dans l’ordre :
-     * le plaisir (45%)
-     * l’ennui, le manque d’activité (32%)
-     * le stress (15%)
-
-   Ils sont 51% à déclarer avoir augmenté leur fréquence de consommation,
-   10% le nombre de verres bus les jours de consommation et 23% les deux
-   paramètres (notons que les données détaillées sont incohérentes pour
-   15% des répondants).
-
-   L’augmentation de la consommation d’alcool est plus fréquemment
-   mentionnée par :
-     * les moins de 50 ans (entre 14% et 17% selon les classes d’âge)
-     * les individus vivant dans une ville de plus de 100 000 habitants
-       (13%)
-     * Les parents d’enfants de moins de 16 ans (18%)
-
-   L’augmentation de la consommation d’alcool augmente avec le risque
-   d’anxiété et de dépression.
-
-Evolution du poids et de comportements liés à l’alimentation pendant le
-confinement
-
-Synthèse vague 3 (14-16 avril 2020)
-
-   Les analyses présentées portent sur les évolutions déclarées du poids,
-   du grignotage, du « cuisiner des plats-maison », de l’accessibilité des
-   produits alimentaires et de l’attention portée à son budget
-   alimentaire.
-
-   Evolution du poids
-
-   Parmi l’ensemble des personnes interrogées (n=2010) :
-     * 27% déclarent avoir pris du poids
-     * 11% en avoir perdu
-     * 62% avoir un poids stable
-
-   Avoir pris du poids est plus fréquemment mentionné :
-     * en cas de situation financière très difficile (36%)
-     * par les parents (34%)
-     * les moins de 40 ans (31%)
-     * par ceux mangeant en plus grande quantité (66%) et grignotant
-       davantage entre les repas (60%) que d’habitude
-     * en cas de troubles dépressifs (42%), de problèmes de sommeil (36%)
-       et de niveau élevé d’anxiété (37%)
-
-   Avoir perdu du poids est plus fréquemment mentionné :
-     * par les moins de 40 ans (14%)
-     * ceux mangeant en moindre quantité (33%) et grignotant moins (25%)
-       que d’habitude
-     * en cas de niveau élevé d’anxiété (14%)
-
-   Evolution du grignotage
-
-   Parmi l’ensemble des personnes interrogées (n=2010) :
-     * 22% déclarent grignoter entre les repas plus que d’habitude
-     * 17% moins que d’habitude
-     * 61% n’ont rien changé
-
-   Evolution du "cuisiner des plats-maison"
-
-   Parmi l’ensemble des personnes interrogées (n=2010) :
-     * 37% déclarent cuisiner des plats-maison plus que d’habitude
-     * 4% moins que d’habitude
-     * 59% n’ont rien changé
-
-   Evolution de l’accessibilité des produits alimentaires
-
-   Parmi l’ensemble des personnes interrogées (n=2010) :
-     * 57% déclarent trouver moins que d’habitude les aliments qu’ils
-       souhaitent dans les magasins
-     * 3% plus que d’habitude
-     * 40% autant qu’avant
-
-   Evolution de l’attention portée au budget alimentaire
-
-   Parmi l’ensemble des personnes interrogées (n=2010) :
-     * 23% portent plus d’attention que d’habitude à leur budget
-       alimentaire
-     * 14% moins que d’habitude
-     * 63% n’ont rien changé
-
-   Grignoter entre les repas plus que d’habitude, trouver moins que
-   d’habitude les aliments que l’on souhaite dans les magasins et porter
-   plus d’attention que d’habitude à son budget alimentaire est plus
-   fréquemment mentionné par les moins de 40 ans, les parents, les femmes,
-   en cas de situation financière très difficile.
-   C’est également le cas pour les personnes présentant des troubles
-   dépressifs, ayant des problèmes de sommeil et en cas d’anxiété.
-
-Évolution de l'activité physique et de la sédentarité pendant et après le
-confinement
-
-Synthèse vague 24 (17-19 mai 2021)
-
-   Indicateurs clés des niveaux d’activité physique et de sédentarité des
-   français lors de la vague 24 (17-19 mai 2021), un an après le
-   confinement strict de la population :
-     * 1 adulte sur 2 déclarait un niveau d’activité physique insuffisant,
-       inférieur aux recommandations [Pas d’évolution depuis la vague 6 en
-       période de confinement strict, marquant une persistance dans le
-       temps de la baisse d’activité physique des adultes malgré un
-       allègement des restrictions]
-     * 1 adulte sur 5 déclarait une sédentarité élevée, passant plus de 7
-       heures par jour en position assise [-12 points par rapport à la
-       période de confinement strict (vague 6) ; diminution observée
-       uniquement chez les personnes déclarant une continuité d’activité
-       professionnelle, hors personnes en situation de télétravail pour
-       qui aucune évolution du temps quotidien passé assis n’a été
-       relevée]
-
-   En savoir plus : Evolution des niveaux d’activité physique et de
-   sédentarité des Français un an après le confinement strict de 2020
-
-Synthèse vague 6 (4 au 6 mai 2020)
-
-   Les analyses présentées portent sur les prévalences et évolutions
-   déclarées de l'activité physique, du temps passé assis et du temps
-   passé devant un écran pendant le confinement (n=2000).
-
-Activité physique
-
-   Parmi l’ensemble des personnes interrogées :
-     * 57,6% ont fait moins des 30 min jour d’activité physique^1
-       recommandées pendant le confinement. Ceci a été plus fréquemment le
-       cas des femmes, des 25-49 ans, des moins diplômés, des parents
-       d’enfants de 16 ans ou moins et des personnes vivant en zone
-       urbaine.
-
-   Comparé à leurs pratiques d’avant le confinement :
-     * 47,4% des personnes ont déclaré une diminution de leur activité
-       physique dans son ensemble
-     * 58,9% une diminution de la marche
-     * 37,1% une diminution de leur activité sportive
-
-   Concernant l’activité sportive, 17,9% ont néanmoins déclaré une
-   augmentation de leur pratique, ceci de façon croissante au cours de la
-   période du confinement (15,4% des personnes interrogées du 14 au 16
-   avril).
-
-   Parmi les personnes ayant fait de l’activité sportive (n=1170) 32,7%
-   ont utilisé plus que d’habitude des applications, des vidéos ou la
-   télévision pour en faire.
-
-Sédentarité
-
-   Temps passé assis :
-     * Pendant le confinement, le temps moyen passé assis a été de 6h19
-       par jour
-     * Un tiers des personnes interrogées (33,4%) a déclaré passer plus de
-       7h assis par jour, plus fréquemment les 18-24 ans, les personnes
-       ayant travaillé à domicile pendant le confinement et les personnes
-       vivant en milieu urbain
-     * Une augmentation du temps passé assis a par ailleurs été perçue par
-       61,4% des personnes.
-
-   Rupture de sédentarité :
-     * 44,7% ont déclaré se lever plusieurs fois par heure, la
-       recommandation pendant le confinement étant de le faire au moins
-       toutes les demi-heures^2
-     * 55,3% s’est levé moins souvent, en particulier les 18-34 ans, les
-       plus diplômés, les personnes ayant travaillé à domicile pendant le
-       confinement, les personnes vivant en zone urbaine
-
-   Temps passé devant un écran pendant le temps libre :
-     * Le temps moyen passé devant un écran pendant le temps libre a été
-       de 5h par jour
-     * 23,0% des personnes interrogées ont déclaré y consacrer 7h ou plus
-       par jour, plus fréquemment les 18-24 ans, les moins diplômés, les
-       personnes n’ayant pas travaillé pendant le confinement et les
-       personnes vivant en milieu urbain
-     * Une augmentation du temps d’écran pendant le temps libre a été
-       déclarée par 59,0% des personnes
-
-Santé mentale, activité physique et sédentarité
-
-   Une moindre pratique d’activité physique, un temps passé assis élevé,
-   une rupture de sédentarité peu fréquente et un temps passé devant un
-   écran pour les loisirs ont été plus fréquemment déclarées par :
-     * les personnes anxieuses
-     * les personnes ayant des troubles dépressifs
-     * les personnes ayant des problèmes de sommeil
-
-   1 L’activité physique inclut les activités faites au travail, au
-   domicile ou dans le jardin, pour les déplacements ou lors des activités
-   sportives ou de loisirs.
-   2 Avis de l’Agence nationale de sécurité sanitaire de l’alimentation,
-   de l’environnement et du travail relatif à l’évaluation des risques
-   liés à la réduction du niveau d’activité physique et à l’augmentation
-   du niveau de sédentarité en situation de confinement. Maisons-Alfort,
-   2020. 22 p.
-
-Résultats détaillés (vague 6 : 4 au 6 mai 2020)
-
-     * Activité physique inférieure à 30 min par jour selon les profils
-       sociodémographiques (% pondérés)
-     * Temps passé assis supérieur à 7 heures par jour selon les profils
-       sociodémographiques (% pondérés)
-     * Temps passé devant un écran pendant le temps libre supérieur à 7
-       heures par jour selon les profils sociodémographiques (% pondérés)
-
-3 questions à Enguerrand du Roscoat, responsable de l'unité santé mentale,
-direction de la prévention et de la promotion de la santé à Santé publique
-France
-
-Pourquoi la santé mentale est-elle si importante en période de confinement ?
-
-   La santé mentale, en particulier les troubles anxieux, sont identifiés
-   dans les publications internationales comme un risque majeur lié à la
-   situation épidémique (peur de la maladie pour soi et son entourage) et
-   aux conditions de vie en période de confinement (promiscuité, isolement
-   social, perte de salaire, frustration…). Il est ainsi prioritaire de
-   maintenir un niveau minimal de bien-être et de prévenir à court terme
-   le développement de troubles au sein de la population afin de limiter
-   la sollicitation du système de santé et en particulier des hôpitaux et
-   des urgences par l’afflux des personnes présentant des symptômes
-   d’anxiété ou de stress aigus. Enfin, une dégradation de la santé
-   mentale pourrait avoir des conséquences sur l’adoption d’habitudes de
-   vie défavorables (consommation d’alcool et autres substances
-   psychoactives, nutrition, sommeil…), contribuer à l’augmentation des
-   violences (notamment intrafamiliale) ou encore participer au fardeau
-   économique (arrêts de travail…).
-
-Quelles informations recherchez-vous en particulier ?
-
-   Nous cherchons à estimer l’état de bien-être et la prévalence de
-   troubles psychiques (en particulier anxio-dépressifs) au sein de la
-   population, à identifier les segments de population les plus
-   vulnérables et à en suivre l’évolution afin de veiller à ce que les
-   inégalités ne se creusent pas pendant la période de confinement.
-
-Après l’enquête, quelles actions concrètes ?
-
-   L’analyse des données recueillies après chaque vague ainsi que leurs
-   évolutions nous permettront de mieux répondre aux besoins.
-   L’identification des populations les plus vulnérables et des facteurs
-   associés au bien-être, au mal-être ou aux troubles, sera utile pour
-   mieux orienter et cibler l’offre de prévention.
-
-Campagne santé mentale et coronavirus : 'En parler, c’est déjà se soigner'
-
-     * écouter les spots audios
-          + pour les jeunes
-          + pour les adultes
-          + pour les séniors
-     * voir les vidéos stories
-          + pour les jeunes
-          + pour les adultes
-          + pour les séniors
-     * voir le spot TV de la campagne
-
-COVID-19 : prendre soin de sa santé mentale pendant l'épidémie
-
-   L’épidémie liée au coronavirus et le confinement ont un impact sur
-   notre vie quotidienne, notre santé physique et mentale. Comment gérer
-   sa santé...
-   En savoir plus
-
-Restez informés sur l'épidémie de COVID-19, France et Monde
-
-   Points de situation, questions-réponses, interviews d'experts... tout
-   savoir sur l’infection au nouveau coronavirus (SARS-CoV-2), COVID-19,
-   en France et dans le Monde
-   En savoir plus
-
-Précédents résultats de l'enquête CoviPrev : vagues 1 à 15
-
-   Consultez les résultats des vagues précédentes de l'enquête
-   CoviPrev concernant la santé mentale et l'adoption des mesures de
-   protection.
-   Voir les résultats précédents
-
-Nous écrire par email
-
-   Vous avez une question, une demande (changement de coordonnées, presse,
-   reproduction de documents, demande de stages, données à caractère
-   personnel…), écrivez-nous par mail
-   Civilité
-   (*) Madame
-   ( ) Monsieur
-   Veuillez renseigner votre civilité
-   Votre prénom ____________________
-   Votre nom ____________________
-   Veuillez renseigner votre prénom
-   Veuillez renseigner votre nom
-   Votre courriel ____________________
-   Veuillez renseigner votre email
-   Votre email n'est pas valide
-   Objet de votre demande[Objet de la demande__________________]
-   Veuillez renseigner l'objet de votre demande
-   Votre message
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Veuillez renseigner votre message
-   Veuillez cocher le recaptcha a
-   (BUTTON) Envoyer mon message
-   Réinitialiser
-   Une erreur s'est produite, veuillez réessayer ultérieurement
-
-Votre demande a bien été envoyée
-
-   Nos services
-   Vaccination info service Logo du site de prévention Les 1000 premiers
-   jours Manger bouger Alcool info service Drogues info service Joueurs
-   info service Logo du site de prévention Question sexualité Sexosafe
-   Pour bien vieillir Tabac info service
-   Suivez-nous
-     *
+   ____________________ (BUTTON)
      *
      *
      *
      *
 
-   © Santé Publique France - Tous droits réservés
-     * Mentions légales
-     * Cookies
-     * Accessibilité
-     * Offres d'emploi
-     * Plan du site
-     * Nous contacter
-     * Presse
-     * S'abonner aux newsletters
+   Logo Image
+     * Développement durable
+     * Transition énergétique
+     * Agriculture
+     * Biodiversité
+     * Résistance
+     * À propos
 
-   ____________________ (BUTTON) Rechercher ...
-   Dans vos recherches
-     * Cancer du sein (BUTTON)
+   Blog Image
+   Biodiversité
+     * 21 mars 2022
 
-   Recherches les plus populaires
-     * Alcool
-     * Coronavirus
-     * Dengue
-     * Grippe
-     * Maladies à déclaration obligatoire
-     * Nutri-Score
-     * Vaccination
+La culture, moteur de l’évolution sur Terre
 
-   Vous voulez dire
-     * Maladie de Creutzfeld-Jacob
+     « Les dernières décennies ont révélé que l’apprentissage social et
+     la transmission des traditions culturelles sont beaucoup plus
+     répandus dans le règne animal que ce que l’on soupçonnait
+     auparavant, affectant de nombreuses formes de comportement
+     fonctionnel et créant une forme secondaire d’évolution qui s’ajoute
+     à la forme primaire mieux connue basée sur la génétique^[1]. »
 
-   Suggestions
+     – Andrew Whiten, Francisco J. Ayala, Marcus W. Feldman, et Kevin N.
+     Laland, « The extension of biology through culture », revue PNAS,
+     2017.
 
-   Un instant...
+   Après avoir nié son existence durant des décennies, les scientifiques
+   découvrent enfin que la culture influence considérablement l’évolution
+   du vivant. En explorant la vie intime des cachalots, des perroquets
+   aras et des chimpanzés, l’écologue écrivain Carl Safina révèle dans À
+   l’école des animaux (2020) cette facette du monde vivant délibérément
+   ignorée par la science. En effet, les biologistes influents décrivent
+   l’histoire naturelle comme un mouvement mécanique où les espèces
+   « gagnantes » sont celles qui exploitent mieux l’énergie disponible
+   dans leur environnement que les espèces « perdantes » ; les espèces
+   sont réduites à un ensemble uniforme de clones ou de machines programmé
+   par un code – le génome – dans l’unique but de transmettre cette
+   information génétique aux générations suivantes.
 
-   Nous cherchons les réponses les plus pertinentes pour votre recherche.
-   (BUTTON)
+   Pourtant, selon le biologiste Kevin Laland :
+
+     « Dans son livre On Human Nature (1978), le biologiste
+     évolutionniste Edward O. Wilson affirmait que la culture humaine est
+     tenue en laisse par la génétique. Cette métaphore était contestée
+     pour deux raisons. Premièrement, comme nous le verrons plus loin, la
+     culture tient tout autant les gènes en laisse. Deuxièmement, s’il
+     doit exister des caractères génétiques facilitant l’apprentissage
+     culturel, peu de différences culturelles peuvent être expliquées par
+     des différences génétiques sous-jacentes^[2]. »
+
+   Les formes de vie complexes apprennent et se transmettent des
+   connaissances essentielles à leur survie au sein d’un habitat donné.
+   Pour la même espèce, ces connaissances apprises socialement varient en
+   fonction des habitats, et parfois au sein du même habitat. Au sein
+   d’une même espèce, différents groupes aux traditions culturelles
+   variables se forment et ont tendance à s’éviter. Le concept d’identité
+   n’est pas l’apanage de l’espèce humaine, de même que le sens de
+   l’esthétique. Les animaux savent reconnaître et apprécier la beauté,
+   effectuant des choix arbitraires en ce sens qui peuvent conduire à
+   l’émergence de nouvelles espèces. L’évolution du vivant sur Terre est
+   infiniment plus complexe que l’inepte discours dominant dépeignant une
+   guerre permanente pour la survie du plus apte. Il s’agit seulement
+   d’une transposition du fonctionnement de la civilisation industrielle à
+   celui de la nature, en somme, un ethnocentrisme appliqué à l’ensemble
+   du monde vivant. Mais la civilisation produit de l’uniformité
+   biologique et culturelle, et l’évolution, de la diversité biologique et
+   culturelle^[3]. Donc il y a manifestement un problème avec le discours
+   hégémonique en Occident de l’histoire des espèces, et par extension,
+   avec celui relatant l’histoire de l’espèce humaine.
+
+   Pour Carl Safina, l’aptitude à reconnaître et apprécier la beauté –
+   « l’agentivité esthétique » – a probablement guidé l’évolution pour
+   produire le « miracle » qui nous sert de maison.
+
+     « Le goût du beau est une faculté profonde, qui nous a été léguée
+     par un passé d’une inconcevable ancienneté et que partagent à
+     différents degrés de nombreuses créatures. Il me semble que le
+     sentiment du beau existe pour permettre aux êtres vivants de se
+     sentir chez eux, heureux et en vie, ici, sur notre Terre. S’il
+     existe un plus grand miracle que l’existence de la vie, c’est que la
+     Vie a créé pour elle-même le sentiment de la beauté. »
+
+   Malgré le titre original « Becoming Wild » étrangement traduit par « À
+   l’école des animaux » dans sa version française – l’éditeur allemand a
+   préféré Der Kultur der wilden Tiere (« La culture des animaux
+   sauvages ») – et une traduction parfois trop littérale comptant
+   quelques erreurs, ce livre vaut le détour. Pour Pierre Jouventin,
+   directeur de recherche émérite au CNRS, Carl Safina est un « excellent
+   pédagogue » qui « sait rendre compréhensibles et amusants des concepts
+   complexes de biologie évolutive et d’écologie comportementale^[4]. »
+   Professeur d’écologie à la Stony Brook University de New York et auteur
+   de plusieurs ouvrages à succès, Carl Safina mêle connaissances
+   scientifiques, poésie et philosophie. La structure du livre en trois
+   parties – la « famille », la « beauté » et la « paix » chez les animaux
+   – dénote par rapport à d’autres ouvrages de spécialistes qui accuseront
+   certainement Carl Safina d’anthropomorphisme – « l’attribution
+   d’émotions humaines à des créatures non humaines ». Il s’en défend :
+   « Je n’attribue rien. J’observe. » Carl Safina se différencie de ses
+   collègues qui brillent bien souvent par leur arrogance extrême et leur
+   cécité chronique (voir les âneries du célèbre biologiste Edward O.
+   Wilson dans son livre Half-Earth^[5]). La science moderne réduit
+   généralement la biosphère à une gigantesque machinerie dont on pourrait
+   comprendre le fonctionnement – et éventuellement prendre le contrôle –
+   en décrivant ses rouages faits de réactions chimiques et de lois
+   physiques.
+
+     « [La séquestration du carbone par l’intermédiaire des interactions
+     entre êtres vivants] n’a rien à voir avec Gaïa ni avec un massage
+     aux herbes ; c’est de la chimie et de la physique^[6]. »
+
+     – Greg Asner, co-auteur du Global Deal for Nature, un accord
+     international soutenu par de nombreux industriels, institutions
+     étatiques et supra-étatiques, mais très critiqué par les défenseurs
+     des peuples premiers et quelques rebelles dans le milieu de la
+     conservation de la nature.
+
+     « La science moderne apparente l’être humain à une machine, ça ne
+     fait aucun doute^[7]. »
+
+     – Rodney Brooks, ancien professeur de robotique au MIT.
+
+   Au sein de la communauté scientifique, il existe pourtant depuis
+   plusieurs années un débat sur la nécessité d’une mise à jour de la
+   théorie de l’évolution pour y intégrer les effets du développement des
+   organismes et de l’information apprise et transmise au sein des groupes
+   sociaux. La revue Nature publiait par exemple en 2014 un article
+   intitulé « Does evolutionary theory need a rethink ? » où le biologiste
+   évolutionniste Kevin Laland et ses collègues dénonçaient les angles
+   morts de « la théorie dominante de l’évolution » qui, depuis des
+   décennies, « s’est concentrée presque exclusivement sur l’héritage
+   génétique et les processus qui modifient les fréquences des
+   gènes^[8]. »
+
+   Carl Safina montre qu’à la biodiversité (ou diversité biologique)
+   s’ajoute un autre niveau de diversité largement passé sous silence, la
+   diversité culturelle. Si cela est vrai pour de très nombreux
+   mammifères, dont nos plus proches parents les chimpanzés, ça l’est tout
+   autant pour Homo sapiens. Le Progrès, le développement, ce processus
+   d’acculturation que subit l’humanité sous l’influence croissante des
+   forces marchandes et technologiques, uniformise le monde depuis
+   plusieurs siècles ; biologiquement, en exterminant les espèces non
+   humaines incapables de s’adapter aux perturbations permanentes et
+   croissantes générées par le progrès technique ; et culturellement, en
+   exterminant les cultures non humaines et humaines. De nombreux peuples
+   (Waorani, Kayapo, Lakota, etc.) résistent depuis maintenant plus de 500
+   ans à ce génocide qui s’est grandement accéléré au cours de l’âge
+   industriel^[9]. La civilisation industrielle n’est pas le produit de la
+   nature humaine, mais d’une unique culture détraquée enfantée par une
+   poignée d’élites européennes^[10] déconnectées de la réalité qui
+   reproduisent leur culture – donc leur statut et leurs privilèges – en
+   amalgamant civilisation et évolution. La diversité humaine montre qu’il
+   existe une infinité d’autres manières de faire société et d’habiter ce
+   monde. Pour terminer, si l’évolution produit de la diversité biologique
+   et culturelle, et si la civilisation industrielle fait exactement
+   l’inverse^[11], on peut raisonnablement conclure que la civilisation
+   industrielle est la plus grande régression depuis l’aube de l’humanité.
+
+   Extrait du livre de Carl Safina :
+
+     « Quand nous pensons à la culture, c’est avant tout aux cultures
+     humaines, à notre culture. Nous pensons à des ordinateurs, à des
+     avions, des modes, des équipes sportives et des pop stars. Pendant
+     la majeure partie de l’histoire culturelle humaine, rien de tout
+     cela n’a pourtant existé. Pendant des centaines de milliers
+     d’années, aucune culture humaine n’a eu d’outil à éléments mobiles.
+     Jusqu’à une date avancée du XXe siècle, des tropiques à l’Arctique,
+     les membres de différentes cultures humaines, en quête de
+     nourriture, ont continué à utiliser des outils de pierre, de bois et
+     d’os dans leur recherche alimentaire. Nous pouvons plaindre les
+     chasseurs-cueilleurs pour la simplicité étriquée de leur existence,
+     mais nous aurions tort. Ils détenaient un riche savoir,
+     connaissaient les secrets profonds de leurs territoires et des
+     créatures qui y vivaient. Et ils menaient des existences riches et
+     gratifiantes ; nous le savons parce que lorsque leurs habitudes ont
+     été menacées, ils ont lutté jusqu’à la mort pour les conserver.
+     Malheureusement, c’est encore vrai de nos jours, où les dernières
+     populations tribales battent en retraite devant les exploitations
+     minières et forestières, devant les éleveurs de bétail et les
+     planteurs qui font plus grand cas de l’argent que de l’humanité –
+     la caractéristique la plus marquante peut-être de notre culture.
+     Nous vivons la fin de leur temps et, à divers degrés, nous
+     contribuons tous à cette fin. En dernière analyse, nos valeurs
+     pourraient même se révéler autodestructrices.
+
+     On a sous-évalué l’importance de la diversité culturelle dans la
+     famille humaine. De nombreuses cultures ont disparu. Quant à
+     l’importance de la culture dans le monde non humain, elle est passée
+     quasiment inaperçue. La prise de conscience de cette lacune n’en est
+     encore qu’à ses balbutiements. Au cours de la dernière trentaine
+     d’années, on a considéré que la diversité de l’ensemble des êtres
+     vivants, la “biodiversité”, se manifestait à trois niveaux majeurs :
+     la diversité génétique au sein de chaque espèce, la diversité entre
+     les espèces et la diversité des habitats (prairies, forêts, déserts,
+     océans, etc.). Il existe pourtant un quatrième niveau de diversité
+     vivante, que l’on commence à peine à reconnaître : la diversité
+     culturelle. La culture se définit par un ensemble de savoirs et de
+     compétences qui se transmettent d’un individu à l’autre et de
+     génération en génération. Elle s’acquiert socialement. Les individus
+     l’apprennent d’autres individus. C’est un savoir qui ne découle pas
+     du seul instinct. Les gènes ne participent pas à sa transmission. La
+     culture, c’est ce qui est appris et partagé. Nos études de la
+     diversité du vivant commencent à peine à admettre que ce qui est
+     appris et partagé est souvent essentiel à la survie.
+
+     Un bébé cachalot a beaucoup de choses à apprendre. L’art de la
+     plongée en profondeur s’acquiert avec le temps. Les jeunes s’y
+     initient en accompagnant leur mère et d’autres adultes. Avant d’être
+     capables d’utiliser leur propre sonar, ils écoutent probablement les
+     retours d’échos des sonars des membres adultes de leur famille, ils
+     en tirent des informations et assimilent les sons de détection, et
+     ceux de poursuite. D’autres questions exigent également des
+     réponses. Au milieu de ces courants et de ces pentes sous-marines,
+     où la chasse est-elle la plus fructueuse ? Comment voyageons-nous ?
+     Où allons-nous aux changements de saison ? Peut-être tout cela
+     doit-il être appris. Peut-être, toujours comme les éléphants, se
+     fient-ils aux connaissances de leurs aînés pour savoir où se diriger
+     lorsque la nourriture vient à manquer. Mais comment pouvons-nous,
+     nous, humains, repérer parmi les comportements et les compétences
+     des cachalots ceux qui n’existent que parce qu’ils ont été appris
+     d’autrui ?
+
+     Un comportement est culturel dès qu’il ne s’agit pas d’une pratique
+     universelle. Tout le monde mange ; manger n’est donc pas culturel.
+     Tout le monde ne mange pas avec des baguettes ; les baguettes font
+     donc partie de la culture. Tous les chimpanzés grimpent aux arbres ;
+     ce n’est pas culturel. Certaines populations de chimpanzés cassent
+     des fruits à coque avec un marteau et une enclume de pierre, mais
+     toutes les populations qui vivent dans des lieux où poussent des
+     fruits à coque ne les cassent pas. C’est culturel. Les variations de
+     coutumes, de traditions, de pratiques et d’outillage en fonction des
+     groupes, ces différences révèlent ce qui est culturel. »
+
+   Philippe Oberlé
+     __________________________________________________________________
+
+    1. https://www.pnas.org/doi/10.1073/pnas.1707630114 ↑
+    2. https://greenwashingeconomy.com/une-mise-a-jour-de-la-theorie-de-le
+       volution-est-necessaire/ ↑
+    3. https://www.partage-le.com/2021/11/25/evolution-contre-civilisation
+       -diversite-contre-uniformite-philippe-oberle/ ↑
+    4. https://www.pourlascience.fr/sd/ethologie/a-l-ecole-des-animaux-222
+       82.php ↑
+    5. https://greenwashingeconomy.com/half-earth-sanctuariser-la-moitie-d
+       e-la-terre-un-projet-utopique-ecofasciste-et-technocratique/ ↑
+    6. https://www.globaldealfornature.org/science/ ↑
+    7. Extrait d’un entretien diffusé dans le documentaire Welcome to the
+       machine réalisé par Avi Weider. ↑
+    8. https://www.nature.com/articles/514161a ↑
+    9. https://www.cambridge.org/core/journals/evolutionary-human-sciences
+       /article/cultural-extinction-in-evolutionary-perspective/035F093515
+       E2A445FCA0D78DA542075B ↑
+   10. Voir Thomas C. Patterson, L’invention de la civilisation
+       occidentale, 1997. ↑
+   11. https://www.partage-le.com/2021/11/25/evolution-contre-civilisation
+       -diversite-contre-uniformite-philippe-oberle/ ↑
+
+   Print Friendly, PDF & Email
+   Tweetez
+   Partagez
+   Partagez
+   Enregistrer
+   0 Partages
+     * Biodiversité
+     __________________________________________________________________
+
+Sur le même thème
+
+   Blog Image
+   biodiversite
+
+Sur l’origine de la beauté dans la nature
+
+   9 novembre 2023
+   Blog Image
+   biodiversite
+
+Déconstruire notre imaginaire ne sauvera pas la planète
+
+   18 octobre 2023
+   Blog Image
+   biodiversite
+
+Évolution : « La culture est plus puissante que l’ADN »
+
+   30 mai 2023
+   Blog Image
+   biodiversite
+
+Le rôle des perturbations dans l’évolution
+
+   22 mai 2023
+
+   Greenwashing Economy   |    Plan de site
+     *
+     *
+     *
+     *

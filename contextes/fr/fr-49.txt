@@ -1,89 +1,56 @@
-     * 21 mars 2022
 
-La culture, moteur de l’évolution sur Terre
+   Blogue informatique
+   Vous êtes ici : Accueil1 / Blogue informatique2 / Blogue3 / L’évolution
+   de la technologie et son effet sur les entreprises
 
-     « Les dernières décennies ont révélé que l’apprentissage social et
---
-     répandus dans le règne animal que ce que l’on soupçonnait
-     auparavant, affectant de nombreuses formes de comportement
-     fonctionnel et créant une forme secondaire d’évolution qui s’ajoute
-     à la forme primaire mieux connue basée sur la génétique^[1]. »
+   Blogue
 
---
+L’évolution de la technologie et son effet sur les entreprises
 
-   Après avoir nié son existence durant des décennies, les scientifiques
-   découvrent enfin que la culture influence considérablement l’évolution
-   du vivant. En explorant la vie intime des cachalots, des perroquets
-   aras et des chimpanzés, l’écologue écrivain Carl Safina révèle dans À
---
+   (Last Updated On: septembre 29, 2023)
 
-     « Dans son livre On Human Nature (1978), le biologiste
-     évolutionniste Edward O. Wilson affirmait que la culture humaine est
-     tenue en laisse par la génétique. Cette métaphore était contestée
-     pour deux raisons. Premièrement, comme nous le verrons plus loin, la
---
-   l’esthétique. Les animaux savent reconnaître et apprécier la beauté,
-   effectuant des choix arbitraires en ce sens qui peuvent conduire à
-   l’émergence de nouvelles espèces. L’évolution du vivant sur Terre est
-   infiniment plus complexe que l’inepte discours dominant dépeignant une
-   guerre permanente pour la survie du plus apte. Il s’agit seulement
---
-   celui de la nature, en somme, un ethnocentrisme appliqué à l’ensemble
-   du monde vivant. Mais la civilisation produit de l’uniformité
-   biologique et culturelle, et l’évolution, de la diversité biologique et
-   culturelle^[3]. Donc il y a manifestement un problème avec le discours
-   hégémonique en Occident de l’histoire des espèces, et par extension,
---
-
-   Pour Carl Safina, l’aptitude à reconnaître et apprécier la beauté –
-   « l’agentivité esthétique » – a probablement guidé l’évolution pour
-   produire le « miracle » qui nous sert de maison.
+   La technologie a toujours joué un rôle central dans l’évolution des
+   entreprises. Depuis l’ère industrielle jusqu’à aujourd’hui, les
+   avancées technologiques ont constamment remodelé la façon dont les
+   entreprises fonctionnent, produisent et interagissent avec leurs
+   clients. Dans cet article, nous explorerons l’évolution de la
+   technologie et son impact sur les entreprises.
 
 --
-   Au sein de la communauté scientifique, il existe pourtant depuis
-   plusieurs années un débat sur la nécessité d’une mise à jour de la
-   théorie de l’évolution pour y intégrer les effets du développement des
-   organismes et de l’information apprise et transmise au sein des groupes
-   sociaux. La revue Nature publiait par exemple en 2014 un article
-   intitulé « Does evolutionary theory need a rethink ? » où le biologiste
-   évolutionniste Kevin Laland et ses collègues dénonçaient les angles
-   morts de « la théorie dominante de l’évolution » qui, depuis des
-   décennies, « s’est concentrée presque exclusivement sur l’héritage
-   génétique et les processus qui modifient les fréquences des
---
-   poignée d’élites européennes^[10] déconnectées de la réalité qui
-   reproduisent leur culture – donc leur statut et leurs privilèges – en
-   amalgamant civilisation et évolution. La diversité humaine montre qu’il
-   existe une infinité d’autres manières de faire société et d’habiter ce
-   monde. Pour terminer, si l’évolution produit de la diversité biologique
-   et culturelle, et si la civilisation industrielle fait exactement
-   l’inverse^[11], on peut raisonnablement conclure que la civilisation
---
-    2. https://greenwashingeconomy.com/une-mise-a-jour-de-la-theorie-de-le
-       volution-est-necessaire/ ↑
-    3. https://www.partage-le.com/2021/11/25/evolution-contre-civilisation
-       -diversite-contre-uniformite-philippe-oberle/ ↑
-    4. https://www.pourlascience.fr/sd/ethologie/a-l-ecole-des-animaux-222
---
-       machine réalisé par Avi Weider. ↑
-    8. https://www.nature.com/articles/514161a ↑
-    9. https://www.cambridge.org/core/journals/evolutionary-human-sciences
-       /article/cultural-extinction-in-evolutionary-perspective/035F093515
-       E2A445FCA0D78DA542075B ↑
-   10. Voir Thomas C. Patterson, L’invention de la civilisation
-       occidentale, 1997. ↑
-   11. https://www.partage-le.com/2021/11/25/evolution-contre-civilisation
-       -diversite-contre-uniformite-philippe-oberle/ ↑
+L’Ère Industrielle :
 
+   L’histoire de l’industrie moderne a commencé avec la révolution
+   industrielle au XVIIIe siècle, marquée par l’invention de la machine à
+   vapeur. Cette avancée a permis la mécanisation de la production,
 --
-   biodiversite
-
-Évolution : « La culture est plus puissante que l’ADN »
-
-   30 mai 2023
+   Le XXIe siècle a vu l’avènement de l’ère numérique, caractérisée par
+   l’explosion de l’Internet et des technologies de communication. Les
+   entreprises ont dû s’adapter rapidement à l’évolution constante des
+   plateformes numériques, des médias sociaux et de la mobilité. La
+   transformation numérique est devenue un impératif, obligeant les
 --
-   biodiversite
+L’Impact sur les Entreprises :
 
-Le rôle des perturbations dans l’évolution
+   L’effet de l’évolution technologique sur les entreprises est
+   indéniable. D’une part, elle a permis de créer des entreprises
+   innovantes et disruptives, bouleversant des industries entières.
+--
+   clé de la réussite commerciale.
 
-   22 mai 2023
+   En conclusion, l’évolution de la technologie a eu un impact profond sur
+   les entreprises, de l’ère industrielle à l’ère numérique et au-delà.
+   Les entreprises qui embrassent le changement technologique et
+   s’adaptent rapidement ont l’opportunité de prospérer dans ce paysage en
+   constante évolution. L’innovation technologique continuera de façonner
+   l’avenir des entreprises, ouvrant la voie à de nouvelles possibilités
+   passionnantes et à de nouveaux défis passionnants.
+--
+     * Partager par Mail
+
+   https://www.namtek.ca/wp-content/uploads/2016/10/Infographic-Evolution-
+   of-Technology2-1024x5181.jpg 518 1024 Tatyana Vandich
+   https://www.namtek.ca/wp-content/uploads/2022/11/Namtek-Consulting-Serv
+   ices-1-300x157.png Tatyana Vandich2015-01-23 19:28:222023-09-29
+   16:51:37L’évolution de la technologie et son effet sur les entreprises
+
+Vous aimerez peut-être aussi

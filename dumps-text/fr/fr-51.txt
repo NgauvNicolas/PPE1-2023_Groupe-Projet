@@ -1,0 +1,550 @@
+   #alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PDSGDG2
+
+   Menu
+   Newsletter
+   Le Cercle des économistes
+
+   " Osons un débat éclairé "
+   ____________________ (BUTTON) Rechercher
+     * Youtube
+     * Twitter
+     * LinkedIn
+     * Instagram
+
+   Newsletter
+     * EN
+
+     * Présentation
+          + Membres
+          + Qui sommes nous
+          + Espace presse
+          + Rejoignez-nous
+     * Prix du Meilleur Jeune Économiste
+     * Les Rencontres Économiques
+     * Événements
+     * Podcasts
+          + Génération Economie
+          + Rencontres Économiques 2023
+     * Publications
+
+   Thématiques
+
+Les Thématiques
+
+     * finance & marché
+     * compétitivité
+     * éducation, culture & jeunesse
+     * politiques publiques, développement
+     * France et Europe
+     * industrie, énergie & environnement
+     * innovation - TIC
+     * politiques sociales & démographie
+     * économie mondiale
+     * emploi
+     * santé
+
+   Publications    |   Les Cahiers des Rencontres Économiques
+   d’Aix-en-Provence
+
+Surmonter la crise du système de santé
+
+   Martin HIRSCH   |   9 mars 2023
+
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur LinkedIn
+     * Partager par mail
+
+   La pandémie de Covid-19 a mis sous tension un système de santé déjà en
+   crise. Si celui-ci a tenu le choc des vagues à répétition, les
+   symptômes de ses dysfonctionnements se font de plus en plus vifs, au
+   premier rang desquels l’épuisement du personnel médical et une réelle
+   crise des vocations. Bien que cette crise ne soit pas spécifique à la
+   France, notre pays s’illustre toutefois par certaines caractéristiques
+   que Martin Hirsch, ancien directeur général de l’AP-HP, recense dans sa
+   note. La première d’entre elles, la coupure entre hôpital et médecine
+   de ville, perdure malgré les ambitions de rapprochement des
+   gouvernements successifs et en dépit des besoins induits par le
+   développement des pathologies chroniques. Autre spécificité, la
+   centralisation des rémunérations et un statut presque fonctionnaire du
+   personnel médical rendent notre système particulièrement rigide. Une
+   prise en charge à deux étages, répartie entre la Sécurité sociale et
+   les complémentaires, et un système centré sur le soin au détriment de
+   la prévention finissent de compléter ce tableau.
+
+   Quelles évolutions mettre en place pour corriger ces dysfonctionnements
+   ? Pour l’auteur de cette note, la priorité doit être accordée à une
+   refonte des statuts hospitaliers, à une simplification du système de
+   financement et à l’organisation d’un grand débat sur la place de la
+   prévention dans notre système de santé.
+
+   [BUTTON Input] (not implemented)_____________________________
+
+Introduction
+
+   Quand certaines crises couvent à petit feu, celle du système de santé a
+   des symptômes bien visibles. Les services d’urgence qui ferment, les
+   délais d’attente, les « lits brancards », les déserts médicaux, les
+   pénuries de médicaments essentiels donnent lieu à des reportages
+   quotidiens et sont connus par une grande partie de la population qui en
+   a fait l’expérience, pour elle ou pour ses proches. Ce qui est encore
+   plus frappant, c’est le malaise de l’ensemble des professionnels :
+   qu’ils travaillent à l’hôpital, en ville, ou dans les EHPAD, toutes les
+   blouses blanches expriment leur souffrance, leur ras le bol. Et il ne
+   s’agit pas seulement d’une expression, mais elles joignent le geste à
+   la parole : il existe une réelle désaffection pour les métiers de
+   soins. On s’arrête ou on change de métier. En 2022, l’AP-HP, le plus
+   grand centre hospitalier d’Europe, a battu un double record : celui du
+   nombre de nouvelles infirmières recrutées dans l’année (2200) et celui
+   du nombre de lits fermés par manque d’infirmières (15 %) : le nombre de
+   départs a été supérieur de 400 à ce nombre record de recrutements ! En
+   Ile-de-France, les établissements privés, comme les cliniques,
+   connaissent les mêmes difficultés que les hôpitaux publics tandis que
+   les EHPAD n’ont jamais connu un turn over aussi rapide de leurs
+   personnels.
+
+   Au cours des quatre dernières décennies, la problématique du système de
+   santé était dominée par la question de la dynamique des dépenses. Il
+   fallait maîtriser les dépenses d’assurance maladie pour que le système
+   soit soutenable. Les unes des journaux portaient sur ces plans qui
+   déremboursaient certains médicaments, contenaient le prix des actes,
+   limitaient la notion d’« affection à longue durée » ouvrant la prise en
+   charge à 100 %, pour « sauvegarder » le système de santé. Désormais, la
+   question la plus aigüe n’est plus de savoir s’il y aura suffisamment
+   d’argent pour maintenir le même niveau de prise en charge, mais s’il y
+   aura suffisamment de personnels pour soigner tout le monde.
+
+   Certains professionnels pensent qu’il y a un lien entre les deux : qu’à
+   force de plan de maîtrise des dépenses efficaces et surtout d’avoir mis
+   en place un système « fermé » où les dépenses prévisionnelles sont
+   décidées par le Parlement assorties de mécanismes correcteurs pour
+   ajuster les prix quand les volumes croissent plus vite que ce qui a été
+   anticipé, les contraintes trop fortes ont découragé les professionnels.
+   A force d’avoir serré la vis, on aurait abimé le système de santé. Du
+   côté des pouvoirs publics, existe l’amertume d’avoir injecté des sommes
+   importantes avec les accords de Ségur de juillet 2021, avec une
+   augmentation supérieure à 8 milliards d’euros de fonctionnement, sans
+   avoir empêché les crises et donc le sentiment que des moyens nouveaux
+   sans réforme structurelle n’ont pas d’effet favorable.
+
+   Notons que la France ne se singularise pas par le niveau de ses
+   dépenses de santé, par rapport aux pays de l’OCDE. Il n’y a en réalité
+   que deux pays qui se distinguent : les États-Unis, avec un niveau de
+   dépenses particulièrement élevé, et le Royaume-Uni, qui consacre à la
+   santé près de 3 points de moins de son PIB. Les deux pays, pour des
+   raisons différentes, connaissent des difficultés encore plus marquées
+   que les autres. Dans les autres pays de l’OCDE, les dépenses de santé
+   sont comprises entre 9 et 11 % du PIB, qu’il s’agisse de la France, des
+   pays du Sud de l’Europe comme l’Italie ou l’Espagne, de l’Allemagne et
+   des pays scandinaves ou du Japon.
+
+   Cette crise n’est pas propre à la France. Même s’il y existe des
+   facteurs particuliers, la crise des systèmes de santé est mondiale. En
+   janvier 2022, au moment où se diffusait le variant Omicron a grande
+   vitesse, quand les hôpitaux parisiens avaient 15 % de leurs lits fermés
+   faute de personnels, les hôpitaux de Berlin avaient près d’un lit sur
+   deux fermés ! Au printemps 2022, les grands hôpitaux de New York nous
+   expliquaient qu’ils avaient renoncé à trouver des psychiatres pour
+   exercer la nuit dans leur services d’urgences, et qu’ils avaient
+   organisé une garde de téléconsultation pour les 17 services d’urgence
+   de Manhattan, faute de pouvoir trouver des professionnels. Dans les
+   pays émergents ou en voie de développement, l’absence de professionnels
+   de santé en nombre suffisant est restée une problématique majeure du
+   système de soins.
+
+   Au total, l’Organisation mondiale de la santé estime le besoin,
+   simplement en infirmières, à 13 millions à horizon 2030 alors qu’une
+   étude dans Lancet chiffrait ce besoin à 30 millions au même horizon !
+   Il est difficile de démêler, dans la crise actuelle, ce qui résulte
+   d’une crise mondiale et ce qui relève des spécificités françaises. Il
+   est possible d’analyser les causes spécifiques du problème français.
+   Elles sont certaines et elles rajoutent aux difficultés. Mais il est
+   impossible de prétendre que si ces anomalies françaises étaient
+   corrigées, ce qui est pourtant nécessaire, nous en aurions fini avec la
+   crise. C’est la limite de l’exercice auquel nous nous livrons. Nous
+   analyserons les problématiques spécifiques à la France ; nous
+   évoquerons les hypothèses que l’on peut faire sur les racines de la
+   crise mondiale et nous conclurons avec prudence.
+
+Le système de santé français souffre de quatre faiblesses
+
+   La première est la coupure entre l’hôpital et la médecine de ville.
+   S’il y a bien une évolution frappante au cours des deux dernières
+   décennies dans la plupart des autres pays du monde, c’est qu’on
+   raisonne désormais moins en distinguant les deux secteurs. Dans de
+   nombreux pays, les hôpitaux sont déjà des mini systèmes de santé
+   intégrés. La plupart des grands établissements aux États-Unis gèrent
+   des centres de santé primaires ou comptent, dans leurs effectifs, des
+   médecins qui exercent en ville. En Espagne, l’articulation entre
+   médecine de ville et médecine hospitalière n’est pas assurée par une
+   intégration, mais par une responsabilité conférée au médecin traitant
+   d’orienter vers des hôpitaux, selon des filières organisées par les
+   autorités sanitaires.
+
+   En France le renforcement du lien Ville Hôpital figure dans tous les
+   plans gouvernementaux mais les évolutions restent particulièrement
+   lentes et limitées. Ceci résulte de la divergence entre deux statuts,
+   deux modes de financement, deux modes de régulation, qui rendent
+   particulièrement difficile la convergence des systèmes. Les personnels
+   hospitaliers sont salariés, avec un statut particulièrement normé, les
+   professionnels libéraux sont payés à l’acte, même si les dernières
+   années ont vu l’introduction d’une part de paiement par forfait. Il
+   existe une enveloppe pour les dépenses hospitalières et une autre pour
+   les dépenses de ville. Il peut y avoir des projets communs liés à des
+   initiatives individuelles mais qui ne constituent pas un parcours
+   lisible entre la médecine de ville et la médecine hospitalière pour
+   l’ensemble de la population.
+
+   Cette coupure a toujours existé. Ses conséquences étaient moins
+   néfastes, au regard de l’épidémiologie. A la médecine de ville, la
+   responsabilité des soins primaires ; à l’hôpital, la prise en charge
+   des soins lourds. Or, avec la conjugaison des évolutions démographiques
+   et des progrès médicaux, le défi qui se pose au système de santé est la
+   prise en charge de malades chroniques, souvent atteints de
+   polypathologies et âgés. Ces patients ont besoin d’un suivi régulier et
+   de temps en temps de soins lourds et/ou spécialisés, mais en tout état
+   de cause d’une continuité de leur prise en charge pour de mêmes
+   pathologies. Des séjours à l’hôpital de plus en plus courts, des
+   traitements médicamenteux de plus en plus longs et le besoin d’une
+   surveillance régulière permettant l’adaptation des traitements à la
+   réalité de leur état. Et, bien évidemment, des conditions de suivi
+   permettant le maintien à domicile le plus longtemps possible, plutôt
+   que le recours à l’hôpital, non plus pour des motifs liés au besoin
+   d’un plateau technique très spécialisé mais à un environnement «
+   soignant » qu’ils ne pourraient pas trouver à domicile.
+
+   Il est donc indispensable de pouvoir en finir avec cette dualité de
+   l’offre qui ne correspond plus aux besoins des patients d’aujourd’hui
+   et de demain. Dans ce mouvement de rapprochement, beaucoup plus lent
+   que dans de nombreux pays, il y a une évolution qui peut s’avérer
+   favorable, avec la constitution de « communautés professionnelles de
+   territoires de santé », forme d’associations principalement de
+   professionnels libéraux qui peuvent constituer des interlocuteurs plus
+   structurés des hôpitaux avec lesquels ils sont invités à
+   contractualisés. Cela évite le choc entre un hôpital fonctionnant
+   souvent en circuit fermé et des professionnels libéraux atomisés qui
+   forment une myriade d’acteurs isolés et hétérogènes, avec lesquels il
+   est difficile de construire une relation permettant des parcours de
+   soins pour des grandes populations de malades.
+
+   A noter que dans les paradoxes de la situation française, on observe
+   une double désaffection : le statut hospitalier, tant pour les médecins
+   que pour les paramédicaux, avec ses rigidités, est de moins en moins
+   attractif tandis que l’exercice isolé en cabinet est de moins en moins
+   recherché. Cette double désaffection est une opportunité pour envisager
+   de nouveaux modes d’exercice permettant enfin de rapprocher l’exercice
+   en hôpital de celui en ville.
+
+   Cette rigidité des statuts hospitaliers est la deuxième faiblesse,
+   propre à la France. La France est probablement le seul grand pays où
+   les rémunérations des médecins et des paramédicaux sont fixées au
+   niveau national avec une grande uniformité ; le seul grand pays où
+   leurs statuts sont plus proches de ceux de fonctionnaires régaliens que
+   de professionnels qui produisent des soins, avec le besoin d’une grande
+   technicité, d’une adaptation permanente. Prenons-en quelques exemples.
+
+   Alors que le coût de la vie n’a rien à voir entre une grande métropole
+   (à commencer par Paris) et des territoires moins tendus, la
+   rémunération des professionnels hospitaliers est la même. Dans la
+   plupart des pays, la rémunération tient compte du coût de la vie.
+
+   Le statut des médecins hospitaliers prévoit strictement la même
+   rémunération quelle que soit la discipline, alors que les contraintes
+   sont très différentes et que l’écart avec le privé est très variable
+   selon les spécialités. La nomination d’un médecin, à l’issue de la
+   réussite à un concours, se fait dans un établissement et même dans un
+   service, ce qui fait que la mobilité est faible et considérée comme un
+   échec. Cette quasi-inamovibilité nuit au travail en équipe et est à
+   l’origine de la plupart des situations délétères qui peuvent rendre un
+   service dysfonctionnel.
+
+   Les paramédicaux ont de très faibles perspectives de carrière. Plus que
+   la problématique du niveau de rémunération en début de carrière, c’est
+   la faible évolutivité qui est décourageante et démotivante.
+
+   Le cadre rigide des statuts a le même effet qu’un couvercle sur une
+   casserole qui bout : la vapeur s’échappe par les côtés. Dans notre
+   système hospitalier, il y a deux modes d’échappement. Le départ et
+   l’intérim. Quand le statut prévoit 300 euros pour la garde d’un senior
+   et qu’un intérimaire peut demander 2000 euros pour 24 heures, il n’y a
+   pas à s’étonner que la tentation de l’intérim soit si forte chez les
+   médecins. Quand une infirmière peut, en intérim, gagner l’équivalent
+   d’un salaire plein temps en choisissant les deux ou trois jours par
+   semaine où elle va à travailler, on comprend que l’exercice en intérim
+   est devenu le choix d’« installation » à la sortie de la formation !
+
+   La troisième spécificité française est l’architecture du système de
+   prise en charge, avec cette construction à deux étages entre
+   l’assurance maladie obligatoire et les complémentaires. Pour un même
+   acte ou séjour hospitalier, deux remboursements interviennent : la part
+   principale relève de l’assurance maladie obligatoire, la part
+   subsidiaire de la complémentaire. Cela veut dire que les mêmes feuilles
+   de soin sont processées deux fois, générant des coûts administratifs
+   considérables à deux endroits de la chaîne. Dans les assurances
+   complémentaires, les coûts de gestion pour rembourser 20 % des soins
+   sont les mêmes que les coûts de gestion de l’assurance maladie pour
+   rembourser 70 % de la dépense : 6 milliards d’euros de part et d’autre.
+   Mais cela génère aussi des coûts administratifs dans les hôpitaux
+   (l’équivalent de 1500 emplois uniquement pour l’AP-HP) pour recouvrer
+   la part complémentaire auprès des centaines d’organismes concernés, qui
+   n’ont pas exactement les mêmes règles de prise en charge. En outre,
+   avec des incohérences dans le reste à charge : alors qu’une partie des
+   soins hospitaliers est prise en charge à 100 %, d’autres soins, comme
+   les séjours en réanimation, ne font l’objet que d’une prise en charge
+   partielle. Un enfant sans mutuelle nécessitant un séjour en soins
+   intensifs pour une bronchiolite sévère se verra facturer deux ou trois
+   mille euros de la part de l’hôpital. On est loin de la distinction
+   entre petit ou gros risque ou de l’effet dissuasif du ticket modérateur
+   ! Dans la plupart des pays, l’hôpital ne connaît qu’un seul payeur et
+   les formalités administratives en sont beaucoup allégées.
+
+   Enfin, il est bien connu que notre système de santé est plus centré sur
+   le soin que sur la prévention, avec une difficulté à prendre en compte
+   les principaux déterminants de la santé que sont l’alcool, le tabac,
+   l’alimentation et, depuis peu, l’environnement, mais aussi l’observance
+   des traitements et les rendez-vous réguliers de prévention.
+
+   Au niveau mondial, la crise des systèmes de santé se traduit également
+   par une crise des vocations. Une enquête conduite en 2022 auprès des
+   100 responsables des plus grands hôpitaux mondiaux classait la question
+   des ressources humaines au premier rang de leurs préoccupations. Il
+   s’agit bien d’une crise structurelle, liée à la profondeur de la
+   transformation de systèmes de soins soumis à de fortes tensions.
+   L’impact de l’informatisation, l’irruption de technologies
+   sophistiquées, le comportement des patients, le poids des grandes
+   organisations, l’exigence des procédures modifient les conditions
+   d’exercice des professionnels de santé. Ce qui reste invariant ce sont
+   les contraintes d’un système qui doit fonctionner 24h sur 24 et 7 jours
+   sur 7. La certitude, c’est que l’architecture du système ne peut pas
+   supporter une demande croissante liée au vieillissement de la
+   population et de la mise à disposition de traitements coûteux : les
+   fameux CART-Cells sont des traitements qui coutent plusieurs centaines
+   de milliers d’euros par patient !
+
+Trois évolutions nécessaires pour notre système de santé
+
+   Cette analyse nous conduit à proposer plusieurs pistes d’évolution.
+
+   1. Repenser les statuts hospitaliers, pour les médecins comme pour les
+   paramédicaux
+
+   La première idée, pour sortir de l’uniformité mortifère, est de
+   construire une rémunération comportant trois étages : un premier étage
+   socle, défini au niveau national, un deuxième étage, variable en
+   fonction du coût de la vie dans le lieu d’exercice, un troisième,
+   différencié selon la discipline, les contraintes et l’expertise, qui
+   serait à la main de l’établissement employeur, pour redonner des vrais
+   enjeux aux négociations sociales à l’hôpital.
+
+   La deuxième idée consiste à ne plus nommer un médecin, à l’issue du
+   concours, dans un service d’un hôpital, mais de le nommer dans une
+   région, en l’affectant par période de cinq ans renouvelable dans un
+   hôpital pour favoriser les mobilités et permettre moins douloureusement
+   et plus souplement les réorganisations nécessaires des activités ;
+   cette affectation pourrait se faire également dans un centre de santé
+   ou une communauté professionnelle de territoire, pour permettre des
+   allers-retours en médecine hospitalière et médecine de ville, ou être
+   partagée entre ces deux types de structure.
+
+   La troisième idée est d’offrir aux paramédicaux de vraies évolutions de
+   carrière, pour ne pas rester toute une vie « infirmière de base », mais
+   pouvoir, à l’instar de ce que font remarquablement les Suédois, pouvoir
+   progresser vers des métiers plus qualifiés, plus experts dans le soin,
+   dans la recherche, dans l’enseignement ou dans les responsabilités
+   managériales.
+
+   La quatrième idée serait d’organiser les formations des professions de
+   santé sous une vraie forme d’apprentissage, avec une rémunération
+   pendant les études (au moins à partir de la deuxième année) pour
+   résoudre ce paradoxe qui fait qu’alors que le monde de la santé a été
+   précurseur pour l’alternance (les externes sont à l’hôpital le matin),
+   ils n’ont pas droit au statut d’apprenti (plus avantageux) qui
+   aujourd’hui s’étend à de nombreuses formations.
+
+   2. Simplifier le système de financement
+
+   La fusion des deux étages de l’assurance maladie permettrait des
+   économies de gestion très importantes (environ 6 milliards par an) qui
+   pourraient être réinjectées pour améliorer les rémunérations et un
+   allègement des formalités administratives à l’hôpital. Dans une phase
+   intermédiaire, l’assurance maladie pourrait exercer, pour le compte de
+   l’hôpital, la récupération de la part complémentaire, pour éviter au
+   producteur de soins d’être également producteur de factures et agent de
+   recouvrement. Il s’agit de tenir compte de ce que le deuxième étage de
+   l’assurance maladie est désormais quasi généralisé et qu’il ne joue
+   plus le même rôle que dans les années 1970. La principale difficulté
+   réside dans le traitement des dépassements d’honoraires : c’est
+   pourquoi une revalorisation différenciée des honoraires, permise par
+   les économies sur les coûts de gestion, permettrait de mieux rémunérer
+   certains professionnels sans remettre en cause l’égalité d’accès aux
+   soins. Ceci serait l’opportunité pour les organismes mutualistes de
+   jouer un autre rôle, en s’impliquant dans l’organisation des nouvelles
+   formes d’exercice en ville, la structuration et le développement des
+   maisons de santé nécessitant l’implication d’acteurs économiques à
+   leurs côtés.
+
+   La fusion des deux étages de l’assurance maladie pourrait s’accompagner
+   de la mise en place d’un bouclier sanitaire, transformant les
+   différents co-paiements dans lesquels personne ne se repère, en une
+   participation plafonnée en fonction des revenus, manière juste de
+   montrer que la médecine n’est pas gratuite.
+
+   3. Organiser un débat sur la place de la prévention dans notre système
+   de santé
+
+   La question de la place de la prévention dans notre système mérite un
+   débat, qui ne manquera pas de surgir brutalement s’il n’est pas
+   préparé, provoqué par la part grandissante des traitements
+   particulièrement coûteux. Il n’est pas sûr que l’annonce récente de
+   consultations régulières de prévention modifie réellement les
+   comportements, ni des médecins, ni des patients. Est-il tabou de se
+   demander si un lien doit être fait entre les actions de prévention et
+   le niveau de prise en charge ? Quand des examens et des dosages
+   réguliers permettent de mettre en place des mesures préventives, est-il
+   tenable de maintenir la même prise en charge pour les personnes qui s’y
+   astreignent et celles qui les négligent ? Le débat est délicat, comme
+   nous l’avons vu avec les réactions explosives posées par la simple
+   interrogation sur le remboursement intégral des soins des patients qui,
+   en refusant la vaccination contre le Covid-19, mobilisaient des
+   ressources rares, avec des effets d’éviction pour d’autres malades et
+   d’autres pathologies. Il est également rendu délicat par la confusion
+   avec l’idée qu’on pourrait pénaliser certains comportements à risque
+   comme l’addiction au tabac. Il s’agit là, en ouvrant ce débat, non pas
+   de pénaliser des modes de vie, dont on sait qu’ils répondent à des
+   déterminants complexes, mais de tenir compte d’un rapport responsable
+   au système de santé et aux données fondées sur des évidences médicales,
+   pour viser à améliorer à la fois les indicateurs de santé publique et
+   l’utilisation des ressources.
+
+   Quand on parle de ressources, il ne s’agit pas de ressources
+   financières, qui épuisaient les termes du débat à la fin du siècle
+   dernier, mais de ressources humaines, dont on se rend compte qu’elles
+   aussi ne sont ni infinies, ni inépuisables. Cela permet de terminer sur
+   une dernière question clé : est-ce que la « e-santé », avec tout ce
+   qu’elle permet, conduira à mieux utiliser les ressources humaines et à
+   des modifications majeures dans l’organisation de notre système de
+   santé ? Cela ne dépend pas uniquement des évolutions technologiques,
+   qui sont plutôt rapides, mais de la capacité des professionnels et des
+   patients à accepter ces changements et la prise en compte du temps
+   comme une ressource rare, sans que cela ne se traduise par une baisse
+   de la qualité.
+
+     __________________________________________________________________
+
+
+   Martin Hirsch est ancien élève de l’ENS et de l’ENA. Il a exercé
+   différentes responsabilité dans la santé, comme directeur de cabinet du
+   secrétaire d’État à la santé (1997-1999), directeur général de l’Agence
+   française de sécurité sanitaire des aliments (1999- 2005) et comme
+   directeur général de l’AP-HP (2013-2022). Haut commissaire aux
+   solidarités actives et Haut commissaire à la jeunesse (2007- 2010), il
+   est à l’origine de la création du revenu de solidarité active et du
+   service civique. Il est actuellement vice-président exécutif de Galiléo
+   Global Education et président de l’Institut de l’Engagement.
+
+     __________________________________________________________________
+
+Bibliographie
+
+   Hirsch M., « Hôpital : le temps de la refondation », Les Echos, 3 mai
+   2022 ;
+   https://www.lesechos.fr/economie-france/social/hopital-le-temps-de-la-r
+   efondation-1404467.
+
+   Hirsch M., « L’Hôpital à cœur ouvert », Paris, Stock, 2017. 288 p.
+
+Sur le même thème
+
+   Assurer la sécurité alimentaire ? Les Actes des Rencontres Économiques
+   d’Aix-en-Provence Assurer la sécurité alimentaire ?   |   29 novembre
+   2023
+
+   Coordination : Akiko Suwa-Eisenmann, membre du Cercle des économistes
+   Contributions : Michel Barnier, Commission européenne, Thierry
+   Blandinières, INVIVO, Katherine Meighan, Fonds international de
+   développement agricole (FIDA), Amadou Seck, EUROGERM Sénégal, Alain
+   Tchibozo, Banque Ouest Africaine de . . .
+   Lire l'article
+   Médecine, on n’arrête pas le progrès ! Les Actes des Rencontres
+   Économiques d’Aix-en-Provence Médecine, on n’arrête pas le
+   progrès !   |   28 novembre 2023
+
+   Coordination : Pierre-Yves Geoffard, membre du Cercle des économistes
+   Contributions : Einas Al-Eisa, Princess Nourah bint Abdulrahman
+   University, Dean Ho, Université Nationale de Singapour, Maria Pereira,
+   TISSIUM, Christian Schmidt de la Brélie, Klesia, Jérôme Wirotius,
+   Biogaran Mod . . .
+   Lire l'article
+   Quelles priorités pour une alimentation saine et durable ? Les Actes
+   des Rencontres Économiques d’Aix-en-Provence Quelles priorités pour une
+   alimentation saine et durable ?   |   28 novembre 2023
+
+   Coordination : Akiko Suwa-Eisenmann, membre du Cercle des économistes
+   Contributions : Sophie Bellon, SODEXO, Mohamed Aziz Bouhejba,
+   Association pour l’Agriculture Durable, France Caillavet,
+   INRAE-AgroParisTech, Jean-Philippe Puig, AVRIL Modération : Aurélien
+   Viers, La Provence Ecouter en podcast Propos . . .
+   Lire l'article
+   Le nouveau rapport entre travail et bien-être Les Actes des Rencontres
+   Économiques d’Aix-en-Provence Le nouveau rapport entre travail et
+   bien-être   |   28 novembre 2023
+
+   Coordination : Eva Moreno Galbis, membre invitée par le Cercle des
+   économistes Contributions : Émilie de Lombarès, Onet, Alexandre Fretti,
+   Malt, Jean-Paul Julia, Bred, Arnaud Vaissié, International
+   SOS, Noriyuki Yanagawa, Université de Tokyo Modération : Marie Visot,
+   Le Figaro . . .
+   Lire l'article
+   Est-il possible de garantir l’accès aux soins ? Les Actes des
+   Rencontres Économiques d’Aix-en-Provence Est-il possible de garantir
+   l’accès aux soins ?   |   1 novembre 2023
+
+   Coordination : Johanna Habib, membre invitée du Cercle des économistes
+   Contributions : Sylvie Briand, Organisation mondiale de la Santé,
+   Thierry Hulot, Leem, Éric Maumy, April, Rossella Miccio, EMERGENCY
+   Modération : Olivier Auguste, Le Parisien Ecouter en podcast Propos
+   introductif de Johanna . . .
+   Lire l'article
+   Précédent Suivant
+
+Les Thématiques
+
+     * finance & marché
+     * compétitivité
+     * éducation, culture & jeunesse
+     * politiques publiques, développement
+     * France et Europe
+     * industrie, énergie & environnement
+     * innovation - TIC
+     * politiques sociales & démographie
+     * économie mondiale
+     * emploi
+     * santé
+
+   Présentation
+     * Qui sommes-nous ?
+     * Membres
+     * Espace presse
+     * Le Cercle recrute
+     * Contact
+     * Mentions Légales
+
+   Thématiques
+     * finance & marché
+     * compétitivité
+     * éducation, culture & jeunesse
+     * politiques publiques, développement
+     * France et Europe
+     * industrie, énergie & environnement
+     * innovation - TIC
+     * politiques sociales & démographie
+     * économie mondiale
+     * emploi
+     * santé
+
+   Le prix du meilleur jeune economiste Publications
+     * Publications
+
+   [closebutton.png]

@@ -1,181 +1,118 @@
-   #RSS alternate alternate alternate alternate alternate alternate
-   Contents Remerciements Le terrain transitionnellement : une
-   transdisciplinarité entre géographie, art et psychanalyse L’évolution
-   de la théorie du droit (1970-2010) RDF Bibliontology Search on
-   OpenEdition
---
+     * Politique et Sociétés
+     * Volume 40, numéro 2, 2021, p. 3-240
+     * Mouvements sociaux, politique des partis et l’évolution du
+       nationalisme hongkongais
 
-   OpenEdition Books Presses universitaires de Paris Nanterre Hors
-   collection 1970-2010 : les sciences de l’Hom... L’évolution des
-   théories économiq...
-   Le terrain transitionnellement : une transdisciplinarité entre géog...
-   L’évolution de la théorie du droit (1970-2010)
+   Articles non thématiques
 
-1970-2010 : les sciences de l’Homme en débat
---
-Transformations et remises en cause des disciplines
-
-   L’évolution des théories économiques dominantes à partir des années
-   1970 : une approche à partir de la place que la monnaie y tient
-   Rechercher dans le livre ____________________ OK
---
-   page d’information recensé par
-
-L’évolution des théories économiques dominantes à partir des années 1970 :
-une approche à partir de la place que la monnaie y tient
+Mouvements sociaux, politique des partis et l’évolution du nationalisme
+hongkongais
 
 --
-   discours développés par les économistes : développement d’une économie
-   financière en tant que discipline académique à statut scientifique ;
-   révolution « nouvelle classique » dans la macroéconomie ; renouveau du
-   hayekisme. Il faudrait également resituer cette description sur un plan
-   plus sociologique en y intégrant les changements organisationnels de la
---
-I
+Résumé
 
-     * 1 Mirowski Philip, « The Probabilistic Counter-Revolution, or How
-       Stochastic Concepts came to Neocla (...)
-     * 2 Armatte Michel, La Science économique comme ingénierie, Paris,
+   Ce texte se penche sur l’émergence et l’évolution du nationalisme
+   hongkongais dans le contexte de la politique des partis et de la
+   politique contestataire au cours des dernières années. Identifiant
 --
-   le plus habituel, de l’usage des technologies statistiques et
-   mathématiques (probabilités et économétrie) qui caractérise la science
-   économique depuis sa révolution stochastique1. Il y a déjà en effet
-   toute une série de travaux très pertinents et démonstratifs sur ce
-   point, notamment celui tout récent de Michel Armatte, qui montrent que
---
-   monnaie soit inutile, si ce n’est en tant que pur numéraire censé ne
-   jouer en rien dans les rapports « réels » de valeurs entre
-   marchandises. Ainsi, toute l’évolution historique des théories
-   économiques états-uniennes de l’après-guerre peut être lue comme une
-   série de tentatives successives et concurrentes pour neutraliser cette
---
-       Columbia University, mimeo, 2000.
-     * 7 Mehrling Perry, The Development of Macroeconomics and the
-       Revolution in Finance, Barnard College, (...)
+Abstract
 
-   4L’évolution des théories économiques dominantes. 125 Le champ de
-   l’économie académique connaît une première restructuration aux
-   États-Unis dès les années 1950 et 1960 à partir d’une nouvelle
+   This paper looks into the emergence and the evolution of Hong Kong
+   nationalism in the context of party and contentious politics over the
+   past years. Identifying on the one hand effects of polarization and
 --
-   ce qui rend en théorie totalement inutile et même préjudiciable toute
-   intervention de la puissance publique.
-     * 10 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », in
-       Research Paper, n° 8508, Federal R (...)
+   porte un regard d’ensemble sur la question, voyant les facettes
+   ethnicistes et civiques comme des éléments complémentaires dans
+   l’émergence et dans l’évolution d’un mouvement identitaire qui demeure
+   cependant fragmenté.
 
 --
-   7Cette conception autrichienne de la monnaie en tant qu’institution
-   fondamentale du capitalisme, produit de la main invisible de la
-   concurrence, a connu également une évolution dans les années 1970 avec
-   la radicalisation dans un sens libertarien de la pensée de Hayek et ses
-   propositions de dénationalisation des monnaies. En prônant
+   théorique sur lequel s’appuie l’analyse et élabore son argument
+   principal. La deuxième section brosse un portrait de l’identité
+   hongkongaise à l’époque britannique et de son évolution jusqu’au
+   transfert de souveraineté en 1997, tandis que la troisième trace
+   l’émergence du mouvement nativiste dans son opposition aux flux de
 --
-   origines (attracteur I).
-     * 14 Mehrling Perry, The Development of Macroeconomics and the
-       Revolution in Finance, op. cit.
-
-   14Ainsi, à la synthèse keynésiano-néoclassique qui fournissait un
-   référentiel commun y compris pour les monétaristes friedmaniens et les
-   « autrichiens » partisans du free-banking, succèdent de nouveaux
-   compromis discursifs permis d’une part par des évolutions propres à
-   chacun des paradigmes préexistant, d’autre part par l’émergence de
-   l’attracteur qu’est la nouvelle sous-discipline de la financial
+   quatrième section relate l’essor et la prolifération de groupes
+   autodéterminationnistes dans les mois suivant l’échec du mouvement des
+   parapluies en 2014 et trace l’évolution de ces organisations en partis
+   politiques, surtout dans le cadre des élections législatives de 2016.
+   Finalement, la cinquième section décrit la répression des partis
 --
-   économique néolibéral.
-
-   15Les évolutions internes aux anciens paradigmes prennent en fait la
-   forme d’une radicalisation des positions :
-     * Chez les néoclassiques, l’opposition à toute régulation étatique
-       s’impose avec le passage d’un monétarisme interventionniste à la
-       Friedman à un monétarisme libertaire à la Lucas15. Les monétaristes
-       connaissent en effet une « révolution  » Nouvelle Classique qui
-       fait que les « anticipations adaptatives » (Milton Friedman)
-       deviennent « rationnelles  » (John Muth, Robert E. Lucas, Edward C.
+   Ce texte s’intéresse principalement à la relation entre la politique
+   formelle – celle des partis – et la politique contestataire – celle des
+   mouvements sociaux – dans l’évolution du nationalisme et de la
+   politique identitaire. La question de la transformation des mouvements
+   en partis politiques a reçu une attention considérable dans les milieux
 --
-       plus aucune place à une quelconque régulation externe, la
-       concurrence étant vue comme le principe même de cette régulation
-       (elle est la solution et non pas le problème). Cette évolution
-       permet aux « autrichiens » de trouver un terrain d’entente avec la
-       New Monetary Economics qui émerge simultanément dans le sillon du
+   (par exemple, Lipset 1950 ; Zakuta 1964 ; Clark, Grayson et Grayson
+   1976). Plus récemment, Kalowatie Deonandan, David Close et Gary Prevost
+   (2007) ont étudié l’évolution des mouvements révolutionnaires en partis
+   en Amérique latine et en Afrique. Ils maintiennent que, chez la plupart
+   des groupes armés, le saut en politique électorale requiert non
 --
-   25La question se pose donc de savoir si la science économique
-   contemporaine fait encore partie des sciences humaines et sociales.
-   L’évolution à partir des années 1970 des théories économiques et
-   financières dominantes, d’abord aux États-Unis puis plus largement dans
-   le monde, conduit en effet à penser que l’assimilation du discours
+   moins celles des nationalistes hongkongais (Kwong 2018).
+
+   Ce texte conçoit l’évolution de la politique identitaire et l’émergence
+   du nationalisme hongkongais au cours des dernières années comme un
+   produit de la structure des opportunités offertes par le système des
 --
-Notes
-
-   1 Mirowski Philip, « The Probabilistic Counter-Revolution, or How
-   Stochastic Concepts came to Neoclassical Economic Theory », in Oxford
-   Economic Papers, New Series, 41 (1), 1989, p. 217-235.
+   Nouveaux Territoires. En février 2016, Edward Tin-Kei Leung,
+   porte-parole de Hong Kong Indigenous et leader spirituel du mouvement
+   indépendantiste, s’est fait connaître durant la révolution des
+   boulettes de poisson, qui a été la scène d’affrontements entre
+   manifestants et policiers[3]. Bref, les années qui ont suivi le
 --
-   University, mimeo, 2000.
-
-   7 Mehrling Perry, The Development of Macroeconomics and the Revolution
-   in Finance, Barnard College, Columbia University, mimeo, 26 août 2005,
-   se référant à Black Fisher, « Banking and the Interest Rates in a World
+   justice sociale dans les districts occupés du mouvement des parapluies
+   en 2014 (Ng 2016). En 2016, elle a été l’une des protagonistes
+   principales de la révolution des boulettes de poisson (voir note 3),
+   ayant délibérément vendu de la nourriture de rue sous les yeux des
+   agents du Département de l’hygiène en guise de protestation. Comme
 --
-   Cahiers d’économie politique, n° 39, 2001, p. 89-106.
-
-   10 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », in
-   Research Paper, n° 8508, Federal Reserve Bank of Dallas, mimeo, 1985,
-   p. 17
+   la faction autodéterminationniste[9]. En juin 2018, Edward Leung a été
+   condamné à une peine de six ans de prison pour son rôle dans la
+   révolution des boulettes de poisson (Cheung 2018). En novembre 2018, le
+   Hong Kong National Party, le parti le plus ostensiblement
+   pro-indépendance, a formellement été interdit et criminalisé sur une
 --
-   of Economic Affairs, (second extended edition) 1976, p. 87.
-
-   12 O’Driscoll Gerald, « Money : Menger’s evolutionary theory », op.
-   cit.
-
+   revendications nationalisantes qui ont fait trembler Hong Kong durant
+   l’été et l’automne de 2019. Par exemple, le slogan « Reconquérons Hong
+   Kong, la révolution de notre temps », attribué au leader nationaliste
+   Edward Leung, a été récupéré par les manifestants. L’hymne du
+   mouvement, Gloire à Hong Kong, y faisait d’ailleurs référence. Le
 --
-   Money », op. cit.
+Conclusion
 
-   14 Mehrling Perry, The Development of Macroeconomics and the Revolution
-   in Finance, op. cit.
-
+   Ce texte a analysé l’évolution de la politique identitaire et
+   l’émergence du nationalisme hongkongais au cours de la dernière
+   décennie, montrant que ces phénomènes ont été étroitement entrelacés
 --
-
-   22 Yeager Leland, « Privatizing Money », in Cato Journal, vol. 30, n°
-   3, 2010, p. 417-438. L’évolution des théories économiques dominantes.
-
-   23 Voir le compliment admiratif que P. Samuelson adresse en 1990 à
+       Google Scholar
+   13. Close, David et Gary Prevost. 2007. « Introduction : Transitioning
+       from Revolutionary Movements to Political Parties and Making the
+       Revolution “Stick”. » Dans From Revolutionary Movements to
+       Political Parties : Cases from Latin America to Africa. Sous la
+       direction de Kalowatie Deonandan, David Close et Gary Prevost,
 --
-   géographie, ar...
-
-   L’évolution de la théorie du droit (1970-2010)
-
-Lire
+       Google Scholar
+   15. Deonandan, Kalowatie, David Close et Gary Prevost. 2007. From
+       Revolutionary Movements to Political Parties : Cases from Latin
+       America to Africa. New York : Palgrave Macmillan.
+       Google Scholar 10.1057/9780230609778
 --
-   Freemium
-   Suggérer l'acquisition à votre bibliothèque
-   L’évolution des théories économiques dominantes à partir des années
-   1970 : une approche à partir de la place que la monnaie y tient
-
+   MLA
+          Dupré, Jean-François. « Mouvements sociaux, politique des partis
+          et l’évolution du nationalisme hongkongais. » Politique et
+          Sociétés, volume 40, numéro 2, 2021, p. 51–74.
+          https://doi.org/10.7202/1077869ar
 --
+   APA
+          Dupré, J.-F. (2021). Mouvements sociaux, politique des partis et
+          l’évolution du nationalisme hongkongais. Politique et Sociétés,
+          40(2), 51–74. https://doi.org/10.7202/1077869ar
 
-   OpenEdition APA MLA
-   THÉRET, Bruno. L’évolution des théories économiques dominantes à partir
-   des années 1970 : une approche à partir de la place que la monnaie y
-   tient In : 1970-2010 : les sciences de l’Homme en débat [en ligne].
---
-   <http://books.openedition.org/pupo/2805>. ISBN : 9782821851191. DOI :
-   https://doi.org/10.4000/books.pupo.2805.
-   Théret, B. 2013. L’évolution des théories économiques dominantes à
-   partir des années 1970 : une approche à partir de la place que la
-   monnaie y tient. In Inglebert, H., & Brailowsky, Y. (Eds.), 1970-2010 :
-   les sciences de l’Homme en débat. Presses universitaires de Paris
-   Nanterre. doi :10.4000/books.pupo.2805
-   Théret, Bruno. “L’évolution des théories économiques dominantes à
-   partir des années 1970 : une approche à partir de la place que la
-   monnaie y tient”. Inglebert, Hervé, et Yan Brailowsky. 1970-2010 : les
---
-   2013. Web. <http://books.openedition.org/pupo/2784>.
-   Compatible avec Zotero
-   L’évolution des théories économiques dominantes à partir des années
-   1970 : une approche à partir de la place que la monnaie y tient
-
---
-   …
-
-L’évolution des théories économiques dominantes à partir des années 1970 :
-une approche à partir de la place que la monnaie y tient
-
+   Chicago
+          Dupré, Jean-François « Mouvements sociaux, politique des partis
+          et l’évolution du nationalisme hongkongais ». Politique et
+          Sociétés 40, n^o 2 (2021) : 51–74.
+          https://doi.org/10.7202/1077869ar

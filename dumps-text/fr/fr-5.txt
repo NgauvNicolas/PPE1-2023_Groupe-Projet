@@ -1,1039 +1,414 @@
-     * Aller au contenu
-     * Aller à la navigation
+   #Hominides » Flux Hominides » Flux des commentaires Hominides » Flux
+   iCal alternate alternate alternate alternate
 
-     * (BUTTON) La galaxie Sénat
-     * (BUTTON) Réseaux sociaux
-          + X / Twitter
-          + Facebook
-          + LinkedIn
-          + Instagram
-          + YouTube
-          + TikTok
+   Skip to content
 
-     * S'abonner
-     * (BUTTON) Langues
-          + Français
-          + English
-          + Deutsch
-          + Español
-          + Português
-          + Italiano
-          + عربي
-          + 中文
-          + Русский
-          + Türk
-
-   (BUTTON) (BUTTON) Ouvrir la recherche
-     * (BUTTON) Travaux parlementaires
-       Travaux parlementaires
-       Le Sénat a pour missions premières le vote de la loi, le contrôle
-       du Gouvernement et l'évaluation des politiques publiques.
-       En savoir plus
-          + (BUTTON) Séance publique
-               o Découvrez le fonctionnement de la séance publique
-               o Ordre du jour
-               o Dérouleurs
-               o Scrutins publics
-               o Direct vidéo
-               o Application "En séance"
-          + (BUTTON) Textes législatifs
-               o Textes récents
-               o Tous les textes
-          + (BUTTON) Contrôle et évaluation
-               o Toute l'actualité du contrôle et de l'évaluation
-               o Questions des sénateurs au Gouvernement
-               o Suivi des ordonnances
-               o Contrôle de l'application des lois
-               o Programme de contrôle
-          + (BUTTON) Commissions
-               o Découvrir le rôle et l'actualité des commissions
-               o Commission des affaires économiques
-               o Commission des affaires étrangères, de la défense et des
-                 forces armées
-               o Commission des affaires sociales
-               o Commission de l'aménagement du territoire et du
-                 développement durable
-               o Commission de la culture, de l'éducation et de la
-                 communication
-               o Commission des finances
-               o Commission des lois
-               o Commission des affaires européennes
-               o Application "En commission"
-          + (BUTTON) Structures temporaires
-               o Commissions d'enquête
-               o Missions d'information communes
-               o Commissions spéciales
-               o Commissions mixtes paritaires
-          + (BUTTON) Office et délégations
-               o Découvrir le rôle et l'actualité de l'office et des
-                 délégations
-               o Délégation aux collectivités territoriales et à la
-                 décentralisation
-               o Délégation aux droits des femmes et à l’égalité des
-                 chances entre les hommes et les femmes
-               o Délégation aux entreprises
-               o Délégation sénatoriale aux outre-mer
-               o Délégation à la prospective
-               o Délégation parlementaire au renseignement
-               o Office parlementaire d’évaluation des choix scientifiques
-                 et technologiques (OPECST)
-          + Groupes d'études
-          + (BUTTON) Rapports et documents de travail
-               o Derniers rapports
-               o Tous les rapports et documents de travail
-          + Résolutions
-          + Comptes rendus
-          + L’activité du Sénat en chiffres
-     * (BUTTON) Vos sénateurs
-       Vos sénateurs
-       Découvrez qui sont vos sénateurs et suivez leurs principales
-       activités.
-       En savoir plus
-          + (BUTTON) Recherche de sénateurs
-               o Recherche simple de sénateurs
-               o Recherche avancée de sénateurs
-          + Présidence du Sénat
-          + Sénatoriales 2023
-          + Groupes politiques
-          + (BUTTON) Organisation interne
-               o Bureau du Sénat
-               o Conférence des Présidents
-               o Conseil de Questure
-               o Comité de déontologie
-               o Commission spéciale chargée du contrôle des comptes et de
-                 l'évaluation interne
-          + (BUTTON) Déclarations
-               o Déclarations de rattachement
-               o Déclarations d'intérêts et d'activités
-          + Activités principales des Sénateurs
-          + Organismes extraparlementaires
-          + (BUTTON) Anciens sénateurs
-               o Anciens sénateurs de la Vème République
-               o Anciens sénateurs de la IVème République
-               o Anciens sénateurs de la Communauté
-               o Anciens sénateurs de la IIIème République
-               o Anciens sénateurs du Second Empire
-               o Pairs de France
-     * (BUTTON) Connaître le Sénat
-       Connaître le Sénat
-       Retrouvez toutes les informations clés sur le rôle, le
-       fonctionnement, l'Histoire et le patrimoine du Sénat.
-       En savoir plus
-          + Rôle et fonctionnement
-          + Sénat Junior
-          + Documents de référence et guides pratiques
-          + L’Histoire du Sénat
-          + Patrimoine
-          + Jardin du Luxembourg
-          + Événements et manifestations culturelles
-          + Photothèque
-
-     * (BUTTON) Le Sénat et vous
-       Le Sénat et vous
-       Vous souhaitez participer à nos consultations, visiter le Sénat ou
-       même y travailler ?
-       En savoir plus
-          + Le Sénat pour les élus locaux
-          + (BUTTON) Participer aux consultations
-               o Consultations citoyennes
-               o Consultations des élus locaux
-          + Déposer ou soutenir une pétition
-          + Visiter le Sénat
-          + Assister aux séances
-          + (BUTTON) Travailler au Sénat
-               o Le Sénat recrute
-               o Recrutement des fonctionnaires par concours
-               o Fonctionnaires extérieurs
-               o Contractuels
-               o Faire son apprentissage au Sénat
-               o Effectuer un stage au Sénat
-          + (BUTTON) Les prix décernés par le Sénat
-               o Tous les prix du Sénat
-               o Le prix du livre d'histoire
-               o Le prix de thèse du Sénat
-               o Le prix de la Fondation Jacques Descours Desacres
-               o La bourse de recherche du Sénat
-     * (BUTTON) Europe et international
-       Europe et international
-       Découvrez l'action internationale et européenne du Sénat.
-       En savoir plus
-          + (BUTTON) Le Sénat et l'Europe
-               o Découvrir les activités européennes du Sénat
-               o Commission des affaires européennes
-               o Assemblée parlementaire du Conseil de l'Europe (APCE)
-               o Assemblée parlementaire de l'OSCE
-               o L'Europe en séance publique
-          + (BUTTON) Le Sénat à l'international
-               o Découvrir les activités internationales du Sénat
-               o Commission des affaires étrangères, de la défense et des
-                 forces armées
-               o Groupes interparlementaires d'amitié
-               o Assemblées interparlementaires
-               o Coopération
-               o Colloques et événements
-          + Études de législation comparée
-          + Le Sénat et les Français de l'étranger
-          + Sénats d'Europe, Sénats du monde
-     * (BUTTON) Presse
-       Presse
-       Retrouvez dans cette section toutes les informations clés pour la
-       presse et les médias.
-       En savoir plus
-          + Auditions accessibles à la presse
-          + Conférences de presse
-          + Communiqués de presse
-          + Informations pratiques
-          + Boîte à outils
-          + Nous contacter et nous suivre
-     * (BUTTON) Ouvrir la recherche
-
-     * (BUTTON) La galaxie Sénat
-     * (BUTTON) Langues
-          + Français
-          + English
-          + Deutsch
-          + Español
-          + Português
-          + Italiano
-          + عربي
-          + 中文
-          + Русский
-          + Türk
-
-     * Sénateurs
-     * Ordre du jour
-     * Vidéos
-     * Travaux récents
-     * Agenda
-
-   La galaxie Sénat
-   (BUTTON) Fermer
-
-   Retrouvez l’ensemble des sites internet et applications composant
-   l’écosystème du Sénat.
-     * Vidéothèque
-     * Audiothèque
-     * E-petitions
-     * La plateforme des élus locaux
-     * Sénat Junior
-     * Application "En séance"
-     * Application "En commission"
-     * Infox
-
-     * Sénatoriales 2023
-     * Open Data
-     * Boutique officielle
-     * Librairie en ligne
-     * Public Sénat
-     * Institut du Sénat
-     * Jardin du Luxembourg
-     * Musée du Luxembourg
-
-   Recherche rapide
-   (BUTTON) Fermer la recherche
-
-   Rechercher dans la base documentaire du Sénat et le reste du site.
-   ____________________
-   Affiner ma recherche :
-     * [ ] Dossiers législatifs
-     * [ ] Rapports d’information
-     * [ ] Questions parlementaires
-     * [ ] Comptes rendus
-     * [ ] Textes européens
-     * [ ] Documents de travail
-
-   (BUTTON) Lancer la recherche
-
-   Moteurs de recherche avancés
-     * Sénateurs actifs
-     * Dossiers législatifs
-     * Questions parlementaires
-     * Rapports d'informations
-     * Comptes rendus de séance
-     * Comptes rendus des commissions
-     * Textes européens
-     * Documents de travail
-
-   (BUTTON) Voir le fil d’Ariane
-    1. Accueil
-    2. Travaux parlementaires
-    3. Rapports et documents de travail
-    4. Rapports d'information
-
-Évolution des modes de travail, défis managériaux : comment accompagner
-entreprises et travailleurs ?
-
-   Rapports d'information
-
-   Rapport d'information n° 759 (2020-2021), déposé le 8 juillet 2021
-
-(BUTTON) Les informations clés Les informations clés
-
-Nature
-
-   Rapport d'information
-
-Structure en charge
-
-   Délégation aux entreprises
-
-RAPPORTEURS
-
-     * Martine BERTHET
-     * Michel CANÉVET
-     * Fabien GAY
-
-ESSENTIEL
-
-     * Voir l'essentiel
-
-NOTICE DU DOCUMENT
-
-   Voir la notice
-   (BUTTON) Autres formats
-     * PDF
-     * En une page HTML
-     * Version imprimée
-
-   Sommaire
-     * Page précédente
-     * Page suivante
-
-C. TRAVAIL ET PARCOURS PROFESSIONNELS : LA VIE N'EST PLUS UN LONG FLEUVE
-TRANQUILLE
-
-1. Mobilité et parcours professionnels
-
-a) Des carrières de plus en plus fragmentées
-
-   Certes, l'illusion de l'emploi à vie a été intégrée, mais l'ampleur des
-   transformations à venir ne semble pas réellement perçue par les
-   travailleurs.
-
-   Plusieurs phénomènes concourent à une transformation des modes de
-   travail et des évolutions de carrière des actifs. L'accélération des
-   changements de métiers ou d'employeurs répond à plusieurs tendances .
-
-   La première tendance est celle d'une évolution de plus en plus rapide
-   des métiers, notamment liée aux nouvelles technologies . Le rapport ^61
-   ( * ) de la Délégation aux entreprises fait par Michel Canévet et
-   Guy-Dominique Kennel « Des compétences de toute urgence pour l'emploi
-   et les entreprises » de juin 2020 met en évidence cette transformation
-   massive des emplois à laquelle la France est insuffisamment préparée.
-
-   L'exemple des Hauts-de-France, cité par la Délégation aux entreprises,
-   est assez significatif des changements à venir. Ainsi, la région des
-   Hauts-de-France, la DGEFP, la Direccte Hauts-de-France, le Conseil
-   régional, le Medef Lille Métropole et Opcalia ont mené une action
-   commune pour évaluer, sous forme d'étude, l'impact de l'intelligence
-   artificielle sur les emplois et les compétences dans cette région. Les
-   chiffres sont saisissants : sur les 542 métiers répartis sur
-   23 secteurs identifiés, 523 seront « impactés » ! Et cela concerne des
-   emplois de niveau « Bac -4 à Bac +10 », comme cela a été rappelé lors
-   de la table ronde organisée par la Délégation aux entreprises le
-   28 novembre 2019 sur l'impact des nouvelles technologies, en
-   particulier de l'intelligence artificielle (IA), sur l'évolution des
-   métiers de demain et des besoins en formation.
-
-   Pourtant, une enquête de 2018 menée par l'Observatoire des trajectoires
-   professionnelles montre que 80 % des personnes interrogées pensent que
-   l'évolution des métiers, notamment en raison de l'impact des nouvelles
-   technologies, ne les concernera pas . Seuls 17 % envisagent la
-   formation professionnelle pour se former à un nouveau métier.
-
-   La deuxième tendance observée est la facilité de changement liée à
-   l'ère du digital et à la fragmentation de l'emploi, qui a été intégrée
-   par les travailleurs, notamment les jeunes générations . En moyenne,
-   une personne change d'emploi entre 5 et 13 fois au cours de sa carrière
-   . La durée moyenne au même poste est d'environ 5 ans. Selon Pôle
-   Emploi, les jeunes actifs d'aujourd'hui changeront en moyenne 13 à 15
-   fois d'emploi au cours de leur vie . Mais les raisons peuvent varier :
-   soit les jeunes « zappent » d'un emploi à l'autre en fonction de leurs
-   envies et de leur degré de satisfaction, soit ils subissent les
-   conséquences d'une fragmentation de l'emploi qui ne leur permet un
-   accès à ce dernier qu'au travers de contrats courts et de missions
-   temporaires. Enchaîner les CDD est devenu pour certains la norme et les
-   changements fréquents d'employeurs ne les empêchent pas, selon le
-   CEREQ, d'être « optimistes » car même un contrat court est une chance
-   dans un contexte de chômage élevé.
-
-   Une enquête de l'Observatoire des trajectoires professionnelles montre
-   qu' en 2018 , 1 actif sur 3 a connu une transition professionnelle,
-   contre 1 sur 4 auparavant . Ces transitions concernent 80 % des 18-26
-   ans contre moins de 50 % précédemment.
-
-   Une étude ^62 ( * ) de l'Insee montre, en 2017, que dans Les Pays de la
-   Loire, comme en France métropolitaine en général, un salarié sur six
-   change de métier en un an . Les changements sont plus fréquents pour
-   les ouvriers non qualifiés , dont 32 % changent de métier en une année.
-
-   L'accélération des changements d'emplois a évidemment des conséquences
-   sur les carrières et la protection sociale qui s'y rapporte. Pour le
-   Haut Conseil du Financement de la Protection Sociale (HCFiPS), le «
-   double mouvement de croissance des contrats courts et du travail
-   indépendant sur certaines activités, probablement lié en partie à un
-   taux de chômage important (le chômage apparaissant comme un déterminant
-   important de l'entrée dans le non-salariat), a des conséquences en
-   termes de protection sociale :
-
-   une augmentation des carrières plus heurtées et de la variabilité des
-   revenus , interrogeant le modèle de l'assurance chômage et la
-   constitution des droits sociaux (en matière d'IJ, d'AT-MP et de
-   retraite) ; »
-
-   une accélération des reconversions nécessitant des besoins accrus de
-   formation ;
-
-   un plus faible pouvoir de négociation (dialogue social, niveau de la
-   rémunération, représentation professionnelle), puisque ces travailleurs
-   ne sont pas présents de manière pérenne dans l'entreprise . »
-
-b) Générations « slasheurs » : choix ou nécessité ?
-
-   Selon le HCFiPS, fin 2016, 13 % des non-salariés agricoles cumulent
-   leur activité non-salariée avec une activité salariée : 12 % de ceux
-   imposés au régime réel et 20 % de ceux bénéficiant du régime du micro
-   bénéfice agricole. Hors agriculture, 16 % des travailleurs non-salariés
-   (soit 441 000) étaient en situation de pluriactivité en 2017 . D'après
-   l'Insee, pour trois quart de ces pluriactifs, le revenu indépendant
-   constitue un complément de revenu par rapport à l'activité salariée
-   (leur revenu salarié est supérieur à leur revenu issu de l'activité
-   indépendante). La pluriactivité concerne plus souvent des femmes (18 %
-   contre 14 % pour les hommes), et décroît avec l'âge (23 % des moins de
-   trente ans, 9 % parmi les 60 ans et plus). La pluriactivité concerne
-   surtout proportionnellement plus les micro-entrepreneurs (29 %), contre
-   13 % pour les professions libérales et seulement 7 % des autres
-   non-salariés non agricoles. L'Insee précise que les conditions de cumul
-   d'activités salariée et non-salariée sont très différentes selon le
-   régime social de l'indépendant.
-
-   Au total, 2,3 millions de Français cumuleraient plusieurs emplois en
-   2018 et selon une étude Opinion Way de 2019, près de trois salariés sur
-   dix souhaiteraient exercer deux activités salariées en parallèle .
-   Comme le note la journaliste Claudia Cohen, « « les pluriactifs», ces
-   personnes qui cumulent plusieurs activités professionnelles en
-   parallèle répondent aussi au nom moins français de « slasheurs ». Ce
-   terme fait référence au signe «/», symbole de la séparation entre leurs
-   différentes activités professionnelles , notamment sur leur profil
-   LinkedIn, où l'on peut rencontrer des intitulés aussi iconoclastes que
-   «vendeur de vêtements/professeur de salsa » ».
-
-   Le terme « slasheur » apparaît pour la première fois pour désigner la
-   polyvalence dans le travail en 2007 , dans un article du New York Times
-   signé de la journaliste Marci Alboher. Depuis, on évoque fréquemment
-   l'apparition d'une « génération slasheur » en référence aux
-   « milléniaux », jeunes adultes aujourd'hui âgés de 20 à 35 ans , qui se
-   distinguent par un haut niveau d'études et travaillent en indépendants
-   dans différents métiers à la fois . Pourtant le profil semble avoir
-   évolué et concerne aujourd'hui davantage de jeunes peu ou pas diplômés
-   , comme l'a montré le chapitre consacré aux travailleurs indépendants
-   des plateformes numériques, notamment les livreurs à domicile qui sont
-   généralement connectés à plusieurs plateformes ou cumulent plusieurs
-   emplois. Les slasheurs choisissent donc la pluriactivité également par
-   nécessité, notamment pour faire face à la crise, et pas seulement par
-   choix comme c'était le cas à l'origine.
-
-   Dans un avis ^63 ( * ) de 2019 sur « Les jeunes et l'avenir du
-   travail », le CESE (Conseil économique social et environnemental)
-   mentionne l'enquête Viavoice-ManpowerGroup de 2017, qui confirme
-   globalement la détermination et l'optimisme relatif des 18-30 ans face
-   à un monde du travail pourtant difficile, leur attitude pragmatique
-   vis-à-vis des transformations en cours (changements techniques,
-   mondialisation...) et une acceptation des mobilités en lien avec
-   l'évolution des missions et des projets qui peuvent leur être confiés.
-   « Mais au-delà de cet état d'esprit général , les auteurs de l'enquête
-   ViaVoice-ManpowerGroup font le constat d'une « jeunesse divisée sur son
-   rapport au changement et ses aspirations au travail » entre ceux qui se
-   vivent comme des «acteurs volontaires du changement» et ceux qui, sans
-   nier le changement, sont à la recherche de stabilité. Ce clivage
-   correspond, au moins pour partie, à des différences marquées de capital
-   social et culturel chez les quelques 1 000 jeunes ayant participé à
-   l'enquête ».
-
-   Parmi ceux aspirant à la stabilité professionnelle, un premier profil
-   est décrit comme plutôt issu des milieux populaires, intégrés au marché
-   du travail souvent sur des emplois précaires ; un second profil dit «
-   pragmatique », toujours dans le champ de la stabilité n'est pas
-   socialement caractérisé mais est associé à une ambition limitée (bien
-   gagner sa vie dans un cadre plutôt rassurant). À l'inverse, le groupe
-   des « acteurs volontaires du changement » se répartit entre ceux
-   (qualifiés d'« optimistes exigeants ») « qui aspirent, à la faveur des
-   transformations en cours, à changer l'entreprise dans une perspective
-   humaniste et en conformité avec des valeurs personnelles et ceux qui
-   privilégieront les opportunités d'évolution rapide de leur carrière
-   dans le cadre d'une « entreprise évolutive » (qualifiés d'« optimistes
-   flexibles ») ». Bien qu'ils affichent un rapport au travail très
-   différent, ces deux derniers profils, correspondent plutôt à des jeunes
-   diplômés et qualifiés qui peuvent se projeter de manière sereine et
-   positive dans les transformations du travail, soit pour tenter de les
-   maîtriser soit pour les mettre à profit.
-
-   L'analyse du CESE montre donc bien qu'il est impossible de réduire les
-   slasheurs à un seul profil type, leurs aspirations et leurs situations
-   sociales et professionnelles variant de façon très importante d'un
-   jeune à l'autre.
-
-   Les slasheurs sont peut-être finalement le symbole de l'évolution du
-   marché du travail, marqué par une polarisation des qualifications, des
-   revenus et des parcours, une fragmentation du travail et une
-   flexibilité typique des organisations « agiles » auxquelles les actifs
-   s'adaptent de façon plus ou moins volontaires .
-
-2. La nécessaire adaptation des entreprises
-
-a) Des organisations et des besoins qui évoluent rapidement
-
-   France Stratégie s'est justement penchée sur les évolutions de
-   l'organisation du travail et le caractère « agile » des organisations.
-   Dans un rapport ^64 ( * ) de 2017, l'économiste Salima Benhamou observe
-   qu'aujourd'hui coexistent deux types d'organisations. D'une part des
-   organisations classiques , « simples » (16 % des salariés en Europe) ou
-   « tayloriennes » (18 % des salariés en Europe), qui se caractérisent de
-   la manière suivante : faible autonomie des travailleurs, forte
-   répétitivité des tâches, faible contenu cognitif, etc.) ; d'autre part
-   des organisations modernes , soit « apprenantes » (37 % des salariés en
-   Europe en 2010) ou de « lean production » (29 % des salariés
-   européens). Elles reposent sur les critères suivants : haute
-   performance, autonomie du travail, apprentissage.
-
-   En France, en 2010, 54 % des salariés français travaillaient dans une
-   organisation dite moderne, contre 66 % en moyenne en Europe . Comme
-   l'indique l'étude de France Stratégie, les organisations modernes
-   offrent de meilleures perspectives pour les salariés , notamment parce
-   qu'elles misent sur la formation et le développement des compétences,
-   absolument essentielle pour la survie des entreprises comme l'a rappelé
-   le rapport précité de Michel Canévet et Guy-Dominique Kennel. On doit
-   noter une distinction forte entre d'une part les organisations
-   « apprenantes » qui misent sur des compétences générales ou « soft
-   skills », hautement transférables, et les organisations « Lean » ^65 (
-   * ) qui privilégient des compétences spécifiques à l'entreprise qui
-   forme (connaissances techniques et savoir-faire), et sont par
-   conséquent moins transférables d'un emploi à l'autre .
-
-   En outre, les conditions de travail et la qualité de vie au travail
-   diffèrent entre ces deux types d'organisations modernes . Elles sont
-   bien meilleures dans les organisations apprenantes alors que les
-   sondages font ressortir davantage la dimension stressante des
-   conditions de travail des organisations Lean . Pourtant, sur ce dernier
-   point, le témoignage de Mme Emmanuelle Legault, Président-directeur
-   général du groupe de construction de portails Cadiou (Finistère),
-   montre que la même méthode peut avoir des résultats bien différents
-   selon la façon dont elle est appliquée . Ayant adopté le lean
-   management à la suite de plusieurs crises de croissance, ce groupe à la
-   fois artisanal et industriel a connu un développement spectaculaire
-   passant de 150 à 550 salariés (avec lesquels le bénéfice du groupe est
-   partagé) et un chiffre d'affaires évoluant de 15 à 80 millions d'euros.
-   Pour cette PDG, « le collaborateur est au centre de l'innovation et du
-   progrès . (...) Cadiou est une entreprise orientée vers le capital
-   humain, le bien-être au travail . Nous disposons d'une infirmière,
-   d'une assistante sociale et d'un responsable qualité de vie au travail.
-   Notre trophée de l'innovation permet tous les ans de mettre en valeur
-   les initiatives intéressantes des salariés. La performance est
-   naturellement au rendez-vous. En respectant le salarié autant que le
-   client , la méthode fonctionne très bien. Les salariés sont au plus
-   proche de la valeur ajoutée, il faut leur faire confiance, leur laisser
-   prendre des initiatives ; cela donne du sens à leur travail. »
-
-   L'étude de France Stratégie énumère les 5 facteurs déterminants pour
-   l'organisation du travail de demain :
-
-   - Les nouvelles technologies,
-
-   - L'évolution de la société elle-même et de la population active,
-
-   - L'environnement économique,
-
-   - L'environnement institutionnel (législatif, réglementaire, la
-   protection sociale...),
-
-   - L'évolution démographique.
-
-   À partir de ces facteurs, il est possible d'envisager quatre types
-   d'organisation qui pourront structurer le monde du travail en 2030 .
-   Ainsi, comme le montre l'infographie ci-après, on peut imaginer les
-   catégories suivantes :
-
-   - L'organisation apprenante , apparaissant comme une solution pour le
-   secteur de la santé et du médico-social qui devra accompagner le
-   vieillissement de la population. Elle implique de former massivement
-   des travailleurs aux nouveaux métiers, notamment dans le domaine de
-   l'aide à la personne ;
-
-   - La plateforme collaborative virtuelle , qui vise à répondre à une
-   concurrence mondiale accrue et au développement du Big Data comme
-   élément structurant. L'entreprise Lego a ainsi créé une plateforme
-   collaborative Lego Digital Designer pour associer une communauté de
-   clients - parents et enfants - à la stratégie d'innovation « ouverte ».
-   Le constructeur automobile Local Motors dispose d'une équipe réduite à
-   12 concepteurs car son logiciel de design et d'ingénierie permet de
-   bénéficier de la participation de 13 000 contributeurs en ligne . Ces
-   organisations, comme aujourd'hui les plateformes numériques évoquées
-   précédemment, sont évidemment porteuses d'un « grand chamboulement » en
-   matière de conditions et relations de travail, de systèmes de
-   rémunération et de cadre légal du travail . La réalisation d'une tâche
-   ou d'une mission va déterminer la rétribution et redéfinir les
-   relations classiques. Même une entreprise traditionnelle comme
-   Colgate-Palmolive a commencé à s'adapter à cette nouvelle forme
-   d'organisation du travail : elle a offert un prix à celui ou celle qui
-   créerait la meilleure publicité pour ses produits dédiés à la vente sur
-   internet.
-
-   - Le super-intérim, ultra-flexible, qui pourrait se généraliser dans
-   les secteurs qui connaissent des pics de demande de courte durée. Le
-   modèle des plateformes numériques de travail correspondrait à ce
-   schéma, avec une société à deux vitesses où se côtoieraient « une
-   « techno-élite » bien intégrée et un « techno-prolétariat » dévolu aux
-   tâches à faible valeur ajoutée » . Des secteurs comme
-   l'hôtellerie-restauration ou le bâtiment pourraient y avoir recours
-   sans avoir à gérer les contraintes des procédures de recrutement dans
-   un contexte de pénuries de main d'oeuvre. La perspective d'une «
-   gig-economy » , c'est-à-dire une économie de petits boulots faiblement
-   rémunérés, constituerait à terme un accroissement de précarisation et
-   de concurrence extrême entre travailleurs peu qualifiés .
-
-   - Le taylorisme new age , dans lequel les modes de production
-   connaîtront une révolution avec l'automation et les nouvelles
-   technologies. Les travailleurs y seraient des « contributeurs »
-   réalisant des micro-tâches (domaines juridique, informatique, de
-   services) au sein d'un marché du travail caractérisé par une
-   polarisation absolue.
-
-   Au-delà de ces scénarios proposés par France Stratégie, dans lesquels
-   on retrouve les logiques développées précédemment au sujet des
-   plateformes numériques, du télétravail ou des micro-entrepreneurs,
-   d'autres perspectives peuvent émerger parallèlement. Ainsi par exemple,
-   Marc-Éric Bilillier Chaumon, professeur de psychologie du travail,
-   expose les enjeux de la robotique et du numérique dans un entretien de
-   mai 2018 ^66 ( * ) : « situation inédite où les robots ne sont plus
-   seulement une technologie substitutive mais deviennent des collègues de
-   travail, avec mutualisation de l'activité entre la machine et l'homme.
-   L'enjeu est d'en faire une collaboration propice à l'accomplissement de
-   l'individu, à la qualité de son travail et au développement de
-   l'activité et des compétences . »
-
-   Toutes ces hypothèses d'évolution des organisations du travail à moyen
-   terme sont révélatrices de tendances profondes et parfois brutales
-   d'évolution des modes de travail . Ces changements majeurs, entraînés
-   par de nouveaux acteurs économiques agiles et puissants, seront
-   également structurants pour l'ensemble des entreprises qui devront
-   nécessairement trouver les moyens de s'adapter pour se maintenir.
-
-   Elles vont devoir trouver les ressources humaines pour appréhender ces
-   changements et les intégrer en leur sein . Cela constitue un véritable
-   défi, notamment en France où la formation aux compétences des métiers
-   de demain accuse un retard d'ores-et-déjà handicapant.
-
-b) TPE et PME : des pistes pour relever les défis de demain
-
-(1) Les défis
-
-   Compte tenu de toutes ces évolutions déjà en cours, on comprend le
-   désarroi, ou à tout le moins le défi, auxquels sont confrontés les
-   dirigeants de TPE et PME. Déjà à la traîne en matière de simple
-   numérisation, ces dernières devront faire preuve d'une agilité accrue
-   pour s'adapter à la concurrence engendrée par ces nouvelles
-   organisations de demain.
-
-   Le sujet de la numérisation , déjà traité en 2019 par la Délégation aux
-   entreprises dans un rapport ^67 ( * ) de Pascale Gruny intitulé
-   « Accompagnement de la transition numérique des PME : comment la France
-   peut-elle rattraper son retard ? », montre bien que les entreprises de
-   taille modeste n'ont pas les moyens de recruter les personnes
-   compétentes pour les accompagner en interne, et qu'elles dépendent
-   davantage de mesures d'accompagnement et d'incitation exogènes. Dans le
-   prolongement de la numérisation, le même problème est rencontré en
-   matière de cybersécurité , qui constitue pourtant un enjeu majeur,
-   comme le démontre le récent rapport ^68 ( * ) de Sébastien Meurant et
-   Rémi Cardon pour la Délégation aux entreprises : « La cybersécurité des
-   entreprises - Prévenir et guérir : quels remèdes contre les cyber
-   virus ? ».
-
-(2) Partage salarial et CAE
-
-   Si les TPE et PME n'ont pas les moyens d'embaucher à plein de temps des
-   salariés compétents pour les accompagner aux divers changements à
-   venir, elles peuvent néanmoins s'appuyer sur des structures qui offrent
-   des compétences à temps partiel. Il s'agit notamment des sociétés de
-   portage salarial et des coopératives d'activité et d'emploi (CAE)
-   présentés dans un précédent chapitre, mais également des groupements
-   d'employeurs ^69 ( * ) (GE).
-
-   Comme cela est évoqué dans le chapitre précédent, les sociétés de
-   portage salarial souffrent toutefois de règles ne permettant pas
-   d'ouvrir cette possibilité à des travailleurs peu qualifiés , puisqu'il
-   a été précisément conçu pour des travailleurs qualifiés et autonomes.
-   Les contraintes de recours au portage salarial concernent en effet les
-   indépendants les plus favorisés : un niveau minimal de rémunération
-   (75 % du plafond de la sécurité sociale pour un salarié porté senior et
-   une exigence de qualification de niveau III (Bac +2)). Cette limitation
-   ne semble pas opportune à long terme, au regard des risques de
-   précarisation décrits plus haut. En outre, le niveau minimal de
-   rémunération requis correspond à 2 452 euros ^70 ( * ) bruts mensuels
-   en 2017, niveau d'honoraires qui exclut de facto certains métiers .
-   L'assouplissement s'inscrit d'ailleurs dans la logique du rapport de
-   Jean-Yves Frouin, qui préconise le portage des micro-entrepreneurs des
-   plateformes numériques.
-
-   Recommandation n° 9 : Assouplir les conditions de recours au portage
-   salarial afin d'en faire bénéficier des travailleurs moins qualifiés.
-
-(3) Groupement d'employeurs
-
-   Quant aux groupements d'employeurs (GE), ils ont été créés par la loi
-   du 25 juillet 1985 et sont définis aux articles L. 1253-1 et suivants
-   du code du travail.
-
-   Le groupement d'employeurs repose sur l'initiative d'acteurs
-   économiques pour répondre à leurs besoins de compétences. L'emploi est
-   créé par le regroupement d'entreprises solidaires, adhérentes, qui
-   mobilisent la main d'oeuvre via la mise à disposition des salariés du
-   GE qui partagent leur temps de travail entre ses adhérents .
-
-   Le groupement d'employeurs peut en particulier permettre aux TPE et aux
-   PME de faire face aux fluctuations d'activité, à la saisonnalité, aux
-   difficultés de recrutement et de mobilisation de compétences
-   spécifiques sur certains territoires ou pour certains métiers . Il
-   représente un modèle vertueux qui garantit d'un côté la flexibilité
-   indispensable aux PME et la sécurité de l'emploi aux travailleurs
-   puisque 75 % des emplois sont à temps complet et 70 % des salariés en
-   CDI .
-
-   Le processus de recrutement débute souvent par l'expression d'un besoin
-   en compétence d'une entreprise adhérente. Le GE s'efforce alors de
-   trouver le profil adéquat, embauché souvent à temps partiel dans un
-   premier temps. Puis, si le travailleur le désire, il va souvent trouver
-   l'opportunité de travailler pour plusieurs employeurs car le GE va
-   faire sa promotion auprès des autres adhérents susceptibles d'être
-   intéressés par ses compétences.
-
-   Comme l'ont rappelé tous les acteurs des groupements d'entreprise
-   rencontrés par la Délégation, cette formule permet aux travailleurs de
-   trouver à la fois la stabilité mais également la diversité des
-   expériences propice à leur épanouissement personnel. Nombreux sont les
-   travailleurs qui disent ne pas vouloir se cantonner à un seul employeur
-   et une seule entreprise. Certains cumulent d'ailleurs des métiers
-   différents dans une même semaine , comme l'a indiqué le dirigeant de
-   Clef Job , formidable GE multisectoriel qui devrait passer de 600 à
-   1 000 salariés en CDI au cours de cette année en misant sur des
-   recrutements de terrain dans les zones défavorisées de
-   Seine-Saint-Denis.
-
-   Pour résumer les avantages de cette organisation originale, le GE est
-   un moyen pour l'entreprise adhérente :
-
-   - De faire face aux fluctuations d'activité , à la saisonnalité, aux
-   difficultés de recrutement (notamment pour les TPE et PME) et de
-   mobilisation de compétences spécifiques sur certains territoires ou
-   pour certains métiers connaissant des difficultés de recrutement
-   (logistique, bâtiment, etc.) ;
-
-   - D'avoir accès à une main-d'oeuvre qualifiée qu'elle pourra fidéliser
-   dans des contextes de fluctuation ou d'intermittence de l'activité, ou
-   de besoin de compétences très spécifiques - qualiticien, chargés de
-   communication, etc. ;
-
-   - De bénéficier de l'effet réseau : les entreprises du groupement sont
-   partie-prenantes de la gouvernance du GE et solidairement responsables
-   des dettes du groupement à l'égard de ses salariés et des organismes
-   créanciers ; les entreprises du groupement sont en relation avec les
-   acteurs socio-économiques du territoire (branches, collectivités,
-   services de l'État) ;
-
-   - De bénéficier d'une offre de services interne dédiée à la
-   coordination des emplois, à la sécurisation des recrutements et à la
-   gestion des ressources humaines . Les entreprises sont déchargées des
-   tâches administratives.
-
-   Le GE est également un moyen pour les salariés :
-
-   - D'avoir une relation d'emploi stable avec un employeur unique doté de
-   compétences en matière de gestion des ressources humaines (ce qui
-   permet d'alléger la gestion en situation de pluriactivité et de
-   consolider l'emploi sur un temps plein en CDI) ;
-
-   - De bénéficier d'un meilleur accès aux droits via un contrat de
-   travail unique (couverture sociale, formation professionnelle,
-   prévoyance, convention collective, dispositifs d'intéressement et de
-   participation) ;
-
-   - De sécuriser son emploi en bénéficiant de la répartition des effets
-   des aléas économiques liée à l'existence d'un collectif d'entreprises
-   solidaires ;
-
-   - De bénéficier d'une parité de traitement avec les salariés des
-   entreprises dans lesquelles ils sont mis à disposition ;
-
-   - D'enrichir leur parcours professionnel (les différentes expériences
-   et la confrontation à des environnements de travail diversifiés
-   favorisent l'acquisition de compétences transversales et donc
-   transférables).
-
-   Un GE peut être constitué sous différents statuts, association loi 1901
-   ou société coopérative relevant de la loi du 10 septembre 1947 portant
-   statut général de la coopération et de la loi du 20 juillet 1983
-   relative au développement de certaines activités d'économie sociale.
-   Sont également considérées comme des groupements d'entreprises, les
-   sociétés coopératives existantes qui développent, au bénéfice exclusif
-   de leurs membres, des activités répondant à la définition d'un
-   groupement d'employeurs.
-
-   Même si aucun suivi statistique n'est assurée, une étude Geste / DGEFP
-   de 2016 a permis d'identifier 3 711 GE agricoles, 711 GE non agricoles,
-   pour un nombre total de 46 000 salariés environ .
-
-   Cette organisation du travail, qualifiée de « solution d'avenir » par
-   de nombreux acteurs économiques favorables au développement d'un emploi
-   stable au sein des territoires, rencontre pourtant des obstacles à son
-   développement .
-
-   Même si la loi « Travail » ^71 ( * ) de 2016 a permis au groupement
-   d'employeurs de bénéficier des aides publiques en matière d'emploi et
-   de formation professionnelle dont auraient bénéficié leurs entreprises
-   adhérentes si elles avaient embauché directement les personnes mises à
-   leur disposition, de nombreux aspects méritent encore d'être creusés.
-
-   Une proposition de loi n°2679 a d'ailleurs été déposée le 11 février
-   2020 et renvoyée à la commission des affaires sociales de l'Assemblée
-   nationale. Elle visait à favoriser le développement des groupements
-   d'employeurs et reprend plusieurs propositions du CESE dans son rapport
-   ^72 ( * ) de 2018.
-
-   L'objet du présent rapport n'est pas de détailler les obstacles
-   concrets qui sont présentés à la fois par le CESE mais également dans
-   les contributions écrites présentées en annexe du présent rapport. On
-   peut toutefois apporter quelques précisions concernant trois sujets :
-
-   - Les GE multisectoriels peuvent rencontrer des obstacles pour obtenir,
-   auprès des OPCO, le financement de formations à des métiers relevant de
-   secteurs très différents. Cette difficulté, soulevée par une partie des
-   représentants des GE, est d'autant plus grande lorsqu'un même
-   travailleur a besoin de se former à des métiers différents qu'il va
-   exercer concomitamment. Les logiques d'identification des besoins en
-   formation ne semblent pas adaptées aux évolutions du monde du travail
-   décrites plus haut. Les difficultés risquent de s'accentuer comme cela
-   est détaillé dans le tableau ci-dessous.
-
-   LA PROBLÉMATIQUE DU FINANCEMENT DE LA FORMATION POUR LES GROUPEMENTS
-   D'EMPLOYEURS
-
-   Aujourd'hui, cette situation est potentiellement « floutée » pour les 3
-   raisons principales suivantes :
-
-   Le dispositif « FNE ^73 ( * ) » (fonds national de l'emploi) a permis
-   de larges actions de formation durant la crise sanitaire (ou certains
-   GE ont été mis en sommeil du fait de l'activité partielle en 2020) ;
-
-   De nombreux adhérents de la FNGE parviennent encore à collaborer avec
-   un des OPCO anciennement liés à l'interprofessionnel (AKTO anciennement
-   OPCALIA dans 40% des cas) et non l'OPCO de la convention collective
-   nationale (CCN) de leur GE ;
-
-   Le rattachement de l'OPCO lié à CCN du GE ne sera appliqué
-   stricto sensu qu'en 2022 par l'URSSAF qui sera alors chargée du
-   recouvrement des cotisations formation et appliquera automatiquement
-   les textes.
-
-   Dès lors, les besoins des GE multisectoriels en matière de formation ne
-   seront plus pris en compte de façon aussi adaptée que par le passé.
-
-   Exemples : un GE appliquant la CCN « pâtisserie industrielle » qui
-   demande à financer la formation de son directeur pour suivre le diplôme
-   Manager de Groupement d'Employeurs se verrait essuyer un refus. Même
-   risque pour ce GE pour une demande de contrat de professionnalisation
-   pour un diplôme agricole pour un salarié à disposition d'une entreprise
-   adhérente....
-
-   En tant qu'acteur de la sécurisation des parcours professionnels, les
-   GE consacrent en moyenne 6 % de leur masse salariale brute à la
-   formation (Étude Asparagus - UGEF - OPCALIA - 2011). Cela démontre
-   l'importance de la formation dans leur activité qui est aujourd'hui
-   renforcée dans le contexte de pénurie de compétences que nous
-   connaissons. En 2022, ils se verront refuser l'accès aux conseils en
-   ingénierie que leur consacraient les OPCO de l'interprofessionnel et à
-   une partie des prises en charge financières. C'est ce que nous
-   constatons d'après le témoignage de GE qui ont déjà changé d'OPCO :
-   absence de relations directes avec les conseillers des OPCO, traitement
-   à distance de leurs demandes de prise en charge, application des textes
-   sans recherche de solutions, pas d'actions collectives....
-
-   Source : FNGE (fédération nationale des groupements d'employeurs).
-
-   Il apparaît qu'un service dédié au sein de France Compétences
-   permettrait de résoudre les difficultés ponctuelles en répercutant les
-   demandes auprès des OPCO, tandis que ce guichet unique permettrait par
-   ailleurs de recueillir les données statistiques manquantes, sans créer
-   pour autant un nouvel observatoire. Cette mesure pourrait utilement
-   être complétée par l'inscription d'objectifs d'accompagnement des GE
-   dans les contrats d'objectifs et de moyens (COM) des OPCO que fixe la
-   DGEFP . Ainsi, des indicateurs de performance seraient établis pour
-   mesurer les efforts des OPCO dans ce domaine.
-
-   - La crise économique actuelle met en évidence les limites de la
-   solidarité financière entre adhérents d'un GE, notamment en cas de
-   défaillances en cascade . Compte tenu du caractère non lucratif des GE,
-   ils n'ont pas la solidité financière pour survivre à des défaillances
-   multiples de leurs membres. La créance à l'égard du groupement
-   constitue donc, en période de crise, un risque d'effet domino et de
-   condamnation des GE, ce qui n'est pas souhaitable. À défaut d'une
-   reconnaissance d'un super-privilège dans le droit des entreprises en
-   difficulté, la solution réside certainement dans la prise en charge du
-   paiement des salaires par le régime de garantie des salaires (AGS).
-   L'AGS, dont la pérennité était récemment remise en cause en raison d'un
-   projet d'ordonnance réformant le droit des sûretés, a été unanimement
-   défendu par les sénateurs de tous groupes politiques, et en premier
-   lieu par le président de la Délégation aux entreprises, Serge Babary
-   ^74 ( * ) au cours d'un débat en séance publique à l'issue duquel a été
-   adopté une proposition de résolution ^75 ( * ) relative à l'avenir du
-   régime de garantie des salaires .
-
-   - En matière de TVA, la modification récente de l'article 261 B ^76 ( *
-   ) du code général des impôts - Bofip du 10 février 2021 - pour les GE à
-   compter du 1 ^er janvier 2023 résout la plupart des questions soulevées
-   précédemment en matière de fiscalité.
-
-   Les rapporteurs, comme l'ensemble des sénateurs de la Délégation,
-   jugent urgent de lever enfin les obstacles que rencontrent de façon
-   injustifiée les groupements d'employeurs.
-
-   Recommandation n° 10 : Lever les obstacles au développement des
-   groupements d'employeurs :
-
-   - Prévoir la possibilité de prise en charge, par l'AGS, des créances
-   salariales en cas de défaillance d'entreprises membres d'un groupement
-   d'employeur ;
-
-   - Simplifier de façon définitive la comptabilisation des effectifs, qui
-   aujourd'hui sont évalués de 4 façons différentes selon les
-   interlocuteurs administratifs ;
-
-   - Instituer, au sein de France Compétences, un guichet unique pour les
-   groupements d'employeurs (GE) afin de simplifier la prise en charge des
-   formations par les opérateurs de compétences (OPCO) et la connaissance
-   de ces acteurs ;
-
-   - Fixer des objectifs d'accompagnement des groupements d'employeurs
-   dans les contrats d'objectifs et de moyens (COM) des OPCO.
-     __________________________________________________________________
-
-   * ^61 http://www.senat.fr/notice-rapport/2019/r19-536-notice.html
-
-   * ^62 https://www.insee.fr/fr/statistiques/2650453
-
-   * ^63
-   https://www.lecese.fr/sites/default/files/pdf/Avis/2019/2019_09_jeunes_
-   avenir_travail.pdf
-
-   * ^64
-   https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files
-   /dt_-_imaginer_lavenir_du_travail_quatre_types_dorganisation_du_travail
-   _a_lhorizon_2030_0.pdf
-
-   * ^65 Introduite au cours des années 1970 dans les usines du
-   constructeur automobile Toyota, cette approche managériale est axée sur
-   l'amélioration de la qualité et une rationalisation maximale des coûts
-   de production, via la standardisation et le respect des normes. Pour en
-   savoir plus : https://www.institut-lean-france.fr/introduction-au-lean/
-
-   * ^66 L'usine nouvelle, 3 mai 2018, «Entretien : éviter que le salarié
-   devienne un assistant »
-
-   * ^67 https://www.senat.fr/notice-rapport/2018/r18-635-notice.html
-
-   * ^68 http://www.senat.fr/notice-rapport/2020/r20-678-notice.html
-
-   * ^69
-   https://travail-emploi.gouv.fr/IMG/pdf/lesge-a-la-lumiere-de-leurs_enje
-   ux_2016_.pdf pour une présentation des enjeux.
-
-   * ^70 Ce montant, relayé par la Fédération européenne de portage
-   salarial, correspond au seuil minimum pour un salarié porté senior,
-   soit 75 % du plafond de la sécurité sociale. Il y a également un seuil
-   à 70% pour un salarié porté junior (soit 2 288 euros) et un seuil à
-   85 % pour un salarié porté en forfait jours (soit 2 778 euros). La
-   référence globale retenue est une rémunération mensuelle minimale brute
-   de 2 517,13 euros.
-
-   * ^71 Loi du 8 août 2016 n°2016-1088 - Article 88 ; ; Article L.1253-24
-   du Code du travail
-
-   * ^72
-   https://www.vie-publique.fr/sites/default/files/rapport/pdf/184000727.p
-   df
-
-   * ^73
-   https://travail-emploi.gouv.fr/emploi/accompagnement-des-mutations-econ
-   omiques/appui-aux-mutations-economiques/fne-formation
-
-   * ^74
-   http://videos.senat.fr/video.2268736_609131b0ee617.seance-publique-du-4
-   -mai-2021-apres-midi?timecode=1595000
-
-   * ^75 https://www.senat.fr/dossier-legislatif/ppr20-463.html
-
-   * ^76 « Les services rendus à leurs adhérents par les groupements
-   constitués par des personnes physiques ou morales exerçant une activité
-   exonérée de la taxe sur la valeur ajoutée ou pour laquelle elles n'ont
-   pas la qualité d'assujetti sont exonérés de cette taxe à la condition
-   qu'ils concourent directement et exclusivement à la réalisation de ces
-   opérations exonérées ou exclues du champ d'application de la taxe sur
-   la valeur ajoutée et que les sommes réclamées aux adhérents
-   correspondent exactement à la part leur incombant dans les dépenses
-   communes ».
-
-   Sommaire
-     * Page précédente
-     * Page suivante
-
-Les thèmes associés à ce dossier
-
-     * Travail
-
-   Page mise à jour le 3 avril 2023
-   Partager cette page
-     * X
-     * Facebook
-     * LinkedIn
-     * E-mail
-
-   Nous suivre sur les réseaux
-     * X / Twitter
-     * Facebook
-     * LinkedIn
+     * Facebook Hominides
      * Instagram
-     * YouTube
-     * TikTok
 
-   Liens pratiques
-     * Foire aux questions
-     * Recrutement et stages
-     * Biens réformés
-     * Marchés publics
-     * Facturation
-     * Représentants d'intérêts
+   Logo Hominides.com
 
-   Services
-     * Visiter le Sénat
-     * Les abonnements du Sénat
-     * Participer aux consultations
-     * Déposer ou soutenir une pétition
-     * Flux RSS
-     * Accéder au Règlement du Sénat
+   Hominides
 
-
-    Le Sénat
-    15, rue de Vaugirard
-    75291 Paris Cedex 06
-    Standard : +33 (0)1 42 34 20 00
-
-   Nous contacter
-
-     * Mentions légales
-     * Plan du site
-     * Accessibilité : partiellement conforme
-     * Données personnelles
-     * Gestion des cookies
-     * Intr@Sénat
-
-   © Sénat 2024. Tous droits réservés.
+   Les évolutions de l'Homme, de Toumaï à Homo sapiens
 
    (BUTTON)
+     * Accueil
+     * Dossiers (BUTTON) Toggle sub-menu
+          + Evolution des espèces
+          + Spécialistes
+          + Animaux préhistoriques
+     * Articles
+     * Chronologie (BUTTON) Toggle sub-menu
+          + La Terre et la vie
+          + La Préhistoire
+          + Les cultures lithiques
+     * Art préhistorique
+     * Les hommes préhistoriques
+     * Musées & Sites
+     * Livres et médias
+     * Enfants
+     * Toggle search form
+       Rechercher : ____________________ Rechercher
+
+   Accueil / Dossiers / Evolution des espèces / L’évolution de l’homme, un
+   dessin qui prête à confusion…
+     * Scène de chasse - Sulawesi
+       Une scène de chasse vieille de plus de 40 000 ans, en Indonésie
+       Etudes et recherches
+     * Un voyage Géo-Mythologique, récits fantastiques des volcans et où
+       les trouver. Conférences
+     * Rahan, la préhistoire revisitée – Exposition Expositions
+     * Néandertal fait son chaud – Exposition Arkeos Douai Expositions
+     * Les relevés de l’art et les Arts du relevé Conférences
+     * L’Art rupestre préhistorique Conférences
+     * Massif Font-de-Gaume
+       Des tracés au charbon de bois identifiés à Font-de-Gaume Etudes et
+       recherches
+     * Mammouth tracé
+       Rouffignac : 13 nouvelles figures  Etudes et recherches
+
+   (BUTTON) prev (BUTTON) next
+
+L’évolution de l’homme, un dessin qui prête à confusion…
+
+   Ce dessin de l’évolution est une véritable image d’Epinal. Il est ancré
+   dans nos mémoires. Nous avons l’impression de l’avoir toujours vu… et
+   pourtant les idées qu’il véhicule sont fausses !
+
+   Dans d’anciens manuels de cours, dans la presse, sur internet, une
+   image est souvent utilisée pour représenter l’évolution de l’homme.
+   Cette image montre (de la gauche vers la droite) un singe courbé qui
+   avance vers la droite en se redressant et s’humanisant pour « finir »
+   en un Homo sapiens bien redressé…
+
+   Cette image, banalisée, est en fait pleine de sous-entendus et induit
+   en erreur le commun des mortels. Elle est d’autant plus dangereuse
+   qu’en plus de véhiculer une idée erronée des principes de l’évolution
+   humaine, elle est simple à comprendre et à retenir.
+   L’évolution de la lignée humaine ce n’est pas ça…
+
+Les origines de cette image
+
+   A lire également sur le web un article de André Gunthert expliquant
+   l’origine de ce type de dessin qui date de 1965. Cette progression du
+   singe vers l’homme est issue du livre The Early Man paru aux éditions
+   Time-Life.
+   Cet ouvrage fait partie d’une série pédagogique qui abordait plusieurs
+   thématiques comme l’Homme et l’espace, l’Univers… Ce sont des ouvrages
+   de grandes qualité dont au moins une partie a été traduite en français
+   (en 1969).
+   Dans un chapitre intitulé Sur la voie d’Homo sapiens, les auteurs ont
+   inséré un « dépliant » montrant l’ensemble des espèces (connues à
+   l’époque !) qui pourraient être à l’origine de l’homme moderne. Cette
+   louable intention pédagogique a en fait laissé penser que nous avions
+   une lignée directe entre le Pliopithecus et l’Homme moderne. C’est
+   cette image qui est à l’origine de toutes les déclinaisons que nous
+   connaissons aujourd’hui.
+   André Gunthert est chercheur en histoire visuelle et éditeur
+   multimédia. Maître de conférences à l’Ecole des Hautes Etudes en
+   Sciences Sociales (EHESS), il dirige le Laboratoire d’histoire visuelle
+   contemporaine.
+   [triangle.gif]  Lire l’article tiré d’une Intervention présentée dans
+   le cadre du séminaire « Mythes, images, monstres » qui a eu lieu le 26
+   novembre 2009.
+   The Early Man paru aux éditions Time-Life en 1936.
+
+   Voici le texte d’origine qui présentait l’image :
+   Sur la voie d’Homo sapiens
+   Quelles ont été les étapes de ce long cheminement qui a conduit nos
+   ancêtres, encore voisins des singés anthropomorphes, jusqu’à l’Homo
+   sapiens? Le tableau ci-contre qui commence en bas et à droite de cette
+   page et se poursuit sur les quatre pages suivantes, fait apparaître les
+   bornes qui jalonnent l’évolution des primates et de l’Homme, d’après
+   les documents fossiles fragmentaires que les savants d’aujourd’hui ont
+   pu rassembler. C’est une histoire instructive parce qu’elle nous révèle
+   l’existence d’êtres qui sont maintenant disparus. De plus, elle
+   illustre de façon imagée que l’on peut apprendre beaucoup à partir de
+   documents au premier abord insignifiants. Par exemple, ces quelques
+   ossements, apparemment pêle mêle, à gauche, peuvent donner une idée
+   tout à fait précise de la façon dont marchait Australopithecus, ce
+   bipède qui apparaît à l’aurore de l’humanité.
+   Beaucoup des reconstitutions de ce tableau ont été faites d’après des
+   restes encore plus fragmentaires : une mâchoire, quelques dents
+   parfois; les ombres blanches indiquent précisément les ossements qui
+   leur ont servi de base.
+   Ces reconstitutions sont donc en partie hypothétiques, mais même si des
+   découvertes ultérieures imposaient des changements, elles auraient
+   atteint leur but en montrant ce que pouvait être l’aspect de ces
+   primates disparus. On peut voir à quelle époque ils vécurent d’après
+   l’échelle chronologique figurée en haut de la page, bleue pour les
+   ancêtres des singes anthropomorphes, rouge et violette pour les
+   Hominidés, y compris les premiers représentants du genre Homo, verte
+   pour Homo sapiens. Les interruptions dans les bandes correspondent à
+   l’extinction de la lignée ou à des lacunes dans les documents fossiles.
+   Bien que les «ancêtres des singes anthropomorphes» aient été
+   quadrupèdes, tous sont ici figurés debout, pour faciliter la
+   comparaison.
+   Hominides.com remercie pour leur participation Yvette Deloison, Antoine
+   Balzeau, François Marchal et Jean-Luc-Voisin.
+
+Reprenons une à une toutes les erreurs véhiculées par cette image.
+
+L’évolution du singe à l’homme
+
+   Première anomalie, le dessin laisse entendre que l’ancêtre de l’homme
+   moderne était un chimpanzé. Qui plus est, ce singe ressemble à un
+   chimpanzé actuel. Ce qui reviendrait à dire que notre ancêtre est un
+   singe qui existe encore aujourd’hui… on voit ici l’absurdité de la
+   démonstration. A noter que cette image conforte les personnes qui
+   pensent encore que l’homme moderne descend du singe, autre absurdité…
+
+   Ce que nous savons
+   Nous savons que nous avons un ancêtre commun avec les grands singes en
+   général, et les grands singes africains en particulier. On estime que
+   cet ancêtre commun (le Dernier Ancêtre Commun, ou DAC) vivait il y a
+   environ 7 à 8 millions d’années, très probablement en Afrique. Il a
+   évolué vers deux lignées : la première vers les grands-singes africains
+   (bonobos, chimpanzés, gorilles) et la deuxième vers l’homme. En aucun
+   cas l’homme ne descend du chimpanzé ou d’un singe actuel !
+
+   Pour François Marchal (UMR 6578 – Unité d’Anthropologie Bioculturelle –
+   CNRS / Université de la Méditerranée / EFS) : « Evidemment que
+   l’ancêtre de l’homme est un singe. « Singe » est le mot vernaculaire
+   pour désigner les primates, ou éventuellement de façon plus restrictive
+   les primates supérieurs (anthropoïdes). Dans les deux cas, l’homme et
+   ses ancêtres sont des primates et des primates anthropoïdes, donc des
+   singes. Nous descendons donc bel et bien d’un singe, et même de toute
+   une lignée de singes et sommes nous-mêmes le dernier singe en date de
+   cette lignée.«
+   En savoir plus sur le Dernier Ancêtre Commun.
+
+Au cours de son évolution, l’homme se redresse pour marcher
+
+   Deuxième anomalie, le schéma montre un singe (pratiquant le
+   knuckle-walking) qui se redresse pour finir en bipède parfaitement
+   humain. Ici le dessin laisse entendre deux choses aussi différentes que
+   non prouvées :
+   – c’est une évolution logique de la marche que de commencer par
+   pratiquer la quadrupédie pour finir par la bipédie…
+   – les ancêtres de l’homme marchaient à quatre pattes.
+
+   Ce que nous savons
+   Il n’y a pas une seule bipédie mais plusieurs selon les animaux. Une
+   poule, un bonobo ou un homme ne marchent pas de la même façon mais tous
+   peuvent être classés comme bipèdes occasionnels ou permanents.
+   Si on se focalise sur les homininés, nos ancêtres utilisaient chacun
+   une bipédie spécifique selon leur morphologie. Ils ne se sont pas
+   forcément redressés pour marcher comme le laisse penser le dessin.
+   Nous connaissons plusieurs fossiles anciens qui montrent que nos
+   ancêtres étaient déjà au moins partiellement bipèdes
+   : Toumaï (7 Ma), Orrorin (6 Ma), Ardi (4 Ma), Lucy (3 Ma)… Mais il faut
+   noter que la bipédie de ces hominidés, surtout les plus anciens, est
+   encore apprement discutée par les scientifiques.
+   Concernant le Dernier Ancêtre Commun, nous n’avons pour l’instant
+   aucune idée de qui il était, et encore moins de son mode de locomotion.
+
+   Pour Yvette Deloison (Docteur d’Etat ès Sciences) : « A la suite des
+   études d’anatomie comparée entre l’homme actuel, les hominidés fossiles
+   et les grands singes, je suis arrivée à la conclusion, il y a dix ans
+   maintenant, que l’ancêtre commun des primates était un animal marchant
+   debout sur ses deux pieds, donc bipède (Revue de Biométrie Humaine et
+   Anthropologie, 1999, 17 : 147-150).
+   Cet être que j’ai baptisé le « Protohominoïdes bipes » a donné avec le
+   temps plusieurs lignées dont celle des hominidés restés bipèdes et
+   celle des singes devenus grimpeurs dans les arbres. Mon étude détaillée
+   a été publiée en 2004 dans un ouvrage paru chez Plon et malheureusement
+   épuisé « Préhistoire du piéton… » (ce livre a été réédité en 2013,
+   NDLR).
+   Sans compter de nombreuses publications en français, j’ai publié mon
+   hypothèse, sur l’origine bipède des Primates, aux USA non seulement
+   oralement au Meeting of American Journal of Physical Anthropology en
+   2000 (1999 Amer.Jour.of Phys.Anthrpo. sup.30, 2000:137) au Texas mais
+   aussi dans un livre édité à New York par Jeff Meldrun chez Kluwer
+   Academic / Plenum Publishers en 2004 « From Biped to Strider – The
+   emergence of Modern Walking, Running, and Resouce Transport » Chap.3 :
+   35-47.
+   Ce qui vient conforter mon hypothèse, en dehors de l’appui du monde
+   médical, anatomiste et même vétérinaire, c’est qu’une équipe célèbre de
+   scientifiques américains a exploité le résultat de mes travaux, dont
+   ils ont forcément connaissance, sans scrupule et surtout sans me citer
+   (Revue « Science » d’octobre 2009).
+   En savoir plus sur la bipédie
+
+L’animal évolue pour devenir parfait… un homme moderne !
+
+   Troisième erreur, le schéma nous montre un chemin unique de l’évolution
+   humaine. Chaque ancêtre a un descendant, suivi d’un autre… et ainsi de
+   suite jusqu’à l’homme moderne. Cela laisse supposer que l’homme actuel
+   était un objectif de l’évolution, une finalité. Ce qui est en totale
+   contradiction avec les nombreux fossiles retrouvés.
+
+   Ce que nous savons
+   Depuis 7 – 8 millions d’années il n’y a pas eu qu’une seule lignée bien
+   nette qui irait directement du Dernier Ancêtre Commun avec les grands
+   singes vers l’homme anatomiquement moderne. Les hominidés se sont
+   multipliés et certaines lignées ont disparu sans descendance
+   (comme Néandertal ou floresiensis). Notre évolution est plutôt
+   comparable à un arbre buissonnant dont certaines branches se séparent
+   et d’autres s’arrêtent. Plusieurs espèces appartenant au genre Homo ont
+   non seulement existé mais aussi coexisté. L’homme moderne est plutôt un
+   rescapé de la lignée comme les autres grands singes en voie
+   d’extinction.
+   Sans finalité, l’homme continue d’évoluer, comme les autres espèces
+   animales. Personne ne peut prédire ce qu’il deviendra ou ne deviendra
+   pas dans 10 000 ans…
+   En savoir plus sur la lignée humaine.
+
+   Pour Jean-Luc Voisin (Docteur en Paléontologie Humaine du Muséum
+   National d’Histoire Naturelle) : « Ce dessin reflète l’image que les
+   gens ont aujourd’hui de l’évolution, en particulier humaine.
+   C’est-à-dire que les êtres vivants d’aujourd’hui correspondent à des
+   stades évolutifs différents et que l’homme correspond à l’étape ultime.
+   Le succès de cette image tient à la fois de sa simplicité ainsi que des
+   idées préconçues qu’elle véhicule et qui nous renvoient à nos clichés
+   rassurants.
+   Ce dessin est aussi une très bonne illustration de la difficulté de
+   créer des documents pédagogiques, surtout ceux destinés aux enfants. En
+   effet, plus le public à qui on s’adresse est ignorant (dans le domaine
+   concerné) et plus il est nécessaire de simplifier. Or simplifier sans
+   faire d’erreur, ou sans entraîner des interprétations erronées, est
+   extrêmement difficile. Ainsi, tout document réalisé dans un but
+   pédagogique ne doit pas être diffusé sans les explications qui
+   normalement l’accompagnent sous peine d’entraîner, le plus souvent, des
+   mésinterprétations. Malheureusement, quel que soit le sujet aborder on
+   ne peut pas simplifier en dessous d’un certain niveau sans inclure des
+   erreurs, ou tout au moins de grandes imprécisions. Ainsi, il faut se
+   méfier des documents trop simplistes car le monde est complexe et ne
+   peut être résumé en quelques lignes ou en quelques coups de crayon. Il
+   sera toujours nécessaire de faire des efforts pour comprendre le monde
+   qui nous entoure. Quel que soit le domaine concerné, qu’il soit
+   scientifique ou non, il faut d’autant plus faire attention aux
+   interprétations et explications simplistes qui sont parfois faites dans
+   un but non pédagogiques mais bien de manipulations des esprits. En
+   restant dans le domaine de la science, les créationnistes de tout bord
+   sont très forts dans cet exercice. »
+   Arbre généalogique des hominidés Arbre généalogique des hominidés
+
+   L’évolution de l’homme au vue de nos connaissances
+   Comme on le voit, une simple image qui paraît facile à comprendre et
+   qui a été créée dans un but pédagogique peut générer des
+   interprétations fausses. Si l’évolution de l’homme n’est pas ce long
+   fleuve tranquille menant d’un chimpanzé quadrupède à un homme moderne
+   bipède, les scientifiques ne sont pas tous non plus d’accord sur le
+   même arbre de l’évolution. Tous cependant se retrouvent sur un modèle
+   d’évolution en forme de « buisson ». Parmi eux, Pascal Picq propose un
+   modèle admis par la majorité de la communauté scientifique.
+   Cliquez sur l’image de droite pour le découvrir en grand format
+
+Une image erronée de l’évolution mais reprise en boucle dans les médias
+
+   Cette image d’Epinal, reprise, utilisée comme démonstration, détournée,
+   fait en réalité plus de mal à l’anthropologie que beaucoup de discours.
+   Elle est devenue une source d’erreur, de mauvaises interprétation et de
+   contre-vérités. Ci-dessous quelques images d’évolution, parfois
+   humoristiques et détournées mais dans lesquelles le message est
+   identique.
+
+Dans la presse et à la télé
+
+   Une image de la campagne publicitaire du journal télévisé de M6 en
+   2009. L’idée d’évolution est encore ici traitée avec celle de
+   l’homme…Avec cette couverture, The Economist laisse penser en plus que
+   l’évolution est une progression (escalier) vers un être supérieur,
+   l’homme, ou plutôt la femme !Une utilisation de l’image de l’évolution
+   de l’homme pour vanter les mérites d’un nouveau site internet ! Par
+   forcément tres positif d’ailleurs…
+
+Sur internet
+
+   De là à penser que le brave Homer Simpson est aussi intelligent qu’un
+   singe serait une pure coïncidence…Il est vrai que sur le fond, cette
+   image est quand même proche de la réalité… du moins en ce qui concerne
+   la tendance à l’obésité de nos contemporains…Cette image dont le but
+   est de montrer une rétro-évolution du fait de la machine utilise malgré
+   tout les mêmes principes d’évolution d’un chimpanzé vers l’homme. Elle
+   doit faire partie des images les plus téléchargées sur internet…
+
+D’autres images sympathiques mais surtout plus proches de la réalité !
+
+   On peut faire dans l’humour, mais être aussi plus réel… Ces images de
+   l’évolution tirées de sites internet ou de livres pour enfants sont
+   toutefois relativement bien descriptives des ancêtres de l’homme. Elles
+   montrent la diversité de nos ancêtres sans toutefois montrer une
+   évolution faussement linéaire.
+
+   A noter le poster à droite montrant la phylogenèse des hominini qui a
+   la particularité de montrer des femelles à la place habituelle des
+   mâles ! Une nouvelle approche proposée par un enseignant.
+   A savoir, il existe une version « homme » pour les inconditionnels de
+   la testosterone !
+   En savoir plus sur Phylogenèse des hominini par Thomas Gualdi.
+   A part les interprétations de l’artiste sur la pilosité de nos
+   ancêtres, on peut supposer que nous sommes assez proches de la réalité
+   !a longue marche d’Homo sapiens : La fabuleuse histoire du bipède
+   Copyright Macagno – Editions Ellipses
+
+   Hominides.com remercie pour leur participation Yvette Deloison, Antoine
+   Balzeau, François Marchal et Jean-Luc-Voisin.
+
+   C.R.
+   Guide critique de l’évolution
+   Guillaume LecointreL’évolution une question d’actualité
+   Guillaume LecointreDarwin à la plage – L’évolution dans un transat –
+   Jean-Baptiste de Panafieu Une histoire d’évolution – Pascal Tassy
+   L’évolution des espèces – Les preuves – Tome 1 – Hervé et Poinsot
+   L’évolution des espèces – Les mécanismes – Hervé et Poinsot Le grand
+   bordel de l'évolution Le grand bordel de l’évolution
+   Léo Grasset Une belle histoire de l’Homme Ss la dir. d’Evelyne Heyer
+
+   A lire également,
+   L’étonnant destin de la frise de l’évolutiuon
+
+   Rechercher sur le site
+   ____________________ (BUTTON) Rechercher
+
+     * Un voyage Géo-Mythologique, récits fantastiques des volcans et où
+       les trouver.2 janvier 2024
+     * Art rupestre préhistorique en forêt de Fontainebleau : nouveaux
+       regards29 décembre 2023
+     * Des tracés au charbon de bois identifiés à Font-de-Gaume26 décembre
+       2023
+     * L’Art rupestre préhistorique18 décembre 2023
+     * La mâchoire de Garba IV appartient à un Homo erectus de 2 millions
+       d’années.13 décembre 2023
+
+   Sélection 2023 Noël en préhistoire
+
+   Les derniers secrets de l'Humanité - Un film de Jacques Malaterre
+
+   [INS: :INS]
+
+   adn animaux archéologie art conference conférence datation découverte
+   espagne espèce exposition femme france gravure grotte génétique
+   histoire homme homo homo sapiens image lascaux livre mammouth mobilier
+   musée néandertal néolithique os outils paléolithique parietal
+   prehistoire préhistoire préhistorique sapiens scientifique sépulture
+   théorie évolution
+
+   L'art préhistorique de l'Atlantique à la Méditerrannée - Exposition -
+   Musée d'Aquitaine - Bordeaux
+
+     * Néandertal fait son chaud – Exposition Arkeos Douai8 décembre 2023
+     * Préhistomania29 novembre 2023
+     * Néandertal – Dans les pas d’une autre humanité25 octobre 2023
+     * Les bijoux et parures les plus anciens18 octobre 2023
+     * Néandertal l’expo – Reims16 octobre 2023
+
+     * Des chiens en France il y a 11 500 à 15 000 ans… Etudes et
+       recherches
+     * Lascaux, une œuvre de mémoire Conférences
+     * Des restes de sang d’animaux sur des outils préhistoriques
+       Actualité
+     * L’art pariétal gravettien : quelles nouveautés ? Conférences
+     * Australopithecus sediba, l’évolution en mosaïque Etudes et
+       recherches
+     * Usage de matières colorantes au Paléolithique : des premières
+       traces à l’émergence de l’art pariétal Conférences
+     * Arts & Préhistoire Expositions
+     * Exploring the late Pleistocene origins of lithic technologies from
+       the Cooper’s Ferry site, Idaho, USA : Some approaches to
+       measurement and comparison Conférences
+
+   (BUTTON) prev (BUTTON) next
+   pub
+
+     * Actualité
+     * Conférences
+     * Etudes et recherches
+     * Expositions
+     * Livres
+     * Manifestations
+
+   adn animaux archéologie art conference conférence datation découverte
+   espagne espèce europe evolution exposition famille femme france gravure
+   grotte génétique histoire homme homo homo sapiens image lascaux livre
+   mammouth mobilier musée néandertal néolithique os outils paléolithique
+   parietal pourquoi prehistoire primate préhistoire préhistorique sapiens
+   scientifique sépulture théorie évolution
+
+     * Plan du site
+     * Contact
+     * Mentions légales
+
+   Copyright © 2008-2023 Hominides.com - Tous droits réservés
